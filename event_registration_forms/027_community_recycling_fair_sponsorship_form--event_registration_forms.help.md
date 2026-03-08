@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information from potential sponsors of the Community Recycling Fair. The form is intended to help us understand the sponsorship level, contact information, and promotional items that will be provided by the sponsor. The fields are designed to be straightforward and easy to complete. To ensure accuracy, please review the form carefully before submitting it.
-
-</thinking>
-
 # Community Recycling Fair Sponsorship Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # exhibition_space_release_form - Help Guide
 
 ## Purpose

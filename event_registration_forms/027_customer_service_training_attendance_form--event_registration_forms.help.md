@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Customer Service Training Attendance Form - Help Guide
 ## Purpose
 The Customer Service Training Attendance Form is a tool used to record and track attendance at customer service training sessions. This form helps to ensure that all relevant information is captured and stored accurately, making it easier to evaluate the effectiveness of the training and identify areas for improvement.

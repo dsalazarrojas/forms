@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect membership information from potential and existing members of the Tour Guides Club. The club aims to create a community of tour guides and enthusiasts who can share their experiences, expertise, and passions for travel and exploration. To ensure that each individual's data is accurate and complete, we need to clearly explain the form's purpose and the meaning of each field. This guide will help users understand what information is required and how to provide it.
-
-Before filling out the form, please ensure that you have read and understood the membership terms and conditions. If you have any questions or concerns, please don't hesitate to reach out to our team.
-
-</thinking>
-
 # Tour Guides Club Membership Form - Help Guide
 ## Purpose
 The Tour Guides Club Membership Form is designed to collect information from potential and existing members of the club. This form helps us understand your preferences, experience, and interests, which enables us to provide personalized support and resources to help you get the most out of your membership.

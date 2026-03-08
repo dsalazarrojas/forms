@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide for the "Readers Awards Sponsorship Form". This form is designed to collect information from potential sponsors about their commitment to support the Readers Awards. The form should be easy to understand and complete, and each field should be explained clearly. I will follow the provided YAML structure to create a concise and practical help guide.</thinking>
-
 # Readers Awards Sponsorship Form - Help Guide
 ## Purpose
 The Readers Awards Sponsorship Form is designed to collect information from potential sponsors about their commitment to support the Readers Awards. This form helps us understand your sponsorship details, including the award title, category, and commitment level. By providing accurate and complete information, you will help us in our evaluation process.

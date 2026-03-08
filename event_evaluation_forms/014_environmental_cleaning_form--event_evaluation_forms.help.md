@@ -1,7 +1,3 @@
-<thinking>
-This is an environmental cleaning form used to gather information about cleaning events. To avoid duplication, please ensure you are filling out the correct form for the intended purpose. If you're unsure, contact your supervisor or the person who assigned you the task to clarify.
-</thinking>
-
 # Environmental Cleaning Form - Help Guide
 ## Purpose
 This form is used to document and record environmental cleaning events. It captures relevant information about the event, including event details, personnel involved, and tasks completed.

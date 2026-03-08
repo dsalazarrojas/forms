@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect registration information for the Process Digitization Summit, an event that likely involves a gathering of individuals to discuss and explore the process of digitization in various fields or industries. The form is designed to gather details about each attendee, including their type of attendance (attendee, presenter, or sponsor), accessibility needs, and other relevant information.
-</thinking>
-
 # Process Digitization Summit Registration - Help Guide
 ## Purpose
 The Process Digitization Summit Registration form is designed to collect information from attendees, presenters, and sponsors for the Process Digitization Summit. This information will be used to plan and organize the event.

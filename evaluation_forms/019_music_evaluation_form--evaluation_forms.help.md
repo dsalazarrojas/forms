@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # music_evaluation_form - Help Guide
 ## Purpose
 This form is designed to collect information about a music piece, including its style, period, genre, length, and other notable characteristics. This data will be used for evaluation purposes.

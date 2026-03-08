@@ -1,11 +1,3 @@
-<thinking>...checking if form purpose and fields are well-defined for end-users...
-
-The effort estimation form is designed to collect information about a project's scope, timeline, resources, and potential risks. This form aims to help project managers and team members estimate the effort required to complete a project, identify potential risks, and allocate resources accordingly. Please note that this form is not intended for project approval or formal documentation purposes. Instead, it serves as a tool for internal project planning and coordination.
-
-This form is not meant to be used in situations where official project proposals or formal project plans are required. If you are unsure about the form's purpose or how to complete it, please refer to your project management guidelines or seek clarification from your project manager.
-
-</thinking>
-
 # Effort Estimation Form - Help Guide
 ## Purpose
 The effort estimation form is a tool to help project managers and team members estimate the effort required to complete a project, identify potential risks, and allocate resources. It is not intended for official project proposals or formal project plans.

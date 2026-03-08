@@ -1,9 +1,3 @@
-<thinking>
-The form is a tool to gather feedback from users about the pharmacy's grand rounds, likely used to improve the overall quality of services provided. This form should be used by users to provide their thoughts on their recent experience. Please make sure this form is not submitted multiple times for the same event, as this might lead to duplicate feedback which can be confusing for the pharmacy staff.
-
-Please note that some fields may have specific formatting requirements due to their type, for instance, the "date" field should be in MM/DD/YYYY format.
-</thinking>
-
 # Pharmacy Grand Rounds Feedback - Help Guide
 ## Purpose
 This form is for you to provide feedback about your experience with the pharmacy's grand rounds. Your input is valuable to us and will help us improve our services.

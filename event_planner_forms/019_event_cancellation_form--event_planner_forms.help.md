@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to facilitate event cancellations, allowing users to provide information about the event and reasons for cancellation. This form is intended to be filled out by customers or event organizers who wish to request cancellation of an event. 
-
-Before proceeding, ensure that you are not already in the process of canceling the event or another event in the same calendar, and that the cancellation reason is valid. Duplicate requests may be denied. If you're unsure whether this form is right for your cancellation, please ask your event planner to clarify.
-
-</thinking>
-
 # event_cancellation_form - Help Guide
 ## Purpose
 The event_cancellation_form is a form used to request cancellation of an event due to various reasons.

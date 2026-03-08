@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect evaluations and observations about a public speaker's performance. The purpose of this form is to assess the speaker's overall effectiveness and provide feedback on specific aspects of their presentation, such as their communication skills, body language, and vocal tone. This form should only be used for evaluations of public speakers, such as presentations, lectures, or talks. Please ensure that you are filling out this form for the correct purpose and not duplicating evaluations.
-
-</thinking>
-
 # public_speaking_observation_form - Help Guide
 
 ## Purpose

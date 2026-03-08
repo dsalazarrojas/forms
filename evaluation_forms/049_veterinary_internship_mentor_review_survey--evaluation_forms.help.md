@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Veterinary Internship Mentor Review Survey - Help Guide
 ## Purpose
 

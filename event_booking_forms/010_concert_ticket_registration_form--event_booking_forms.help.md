@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect registration information from attendees for a concert ticket event. The form is used to gather details such as registrant name, email, phone number, ticket category, number of tickets, attendee names, accessibility needs, payment status, special requests, and confirmation instructions. This form will help the event organizers collect accurate and complete information from attendees, ensuring a smooth registration process. It's essential to complete this form accurately to avoid any potential issues during the event.
-
-</thinking>
-
 # Concert Ticket Registration Form - Help Guide
 ## Purpose
 This form is designed to collect registration information from attendees for a concert ticket event. It helps the event organizers gather necessary details for a smooth registration process.

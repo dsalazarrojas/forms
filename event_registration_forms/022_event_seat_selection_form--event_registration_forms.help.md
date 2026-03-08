@@ -1,21 +1,3 @@
-<thinking>
-  The Event Seat Selection Form is used to select seats for an event. 
-  This form is required when attending events that are ticketed and have a seat selection process. 
-  The form is divided into several sections, which are: 
-  * Event Details: 
-    + This section is optional and provides space for general event information. 
-    + This information will help to identify the event. 
-  * Seat Preferences: 
-    + This section is required and includes a list of available seats. 
-    + The user must select one seat per section. 
-  * Additional Information: 
-    + This section is optional and provides space for additional notes. 
-    + The user can enter any notes related to the event. 
-  * Attendee Information: 
-    + This section is required and includes fields for attendee's details. 
-    + The user must enter their name, surname, email and phone. 
-</thinking>
-
 # Event Seat Selection Form - Help Guide
 
 ## Purpose

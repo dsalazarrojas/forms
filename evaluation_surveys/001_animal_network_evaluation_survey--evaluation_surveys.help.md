@@ -1,9 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Animal Network Evaluation Survey" form, I'll need to understand the form's purpose, structure, and fields. The form seems to be a survey designed to evaluate the overall experience of organizations within the Animal Network. The form has 16 fields, including text, select_one, select_multiple, and email fields. I'll aim to create an intuitive and clear guide for end-users to complete the form accurately and efficiently.
-
-</thinking>
-
 # Animal Network Evaluation Survey - Help Guide
 ## Purpose
 The Animal Network Evaluation Survey is designed to gather feedback from organizations within the Animal Network on their overall experience, satisfaction, and challenges faced. Your input will help us identify areas of improvement and strengthen the network.

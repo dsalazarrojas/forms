@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is for RSVP'ing to a homebuyer discussion. It is essential for us to know your First name, Last name, email address, phone number, and date you are planning to attend.
 
 Before filling this form, ensure that you have checked with the organiser to see if there are any duplicate entries under your name.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from judges during pie-evaluation events. This form is used to gather data on competitors, including their name, pie title, description, category, rating, comments, competitor and judge scores, and evaluation date. This form helps to efficiently collect and record the necessary information for the pie-evaluation event. To avoid duplication of effort, please ensure that the form is used only for the intended purpose and that the same data is not entered multiple times.
-</thinking>
-
 # Pie Judging Form - Help Guide
 ## Purpose
 The Pie Judging Form is a tool used to collect information from judges during pie-evaluation events.

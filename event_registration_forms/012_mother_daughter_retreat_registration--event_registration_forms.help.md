@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mother Daughter Retreat Registration - Help Guide
 
 ## Purpose

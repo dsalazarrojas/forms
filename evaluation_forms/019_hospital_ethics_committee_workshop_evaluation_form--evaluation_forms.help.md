@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather feedback and evaluations from attendees of the hospital ethics committee workshop. It is intended to capture the overall satisfaction of the attendees with the workshop, their evaluation of the topics and sessions presented, and any feedback or comments they may have. The form will collect information about the workshop attendees, facilitators, date, time, and other relevant details. This form is a crucial component of the workshop's assessment and evaluation process, and its data will be used to improve future workshops.
-
-Please note that this form is a crucial tool for gathering feedback and evaluating the effectiveness of the workshop. The information collected will help identify areas of improvement and make informed decisions for future workshops. 
-
-Before proceeding, please ensure that you have not submitted this form before, and that your feedback is accurate and truthful.
-
-</thinking>
-
 # Hospital Ethics Committee Workshop Evaluation Form - Help Guide
 ## Purpose
 The purpose of this form is to gather your feedback and evaluation of the Hospital Ethics Committee Workshop.

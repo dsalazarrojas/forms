@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Debrief Survey - Help Guide
 
 ## Purpose

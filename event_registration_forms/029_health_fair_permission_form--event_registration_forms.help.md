@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for participants to provide consent for their health information to be collected and used for a health fair event. The form is meant to gather demographic and medical information from participants, as well as gather their consent for medical screenings and treatment. This form is a mandatory requirement for all participants to complete prior to attending the health fair event.
-
-This form should only be filled out once per participant.
-
-</thinking>
-
 # Health Fair Permission Form - Help Guide
 ## Purpose
 This form is used to gather participant consent and demographic information for a health fair event.

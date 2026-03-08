@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We're creating a Camp Registration Form to help parents or guardians register their child(ren) for a camp event. We want to collect necessary information to ensure a smooth and enjoyable experience for all participants. This form will be filled out by parents or guardians to provide accurate and complete information for the camp organizers. We'll review the form for completeness and accuracy before processing the registration.
 
 # Camp Registration Form - Help Guide

@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to collect information from attendees for an outdoor movie night event. The form will be used to gather details such as event date, start and end times, contact information, and preferences for the event. This form is designed to be completed by attendees to ensure that the organizers have accurate information to manage the event smoothly.
-This form should only be used for the outdoor movie night event, and not for other types of events. Please do not fill out this form if you are not attending the outdoor movie night event.
-</thinking>
-
 # outdoor_movie_night_booking_form - Help Guide
 ## Purpose
 This form is designed to collect information from attendees for an outdoor movie night event. It will help the organizers manage the event efficiently and ensure that everyone has a great experience.

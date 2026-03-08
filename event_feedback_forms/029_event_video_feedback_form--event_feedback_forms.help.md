@@ -1,7 +1,3 @@
-<thinking>
-This guide is for users who want to submit feedback on events they have attended. The form is designed to collect feedback from multiple individuals. It is meant to be filled out by one person per submission. If you are a repeat user, please fill out the form again with your new feedback.
-</thinking>
-
 # Event Video Feedback Form - Help Guide
 ## Purpose
 This form is used to collect feedback from individuals who have attended an event. It is meant to be filled out by one person per submission. The feedback form is split into two parts: the first part is for general feedback and the second part is for rating and additional information.

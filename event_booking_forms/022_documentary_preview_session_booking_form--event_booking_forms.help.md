@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for end-users to book a documentary preview session. Its primary purpose is to collect information about the screening date, time, location, and other relevant details associated with the event. The form is not intended to collect personal data, such as contact information or payment details. 
-</thinking>
-
 # Documentary Preview Session Booking Form - Help Guide
 ## Purpose
 The Documentary Preview Session Booking Form is a tool for end-users to book a documentary preview session for an event.

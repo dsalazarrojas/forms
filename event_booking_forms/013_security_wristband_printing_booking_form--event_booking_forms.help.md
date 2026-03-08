@@ -1,11 +1,3 @@
-<thinking>
-To prevent data duplication and ensure accurate event information, please note that:
-- This form is only accessible to authorized users.
-- All fields marked as "required" must be completed to successfully submit the form.
-- If you're unsure about any field, please contact the event organizer or support team.
-- Please ensure that the event type and size match your event.
-</thinking>
-
 # Security Wristband Printing Booking Form - Help Guide
 ## Purpose
 This form is used for booking security wristbands for events. Please fill out the form with event details and customer information to book your wristbands.

@@ -1,13 +1,3 @@
-<thinking>
-This form is used to generate a quote for wedding invitation printing services. The purpose of this form is to capture essential details about the event, print specifications, and contact information from the client. This will help us to provide an accurate quote for the printing services. Before filling out this form, make sure to have the necessary details ready to ensure the quote is generated accurately.
-
-The form is designed to be completed by the wedding planners or event coordinators who will be using our services. The form will guide them through the process of providing all the required information needed for the quote.
-
-Each field in the form is carefully designed to help the client provide the necessary information for the quote. This guide will walk you through each field to ensure that you understand what information is required and how to fill out the form correctly.
-
-The following fields can be considered optional, so the client can fill them out if they are relevant to their needs.
-</thinking>
-
 # Wedding Invitation Printing Quote Request Form - Help Guide
 
 ## Purpose

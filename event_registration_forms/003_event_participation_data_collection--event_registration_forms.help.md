@@ -1,13 +1,3 @@
-<thinking>
-**This form is used to collect participation data for an event.** 
-The purpose of this form is to gather relevant information from attendees about the event they participated in. This form is used to track attendance, gather feedback, and provide insights into event participation.
-
-The form is divided into several sections, each with its own set of fields. The fields are designed to be easy to understand and fill out.
-
-Please note that the form is not meant to be duplicated or filled out multiple times. Each entry should only be submitted once per attendee.
-
-</thinking>
-
 # Event Participation Data Collection - Help Guide
 ## Purpose
 This form is used to collect participation data for an event.

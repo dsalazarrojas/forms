@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to collect information from participants and their accompanying teacher/parent for summer chess camp registration. The primary goal is to gather relevant details for the camp administrators to prepare for the participant's session. To use this form, you should be a participant, or a teacher/parent accompanying a participant. 
-
-Ensure the participant and teacher/parent information is accurate, up to date, and complete. 
-
-This form will not be used for any other purpose than the summer chess camp registration. 
-
-</thinking>
-
 # Summer Chess Camp Registration Form - Help Guide
 ## Purpose
 The Summer Chess Camp Registration Form is designed to collect essential information from participants and their accompanying teacher/parent for the summer chess camp. This information will be used by the camp administrators to prepare for the participant's session and ensure a smooth and enjoyable experience.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for participants to register for discussion sessions. It collects relevant details from the participants to ensure a smooth and productive interaction during the session. This form is not intended for internal use within the organization, but rather for external participants who want to join the discussion session. Therefore, it's essential to ensure that the form is filled out correctly to avoid duplication of efforts and ensure that the correct information is collected.
-</thinking>
-
 # discussion_session_registration_form - Help Guide
 ## Purpose
 The discussion session registration form is designed to collect relevant details from participants to facilitate a productive and engaging discussion session. This form should not be used for internal purposes within the organization, so please ensure you only fill it out if you have an interest in attending an external discussion session.

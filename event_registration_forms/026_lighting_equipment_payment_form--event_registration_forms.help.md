@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users for lighting equipment payment purposes. Before proceeding, ensure that the form is relevant to your needs and not a duplicate submission. This form is intended for individuals to provide payment details for lighting equipment purchases or rentals. If you're unsure, please contact the relevant authorities for clarification.
-</thinking>
-
 # Lighting Equipment Payment Form - Help Guide
 ## Purpose
 The Lighting Equipment Payment Form is a simple and straightforward form designed to collect information from users for the purpose of payment for lighting equipment purchases or rentals.

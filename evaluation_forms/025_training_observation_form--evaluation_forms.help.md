@@ -1,7 +1,3 @@
-<thinking>
-To create an effective and user-friendly help guide for the Training Observation Form, we must first understand the form's purpose and ensure that users can easily navigate and fill it out. This form is designed to be completed by a trainer to evaluate a trainee's performance after a training session. The form should be used to provide constructive feedback and support the trainee's growth. To avoid duplication of effort, the trainer should only complete this form for trainees who have already received training.
-</thinking>
-
 # Training Observation Form - Help Guide
 ## Purpose
 The Training Observation Form is used by a trainer to evaluate a trainee's performance after a training session. It helps the trainer to provide constructive feedback and support the trainee's growth.

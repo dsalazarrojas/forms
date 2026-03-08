@@ -1,15 +1,3 @@
-<thinking> 
-This help guide is intended for users who need to fill out the Tournament Field Access Application Form for accessing tournament fields. To ensure relevance, this guide is based on the provided form structure and field descriptions. It's designed to provide clarity on each field's purpose and required fields to complete the form accurately. Before proceeding, please review this guide carefully.
-
-This guide will cover the following key points:
-
-- Purpose: The form is used for accessing tournament fields, which may include practice and game fields.
-- How to Complete this Form: The guide will walk the user through each field, highlighting required and optional entries.
-- Field-by-Field Explanation: A detailed explanation of each field to ensure accurate completion.
-- Tips: General guidance on completing the form efficiently.
-
-</thinking>
-
 # Tournament Field Access Application Form - Help Guide
 ## Purpose
 The Tournament Field Access Application Form is used to request access to fields for practice and game events. This form is used to gather essential information from applicants, including team details, event information, and field preferences.

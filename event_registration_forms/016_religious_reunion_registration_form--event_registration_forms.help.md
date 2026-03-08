@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to register for a Religious Reunion event, which likely refers to a meeting or gathering of people from a specific religious background. The form is intended for individuals to provide their RSVP, name, contact information, and other relevant details about their attendance.
-</thinking>
-
 # Religious Reunion Registration Form - Help Guide
 ## Purpose
 The Religious Reunion Registration Form is designed to collect information from individuals planning to attend a Religious Reunion event. This form will help the event organizers track RSVPs, gather contact information, and get a sense of who will be attending.

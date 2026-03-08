@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for registering an event for the Hospital Communication Excellence Forum. It collects information about the event details, attendee information, accessibility needs, and payment methods. To determine if an event is eligible for registration, please follow the standard event registration process. This form will guide you through the required and optional fields.
-</thinking>
-
 # Hospital Communication Excellence Forum Registration - Help Guide
 ## Purpose
 This form is for event registrants to provide information about their events, allowing us to review and process their registration.

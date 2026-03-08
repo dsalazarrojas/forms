@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for registering participants for the Green Materials Workshop. This form is used to collect information about the participants attending the workshop. The form is meant to capture essential details such as participant name, workshop selection, and contact information.
-
-The form should only be filled out by participants who are interested in attending the workshop.
-
-</thinking>
-
 # green_materials_workshop_registration_form - Help Guide
 ## Purpose
 The purpose of this form is to register participants for the Green Materials Workshop.

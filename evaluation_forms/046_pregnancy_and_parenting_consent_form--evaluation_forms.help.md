@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # pregnancy_and_parenting_consent_form - Help Guide
 
 ## Purpose

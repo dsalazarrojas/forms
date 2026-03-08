@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Floral Design Setup Booking Form - Help Guide
 
 ## Purpose

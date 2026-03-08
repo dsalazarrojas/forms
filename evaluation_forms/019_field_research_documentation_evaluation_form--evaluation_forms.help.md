@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to evaluate field research documentation. It's a collection of text fields that allow users to describe their research projects in detail. The form is not affiliated with or endorsed by any specific form platform, and it's an original adaptation created using AI. It's released under CC BY 4.0 license. I will not output the YAML metadata, so I will be using my understanding of the provided data to create this help guide.
-</thinking>
-
 # Field Research Documentation Evaluation Form - Help Guide
 ## Purpose
 The Field Research Documentation Evaluation Form is designed to gather detailed information about field research projects. It's a flexible and customizable form that allows users to provide a clear and concise description of their research projects.

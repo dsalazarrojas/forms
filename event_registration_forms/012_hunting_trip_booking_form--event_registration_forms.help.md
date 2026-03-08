@@ -1,14 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a form called "Hunting Trip Booking Form" that explains its purpose, how to complete it, and each field's meaning. The form is used for booking hunting trips, and we should ensure that the user understands what information is required and what they need to do to complete it correctly.
-
-First, let's analyze the form's fields and their types to determine the best way to explain them.
-
-*   The form has 17 fields with various types, including text, number, select_one, and select_multiple.
-*   The form requires several fields to be filled in, such as "trip_details", "trip_dates", "trip_type", "guides", "accommodation", and "other_expenses".
-
-The "trip_details", "trip_dates", "trip_type", "guides", "accommodation", and "other_expenses" fields are required, indicating that they are crucial for the trip booking process.
-</thinking>
-
 # Hunting Trip Booking Form - Help Guide
 ## Purpose
 

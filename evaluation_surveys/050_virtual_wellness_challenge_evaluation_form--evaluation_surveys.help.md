@@ -1,6 +1,3 @@
-<thinking>
-The form is for gathering feedback from participants who have completed the Virtual Wellness Challenge, to evaluate their experience and provide suggestions for improvement. The form is likely to be used by the program organizers to assess the effectiveness of the challenge and make data-driven decisions for future improvements. To ensure accuracy, please ensure that the form is filled out for each participant separately and only once. If you have already filled out this form, please do not fill it out again. If you're unsure about a particular field or question, please reach out to the form administrators for clarification.</thinking>
-
 # Virtual Wellness Challenge Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from participants who have completed the Virtual Wellness Challenge. The feedback will help us understand your experience and identify areas for improvement.

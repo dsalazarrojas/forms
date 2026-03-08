@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to facilitate the booking of vendor booths for cultural events. Vendors can use this form to provide their contact information, select their booth type and size, and describe their requirements and submission deadlines. 
-
-The purpose of this form is to ensure accurate and organized data collection from vendors, making it easier for event organizers to manage and communicate with them.
-
-Before starting, please check if you have already submitted a similar form to avoid duplication of effort and unnecessary work.
-
-</thinking>
-
 # Cultural Event Vendor Booth Booking Form - Help Guide
 ## Purpose
 This form is used to book a vendor booth for a cultural event. It collects essential information from vendors, such as their contact details, booth requirements, and submission deadlines.

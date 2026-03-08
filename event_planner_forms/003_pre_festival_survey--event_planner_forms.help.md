@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from event planners and participants regarding their experience and concerns for the festival. This data will be used to gauge the success of the event and identify potential areas for improvement. Before completing this form, please ensure that you have filled it out for all relevant categories (e.g., event planners and participants). Please don't fill out this form if you've already submitted it before.
-</thinking>
-
 # Pre Festival Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from event planners and participants about their experience with the festival. The collected data will be used to analyze and improve the event in the future.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to evaluate the effectiveness and implementation of new programs or interventions in social work practices. The purpose of this form is to help social workers and administrators assess the success of their initiatives and identify areas for improvement. By providing detailed information about the program or intervention, including its goals, type, service delivery, evaluation period, and implementation details, this form aims to facilitate a comprehensive evaluation process. This form is not meant to be a one-size-fits-all solution, and users are encouraged to adapt it according to their specific needs and contexts. To ensure that the form is used effectively, please review the instructions and examples provided below.
-
-</thinking>
-
 # Social Work Practice Innovation Evaluation Form - Help Guide
 ## Purpose
 The Social Work Practice Innovation Evaluation Form is designed to support social workers and administrators in evaluating the effectiveness and implementation of new programs or interventions. This form helps to identify strengths and weaknesses, and inform future improvements.

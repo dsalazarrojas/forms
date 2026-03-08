@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure this form serves its purpose without duplication and only allows relevant information collection. This form is intended for baby shower organizers to provide supplies orders in a structured and organized manner. Each field is critical in ensuring the right supplies reach the right people at the right time. We don't want to collect unnecessary information or create redundancy.</thinking>
-
 # Baby Shower Supply Order Form - Help Guide
 ## Purpose
 This form is designed for baby shower organizers to order supplies for their events. It helps to ensure that the right supplies are ordered and delivered on time.

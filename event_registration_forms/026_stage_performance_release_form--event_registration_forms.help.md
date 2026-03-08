@@ -1,7 +1,3 @@
-<thinking>
-This form is used for event organizers and performers to release performance information, including event details, recording and broadcast information, and agreements. This form ensures that all necessary details are collected and stored in a structured format for reference and future use.
-</thinking>
-
 # Stage Performance Release Form - Help Guide
 ## Purpose
 This guide explains how to complete the Stage Performance Release Form.

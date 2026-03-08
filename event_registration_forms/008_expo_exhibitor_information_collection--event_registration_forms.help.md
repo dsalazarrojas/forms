@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from exhibitors participating in an expo. The purpose of this form is to gather details about the exhibitor, their company, and their participation in the event. The form should be completed by the exhibitor to provide accurate and relevant information to the expo organizers. 
-
-It is assumed that the form is being filled out by authorized representatives of the exhibitor's company. The fields are not mandatory, but it's recommended that the exhibitor provide as much information as possible to ensure a smooth and successful participation in the event.
-
-</thinking>
-
 # Expo Exhibitor Information Collection - Help Guide
 ## Purpose
 This form is used to collect information from exhibitors participating in an expo. It helps us to gather details about the exhibitor, their company, and their participation in the event.

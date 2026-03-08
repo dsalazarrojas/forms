@@ -1,6 +1,3 @@
-<thinking>
-This help guide should cover all the essential fields and instructions for the event planner forms. Before creating the guide, I should note that the form is designed for planning catering orders, which is a crucial part of event management. To avoid duplication and ensure accuracy, this guide will cover each section of the form step-by-step, making it easy for end-users to understand and fill out the form correctly. The guide will also cover fields that are marked as required and provide explanations for any fields that may be unclear or require further explanation.</thinking>
-
 # Sample Catering Order Form - Help Guide
 ## Purpose
 This form is designed for event planners to collect information for catering orders. Please fill out the form accurately to ensure that your catering order is processed correctly.

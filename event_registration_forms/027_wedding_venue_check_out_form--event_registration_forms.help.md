@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to aid wedding event planners in verifying the status of rental properties after an event has taken place. The form should be used by the event planner to provide accurate information about the rental venue's condition and any potential issues or damages that occurred during the event. This is a simple, straightforward form meant to reduce the need for extensive paperwork and facilitate smooth communication between the event planner and the rental venue. It should not be used to collect sensitive or personal information. The form is intended to be used only for events that have already been hosted at the rental venue.
-</thinking>
-
 # wedding-venue-check-out-form - Help Guide
 ## Purpose
 This form is designed to aid wedding event planners in verifying the status of rental properties after an event has taken place.

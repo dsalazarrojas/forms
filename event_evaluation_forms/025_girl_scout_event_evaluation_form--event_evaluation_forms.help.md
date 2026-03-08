@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to collect feedback from Girl Scouts who have attended events hosted by their organization. The purpose of this form is to help the organization understand their attendees' experiences, opinions, and preferences. The form is designed to be straightforward and easy to complete, with clear questions that guide the respondent through their evaluation. This guide will walk you through each section of the form, explaining what each field means and how to complete it. Make sure you've attended an event before filling out this form, as your feedback will help improve future events!</thinking>
-
 # Girl Scout Event Evaluation Form - Help Guide
 
 ## Purpose

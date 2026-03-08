@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wedding Dress Quiz - Help Guide
 
 ## Purpose

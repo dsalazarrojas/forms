@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Reunion Location Preference Survey - Help Guide
 ## Purpose
 This form is used to collect information from attendees on their preferred location for the reunion, their likelihood of attending, and other relevant details such as dates and contact information.

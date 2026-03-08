@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information about an event for the purposes of event registration. The form is meant to capture details about the event organizer, event name, date, time, location, and sponsorship information. It is primarily used to register an event and ensure its inclusion in the event calendar.
-
-The form is meant to be completed by the person or organization sponsoring the event, and the information provided will be used to verify the event's legitimacy and details.
-
-Before submitting this form, please make sure to fill out all required fields accurately and thoroughly.
-
-</thinking>
-
 # Event Merit Form - Help Guide
 ## Purpose
 This form is used to register an event with the system, ensuring its inclusion in the event calendar.

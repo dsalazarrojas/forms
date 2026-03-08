@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather information from potential volunteers for the music festival. The form aims to collect contact and volunteer information, including their available shifts and volunteer hours. It is essential to ensure that volunteers are correctly matched with suitable shifts to maximize their contribution to the festival.
-
-Before filling out the form, please ensure you have not already registered as a volunteer for this event.
-
-</thinking>
-
 # Music Festival Volunteer Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential volunteers for the music festival. It is used to match volunteers with suitable shifts and maximize their contribution to the festival.

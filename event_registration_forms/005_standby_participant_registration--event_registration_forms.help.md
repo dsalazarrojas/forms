@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Standby Participant Registration - Help Guide
 
 ## Purpose

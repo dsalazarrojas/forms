@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to gather visitor information for administrative purposes, ensuring that visitors provide accurate contact details and a clear explanation of their visit. The form is designed for optional completion and will not affect the processing of a visitor's request, allowing individuals to provide their information without committing to a specific visit or activity. 
-
-This form will be used by various stakeholders, including event planners, event staff, and other visitors. It is essential that the information collected is accurate and up-to-date to facilitate a smooth experience for all parties involved. 
-
-To avoid duplication, this form will only be filled out once per visit. 
-
-</thinking>
-
 # Visitor Information Form - Help Guide
 ## Purpose
 The Visitor Information Form is a simple and straightforward form designed to collect essential visitor information. It will be used by event planners, event staff, and other visitors to gather relevant details about the visitors.

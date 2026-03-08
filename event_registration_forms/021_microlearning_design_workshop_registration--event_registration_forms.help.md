@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed for attendees to register for a "Microlearning Design Workshop" event. The purpose of this form is to collect information from potential attendees, such as their names, session preferences, and any special requirements they may have. The form is intended to be user-friendly and easy to complete, and the fields are explained below to ensure that attendees understand what is required and how to complete the form accurately.
-
-The form collects information across 3 pages: "Attendee Details", "Session Preferences", and "Requirements". Each page is designed to be self-explanatory, with clear labels and hints to guide the attendee through the registration process.
-
-</thinking>
-
 # Microlearning Design Workshop Registration - Help Guide
 ## Purpose
 The Microlearning Design Workshop Registration form is designed for attendees to register for a "Microlearning Design Workshop" event. The form collects information about the attendees, their session preferences, and any requirements they may have.

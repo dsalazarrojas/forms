@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to gather feedback from workshop participants about their experience with the workshop. It's designed to collect ratings, comments, and suggestions to help identify areas of improvement and make future workshops more engaging and effective. To ensure the feedback is valuable, please complete the form thoroughly and truthfully. This form will be reviewed internally and may be shared with the workshop organizers to help improve future events.
-</thinking>
-
 # Judging Workshop Feedback Survey - Help Guide
 ## Purpose
 This guide will walk you through the Judging Workshop Feedback Survey form, explaining each field and how to complete it.

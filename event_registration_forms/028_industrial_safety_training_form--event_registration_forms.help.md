@@ -1,13 +1,3 @@
-<thinking>
-This form is used to register participants for industrial safety training sessions. The form is designed to collect information about the participant, including their training info, safety info, and contact details. It's likely used by safety managers or training coordinators to keep track of who has completed the training and their status. 
-
-Please note that the form is not intended for general public use and should only be used within the organization. If you are not authorized to use this form, please refrain from accessing it. 
-
-The form is divided into multiple pages, each with a specific set of fields. Please review the form carefully to ensure that you provide accurate and complete information. 
-
-To prevent data duplication, the form should only be submitted once per participant. If a participant has already been registered, do not resubmit their information.
-</thinking>
-
 # Industrial Safety Training Form - Help Guide
 ## Purpose
 This form is designed to register participants for industrial safety training sessions. 

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form, "corporate_retreat_feedback_assessment_form," is to collect feedback and assessment from participants after a corporate retreat. It is likely used for internal evaluation and improvement of corporate events. Before completing this form, please ensure you are not duplicating your previous responses, as it is designed to collect unique and valuable insights from each participant.
-</thinking>
-
 # corporate_retreat_feedback_assessment_form - Help Guide
 ## Purpose
 The "corporate_retreat_feedback_assessment_form" is designed to collect feedback and assessment from participants after a corporate retreat.

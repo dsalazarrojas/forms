@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect feedback from participants in a workshop or training session, aiming to gather insights into the performance of the client workshop. It is essential to ensure that the form is used for its intended purpose and not for other unrelated use cases. Please note that this form is a generic version and may need customization based on specific workshop requirements.
-
-The primary goal of this form is to evaluate the client workshop's performance from the participant's perspective. By completing this form, participants will be providing valuable feedback that can help improve future workshops and ensure that they meet the needs and expectations of their attendees.
-
-Before proceeding, please ensure that this form is not being used for any other purpose or for duplicate efforts.
-</thinking>
-
 # Client Workshop Performance Review Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from workshop participants, helping us to evaluate the performance of the client workshop and make informed decisions for future events.

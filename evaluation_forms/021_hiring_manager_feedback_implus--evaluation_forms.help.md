@@ -1,5 +1,3 @@
-<thinking>...checking for relevance and non-duplication...</thinking>
-
 # Hiring Manager Feedback Implus - Help Guide
 ## Purpose
 The Hiring Manager Feedback Implus form is designed to gather feedback from hiring managers on the performance of their team members. It helps to identify areas of improvement and areas of excellence, enabling data-driven decision-making and personnel development. This form should be completed by hiring managers to provide their honest and constructive feedback on their team members' performance.

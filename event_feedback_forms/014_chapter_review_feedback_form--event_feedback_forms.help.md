@@ -1,7 +1,3 @@
-<thinking>
-This form is meant for collecting feedback from attendees or members after a chapter event. It is used to gauge overall satisfaction, relevance of session topics, volunteer interest, and gather additional comments. This form is typically filled out by attendees immediately after the event. Please fill out this form completely and accurately to provide valuable feedback. Note: If a field is marked as optional, but you want it to be mandatory in your specific case, use the "force" attribute in the form settings. 
-</thinking>
-
 # Chapter Review Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from chapter members or attendees after a chapter event, helping to improve future events.

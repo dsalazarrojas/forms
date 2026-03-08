@@ -1,5 +1,3 @@
-<thinking>...checking that this form is for workshop registration and payment information collection, and that it's not a duplicate task... verifying that this is a payment form for events, workshops, and workshops registration...</thinking>
-
 # Workshop Registration Payment Form - Help Guide
 ## Purpose
 This form is used to collect registration and payment information for workshops. Please fill out the form with your details to register for a workshop and complete the payment process.

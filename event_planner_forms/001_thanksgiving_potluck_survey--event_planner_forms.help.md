@@ -1,32 +1,3 @@
-<thinking>
-This form is designed to collect information from attendees of a Thanksgiving potluck event. The form is used to gather details about each dish brought to the event, including the name, description, and type of dish. This information will help the host determine the menu and plan the event accordingly.
-
-To avoid duplicate submissions, the form will only accept one submission per person. If someone has already submitted their information, it will not be accepted again.
-
-The form will be used to display a list of all the dishes brought to the event, along with their descriptions and types. This list will be visible to all attendees, allowing them to see what others are bringing and plan their meals accordingly.
-
-The form is split into several fields, including:
-
-* Main Info (page 1): A general description of the event and the dish
-* Name: The name of the person bringing the dish
-* Name of Host: The name of the person hosting the event
-* Email: An optional field for the person bringing the dish to enter their email address
-* Phone: An optional field for the person bringing the dish to enter their phone number
-* Event Date: The date of the event
-* Event Time: The time of the event
-* Event Location: The location of the event
-* Number of Guests: The number of guests the person bringing the dish is planning to bring for
-* Dish to be Brought: A description of the dish
-* Name of Dish Brought: The name of the dish
-* Main Course: A select-one field for the type of main course
-* Side Dish: A select-multiple field for the type of side dish
-* Dessert: A select-one field for the type of dessert
-* Comments: Any additional comments about the dish
-
-Please note that some fields are marked as optional, but it's highly recommended to provide as much information as possible to ensure that the host can plan the event accurately.
-
-</thinking>
-
 # thanksgiving_potluck_survey - Help Guide
 ## Purpose
 This form is designed to collect information from attendees of a Thanksgiving potluck event.

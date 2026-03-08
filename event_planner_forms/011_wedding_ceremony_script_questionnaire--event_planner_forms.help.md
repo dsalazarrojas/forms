@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for a wedding ceremony script. The form is designed to gather details about the ceremony location, date, time, type, and other important aspects that will be reflected in the script. The form is likely to be used by wedding planners or event coordinators to create a personalized script for the wedding ceremony.
-
-Before filling out this form, please ensure that you have all the necessary information ready to provide accurate and complete responses. It is recommended to review the form carefully to avoid any duplication of information.
-
-The form is divided into different sections, each with its own set of fields. Please fill out the form in the following sections:
-
-</thinking>
-
 # Wedding Ceremony Script Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information for a wedding ceremony script to create a personalized and memorable experience for the couple.

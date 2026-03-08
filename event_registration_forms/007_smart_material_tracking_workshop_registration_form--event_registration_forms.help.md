@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for users to register for the Smart Material Tracking Workshop. It is essential to fill out this form accurately to ensure that the necessary information is collected for the workshop organizers and attendees. Please note that the form requires a unique combination of personal and workshop-specific information to ensure that attendees can be contacted and informed about the workshop details.
-
-To avoid confusion, ensure that you are registering for the correct workshop and workshop date. If you are unsure about any of the details, please contact the workshop organizers directly.
-
-Additionally, this form is a single-use registration form and should not be used for any other purpose. If you need to register for multiple workshops or events, please use a separate form for each event.
-
-Please review the instructions below to ensure that you complete the form correctly:</thinking>
-
 # Smart Material Tracking Workshop Registration Form - Help Guide
 ## Purpose
 This form is a registration form for the Smart Material Tracking Workshop. It is used to collect information about attendees, including their personal details and workshop-specific information.

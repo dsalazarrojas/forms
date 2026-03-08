@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to register and manage event ticket sales for membership events. The form is designed for both public and private events, allowing users to select which type of event they are registering for. The form is used for various purposes such as event registration, payment, and contact information collection. This form may be used by both event organizers and attendees to manage event ticket sales and registrations.
-
-</thinking>
-
 # membership_event_ticket_sales - Help Guide
 ## Purpose
 

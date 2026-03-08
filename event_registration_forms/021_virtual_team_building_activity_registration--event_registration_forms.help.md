@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information for virtual team building activities. It is intended for team members to register their attendance and provide necessary details about the event. Before filling out this form, please ensure that you are registering for a virtual event and not a physical one. If you are unsure, please contact the event organizer or refer to the event invitation.
-
-</thinking>
-
 # Virtual Team Building Activity Registration - Help Guide
 ## Purpose
 This form is used to collect information for virtual team building activities, including team details, dates, and registration settings.

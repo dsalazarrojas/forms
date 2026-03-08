@@ -1,16 +1,3 @@
-<thinking>
-This form is for registering participants for the data visualization training sessions. It is designed to collect information about the participants, including their contact details, role, and preferences for the training session.
- 
-To ensure that all relevant fields are filled, the form has a mix of text, date, time, and select fields, depending on the type of information required. Each field is labeled clearly, and the required fields are marked as such.
- 
-The form will be used to create a participant list for the training sessions, so it's essential to provide accurate and complete information to get the most out of the training.
- 
-The form should not be used for duplicate registrations. If you are registering multiple participants, please use the provided "Attachments" field to attach a single CSV or Excel file containing all the registrations.
- 
-Please fill in the form carefully, as any errors might lead to incorrect participant information in the participant list.
- 
-</thinking>
-
 # data_visualization_training_registration_form - Help Guide
 
 ## Purpose

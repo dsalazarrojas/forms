@@ -1,7 +1,3 @@
-<thinking>
-This guide is for internal use only. Ensure that you've reviewed the form's requirements and guidelines before proceeding.
-</thinking>
-
 # Summer Camp Enrollment Form - Help Guide
 ## Purpose
 The Summer Camp Enrollment Form is used to collect information from parents or guardians of children attending the summer camp. It helps the camp staff to prepare for the child's stay, understand their needs, and ensure their safety.

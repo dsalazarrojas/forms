@@ -1,17 +1,3 @@
-<thinking>
-
-This form is designed for users to register for club membership. The form is used to collect basic information about the user, including full name, email address, phone number, club name, membership start date, membership duration, member status, and payment information. The form is split into several sections: Basic Information, Membership Information, Events and Activities, Payment Information, and Terms and Conditions. 
-
-Before creating this form, ensure that you have the necessary permissions and information to register for club membership. 
-
-Please note that the form requires a valid email address and phone number for communication purposes. 
-
-Also, ensure that your payment method is selected correctly and payment status is updated accordingly. 
-
-Please review the terms and conditions before submitting the form.
-
-</thinking>
-
 # Club Registration - Help Guide
 ## Purpose
 This form is used to register for club membership, providing essential details for the club management to process your application.

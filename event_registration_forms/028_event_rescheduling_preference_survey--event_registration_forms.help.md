@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Event Rescheduling Preference Survey - Help Guide
 
 ## Purpose

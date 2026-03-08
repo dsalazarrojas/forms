@@ -1,9 +1,3 @@
-<thinking>
-This guide will provide an explanation of the Sponsorship Survey form and its purpose. The form is used to collect information from sponsors about their event or activity, including details about the organization, contact person, and financial terms.
-The form is intended to gather relevant information from sponsors, such as the type of sponsorship, amount, and payment terms. This information will be used to facilitate the processing of sponsorships.
-Please note that this form is for internal use, and the information collected will be used for administrative purposes.
-</thinking>
-
 # Sponsorship Survey - Help Guide
 ## Purpose
 This form is designed to collect information from sponsors about their event or activity, including details about the organization, contact person, and financial terms.

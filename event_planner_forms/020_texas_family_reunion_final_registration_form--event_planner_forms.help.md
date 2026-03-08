@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that users understand the purpose of this form and how to complete it correctly to avoid errors and ensure that the necessary information is collected for the event planners. This form is intended to gather information from attendees for the Texas Family Reunion event, and it's crucial that users fill it out accurately and completely. Please review the form carefully before proceeding to ensure that you're filling it out correctly.
-</thinking>
-
 # Texas Family Reunion Final Registration Form - Help Guide
 ## Purpose
 This form is designed to gather information from attendees for the Texas Family Reunion event. Please fill it out carefully to ensure that your registration is complete and accurate.

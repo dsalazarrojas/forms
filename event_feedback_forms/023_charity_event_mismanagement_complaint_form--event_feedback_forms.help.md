@@ -1,9 +1,3 @@
-<thinking>
-
-The "Charity Event Mismanagement Complaint Form" is designed to provide a structured way for complainants to report issues or concerns they have experienced at charity events managed by our organization. This form will help us gather relevant information to investigate and address complaints effectively. Please ensure that you only submit a complaint if you have not already reported the same issue to the organization. If you have previously complained about the same issue, please indicate this in the form.
-
-</thinking>
-
 # Charity Event Mismanagement Complaint Form - Help Guide
 ## Purpose
 This form is meant to collect information about mismanagement issues or concerns that occurred at charity events managed by our organization. Please fill out this form to help us understand the details of the issue and take corrective action.

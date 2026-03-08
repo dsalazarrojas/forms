@@ -1,14 +1,3 @@
-<thinking>
-This form is designed for gathering feedback from users who have interacted with a culinary team or organization. The purpose of this form is to collect data on the user's culinary role, their overall rating of the experience, how often they interact with the team, and any additional feedback they may have. This form is likely used for quality control and improvement purposes within the culinary team or organization.
-
-The form is designed to be flexible and allow users to provide feedback on various aspects of their experience. Users can select one or multiple culinary roles they have interacted with, provide an overall rating, indicate how often they interact with the team, and offer additional comments.
-
-To ensure accurate and relevant feedback, the form is structured to collect detailed information without being too intrusive or time-consuming. This form can be completed by anyone who has interacted with the culinary team, including customers, employees, or partners.
-
-To avoid duplication of feedback, this form is designed to be completed once for each unique interaction or experience with the culinary team. Completing this form will help the team to better understand the users' needs and preferences and make informed decisions for improvement.
-
-</thinking>
-
 # Culinary Roles Feedback Survey - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a user-facing help guide for the "Networking Event Check In Form". This guide will cover the purpose of the form, how to complete it, and a field-by-field explanation of each field.</thinking>
-
 # Networking Event Check In Form - Help Guide
 ## Purpose
 The "Networking Event Check In Form" is designed to collect information from attendees about their event details, contact info, role, and event type. This form will help you to efficiently register attendees for the networking event and keep a record of their participation.

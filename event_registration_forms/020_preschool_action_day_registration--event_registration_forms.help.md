@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for end-users who are registering their child for a Preschool Action Day event. The purpose of this form is to collect relevant information from parents to ensure a smooth and safe experience for their child. Please note that this form is not a duplicate of any other registration form, and it's designed specifically for the Preschool Action Day event. Before starting the registration process, make sure you have all the necessary information and details ready to provide accurate and complete answers. This guide will walk you through each field of the form to help you understand what to expect and how to complete it correctly.
-</thinking>
-
 # Preschool Action Day Registration - Help Guide
 ## Purpose
 This form is designed to collect information from parents to register their child for the Preschool Action Day event. This event is a fun and educational activity for children to learn and engage in various activities. By filling out this form, you will be able to provide essential details about your child's participation, including their availability, event preferences, and any medical conditions they may have.

@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will now generate a user-facing help guide for this form in Markdown format. This guide will cover the form's purpose, step-by-step instructions on how to complete it, and a field-by-field explanation of each section.</thinking>
-
 # Client Evaluation Form - Help Guide
 
 ## Purpose

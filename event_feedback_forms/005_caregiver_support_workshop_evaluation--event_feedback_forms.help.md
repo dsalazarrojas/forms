@@ -1,13 +1,3 @@
-<thinking>
-We need to create a user-facing help guide that provides clear instructions on how to complete the "Caregiver Support Workshop Evaluation" form. This guide should help caregivers understand the purpose of the form, how to fill it out, and what each field means. The form seems to be designed to gather feedback on a workshop they attended, focusing on various aspects such as the workshop title, date, content, and facilitator performance. It's crucial that the help guide is clear, concise, and practical to ensure caregivers can provide valuable feedback.
-
-The form has several sections, including Workshop Details, Participant Feedback, Facilitator Evaluation, Logistics and Suggestions, and Additional Comments. Each section has fields that require specific types of input, such as text, date, number, or select_one.
-
-To create an effective help guide, we should prioritize explaining each field in a way that makes sense to the user. For instance, we should clarify what type of input is required for the workshop title and date fields, and provide examples for the select_one fields like the time allocation and referral likelihood.
-
-By following these steps, the help guide will ensure that caregivers can easily navigate the form and provide valuable feedback that will help improve future workshops.
-</thinking>
-
 # Caregiver Support Workshop Evaluation - Help Guide
 ## Purpose
 This form is designed to gather feedback from caregivers who attended a workshop on their experience, satisfaction, and overall impression of the event. Your input will help us identify areas of improvement and provide better support in the future.

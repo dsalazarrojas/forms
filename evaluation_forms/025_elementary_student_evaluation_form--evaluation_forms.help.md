@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to be used by educators or administrators to evaluate an elementary student's progress, strengths, and areas of improvement. It's crucial to complete this form in a way that provides clear and actionable feedback to students, parents, and educators. Please ensure that you have a clear understanding of the student's overall performance and the specific areas to focus on when filling out this form.
-
-To confirm, you are using this form in the context of an elementary student evaluation. If not, please consider using a different form. This form is not intended for other purposes. Also, please be aware of the fields marked as required, as they are crucial for the form's functionality.
-
-Please make sure to fill out all required fields and avoid leaving any section blank. If you're unsure about any field or section, please consult with the relevant parties or review the provided instructions carefully.</thinking>
-
 # Elementary Student Evaluation Form - Help Guide
 ## Purpose
 The Elementary Student Evaluation Form is designed to gather information about an elementary student's progress, strengths, and areas of improvement. It provides a framework for educators and administrators to assess a student's performance and make informed decisions about their development.

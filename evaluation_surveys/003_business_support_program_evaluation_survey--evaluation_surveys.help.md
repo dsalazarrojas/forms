@@ -1,12 +1,3 @@
-<thinking>
-This form is a Business Support Program Evaluation Survey, which aims to gather feedback from participants about their experience with the program. The survey is designed to collect information about their overall satisfaction, the quality of support provided, and other aspects of the program. This form is intended for internal use, and the data collected will help us evaluate and improve the program. Please ensure that you complete this form accurately and honestly, so your feedback can help us make informed decisions about future program development. Before starting the survey, please ensure that you are completing it for the first time and not duplicating any existing submissions.
-
-This form is designed to collect information about your experience with the program. Please complete it in a way that reflects your genuine thoughts and opinions. If you have any questions or need help, do not hesitate to reach out to us.
-
-Please note that while this form is not mandatory, your input is invaluable for us to improve the program. We appreciate your time and effort in completing this form.
-
-</thinking>
-
 # Business Support Program Evaluation Survey - Help Guide
 
 ## Purpose

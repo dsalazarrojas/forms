@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a form for ordering boxed lunches for an event. The form collects contact information, event details, and menu preferences to fulfill an order. The form is designed to capture the following information: contact name, email, and phone number; event date; preferred delivery time and location; total number of lunches needed; lunch package type; sandwich preference; bread type preference; side dish options; beverage preference; special dietary restrictions; special requests or notes; and budget per lunch. This form seems to be relevant to event planners or coordinators who need to order lunches for a group of people.
-</thinking>
-
 # Boxed Lunch Order Form - Help Guide
 ## Purpose
 This form is used to order a batch of lunches for an event. It captures necessary contact and event details, as well as menu preferences to fulfill the order.

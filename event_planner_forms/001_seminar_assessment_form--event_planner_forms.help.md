@@ -1,9 +1,3 @@
-<thinking>
-
-This guide is intended to assist users in filling out the "Seminar Assessment Form" in an efficient and accurate manner. This form is used to gather feedback and opinions from attendees of seminars, which helps organizers and presenters improve their future events. Please make sure you understand the purpose of this form and have any necessary information readily available before starting to fill it out. If you have already completed this form before, please ensure that you do not duplicate any responses, as this will help in evaluating the overall feedback.
-
-</thinking>
-
 # Seminar Assessment Form - Help Guide
 ## Purpose
 The seminar assessment form is designed to collect feedback and opinions from attendees on the seminar they attended. Your input is valuable in helping us improve future events.

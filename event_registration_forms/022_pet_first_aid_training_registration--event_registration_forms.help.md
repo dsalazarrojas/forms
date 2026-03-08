@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to register for a pet first aid training course. The form collects information from the user such as their contact information, pet details, and payment method. The training details include the date and time of the training, location, and session type. The form also asks users to confirm that they have read the course policies.
-</thinking>
-
 # Pet First Aid Training Registration - Help Guide
 ## Purpose
 This guide explains how to complete the Pet First Aid Training Registration form.

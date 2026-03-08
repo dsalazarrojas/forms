@@ -1,7 +1,3 @@
-<thinking>
-**Internal reasoning**: This form is designed for customers to register for the Black Friday virtual queue, which allows them to receive an entry position in a virtual queue for a specific Black Friday sale. The form is meant to gather relevant information from customers to manage the queue and provide updates to customers. The form is only to be completed if the customer has not already registered through other means.
-</thinking>
-
 # Black Friday Virtual Queue Form Template - Help Guide
 ## Purpose
 This form is used for customers to register for the Black Friday virtual queue to receive an entry position in the queue.

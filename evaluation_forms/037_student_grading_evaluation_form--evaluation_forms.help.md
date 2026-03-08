@@ -1,10 +1,3 @@
-<thinking>
-This form is used to assess a student's work and progress in a class by instructors or evaluators. It is intended to ensure that each student receives an individualized evaluation of their skills and performance, and that the instructor can provide constructive feedback to help the student improve. The evaluation form is usually used at the end of a course or a specific module to gather information about the student's strengths and weaknesses. To avoid duplication, the form should only be filled out once per course/module.
-
-The evaluation form is designed to be straightforward and easy to fill out. Each section is self-explanatory, and the labels and hints are provided to guide the user through the process.
-
-Below is the user-facing help guide for the form.</thinking>
-
 # Student Grading Evaluation Form - Help Guide
 ## Purpose
 The Student Grading Evaluation Form is used to assess a student's work and progress in a class. It is intended to provide instructors or evaluators with a structured way to evaluate each student's skills and performance.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from event organizers about their product sampling booth preferences. This form is used to ensure that the event organizers' needs are met, and to provide them with a smooth experience during the event. Before proceeding, it's essential to review the form carefully to avoid any potential issues during the event.
-</thinking>
-
 # Product Sampling Booth Booking Form - Help Guide
 ## Purpose
 This form is designed to gather information from event organizers about their product sampling booth preferences. Please fill out the form to ensure that your event goes smoothly and that your product sampling booth is well-prepared.

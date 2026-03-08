@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to evaluate the road test, a series of tests conducted on a truck or vehicle to assess its performance and safety. This form collects data from various tests, including names, scores, and comments, to provide an overview of the road test process. 
-
-This form is designed to help evaluate the road test by providing a structured format to collect relevant information, including test results, dates, and signatures. 
-
-The form should not be used to collect redundant or irrelevant information, nor should it be used as a duplicate or substitute for other evaluation forms.
-
-</thinking>
-
 # Logistics Road Test Evaluation - Help Guide
 ## Purpose
 

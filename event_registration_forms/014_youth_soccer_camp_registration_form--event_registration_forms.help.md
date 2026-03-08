@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect relevant information from parents or guardians of youth soccer players registering their children for a soccer camp. This form likely aims to gather contact and demographic details from the parents, as well as obtain their consent for their child's participation in the camp. 
-
-The form consists of three pages: Athlete Information, Parent or Guardian Information, and Consent and Acknowledgment. 
-
-The form's purpose and structure imply that it is designed for parents or guardians to register their child's information and provide necessary consent for the child to participate in the camp. It is reasonable to assume that the form may also be used for communication purposes with the parents or guardians, or for the management of event logistics. However, without further information, these are just reasonable inferences. 
-
-Please ensure that the form and its purpose align with your organization's actual requirements before using it. If you need to make any changes or adjustments, please do so.
-
-</thinking>
-
 # Youth Soccer Camp Registration Form - Help Guide
 
 ## Purpose

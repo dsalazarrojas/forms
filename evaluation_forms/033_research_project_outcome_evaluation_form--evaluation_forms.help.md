@@ -1,9 +1,3 @@
-<thinking>
-**Form Purpose**
-The "research_project_outcome_evaluation_form" form is designed to gather feedback and evaluation data on completed research projects. It is used by project leads to provide information on project details, evaluation questions, feedback, project outcome, date and time completed, and contact information (email and phone number). This form helps to ensure that all necessary data is collected and recorded in a structured manner.
-The form is intended for completion by project leads who have finished a research project and need to provide an update on their project's status.
-</thinking>
-
 # research_project_outcome_evaluation_form - Help Guide
 ## Purpose
 The "research_project_outcome_evaluation_form" form is used by project leads to provide an update on their completed research project. It ensures that all necessary data is collected and recorded in a structured manner.

@@ -1,7 +1,3 @@
-<thinking>
-This form was created using AI as part of a larger effort to generate forms based on public metadata from various surveys and topics. The Event Seating Arrangement Complaint Form is designed to collect feedback on event seating arrangements to help organizers and venue owners identify areas for improvement and provide better experiences for their attendees. Before filling out this form, please take a moment to review the questions and ensure you're providing relevant and specific feedback. If you've already submitted feedback on the same event, you may be able to skip filling out this form, as it's designed to collect unique and additional input.
-</thinking>
-
 # Event Seating Arrangement Complaint Form - Help Guide
 
 ## Purpose

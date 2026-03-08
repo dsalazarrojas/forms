@@ -1,9 +1,3 @@
-<thinking>
-
-To prevent duplication and non-relevance, the "Virtual Concert Registration Form" should only be submitted for users who are interested in attending the virtual concert and want to provide their contact information for further communication. This form is not meant for general feedback, complaints, or other purposes. 
-
-</thinking>
-
 # virtual-concert-registration-form - Help Guide
 ## Purpose
 The "Virtual Concert Registration Form" is designed to gather information from users interested in attending a virtual concert. The form collects contact information, concert preferences, and event details to ensure the user is properly informed and registered for the event.

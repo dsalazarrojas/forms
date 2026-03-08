@@ -1,7 +1,3 @@
-<thinking>
-We are designing a help guide for a Soccer Player Evaluation Form. This form is used to evaluate the skills and abilities of soccer players. The purpose of this form is to collect data on a soccer player's technical skills, such as their ball handling and shooting abilities, as well as their tactical skills, like strategy and decision-making. The form also assesses their physical skills, including speed, strength, and agility. Additionally, their psychological skills, like leadership and teamwork, are also evaluated. The overall rating is a score out of 10 that represents the player's performance based on their skills.
-</thinking>
-
 # Soccer Player Evaluation Form - Help Guide
 ## Purpose
 The Soccer Player Evaluation Form is used to assess a soccer player's skills and abilities in a standardized and objective way. It is designed to help coaches, trainers, and evaluators make informed decisions about a player's fitness for a team or a specific position.

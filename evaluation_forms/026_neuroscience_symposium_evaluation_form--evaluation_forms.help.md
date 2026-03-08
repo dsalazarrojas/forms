@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to evaluate the Neuroscience Symposium, a scientific conference where researchers and professionals in the field of neuroscience gather to share their knowledge and findings. The evaluation form is intended to capture feedback from participants on various aspects of the event, including the session titles, presenter names, evaluation, date, time, feedback, email address, and phone number. This form will help organizers and attendees assess the quality and effectiveness of the symposium.
-
-Please note that this form is not intended to be a comprehensive assessment of the symposium. Rather, it is a brief and concise evaluation form to gather general feedback and suggestions for improvement.
-
-This form will likely be completed by participants who attended the symposium. To avoid duplication, please ensure that the same form is not completed by the same individual twice.
-
-</thinking>
-
 # Neuroscience Symposium Evaluation Form - Help Guide
 ## Purpose
 The Neuroscience Symposium Evaluation Form is designed to gather feedback from participants on various aspects of the event, including session titles, presenter names, evaluation, date, time, feedback, email address, and phone number.

@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that our event registration forms are clear and easily understandable by our end-users. This guide will be used to help explain the purpose and usage of the "corporate_sponsorship_consent_form" in a way that is concrete and practical.
-We also need to check that this form purpose and field explanations are in line with the event registration forms' actual usage. If there's something unclear or out of line, we need to discuss it before publishing this guide.
-</thinking>
-
 # corporate_sponsorship_consent_form - Help Guide
 ## Purpose
 The corporate sponsorship consent form is a mandatory document that requires corporate sponsors to confirm their agreement and sign a date to secure a spot at your event.

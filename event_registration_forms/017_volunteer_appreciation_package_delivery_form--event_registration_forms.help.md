@@ -1,19 +1,3 @@
-<thinking>
-
-The form "Volunteer Appreciation Package Delivery Form" is used to track the delivery details of a package to a volunteer who has expressed appreciation for their service. This form ensures that the delivery process is well-documented and helps to maintain accurate records.
-
-To complete this form, you will be asked to provide the following information:
-
-1. Volunteer Information: This section is for collecting details about the volunteer, such as their name, department, and title.
-2. Package Delivery: You will be asked if the package was delivered and if so, what was the delivery method used.
-3. Event Details: This section is for collecting information about the event date and time.
-4. Contact Information: You will be asked to provide the volunteer's email, phone number, and any additional notes.
-5. Delivery Details: This section is for collecting information about the package delivery, including the delivery location and any special instructions.
-6. Volunteer Appreciation: You will have the opportunity to leave a note of appreciation to the volunteer.
-7. Signature: Finally, this section is for the volunteer's signature, allowing us to confirm their reception of the package.
-
-Please complete the form carefully to ensure accurate and timely delivery of the package.</thinking>
-
 # Volunteer Appreciation Package Delivery Form - Help Guide
 ## Purpose
 The purpose of this form is to collect and track the delivery details of a package to a volunteer who has expressed appreciation for their service.

@@ -1,5 +1,3 @@
-<thinking>...This help guide is intended for users who want to complete the "Best Booth Award Voting" form. Before starting, ensure you have the relevant information and consent to provide. This form should not be used for duplicate feedback purposes; if you've already submitted feedback, your previous submission will be taken into account in the overall score calculation. Please refer to the provided form fields for specific guidance on each field's purpose and requirements. This guide is designed to walk you through the steps to complete the form efficiently and effectively... </thinking>
-
 # Best Booth Award Voting - Help Guide
 ## Purpose
 The "Best Booth Award Voting" form is designed to collect feedback on the quality and effectiveness of various booth presentations during events. This form helps event organizers understand which booths are performing well and which areas need improvement. Your input is crucial in helping us create an engaging and informative event.

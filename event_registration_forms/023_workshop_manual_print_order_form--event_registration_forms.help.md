@@ -1,12 +1,3 @@
-<thinking>
-This form is used for workshop manual print order purposes, to collect information for ordering printed workshop manuals. 
-
-The purpose of this form is to gather details such as delivery options, quantities, specifications, and contact information to ensure accurate and efficient order fulfillment. 
-
-Please ensure that you're using this form for the correct purpose and not for other types of orders.
-
-</thinking>
-
 # workshop_manual_print_order_form - Help Guide
 ## Purpose
 This form is used to collect information for printing workshop manuals and other printed materials.

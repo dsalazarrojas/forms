@@ -1,9 +1,3 @@
-<thinking>
-We are creating a form for a Free Throw Contest, and we want to ensure that end-users understand the form's purpose and functionality. This form will be used to collect information from participants about their basic details, school affiliation, and waiver agreement. The form consists of 10 fields, each with a specific label and type. We need to review the form's design to ensure it's easy to use and understand.
-
-To begin with, the form's title is "Free Throw Contest Registration". This title will be displayed prominently at the top of the form.
-</thinking>
-
 # Free Throw Contest Registration - Help Guide
 ## Purpose
 The Free Throw Contest Registration form is designed to collect information from participants in the Free Throw Contest event. This form is used to gather details about each participant, including their name, email, school, and event information. The collected data will be used to organize and track participant registrations.

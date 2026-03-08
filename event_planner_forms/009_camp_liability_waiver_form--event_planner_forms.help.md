@@ -1,8 +1,3 @@
-<thinking> 
-This form is used to gather information from parents or guardians of campers to ensure their safety and well-being during their stay at the camp. The primary purpose of this form is to obtain their consent, acknowledge potential risks, and understand the camp's liability in case of any accidents or injuries. This form is a standard requirement for all campers and is used to maintain the camp's legal and regulatory compliance. 
-
-</thinking>
-
 # Camp Liability Waiver Form - Help Guide
 ## Purpose
 This form is used to obtain the necessary information from parents or guardians of campers to ensure their safety and well-being during their stay at the camp.

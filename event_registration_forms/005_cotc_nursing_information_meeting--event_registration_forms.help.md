@@ -1,9 +1,3 @@
-<thinking>
-
-This form, "Cotc Nursing Information Meeting", is likely used to capture information about attendees of a nursing meeting, such as their contact details (name, email, phone number), occupation (type of healthcare professional), and meeting specifics (date and time). It might be used by meeting organizers or healthcare institutions to gather information about the attendees for organizational or administrative purposes. Given that the form has a "meeting_info" page, it is probably used for events or conferences related to nursing or healthcare. The purpose of this form is to collect relevant information from attendees to facilitate event planning and organization.
-
-</thinking>
-
 # Cotc Nursing Information Meeting - Help Guide
 ## Purpose
 This form is used to collect information from attendees of a nursing meeting or event. The collected data helps event organizers and healthcare institutions to better understand the composition and needs of the attendees.

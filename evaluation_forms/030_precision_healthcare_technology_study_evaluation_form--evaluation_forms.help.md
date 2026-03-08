@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback on the effectiveness and usability of precision healthcare technologies. It is intended to be completed by healthcare professionals who have experience with these technologies. The form is meant to help identify areas of improvement and provide recommendations for future development.
-
-Please ensure you are filling out this form in the correct context and have a good understanding of the technologies being evaluated. If you have filled out this form previously, please review the changes and updates before submitting this version.
-
-The form is not intended to be a formal review or assessment, but rather a tool for gathering feedback and suggestions.
-
-</thinking>
-
 # precision_healthcare_technology_study_evaluation_form - Help Guide
 ## Purpose
 This form is designed to collect feedback on the effectiveness and usability of precision healthcare technologies.

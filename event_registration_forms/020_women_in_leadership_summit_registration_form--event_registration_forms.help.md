@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect registration information from attendees for the Women in Leadership Summit. The purpose of this form is to gather necessary contact and bio information from participants, allowing us to effectively communicate with them and tailor the event experience. 
-
-This form should only be filled out by those registering for the Women in Leadership Summit and not used for other purposes. Please ensure that only relevant fields are filled out.
-
-</thinking>
-
 # Women in Leadership Summit Registration Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and information from event attendees about their experience at a sports event. This form is designed to gather insights on crowd management, safety concerns, and other relevant details that can help event organizers improve future events. It is essential to ensure that the form is completed accurately and comprehensively to provide valuable feedback. Please note that the form is designed to be self-explanatory, but if you have any doubts or concerns, feel free to ask for clarification.
-</thinking>
-
 # sports_event_crowd_management_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and information from event attendees about their experience at a sports event. It aims to gather insights on crowd management, safety concerns, and other relevant details that can help event organizers improve future events.

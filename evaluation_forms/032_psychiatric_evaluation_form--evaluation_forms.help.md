@@ -1,12 +1,3 @@
-<thinking>Understanding the user-facing help guide for the psychiatric evaluation form requires considering the following factors:
-
-* The form's purpose is to assess a patient's mental health state, likely for clinical evaluation or treatment planning.
-* The form is divided into sections for a clear and structured evaluation.
-* Each field is carefully crafted to gather essential information for a thorough assessment.
-* The form is likely used by medical professionals, such as psychologists or psychiatrists, to collect and document patient data.
-* The form's design and content should reflect the clinical and medical expertise of its users.
-</thinking>
-
 # psychiatric_evaluation_form - Help Guide
 ## Purpose
 The psychiatric evaluation form is a structured tool for clinical evaluation and treatment planning. It collects essential information about a patient's mental health state, diagnosis, treatment plan, and medication history. This form helps medical professionals, such as psychologists or psychiatrists, to comprehensively assess and care for patients.

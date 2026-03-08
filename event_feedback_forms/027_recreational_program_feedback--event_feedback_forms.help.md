@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback from participants on recreational programs, allowing us to better understand their experiences and areas for improvement. This feedback is non-mandatory and will not affect the participant's program enrollment status. Before filling out this form, please ensure you haven't already submitted feedback on this program, as submitting duplicate feedback may not be reviewed or processed.
-</thinking>
-
 # Recreational Program Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from participants on their experiences with the recreational program. Your input will help us to improve and refine the program for future participants.

@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information from netball players for registration purposes. The information collected will be used to communicate with the players and manage their participation in the netball sessions. To avoid duplication, only players who have not registered for the current session should fill out this form. To ensure relevance, the form only collects information required for player registration.
-</thinking>
-
 # Netball Registration Form - Help Guide
 ## Purpose
 The Netball Registration Form collects information from netball players for registration purposes.

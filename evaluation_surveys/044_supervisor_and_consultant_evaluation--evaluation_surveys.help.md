@@ -1,8 +1,3 @@
-<thinking>
-We need to create a help guide for the Supervisor And Consultant Evaluation form. This form is designed to collect feedback and evaluations from supervisors and consultants on various aspects of their work relationship. To ensure that the form is filled out accurately, let's first review the form's purpose and make sure it's not being duplicated elsewhere in the system.
-
-</thinking>
-
 # Supervisor And Consultant Evaluation - Help Guide
 ## Purpose
 The Supervisor And Consultant Evaluation form is used to gather feedback and evaluations from supervisors and consultants on their work relationship. This form helps to identify areas of improvement, recognize strengths, and foster a positive work environment.

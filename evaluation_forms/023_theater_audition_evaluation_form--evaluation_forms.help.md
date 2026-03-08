@@ -1,9 +1,3 @@
-<thinking>Before diving into the form design, let's consider the context and purpose of the "Theater Audition Evaluation Form". This form is likely used to evaluate the performance of actors in a theater audition process. The form should collect relevant information about the auditioner, actor, audition details, and evaluation date. To ensure relevance and prevent duplication, the form should aim to gather unique information about each actor's performance, such as their name, audition date/time, and evaluation score.
-
-Let's assume that the form is designed for internal use within the theater, and the evaluators are likely theater professionals. The form should be user-friendly and easy to understand, with clear labels and explanations for each field.
-
-</thinking>
-
 # Theater Audition Evaluation Form - Help Guide
 ## Purpose
 The "Theater Audition Evaluation Form" is used to evaluate the performance of actors in a theater audition process. This form helps theater professionals provide constructive feedback and assess the suitability of actors for productions.

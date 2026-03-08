@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Virtual Conference Participant Consent Form - Help Guide
 ## Purpose
 This form is designed to be used to obtain participant consent and emergency contact information for the Virtual Conference. The form is divided into several pages, each with its own set of questions and fields. This guide will help you understand the purpose and requirements of each field, making it easier for you to complete the form accurately and efficiently.

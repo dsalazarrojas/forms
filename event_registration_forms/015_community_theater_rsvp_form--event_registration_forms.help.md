@@ -1,7 +1,3 @@
-<thinking>
-We have a community theater event registration form that collects attendee information, event preferences, and feedback. This form is designed for event attendees to RSVP, select their event date and time, and provide details about their attendance, including any accessibility needs and special requests. The form also captures information about their transportation method, dining preferences, and interests in additional experiences such as backstage tours, merchandise, and cast meet and greets. It's essential to complete this form accurately to ensure we can best accommodate your needs and provide an excellent experience for all attendees.
-</thinking>
-
 # Community Theater RSVP Form - Help Guide
 ## Purpose
 This form is for community theater event attendees to RSVP, select their event date and time, and provide details about their attendance. It helps us understand your needs and preferences to ensure a great experience.

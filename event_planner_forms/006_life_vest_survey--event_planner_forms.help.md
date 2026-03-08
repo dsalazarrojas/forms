@@ -1,8 +1,3 @@
-<thinking>
-The "life_vest_survey" form is a collection of questions and fields used to gather feedback from customers about their experience with our life vest. This form is designed to be completed by customers who have used or are interested in using our life vest.
-Before completing this form, please ensure that you have already provided feedback on our life vest in other ways, such as through a separate feedback form. This will allow us to get a more accurate picture of your overall experience.
-</thinking>
-
 # life_vest_survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback on your experience with our life vest and help us understand how we can improve it.

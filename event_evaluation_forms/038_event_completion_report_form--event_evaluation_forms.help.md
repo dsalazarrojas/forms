@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Event Completion Report Form - Help Guide
 ## Purpose
 

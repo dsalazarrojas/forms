@@ -1,11 +1,3 @@
-<thinking>
-# The form is designed to collect information about upcoming events for participants. 
-# This form is a preview version and might be subject to changes before live deployment.
-# This form is intended for participants to register for a specific event.
-# Each field is designed to capture relevant information for the event.
-# The form should only be completed once for each participant.
-</thinking>
-
 # vessel_preview_registration_form - Help Guide
 ## Purpose
 The **vessel_preview_registration_form** is designed to collect information from participants for events. This form helps us understand the event schedule, location, and participant details.

@@ -1,14 +1,3 @@
-<thinking>
-This help guide is intended for end users who are unfamiliar with the Sow A Seed form. The form is designed to collect information about seeds, including event name, seed name, seed description, seed price, donation amount, contact details (email and phone), and other relevant information. 
-The form is used for event booking purposes, specifically for events related to seeds, plants, or animals. The form does not have strict data validation, meaning that users can fill it out with varying degrees of accuracy. However, it is still crucial to ensure that all required fields are filled out correctly to avoid errors during the booking process.
-
-The form consists of multiple fields, each asking for a different piece of information. Some fields, like event name and seed name, are text fields where users can enter any characters they like. The seed description field also accepts text input. The seed price field, on the other hand, is a number field specifically designed for numerical input. The donation amount field has similar requirements, but users must enter a numerical value.
-
-The email and phone fields are used for contact purposes, and users should enter a valid email and phone number, respectively. The date and time fields are used to schedule events, and users must enter a valid date and time. The time zone field, while optional, is used to specify the time zone of the event. The seed type field allows users to select from a list of options, while the other seed type field is a free-text input for any other seed type not listed in the options. Lastly, the quantity field is used to specify the quantity of seeds.
-
-When filling out the form, users should ensure that they are accurate and thorough in their responses. This will help avoid errors and miscommunications during the booking process.
-</thinking>
-
 # Sow A Seed Form - Help Guide
 ## Purpose
 The Sow A Seed form is a tool for event booking purposes, specifically for events related to seeds, plants, or animals.

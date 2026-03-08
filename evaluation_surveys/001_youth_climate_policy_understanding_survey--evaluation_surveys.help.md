@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Youth Climate Policy Understanding Survey - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to gather information from organizations applying for an Organizational Health Fellowship. The form's purpose is to collect detailed information about the organization, its fellow-ship goals, and relevant contact details. The form is not affiliated with, endorsed by, or derived from any form platform, but rather created using public survey topic metadata as inspiration. The following is the user-facing help guide for this form:
 
 # Organizational Health Fellowship Application Form - Help Guide

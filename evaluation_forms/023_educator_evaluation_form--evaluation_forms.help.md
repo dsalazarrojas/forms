@@ -1,8 +1,3 @@
-<thinking> 
-This form is used for evaluating educators on various aspects of their performance, such as teacher performance, classroom management, subject knowledge, and more. It's designed to gather feedback on specific traits and provide educators with an overall rating. The evaluations can help inform decisions on educator development and retention within an organization. 
-
-</thinking>
-
 # Educator Evaluation Form - Help Guide
 ## Purpose
 This form is used to collect feedback on educator performance and provide an overall rating. It's divided into several sections, each evaluating a specific aspect of the educator's skills and traits.

@@ -1,8 +1,3 @@
-<thinking>
-This guide is intended for sports team volunteers who want to register for an event or activity. The purpose of this form is to gather information about the volunteers' personal details, roles, availability, and emergency contacts. This guide will walk you through each field of the form, ensuring you complete it accurately and effectively. Please note that some fields are optional, and you should only fill in the required information for your registration.
-
-</thinking>
-
 # Sports Team Volunteer Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from sports team volunteers who want to participate in events or activities. It is meant to be completed by team members, players, coaches, or referees who want to offer their support.

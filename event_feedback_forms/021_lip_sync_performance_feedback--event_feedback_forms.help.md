@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect feedback on the performance of a person in a lip sync event. This form is part of a larger process to evaluate and improve the performances of individuals in these events. The feedback collected through this form will help in identifying areas of improvement and provide insights for future performances.
-
-Before filling out this form, please ensure that you have all the necessary information and answers ready. This form should only be filled out by someone who has a direct interaction with the person being evaluated (e.g., a team lead, instructor, or peer). This form should not be used to duplicate efforts or overlap with other evaluation processes.
-
-</thinking>
-
 # lip_sync_performance_feedback_form - Help Guide
 ## Purpose
 This form is designed to collect feedback on the performance of a person in a lip sync event. It helps in evaluating and improving individual performances.

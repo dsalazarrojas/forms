@@ -1,7 +1,3 @@
-<thinking>
-The form is intended for event organizers or managers to book backstage services for events such as weddings, photoshoots, fashion shows, and TV shows. The fields are designed to collect relevant information about the event, including the event type, client details, hair and makeup services, and contact information for the backstage team. This form is likely to be used by hair and makeup professionals to manage their bookings and provide a clear and concise way to communicate with clients and event organizers.
-</thinking>
-
 # Hair & Makeup Backstage Booking Form - Help Guide
 ## Purpose
 This form is designed to help event organizers book services for hair and makeup professionals for events such as weddings, photoshoots, fashion shows, and TV shows.

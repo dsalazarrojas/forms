@@ -1,13 +1,3 @@
-<thinking>
-
-The form purpose is to collect information for publishing book fairs, specifically for lead generation. This form is intended to help users submit details about an event, including the name, date, time, location, and other relevant information. The goal is to gather data that can be used for further analysis and follow-up.
-
-Before filling out this form, please ensure that you have all the necessary information to complete it accurately. If you're unsure about any field, please contact the relevant personnel for clarification. 
-
-This form is designed to be a one-time submission, and once completed, the data will be reviewed and processed accordingly.
-
-</thinking>
-
 # Publishing Book Fair Lead Generation - Help Guide
 ## Purpose
 The Publishing Book Fair Lead Generation form is used to collect information for publishing book fairs, specifically for lead generation.

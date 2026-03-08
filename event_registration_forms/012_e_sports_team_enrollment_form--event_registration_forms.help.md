@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # E Sports Team Enrollment Form - Help Guide
 ## Purpose
 The E Sports Team Enrollment Form is a form designed to collect information about individuals interested in joining an e-sports team. This form helps the team administrators to get to know the players' details, gaming experience, and preferences, and to determine the best fit for the team.

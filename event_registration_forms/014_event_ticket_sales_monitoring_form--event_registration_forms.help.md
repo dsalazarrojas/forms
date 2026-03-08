@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about event tickets sales monitoring. It's essential to have accurate and complete data to efficiently track and manage event ticket sales. This form will help users gather crucial details such as event date, name, ticket type, price, sales figures, attendee information, contact person, email, event status, and ticket availability. This form should be used to monitor and manage event ticket sales effectively. Ensure that all users complete the form accurately and thoroughly to get the best results.
-</thinking>
-
 # Event Ticket Sales Monitoring Form - Help Guide
 ## Purpose
 This form is used to collect and monitor information about event ticket sales.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from passengers booking balloon flights. The form includes fields for passenger details, flight preferences, and special requests. The form requires the following fields to be completed: Passenger Full Name, Email Address, Phone Number, Number of Passengers, Flight Type, Preferred Flight Date, Flight Location, Passenger Weights, Height Restrictions, Medical Conditions, Mobility Assistance Required, Payment Method, Gift Certificate, Weather Policy Acknowledgment, Liability Waiver, Emergency Contact Name, Emergency Contact Phone, and Special Requests. The form is used to ensure that the balloon flight experience is enjoyable and safe for all passengers. Please complete the form carefully and thoroughly to ensure that your booking is processed correctly.
-
-</thinking>
-
 # Balloon Flights Booking Form - Help Guide
 
 ## Purpose

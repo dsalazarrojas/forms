@@ -1,11 +1,3 @@
-<thinking>
-
-The form "Agricultural Skills Tournament Entry Form" is designed for participants to register themselves or their team for the annual Agricultural Skills Tournament. This form captures essential information needed for the event, including personal details, competition preferences, and other relevant data.
-
-Internal note: This form likely aims to gather data for event organization, communication, and planning purposes. Before filling out this form, ensure that you or your team have not already registered for this event. Duplicate registrations may lead to confusion and unnecessary work for the organizers.
-
-</thinking>
-
 # Agricultural Skills Tournament Entry Form - Help Guide
 ## Purpose
 The form is designed to collect information for the annual Agricultural Skills Tournament. Fill out this form to register as an individual or as a team and to provide necessary details for the event.

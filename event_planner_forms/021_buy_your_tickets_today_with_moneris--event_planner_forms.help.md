@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to allow users to buy tickets for an event using a credit card. This form captures personal details, ticket preferences, and payment information. The fields are structured in a way that ensures accurate and complete data entry, reducing errors and making the process smooth and efficient. This guide will walk users through each field, explaining its purpose and requirements.
-</thinking>
-
 # Buy Your Tickets Today With Moneris - Help Guide
 ## Purpose
 This form is designed to help you buy tickets for an event. Fill out the form with your details and preferences, and you will be able to complete your ticket purchase.

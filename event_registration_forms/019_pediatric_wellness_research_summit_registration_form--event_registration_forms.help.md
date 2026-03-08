@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering attendees and gathering information for the Pediatric Wellness Research Summit. To ensure relevance and non-duplication, please review the provided YAML fields to verify that each field is correctly populated and that no fields are duplicated or missing.
-</thinking>
-
 # Pediatric Wellness Research Summit Registration Form - Help Guide
 ## Purpose
 This form is intended for registering attendees and gathering information for the Pediatric Wellness Research Summit. Please ensure that all required fields are completed accurately to facilitate efficient registration processing.

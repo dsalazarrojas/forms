@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users about their experience at an event. The form is meant to be completed by attendees to provide their honest feedback about what they liked and disliked about the event, what could be improved, and if they would like to be contacted for follow-up.
-To ensure that users can provide valuable feedback, the form is divided into clear and concise sections, each with a specific goal.
-This form will be used to gather both qualitative and quantitative feedback. Quantitative feedback will be collected through the "Satisfaction" section, and qualitative feedback will be collected through the "Reason for satisfaction" and "What could we improve?" sections.
-The form is meant to be completed by a single user, but there is no validation to prevent the same user from submitting multiple forms.
-</thinking>
-
 # event_check_in_feedback_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about their experience at an event.

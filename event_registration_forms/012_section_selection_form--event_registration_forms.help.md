@@ -1,7 +1,3 @@
-<thinking>
-This form, titled "section_selection_form", is designed to gather information from users regarding their section preferences or selections. The form is divided into multiple sections, each with its own set of questions or selections. The fields in this form are used to capture various types of data, including multiple-choice answers, single-choice answers, dates, times, numbers, and boolean values.
-</thinking>
-
 # section_selection_form - Help Guide
 ## Purpose
 This form is used to gather user input on their section preferences or selections.

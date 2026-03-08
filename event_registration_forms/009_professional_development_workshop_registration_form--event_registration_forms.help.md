@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect information from participants who wish to register for a professional development workshop. It is designed to gather details about the participant's event registration, including workshop type, location, facilitator, and professional development areas of interest. The form also collects personal details such as email, phone number, and language proficiency level. It is essential to ensure that this form is completed accurately and honestly to provide the necessary information for the workshop organizers.
-
-Before filling out this form, please confirm that you have not registered for this workshop before by checking the list of past workshops. If you are unsure about any of the questions, please reach out to the workshop organizers for clarification.
-
-To complete the form, you will need to provide the following information:
-</thinking>
-
 # Professional Development Workshop Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from participants who wish to register for a professional development workshop.

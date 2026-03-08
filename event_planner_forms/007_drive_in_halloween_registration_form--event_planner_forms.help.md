@@ -1,7 +1,3 @@
-<thinking>
-The form is for registration for a Drive In Halloween event. It's crucial that this event information is accurate and complete to ensure a successful and enjoyable event for all participants and organizers. Please make sure to register only once to prevent duplication. The event details provided will be used for internal and external communication with the event organizer and participants. This guide will walk you through each field of the form to help you understand what to fill out and why.
-</thinking>
-
 # Drive In Halloween Registration Form - Help Guide
 ## Purpose
 The Drive In Halloween Registration Form is designed to collect essential information from event organizers and participants for a successful and enjoyable experience. It's essential to fill out the form accurately and without duplication to avoid any confusion or miscommunication.

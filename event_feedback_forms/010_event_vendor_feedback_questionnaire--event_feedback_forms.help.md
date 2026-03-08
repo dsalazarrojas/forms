@@ -1,9 +1,3 @@
-<thinking>
-This help guide aims to provide a clear understanding of the Event Vendor Feedback Questionnaire form, ensuring that users can effectively complete it and provide accurate feedback.
-The form is designed to gather feedback about events and their associated vendors. This feedback is essential for evaluating and improving the quality of events and services provided by vendors.
-The form should not be completed if the user is not familiar with the event details or vendor information.
-</thinking>
-
 # Event Vendor Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback about events and their associated vendors. Your input will help us better understand your experiences and improve our services.

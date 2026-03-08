@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for birdwatching enthusiasts to register for various tournaments hosted by the organization. It is a comprehensive form that collects information about the entrant, their experience, and commitment to the tournament rules and ethics. 
-The form is intended for both individual and team registrations, and the fields allow the entrants to specify their experience level, participation details, and equipment availability. The form also includes a section for entrants to confirm their understanding of the tournament rules and commitment to ethical birdwatching practices. 
-The form is divided into several sections for ease of completion. 
-</thinking>
-
 # Birdwatching Tournament Entry Form - Help Guide
 ## Purpose
 This form is designed for birdwatching enthusiasts to register for various tournaments hosted by the organization.

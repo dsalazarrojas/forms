@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for event planners to submit information about their Halloween decoration contest. The form should not be used for other purposes. Please ensure you are filling this form out for a Halloween decoration contest. If you're unsure, please reach out to your event planner or contact us to clarify.
-
-</thinking>
-
 # Halloween Decorating Contest Form - Help Guide
 ## Purpose
 This form is for event planners to collect information about Halloween decoration contests. It's a tool for submitting contest details, such as the address of the decorated house, the type of decoration, and contact information for the contest organizers.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to verify the readiness and safety of stage sets for events. It is typically used by event production teams to ensure that all necessary checks have been performed before proceeding with the event. The form is not intended to be used for general event registration or information gathering. It is a specific tool for verifying the production context and technical aspects of a stage set. It is recommended to fill out this form carefully and thoroughly, and to make sure all fields are completed before proceeding.
-</thinking>
-
 # Checklist For Set Verification - Help Guide
 ## Purpose
 The purpose of this form is to ensure that all production and technical aspects of a stage set are verified and ready for an event.

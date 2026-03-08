@@ -1,9 +1,3 @@
-<thinking>
-
-To determine the purpose of the Football Pick Submission Form, I analyzed the provided YAML fields. The form seems to be designed for submitting information related to football games, possibly for prediction or betting purposes. However, I couldn't pinpoint a specific use case without more context. I will continue with the assumption that it's a form for end-users to submit their picks for football games.
-
-</thinking>
-
 # Football Pick Submission Form - Help Guide
 ## Purpose
 The Football Pick Submission Form is a form designed for users to submit their picks for football games. This form likely serves as a platform for users to provide information about their predicted game outcomes.

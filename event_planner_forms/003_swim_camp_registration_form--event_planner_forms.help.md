@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be designed for registering swimmers for a swim camp program. It seems to be collecting information about each swimmer, including their name, email, phone number, date of birth, gender, session date and time, session duration, and fee. This form might be used for both registration and fee collection purposes. There is no indication that this form is intended for non-duplication or any other specific internal process. To ensure the form is used correctly, a brief explanation will be provided for each field, making it easier for end users to understand its purpose and required information.</thinking>
-
 # Swim Camp Registration Form - Help Guide
 ## Purpose
 This form is used to collect registration information and payment details for the swim camp program. Please fill out the form accurately and completely to ensure a successful registration.

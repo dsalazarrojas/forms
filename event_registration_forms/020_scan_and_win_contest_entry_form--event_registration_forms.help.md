@@ -1,9 +1,3 @@
-<thinking>
-I'm creating a user-facing help guide for a form designed to collect entries for a contest. The form's purpose is to gather participant information for an entry into a contest. This form has multiple pages, each collecting a different type of information. 
-The form is not affiliated with any form platform and is generated using AI. 
-The form is released under CC BY 4.0 and can be used, modified, or sold with proper credit.
-</thinking>
-
 # Scan and Win Contest Entry Form - Help Guide
 ## Purpose
 This form is designed to collect entries for a contest. To complete this form, please ensure you have all required information ready, as the form does not save any input data. 

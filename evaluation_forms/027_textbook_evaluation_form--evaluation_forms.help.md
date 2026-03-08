@@ -1,8 +1,3 @@
-<thinking>
-This form is used to evaluate textbooks in a systematic and standardized way. The purpose of this form is to gather feedback from students and teachers about the quality, effectiveness, and overall experience of a textbook. This feedback is essential for authors, educators, and publishers to make informed decisions about future textbook editions. To ensure that each textbook is evaluated fairly and consistently, the form is designed to be completed by one user at a time. Please make sure to review the form carefully and provide accurate and honest feedback.
-
-</thinking>
-
 # Textbook Evaluation Form - Help Guide
 
 ## Purpose

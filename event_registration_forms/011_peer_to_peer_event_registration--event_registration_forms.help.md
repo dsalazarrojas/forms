@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate peer-to-peer events, which are events where attendees can interact and learn from each other. The form will help users register for these events by providing necessary information about the event, including its title, description, start and end dates, location, roles, and other relevant details. The form will also help organizers manage the event by providing options for attendees to select their roles, preferences, and other relevant information. This form will ensure that all necessary information is collected in a organized and structured way, making it easier for both attendees and organizers to access and use.
-</thinking>
-
 # Peer To Peer Event Registration - Help Guide
 
 ## Purpose

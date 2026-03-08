@@ -1,8 +1,3 @@
-<thinking> 
-The purpose of this form is to register participants for the Foundational Coaching Program. The form collects information about the participant, including their name, email, and contact details, as well as program specifics, such as the start and end dates, program duration, and coaching focus. The form also allows participants to select their preferred payment method and coaching type. Additionally, it asks for details about the coaching type, coach, program name, description, location, start and end times, and date.
-
-The form is designed to be completed by participants who wish to register for the Foundational Coaching Program. It is not intended for internal use, so please do not use this form if you are an administrator or staff member.</thinking>
-
 # Foundational Coaching Program Registration - Help Guide
 ## Purpose
 The Foundational Coaching Program Registration form is designed to collect information about participants who wish to register for the Foundational Coaching Program. This form is used to ensure that all participants have the necessary information and agreements in place to participate in the program.

@@ -1,10 +1,3 @@
-<thinking>
-The Charity Event Planner Interview Form is designed to gather information from potential event planners about their experience, services, and approach to charity event planning. This form is intended for internal use within the organization to help evaluate potential planners and their suitability for future projects. The form is divided into several sections, each covering a specific aspect of event planning. The fields are designed to be clear and concise, with explanations provided for each field to help the user understand what is expected.
-
-Before filling out the form, please review the sections carefully to ensure that you provide accurate and relevant information.
-
-</thinking>
-
 # Charity Event Planner Interview Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about your experience and services as an event planner, especially for charity events. This will help us assess your qualifications and fit for future event planning projects.

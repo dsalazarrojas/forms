@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to capture information for team recognition events, which are events where teams are recognized for their achievements or contributions. The form is intended to be completed by team members or their representatives, and it will help the event organizers to gather necessary information for the event planning and execution.
-To ensure the correct completion of the form, it is recommended to check the event calendar to avoid duplication of events and to verify that the event is still active. 
-</thinking>
-
 # Team Recognition Event Registration Form - Help Guide
 ## Purpose
 This form is used to register teams for recognition events, providing essential details about the team and the event.

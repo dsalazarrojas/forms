@@ -1,8 +1,3 @@
-<thinking>...
-This form is designed to gather information from school administrators to facilitate the process of authorizing student trips. The form should only be filled out by authorized personnel. It's crucial to ensure that the trip details are accurately recorded to avoid any confusion or duplication. Please use this form for trips that are not already scheduled or have not been previously authorized. 
-</thinking> 
-
-
 # School Trip Authorization Form - Help Guide
 ## Purpose
 The School Trip Authorization Form is a document used to collect information from school administrators to facilitate the process of authorizing student trips. This form helps to ensure that all necessary details are gathered correctly to avoid confusion or duplication.

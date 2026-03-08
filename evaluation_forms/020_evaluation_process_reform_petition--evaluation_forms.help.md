@@ -1,11 +1,3 @@
-<thinking>
-Internal reasoning and checks for relevance and non-duplication:
-* This form is intended to collect feedback and suggestions from supporters of a reform process. It is essential to ensure that the reform process is transparent, effective, and meets the needs of all stakeholders involved.
-* Before proceeding, please ensure that you have not already submitted a similar form or petition. Duplicate submissions may not be processed, and your time and effort will be wasted.
-* If you're unsure whether your submission has been received or processed, you can check our website or contact our support team for confirmation.
-* If you have any questions or concerns, please feel free to contact us for assistance.
-</thinking>
-
 # Evaluation Process Reform Petition - Help Guide
 ## Purpose
 This form is designed to collect feedback and suggestions from supporters of the evaluation process reform. Your input is essential to help shape the reform process and ensure it effectively meets the needs of all stakeholders.

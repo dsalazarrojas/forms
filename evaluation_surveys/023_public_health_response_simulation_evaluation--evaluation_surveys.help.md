@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to evaluate the response of public health experts to a simulation scenario. It aims to assess their critical thinking, decision-making, and communication skills. This form is part of a larger evaluation process to help public health professionals improve their response strategies and prepare for real-world scenarios. To create this form, we've included fields that cover essential aspects of public health response, such as rating scales, exercise types, and feedback comments.
-</thinking>
-
 # Public Health Response Simulation Evaluation - Help Guide
 ## Purpose
 The Public Health Response Simulation Evaluation form is designed to assess public health professionals' responses to simulated scenarios, providing valuable insights into their critical thinking, decision-making, and communication skills. This evaluation helps improve public health response strategies and prepares professionals for real-world scenarios.

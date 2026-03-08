@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for registration purposes, likely for events, conferences, or seminars. It's a simple form with minimal fields required to capture basic contact information. This form might be used by event planners or organizers to collect attendee details. Please ensure you are familiar with the event's specific requirements and rules before filling out this form.
-</thinking>
-
 # Simple Registration Form - Help Guide
 ## Purpose
 The Simple Registration Form is designed to collect basic information from attendees or participants. It typically includes fields for their name, contact information, and other relevant details.

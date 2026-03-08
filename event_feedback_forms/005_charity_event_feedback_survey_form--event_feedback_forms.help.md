@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from individuals who attended a charity event. The purpose of this form is to gather information on the quality of the event, including event planning, staff and volunteer professionalism, activities and programs, attendee engagement, and the overall atmosphere. The form also aims to understand the clarity of the charity's mission and goals, how funds will be used, and whether the event inspired attendees to make a donation. Additionally, it seeks to capture attendees' personal experiences and suggestions for improvement. The form is not intended to be a comprehensive survey, but rather a brief and straightforward assessment of the event's quality and effectiveness.
-</thinking>
-
 # Charity Event Feedback Survey Form - Help Guide
 ## Purpose
 This form is a tool for charity event organizers to gather feedback from attendees. It helps to evaluate the quality of the event, understand the attendees' experience, and identify areas for improvement.

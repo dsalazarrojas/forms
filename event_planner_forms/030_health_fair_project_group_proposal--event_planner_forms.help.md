@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for a health fair project group proposal. This form is meant to be completed by event planners to provide details about their project group proposal, including group name, proposal title, project description, project goals, target audience, project scope, project outcomes, project budget, project duration, event date, event time, event location, event facilitators, event notes, evaluation criteria, evaluation scale, evaluation scale points, evaluation comments, evaluation date, evaluation time, evaluation facilitators, and evaluation notes.
-
-Before filling out this form, ensure that you have reviewed the project proposal guidelines and that your group is not duplicating any other project proposals.
-
-</thinking>
-
 # health_fair_project_group_proposal - Help Guide
 ## Purpose
 The health fair project group proposal form is used to gather information for a health fair project proposal. This form is intended to be completed by event planners to provide details about their project group proposal.

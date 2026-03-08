@@ -1,12 +1,3 @@
-<thinking>
-The Women's Summit Event Feedback Form is designed to gather feedback from participants on their experience at the summit. This form is used to collect information on the attendees' first name, email address, company name, department name, job title, session attended, session feedback, overall satisfaction, rating, recommendation, attendance of previous summits, and any additional comments or suggestions. The form aims to help the organizers understand the attendees' thoughts and suggestions for future events, and to improve the quality of the summit. 
-
-The form is structured to be easy to complete and understand, with clear labels and instructions for each field. The information collected will be used to evaluate the success of the summit and to identify areas for improvement.
-
-Before proceeding, please ensure that you have not already submitted feedback for this event, to avoid duplication of effort.
-
-</thinking>
-
 # Women's Summit Event Feedback Form - Help Guide
 ## Purpose
 The Women's Summit Event Feedback Form is designed to collect feedback from participants on their experience at the summit.

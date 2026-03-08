@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, let's review the provided YAML fields. The form is for event registration and includes fields for personal data, event type, participant type, consent, agreement, and participant data. It appears to be a registration form for events organized by Mastermind, and it's likely used for internal tracking and participant management purposes.</thinking>
-
 # Mastermind Event Registration - Help Guide
 ## Purpose
 The Mastermind Event Registration form is used to collect information from participants for events organized by Mastermind. This form helps Mastermind track participant registrations and manage event data.

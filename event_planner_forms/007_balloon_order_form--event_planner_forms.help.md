@@ -1,11 +1,3 @@
-<thinking>
-
-The form is intended to capture customer information and preferences for balloon orders, which will be used to create a customized balloon package. The form will be used for both personal and business events, such as parties, events, and corporate events. The form fields are designed to gather necessary information from the customer, including contact details, event details, balloon preferences, and payment information.
-
-Form fields are designed to be self-explanatory and provide clear instructions for the customer to fill out the form correctly.
-
-</thinking>
-
 # Balloon Order Form - Help Guide
 ## Purpose
 The Balloon Order Form is designed to capture the necessary information required to create a customized balloon package for your event or occasion. This form will help us understand your preferences and deliver your balloons according to your needs.

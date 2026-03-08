@@ -1,6 +1,3 @@
-<thinking>
-We need to create a help guide for the holiday survey form. The form is part of the event_planner_forms category and is titled "holiday_survey". Before we begin, let's make sure the form purpose is clear and not duplicating any existing form's purpose. The form likely aims to gather information about users' travel plans, preferences, and requirements for an upcoming event or vacation. It may be used to tailor the event or travel experience to their needs, or to gather insights for future planning. Double-checking that this form is not meant to be a duplicate of any other form in the category is essential. If we're unsure, we can add a brief internal note to clarify the form's purpose and ensure it's not redundant. Assuming this form is unique, let's proceed with creating the help guide.</thinking>
-
 # holiday_survey - Help Guide
 ## Purpose
 The holiday survey form is designed to gather information about users' travel plans, preferences, and requirements for an upcoming event or vacation. This form helps event organizers or travel planners tailor the experience to users' needs or gather insights for future planning.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a comprehensive help guide for the Event Ticket Form, we'll need to break down its purpose, instructions for completion, and each field's explanation.
 
 ## Purpose

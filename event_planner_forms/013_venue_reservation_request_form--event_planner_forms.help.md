@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to be a brief and user-friendly resource for end-users to understand the purpose and requirements of the Venue Reservation Request Form. It is crucial to follow the instructions carefully to ensure accurate and relevant information is provided. Please review the form's structure and fields to determine if you are a new user or need a refresher.
-</thinking>
-
 # Venue Reservation Request Form - Help Guide
 ## Purpose
 This form is used to request a venue reservation for an event. It helps the venue management team to gather essential information for evaluating and confirming event requests.

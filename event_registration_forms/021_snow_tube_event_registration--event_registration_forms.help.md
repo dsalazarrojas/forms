@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information from participants in a snow tube event. It is intended for general use and can be adapted or modified as needed. The form does not collect sensitive or personal identifiable information and is not affiliated with any specific company or organization. The purpose of this form is to streamline the registration process for participants and event organizers. 
-</thinking>
-
 # snow_tube_event_registration - Help Guide
 ## Purpose
 The snow_tube_event_registration form is a tool to collect participant information for events related to snow tubes. It is meant to be a simple and efficient way to gather essential details from participants.

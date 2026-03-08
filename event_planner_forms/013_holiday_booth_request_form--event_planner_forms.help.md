@@ -1,12 +1,3 @@
-<thinking>
-The form is designed to collect information from users about holiday events that need to be planned and managed. This includes details about the event title, description, type, space requirements, contact information, and other relevant details. The form is used to streamline the event planning process and ensure that all necessary information is collected in a structured and efficient manner. To avoid duplication and ensure data consistency, users are only allowed to submit one request form per event.
-
-Please note that the fields are designed to accommodate specific types of events and provide options for users to select from. This helps ensure that the correct information is collected and that the event is properly categorized and prioritized.
-
-Before proceeding, please ensure that the form is filled out completely and accurately, as the provided information will be used to plan and manage the event.
-
-</thinking>
-
 # Holiday Booth Request Form - Help Guide
 ## Purpose
 The Holiday Booth Request Form is a tool used to collect and track requests for holiday events. This form is designed to ensure that all necessary information is collected in a structured and efficient manner, helping to streamline the event planning process.

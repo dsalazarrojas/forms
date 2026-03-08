@@ -1,7 +1,3 @@
-<thinking>
-Form purpose is often to collect user data for event planning and management purposes. This form should be used to collect attendee information for Team Collaboration Skills Seminar.
-</thinking>
-
 # Team Collaboration Skills Seminar Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from attendees who will be participating in the Team Collaboration Skills Seminar. It will help the event organizers to efficiently track attendee details and manage the event.

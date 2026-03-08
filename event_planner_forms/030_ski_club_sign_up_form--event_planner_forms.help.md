@@ -1,11 +1,3 @@
-<thinking>
-The form is intended for users to sign up for a ski club, and the fields should be completed accordingly. The purpose of the form is to collect information from users to organize and manage the ski club's activities and events. The form should be completed in a way that makes it easy to read and fill out. 
-
-To ensure consistency and accuracy, please review the fields carefully before proceeding.
-
-Please note that the grade level field is required, and the user should select one of the available options ('1', '2', '3', '4'). This is to ensure that the user's grade level is correctly recorded.
-</thinking>
-
 # Ski Club Sign Up Form - Help Guide
 ## Purpose
 The Ski Club Sign Up Form is designed to collect information from users to organize and manage ski club activities and events.

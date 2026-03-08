@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information about vendor meetings, including date, time, purpose, location, description, contact email, and contact phone number. It is intended to be used by internal teams to schedule and communicate with vendors. The purpose of this form is to ensure that all necessary meeting information is gathered in one place, making it easier for both the team and the vendor to stay organized and on the same page. 
-</thinking>
 # Vendor Meeting Appointment Form - Help Guide
 ## Purpose
 This form is used to collect and store information about vendor meetings, including meeting details, vendor contact information, and other relevant details. By using this form, you can easily schedule and manage meetings with vendors.

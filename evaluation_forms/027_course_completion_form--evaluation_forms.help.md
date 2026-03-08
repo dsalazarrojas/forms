@@ -1,5 +1,3 @@
-<thinking>Before creating a help guide for the "Course Completion Form", we need to ensure that it meets the necessary requirements and doesn't duplicate any existing guides. The purpose of this form is to gather information about course completions, which can include student data, course details, and completion dates. We should focus on explaining each field clearly and concisely to help users understand how to fill it out correctly.</thinking>
-
 # Course Completion Form - Help Guide
 ## Purpose
 The Course Completion Form is used to record and track course completions, including student information, course details, and completion dates.

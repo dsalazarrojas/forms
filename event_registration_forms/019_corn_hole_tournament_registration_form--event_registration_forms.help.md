@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Corn Hole Tournament Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from participants for a Corn Hole tournament. It gathers details such as name, contact information, team and player information, tournament specifics, and rules.

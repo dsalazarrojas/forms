@@ -1,7 +1,3 @@
-<thinking>
-This form design task requires creating a user-facing help guide for an "Judge Evaluation Form" within the "event_planner_forms" category. The guide should explain the form's purpose, how to complete it, and provide field-by-field explanations for each field. Based on the provided YAML fields, the form seems to be used for evaluating events or performances by judges. The form likely aims to collect feedback or scores from judges on their evaluation experiences. It's essential to ensure the explanations are concrete, concise, and practical for end-users. If a field label is weak or unclear, I will try to provide an explanation based on my understanding of the field's likely intent. 
-</thinking>
-
 # Judge Evaluation Form - Help Guide
 
 ## Purpose

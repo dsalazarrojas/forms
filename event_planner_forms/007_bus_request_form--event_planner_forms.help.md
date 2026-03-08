@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for bus transportation requests, primarily for students who need to be transported to and from school or other destinations. This form will help us understand the student's needs and requirements for the transportation, including their personal details, transportation details, and any special needs or accommodations that may be necessary. Before filling out this form, please ensure that you are not submitting duplicate requests as this form is primarily intended for new requests.
-</thinking>
-
 # Bus Request Form - Help Guide
 ## Purpose
 The Bus Request Form is used to gather information for bus transportation requests, primarily for students who need to be transported to and from school or other destinations.

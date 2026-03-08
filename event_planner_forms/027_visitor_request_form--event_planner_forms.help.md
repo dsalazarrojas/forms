@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about visitors who wish to visit the organization. It is used to gather details such as the visitor's name, contact information, and purpose of visit. The form is designed to be completed by the visitor themselves, and the information collected will be used to communicate with them and schedule their visit. Please note that this form does not include any fields that require authentication or login credentials. 
-</thinking>
-
 # Visitor Request Form - Help Guide
 ## Purpose
 The Visitor Request Form is designed to collect information about visitors who wish to visit the organization. This form will be used to gather details such as the visitor's contact information and purpose of visit.

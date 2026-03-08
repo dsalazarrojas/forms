@@ -1,7 +1,3 @@
-<thinking>
-... internal reasoning block to check for relevance and duplication ...
-</thinking>
-
 # executive_training_check_out_form - Help Guide
 ## Purpose
 The executive training check out form is used for participants to register and complete their payment information for executive training programs. This form helps to collect necessary details such as participant's name, company name, role, contact information, payment method, and other relevant information.

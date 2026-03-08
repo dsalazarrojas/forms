@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and ratings from attendees of gaming conventions, specifically for tournament events. It is essential to fill out this form to help event organizers understand how well the tournament was received by attendees, what could be improved, and to collect ratings for the event. Please ensure that you have not already submitted feedback for this event to avoid duplication.
-</thinking>
-
 # Gaming Convention Tournament Voting Form - Help Guide
 ## Purpose
 This form is used to collect feedback and ratings from attendees of gaming conventions, specifically for tournament events. It is essential to fill out this form to help event organizers understand how well the tournament was received by attendees, what could be improved, and to collect ratings for the event.

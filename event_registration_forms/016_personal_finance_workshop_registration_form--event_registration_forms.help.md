@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in attending a Personal Finance Workshop. The form will be used to gather contact details, workshop preferences, and payment information. To ensure accuracy, please fill out the form completely and truthfully. 
-Please note that this form is only for workshop registration, and the information collected will be used for workshop organization and management purposes only.
-</thinking>
-
 # Personal Finance Workshop Registration Form - Help Guide
 ## Purpose
 This form is used to register for the Personal Finance Workshop. Please fill it out to provide your details and preferences for the workshop.

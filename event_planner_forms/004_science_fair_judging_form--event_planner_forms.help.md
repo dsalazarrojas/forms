@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is designed to be used by judges or evaluators to provide feedback on a science fair project. Each field in the form is intended to gather specific information to help the student improve their project. The form should only be filled out by one or multiple judges, and it's assumed that each judge will answer based on their own criteria and scoring system.
 
 This guide will walk you through each field of the form and explain what information to provide for each.

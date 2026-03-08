@@ -1,8 +1,3 @@
-<thinking>
-The form is intended to collect information about workshops, including general details, specifics such as date, location, and workshop duration, and logistical information like capacity, fee, and venue. This form should be completed by users who want to provide information about a workshop they are hosting or attending. The form will help to centralize and standardize the information, making it easier to manage and track various workshops.
-
-</thinking>
-
 # Workshop Information Form - Help Guide
 ## Purpose
 The Workshop Information Form is designed to collect and store information about workshops.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information from participants in sports events, ensuring they understand the risks involved and providing a platform for them to declare their medical conditions and emergency contact details. The form is designed to be completed by the participant, and the information collected will be used to ensure their safety during the event. This form should only be completed once, so please do not repeat the process unless you are a new participant.
-</thinking>
-
 # sports_event_participation_release_form - Help Guide
 ## Purpose
 The sports event participation release form is a document that requires participants to acknowledge the inherent risks involved in sports activities and to provide essential information about themselves, such as medical conditions and emergency contacts.

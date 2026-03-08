@@ -1,11 +1,3 @@
-<thinking>
-We are going to create a help guide for the Vendor Management Effectiveness Survey form. The purpose of this form is to gather information and feedback from users about their experience with a vendor, with the goal of evaluating their effectiveness. This form is designed to collect data on various aspects of the vendor's performance, including their overall rating, performance score, and feedback on what worked and what didn't. The form will be completed by users who have interacted with the vendor, and the data collected will be used to improve the vendor management process. 
-
-Before starting the form, please note that some fields are marked as "required", meaning you must fill them out to complete the form. Others are optional, but filling them out will provide more detailed and helpful information.
-
-Please fill out this form carefully and honestly, and make sure to answer the questions based on your experience with the vendor. Your feedback is invaluable in helping us improve our vendor management process.
-</thinking>
-
 # Vendor Management Effectiveness Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information and feedback from users about their experience with a vendor, with the goal of evaluating their effectiveness.

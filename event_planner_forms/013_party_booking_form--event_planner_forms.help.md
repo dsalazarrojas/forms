@@ -1,7 +1,3 @@
-<thinking>
-The Party Booking Form is used to book a party with the event planners. The form is used to gather information about the event date, time, location, and other relevant details. The form is required for all event bookings, and the information collected will be used to create a customized event plan.
-</thinking>
-
 # Party Booking Form - Help Guide
 ## Purpose
 The Party Booking Form is a form used to book a party with the event planners. This form gathers essential information about the event to create a customized event plan.

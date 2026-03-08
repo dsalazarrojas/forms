@@ -1,10 +1,3 @@
-<thinking>
-This form is for requesting a flyer for an event. It is intended for internal use within the organization and does not have any specific technical restrictions. However, the form must be completed thoroughly and accurately to ensure that the event flyer is designed and printed correctly. Before proceeding, please ensure that you are familiar with the event details and have all necessary information to complete the form.
-
-This form requires information about the event, contact person, and flyer design preferences.
-
-</thinking>
-
 # Flyer Request Form - Help Guide
 ## Purpose
 The Flyer Request Form is used to gather necessary information to design and print a flyer for an event. The form collects details about the event, contact person, and design preferences.

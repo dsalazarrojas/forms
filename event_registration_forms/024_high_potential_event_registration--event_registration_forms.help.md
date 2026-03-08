@@ -1,9 +1,3 @@
-<thinking>
-We can design a user-facing help guide that will assist end-users in understanding the purpose and usage of the High Potential Event Registration form. The form is designed for participants to register for an event, providing relevant details for the event organizers. This guide will walk users through the form's purpose, how to complete it, and a field-by-field explanation of each section.
-
-
-</thinking>
-
 # High Potential Event Registration - Help Guide
 ## Purpose
 The High Potential Event Registration form is designed to gather information from participants who are interested in attending a High Potential event. This form helps event organizers to track participant details, such as contact information, event preferences, and other relevant details.

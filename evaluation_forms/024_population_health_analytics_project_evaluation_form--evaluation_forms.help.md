@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback and evaluate the performance of population health analytics projects. It will help project managers, researchers, and stakeholders assess the project's objectives, outcomes, challenges, and future improvements. To ensure relevance, this form will not collect sensitive or redundant data that may compromise the integrity of the project's performance assessment.
-
-The form is meant to be completed by project team members, researchers, or stakeholders who have a clear understanding of the project's goals, timelines, and team dynamics. It will not duplicate information that is already available in other forms or platforms.
-
-The form's purpose is to provide a structured and comprehensive evaluation of the project's performance, allowing project managers to identify areas of improvement and make informed decisions for future projects. It will be used to track progress, identify successes and challenges, and provide insights for future development.
-
-</thinking>
-
 # Population Health Analytics Project Evaluation Form - Help Guide
 ## Purpose
 This form is designed to evaluate the performance of population health analytics projects, providing a structured and comprehensive assessment of project objectives, outcomes, challenges, and future improvements.

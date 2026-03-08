@@ -1,8 +1,3 @@
-<thinking>
-Internal reasoning:
-This form is designed to collect information from media partners for an event. The form is used to gather relevant details about the media outlet, such as the name of the event organizer, media outlet, and credential needed. It also collects contact information, coverage plans, and other relevant details. The form is required to be completed with all fields marked as "Required" to ensure that the information is accurate and consistent. The form will be reviewed and updated regularly to ensure that it remains relevant and effective.
-</thinking>
-
 # Expo Media Partner Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from media partners for an event. It is used to gather relevant details about the media outlet, including coverage plans, credential needed, and contact information.

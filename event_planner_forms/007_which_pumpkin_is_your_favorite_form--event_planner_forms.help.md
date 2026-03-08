@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information from users about their preferences, specifically their favorite pumpkin, favorite color, favorite shape, and any additional comments or contact information they'd like to provide. 
-
-This form is likely to be used for market research or surveys, and its output will be used to create a dataset containing users' answers. This form does not appear to be a transactional or high-security form, and the fields are mostly select options or open-ended text fields.
-
-Before completing this form, please note that it is not intended to be filled out for official business purposes, such as purchasing or contacting a company. If you're completing this form for a contest or marketing survey, be honest and accurate in your responses.
-</thinking>
-
 # Which Pumpkin Is Your Favorite Form - Help Guide
 ## Purpose
 This form is a fun and informal survey to gather information about users' preferences for pumpkins, colors, and shapes. It's meant to be completed by individuals who are interested in sharing their opinions on these topics.

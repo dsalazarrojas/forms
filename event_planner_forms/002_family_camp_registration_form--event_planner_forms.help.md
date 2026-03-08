@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals who are interested in attending a family camp event. The purpose of this form is to gather general information, medical history, emergency contact details, and previous camping experience from each camper. This form will help the organizers of the family camp to better understand the attendees' needs and prepare for a safe and enjoyable experience. 
-
-The form is designed to be completed by each family member who wishes to attend the camp. Each field is optional, but it's essential to provide accurate information to ensure the best possible experience for all attendees.
-
-</thinking>
-
 # Family Camp Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from family members who wish to attend the family camp. It's essential to provide accurate details to ensure a safe and enjoyable experience for all attendees.

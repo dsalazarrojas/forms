@@ -1,7 +1,3 @@
-<thinking>
-To prevent duplication, this help guide is intended for internal use only and should not be shared externally. It's a one-time use guide for the event_planner_forms category.
-</thinking>
-
 # short_sleeve_t_shirt_order_form - Help Guide
 ## Purpose
 The short_sleeve_t_shirt_order_form is a form used for customers to order t-shirts with various options such as size, color, and design. This form helps customers to provide their contact details, select the required options for their t-shirt, and specify the payment details. 

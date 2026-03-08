@@ -1,9 +1,3 @@
-<thinking>
-
-The Runner Tracking Form is used to record and track running events, distances, and notes for runners. This form provides a structured way to collect relevant information from runners, including their running history, selected fields, date, time, running distance, running notes, customer feedback, email, and phone number. The form is designed to be a one-stop-shop for capturing key details about a runner's activities, which can be used to inform coaching, training, or other related activities. 
-
-</thinking>
-
 # Runner Tracking Form - Help Guide
 ## Purpose
 The Runner Tracking Form is a tool designed to collect and record essential information about a runner's activities, making it easier to track progress, provide guidance, and analyze performance.

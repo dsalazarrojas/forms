@@ -1,8 +1,3 @@
-<thinking>
-We will be creating a user-facing help guide for a "Vendor Evaluation Form". The form's purpose is to collect feedback and ratings from users about their interactions with a vendor. The form will be used to gather information on various aspects of the vendor's performance, including their name, overall satisfaction, product quality, price satisfaction, communication, customer service, vendor reliability, recommendation, contact method, evaluation date and time, and any additional notes.
-We should check that the form is not being duplicated and not used for any other purpose than the intended evaluation, to avoid confusion and unnecessary data collection.
-</thinking>
-
 # Vendor Evaluation Form - Help Guide
 
 ## Purpose

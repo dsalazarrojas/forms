@@ -1,12 +1,3 @@
-<thinking>
-To create the user-facing help guide for the "Leadership And Resilience Workshop Registration" form, I will analyze the provided YAML and provide a clear and concise explanation of each field.
-
-The purpose of this form is to register participants for a leadership and resilience workshop. This form collects personal information such as first and last name, email, phone number, date of birth, time of completion, workshop date, participant interest, note, agreement, and submission confirmation.
-
-The form is designed to be user-friendly and easy to complete, but it's essential to understand each field's purpose to ensure accurate and complete registration. The guide below will walk you through each field's purpose, making it a breeze to fill out the form correctly.
-
-</thinking>
-
 # Leadership And Resilience Workshop Registration - Help Guide
 ## Purpose
 This form is designed to register participants for the Leadership and Resilience Workshop. It's essential to complete this form accurately to ensure your registration is processed correctly.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for collecting feedback from customers who have taken an ocean tour. The purpose of this form is to gather information about their experience, including who their tour guide was, when and at what time they took the tour, what they liked most, and any additional feedback they may have. This form is not meant for general contact or sales inquiries, so please only answer the questions as they relate to your tour experience. If you have already provided feedback on this topic, please do not complete this form again.
-
-This guide is intended for end-users who have been or will be taking an ocean tour and are providing feedback about their experience.
-
-</thinking>
-
 # ocean_experience_feedback_survey - Help Guide
 ## Purpose
 The ocean_experience_feedback_survey is designed to gather feedback from customers about their experience with our ocean tours. It is a simple form with several questions that help us understand what our customers enjoyed most about their tour and what they would like to see improved.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is a Wedding Appointment Request Form for event planners. It's used to capture information about a wedding event, including the date and time of the event, the service provider, and contact details. The form is used to create a record of the wedding event and assign a tool (e.g., a chatbot) to handle the event.
 
 When filling out this form, ensure that you are submitting a valid request for a wedding event. Please fill out each field accurately and completely.

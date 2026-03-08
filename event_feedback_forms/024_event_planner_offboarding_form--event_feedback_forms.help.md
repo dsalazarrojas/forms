@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for event planners to provide feedback on events they have been assigned to, which helps the organization to evaluate and improve future events. The form should only be completed once for each event. If you have already completed this form for this event, please do not submit another instance. The form is used to collect information on the event's progress, the planner's feedback, and any additional comments or details.
-</thinking>
-
 # Event Planner Offboarding Form - Help Guide
 ## Purpose
 The Event Planner Offboarding Form is used to gather feedback from event planners on events that have been assigned to them. This feedback is essential for the organization to understand the success and areas of improvement for future events.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Team Building Activity Proposal Request Form - Help Guide
 
 ## Purpose

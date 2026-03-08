@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from participants and guests who wish to attend the Cultural Exchange Fair. This includes collecting personal details such as first and last names, email addresses, and phone numbers. Additionally, it captures information about the participant's type (e.g., participant, guest, student, or staff), the name of their organization, and any cultural details they'd like to share. The form also requires a registration date and time for each participant. This information will be used to manage participant registrations and enhance the overall experience of the fair.
-</thinking>
-
 # Cultural Exchange Fair Registration Form - Help Guide
 ## Purpose
 

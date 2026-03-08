@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Catering Equipment Check Out Form - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-We should create a user-facing help guide to assist end users in completing the "Theme Park Attraction Satisfaction Survey" form.
-The form is meant to gather feedback from visitors on their experiences with theme park attractions. The guide will explain how to complete the form step-by-step, field-by-field. This will ensure that users fill out the form correctly and provide accurate information.
-It's essential to cover all fields in the guide to prevent duplication or missing information. The guide will help users understand what each field represents and what kind of information is expected from them.
-By creating a help guide, we can improve the form completion process, reduce errors, and increase the accuracy of the collected data.
-</thinking>
-
 # Theme Park Attraction Satisfaction Survey - Help Guide
 ## Purpose
 The Theme Park Attraction Satisfaction Survey aims to gather feedback from visitors on their experiences with theme park attractions. This information will help us understand what we're doing well and what we can improve.

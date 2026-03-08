@@ -1,7 +1,3 @@
-<thinking>
-This form is used to record and analyze observations and coaching interactions between management and sales team members. It helps in evaluating sales performance, providing feedback, and setting goals and frequencies for coaching sessions. The form is designed to be filled out after each observation or coaching session. Please make sure to fill out all the required fields and ensure that you're not duplicating information by checking the form's internal logic. The fields in this form are designed to be filled out by the sales team member being observed or coached and the manager or coach responsible for the interaction. Ensure that all information is accurate and complete before submitting the form. Please review the form carefully and ask if you have any questions or concerns.
-</thinking>
-
 # SAS Observation And Coaching Form - Help Guide
 
 ## Purpose

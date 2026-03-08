@@ -1,13 +1,3 @@
-<thinking>
-This form is used to gather feedback from professionals who have worked with us on events. The form is designed to be simple and easy to use, allowing users to provide their overall experience, their correspondent's name, their feedback on our service, their rating of our service, date and time of the event, and any additional event details. 
-
-This form will help us understand how we can improve our service to better meet the needs of our clients and professionals.
-
-Before starting to fill out the form, please note that some fields are optional, but filling all the fields can provide us with more valuable feedback. 
-
-Please ensure that the email address entered is valid and associated with you or your correspondent. 
-</thinking>
-
 # Professional Correspondent Feedback Form - Help Guide
 ## Purpose
 The Professional Correspondent Feedback Form is a tool used to collect feedback from professionals who have collaborated with us on events. This feedback is invaluable for us to understand our strengths and weaknesses and make necessary improvements.

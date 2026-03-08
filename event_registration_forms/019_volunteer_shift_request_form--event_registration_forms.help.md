@@ -1,9 +1,3 @@
-<thinking>Internal reasoning:
-To prevent duplication, ensure you're completing this form for a new event. If you've already completed this form for the same event, do not repeat the process.
-This form helps you request a volunteer shift for an event. Ensure you fill out all required fields and choose your preferred options accordingly.
-Before filling out this form, please check that you've got the event details and your personal availability correct.
-</thinking>
-
 # volunteer_shift_request_form - Help Guide
 ## Purpose
 This form helps you request a volunteer shift for an event. Complete it accurately to ensure your shift preferences and availability are considered.

@@ -1,12 +1,3 @@
-<thinking>
-We need to ensure that this form is only used for its intended purpose, which is to request a conference or event opportunity. This form should not be used for other purposes, such as booking a meeting or making a general inquiry. To prevent duplication of requests, we should validate the form data before processing it.
-
-This form is designed to collect information from potential conference organizers, speakers, or exhibitors to help them request a conference or event opportunity. It's essential to understand how to complete this form accurately to avoid any misunderstandings or miscommunications.
-
-Before we dive into the instructions, here's a quick note about the form's layout. The form is divided into several sections, each corresponding to a different aspect of the request. Make sure to fill out the required fields (indicated by "required: true") and provide as much detail as possible in the optional fields.
-
-</thinking>
-
 # Conference Request Form - Help Guide
 ## Purpose
 This form is designed to help potential conference organizers, speakers, or exhibitors request a conference or event opportunity. Fill out this form to provide your contact information, event details, and preferences.

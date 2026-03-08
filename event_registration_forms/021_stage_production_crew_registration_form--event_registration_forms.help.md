@@ -1,8 +1,3 @@
-<thinking> 
-This form is used for stage production crew registration. It is meant to collect information from crew members who will be working on a stage production. This form is likely to be used internally by the production company, and the information collected may be used for communication, organization, and logistical purposes. Please fill out the form carefully and accurately to ensure that the information is complete and up-to-date.
-
-</thinking>
-
 # Stage Production Crew Registration Form - Help Guide
 ## Purpose
 This form is used for stage production crew registration. It is meant to collect information from crew members who will be working on a stage production.

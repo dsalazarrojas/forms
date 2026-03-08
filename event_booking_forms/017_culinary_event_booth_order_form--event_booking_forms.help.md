@@ -1,8 +1,3 @@
-<thinking>
-Internal reasoning block: This form is designed for vendors to place orders for culinary events. The form collects information such as vendor name, contact details, order items, booth type, and payment information. The vendor can select multiple order items and payment methods. The form also includes a field for notes, which can be used for additional information not covered in the standard fields.
-The form is not intended for internal use within the company, it's meant to be used by external vendors.
-</thinking>
-
 # Culinary Event Booth Order Form - Help Guide
 ## Purpose
 The Culinary Event Booth Order Form is a tool used by vendors to place orders for culinary events. This form helps vendors provide their name, contact information, and order details to the event organizers.

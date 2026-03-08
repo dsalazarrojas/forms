@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to record the attendance of volunteers in a program, allowing event organizers to confirm whether a volunteer has arrived or not. This form can be used in various settings where volunteers are required to be present, such as events, conferences, or community activities. To use this form, simply fill in the required information and select the confirmation status of the volunteer.
-
-</thinking>
-
 # Volunteer Program Attendance Form - Help Guide
 ## Purpose
 The Volunteer Program Attendance Form is a tool for event organizers to track the attendance of volunteers in their programs. This form helps to ensure that all volunteers are accounted for and that any issues can be addressed promptly.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a corporate event, likely for internal or organizational purposes. It's likely intended for events such as conferences, meetings, or training sessions. The form is divided into a few key sections, and the required fields indicate that the event planner and tasks are crucial to its organization. This form is not meant to be a general purpose survey form, but rather a specific tool for corporate event registration.
-</thinking>
-
 # corporate_event_checklist_form - Help Guide
 ## Purpose
 This form is designed to collect information about a corporate event.

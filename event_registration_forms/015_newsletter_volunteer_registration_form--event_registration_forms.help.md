@@ -1,7 +1,3 @@
-<thinking>
-We are creating a form to collect information from individuals who want to volunteer for our newsletter project. The purpose of this form is to gather essential details from potential volunteers, such as their name, contact information, and availability. We aim to use the collected data to assign volunteers to suitable shifts and roles. Please note that the form is designed to be user-friendly and minimize duplication of efforts. By completing this form, volunteers will be able to sign up for shifts and roles that match their skills and preferences.
-</thinking>
-
 # Newsletter Volunteer Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals who want to volunteer for our newsletter project.

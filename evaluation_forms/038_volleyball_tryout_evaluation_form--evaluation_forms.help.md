@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess a player's compatibility and skills during a volleyball tryout. It's essential to evaluate the player's abilities and potential fit within the team. I will check for internal relevance and non-duplication before creating the help guide.
-</thinking>
-
 # Volleyball Tryout Evaluation Form - Help Guide
 ## Purpose
 This form is used to assess a player's compatibility and skills during a volleyball tryout.

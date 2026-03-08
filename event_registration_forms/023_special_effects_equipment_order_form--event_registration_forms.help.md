@@ -1,7 +1,3 @@
-<thinking>
-The form "special_effects_equipment_order_form" is designed to gather information for special effects equipment orders. This form has 25 pages with various fields, including text inputs, date/time entries, and multiple select options. To complete this form, the end user will navigate through the pages and fill in the required and optional fields. The pages are designed to collect information from the user, likely for internal use within the organization. The form's purpose is to streamline the order process for special effects equipment. To prevent duplication, it is likely that the form is used for each unique equipment order.
-</thinking>
-
 # special_effects_equipment_order_form - Help Guide
 ## Purpose
 The special_effects_equipment_order_form is designed to gather information for special effects equipment orders.

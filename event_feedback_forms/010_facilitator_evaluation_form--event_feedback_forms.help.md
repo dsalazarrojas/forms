@@ -1,5 +1,3 @@
-<thinking>As a neutral AI, I'll create a user-facing help guide for the "facilitator_evaluation_form" form, explaining its purpose, how to complete it, and each field's explanation in a concise and practical manner.</thinking>
-
 # facilitator_evaluation_form - Help Guide
 ## Purpose
 The facilitator_evaluation_form is a tool to help evaluate the effectiveness of a facilitator in an event or meeting. The form is designed to gather feedback from participants on the facilitator's performance, communication, and overall experience.

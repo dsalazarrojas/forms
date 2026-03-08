@@ -1,7 +1,3 @@
-<thinking>
-This form is used for attendees to RSVP to a non-profit dinner event. Non-profit organizations may use this form to gather information for event planning and logistics. To ensure accurate event attendance, it's crucial to complete the form with attention to detail. Please review the form carefully before submission to avoid any errors or omissions.
-</thinking>
-
 # Non Profit Dinner RSVP Form - Help Guide
 ## Purpose
 This form is designed for attendees to RSVP to a non-profit dinner event. It helps the event organizers gather essential information for event planning and logistics.

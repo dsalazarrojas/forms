@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Swimming Assessment Form - Help Guide
 
 ## Purpose

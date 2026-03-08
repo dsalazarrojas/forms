@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to help users register for a Performing Arts Webinar. The purpose of this form is to capture the necessary information to manage attendee RSVPs for the webinar. The form is designed for internal use and is not intended to be publicly exposed, so it should only be accessible via a private link or within a controlled environment. 
-
-The fields are designed to collect minimal necessary information, and users are not required to fill in all fields. However, the "Assigned Tool" field is mandatory.
-
-To ensure the form's purpose and functionality are correctly understood, please read on to learn more about each field and how to complete this form.
-
-</thinking>
-
 # RSVP For Performing Arts Webinar - Help Guide
 
 ## Purpose

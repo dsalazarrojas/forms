@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather feedback and evaluation on the Health Communication Improvement Project. The purpose of this form is to collect opinions on the project's overall rating, identify areas that require improvement, gather suggestions, and obtain contact information from users. It is not intended for users to provide detailed explanations for each of the questions. By filling out this form, users will be helping us assess the project's progress and identify areas for enhancement.
-
-The form is divided into several sections, and each section is designed to address a specific aspect of the project. We kindly ask that users please do not provide duplicate responses or irrelevant information. We also ask that users be as brief and concise in their answers as possible.
-</thinking>
-
 # Health Communication Improvement Project Evaluation - Help Guide
 ## Purpose
 The Health Communication Improvement Project Evaluation form is a tool used to gather feedback and evaluation on the project's overall rating, identify areas that require improvement, gather suggestions, and obtain contact information.

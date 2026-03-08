@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Job Readiness Workshop Registration" form. The form is designed to collect information from potential participants for a workshop on job readiness. The fields in the form are: Job Readiness Workshop Registration Form, Name, Email, Phone, Date Of Birth, Time Of Workshop, Job Readiness Workshop Date, Job Readiness Workshop Time, Which of the following dates works for you?, Which of the following time slots works for you?, Which of the following days?, and Notes. We need to explain the purpose of the form, how to complete it, and what each field means.
-</thinking>
-
 # Job Readiness Workshop Registration - Help Guide
 ## Purpose
 The Job Readiness Workshop Registration form is designed to collect information from participants who want to attend the Job Readiness Workshop. This form will help us better understand their preferences and availability for the workshop.

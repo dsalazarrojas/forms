@@ -1,9 +1,3 @@
-<thinking>
-We are designing a user-facing help guide for a form called "Family Scavenger Hunt Activity Registration". The purpose of this form is to collect information from participants about their activity registration, specifically the participant's name, contact details, activity details such as date and time, and options related to the activity. 
-
-This form is designed to gather all the necessary information for the event organizers to prepare and manage the activity effectively. Each field in the form is crucial for the event to take place smoothly. 
-</thinking>
-
 # Family Scavenger Hunt Activity Registration - Help Guide
 ## Purpose
 This form is designed to collect information from participants about their activity registration for the Family Scavenger Hunt event.

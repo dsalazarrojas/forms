@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect and analyze training needs and objectives for organizations. The form will help organizations to identify their training needs and goals, which will aid in creating more effective training programs. Before proceeding, we must ensure that this form is relevant and not duplicated. If you are filling this form for the first time, please note that the data collected will be used for internal purposes only and will not be shared with any third party.
-
-</thinking>
-
 # Training Need Analysis Form - Help Guide
 ## Purpose
 This form is designed to collect and analyze training needs and objectives for organizations, helping them create more effective training programs.

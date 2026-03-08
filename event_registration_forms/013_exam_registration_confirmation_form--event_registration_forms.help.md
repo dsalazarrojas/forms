@@ -1,7 +1,3 @@
-<thinking>
-This form is used for exam registration confirmation purposes. The form is designed to collect information about a student's exam registration status. It will likely be used by students to confirm their registration for an exam or by administrators to view and manage exam registrations. To prevent data duplication, it's essential to ensure that each student's registration is accurately and thoroughly recorded in this form.
-</thinking>
-
 # exam_registration_confirmation_form - Help Guide
 ## Purpose
 This form is for exam registration confirmation and management.

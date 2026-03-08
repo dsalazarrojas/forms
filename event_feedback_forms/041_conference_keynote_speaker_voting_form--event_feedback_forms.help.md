@@ -1,5 +1,3 @@
-<thinking>As we generate this form, we consider the importance of clarity and concision in user experience. We need to ensure that users understand the purpose and structure of the form, and can easily navigate through its fields. We will review the form schema and provide a user-friendly guide that addresses the needs of both technical and non-technical users. This form aims to collect feedback on keynote speakers at conferences, and we'll aim to make it as user-friendly as possible.</thinking>
-
 # Conference Keynote Speaker Voting Form - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-friendly help guide for the Digital Transformation Workshop Registration Form, let's first establish the form's purpose: This form is designed to register participants for a digital transformation workshop, gathering essential information about each attendee. The form is intended to be completed by individuals interested in attending the workshop.
-
-This form was created using AI, not affiliated with, endorsed by, or derived from any form platform, and is released under CC BY 4.0. This means you are free to use, modify, and even sell forms derived from it, giving credit where due.
-
-Before proceeding, please note that while this form is designed to be user-friendly, some fields are required to ensure accurate and comprehensive registration. Make sure to fill in all required fields to avoid any issues with your submission.
-
-</thinking>
-
 # Digital Transformation Workshop Registration Form - Help Guide
 
 ## Purpose

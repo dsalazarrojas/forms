@@ -1,7 +1,3 @@
-<thinking>
-We will use this form to gather information from project team members to evaluate the efficiency of a project. This form is used by project team members to request an evaluation of their project's efficiency. This form should only be filled out by team members, and not by other users. Please make sure to only fill out this form once per project.
-</thinking>
-
 # Project Efficiency Evaluation Request Form - Help Guide
 
 ## Purpose

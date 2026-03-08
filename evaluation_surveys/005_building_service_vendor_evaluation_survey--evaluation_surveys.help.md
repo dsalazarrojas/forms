@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to evaluate the performance of a vendor providing building services, gathering information about the quality, timeliness, communication, and overall satisfaction with the services rendered. This form will likely be used by a procurement or contract manager to assess vendor performance and make informed decisions about future contracts.
-</thinking>
 # Building Service Vendor Evaluation Survey - Help Guide
 ## Purpose
 This form is used to evaluate the performance of a vendor providing building services. It assesses the vendor's timeliness, quality, communication, and overall satisfaction with the work performed.

@@ -1,7 +1,3 @@
-<thinking>
-The Weekly Lunch Order Form is designed for employees to submit their meal preferences for the upcoming week. This form aims to ensure that the catering team can efficiently plan and prepare the necessary meals for the team. To avoid duplication and ensure accurate planning, it's essential to provide all necessary details in a single form submission. 
-</thinking>
-
 # Weekly Lunch Order Form - Help Guide
 ## Purpose
 This form is used to collect information about your meal preferences for the upcoming week. Please fill out the form accurately to ensure we can provide you with your desired meals.

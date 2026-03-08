@@ -1,11 +1,3 @@
-<thinking>
-
-This form is a simple, user-facing help guide for the "Derby Event Interest Survey" form. Its purpose is to gather information from users about their interests in attending a derby event. The form is intended to be completed by individuals who are interested in participating in the event or have some other interest in it. The form fields are meant to be filled out by users who understand that the event information is subject to change and that their input will help event organizers to better understand their audience.
-
-Before proceeding, please ensure that you have not already submitted your interest in this event survey as we aim to gather unique and diverse input from as many users as possible.
-
-</thinking>
-
 # Derby Event Interest Survey - Help Guide
 ## Purpose
 The Derby Event Interest Survey is a simple, online form designed to gather information from users about their interests in attending a derby event. This form helps event organizers understand who is interested in participating in the event and tailor their offerings accordingly.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information for a veterinary pharmaceutical demo session. The form is meant to be used by attendees to provide essential details about themselves, including their name, contact information, and preferences for the demo session. The form also includes fields for selecting the preferred demo time and assigning a tool to be used during the session.
-
-Before starting, please ensure you have not already completed this form. Duplicate submissions may lead to confusion and miscommunication during the demo session.
-
-</thinking>
-
 # veterinary_pharmaceutical_demo_registration_form - Help Guide
 ## Purpose
 The veterinary pharmaceutical demo registration form is a crucial tool for ensuring a smooth and productive demo session for veterinary pharmaceuticals. By providing accurate and complete information, you will receive relevant and timely updates about the demo.

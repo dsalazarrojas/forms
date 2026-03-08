@@ -1,7 +1,3 @@
-<Thinking>
-We need to ensure that the form is user-friendly and easy to understand for end-users, particularly those who may not be familiar with the underlying system or technical requirements. We also need to consider any potential duplication of effort or redundant data collection that might be caused by unclear or confusing form design. This guide should be concise, practical, and clearly outline each field's purpose and requirement.
-</thinking>
-
 # Individual And Team Event Registration Form - Help Guide
 
 ## Purpose

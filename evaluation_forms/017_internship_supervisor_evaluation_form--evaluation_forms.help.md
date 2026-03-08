@@ -1,22 +1,3 @@
-<thinking>
-
-The form purpose is to collect evaluations of an intern's performance during their internship period. This form is designed to gather feedback from the supervisor on the intern's progress, strengths, and areas for improvement.
-
-To complete this form, follow these steps:
-
-1. Enter the name of the supervisor completing the evaluation.
-2. Select the start date of the internship.
-3. Select the date of the evaluation.
-4. Choose the evaluation frequency (Internship Period, Half Year, Final evaluation, or Not Applicable).
-5. Describe the intern's performance achievement.
-6. Rate the intern's communication skills (Strong, Fair, or Weak).
-7. Rate the intern's teamwork skills (Strong, Fair, or Weak).
-8. Rate the intern's initiative (Strong, Fair, or Weak).
-9. Provide feedback on areas for improvement.
-10. Rate the overall performance (Excellent, Good, or Needs Improvement).
-
-</thinking>
-
 # internship_supervisor_evaluation_form - Help Guide
 ## Purpose
 The internship_supervisor_evaluation_form is designed to gather feedback from the supervisor on an intern's performance during their internship period.

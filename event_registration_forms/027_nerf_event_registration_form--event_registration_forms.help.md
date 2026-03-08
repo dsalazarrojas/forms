@@ -1,7 +1,3 @@
-<thinking>
-We are creating this form to collect participant information for an event. Before we start, let's quickly check if we should create this form. We need to ensure that the form is not already created and is relevant to the event. If it's already created, we don't want to create another duplicate. We want to be efficient with our data and avoid confusion. Our team is here to guide you through the process.
-</thinking>
-
 # Nerf Event Registration Form - Help Guide
 ## Purpose
 This form is designed to collect participant information for events related to Nerf Guns and Blasters. It is a crucial step in the registration process for attendees to provide their details accurately.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Gamified Learning Challenge Registration - Help Guide
 ## Purpose
 This form is used to register participants for a gamified learning challenge. A gamified learning challenge is an event or activity that involves game-like elements to make learning more engaging and interactive. Participants can register individually or as part of a team.

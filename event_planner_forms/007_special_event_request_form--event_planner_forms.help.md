@@ -1,12 +1,3 @@
-<thinking>
-To ensure the proper handling of this Special Event Request Form, let's review its purpose and internal checks.
-This form is designed to collect information about special events that require specific planning and coordination. To use this form effectively, please ensure:
-- You have the necessary permissions to create or manage events in your organization.
-- You have the correct information to fill out each field accurately.
-- You have any required attachments or supporting documents ready for upload.
-The form is also designed to be non-duplicative, meaning you can only submit one event request per form.
-</thinking>
-
 # Special Event Request Form - Help Guide
 ## Purpose
 The Special Event Request Form is a document that allows you to request special event details for internal events such as events, parties, photo shoots, and more. It is used to collect essential information for planning and coordination.

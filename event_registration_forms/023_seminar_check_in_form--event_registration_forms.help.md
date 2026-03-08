@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # seminar_check_in_form - Help Guide
 ## Purpose
 The Seminar Check-in Form is designed to collect information from attendees about their seminar participation. It is used to record the arrival time, seminar start time, and other relevant details for each attendee. This form helps ensure accurate tracking and reporting of seminar attendees and their associated events.

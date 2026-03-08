@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for webinar participants to submit their applications. It captures information about their name, contact details, job title, job type, and preferred time for the next event. The form ensures that participants are properly registered and their details are up-to-date. It is essential to complete this form accurately to facilitate effective communication and event organization. Ensure that you only fill out this form once you have been invited to an event. If you are unsure about any of the information, please get in touch with the event organizer.
-</thinking>
-
 # Webinar Participant Application Form - Help Guide
 ## Purpose
 This form is for participants to submit their applications to attend a webinar. It is designed to collect necessary information for event organization and communication.

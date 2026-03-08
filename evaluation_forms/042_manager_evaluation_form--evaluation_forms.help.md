@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by managers to evaluate their direct reports' performance. The form should be completed by a manager to provide a comprehensive evaluation of their employee's strengths and areas for improvement. This form should be used to identify key performance indicators and provide feedback to the employee. Ensure that the form is completed thoroughly and accurately to provide useful insights for the employee's growth and development.
-</thinking>
-
 # Manager Evaluation Form - Help Guide
 ## Purpose
 The Manager Evaluation Form is used by managers to evaluate the performance of their direct reports. This form helps managers provide a comprehensive evaluation of their employee's strengths and areas for improvement.

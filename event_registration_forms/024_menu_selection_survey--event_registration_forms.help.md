@@ -1,9 +1,3 @@
-<thinking>
-To create a user-facing help guide, I'll analyze the provided YAML form structure and determine the most suitable explanations for each field. This will ensure that end-users understand the form's purpose and how to complete it effectively.
-
-The form appears to be a Menu Selection Survey, which likely aims to gather feedback and ratings from users about their preferred menu items. The goal is to collect quantitative and qualitative data on menu items, allowing the form creator to gain insights into user preferences.
-
-</thinking>
 # Menu Selection Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and ratings from users about their preferred menu items. Please answer each question honestly to help us understand your menu preferences.

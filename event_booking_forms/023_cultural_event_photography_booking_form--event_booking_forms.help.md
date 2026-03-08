@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to collect information from clients who are interested in booking a photographer for a cultural event. The form will gather details about the event, including the client's name, event details, date, time, location, and any specific photo requirements they may have. This information will be used to provide the best possible experience for the client and ensure that their photography needs are met. It is recommended that clients fill out this form carefully and accurately to ensure that their event is properly captured.
 
 </thinking>

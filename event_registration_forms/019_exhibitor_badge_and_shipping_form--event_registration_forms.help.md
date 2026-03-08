@@ -1,29 +1,3 @@
-<thinking>
-This form is meant to collect information from exhibitors for their badge and shipping details. The form should only be used for exhibitors who need to collect shipping information for their products. The fields are designed to be simple and straightforward, allowing exhibitors to easily provide their badge and shipping details. 
-
-This form is meant to be filled out by exhibitors and should not be used by other types of users. 
-
-The fields are as follows: 
-
-*   exhibitor_badge_details: This is the main section for exhibitor information.
-*   shipping_details: This is the main section for shipping information.
-*   name: This is the exhibitor's name.
-*   company_name: This is the name of the company.
-*   email: This is the exhibitor's email address.
-*   phone: This is the exhibitor's phone number.
-*   country: This is the country of origin of the exhibitor.
-*   shipping_country: This is the country where the products will be shipped to.
-*   shipping_address_1: This is the shipping address line 1.
-*   shipping_address_2: This is the shipping address line 2.
-*   shipping_zip_code: This is the shipping zip code.
-*   shipping_city: This is the shipping city.
-*   shipping_state: This is the shipping state.
-*   shipping_country_code: This is the shipping country code. 
-
-The "shipping_country_code" field is not required as the country is already selected in the "shipping_country" field.
-
-</thinking>
-
 # Exhibitor Badge And Shipping Form - Help Guide
 ## Purpose
 The Exhibitor Badge And Shipping Form is designed to collect information from exhibitors for their badge and shipping details. This form is meant to be filled out by exhibitors who need to provide shipping information for their products.

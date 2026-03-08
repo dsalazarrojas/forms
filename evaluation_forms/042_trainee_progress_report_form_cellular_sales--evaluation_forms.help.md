@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to track and evaluate the progress of trainees in cellular sales training programs, typically used by program administrators or trainers to monitor the performance and provide feedback to trainees. This form is used to assess the trainee's progress, strengths, and areas for improvement, helping to identify potential issues and provide recommendations for growth. To ensure the form is used correctly, please review each field carefully and only submit the form if you are authorized to do so.
-</thinking>
-
 # Trainee Progress Report Form Cellular Sales - Help Guide
 
 ## Purpose

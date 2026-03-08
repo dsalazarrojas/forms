@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for registering users to virtual happy hours. It appears that the form is used to collect information from users about their preferences for virtual happy hours, such as their name, email, phone number, time zone, join time, join date, join time and date, and a message. The form likely aims to ensure that users can easily find and join virtual happy hours that suit their schedule and preferences. Before proceeding, please ensure that you have a valid reason to register and that you are not duplicating your registration.
-
-</thinking>
-
 # Virtual Happy Hour Registration Form - Help Guide
 ## Purpose
 This form is designed to help you register for virtual happy hours that fit your schedule and preferences.

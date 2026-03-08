@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Outdoor Visit Request Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form will help users register for a digital competency mapping workshop by providing essential details about their participation. It appears designed for both participants and workshop administrators. The form asks about the workshop selection, relevant dates, contact information, and other important details related to the workshop.
-</thinking>
-
 # Digital Competency Mapping Workshop Registration Form - Help Guide
 ## Purpose
 This guide explains the Digital Competency Mapping Workshop Registration Form. It will walk you through the steps and fields required to complete the form accurately and efficiently.

@@ -1,8 +1,3 @@
-<thinking>
-To be honest, I'm not sure what the purpose of this form is, but I'm assuming it's for collecting customer information related to diving activities. I'll do my best to provide a helpful guide based on the provided YAML fields.
-
-</thinking>
-
 # diving_customer_record_form - Help Guide
 ## Purpose
 This form is for collecting customer information related to diving activities, including name, contact details, and certification information. Fill out this form to provide the necessary details about customers who have participated in diving events.

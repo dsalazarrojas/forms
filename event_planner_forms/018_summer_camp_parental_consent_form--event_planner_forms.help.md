@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Summer Camp Parental Consent Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to create a simple quiz about Valentine's Day. This form collects user input for a short quiz that tests knowledge about the holiday. To complete this form, users will be asked a series of questions related to Valentine's Day history and tradition. The form is designed for educational or entertainment purposes and is not intended for high-stakes or serious academic use.
-
-This form will not be used for any other purpose than creating a simple quiz, so no checks for relevance or duplication are necessary.</thinking>
-
 # Valentines Quiz - Help Guide
 ## Purpose
 The Valentines Quiz form is designed to collect user input for a short quiz about Valentine's Day. This form is intended to be a lighthearted way to learn about the history and tradition of the holiday.

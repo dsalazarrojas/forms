@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to book and configure LED screen setups for upcoming events. To avoid duplicate bookings, please ensure that you are only booking a screen for an event if it has not been previously set up. If you're unsure, you can check the setup status of a screen on the screen management dashboard.
-
-</thinking>
-
 # LED Screen Setup Booking Form - Help Guide
 ## Purpose
 This form is used to book and configure LED screen setups for events. Please fill out the form to reserve an LED screen for an event and provide all necessary details for the setup.

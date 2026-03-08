@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from users registering for the Spring Break Day Camp. The form is intended for camp attendees who want to register themselves or their children. The form will be used to collect basic contact information, payment details, and integration preferences. This form is not meant for camp staff or administrators, but rather for camp attendees. Please ensure you only use this form for its intended purpose. 
-</thinking>
-
 # Spring Break Day Camp Registration Form - Help Guide
 ## Purpose
 This form is for individuals or parents to register their children for the Spring Break Day Camp. It collects necessary contact and payment information, as well as integration preferences for the camp experience.

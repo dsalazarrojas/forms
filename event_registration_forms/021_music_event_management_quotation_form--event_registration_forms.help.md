@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for music event management and quotation purposes. The form fields are designed to gather essential details about the event, including its details, client information, quotation specifics, terms, status, payment information, event files, and additional information. The form's structure and field names should match the requirements of a music event management company or service provider to collect accurate and relevant data. 
-</thinking>
-
 # Music Event Management Quotation Form - Help Guide
 ## Purpose
 This form is designed to help music event management companies or service providers collect essential information for their services. It includes fields for event details, client information, quotation specifics, and other relevant data. 

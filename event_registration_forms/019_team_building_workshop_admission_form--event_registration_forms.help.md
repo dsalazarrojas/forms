@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from team members who wish to participate in a team building workshop. It is intended for team leads and participants to provide their details, preferences, and experiences related to the workshop. By filling out this form, team members can register their interest and provide necessary information for the organizers to plan the workshop accordingly. 
-</thinking>
-
 # Team Building Workshop Admission Form - Help Guide
 ## Purpose
 This form is designed to collect information from team members who wish to participate in a team building workshop. It is intended for team leads and participants to provide their details, preferences, and experiences related to the workshop.

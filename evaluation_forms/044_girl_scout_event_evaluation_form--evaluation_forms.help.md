@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for internal or external stakeholders to gather feedback and opinions on Girl Scout events. The purpose of this form is to gather information on how well the event was executed, how satisfying it was for attendees, and what could be improved for future events. This form may be used by event organizers to make data-driven decisions for future events and improvements.
-</thinking>
-
 # Girl Scout Event Evaluation Form - Help Guide
 ## Purpose
 The Girl Scout Event Evaluation Form is used to gather feedback and opinions on Girl Scout events. This form helps event organizers understand what worked well and what needs improvement to make future events successful and enjoyable for attendees.

@@ -1,10 +1,3 @@
-<thinking>
-This form aims to collect feedback and interest information from users about events. The purpose of this form is to gather data on the date and time of the event, the activity or program associated with the event, the number of attendees, and any additional comments users may have. This form should only be filled out by users who have attended the event or have some interest in it.
-
-To fill this form out correctly, please follow these steps:
-
-</thinking>
-
 # derby_event_interest_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and interest information from users about events. This information will help event organizers and administrators understand what attendees found interesting or useful about the event.

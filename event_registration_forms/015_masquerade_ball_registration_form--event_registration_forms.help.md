@@ -1,11 +1,3 @@
-<thinking>
-The form purpose is to collect information from attendees for the Masquerade Ball event. This guide is designed to help users understand the form's requirements and fill it out correctly.
-
-The form is intended to gather attendee information, such as name, email, phone number, any additional notes, the date of attendance, and the time of attendance and its end. The user must provide their full name and email address. Phone number is optional but can be useful for communication purposes. Note field can be used to provide any additional information the user wishes to share with the event organizers. The date and time fields are used to track the user's attendance.
-
-It is essential to fill out this form correctly to ensure that the user receives any event-related information they may need. Please make sure to double-check all fields before submitting the form.
-</thinking>
-
 # Masquerade Ball Registration Form - Help Guide
 ## Purpose
 The Masquerade Ball Registration Form is used to collect information from attendees for the Masquerade Ball event. This form gathers essential details such as name, email, and other relevant information to facilitate communication and event planning.

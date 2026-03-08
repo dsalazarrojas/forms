@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from workshop attendees, including their attendance status, any comments or feedback they may have, and other relevant details such as their name, email, phone number, and tool assigned to them. This form is likely used to track attendance and gather feedback from workshop participants, possibly for administrative or research purposes. Before filling out this form, please ensure that you are completing it for a workshop you have actually attended. Duplicate submissions may be removed from the database.</thinking>
-
 # Workshop Attendance Form - Help Guide
 ## Purpose
 This form is designed to collect information from workshop attendees, including their name, contact information, and attendance status, as well as any additional comments or feedback they may have.

@@ -1,7 +1,3 @@
-<thinking>
-A form for users to take the Halloween Quiz. Ensure that this form isn't taken by users who are already taking it and the form is only filled out by users on the correct context (e.g. not during other seasons). The form collects various pieces of information about users' preferences and habits for the Halloween season.
-</thinking>
-
 # Halloween Quiz - Help Guide
 ## Purpose
 The Halloween Quiz is a form designed to collect information about users' preferences and habits related to Halloween. By filling out this form, users will be able to express their opinions on various Halloween-related topics.

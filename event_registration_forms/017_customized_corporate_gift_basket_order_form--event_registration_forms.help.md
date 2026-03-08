@@ -1,7 +1,3 @@
-<thinking>
-A corporate gift basket order form for corporate clients. The form should be used to customize the contents of a gift basket for corporate events or occasions. This form is used by event planners and corporate clients to specify the details of the gift basket order, including gift options, product lists, and payment methods. To avoid any duplication of effort, please make sure to review the form for completeness before submitting it to ensure all required fields are filled out.
-</thinking>
-
 # Customized Corporate Gift Basket Order Form - Help Guide
 ## Purpose
 This form is designed for corporate event planners and clients to customize the contents of a gift basket for corporate events or occasions.

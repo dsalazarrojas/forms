@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a simple request form for studio access rescheduling. The purpose of this form is to allow users to submit a request to reschedule a studio booking. The form is likely to be used by studio staff or administrators to manage bookings and rescheduling requests. The form should be completed by users who need to reschedule a booking and have a valid reason for doing so. This form does not duplicate any existing functionality and is a unique adaptation of a public survey topic metadata.
-</thinking>
-
 # Studio Access Reschedule Request Form - Help Guide
 ## Purpose
 This form is designed to reschedule a studio booking. Please submit a request to reschedule your booking if you need to change your scheduled time or date.

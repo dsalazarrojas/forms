@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to evaluate the accessibility of events, gathering information about the experience of attendees with disabilities. It is intended for events that aim to be inclusive and accessible. The form is meant to be used by event organizers to identify areas of improvement and make their events more accessible.
-
-Before filling out this form, please note that all responses are anonymous and will be used to improve future events.
-
-</thinking>
-
 # Accessible Event Design Evaluation Survey - Help Guide
 ## Purpose
 The Accessible Event Design Evaluation Survey is designed to collect information about the accessibility of events. This form will help event organizers identify areas of improvement and make their events more accessible for all attendees.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Congratulatory Message Submission - Help Guide
 ## Purpose
 The Congratulatory Message Submission form is designed to allow you to submit a congratulatory message for an event or occasion. This form is intended for individuals who wish to send a personalized message to the honoree(s) of the event. By filling out this form, you will be able to provide a heartfelt message to be displayed and shared with the honoree and organizers.

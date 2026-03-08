@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to allow users to submit requests for events, such as conferences, seminars, fairs, and charity events. It is primarily used for events that are not recurring and have specific dates and times. The form will collect information about the event type, name, description, date and time, venue, location, and contact person in charge. 
-The form is not intended for regular events, daily events, or events where the date and time are not fixed. 
-</thinking>
-
 # Event Request Form - Help Guide
 
 ## Purpose

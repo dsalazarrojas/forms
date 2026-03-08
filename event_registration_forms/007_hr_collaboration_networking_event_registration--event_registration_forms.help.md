@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from attendees for an HR Collaboration Networking Event. The purpose of this form is to collect details about the event, attendees, and their interests and consents. The form is created using a public survey topic metadata as inspiration, with no affiliation or endorsement from any form platform. This form's design and structure are original and adapted for the specific needs of this event. The form's fields are used to collect information that will be relevant to the event's organizers and attendees. Before completing this form, please review the following guide to ensure you have all the necessary information.
-
-</thinking>
-
 # HR Collaboration Networking Event Registration - Help Guide
 ## Purpose
 This form collects information from attendees for an HR Collaboration Networking Event.

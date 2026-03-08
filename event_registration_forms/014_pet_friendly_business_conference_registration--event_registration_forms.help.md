@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from business owners and professionals interested in attending the "Pet Friendly Business Conference". The form's main purpose is to gather contact details and pet-related preferences from registrants. By understanding the form's requirements and guidelines, users can ensure a smooth and successful registration process.
-</thinking>
-
 # Pet Friendly Business Conference Registration - Help Guide
 ## Purpose
 The Pet Friendly Business Conference Registration form is meant to gather information from business owners and professionals interested in attending the conference. This form helps us to know more about our attendees' preferences and needs, and tailor the conference experience accordingly.

@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from participants for a virtual game night event. This form is used to capture details such as participant name, email, phone number, event name, game name, game type, game date, game time, event start and end dates, event start and end times, host name, host email, host phone number, game details, rules, rules URL, participant agreement, participant confirmation, game password, player count, maximum player count, and whether the game requires a password. This form ensures that all necessary information is captured for the event and helps the host to communicate effectively with the participants.
-
-This form is only to be used for event planners to collect information from their participants. Please ensure that you are registering for an event that you are participating in and not for personal or commercial use.
-
-Please do not submit this form if you are not registering for an event.
-</thinking>
-
 # virtual_game_night_registration_form - Help Guide
 
 ## Purpose

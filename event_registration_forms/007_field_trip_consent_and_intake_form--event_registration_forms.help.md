@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for the field trip program to gather necessary information from both students and parents. The purpose of this form is to ensure that students and their parents are aware of and provide consent for the necessary information and procedures required for a safe and successful field trip. The form is divided into several sections, each addressing a specific aspect of the field trip.
-</thinking>
-
 # field_trip_consent_and_intake_form - Help Guide
 ## Purpose
 This form is used to gather information from students and parents for a field trip, ensuring a safe and successful experience.

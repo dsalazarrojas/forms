@@ -1,7 +1,3 @@
-<thinking>
-This form is used to create and organize information for a party event. It should not be used for other types of events, such as meetings or appointments. If you're planning a meeting or appointment, please use the "Meeting Request Form" instead.
-</thinking>
-
 # Party Invitation Form - Help Guide
 ## Purpose
 This party invitation form is designed to collect information for a successful and enjoyable party event.

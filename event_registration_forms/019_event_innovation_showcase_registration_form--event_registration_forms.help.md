@@ -1,7 +1,3 @@
-<thinking>
-This form is a critical component of the event planning process for the Event Innovation Showcase. It requires event planners, attendees, and potential presenters to provide essential information. This information is essential for creating a well-organized and engaging event. The primary goal is to gather necessary details for the event, including session interests, potential presenters, attendee details, event date, time, and contact information. Please ensure you fill out the form accurately and completely.
-</thinking>
-
 # Event Innovation Showcase Registration Form - Help Guide
 ## Purpose
 The Event Innovation Showcase Registration Form is a mandatory form that collects essential details from event planners, attendees, and potential presenters for the Event Innovation Showcase event. This form is crucial for creating a seamless and engaging event experience.

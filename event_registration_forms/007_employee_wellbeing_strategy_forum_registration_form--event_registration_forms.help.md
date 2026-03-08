@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for employees to register themselves for an event. The purpose of this form is to collect information about the employee's details, such as their name, email, and position, as well as event details like the date, time, and location. By filling out this form, employees can ensure that their registration is accurately recorded and that they receive any necessary instructions or reminders about the event. Please ensure that you are filling out this form for a valid event and not duplicating your registration.
-
-</thinking>
-
 # Employee Wellbeing Strategy Forum Registration Form - Help Guide
 ## Purpose
 This form is used to register employees for events related to employee wellbeing strategy. Please fill out the form with your details to ensure accurate registration and receipt of event information.

@@ -1,12 +1,3 @@
-<thinking>
-We need to create a help guide for end-users to understand the purpose and usage of the "Medical Data Security Program Evaluation Form". The form is designed to assess the effectiveness and measures taken by a medical organization to protect its sensitive patient data. The form's goal is to evaluate the current state of the medical data security program and identify areas for improvement.
-
-The form consists of five pages, each with a unique label and type. The first page is titled "Evaluation Form", which likely contains basic contact information or identification details. The second page is titled "Program Scope", which may ask about the organization's policies, procedures, or goals related to data security. The third page, "Security Measures", could inquire about the specific actions taken to safeguard against data breaches, such as encryption, access controls, or data backup. The fourth page, "Data Challenges", might explore the obstacles or issues the organization is facing in maintaining data security, such as technical limitations or regulatory hurdles. The fifth and final page, "Program Evaluation", is intended to gather feedback on the overall program's effectiveness and areas for improvement.
-
-We should verify that the form's purpose and structure align with the organization's actual needs and policies. Additionally, we should ensure that the form's questions and fields are clear and concise, avoiding any potential biases or misunderstandings. By doing so, we'll create a helpful and user-friendly guide for end-users.
-
-</thinking>
-
 # Medical Data Security Program Evaluation Form - Help Guide
 ## Purpose
 The purpose of this form is to evaluate the effectiveness and security measures of your medical data security program. This will help us assess the current state of your program and identify areas for improvement.

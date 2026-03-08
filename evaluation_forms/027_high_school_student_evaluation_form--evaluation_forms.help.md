@@ -1,5 +1,3 @@
-<thinking>As a high school student evaluation form, its purpose is to assess a student's performance, skills, and behavior in various areas such as academic, time management, communication, teamwork, and more. The form aims to collect feedback from students about their experience in school, their relationships with teachers and staff, and their overall satisfaction with the school environment. This feedback is valuable for administrators and teachers to better understand students' needs, strengths, and weaknesses, ultimately helping the school improve its services and programs.</thinking>
-
 # High School Student Evaluation Form - Help Guide
 ## Purpose
 The High School Student Evaluation Form is designed to gather feedback from students about their performance, skills, and experience in school. This form helps teachers and administrators understand students' strengths and weaknesses, providing valuable insights to improve the school environment and services.

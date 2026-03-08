@@ -1,10 +1,3 @@
-<thinking>
-
-**Internal Reasoning Block:**
-This form is intended to gather event registration information for an event called "Finger Food". The fields include event title, event date, event time, RSVP information, attendee name, dietary preferences, additional comments, contact information, number of guests, and special requests. The form should be filled out completely for accurate and efficient event planning. Please make sure to answer all questions truthfully and to the best of your ability. 
-
-</thinking>
-
 # Finger Food Event Registration - Help Guide
 ## Purpose
 This form is used to collect information from participants for the Finger Food event. To register for the event, please fill out the form completely and accurately.

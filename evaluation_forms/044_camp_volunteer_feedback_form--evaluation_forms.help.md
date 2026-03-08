@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to gather feedback from volunteers who have participated in a camp or similar program. It is intended to be completed by the volunteer themselves, providing an opportunity for them to express their experiences, suggestions, and opinions on the program. Completing this form will help the program organizers understand the strengths and weaknesses of the program, allowing them to make necessary improvements and adjustments for future participants.
-
-It is essential to note that the form is designed for feedback, not for evaluation purposes. The goal is to gather honest and constructive feedback, not to criticize or judge individual volunteers.
-
-Before starting, review the form carefully to ensure you understand the purpose and the fields required. Some fields are optional, but providing feedback is encouraged for all questions.
-
-Please be honest and thorough in your responses, and feel free to provide any suggestions or comments you think will help improve the program.
-</thinking>
-
 # Camp Volunteer Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from volunteers who have participated in a camp or similar program. It is a tool for the program organizers to understand the experiences and opinions of volunteers, making necessary improvements and adjustments for future participants.

@@ -1,16 +1,3 @@
-<thinking>
-Before we begin, let's clarify the purpose of the Pool Party Registration Form. This form is designed to collect essential information from individuals attending a pool party event. It's crucial that users understand that this form helps us gather accurate and complete data for event management, which includes but is not limited to:
-
-*   Ensuring the correct count of attendees for event planning purposes
-*   Validating attendee details, such as age and contact information
-*   Identifying participant preferences and requirements
-
-Please ensure that users do not register multiple times. Each registration should represent a unique individual attending the event.
-
-This guide will walk you through the process of filling out the Pool Party Registration Form, explaining each field's purpose, and providing practical tips to ensure accurate and efficient submission.
-
-</thinking>
-
 # Pool Party Registration Form - Help Guide
 ## Purpose
 The Pool Party Registration Form collects essential information from individuals attending a pool party event. This data is vital for event management purposes, including accurate headcount, attendee validation, age and contact information validation, and participant preferences identification.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect data related to the evaluation of dog training sessions. The form will be used to assess the performance of a dog's training level, behavior, and overall progress. It's intended to be filled out by dog owners, trainers, or evaluators who have observed a dog's behavior during a training session.
-
-This form can be completed by anyone with knowledge of the dog's training level and behavior. However, the input from a trainer or evaluator who has observed the dog during a training session will be most valuable.
-
-The form is not designed to be used for duplicate evaluations of the same dog training session. If you are evaluating a dog that has already been evaluated, you should not fill out this form.
-
-</thinking>
-
 # Dog Training Evaluation Form - Help Guide
 ## Purpose
 The Dog Training Evaluation Form is designed to collect data on a dog's training level, behavior, and overall progress. It will help dog owners, trainers, or evaluators assess the effectiveness of a training session and identify areas of improvement.

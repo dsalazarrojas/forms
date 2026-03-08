@@ -1,7 +1,3 @@
-<thinking>
-We are creating a form for users to sign up for the Christmas Parade, a festive event that brings the community together. This form aims to gather essential information from participants to ensure a well-organized and safe event. The purpose of this form is to collect contact information, parade group details, and other relevant data to facilitate the participation process. To ensure accuracy, please complete the form with attention to detail.
-</thinking>
-
 # Christmas Parade Sign Up Form - Help Guide
 ## Purpose
 The Christmas Parade Sign Up Form is designed to collect necessary information from participants to ensure a successful and enjoyable event. Please take a few minutes to complete this form accurately and thoroughly.

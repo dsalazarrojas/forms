@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for communicating event invitations to guests. The event organizer can use this form to gather important information from the guest, including their name, phone number, dietary preferences, and RSVP status. This form is not intended for sensitive or personal data collection, so please be cautious when handling the collected information. To prevent duplication, ensure that the form is only filled out once per guest.
-</thinking>
-
 # Event Invitation Communication Form - Help Guide
 ## Purpose
 This form is designed to help event organizers gather information from guests about their event invitations. It is meant to be a simple and straightforward way to collect details like guest names, phone numbers, and event specifics.

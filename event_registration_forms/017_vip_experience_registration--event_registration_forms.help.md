@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to capture information related to a VIP experience, which can include events, appointments, or other special occasions where high-profile guests or attendees are expected. This form is likely used to collect details about the experience, such as the date and time, contact information, and any other relevant details that might be needed to plan and execute the event smoothly. Before proceeding, please ensure this is the correct form for your use case and not a duplicate form for a similar purpose.
-
-</thinking>
-
 # VIP Experience Registration - Help Guide
 ## Purpose
 This form is used to register and capture information about a VIP experience, such as events, appointments, or other special occasions.

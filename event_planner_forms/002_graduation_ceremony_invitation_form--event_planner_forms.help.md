@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for a graduation ceremony invitation. The purpose of this form is to gather details about the graduation ceremony, such as date, time, location, and venue. It also asks for contact information for the person inviting and the attendees. The form is used to create an invitation that can be shared with the graduates and their families.
-</thinking>
-
 # Graduation Ceremony Invitation Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information for a graduation ceremony invitation.

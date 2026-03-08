@@ -1,8 +1,3 @@
-<thinking>
-The purpose of the Speaking Evaluation Form is to assess a speaker's performance in a presentation, meeting, or similar communication scenario. This form is designed to gather feedback on various aspects of the speaker's communication skills, including overall score, communication skills, fluency, pronunciation, body language, and self-reflection. The form is used to provide a quick and easy way to evaluate and improve a speaker's performance.
-Before filling out this form, please ensure you are using it to evaluate a speaker's performance in a specific context (e.g., presentation, meeting, etc.) and that you are not filling out the same form for multiple speakers in the same context, as this could lead to inconsistent and unfair evaluations.
-</thinking>
-
 # Speaking Evaluation Form - Help Guide
 
 ## Purpose

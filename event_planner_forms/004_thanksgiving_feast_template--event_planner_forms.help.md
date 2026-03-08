@@ -1,17 +1,3 @@
-<thinking>
-This help guide is for the "Thanksgiving Feast Template" form, designed to help users organize and plan their Thanksgiving dinner events. This form serves as a structured framework for capturing essential details about the event, such as the main course, side dishes, dessert, drink options, guest information, and logistical details.
-
-To ensure that the form is being filled out correctly, please follow these steps:
-
-* Review the form carefully to understand what each field represents and what information it requires.
-* Fill out the required fields first, as they are marked as such in the form.
-* For select_one and select_multiple fields, choose one or multiple options from the provided list that best fit your event needs.
-* Use the note field for any additional information that doesn't fit into the other categories.
-
-This form is designed to be user-friendly and adaptable, allowing you to add or remove fields as needed for your specific event. 
-
-</thinking>
-
 # Thanksgiving Feast Template - Help Guide
 ## Purpose
 This form is designed to help you organize and plan your Thanksgiving dinner event. It captures essential details about the main course, side dishes, dessert, drinks, guests, and logistical information.

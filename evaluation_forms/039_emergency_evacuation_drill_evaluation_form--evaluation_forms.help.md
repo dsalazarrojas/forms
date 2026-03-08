@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, I've checked the form's purpose and fields to ensure it meets the required structure and content. The form is intended to evaluate the effectiveness and safety of emergency evacuation drills. It seems that the form is designed to gather feedback from participants and drill leaders, providing a range of questions to assess different aspects of the drill, including participants' safety, equipment, and overall effectiveness. I'll proceed to create the help guide based on this understanding.</thinking>
-
 # emergency_evacuation_drill_evaluation_form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>What if this form is used to evaluate the effectiveness of a training session, and it's meant to collect feedback from participants about their experience. To be eligible for this form, the participant must have attended a training session and have some level of experience with the content being presented. This form shouldn't be used to evaluate a training session that a participant hasn't attended or hasn't interacted with the content in some way. This form is used for participants to provide feedback on the session they've attended. It's not meant for non-participants or people who haven't had any interaction with the content. I'll make sure to keep this in mind as I write this guide.</thinking>
-
 # Training Effectiveness Evaluation Form - Help Guide
 ## Purpose
 This form is designed to help evaluate the effectiveness of a training session that you have attended. It is meant to gather feedback from participants about their experience with the content and session facilitators.

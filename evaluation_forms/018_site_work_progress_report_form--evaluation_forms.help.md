@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about a site work progress report. Site work typically refers to construction or maintenance work performed at a specific site or location. This form is meant to be completed by site workers or project managers to provide a report on the progress of their site work. To ensure the form is used correctly, please note that it is intended to be used for general site work progress reports and is not meant for other types of reports or forms. If you're unsure about a specific field, please refer to the field-by-field explanation below.
-</thinking>
-
 # Site Work Progress Report Form - Help Guide
 ## Purpose
 The Site Work Progress Report Form is designed to gather information about the progress of site work projects. This form is intended to be completed by site workers or project managers to report on the status of their projects.

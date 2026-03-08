@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for users to book entrepreneurship workshops. The form is meant for participants to provide their details, workshop details, and confirm their booking. The fields are structured to collect relevant information that will help in the smooth organization and execution of the workshops. This form is likely to be used by the organizers of the workshop to manage the registrations and keep track of the attendees.
-
-Before proceeding, it's essential to ensure that the form is not a duplicate and that the participant is not already registered for the workshop. This is to prevent multiple registrations and maintain an organized database.
-
-</thinking>
-
 # Entrepreneurship Workshop Booking Form - Help Guide
 ## Purpose
 This form is designed to collect participant and workshop details for the entrepreneurship workshops.

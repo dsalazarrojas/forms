@@ -1,19 +1,3 @@
-<thinking>
-To ensure that this form is completed correctly, we must first consider its purpose. This is a Bachelorette Party Invitation Form, and it's essential that the bride-to-be's friends and family members understand the occasion and their role in it. It's also crucial to verify that the form is being filled out correctly and not duplicated.
-
-The form will be used to gather information about the upcoming bachelorette party, including the host's name, the bride's name, the event date, venue, and RSVP details. It's vital to ensure that all required fields are filled out correctly, as they pertain to the core details of the event.
-
-To verify that the form is being filled out correctly, we should check for the following:
-- The host's name is correctly filled out.
-- The bride's name is correctly filled out.
-- The event date is correctly filled out.
-- The RSVP details (date and status) are correctly filled out.
-- The dietary restrictions and contribution to the group gift are correctly filled out.
-
-Additionally, we should also confirm that the form is not being duplicated, which means we should not receive multiple responses with the same information.
-
-</thinking>
-
 # Bachelorette Party Invitation Form - Help Guide
 
 ## Purpose

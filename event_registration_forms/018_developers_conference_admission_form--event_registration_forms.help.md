@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from attendees, speakers, sponsors, and exhibitors for the Developers Conference. It's intended for individuals who want to register for the event, submit a presentation, or showcase their products/exhibits. The form will help us understand attendee preferences, dietary restrictions, emergency contact information, and other necessary details to ensure a smooth and enjoyable experience for everyone.
-
-Before filling out the form, please make sure you are submitting the correct information for your intended role at the conference. If you're registering as an attendee, please fill out the attendee information. If you're a speaker, please fill out the speaker information. If you're a sponsor or exhibitor, please fill out the relevant fields for your company's representative.
-
-To avoid any confusion, please review the form carefully before submitting it. If you have any questions or concerns, feel free to reach out to us.
-
-</thinking>
-
 # Developers Conference Admission Form - Help Guide
 ## Purpose
 This form is designed to collect information from attendees, speakers, sponsors, and exhibitors for the Developers Conference.

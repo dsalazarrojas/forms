@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for farmers market event registration. The vendor and visitor information is collected for the event. This form ensures that the event organizers can keep track of the vendor and visitor information and manage the event effectively. This form should only be filled by authorized individuals, and the data collected will be kept confidential. Please note that some fields are marked as required, which means that the information provided in those fields will be used to process your RSVP, and it is essential to fill them accurately and completely.
-
-</thinking>
-
 # farmers_market_event_rsvp_form - Help Guide
 ## Purpose
 This form is used to register vendors and visitors for farmers market events. It collects essential information such as vendor and visitor details, RSVP type, and other relevant details.

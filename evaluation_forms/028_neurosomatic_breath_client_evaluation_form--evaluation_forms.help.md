@@ -1,11 +1,3 @@
-<thinking>Before creating this help guide, I'll review the form fields and provide an explanation of its purpose and how to complete it.
-
-The "neurosomatic_breath_client_evaluation_form" is likely designed to collect patient information related to respiratory health, such as medical history, symptoms, and treatment plans. The form appears to be used for patient evaluation and may be used by medical professionals to assess the patient's condition and create treatment plans.
-
-To determine if the form has been filled out correctly, we should check if all required fields are completed and if the options chosen match the correct criteria (e.g., "Symptoms" is required, so the patient must select a valid option from the list). This form may require the use of multiple-choice questions, text fields for notes or comments, and date/time fields for recording dates and times of events.
-
-This guide will be written to provide clear instructions on how to complete each field and explain any ambiguous or unclear labels.</thinking>
-
 # neurosomatic_breath_client_evaluation_form - Help Guide
 ## Purpose
 The "neurosomatic_breath_client_evaluation_form" is a patient evaluation form used to collect information about respiratory health, including medical history, symptoms, and treatment plans. It is designed to be completed by patients and reviewed by medical professionals to assess their condition and create personalized treatment plans.

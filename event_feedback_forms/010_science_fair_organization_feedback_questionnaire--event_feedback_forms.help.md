@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a feedback questionnaire designed to gather information from participants or attendees of a science fair event. The purpose of this form is to collect feedback on the organization of the event, including details about the event team, overall experience, and any improvement suggestions. This form likely aims to identify areas of improvement for future events. To ensure that this form is not duplicated, it is essential to review the existing forms and feedback mechanisms to guarantee that this form is not redundant. Additionally, it is crucial to consider the target audience and their expectations to ensure that the form is relevant and useful to them.
-
-</thinking>
-
 # Science Fair Organization Feedback Questionnaire - Help Guide
 
 ## Purpose

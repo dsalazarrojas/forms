@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect evaluations of a basketball player's performance during a game or practice. Evaluators, typically coaches, scouts, or athletic directors, will use this form to rate various aspects of a player's skills, including their offensive and defensive abilities, physical attributes, and intangible qualities such as coachability, leadership, and basketball IQ. This form helps provide a comprehensive picture of the player's strengths and areas for improvement.
-
-</thinking>
-
 # Basketball Player Evaluation Form - Help Guide
 ## Purpose
 The Basketball Player Evaluation Form is designed to collect evaluations of a basketball player's performance during a game or practice. This form is used to assess a player's skills, physical attributes, and intangible qualities, providing a comprehensive understanding of their strengths and weaknesses.

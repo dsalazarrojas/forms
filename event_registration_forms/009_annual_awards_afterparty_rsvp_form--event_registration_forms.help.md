@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for individuals to RSVP to the annual awards afterparty event. It collects information on attendee's personal details, preferences, and special requirements. This form should only be filled out by the person attending the afterparty, and it's recommended that one person per guest fills out a separate form if the guest's information is different from the attendee's.
-
-The form is divided into multiple pages, each containing a set of questions or fields that are relevant to the page's theme. Each field is marked with a required or optional status, indicating whether the field must be filled out or not.
-
-To avoid duplication, please ensure that each person attending the afterparty fills out their own form, and not someone else's on their behalf.
-
-</thinking>
-
 # Annual Awards Afterparty RSVP Form - Help Guide
 
 ## Purpose

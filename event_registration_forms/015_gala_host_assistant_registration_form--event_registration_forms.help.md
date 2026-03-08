@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to collect information from individuals who want to register as assistants for a galas. The form is meant to gather necessary details such as name, contact information, experience, availability, and category of assistance they can provide. The form is not required for any of the fields and is intended for those who want to volunteer their time and services for the event. Please ensure that you are only completing this form once, as duplicates may cause confusion and unnecessary work for the event planners. 
-</thinking>
-
 # Gala Host Assistant Registration Form - Help Guide
 ## Purpose
 This form is used to register as a host assistant for galas. If you're interested in volunteering your time and services for an event, please fill out this form to be considered for assignment.

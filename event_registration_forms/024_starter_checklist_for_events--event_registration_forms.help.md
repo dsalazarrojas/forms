@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for registering and managing events within an organizational or personal setting. The form captures the essential details of an event, including its name, date, time, location, description, and status, as well as additional information such as tasks, deadlines, reminders, and assigned users. The form is designed to be flexible and adaptable to various use cases, allowing users to tailor their experience according to their specific needs.
-
-Before proceeding, we check if you have already created an event with a matching name. If you're unsure about any field, please refer to this guide for clarification.
-
-</thinking>
-
 # Starter Checklist For Events - Help Guide
 ## Purpose
 This form is designed to streamline the process of registering and managing events, ensuring that all relevant details are captured efficiently and effectively.

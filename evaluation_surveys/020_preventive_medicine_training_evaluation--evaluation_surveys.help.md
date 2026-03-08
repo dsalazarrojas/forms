@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to evaluate a Preventive Medicine Training. The form is used to collect feedback from participants about their experience in the training course. The purpose of this form is to gather information on the course name, training date, training location, instructor name, instructor role, course attendance, evaluation rating, and evaluation comments. This form is likely used by training administrators or evaluators to assess the quality of the training program.
-
-It's assumed that the form is being filled out by participants of the training course. To ensure that the form is being filled out correctly, please check that the form is not being duplicated or filled out multiple times by the same participant.
-
-This form has multiple pages, but they are not explicitly defined in the YAML schema. Therefore, we will be explaining each field in the provided schema.
-
-</thinking>
-
 # Preventive Medicine Training Evaluation - Help Guide
 ## Purpose
 The Preventive Medicine Training Evaluation form is designed to gather feedback from participants about their experience in the Preventive Medicine Training course.

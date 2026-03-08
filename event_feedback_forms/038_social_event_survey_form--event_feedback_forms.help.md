@@ -1,10 +1,3 @@
-<thinking>### Purpose
-This form is designed to gather feedback on social events, allowing organizers and planners to evaluate and improve future events. It aims to collect information on event specifics, such as date, location, and number of attendees, as well as the type of event and areas for improvement.
-
-When filling out this form, please note that answers are not necessarily meant to be definitive or absolute. The goal is to provide a starting point for evaluation and discussion.
-
-This form is for general feedback; sensitive or confidential information should not be shared here.</thinking>
-
 # Social Event Survey Form - Help Guide
 ## Purpose
 The Social Event Survey Form is designed to gather feedback on social events. It aims to collect information that can help improve future events.

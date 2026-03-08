@@ -1,14 +1,3 @@
-<thinking>
-This form is used to register a runner for a Cross Country event. It is essential to fill in accurate and complete information for the runner. Please note that this form can be completed in multiple pages, and some fields may be optional.
-
-Before starting to fill in the form, ensure you have all the required information ready. This form is designed to gather details about the runner and their preferences for the event. If you are unsure about any of the information, please seek clarification before proceeding.
-
-To avoid errors, review each field carefully and make sure to fill in the correct information.
-
-This form has multiple pages with different types of fields. Please go through each page and field as indicated below:
-
-</thinking>
-
 # Cross Country Event Registration - Help Guide
 ## Purpose
 The Cross Country event registration form is designed to collect information about runners and their event preferences. This information will be used to manage the event registration process effectively.

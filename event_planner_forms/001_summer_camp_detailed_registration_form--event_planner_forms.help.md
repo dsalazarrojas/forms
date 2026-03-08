@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Summer Camp Detailed Registration Form - Help Guide
 ## Purpose
 This form is designed to collect detailed information from participants and their parents/guardians for the summer camp program. It's essential to fill out this form accurately and completely to ensure a smooth and enjoyable experience for both the participant and the staff. Please review each section carefully and ask for help if you need it.

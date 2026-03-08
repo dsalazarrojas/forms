@@ -1,10 +1,3 @@
-<thinking>
-This help guide will be used to provide clear and concise instructions for end-users on how to complete the Networking Event Feedback Survey Form. To start, it's essential to clearly define the form's purpose and ensure that the information collected is accurate and non-duplicative. This form is intended to gather feedback from attendees of a networking event, providing an opportunity to understand what worked well and what could be improved for future events.
-
-When filling out the form, please follow the instructions carefully to avoid missing any critical information.
-
-</thinking>
-
 # Networking Event Feedback Survey Form - Help Guide
 ## Purpose
 This survey form is designed to collect feedback from attendees of networking events to help us understand their experience and identify areas for improvement.

@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for medical exhibition registration. Exhibitions are events where medical professionals showcase their skills, share knowledge, or demonstrate new medical technologies. The form is probably used to collect information from attendees, speakers, or participants. The fields might require personal and professional details, medical licensing information, medical field expertise, payment terms, and other relevant details.
-</thinking>
-
 # medical_exhibition_registration_form - Help Guide
 ## Purpose
 The medical exhibition registration form is used to collect information from attendees, speakers, or participants for a medical exhibition event. This form helps event organizers gather the necessary details to manage the event efficiently.

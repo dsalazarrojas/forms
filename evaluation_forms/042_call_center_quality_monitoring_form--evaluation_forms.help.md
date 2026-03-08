@@ -1,8 +1,3 @@
-<thinking>
-We're going to create a user-facing help guide for the Call Center Quality Monitoring Form. This form is used to evaluate the quality of calls handled by call center agents. The purpose of this form is to provide a structured way to assess the skills and performance of call center agents, identify areas where they need improvement, and provide coaching recommendations for future development.
-Before filling out this form, please check if the call has already been evaluated, as it's not necessary to fill out the form for calls that have already been evaluated. If you're evaluating a call, please ensure that you're using your best judgment and expertise to provide accurate and objective assessments.
-</thinking>
-
 # Call Center Quality Monitoring Form - Help Guide
 ## Purpose
 The Call Center Quality Monitoring Form is used to evaluate the quality of calls handled by call center agents, identify areas for improvement, and provide coaching recommendations for future development.

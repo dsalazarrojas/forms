@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to collect information from guests attending an event. The purpose of this form is to gather relevant details from guests, such as their name and contact information, to facilitate communication and event organization. 
-
-The form will be used by event planners to create and edit party RSVPs in the system. 
-
-This form has two pages with three fields: guest name, guest email, and guest phone. 
-
-To prevent data duplication, the system should be able to recognize and prevent duplicate entries for the same guest, but this is not currently implemented in this version of the form.
-</thinking>
-
 # Party RSVP - Help Guide
 ## Purpose
 The Party RSVP form is used by event planners to collect information from guests attending an event.

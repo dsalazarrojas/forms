@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for the "Apprentice Evaluation Checklist" form, which is designed to collect feedback and assessment on an apprentice's performance in a particular trade or skill area. The form is used to evaluate an apprentice's level of competency, safety compliance, and overall performance.
-</thinking>
-
 # Apprentice Evaluation Checklist - Help Guide
 ## Purpose
 The "Apprentice Evaluation Checklist" form is designed to help evaluators assess an apprentice's performance in a particular trade or skill area. It is intended to provide a comprehensive overview of the apprentice's strengths and weaknesses, and to identify areas for improvement.

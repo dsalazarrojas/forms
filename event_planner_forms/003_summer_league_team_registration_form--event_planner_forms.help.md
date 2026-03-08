@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for teams to register for the summer league. The purpose of this form is to gather information about the team, including team name, contact person's email, team manager's phone number, and other relevant details. This form should be completed by the team manager or a person authorized to represent the team. Please ensure you are the correct person to complete this form and that your team's information is accurate.
-
-Before starting, ensure that your team's information is accurate and up-to-date. This form should not be used to register teams that have already been registered or to submit changes to an existing registration.
-
-Please complete this form carefully, and if you have any doubts or concerns, reach out to the relevant authorities for clarification.
-
-</thinking>
-
 # summer_league_team_registration_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about your team's registration for the summer league.

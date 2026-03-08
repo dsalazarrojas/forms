@@ -1,14 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Nonprofit Board Governance Practices Survey" form, I will follow the instructions to provide a clear and concise explanation of the form's purpose, how to complete it, and each field's meaning.
-
-The purpose of this form is to collect information about the governance practices of nonprofit organizations. The form is designed to help identify best practices and areas for improvement in board governance, leadership, and financial management. This data will be used to provide guidance and resources to nonprofit organizations to enhance their governance and overall effectiveness.
-
-This form will not ask for any sensitive or personally identifiable information, and all responses will be kept confidential. The form is intended for use by nonprofit organizations, their boards of directors, or other relevant stakeholders.
-
-Before starting, please review each field carefully to ensure you are providing accurate and relevant information. If you have any questions or concerns, please don't hesitate to reach out to the form administrators.
-
-</thinking>
-
 # Nonprofit Board Governance Practices Survey - Help Guide
 ## Purpose
 

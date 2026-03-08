@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect registration information from users to participate in a live demo for invoice processing. 
-The form collects user's basic contact information (First Name, Last Name, and Email), as well as professional information (Role, Company, Department, Job Title, and Job Function), and a phone number. 
-The form has been designed to be completed by a single user at a time. 
-
-Please note that the "Role" field is a mandatory field as it helps us understand the user's affiliation with the company. 
-This form is meant to be used for registration purposes only and will not be used for any other purpose.
-</thinking>
-
 # Invoice Processing Live Demo Registration - Help Guide
 ## Purpose
 The Invoice Processing Live Demo Registration form is designed to collect registration information from users to participate in a live demo for invoice processing.

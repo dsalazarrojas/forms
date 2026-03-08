@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to evaluate the current state of talent retention within an organization. The purpose of this survey is to gather information about employees' perceptions of their job satisfaction, benefits, work-life balance, and other factors that influence their desire to stay with the organization. The survey aims to identify areas of improvement and provide insights for the management to develop effective talent retention strategies.
-
-This form should only be completed by employees of the organization. 
-
-The responses will be kept confidential and anonymous.
-
-This form should not be completed if you have already done so in the past 6 months.
-
-Please make sure to answer honestly and to the best of your abilities.
-
-Please note that this form has multiple pages, you can save your progress and come back later to complete it.
-
-</thinking>
-
 # Talent Retention Strategy Evaluation Survey - Help Guide
 ## Purpose
 

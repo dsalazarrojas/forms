@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect data about a facility's location. Before proceeding, please ensure that you are using this form for a valid purpose and that you have not already submitted this information elsewhere. This form will help the user to enter and evaluate a facility's details.
-</thinking>
-
 # Facility Location Evaluation Form - Help Guide
 ## Purpose
 This form is used to collect and evaluate information about a facility's location, including its address, phone number, email, and map-related information.

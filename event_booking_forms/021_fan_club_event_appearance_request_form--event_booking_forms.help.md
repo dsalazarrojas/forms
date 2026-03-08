@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for event management and booking purposes. The event booking date and time fields are provided to collect information about the event's schedule. The fan club name, email, and phone fields are for communication purposes. The event attendees field is for specifying people attending the event. The requested date field is to track when the event was requested. This form is not meant to be a comprehensive event registration form but a simple way for fans to book and request events with the fan club.
-
-Form validation checks for non-duplication, meaning if the event booking date and time already exists in the system it will prompt an error.
-
-Please fill out the form with the following information to make an event booking request.
-
-</thinking>
-
 # Fan Club Event Appearance Request Form - Help Guide
 
 ## Purpose

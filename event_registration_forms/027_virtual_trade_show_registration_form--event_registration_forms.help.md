@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide is intended to assist users in completing the Virtual Trade Show Registration Form. It is designed to gather information from users attending a virtual trade show. The form is divided into several sections to ensure that users provide the necessary details for a successful registration.
 
 </thinking>

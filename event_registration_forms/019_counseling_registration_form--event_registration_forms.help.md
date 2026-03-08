@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to collect personal and contact information from individuals seeking counseling services. Please ensure that you only submit this form if you are seeking counseling services. Re-submission of this form may lead to duplicate entries and confusion in our records. 
-</thinking>
-
 # Counseling Registration Form - Help Guide
 
 ## Purpose

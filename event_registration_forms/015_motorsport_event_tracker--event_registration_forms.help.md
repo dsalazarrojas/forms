@@ -1,7 +1,3 @@
-<thinking>
-This form is used to track motorsport events. The purpose of the form is to gather essential details about each event. The form has multiple fields to collect different types of information, such as event details, location, categories, and status updates. The form is not limited to a single purpose, allowing users to track a wide range of events. It is possible that some of these fields may not be applicable or relevant for specific events. Please refer to the relevant sections below for more information on each field.
-</thinking>
-
 # Motorsport Event Tracker - Help Guide
 ## Purpose
 This form is used to track motorsport events, providing a comprehensive platform to collect and store event details.

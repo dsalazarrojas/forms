@@ -1,9 +1,3 @@
-<thinking>
-**Form Relevance and Non-Duplication Check**
-
-This form is for event vendors to check out of events, and should only be filled out by event organizers and/or other authorized personnel to ensure accurate and timely event payments. Please only fill this form out if you are authorized to do so. If you are unsure, contact the relevant party for clearance.
-</thinking>
-
 # cultural_event_vendor_check_out_form - Help Guide
 ## Purpose
 This form is used by event organizers to collect payment details and event information from vendors after an event.

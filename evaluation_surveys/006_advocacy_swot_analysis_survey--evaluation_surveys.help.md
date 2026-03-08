@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Advocacy SWOT Analysis Survey - Help Guide
 
 ## Purpose

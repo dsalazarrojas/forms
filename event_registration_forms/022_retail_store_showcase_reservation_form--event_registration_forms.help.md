@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Retail Store Showcase Reservation Form". This form is used for customers to reserve a showcase at a retail store, providing essential information for the event. The form should be filled out with the customer's name, email, phone number, event date and time, showcase type, number of guests, and any special requests. Additionally, the store manager's name and event status should be captured. The form may be used for various purposes, such as event planning, sales promotion, or marketing. To ensure that each customer's request is properly documented, we will follow a standard procedure for handling the form data. 
-</thinking>
-
 # Retail Store Showcase Reservation Form - Help Guide
 ## Purpose
 The Retail Store Showcase Reservation Form is designed for customers to reserve a showcase at a retail store, providing essential information for event planning and management.

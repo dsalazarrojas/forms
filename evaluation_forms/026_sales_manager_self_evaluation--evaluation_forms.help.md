@@ -1,9 +1,3 @@
-<thinking>As a part of our ongoing efforts to improve performance and growth within the sales department, we have designed the Sales Manager Self Evaluation form to gather valuable insights from sales managers on their performance, goals, and leadership skills. This form is meant to be completed by sales managers themselves, and the data collected will be used for internal purposes to aid in the evaluation and development of our sales team.
-
-Before proceeding, please ensure that this form is relevant to your role and doesn't overlap with any other evaluation forms you may be using. This form's data will help us understand the strengths and weaknesses of our sales managers and provide actionable feedback for improvement. Please complete this form thoroughly and honestly, as your input is valuable to us.
-
-</thinking>
-
 # Sales Manager Self Evaluation - Help Guide
 ## Purpose
 The Sales Manager Self Evaluation form is designed to gather information on sales managers' performance, goals, and leadership skills. This form will help us evaluate and develop our sales team's strengths and weaknesses.

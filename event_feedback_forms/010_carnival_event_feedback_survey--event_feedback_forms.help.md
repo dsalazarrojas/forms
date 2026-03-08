@@ -1,10 +1,3 @@
-<thinking>
-This guide is for the Carnival Event Feedback Survey form, designed to gather feedback from attendees to improve future events. This form is used to collect information about the respondent's experience at the carnival, including their overall experience, rating of rides and attractions, food and beverages, games and activities, and other aspects of the event. The form will help us understand what worked well and what could be improved to make future events more enjoyable for visitors.
-
-To submit feedback, please follow the instructions below:
-
-</thinking>
-
 # Carnival Event Feedback Survey - Help Guide
 ## Purpose
 This guide will walk you through the Carnival Event Feedback Survey form, providing information on how to complete it and what each field means.

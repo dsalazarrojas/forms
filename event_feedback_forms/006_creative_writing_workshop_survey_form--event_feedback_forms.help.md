@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback and evaluation on the Creative Writing Workshop. The purpose of this form is to gather information about the workshop's effectiveness, facilitators, and participants' experiences. This form will help us understand what worked well and what didn't, identify areas for improvement, and inform future workshop planning.
-
-To ensure accurate and complete feedback, please review the form carefully before submitting it. If you have any questions or concerns, please don't hesitate to ask.
-
-Please note that this form is for feedback purposes only and will not be shared publicly.
-
-</thinking>
-
 # Creative Writing Workshop Survey Form - Help Guide
 
 ## Purpose

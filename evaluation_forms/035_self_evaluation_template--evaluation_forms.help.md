@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to help employees evaluate their own performance and progress in their roles. It is intended for self-assessment and personal development, allowing employees to identify their strengths and weaknesses, areas for improvement, and create a development plan to grow in their position.
-
-This form is meant to be filled out by the employee themselves, and will help them:
-
-- Identify areas where they excel
-- Recognize areas where they need to improve
-- Develop a plan to address those areas
-- Reflect on their progress and growth
-
-Before filling out this form, please ensure you have reviewed and reflected on your performance and progress over the evaluation period. This form is meant to be a personal and introspective exercise, and your responses will help inform your own growth and development.
-
-Please note that this form is meant for personal use only. If you are an HR representative or manager, please use this form as a guide to help employees complete their self-evaluations. If you are an employee, please ensure that you have the necessary autonomy to complete this form without external influence or guidance.
-</thinking>
-
 # Self Evaluation Template - Help Guide
 ## Purpose
 

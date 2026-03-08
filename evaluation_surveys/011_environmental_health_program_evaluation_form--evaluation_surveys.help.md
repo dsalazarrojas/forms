@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # environmental_health_program_evaluation_form - Help Guide
 
 ## Purpose

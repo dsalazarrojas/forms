@@ -1,9 +1,3 @@
-<thinking>
-The form is intended to be used by attendees to RSVP to the Kiss And Tell Valentines Dance Party. This form will likely be used internally within the company or organization, hence the form purpose is to gather RSVP information for planning and organizational purposes. It is likely that this form will be used by event planners to determine attendee counts and other relevant details for event planning. 
-
-This form should not be used for other purposes than what is intended here.
-</thinking>
-
 # Kiss And Tell Valentines Dance Party RSVP Form - Help Guide
 ## Purpose
 This form is used by attendees to RSVP to the Kiss And Tell Valentines Dance Party. It gathers information to help event planners with event planning and organization.

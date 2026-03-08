@@ -1,9 +1,3 @@
-<thinking>
-
-**The purpose of this form is to collect ideas and suggestions for a Secret Santa gift exchange, likely within an office or social group setting. The form is designed to gather the first name, last name, email, and gift idea of each participant, to facilitate a fun and personalized gift-giving experience.**
-
-</thinking>
-
 # Secret Santa Idea Form - Help Guide
 ## Purpose
 The Secret Santa Idea Form is used to collect ideas and suggestions for a Secret Santa gift exchange within a group setting. It's a fun and interactive way for participants to share their gift ideas with each other.

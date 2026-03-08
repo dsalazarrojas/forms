@@ -1,7 +1,3 @@
-<thinking>
-This form is used by event planners to collect information about an event, specifically about ordering photos for a holiday event. The form is designed to gather details about the event, including the event name, date, time, location, and photo order. The form is likely used to help plan and organize photo sessions for the event.
-</thinking>
-
 # Santa Photo Order Form - Help Guide
 ## Purpose
 The Santa Photo Order Form is used by event planners to collect information about a holiday event, including photo sessions and orders.

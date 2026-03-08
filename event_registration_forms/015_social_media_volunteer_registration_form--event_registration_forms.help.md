@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for individuals to register as social media volunteers for upcoming events. The form collects personal details, volunteer details, availability, experience, and any additional information the individual wishes to share. It's crucial to ensure that the registrant understands the purpose of the form to avoid duplicate registrations and provide accurate data. Before proceeding, review the following guide to ensure a smooth registration process.
-</thinking>
-
 # Social Media Volunteer Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals interested in volunteering on our social media platforms. Your input will help us understand your interests, skills, and availability to effectively manage our events.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Community Outreach Program Quotation Form - Help Guide
 ## Purpose
 This form is designed to collect information from organizations interested in hosting a Community Outreach Program. It will help us understand your organization's details, program specifics, and any additional requirements. Please fill out the form accurately and completely to ensure a successful partnership.

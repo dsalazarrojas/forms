@@ -1,10 +1,5 @@
 # Sports Event Volunteer Recognition Survey - Help Guide
 
-<thinking>
-  The purpose of this form is to allow volunteers to share their experiences and provide feedback on sports events. By filling out this survey, volunteers will be able to rate the event, express their appreciation for the recognition efforts made by the event staff, and submit any suggestions for future improvement. This helps us to identify areas of success and areas of improvement for future events.
-  Ensure that you have completed this form only once for each event. If you have already completed a similar form for the same event, please do not fill out this form again.
-</thinking>
-
 ## How To Complete This Form
 
 To complete this form, follow these steps:

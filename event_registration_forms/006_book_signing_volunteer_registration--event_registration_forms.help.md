@@ -1,11 +1,3 @@
-<thinking>
-
-To prevent duplicated effort, let's first check if a similar form exists in our system for "Book Signing Volunteer Registration". If it does, we can reuse it directly. If not, we'll create a new form with a clear purpose and a well-structured design.
-
-This form is designed to collect information from potential volunteers for book signing events. The goal is to gather essential details about each volunteer, including their contact information, availability, and skills, to ensure a smooth event experience for both volunteers and attendees. Each field has been carefully crafted to provide a balance between required and optional questions, allowing us to collect the necessary data while minimizing unnecessary information gathering.
-
-</thinking>
-
 # Book Signing Volunteer Registration - Help Guide
 ## Purpose
 This form is designed for potential volunteers to sign up for book signing events. It collects contact information, availability, and other relevant details to ensure a successful event.

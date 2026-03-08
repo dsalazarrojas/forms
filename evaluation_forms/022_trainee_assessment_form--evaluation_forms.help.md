@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Trainee Assessment Form is a document used to evaluate the progress and performance of trainees in various training programs. This form is designed to provide a structured framework for supervisors to assess their trainees' skills and knowledge acquired during the training period. The form is typically completed by the supervisor after the trainee has completed the training program. 
 
 This assessment form is used internally within the organization and is not intended to be publicly accessible. The information collected through this form will be used to track trainee performance, identify areas of improvement, and provide feedback for future training programs.

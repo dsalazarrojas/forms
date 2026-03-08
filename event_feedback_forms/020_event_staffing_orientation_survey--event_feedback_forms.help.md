@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Event Staffing Orientation Survey - Help Guide
 ## Purpose
 The Event Staffing Orientation Survey is designed to gather feedback from event staff about their experiences and perceptions of the event they recently participated in. This survey is intended to be used to identify areas of improvement and provide valuable insights for future event planning and execution.

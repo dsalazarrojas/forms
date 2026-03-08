@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information for the Massage Retreat Participation Registration process. 
-This help guide will explain each field in a way that makes the process clear and straightforward.
-
-Before proceeding, ensure that you are completing this form to register for a Massage Retreat event, and that you have the necessary permissions to do so.
-
-If you are unsure about any of the fields or questions, please refer to the provided explanations below.
-</thinking>
-
 # Massage Retreat Participation Registration - Help Guide
 ## Purpose
 This form is for registering participants for a Massage Retreat event. Please complete the form with your personal and massage preferences information to ensure a smooth and enjoyable experience.

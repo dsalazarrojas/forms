@@ -1,6 +1,3 @@
-<thinking>
-This form is likely to be used for registering participants in a Corn Hole tournament. The form collects information about the participant, their team, and division-specific details. It's possible that the tournament organizers want to keep track of participant and team information, including names, contact details, and team member roles. The division-specific fields might be used to organize the tournament by division, with options like active or inactive status and size. The participant and team fee and T-shirt size fields might be used to track payment and apparel needs. The date and time fields for division could be used to schedule the division events. The tournament status field might be used to track the overall tournament status. This form could be used by participants and teams to register for the tournament, allowing them to be assigned to the correct division and to receive necessary information about the event.</thinking>
-
 # Corn Hole Tournament Registration Form - Help Guide
 ## Purpose
 This form is used to register participants in a Corn Hole tournament. It collects information about the participant, their team, and division-specific details.

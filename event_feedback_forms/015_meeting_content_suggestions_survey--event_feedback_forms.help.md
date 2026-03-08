@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect feedback and suggestions from users about meetings. It is meant to be filled out by users who have attended or will be attending a meeting. This form will help meeting organizers and attendees track and follow up on action items and meeting notes.
-
-Before filling out this form, please ensure you are using it for its intended purpose and not to report a duplicate meeting. This form should only be used for meetings that have already taken place or have not yet occurred.
-
-Please note that the fields on this form have varying levels of importance and requiredness. Some are optional, while others are required to submit the form. Make sure to fill out all required fields as accurately as possible to ensure that your feedback is actionable and useful.
-
-Also, be aware that some fields have specific types (e.g., date, time, text, number, etc.). The field types are indicated in the label or description.
-
-</thinking>
-
 # Meeting Content Suggestions Survey - Help Guide
 ## Purpose
 This form is meant to collect feedback and suggestions from users about meetings. It helps meeting organizers track and follow up on action items and meeting notes.

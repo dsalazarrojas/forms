@@ -1,7 +1,3 @@
-<thinking>
-This guide is a step-by-step explanation of the Wedding Expense Details Form. It is intended to assist end-users in understanding the form's purpose, how to complete it, and what each field represents. The form is part of the "event_planner_forms" category, and its title is "Wedding Expense Details Form". The form is used to collect information about a wedding event, specifically the vendor's name, address, and contact information. This form is not a mandatory form, as indicated by the "required: false" attribute in the form's YAML configuration.
-</thinking>
-
 # Wedding Expense Details Form - Help Guide
 ## Purpose
 The Wedding Expense Details Form is used to collect information about a wedding event, specifically the vendor's name, address, and contact information. This form is intended for non-mandatory submission, allowing users to provide additional details about the vendor associated with the wedding event.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about the on-site observation of properties for the Ar Strp Onsite Observation Form. It is intended to be completed by evaluators who conduct on-site visits to assess the condition and functionality of septic systems. The form's purpose is to gather data on the system's condition, identify potential issues, and provide recommendations for improvement. To ensure accurate and reliable results, it is essential to follow the instructions carefully and complete the form in a thorough and detailed manner. Please note that the form is not affiliated with any specific form platform and is an original adaptation generated using AI.
-</thinking>
-
 # Ar Strp Onsite Observation Form - Help Guide
 ## Purpose
 The Ar Strp Onsite Observation Form is designed to collect information about the on-site observation of properties for the purpose of assessing the condition and functionality of septic systems.

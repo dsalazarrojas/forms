@@ -1,8 +1,3 @@
-<thinking>
-This form was created to collect information from participants who are interested in attending the Leadership Summit event. The form will be used to gather event details, participant information, contact information, registration information, payment method, payment information, payment method details, participant details, participant preferences, payment status, and event status. This form is not affiliated with or endorsed by any form platforms, and it's an original adaptation created using AI.
-
-</thinking>
-
 # Leadership Summit Registration Form - Help Guide
 ## Purpose
 The Leadership Summit Registration Form is designed to collect information from participants who wish to attend the Leadership Summit event. This form is used to gather all necessary details required for event planning and management.

@@ -1,12 +1,3 @@
-<thinking>
-This form appears to be a registration form for a fitness challenge. It's likely used to collect information about participants in the challenge, including their contact details, personal preferences, and order specifications for their medals and other swag. The form likely serves as a data collection tool for the event organizers to track participant information and prepare orders accordingly.
-
-Please make sure to read this guide carefully to ensure you provide all necessary information for your order.
-
-If you have any existing order, it is recommended to complete this form and submit it as a new version, instead of modifying the old one.
-
-</thinking>
-
 # fitness-challenge-medal-design-order-form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, my primary goal is to create a user-facing help guide that effectively communicates the purpose and usage of the "Charity Fundraising Event Effectiveness Survey" form. This form is designed to gather feedback from attendees, volunteers, and organizers to assess the effectiveness of charity fundraising events. I'll ensure that the guide is clear, concise, and practical, explaining each field's purpose and required/optional status.</thinking>
-
 # Charity Fundraising Event Effectiveness Survey - Help Guide
 ## Purpose
 This survey aims to gather feedback from participants in charity fundraising events to evaluate their effectiveness in meeting goals, engaging attendees, and improving future events.

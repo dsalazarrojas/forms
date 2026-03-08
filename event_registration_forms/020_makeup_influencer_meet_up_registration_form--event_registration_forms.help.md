@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to capture participant details, event preferences, and additional notes for the Makeup Influencer Meet Up event. This form is intended to gather information from participants, including their preferences and notes, which will be used for event organization and communication.
 
 # Makeup Influencer Meet Up Registration Form - Help Guide

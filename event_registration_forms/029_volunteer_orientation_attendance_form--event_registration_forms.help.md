@@ -1,17 +1,3 @@
-<thinking>
-This help guide is intended to provide a clear and concise understanding of the "volunteer_orientation_attendance_form" form, which is meant to collect information from volunteers about their attendance and experience at session events. 
-
-The form is part of the "event_registration_forms" category, indicating its relevance to event-related activities. 
-
-The form's internal structure and content suggest it is not meant for repeated use or frequent updates, which reduces the likelihood of duplication. 
-
-The form's fields and options are carefully curated to gather necessary information from volunteers, such as their session date, name, role, contact method, email, phone number, comments, location, attendance status, and reasons for non-attendance, if applicable. 
-
-This form is designed to be completed by volunteers, who should be able to fill it out easily and accurately, without needing to worry about unnecessary details. 
-
-Below is a detailed help guide for the form.
-</thinking>
-
 # volunteer_orientation_attendance_form - Help Guide
 ## Purpose
 This form is designed to collect information from volunteers about their attendance at session events. 

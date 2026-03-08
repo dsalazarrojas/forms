@@ -1,9 +1,3 @@
-<thinking>
-
-This form was created using AI to generate an original, public domain form for sports tournament organizers and participants. The form is designed to collect necessary information from both the tournament organizers and participants. It's a free-to-use, open-source form that can be easily adapted and modified by anyone. This form is not affiliated with, endorsed by, or derived from any form platform, and it's released under CC BY 4.0.
-
-</thinking>
-
 # Sports Tournament License Form - Help Guide
 
 ## Purpose

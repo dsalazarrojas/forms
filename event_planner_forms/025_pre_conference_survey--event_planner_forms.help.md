@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pre Conference Survey - Help Guide
 ## Purpose
 The Pre Conference Survey is a form designed to gather information from attendees about their experience at our conferences. This survey will help us understand their preferences, satisfaction, and feedback on our events. Your input will be crucial in helping us improve our conferences and provide better experiences for future attendees.

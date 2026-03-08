@@ -1,18 +1,3 @@
-<thinking>
-This form is designed for gallery visits, allowing users to provide feedback, request appointments, and communicate their contact information, visit schedule, and other relevant details. It is used to facilitate communication between visitors and gallery staff. The form is intended for visitors to provide their feedback, request appointments, and share their contact information, visit schedule, and other relevant details with the gallery staff. The form is not designed for internal use within the gallery; rather, it is a communication tool for visitors.
-
-To complete this form, follow these steps:
-
-## Purpose
-The Gallery Visit Communication Form is used to gather information from visitors during their visit to the gallery. This form helps gallery staff to communicate effectively with visitors, understand their needs, and provide a personalized experience.
-
-## How To Complete This Form
-1. Please fill in the required fields to provide accurate information.
-2. Answer all questions to help gallery staff understand your visit.
-3. Select the most relevant options for your visit.
-4. Double-check your answers before submitting the form.
-</thinking>
-
 # Gallery Visit Communication Form - Help Guide
 ## Field-by-Field Explanation
 

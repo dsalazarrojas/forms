@@ -1,7 +1,3 @@
-<thinking>
-To create this user-facing help guide, I'll analyze the form YAML to understand its purpose and fields. From the provided YAML, it appears that the form is for collecting information related to events or surveys, likely for an event planning purpose such as collecting event details, dates, times, email, phone numbers, and notes. The form is designed to be a multiple-page form with 25 fields across various pages. Given the name "Hallowfest Survey", it can be assumed that the form is used for collecting survey responses during an event.
-</thinking>
-
 # Hallowfest Survey - Help Guide
 
 ## Purpose

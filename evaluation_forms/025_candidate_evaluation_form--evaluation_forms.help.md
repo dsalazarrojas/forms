@@ -1,11 +1,3 @@
-<thinking>Here's an internal reasoning block to help me understand the form's purpose and potential duplication with other forms:
-
-The purpose of this form is to collect feedback and evaluations from interviewers on candidates after an interview. It covers various aspects of the candidate, including their educational background, relevant experience, technical skills, communication skills, leadership potential, problem-solving ability, cultural fit, key strengths, areas for development, overall evaluation score, and final hiring recommendation. This form is likely used by hiring managers or recruiters to gather objective evaluations and recommendations for hiring decisions.
-
-Upon reviewing the fields, it seems that some fields might be redundant or have overlapping questions. For example, the "Key Strengths" and "Areas for Development" sections might cover similar ground, with the former highlighting positive aspects and the latter pointing out areas that need improvement. This could be considered for consolidation or rephrasing to avoid duplication.
-
-</thinking>
-
 # Candidate Evaluation Form - Help Guide
 
 ## Purpose

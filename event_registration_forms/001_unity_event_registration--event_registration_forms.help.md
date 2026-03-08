@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to register users for events hosted by Unity. It is intended for users to provide their contact information, session interests, and accessibility needs to facilitate a smooth and inclusive event experience. This form is not a duplicate, and it's designed for one-time event registration.
-</thinking>
-
 # Unity Event Registration - Help Guide
 ## Purpose
 This form is designed for users to register for events hosted by Unity, providing necessary information to ensure a comfortable and enjoyable experience for all attendees.

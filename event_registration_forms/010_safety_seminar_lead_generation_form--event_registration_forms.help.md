@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Safety Seminar Lead Generation Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential customers or attendees interested in a safety seminar. The goal is to generate leads for the seminar, which can help in understanding the audience's demographics, interests, and preferences.

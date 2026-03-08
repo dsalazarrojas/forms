@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for the nomination of an event planner. This form is used to identify and recognize exceptional individuals in the organization, acknowledging their efforts and contributions to the company. This form is likely used by the HR department or event planners themselves to submit nominations for recognition or reward programs. Before filling out the form, please note that you can only submit nominations for a specific event planner once. To avoid duplication, check the list of previously submitted nominations before submitting your own.
-</thinking>
-
 # Event Planner Nomination Form - Help Guide
 ## Purpose
 This form is designed to collect information for the nomination of an event planner. The goal is to identify and recognize exceptional individuals in the organization, acknowledging their efforts and contributions to the company.

@@ -1,7 +1,3 @@
-<thinking>
-This is a registration form for the Advanced Mastocytosis Workshop, which is likely a medical workshop focused on mastocytosis, a condition characterized by the presence of mast cells in various tissues. The purpose of the form is to gather information from participants to ensure they are eligible to attend the workshop and to provide necessary details for workshop organization and logistics. The form asks for personal and professional information, workshop details, accommodation requirements, and payment information. It's essential to complete the form accurately and thoroughly to ensure a smooth registration process.
-</thinking>
-
 # Advanced Mastocytosis Workshop Registration - Help Guide
 ## Purpose
 This guide will walk you through the registration process for the Advanced Mastocytosis Workshop.

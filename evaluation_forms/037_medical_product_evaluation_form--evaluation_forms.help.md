@@ -1,11 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Medical Product Evaluation Form, I need to understand the form's purpose and how to complete it. From the YAML input schema, I see that the form is meant to evaluate a medical product, likely for some internal evaluation process. I will assume that this form is used to collect data on a medical product's name, rating, description, performance, overall evaluation, product type, medical condition, and comments. This form has a mix of required and optional fields, which should be explained clearly in the help guide.
-
-To complete this form, the end user will likely need to provide information about the product being evaluated. This includes its name, rating (on a numerical scale), and overall evaluation (as 'Yes' or 'No'). They may also need to describe the product and its performance. The form seems to be asking about the medical condition associated with the product, but it's unclear if this is a yes/no question or if it's asking for a specific condition. I will assume the latter and explain it as such. Finally, they may have space for comments.
-
-For the field-by-field explanation, I will break down each field to provide clear and concise explanations.
-</thinking>
-
 # Medical Product Evaluation Form - Help Guide
 ## Purpose
 This form is used to evaluate a medical product's attributes, such as its name, rating, description, performance, overall evaluation, product type, medical condition, and comments.

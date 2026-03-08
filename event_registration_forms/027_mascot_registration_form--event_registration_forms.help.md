@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their mascot registration. The form is divided into multiple pages with fields for user info, mascot info, contact details, and additional resources like images and videos. Each field has a label and a type, which indicates what kind of input is expected.
-
-The purpose of this form is to collect accurate and complete information from users. To ensure consistency, it's crucial to fill in the form with attention to detail. Please make sure to fill in all the required fields, which are marked as "Required". If a field is not required, you can still provide additional information if needed.
-
-Before filling out the form, make sure to check if you have already submitted a registration form with the same name and email. If you have, your information will be duplicated in the system, which can cause confusion and issues in the future.
-
-If you're unsure about any field, please refer to the field-by-field explanation below.
-
-</thinking>
-
 # Mascot Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from users about their mascot registration.

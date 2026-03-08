@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from applicants for the Strategic Innovation Accelerator program. The form should only be filled out by individuals or teams that meet the criteria for this program. If you're not sure if you're eligible, please contact the program organizers for more information. To ensure that your application isn't duplicated, please check our internal records before starting to fill this form out.
-
-This form has a total of 4 pages with the following fields.
-
-</thinking>
-
 # Strategic Innovation Accelerator Registration Form - Help Guide
 ## Purpose
 The Strategic Innovation Accelerator Registration Form is a form designed to collect information from applicants for the Strategic Innovation Accelerator program. It is intended to gather relevant details from applicants to support the evaluation and review process.

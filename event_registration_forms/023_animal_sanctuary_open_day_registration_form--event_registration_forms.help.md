@@ -1,11 +1,3 @@
-<thinking>
-The form is designed for visitors to Animal Sanctuary to register for the Open Day event. 
-This event aims to provide an engaging experience for the public to interact with animals and learn more about them. 
-Before filling out this form, please note that it contains several fields that are required for registration, such as name, contact information, and emergency contacts. 
-Please fill out the form accurately and completely to ensure a smooth and enjoyable experience for everyone involved. 
-
-</thinking>
-
 # Animal Sanctuary Open Day Registration Form - Help Guide
 ## Purpose
 This form is for registering your visit to the Animal Sanctuary's Open Day event. 

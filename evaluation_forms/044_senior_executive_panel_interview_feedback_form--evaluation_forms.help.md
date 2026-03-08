@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback from reviewers who have participated in a senior executive panel interview. The form will ask for basic demographic information about the candidate, including first and last name, date, time, and position title. It will also collect feedback from the reviewer, including feedback score, comments, name, title, and email. Additionally, it will ask for information about the reviewer's feedback, such as their agreement score, comments, email, phone number, and panel size. The purpose of this form is to gather comprehensive feedback about each candidate, including their strengths and weaknesses, and to ensure that the review process is fair and transparent. Reviewers are expected to be honest and objective in their feedback, and to provide specific examples to support their ratings and comments. This form will help to ensure that the feedback is accurate, complete, and actionable.
-
-To prevent duplication of feedback, reviewers should not use this form to collect feedback on candidates they have not previously evaluated. If you have already provided feedback on this candidate, please do not complete this form. This form should only be used for new feedback submissions. 
-</thinking>
-
 # Senior Executive Panel Interview Feedback Form - Help Guide
 ## Purpose
 The Senior Executive Panel Interview Feedback Form is designed to collect comprehensive feedback from reviewers who have participated in an interview with a candidate. The form will help to gather detailed information about the candidate's performance, strengths, and weaknesses, and ensure that the review process is fair and transparent.

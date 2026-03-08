@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to be an evaluation survey for academic texts, such as papers or manuscripts, submitted for review. It is designed to assess the quality and suitability of the text for publication. This form is meant to help reviewers provide detailed and constructive feedback to authors, and to facilitate the evaluation process for editors or publication committees.
-
-Before proceeding, ensure that you are familiar with the text under review, and that you have not previously evaluated it. Your evaluation should be based on the quality and relevance of the text, rather than any potential conflicts of interest or personal biases.
-
-</thinking>
-
 # Academic Text Evaluation Survey - Help Guide
 ## Purpose
 The Academic Text Evaluation Survey is a tool used to evaluate the quality and suitability of academic texts, such as papers or manuscripts, submitted for publication. This guide will walk you through each section of the form, explaining the purpose and requirements of each field.

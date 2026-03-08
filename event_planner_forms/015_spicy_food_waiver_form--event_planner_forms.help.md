@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be for participants in events or activities involving spicy foods, requiring individuals to acknowledge their age, physical condition, and understanding of the risks associated with consuming spicy foods. The purpose of this form is to obtain a waiver of liability from potential claimants.
-The form likely aims to ensure that event organizers and hosts are protected from any potential legal claims due to injuries or discomforts experienced by participants. This form is intended to be completed by individuals who have agreed to participate in spicy food-related activities or events.
-</thinking>
-
 # Spicy Food Waiver Form - Help Guide
 ## Purpose
 This form is designed for individuals who are participating in events or activities involving spicy foods. It is intended to obtain a waiver of liability from potential claimants, ensuring that event organizers and hosts are protected from any potential legal claims due to injuries or discomforts experienced by participants.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather feedback from users who attended a Hallowfest event. The form will collect data on the event name, date attended, time spent, favorite parts of the event, rating, comments, contact email, and contact phone number. It's intended to be completed by attendees who have valuable experiences and suggestions to share with the event organizers.
-
-Before filling this form, please ensure that you're providing genuine and helpful feedback. The information collected will be reviewed by the event organizers to identify areas of improvement and make future events more enjoyable and engaging for everyone.
-
-Please don't duplicate feedback, as each submission will be considered as a separate and unique response.
-
-</thinking>
-
 # Hallowfest Survey - Help Guide
 ## Purpose
 This survey aims to collect feedback from attendees on their Hallowfest experience. Your input will help us improve and make next year's event even more enjoyable.

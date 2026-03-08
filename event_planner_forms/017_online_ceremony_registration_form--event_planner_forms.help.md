@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used by users who want to register for an online ceremony. The form is intended to capture basic contact information, ceremony details, and optional notes. The fields are divided into two main sections: personal information and ceremony details. The form is required to be completed by all users, except where specified as optional.
-</thinking>
-
 # online_ceremony_registration_form - Help Guide
 ## Purpose
 The online_ceremony_registration_form is used to register for an online ceremony. It captures personal information and ceremony details to ensure that users can attend and participate in the ceremony smoothly.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## speed-networking-with-experts-registration - Help Guide
 ## Purpose
 This form is designed to register attendees for a speed networking event with experts. The event organizers can use this form to collect details and preferences from attendees, including their names, email addresses, and preferred meeting times.

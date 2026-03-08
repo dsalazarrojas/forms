@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be designed for students to evaluate a course they have taken, providing a way to gather feedback on the course's quality, effectiveness, and overall experience. The form includes various fields for students to select their level of agreement or satisfaction with different aspects of the course. It also includes fields for students to add notes, select dates, and input their contact information.
-To avoid duplication of questions, I'll assume that the "select_one_student_course_evaluation_form" fields (e.g., "student_course_evaluation_form_1", "student_course_evaluation_form_2") are meant to have different labels. Similarly, I'll treat "select_multiple_student_course_evaluation_form" fields as identical and provide a single explanation for them.
-</thinking>
-
 # Student Course Evaluation Form - Help Guide
 ## Purpose
 The Student Course Evaluation Form is a tool for students to provide feedback on their experience in a course. This form helps instructors and course administrators understand student perspectives and identify areas for improvement.

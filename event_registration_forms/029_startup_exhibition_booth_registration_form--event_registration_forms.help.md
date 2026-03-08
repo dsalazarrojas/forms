@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect registration information from startups participating in an exhibition. The primary purpose of this form is to gather essential details about the company and its exhibition preferences. This form will help organizers manage the exhibition booth registration process efficiently.
-The following are some internal considerations for form designers and writers: 
-- Ensure that the form is easily accessible to users with disabilities.
-- Validate and sanitize user input to prevent errors and security breaches.
-- Make sure the form is mobile-friendly and can be completed on various devices.
-- Keep the form length reasonable and minimize required fields to reduce user fatigue.
-- Use clear and concise labels and descriptions for each field.
-- Use relevant and up-to-date options for select fields to avoid confusion.
-</thinking>
-
 # Startup Exhibition Booth Registration Form - Help Guide
 ## Purpose
 This form is designed for startups to register for an exhibition. It gathers essential information about the company and its exhibition preferences.

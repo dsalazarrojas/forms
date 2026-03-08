@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to evaluate the performance of junior associates in the workplace. This evaluation form is used to assess the progress and performance of junior associates, providing a framework for managers to provide feedback and guidance to help them grow in their roles. Before filling out this form, please make sure to review the junior associate's performance over the evaluation period selected and provide honest and constructive feedback. Additionally, please ensure that you are not duplicating any evaluations that have already been completed within the same evaluation period.
-</thinking>
-
 # Junior Associate Evaluation Form - Help Guide
 ## Purpose
 This form is used to evaluate the performance of junior associates and provide guidance and feedback to help them grow in their roles.

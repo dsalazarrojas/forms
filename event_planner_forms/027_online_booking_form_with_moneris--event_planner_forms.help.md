@@ -1,10 +1,3 @@
-<thinking>
-This form is used for creating and managing online booking forms. 
-The form is used to capture information and generate output files that can be used for various applications such as event planning, calendar management, and other related tasks. 
-This form is used to create a unique online booking form with the name of your choice, and it captures information such as the category, description, form ID, output file name, and other details related to form management. 
-It is likely to be used by event planners or individuals who need to create custom forms for managing events, meetings, or other types of bookings.
-</thinking>
-
 # Online Booking Form With Moneris - Help Guide
 ## Purpose
 This form is designed to create a customizable online booking form that can be used for various purposes such as event planning, calendar management, and other related tasks.

@@ -1,7 +1,3 @@
-<thinking>
-To create this help guide, I'll focus on clearly explaining the form's purpose and how to complete it, along with a brief explanation of each field to make it easy for users to fill out the "Community Health Workshop RSVP" form.
-</thinking>
-
 # Community Health Workshop RSVP - Help Guide
 ## Purpose
 The "Community Health Workshop RSVP" form is designed to help us get an accurate headcount for our upcoming workshop. Your responses will help us plan for food, accommodations, and other essential aspects of the event.

@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 This guide will help you understand how to complete the "Nonprofit Appreciation Brunch RSVP Form".
 
 **Nonprofit Appreciation Brunch RSVP Form - Help Guide**

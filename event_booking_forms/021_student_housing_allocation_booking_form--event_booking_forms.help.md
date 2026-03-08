@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to collect information from students to book student housing accommodations. The form is designed to gather relevant details such as personal information, accommodation preferences, and booking status. 
-
-The purpose of this form is to gather data to efficiently manage student housing allocations. 
-
-Before proceeding, ensure that all required fields are filled in accurately and correctly. If there are any doubts or concerns, please refer to the field explanations below.
-
-</thinking>
-
 # Student Housing Allocation Booking Form - Help Guide
 ## Purpose
 This form is used to book student housing accommodations. It is essential to fill in the form accurately to ensure a smooth booking process.

@@ -1,7 +1,3 @@
-<thinking>
-To confirm, this guide is for the "Anniversary Party RSVP Form". The form is designed to gather information from attendees about their plans and preferences for the anniversary celebration. This form should only be filled out by those who have received an invitation to the event. Please ensure that you are responding to a valid invitation before completing this form. 
-</thinking>
-
 # Anniversary Party RSVP Form - Help Guide
 ## Purpose
 This form is designed to help us know who will be attending and their preferences for the celebration. Please take a few minutes to fill out this form and let us know about your plans. Your input will help us make this event special for the anniversary celebrants.

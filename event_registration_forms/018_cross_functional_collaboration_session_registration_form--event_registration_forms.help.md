@@ -1,7 +1,3 @@
-<thinking>
-This form is used to register information about cross-functional collaboration sessions. The purpose of this form is to collect relevant details about the session, including its title, date, time, location, and participants. It also includes fields for contact information, session objectives, description, and outcomes. The form is likely used by teams or project managers to organize and track sessions across different projects or teams.
-</thinking>
-
 # Cross Functional Collaboration Session Registration Form - Help Guide
 ## Purpose
 This form is used to register information about cross-functional collaboration sessions.

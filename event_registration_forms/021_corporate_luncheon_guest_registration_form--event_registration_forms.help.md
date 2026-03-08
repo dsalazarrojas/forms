@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to gather information from corporate guests attending a corporate luncheon. The form is used to collect contact and company information from each guest. The form will not be used to duplicate existing information or to collect information for non-existent guests. The form is required to be filled out completely, with all fields being filled out by the guest or the person registering.
-</thinking>
-
 # Corporate Luncheon Guest Registration Form - Help Guide
 ## Purpose
 The Corporate Luncheon Guest Registration Form is used to gather information from corporate guests attending a corporate luncheon.

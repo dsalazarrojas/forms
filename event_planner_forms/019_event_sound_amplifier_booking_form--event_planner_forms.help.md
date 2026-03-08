@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to be used by event planners to book a sound amplifier system for their events. The form is used to gather necessary information to determine the availability and cost of the sound system, as well as other event details. This form should not be used for duplicate events, please use the "New Event" form instead.
-</thinking>
-
 # Event Sound Amplifier Booking Form - Help Guide
 ## Purpose
 

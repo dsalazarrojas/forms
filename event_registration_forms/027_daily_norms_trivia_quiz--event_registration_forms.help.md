@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to participate in a daily trivia quiz, with questions and fields asking for user's name and the answers to two questions.
-</thinking>
-
 # daily_norms_trivia_quiz - Help Guide
 ## Purpose
 The purpose of this form is to collect information from users for a daily trivia quiz. You will be asked to enter your first and last name and answer two questions.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to provide an easy way to collect essential details about a wedding event. It will be used by wedding coordinators to estimate the cost of the event based on the provided information. The form includes fields for event date, start and end times, event location, type, guest count, contact details, and estimated cost. This form is not meant to be a comprehensive event planning tool, but rather a simple way to gather the necessary information to create an estimate.
-</thinking>
-
 # Wedding Coordinator Estimate Form - Help Guide
 ## Purpose
 This form is designed to collect essential details about a wedding event to estimate its cost.

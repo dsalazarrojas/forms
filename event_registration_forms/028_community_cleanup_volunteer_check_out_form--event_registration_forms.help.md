@@ -1,8 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the "Volunteer Check Out Form", we must first consider the form's purpose and the required fields to collect. This form is designed to gather information on volunteer checkouts, including volunteer names, check-in and checkout times, tasks completed, equipment returned, incidents reported, and feedback. The form is likely used for administrative purposes, such as tracking volunteer shifts, evaluating volunteer performance, and improving event organization.
-We need to consider that this form is not affiliated with any specific platform, and its creation is based on public survey topic metadata. The form is original and does not copy or extract content from any other platform. It is released under CC BY 4.0, allowing users to modify and even sell the form while giving credit. This form is for event registration, specifically for volunteers, and it aims to collect relevant information for efficient management and improvement.
-</thinking>
-
 # Volunteer Check Out Form - Help Guide
 ## Purpose
 This form is designed to gather information from volunteers during checkout, helping event organizers efficiently manage volunteer shifts and performance.

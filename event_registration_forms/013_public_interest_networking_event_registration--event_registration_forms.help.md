@@ -1,21 +1,3 @@
-<thinking>
-I understand the task is to create a user-facing help guide for the "Public Interest Networking Event Registration" form. 
-
-The form's primary purpose is to collect information from attendees interested in networking events. It appears to be a form for gathering details about the event and the attendee. 
-
-The form has six fields, which I assume are organized into separate pages for better user experience and clarity. The fields are:
-
-* Event Details 
-* Attendee Info 
-* Event Preferences 
-* Contact Info 
-* Registration Type 
-* Special Requests 
-
-I will now create the help guide based on the provided YAML fields. 
-
-</thinking>
-
 # Public Interest Networking Event Registration - Help Guide
 
 ## Purpose

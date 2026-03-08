@@ -1,5 +1,3 @@
-<thinking>...To avoid duplication, please note that this form is for applicants to register their experience and job preferences. It is not for employers seeking to post job openings... </thinking>
-
 # Grip Application Form - Help Guide
 ## Purpose
 The Grip Application Form is designed to help applicants register their experience, job preferences, and contact information.

@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning: This form is meant for users to register for the Mixology Showdown Tournament, a competition where bartenders and mixologists showcase their craft. The form likely requires information from the user, such as their team name and description, team members, and contact information for the team leader. The form's fields are likely designed to be completed by the team leader or a designated representative.
-</thinking>
-
 # Mixology Showdown Tournament Entry Form - Help Guide
 ## Purpose
 The Mixology Showdown Tournament Entry Form is designed for teams to register for the Mixology Showdown competition. This form gathers information about the team, its members, and the team leader's contact details.

@@ -1,14 +1,3 @@
-<thinking> 
-This form is a Change Leadership Effectiveness Survey designed to evaluate the leadership effectiveness of a manager in leading a change initiative. The form is used to gather feedback from team members and assess the leader's performance in areas such as communication, strategic planning, team engagement, and results achievement. This form is meant to provide insights for managers to improve their leadership skills and make informed decisions about their future development.
-
-Before completing this form, please ensure that:
-
-- You have a clear understanding of the change initiative you are evaluating.
-- You have a solid relationship with the manager whose leadership you are evaluating.
-- You have a good understanding of the impact of the change on the team morale and overall organization.
-
-</thinking>
-
 # Change Leadership Effectiveness Survey - Help Guide
 ## Purpose
 

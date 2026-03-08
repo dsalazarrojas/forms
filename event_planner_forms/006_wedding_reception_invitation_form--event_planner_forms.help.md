@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide helps users understand the purpose and requirements of the Wedding Reception Invitation Form. This form is designed to help couples share essential details about their wedding reception with their guests. The form will be used to collect important information such as the wedding date and time, venue, dress code, RSVP options, and contact information.
 
 # Wedding Reception Invitation Form - Help Guide

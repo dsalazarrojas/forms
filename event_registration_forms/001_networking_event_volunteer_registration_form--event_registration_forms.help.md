@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in volunteering at a networking event. The goal is to gather event details and volunteer information in a simple and efficient manner. It's recommended that users review the form carefully before filling it out to ensure they're providing accurate and complete information. This form is a one-time registration form, so users won't need to fill it out multiple times.
-</thinking>
-
 # networking_event_volunteer_registration_form - Help Guide
 ## Purpose
 This form is used to register as a volunteer for a networking event. It helps us understand your interests and availability to best match you with event opportunities.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Matrimonial Meet Form - Help Guide
 
 ## Purpose

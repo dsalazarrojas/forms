@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a user's personality in relation to monsters, likely for research or entertainment purposes. This form is intended to understand the personality traits and characteristics of the user and possibly match them with a fictional monster. The form collects various types of input, including text fields for participant names, email addresses, and notes, as well as a select one field for the quiz type. This form seems to be designed for repeated use, as there are multiple text fields for participant names.
-</thinking>
-
 # Monster Personality Quiz - Help Guide
 ## Purpose
 The Monster Personality Quiz is a form designed to collect information about a user's personality in relation to monsters. This form is intended for research or entertainment purposes, such as matching users with a fictional monster based on their traits.

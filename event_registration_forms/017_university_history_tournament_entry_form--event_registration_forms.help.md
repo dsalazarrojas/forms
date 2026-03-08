@@ -1,9 +1,3 @@
-<thinking> 
-- The purpose of this form is to collect information for a university history tournament entry. This form is designed to gather essential details about the entry, including the entry name, description, university name, entry date and time, and team name. The form ensures that all relevant information is captured accurately and consistently.
-- Please note that this form is not intended for duplicate entries. Each entry submitted through this form should be a new, unique entry.
-- Ensure that you fill in all required fields to avoid any errors or issues during the submission process.
-</thinking>
-
 # University History Tournament Entry Form - Help Guide
 
 ## Purpose

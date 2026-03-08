@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cultural Event Communication Form - Help Guide
 
 ## Purpose

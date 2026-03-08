@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Virtual Book Reading Booking Form - Help Guide
 ## Purpose
 The Virtual Book Reading Booking Form is designed to gather information for virtual book reading events. This form helps participants register for and express their preferences for these events.

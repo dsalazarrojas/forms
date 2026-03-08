@@ -1,5 +1,3 @@
-<thinking>...The form is designed to be used during the employee's annual review process to gather information about their progress and performance over the past year. This information is intended to be used by the employee's manager and HR department to assess their performance, set goals, and make decisions about career development and growth. Please note that this form will be reviewed by the employee's manager, so be honest and thorough in your responses. Ensure that you answer all the required fields, as they are essential for a comprehensive review...</thinking>
-
 # Annual Self Review Form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The "Women's Event Registration Form" is for users to provide information about themselves in order to be registered for an event organized for women. This form is not meant to be completed by men, so please ensure that you are a woman before proceeding. If you're not sure or have already registered for this event, please don't fill out this form.
 
 # Women's Event Registration Form - Help Guide

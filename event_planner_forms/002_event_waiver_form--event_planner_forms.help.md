@@ -1,11 +1,3 @@
-<thinking>
-
-This help guide is intended to assist users in completing the Event Waiver Form, which is a crucial document for participants to acknowledge their understanding and acceptance of the risks associated with attending events. This form serves as a legal agreement between the participant and the event organizer. It's essential to ensure that all required fields are completed accurately and thoroughly, as this information will be used to protect both the participant's and the event organizer's interests.
-
-Before proceeding, please review the form carefully and verify that you have the necessary information to complete each field correctly. If you're unsure about any part of the form, please contact the event organizer for clarification.
-
-</thinking>
-
 # Event Waiver Form - Help Guide
 ## Purpose
 The Event Waiver Form is a legal document that requires all participants to acknowledge their understanding and acceptance of the risks associated with attending events hosted by the event organizer. Completing this form is mandatory for all participants before they can participate in the event.

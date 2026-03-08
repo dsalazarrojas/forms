@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect event information from users. The purpose of this form is to gather data about upcoming events. To confirm that an event is correctly set up, please ensure you have completed all the required fields. This form is not a replacement for other event management systems. Please do not submit duplicate submissions.
-</thinking>
-
 # event_confirmation_form - Help Guide
 ## Purpose
 The **event_confirmation_form** is a simple form designed to collect event information from users. This form helps you gather essential details about events, such as date, time, and name.

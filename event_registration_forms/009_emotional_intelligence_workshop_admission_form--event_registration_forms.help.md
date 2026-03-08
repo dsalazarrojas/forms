@@ -1,5 +1,3 @@
-<thinking>...this form is designed to gather information from individuals interested in attending the Emotional Intelligence Workshop. To confirm, you are interested in attending the Emotional Intelligence Workshop, correct? Please note that this form is a one-time submission, and you will not be able to resubmit this form. If you have already submitted this form, you will not be able to resubmit it. This form is intended for new registrations only... </thinking>
-
 # emotional_intelligence_workshop_admission_form - Help Guide
 ## Purpose
 The Emotional Intelligence Workshop admission form is designed to collect information from participants interested in attending the workshop. This form helps us understand your interest and preferences, ensuring you have a smooth and enjoyable experience.

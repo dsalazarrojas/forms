@@ -1,5 +1,3 @@
-<thinking>... internal reasoning block: This form is designed to collect information from job seekers who have attended the job fair. The form will help to track their attendance, provide follow-up details, and note any follow-up activities. It's essential to ensure that the form is filled out accurately and thoroughly. This form is part of the event registration process, and it's crucial to understand its purpose to complete it correctly. Please review the form carefully before proceeding.</thinking>
-
 # job_fair_attendance_form - Help Guide
 
 ## Purpose

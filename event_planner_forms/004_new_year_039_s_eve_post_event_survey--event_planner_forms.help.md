@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # new_year_s_eve_post_event_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from attendees of New Year's Eve events to help us evaluate and improve future events. Please provide your honest thoughts and opinions on the event you attended.

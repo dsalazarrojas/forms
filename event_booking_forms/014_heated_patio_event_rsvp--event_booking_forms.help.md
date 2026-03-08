@@ -1,15 +1,3 @@
-<thinking>
-This form is intended to gather event information from attendees for a heated patio event. The "heated_patio_event_rsvp" form is a straightforward and simple form that allows users to provide their RSVP and any additional comments they may have for the event. The form has three fields:
-
-1. "Heated Patio Event RSVP" - This is the main field where attendees can indicate their intention to attend the event.
-2. "Confirmation" - This field is for attendees to confirm their response to the first field.
-3. "Comments" - This field is for attendees to provide any additional comments or notes about the event.
-
-To ensure the form's purpose and fields are not duplicated or outdated, we will review the survey metadata to ensure it is relevant and up-to-date. The form's fields are straightforward, and their labels are clear and descriptive, making it easy for attendees to understand what is expected of them.
-
-The following is a help guide for the "heated_patio_event_rsvp" form:
-</thinking>
-
 # heated_patio_event_rsvp - Help Guide
 ## Purpose
 The "heated_patio_event_rsvp" form is designed to gather event information from attendees for a heated patio event.

@@ -1,13 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a user-facing help guide for the "robotics_camp_booking_form" form. Before creating the guide, let's consider the following internal reasoning:
-
-* The form is intended to register participants for a robotics camp, so its primary purpose is to collect demographic information and session preferences from attendees.
-* The form has multiple pages, which might indicate that it's a complex form or a series of steps to complete.
-* Some fields are optional, while others are required, suggesting that the form is designed to be flexible and user-friendly.
-
-Given these considerations, I'll create a help guide that's clear, concise, and practical for end-users to complete the form effectively.
-
-</thinking>
-
 # robotics_camp_booking_form - Help Guide
 ## Purpose
 This form is designed to register participants for the Robotics Camp. Please fill out the required fields to ensure that you're signed up for the correct session and receive important information about the camp.

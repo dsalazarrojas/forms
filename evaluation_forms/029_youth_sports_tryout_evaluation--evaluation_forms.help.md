@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information and feedback from coaches and evaluators during the youth sports tryout process. The purpose of this form is to gather relevant details about the player's performance, coach's suggestions, and other essential information.
-The form is divided into several pages, each containing specific fields that require input from the user. To complete this form, please follow the instructions below.
-</thinking>
-
 # Youth Sports Tryout Evaluation - Help Guide
 ## Purpose
 The Youth Sports Tryout Evaluation form is designed to collect information and feedback from coaches and evaluators during the youth sports tryout process. This form helps to gather relevant details about the player's performance, coach's suggestions, and other essential information.

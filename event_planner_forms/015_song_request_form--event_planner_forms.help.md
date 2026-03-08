@@ -1,15 +1,3 @@
-<thinking>
-
-This form is a tool to collect information from users about song requests. It is intended for individuals or organizations who need to gather data on song requests for events, concerts, or music festivals. This form does not collect proprietary or copyrighted content and is a public domain adaptation. 
-
-Before filling out this form, please note that the form purpose is to gather information for event planning and organization, and not for commercial use. The form can be used in any event planning context, from small events to large festivals.
-
-If you are a music festival organizer and you need to collect song requests from attendees, this form can be a useful tool to understand the audience's preferences. If you are a performer or artist looking to get your music included in the event's playlist, this form can help you submit your song requests.
-
-Please fill out the form carefully, and remember that the information collected will be used for event planning purposes only.
-
-</thinking>
-
 # Song Request Form - Help Guide
 ## Purpose
 

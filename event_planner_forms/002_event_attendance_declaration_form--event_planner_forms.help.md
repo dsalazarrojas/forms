@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather information about an attendee's attendance at events. The form will help you collect personal details such as first and last name, contact number, email address, and company information. It also includes fields to specify the event details like event date and time, event status, and attendance date and time. The form is intended to be completed by event attendees to declare their presence at the event.
-
-</thinking>
-
 # Event Attendance Declaration Form - Help Guide
 
 ## Purpose

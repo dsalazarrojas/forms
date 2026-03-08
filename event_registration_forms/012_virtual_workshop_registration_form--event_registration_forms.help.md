@@ -1,7 +1,3 @@
-<thinking>
-This form is a virtual workshop registration form designed for users to provide their event registration details. The purpose of this form is to collect relevant information from users such as their name, email address, phone number, date and time of the workshop, and any additional notes. The form has several fields that ask for different types of user input, including text, email, phone number, date, time, select one, select multiple, decimal, and integer. Some fields are required, while others are optional. This form is likely to be used for events that require registration, such as workshops, conferences, or training sessions. It is intended to be completed by attendees who want to participate in the event. This form may be part of a larger system or application that handles event management or registration. 
-</thinking>
-
 # virtual_workshop_registration_form - Help Guide
 ## Purpose
 The purpose of this form is to collect registration information from users who want to participate in a virtual workshop.

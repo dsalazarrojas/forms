@@ -1,12 +1,3 @@
-<thinking>
-This form is a registration form for an Urban Design Contest. It collects information from users who want to participate in the contest. The form has several fields that require information such as user's details, project type, project info, project description, submission file, project image, submission date and time, email, phone number, and address. All fields are optional except for a few that are currently marked as required (see below).
-
-The form's purpose is to collect relevant information from users who want to participate in the Urban Design Contest. This form will help the contest organizers to get a better understanding of the participants' projects and their details.
-
-Please make sure to fill in all the required fields to avoid any issues with submitting your registration.
-
-</thinking>
-
 # Urban Design Contest Registration Form - Help Guide
 ## Purpose
 This form is for registering for the Urban Design Contest. Please fill it out to participate.

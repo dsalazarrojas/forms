@@ -1,9 +1,3 @@
-<thinking>
-This help guide aims to support end users in understanding the Extraordinary Experiences Feedback Form's purpose and how to complete it. The form is designed to collect feedback from participants about their experiences with events. To avoid duplication, users should only submit feedback for events they have attended or participated in. 
-
-The form is divided into sections for collecting event information, participant information, feedback, and suggestions. Each section is explained below.
-</thinking>
-
 # Extraordinary Experiences Feedback Form - Help Guide
 ## Purpose
 The Extraordinary Experiences Feedback Form is designed to collect feedback from participants about their experiences with events. It helps us understand what worked well and what could be improved.

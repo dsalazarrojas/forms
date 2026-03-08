@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for event registration purposes, specifically for agencies to provide information about their services, experience, and contact details. The form should be completed to gather relevant information about the agency, and the fields should be self-explanatory.
-</thinking>
-
 # event-design-agency-registration - Help Guide
 ## Purpose
 The "event-design-agency-registration" form is designed to collect information about agencies interested in participating in events. This form helps the event organizers understand the agency's services, experience, and contact details.

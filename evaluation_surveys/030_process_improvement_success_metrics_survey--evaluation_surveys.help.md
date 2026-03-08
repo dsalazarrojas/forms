@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Process Improvement Success Metrics Survey - Help Guide
 ## Purpose
 

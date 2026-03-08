@@ -1,7 +1,3 @@
-<thinking>
-The "Wedding Vendor Checklist" form is used to gather and store information about vendors that are being considered or already working with for wedding planning purposes. This form can help event planners to keep track of multiple vendors, their details, and the progress of communication with them. It's essential to use this form when you have a large number of vendors to manage and need to ensure that each vendor's details are well-recorded and easily accessible.
-</thinking>
-
 # Wedding Vendor Checklist - Help Guide
 ## Purpose
 The Wedding Vendor Checklist form is used to gather and store information about vendors that are being considered or already working with for wedding planning purposes.

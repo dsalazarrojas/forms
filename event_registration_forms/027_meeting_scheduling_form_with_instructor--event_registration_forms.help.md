@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information regarding meeting scheduling from users. The purpose of this form is to gather essential details about upcoming meetings, including whether a meeting is scheduled, the name of the instructor, the preferred meeting slots, date, and time. Additionally, users can include additional information relevant to the meeting. This form should be completed by users to ensure accurate meeting scheduling and to allow instructors to plan accordingly.
-</thinking>
-
 # Meeting Scheduling Form With Instructor - Help Guide
 ## Purpose
 This form is designed to collect meeting scheduling information from users. Please use this form to provide details about upcoming meetings, allowing the instructor to prepare and plan accordingly.

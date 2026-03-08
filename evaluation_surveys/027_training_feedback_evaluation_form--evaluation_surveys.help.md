@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Training Feedback Evaluation Form - Help Guide
 
 ## Purpose

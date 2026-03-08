@@ -1,8 +1,4 @@
-# <thinking>
-This guide is intended for end users who need to provide input on the Tournament Spectator Facilities Survey. This guide assumes that the user is familiar with the concept of providing feedback on event venues.
-</thinking>
-
-# Tournament Spectator Facilities Survey - Help Guide
+# # Tournament Spectator Facilities Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from spectators on the facilities and services provided during a tournament event. The survey consists of multiple questions that cover various aspects of the event, including venue maintenance, overall quality, parking, staff friendliness, and overall experience.
 

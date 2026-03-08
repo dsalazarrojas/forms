@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect data from picnic events, which will help in evaluating their effectiveness, identifying areas of improvement, and making data-driven decisions for future events.
-This form should be used by evaluators to collect information about picnic events, ensuring that each field is filled in correctly. Please be aware that some fields are not required, so be sure to fill in only the relevant information.
-</thinking>
-
 # Picnic Evaluation Form - Help Guide
 ## Purpose
 The Picnic Evaluation Form is used to collect data from picnic events, which will help in evaluating their effectiveness and identifying areas of improvement.

@@ -1,10 +1,3 @@
-<thinking>
-This guide is intended to assist event planners in setting up booking information for events. The form is designed to collect relevant details about the event, allowing users to efficiently provide essential information for event organization and execution. Please ensure that you have all the necessary permissions and approvals before completing this form.
-
-Before proceeding, review the form fields and their requirements to avoid duplication or omission of essential information.
-
-</thinking>
-
 # Event Decorator Setup Booking Form - Help Guide
 ## Purpose
 This form is used to set up booking information for events. Please fill out the form with accurate and relevant details.

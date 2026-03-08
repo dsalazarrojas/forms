@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Flower Delivery Form" that explains the form's purpose, how to complete it, and what each field means. We'll use the provided YAML fields to determine the structure and content of the guide.
-</thinking>
-
 # Flower Delivery Form - Help Guide
 ## Purpose
 The Flower Delivery Form is used to register a flower delivery. Please fill out this form to schedule a flower delivery for a special person. This form is required for all flower delivery requests.

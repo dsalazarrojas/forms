@@ -1,5 +1,3 @@
-<thinking>This form is used for the onboarding process of a franchise. The form helps gather information from the user about their experience and expectations. It is likely used by the franchise's administrators to understand the user's background and tailor the onboarding process accordingly.</thinking>
-
 # Franchise Onboarding Survey - Help Guide
 ## Purpose
 The Franchise Onboarding Survey is a form used to gather information from users about their experience and expectations during the onboarding process of a franchise.

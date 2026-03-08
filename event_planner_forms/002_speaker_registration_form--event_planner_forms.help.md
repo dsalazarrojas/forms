@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect speaker information for an event, likely a conference or workshop. The form aims to gather details about the speaker, including their name, email, topic, bio, headshot, presentation type, presentation format, and other relevant information. This form is likely used by event planners to organize and manage speaker registrations for their events.
-
-</thinking>
-
 # Speaker Registration Form - Help Guide
 
 ## Purpose

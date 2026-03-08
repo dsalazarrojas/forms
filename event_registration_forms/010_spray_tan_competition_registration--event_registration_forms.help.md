@@ -1,14 +1,3 @@
-<thinking>
-To create the help guide for this form, I need to carefully analyze the provided YAML structure to understand each field's purpose and requirements.
-
-The purpose of the form is to register participants for a spray tan competition. This form likely requires personal and professional information from the participants, as well as their preference for the competition categories and agreements with certain rules.
-
-Upon reviewing the fields, I see a mix of text input fields, select_one and select_multiple fields, and text input fields with specific types and options. Some fields are required, while others are optional.
-
-The form is divided into sections with unique IDs, names, labels, and types, which will be used to explain each field.
-
-</thinking>
-
 # Spray Tan Competition Registration - Help Guide
 ## Purpose
 The Spray Tan Competition Registration form is a tool for participants to register for the competition, providing their personal and professional details, category preferences, and agreements to the competition rules.

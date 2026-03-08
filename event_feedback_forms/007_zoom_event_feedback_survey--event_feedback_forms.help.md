@@ -1,9 +1,3 @@
-<thinking>
-The form is designed to gather feedback on events held on Zoom, which will help us understand the effectiveness and impact of the events. This form should only be used for events that have already occurred. It should not be used for future events.
-To avoid duplication of feedback, ensure that you've only completed the form once for each event. 
-Please provide your genuine and honest feedback.
-</thinking>
-
 # Zoom Event Feedback Survey - Help Guide
 ## Purpose
 

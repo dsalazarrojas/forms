@@ -1,10 +1,3 @@
-<thinking>
-We are about to create a help guide for the "Startup Mentorship Program Impact Evaluation Form". This form aims to assess the outcomes and impact of the startup mentorship program on participating startups. To ensure accuracy, we will review the form's purpose, structure, and each field's explanation to create a clear and concise guide for users.
-
-Before proceeding, we will check for any internal knowledge or assumptions that may influence our explanation. We will focus on explaining each field in a way that is concrete, concise, and practical, without inventing unsupported business logic.
-
-</thinking>
-
 # Startup Mentorship Program Impact Evaluation Form - Help Guide
 ## Purpose
 This form is designed to evaluate the impact of the startup mentorship program on participating startups. It helps assess the program's effectiveness in achieving its goals and identifying areas for improvement.

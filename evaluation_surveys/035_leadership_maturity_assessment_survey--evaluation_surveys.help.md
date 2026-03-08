@@ -1,12 +1,3 @@
-<thinking>...
-This form is designed to assess the leadership maturity of an individual or team within an organization. The purpose of this assessment is to gauge the extent to which a leader exhibits behaviors and skills that are characteristic of effective leadership. This survey is meant to be completed by leaders within the organization to reflect on their own leadership practices and identify areas for growth and development.
-
-The assessment will help leaders evaluate their own leadership maturity, identify strengths and weaknesses, and provide insights for personal and professional growth. It is essential to complete this survey honestly, as the results will serve as a baseline for future evaluations and development plans.
-
-Please note that this form is a self-assessment tool and should not be used as a performance evaluation or disciplinary measure.
-
-</thinking>
-
 # Leadership Maturity Assessment Survey - Help Guide
 ## Purpose
 The Leadership Maturity Assessment Survey is a tool designed to help leaders evaluate their own leadership practices and identify areas for growth and development.

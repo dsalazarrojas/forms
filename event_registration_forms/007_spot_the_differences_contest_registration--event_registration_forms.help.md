@@ -1,11 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for an event registration form called "spot_the_differences_contest_registration". This form is designed to collect information from event registrants, including their personal details such as name, email, and phone number, event details such as event name, date, and time, and registration information such as event type and team members. The form is likely used for an online or physical event where participants need to register for a contest. We need to ensure that the form is easy to understand and complete for end-users.
-
-Before creating the help guide, let's review the form's YAML structure to ensure that each field is well-represented and its purpose is clear. The form has 13 fields, including text fields for first name, last name, email, phone, event name, and event time. There are also date and time fields for event date and event time. The form has a select-one field for registration type and a select-multiple field for team members. A note field is also provided for any additional information.
-
-To create a clear and concise help guide, we will break down the form into sections and provide detailed explanations for each field.
-</thinking>
-
 # spot_the_differences_contest_registration - Help Guide
 ## Purpose
 This form is used to register participants for the Spot the Differences Contest. To complete the form, please follow the instructions below.

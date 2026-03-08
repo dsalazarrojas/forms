@@ -1,9 +1,3 @@
-<thinking>
-
-The form is designed to collect information from participants registering for the Winter STEM Club, a program that aims to provide a platform for students to engage in science, technology, engineering, and mathematics activities. This guide will walk you through the process of completing the form, which is divided into sections with clear and concise explanations for each field.
-
-</thinking>
-
 # Winter STEM Club Registration - Help Guide
 ## Purpose
 The Winter STEM Club Registration form is used to collect participant information for the Winter STEM Club program. The form is designed to gather details from participants, including their contact information, session preferences, and emergency contact details.

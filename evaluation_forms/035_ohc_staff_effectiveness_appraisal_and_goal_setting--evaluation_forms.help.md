@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to assess the effectiveness of OHCS (Organic Health and Care) staff members based on the following criteria: job responsibilities, effectiveness rating, alignment with set goals, current goals, job satisfaction, performance comments, evaluation date, evaluation time, evaluation location, evaluation form submitted status, evaluated by the manager, evaluation status, evaluation comments, evaluated by the employee, and evaluation form version. This form aims to provide a comprehensive assessment of the staff's performance and goals alignment.
-The purpose of this form is to evaluate the staff's effectiveness and provide a basis for future performance evaluations and goal setting. It is essential to complete this form accurately and thoroughly to ensure a fair assessment.
-
-Before starting, please note that some fields are marked as optional, but it is still crucial to fill them out if you have any information to provide. The evaluation date and time fields are required to be filled out accurately to ensure that the evaluation is recorded correctly.
-
-This form consists of 15 fields, each with a specific purpose. Please read through this guide carefully to ensure you understand each field's importance and how to fill it out correctly.
-
-</thinking>
-
 # ohc_staff_effectiveness_appraisal_and_goal_setting - Help Guide
 ## Purpose
 This form is designed to assess the effectiveness of OHCS staff members based on their job responsibilities, effectiveness rating, alignment with set goals, and other performance metrics.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # school_carnival_wristband_order_form - Help Guide
 ## Purpose
 This form is used to collect information for student wristband orders for a school carnival event. Please fill out this form to provide the necessary details for your child's wristband order.

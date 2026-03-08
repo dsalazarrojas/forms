@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "wedding_survey_form_responsive" form is to collect information about a wedding guest's attendance and preferences. This form asks if the guest will be able to attend the wedding, their name, if they will participate in certain activities (e.g., happy hour, food), if they have dietary restrictions, and their preferred contact method (phone, email). The form is likely to be used by wedding planners or hosts to gather relevant information from guests before the event.
-</thinking>
-
 # wedding_survey_form_responsive - Help Guide
 ## Purpose
 This form is designed to collect information from wedding guests about their attendance and preferences for the wedding event.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from participants in martial arts events or classes. It is designed to gather basic demographic information, medical history, and emergency contact information. This form may be used by martial arts schools, studios, or event organizers to ensure that participants are aware of and agree to certain risks associated with martial arts training.
-</thinking>
-
 # Martial Arts Waiver Form - Help Guide
 ## Purpose
 The Martial Arts Waiver Form is a document that participants must complete before engaging in martial arts training or events. It helps ensure that participants are aware of and agree to the risks associated with martial arts training and provide necessary emergency contact information.

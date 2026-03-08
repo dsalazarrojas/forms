@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for users to register and preorder events or products. It is a multi-page form divided into several sections. The form's purpose is to capture essential information for event registration and product preorder from the user. The form is divided into six sections: Event Registration, Product Preorder, Registration Details, Event Details, Payment, and Payment Method.
-To ensure the form is filled out correctly, please review the following instructions carefully.
-</thinking>
-
 # Event Registration And Preorder Form - Help Guide
 ## Purpose
 The Event Registration And Preorder Form is a multi-page form that collects information from users for event registration and product preorders. 

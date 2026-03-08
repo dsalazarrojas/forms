@@ -1,7 +1,3 @@
-<thinking>
-...this form is used by the Josh Dampf Events team to gather feedback and evaluation from event attendees to improve future events. It's crucial that the data is accurate and relevant. Please fill in the form carefully. Ensure that each question is answered with the utmost care and attention to detail. This form should not be filled out if you've already completed it previously. If you've attended this event, this form is designed for you.
-</thinking>
-
 # josh_dampf_events_post_event_feedback - Help Guide
 ## Purpose
 This form is designed to gather feedback and evaluation from event attendees to improve future events.

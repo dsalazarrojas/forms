@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from participants about their experience at an event, specifically about who they think was the best mentor, why, and any additional details or feedback. The form is intended to gather data to help organizers improve future events. 
-
-This form is part of the "event_registration_forms" category, which implies it is related to events organized by this system. The fields in this form are designed to collect personal information, preferences, and feedback from participants.
-
-Before completing this form, please ensure you have all necessary information and answers ready. You can complete this form in multiple steps or as a single page form, depending on your preference.
-
-Please note that the form fields are designed to collect specific types of information, and some fields are required to ensure accurate data collection. If you have any questions or concerns about the form, you can contact the event organizers for clarification.</thinking>
-
 # Best Mentor Voting Form - Help Guide
 ## Purpose
 The Best Mentor Voting Form is a survey designed to collect feedback and ratings from participants about the mentors they encountered during the event. Your input will help us identify the most effective mentors and improve future events.

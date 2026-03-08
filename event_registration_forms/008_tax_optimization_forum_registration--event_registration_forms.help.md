@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for tax optimization events such as workshops, seminars, or meetings. It's meant for events related to tax planning, strategy, and optimization for individuals or organizations. Before proceeding, make sure that you're filling this form for a genuine tax optimization event and not for other types of events. 
-</thinking>
-
 # Tax Optimization Forum Registration - Help Guide
 ## Purpose
 This form is for registering events related to tax optimization, such as workshops, seminars, or meetings. 

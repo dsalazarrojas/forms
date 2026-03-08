@@ -1,7 +1,3 @@
-<thinking>
-The form "Candle Survey" is a customer feedback survey designed to gather information about customers' experiences with a candle shop. The form is likely intended to help the shop improve its services, products, and overall customer satisfaction. However, to confirm, I will review the form fields and provide a clear and concise explanation in the next section.
-</thinking>
-
 # Candle Survey - Help Guide
 ## Purpose
 The Candle Survey is a customer feedback form designed to gather information about your experience with our candle shop. Your feedback is invaluable to us, and we appreciate your time to share your thoughts.

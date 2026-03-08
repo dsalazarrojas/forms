@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Halloween House Decorating Contest Entry Form - Help Guide
 
 ## Purpose

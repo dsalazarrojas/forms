@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Job Fair Organization Assessment Form - Help Guide
 ## Purpose
 The Job Fair Organization Assessment Form is a tool used to collect information and insights from individuals within an organization about its events. This form will help event organizers assess the organization's readiness and preparedness for a job fair and help identify areas that require improvement. By providing detailed and accurate information, you will help the event team better understand the organization's dynamics and create a more effective and engaging experience for all attendees.

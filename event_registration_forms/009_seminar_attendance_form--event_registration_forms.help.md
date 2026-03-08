@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Seminar Attendance Form - Help Guide
 ## Purpose
 The Seminar Attendance Form is a simple form used to capture attendee information for seminars. It is designed to collect basic contact details such as name and contact information, and the date of the seminar attended. This form is typically used for internal purposes, and the collected data is used by the seminar organizers to communicate with attendees and ensure that they are up-to-date with the latest seminar-related information.

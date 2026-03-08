@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # industry-networking-event-attendance-form - Help Guide
 ## Purpose
 This form is designed for participants to register their attendance and provide information about their relationship with the industry at an industry networking event. It collects details such as participant name, contact information, and any special requests they may have.

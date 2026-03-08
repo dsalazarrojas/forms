@@ -1,8 +1,3 @@
-<thinking>
-This form is used to register media outlets, including journalists, for access to media resources. The form is designed to collect essential information from media registrants, ensuring they have the necessary agreements and contact details on file. This form will help streamline the process of granting access and maintaining accurate records. Please note that this form is not intended for general public use, as the majority of fields are required for media registrants.
-
-</thinking>
-
 # media_registration_form - Help Guide
 ## Purpose
 The media_registration_form is used for registering media outlets, including journalists, for access to media resources. It is designed to collect necessary contact information and agreements.

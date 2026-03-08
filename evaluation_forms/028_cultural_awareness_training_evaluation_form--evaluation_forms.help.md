@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect feedback from participants after they have attended a cultural awareness training session. The form is designed to gather information on the program name, session name, evaluation time, overall rating of the session, a rating scale, comments, participant email, and participant phone number. This form will help trainers and administrators assess the effectiveness of the cultural awareness training program and identify areas of improvement. Please note that this form is not designed to be a comprehensive evaluation tool, but rather a quick and concise way to gather feedback.
-
-</thinking>
-
 # Cultural Awareness Training Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from participants after they have attended a cultural awareness training session.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Art Fair Visitor Lead Generation Form - Help Guide
 
 ## Purpose

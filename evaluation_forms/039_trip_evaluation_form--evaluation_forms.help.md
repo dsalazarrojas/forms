@@ -1,7 +1,3 @@
-<thinking>
-The form is likely used by event planners or project managers to evaluate a trip or project, gathering information about the date, services provided, client details, and other relevant aspects of the trip or project. This form is designed to be completed by the person who planned or organized the trip, and its purpose is to gather feedback and data for future improvements and planning. It's essential to ensure that the person completing the form has a clear understanding of the form's purpose and its intended use.
-</thinking>
-
 # Trip Evaluation Form - Help Guide
 ## Purpose
 The Trip Evaluation Form is a tool used to gather information and feedback about a trip or project evaluation. It helps event planners or project managers to collect data about the trip's date, services provided, client details, and other relevant aspects.

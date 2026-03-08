@@ -1,15 +1,3 @@
-<thinking>
-This form is used to register users for an event related to process automation, where users can register for a specific roundtable event. The purpose of this form is to collect attendee information and their interests in the event topic. The form fields are divided into several sections, and each field is explained in detail below.
-
-Before proceeding, please ensure that:
-
-* You are registering for the correct event
-* You have not already registered for this event
-
-This form is not intended for bulk registrations. Each attendee should fill out this form individually.
-
-</thinking>
-
 # Process Automation Roundtable Registration - Help Guide
 ## Purpose
 This form is designed to register attendees for a roundtable event on process automation. The event provides a platform for attendees to discuss and learn about process automation-related topics.

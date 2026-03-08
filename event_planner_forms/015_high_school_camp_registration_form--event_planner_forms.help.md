@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from students who want to register for a high school camp. It is likely used by the camp organizers to gather relevant details about the students, such as their personal contact information, school affiliation, and camp attendance details. The form probably aims to streamline the registration process for the students and help the organizers manage the camp efficiently.
-
-To check for relevance and non-duplication, the form might be linked to a database or a system that tracks student registrations, and the information collected through this form should be cross-checked against existing records to prevent duplicate entries.
-
-</thinking>
-
 # High School Camp Registration Form - Help Guide
 ## Purpose
 This form is intended for students to register themselves and their parents/guardians for a high school camp. It gathers essential information for the camp organizers to prepare for the camp.

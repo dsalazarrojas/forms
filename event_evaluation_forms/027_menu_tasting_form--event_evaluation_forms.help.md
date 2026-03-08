@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Menu Tasting Form - Help Guide
 
 ## Purpose

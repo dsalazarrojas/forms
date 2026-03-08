@@ -1,8 +1,3 @@
-<thinking>
-The provided YAML defines a form for planning a conference experience with various fields for organizers to specify details such as event title, start and end times, and session preferences. This form likely aims to collect information about the conference schedule and attendee preferences to help organizers plan a successful and engaging event.
-To avoid duplication, it's essential to ensure that the form fields are accurately described, and the instructions and field explanations are clear and concise.
-</thinking>
-
 # Plan Your Conference Experience - Help Guide
 ## Purpose
 This form is designed to help conference organizers plan and tailor their event experience according to their needs and preferences.

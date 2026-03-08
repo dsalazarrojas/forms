@@ -1,9 +1,3 @@
-<thinking>
-
-The form is designed to collect information for school trips, including event IDs, event names, trip dates, student IDs, student names, email addresses, phone numbers, parent and student permissions, student permission notes, status, and event status. This form appears to be used for tracking and managing student attendance and permissions for school events. Each field is essential for capturing relevant details, and most fields are required to ensure accuracy and completeness of information.
-
-</thinking>
-
 # school_trip_attendance_form - Help Guide
 ## Purpose
 The school trip attendance form is used to collect and track information for school events, including student attendance and permissions.

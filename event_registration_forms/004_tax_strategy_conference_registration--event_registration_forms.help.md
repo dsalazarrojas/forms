@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to register attendees for the Tax Strategy Conference. The form collects information about the attendee's details, session preferences, contact details, and accommodation requirements. The form is not intended for commercial use and is released under CC BY 4.0. It is an original adaptation created by AI using public survey topic metadata. Please ensure that this form is only used for legitimate purposes and that any modifications are properly credited.
-
-</thinking>
-
 # Tax Strategy Conference Registration - Help Guide
 ## Purpose
 This form is designed to collect registration information from attendees for the Tax Strategy Conference.

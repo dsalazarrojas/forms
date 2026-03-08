@@ -1,10 +1,3 @@
-<thinking>
-The Game Studio Demo Slot Booking Form is a form used for scheduling and booking demo slots for game development demonstrations. 
-This form is designed to be completed by game developers or studios looking to showcase their work to potential partners or clients. 
-It is used to input start and end times for the demo, as well as other relevant information such as the name of the representative, their email address, the partner or client being demonstrated to, and any additional notes. 
-The form is meant to be completed by the representative of the game studio, not by the partner or client.
-</thinking>
-
 # Game Studio Demo Slot Booking Form - Help Guide
 ## Purpose
 

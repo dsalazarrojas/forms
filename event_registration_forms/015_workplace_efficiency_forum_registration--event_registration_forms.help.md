@@ -1,12 +1,3 @@
-<thinking>
-This help guide will cover the Workplace Efficiency Forum Registration form, ensuring users understand its purpose and how to complete it accurately.
-
-The purpose of this form is to capture essential details about an event, such as event organization, attendees, and session information. The form serves as a centralized hub for event registration, allowing event organizers to provide attendees with vital information about events they are interested in attending.
-
-To avoid duplication or incorrect information, please review the form carefully before providing responses.
-
-</thinking>
-
 # Workplace Efficiency Forum Registration - Help Guide
 ## Purpose
 This form is designed to collect information about events, allowing event organizers to showcase their sessions and connect with attendees.

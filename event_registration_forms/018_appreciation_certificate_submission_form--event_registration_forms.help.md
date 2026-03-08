@@ -1,22 +1,3 @@
-<thinking>
-We need to ensure that the form is completed accurately and efficiently by the users. This involves understanding the purpose of the form and the required and optional fields. The Appreciation Certificate Submission Form is a form designed to gather information from the submitter for the purpose of issuing an appreciation certificate. The form should be filled out by the person submitting the certificate and should include the recipient's name, award date, reason for the award, and other relevant details. The fields should be filled out accurately and consistently, with attention to detail. For example, if the award category is a drop-down menu, the selected category should match the award category mentioned in the reason for the award field. We should also check for potential duplication or inconsistency of data entry, such as award date and award category, to ensure that the submitted data is accurate and reliable.
-
-The form is designed to collect the following information:
-*   **Your Name** (`submitter_name`, text, required): This field should be filled out with the submitter's name.
-*   **Email Address** (`submitter_email`, email, required): This field should be filled out with the submitter's email address.
-*   **Phone Number** (`submitter_phone`, text, optional): This field is optional and can be filled out if the submitter wants to provide their phone number.
-*   **Organization or Company** (`organization`, text, optional): This field can be filled out if the submitter is a member of an organization or company.
-*   **Certificate Details** (`certificate_details`, note, optional): This field can be used to provide additional information about the certificate.
-*   **Certificate Recipient Name** (`recipient_name`, text, required): This field should be filled out with the recipient's name.
-*   **Award or Appreciation Category** (`award_category`, select_one, required): This field should be selected from the drop-down menu and should match the reason for the award field.
-*   **Award Date** (`award_date`, date, required): This field should be filled out with the date of the award.
-*   **Reason for Certificate** (`reason_for_award`, text, required): This field should be filled out with a brief description of why the certificate is being issued.
-*   **Key Achievements or Accomplishments** (`achievement_highlights`, text, optional): This field can be filled out to provide additional details about the certificate.
-*   **Preferred Certificate Design Style** (`certificate_design`, select_one, optional): This field can be selected from the drop-down menu to choose the style of the certificate.
-*   **Additional Notes** (`additional_notes`, text, optional): This field can be used to provide any additional comments or details.
-
-</thinking>
-
 # Appreciation Certificate Submission Form - Help Guide
 ## Purpose
 The Appreciation Certificate Submission Form is used to gather information from the submitter for the purpose of issuing an appreciation certificate.

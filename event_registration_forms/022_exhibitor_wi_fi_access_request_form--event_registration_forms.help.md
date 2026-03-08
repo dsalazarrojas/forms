@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request Wi-Fi access for exhibitors at events. To avoid duplication, please ensure that the form has already been filled out and submitted before submitting it again.
-</thinking>
-
 # exhibitor-wi-fi-access-request-form - Help Guide
 ## Purpose
 The Exhibitor Wi-Fi Access Request Form is used to gather information from exhibitors to provide them with secure and reliable Wi-Fi access during an event. This form ensures that all necessary details are captured to facilitate smooth communication with the event organizers and the exhibitors.

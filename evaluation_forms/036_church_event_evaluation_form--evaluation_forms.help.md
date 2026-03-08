@@ -1,13 +1,3 @@
-<thinking>
-
-The Church Event Evaluation Form is designed to assess attendees' experiences and perceptions about church events. It is essential to ensure that we understand the effectiveness and quality of our events to make informed decisions for future events. Please note that this form is meant to be completed by attendees of church events, and their feedback is crucial in helping us improve our services.
-
-To avoid duplication, we kindly request that attendees complete this form only once per event. If you have already completed an evaluation form for this event, please do not fill it out again.
-
-This form is divided into two main sections: Event Details and Event Experience. The Event Details section requires information about the event, such as the event's name, date, and your role at the event. The Event Experience section asks you to rate your overall satisfaction with various aspects of the event, such as content, venue, and hospitality.
-
-</thinking>
-
 # Church Event Evaluation Form - Help Guide
 
 ## Purpose

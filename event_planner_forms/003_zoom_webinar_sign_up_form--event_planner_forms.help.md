@@ -1,13 +1,3 @@
-<thinking>
-
-To create a helpful guide for the Zoom Webinar Sign Up Form, we first need to understand why this form is used and what it helps achieve.
-
-This form is for registering participants for a Zoom webinar event. Its primary purpose is to collect attendee information such as their name, email address, role (host, speaker, or participant), and time zone to ensure they are correctly registered and receive the necessary notifications and invitations.
-
-Before proceeding, please note that the fields provided are mostly optional, but the "Role" field is required as it is crucial for determining the attendee's access rights and participation level in the webinar. 
-
-</thinking>
-
 # Zoom Webinar Sign Up Form - Help Guide
 ## Purpose
 This form is used to register participants for a Zoom webinar event. It gathers necessary information to ensure attendees receive correct invitations and notifications.

@@ -1,7 +1,3 @@
-<thinking>
-We need to confirm that this form is being used to collect feedback on unique experiences, and that no other form exists with the same purpose. This form is intended to gather information about specific events, including the event name, date, time, and participant satisfaction. It will also collect feedback, ratings, and suggestions, as well as additional comments. We should ensure that the form is complete and accurate before proceeding.
-</thinking>
-
 # Unique Experience Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and ratings on unique experiences, allowing us to assess the effectiveness and enjoyment of specific events.

@@ -1,17 +1,3 @@
-<thinking>
-
-This form is used to register a trade season pass, which is a type of event registration for a trade show or exhibition. The purpose of this form is to collect information about the trade season pass, including the business details, pass type, start and end dates, venue, contact information, and any additional notes or requirements. 
-
-To avoid duplication and ensure that the form is filled out correctly, please note the following:
-
-* The form is designed to be completed by a single person or business representative.
-* All fields marked as "required" are essential for processing the registration.
-* If a field is optional, fill it out if it applies to your situation.
-* If you are unsure about a particular field, refer to the provided hints for guidance.
-* Review all the fields carefully before submitting the form.
-
-</thinking>
-
 # Trade Season Pass Registration - Help Guide
 ## Purpose
 The Trade Season Pass Registration form is used to register a trade season pass for a specific trade show or exhibition.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback from seminar attendees after the session. To ensure that the data is accurate and relevant, we will only accept submissions within 24 hours after the session date. Please fill out this form with your true and honest feedback.
-</thinking>
-
 # Seminar Attendee Feedback Check In Form - Help Guide
 ## Purpose
 The Seminar Attendee Feedback Check In Form is designed to collect feedback from seminar attendees after a session. It's essential to provide us with your honest and true feedback so we can improve our services.

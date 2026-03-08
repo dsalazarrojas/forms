@@ -1,8 +1,3 @@
-<thinking>
-This form is used to evaluate the success of a corporate event, typically a meeting, training, or conference. The form aims to gather information about the event's effectiveness, attendee satisfaction, and follow-up actions. To ensure accurate and comprehensive feedback, it's essential to carefully complete this form, which includes fields that cover event details, attendee information, and follow-up tasks. This form is a critical tool for event planners and organizers to assess the success of their events and make informed decisions for future events.
-
-</thinking>
-
 # Corporate Event Success Evaluation Form - Help Guide
 
 ## Purpose

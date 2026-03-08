@@ -1,8 +1,3 @@
-<thinking> 
-This form is used for assessing information retrieval skills, where users are required to provide information on their search term, explanation, confidence rating, evaluation result, search results, search time, form version, form build time, form build date, assigned tool, form ID, output file, description, category, category label, category value, and form titles. This form is meant to capture detailed information about the user's search experience, including their search term, the explanation for their search, their confidence in the results, and the time it took them to find the information.
-
-</thinking>
-
 # Information Retrieval Assessment - Help Guide
 ## Purpose
 The Information Retrieval Assessment form is designed to gather information about your search experience, including your search term, explanation, confidence rating, evaluation result, search results, search time, form version, form build time, form build date, assigned tool, form ID, output file, description, category, category label, category value, and form titles.

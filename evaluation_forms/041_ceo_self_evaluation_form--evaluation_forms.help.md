@@ -1,7 +1,3 @@
-<thinking>
-This is a self-evaluation form for CEOs to assess their own performance and progress towards the company's vision, goals, and objectives. It's a crucial tool for CEOs to reflect on their achievements, challenges, and areas for improvement, and to communicate their insights with the Board of Directors. This form ensures that the CEO's self-assessment is comprehensive, transparent, and actionable. It's a one-time evaluation for the current fiscal year, and the submission date should be kept up to date.
-</thinking>
-
 # CEO Self-Evaluation Form - Help Guide
 ## Purpose
 This form is designed to help CEOs assess their performance and progress towards the company's vision, goals, and objectives.

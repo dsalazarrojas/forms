@@ -1,7 +1,3 @@
-<thinking>
-We must ensure that this form serves a clear purpose and follows the required instructions for end-users. Let's consider the form's purpose - to collect participant information and payment details for an event. This form will be used for registration, so it's essential to make it easy to understand and fill out for our end-users. We should also check if this form has already been created to avoid duplication. Since the form has no fields indicating a duplicate, we can proceed with creating the help guide.
-</thinking>
-
 # Organizational Capability Course Registration - Help Guide
 ## Purpose
 This form is used for participants to register for an event by providing their information and payment details.

@@ -1,11 +1,3 @@
-<thinking>... internal reasoning block to explain the form purpose and checks for relevance and non-duplication ...
-
-The Karaoke Contest Judging Form is designed to collect feedback and scores from judges about the performances they have witnessed. This form will help in evaluating the singers' skills in various aspects such as category, stage presence, performance, and overall score. The form is meant to be completed by judges who have witnessed the contest performances and need to provide their assessment and feedback on the singers. The form is likely used in a competition or event management context where the judges need to evaluate and score the performances.
-
-This form does not seem to be designed for internal use within the organization, as most fields are not required for the form to be submitted. The form is more likely used by external judges to provide feedback and scores on the performances. There is no clear indication that this form is used for duplicate or recurring submissions. The form appears to be a one-time evaluation form.
-
-</thinking>
-
 # Karaoke Contest Judging Form - Help Guide
 ## Purpose
 The Karaoke Contest Judging Form is designed to collect feedback and scores from judges on the performances they have witnessed.

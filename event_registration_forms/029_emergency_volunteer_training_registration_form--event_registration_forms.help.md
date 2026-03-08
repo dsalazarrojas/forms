@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # emergency_volunteer_training_registration_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from volunteers who have registered for emergency training sessions. This form helps to keep track of the training session details, volunteer names, and email addresses. Please fill out the form accurately to ensure your registration is complete and you receive the necessary information about the training session.

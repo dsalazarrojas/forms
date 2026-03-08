@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users who want to register for an event. It's meant to be used by anyone who has a basic understanding of the event and wants to attend. The form will likely be used by a wide range of people, including event organizers and attendees. Please review the form carefully to ensure that it accurately represents your needs.
-</thinking>
-
 # Women's Event Registration Form - Help Guide
 ## Purpose
 The Women's Event Registration Form is a tool used to gather information from attendees before, during, or after an event. This form will help event organizers collect necessary information from attendees, such as contact details, event preferences, and payment methods.

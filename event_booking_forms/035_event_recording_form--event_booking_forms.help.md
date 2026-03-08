@@ -1,7 +1,3 @@
-<thinking>
-This form is a template for recording event information, designed to be user-friendly and versatile. The purpose of this form is to collect and document details about an event in an organized and structured manner. It's essential to provide accurate and comprehensive information to ensure seamless event planning, execution, and follow-up processes.
-</thinking>
-
 # Event Recording Form - Help Guide
 ## Purpose
 The Event Recording Form is a tool designed to collect essential details about an event. This form serves as a centralized platform to capture and store information regarding events, making it easier to plan, execute, and follow up on event-related activities.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We're going to provide a help guide for the Organizational Agility Workshop Registration form. Before we dive into the details, let's ensure this form is relevant and not a duplicate of an existing form. 
 
 This form is designed to collect information from participants for the Organizational Agility Workshop. It's essential to understand that this form is intended to capture the necessary details for the participants' registration, allowing us to better understand their interests, preferences, and requirements for the workshop.

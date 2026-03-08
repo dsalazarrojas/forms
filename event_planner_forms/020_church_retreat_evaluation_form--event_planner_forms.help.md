@@ -1,7 +1,3 @@
-<thinking> 
-Church Retreat Evaluation Form is designed to gather feedback from attendees about their experiences and satisfaction with various aspects of the retreat. This form will help organizers evaluate the retreat's success and identify areas for improvement. Please only fill out the form if you attended the retreat. Your feedback will help us make future retreats more enjoyable and beneficial for everyone involved.
-</thinking>
-
 # Church Retreat Evaluation Form - Help Guide
 ## Purpose
 This form is intended for attendees to provide feedback on their experiences with the Church Retreat. It helps organizers assess the retreat's quality and identify areas for improvement. Your input is valuable to us, and we encourage you to share your thoughts and suggestions.

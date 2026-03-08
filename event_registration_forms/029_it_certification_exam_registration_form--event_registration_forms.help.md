@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To confirm, the "it_certification_exam_registration_form" form is intended for users to register for an IT certification exam. The form should be completed by individuals who wish to take an IT certification exam, and it is used to collect necessary information for the exam registration process. This form will be reviewed by the internal team to ensure that the necessary requirements are met before proceeding with the exam.
 
 </thinking>

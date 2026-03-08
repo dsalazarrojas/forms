@@ -1,9 +1,3 @@
-<thinking>
-To ensure accurate and efficient use of this form, please verify that you are in the correct context and that the form is not intended for duplicate or non-essential purposes.
-This form is designed for students, parents, or guardians to register their participation in the Intermediate Honors String Ensemble. The form collects essential information for the ensemble's organization and performance preparation.
-
-</thinking>
-
 # Intermediate Honors String Ensemble Registration - Help Guide
 ## Purpose
 The Intermediate Honors String Ensemble Registration form is used to collect information from students and their parents/guardians for the Intermediate Honors String Ensemble. This form is necessary for the ensemble's organization and performance preparation.

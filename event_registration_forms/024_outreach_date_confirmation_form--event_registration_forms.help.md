@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that users understand the purpose of this form before filling it out. This form is used to confirm event dates and attendance details. Before filling out the form, please check that the event date and preferred date are correctly set, and that the organization has been properly registered. If the user has already submitted this form for the same organization, event date, and preferred date, they will be prompted to review and confirm their previous submission.
-</thinking>
-
 # Outreach Date Confirmation Form - Help Guide
 ## Purpose
 This form is used to confirm event dates and attendance details for outreach activities. 

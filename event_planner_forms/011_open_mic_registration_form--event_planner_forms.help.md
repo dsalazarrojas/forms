@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from performers who want to sign up for an open mic event. The form is meant to capture the performer's name, contact information, availability, and other relevant details to ensure a smooth event planning process. This form is not meant to be filled out by the event organizers or other stakeholders, so please note that only performers should be filling out this form.
-</thinking>
-
 # Open Mic Registration Form - Help Guide
 ## Purpose
 The Open Mic Registration Form is a tool for performers to register for an open mic event. It collects necessary information from performers to help event organizers prepare for the event.

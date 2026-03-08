@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # ESG Impact Assessment Program Application Form - Help Guide
 
 ## Purpose

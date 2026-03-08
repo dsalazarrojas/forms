@@ -1,7 +1,3 @@
-<thinking>
-This form is a Playdate Reservation Form used to collect information from parents to book a playdate for their children. The form is not affiliated with any form platform and is an original creation using public survey metadata. The form is intended for parents to provide basic information about their child's playdate reservation.
-</thinking>
-
 # Playdate Reservation Form - Help Guide
 ## Purpose
 The Playdate Reservation Form is a simple form designed to collect information from parents for booking a playdate for their children. This form is meant to be completed by parents to provide their child's playdate details.

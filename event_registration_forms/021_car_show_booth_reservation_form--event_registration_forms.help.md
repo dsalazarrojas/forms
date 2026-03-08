@@ -1,26 +1,3 @@
-<thinking>
-
-This form appears to be a registration form for a car show. It collects information from exhibitors to reserve a booth at the event. The form likely aims to capture exhibitor's contact information, booth details, vehicle display information, and payment details. To avoid duplication or confusion, it's essential to clearly explain each field's purpose to ensure accurate and complete submissions.
-
-The form includes the following sections:
-
-1. **Exhibitor Information**: This section collects the basic contact details of the exhibitor, including name, email, phone number, and company name if applicable.
-2. **Booth Reservation Details**: This section includes information about the booth size preference, booth location preference, number of vehicles to display, and additional requests or comments.
-3. **Vehicle Display**: This section captures vehicle details for display, such as year, make, and model.
-4. **Payment Information**: This section gathers payment details, including booth fee, additional fees, total estimated cost, payment method, and insurance certificate provision.
-
-To complete this form, exhibitors should:
-
-* Fill in their contact information (name, email, phone number, and company name if applicable) to ensure they can be reached for further communication.
-* Choose their preferred booth size and location.
-* Specify the number of vehicles they plan to display.
-* Provide vehicle details for display.
-* Enter payment information, including booth fee, additional fees, total estimated cost, payment method, and insurance certificate provision.
-
-The form seems well-structured to collect the necessary information for a car show booth reservation. By understanding the purpose and requirements of each field, exhibitors can complete the form accurately and efficiently.
-
-</thinking>
-
 # Car Show Booth Reservation Form - Help Guide
 ## Purpose
 The Car Show Booth Reservation Form is designed to collect information from exhibitors to reserve a booth at the car show. This form helps us understand your needs and requirements for the event.

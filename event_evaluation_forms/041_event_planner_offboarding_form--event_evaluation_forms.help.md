@@ -1,6 +1,3 @@
-<thinking>
-We need to make sure that event planners can efficiently offboard events by filling out this form. It's crucial that event planners understand what information to provide for each field to ensure accurate offboarding and minimize back-and-forth communication. Let's review the form carefully to avoid duplication of effort and unnecessary complexity. We should prioritize clear explanations for each field to help event planners get the most out of this form. I'll create a user-facing guide that covers the form's purpose, how to complete it, and a field-by-field explanation. I'll use the provided YAML schema to ensure the guide accurately reflects the form's structure and requirements.</thinking>
-
 # Event Planner Offboarding Form - Help Guide
 ## Purpose
 The Event Planner Offboarding Form is used to document the offboarding process of events, ensuring that all necessary information is captured and communicated effectively. This form helps event planners, project managers, and other stakeholders stay organized and up-to-date during the offboarding process.

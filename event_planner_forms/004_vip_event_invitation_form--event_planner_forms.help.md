@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # vip_event_invitation_form - Help Guide
 ## Purpose
 The `vip_event_invitation_form` is a form designed to gather information about a VIP event, including event details, contact information, and VIP guest preferences.

@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to evaluate the performance of interns working with instructors. This form is used to gather information about the intern's work quality, skills, and overall performance. To ensure accurate and fair evaluations, please complete this form for each intern you have worked with.
-
-Before starting, check that you are not evaluating an intern you have already evaluated. This form should be used for new evaluations only.
-
-</thinking>
-
 # Instructor Intern Evaluation Form - Help Guide
 ## Purpose
 This form is used to evaluate the performance of interns working with instructors.

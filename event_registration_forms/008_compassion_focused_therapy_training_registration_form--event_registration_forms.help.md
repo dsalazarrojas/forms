@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Compassion Focused Therapy Training Registration Form - Help Guide
 
 ## Purpose

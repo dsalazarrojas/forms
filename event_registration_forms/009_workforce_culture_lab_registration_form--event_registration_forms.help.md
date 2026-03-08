@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to collect personal and work-related information from individuals who are registering for a Workforce Culture Lab. The purpose of this form is to gather details about the individual's personal information, contact information, work-related details, and work shift information. This form is intended for employees or job applicants to provide accurate and up-to-date information about their work shifts, including start and end times, duration, hours worked, and other relevant details.
-
-The information collected through this form will be used to manage workforce scheduling and planning, and will help the organization optimize its operations and improve communication with employees.
-
-Before filling out this form, please ensure that you have reviewed and understood the instructions and guidelines provided. If you have any doubts or concerns, please reach out to the relevant authority for clarification.
-
-Please note that this form is for internal use only and the information collected will not be shared with any third parties without consent from the individual.
-
-</thinking>
-
 # Workforce Culture Lab Registration Form - Help Guide
 ## Purpose
 This form is used to collect personal and work-related information from individuals registering for a Workforce Culture Lab.

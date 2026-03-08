@@ -1,10 +1,3 @@
-<thinking>
-
-Internal reasoning block to check purpose and non-duplication:
-This form is for registering attendees to a business networking event. It gathers basic information about the attendees such as name, email, phone number, and job title. It also collects more specific information such as industry and company size. Additionally, it includes questions about the event details like event name, date, and number of attendees. Lastly, it asks for networking goals, types of connections sought, and payment method. This form is meant to be used for event registration and to ensure that the attendees are aware of and agree to the event terms and conditions. The form fields are designed to be as minimal as possible while still gathering the necessary information for a successful event.
-
-</thinking>
-
 # Business Networking Event Booking Form - Help Guide
 ## Purpose
 This form is for registering attendees to a business networking event. It helps us to get to know you better and ensure that you have a great experience at our event.

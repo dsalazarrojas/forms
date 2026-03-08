@@ -1,8 +1,3 @@
-<thinking> 
-The form is designed for participants to enroll in a branding workshop, gathering essential information to tailor their experience and ensure a smooth registration process. This information includes personal details, workshop preferences, and payment preferences, ensuring participants are well-prepared and informed about the workshop schedule and content. To confirm, no other form exists with the same fields and purpose.
-
-</thinking>
-
 # Branding Workshop Enrollment Form - Help Guide
 ## Purpose
 The Branding Workshop Enrollment Form is designed to collect essential information from participants to tailor their experience and ensure a smooth registration process for the branding workshop.

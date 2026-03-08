@@ -1,14 +1,3 @@
-<thinking>
-The Online Group Supervision Registration form is designed for users to register their participation in an online group supervision session. The form is intended for individuals who are part of a group supervision program, such as therapists or coaches, to provide their information and session details for the session's facilitator or coordinator to keep track of.
-
-The form is not affiliated with, endorsed by, or derived from any form platform, and is an original creation using public survey topic metadata as inspiration. It is released under a Creative Commons BY 4.0 license, allowing users to use, modify, and even sell the form, as long as credit is given.
-
-This form has three main fields: Participant Info, Supervisor Info, and Session Details. The form is not required to be completed in a specific order, and all fields are optional.
-
-Please review the following guidelines before filling out the form to ensure you understand the purpose and requirements of each field.
-
-</thinking>
-
 # Online Group Supervision Registration - Help Guide
 ## Purpose
 This form is for registering your participation in an online group supervision session.

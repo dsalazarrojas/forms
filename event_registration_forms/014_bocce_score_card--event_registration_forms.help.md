@@ -1,7 +1,3 @@
-<thinking>
-To be honest, I'm not sure what the form "Bocce Score Card" is intended for. Is it for registering events like sports tournaments, or perhaps for something else entirely? Given its layout, it seems to be collecting data for two teams, Team 1 and Team 2, with various fields for match details and scores. I'd love some more context to understand the form's purpose and how it fits into the larger system.
-</thinking>
-
 # Bocce Score Card - Help Guide
 ## Purpose
 The Bocce Score Card form is used to collect data for a Bocce match, which appears to be a sport or game. This form is used to register event details and scores for two teams, Team 1 and Team 2.

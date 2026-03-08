@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in participating in a Health Justice Advocacy Roundtable. The purpose of this form is to gather essential details about the registrant, such as their name, email, contact preferences, accessibility needs, and interests. The form also includes an optional field for submitting any additional information.
-The form will be reviewed to ensure that each submission is unique and does not duplicate any existing registration. This is an internal check to prevent duplicate registrations.
-</thinking>
-
 # Health Justice Advocacy Roundtable Registration - Help Guide
 ## Purpose
 This form is designed to collect information from individuals interested in participating in a Health Justice Advocacy Roundtable. The collected data will help us understand the audience's demographics and interests, which will inform the event planning and organization.

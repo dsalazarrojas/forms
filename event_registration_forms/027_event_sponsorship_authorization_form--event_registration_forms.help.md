@@ -1,7 +1,3 @@
-<thinking>
-The event_sponsorship_authorization_form is used to collect sponsorship authorization for events. It should only be used for events that require sponsorship authorization. To ensure that event_sponsorship_authorization_form is used correctly, please confirm that the event requires sponsorship authorization before proceeding.
-</thinking>
-
 # event_sponsorship_authorization_form - Help Guide
 
 ## Purpose

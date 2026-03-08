@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to collect follow-up information from customers after an event has occurred. It's used to gather feedback, track the status of events, and record the progress of follow-up surveys and communications with customers. This form is intended to be used by event planners and coordinators to gather relevant details about events, customer interactions, and subsequent follow-ups. To avoid duplication of effort and ensure that this form is used correctly, please review the provided guide to understand the purpose and usage of each field. </thinking>
-
 # Event Follow Up Survey - Help Guide
 ## Purpose
 The Event Follow Up Survey is used to collect feedback, status updates, and other relevant information about events after they have occurred. This form is essential for event planners and coordinators to track progress, communicate with customers, and ensure that follow-ups are conducted efficiently.

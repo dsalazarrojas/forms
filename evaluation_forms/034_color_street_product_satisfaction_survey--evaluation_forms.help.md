@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Color Street Product Satisfaction Survey - Help Guide
 
 ## Purpose

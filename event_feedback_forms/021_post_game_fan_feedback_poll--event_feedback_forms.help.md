@@ -1,7 +1,3 @@
-<thinking>
-We're creating a help guide for the "post-game-fan-feedback-poll" form to ensure that end-users understand its purpose and how to complete it effectively. This form is designed to collect feedback from fans after a game, gathering information on their overall satisfaction, experiences with venue amenities, and other specific aspects of the event. It's essential to follow the provided YAML structure and ensure that each field explanation is clear and concise.
-</thinking>
-
 # post-game-fan-feedback-poll - Help Guide
 ## Purpose
 This form is designed to collect feedback from fans after a game, gathering information on their overall satisfaction, experiences with venue amenities, and other specific aspects of the event. Your input will help us understand how to improve future game-day experiences.

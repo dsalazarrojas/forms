@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for evaluating films at a Social Impact Film Festival. Its purpose is to gather information about the festival-goer's experience and opinions on the films shown during the festival. This form is designed to be filled out by festival attendees, providing a way for organizers to collect feedback and ratings on the films. It is not intended for internal use by festival staff, but rather for external users who have watched a film at the festival. Please ensure that this form is not duplicated or filled out by someone who has not attended the festival.
-</thinking>
-
 # Social Impact Film Festival Evaluation Form - Help Guide
 ## Purpose
 The Social Impact Film Festival Evaluation Form is designed to gather feedback and ratings from festival attendees on the films shown during the festival. This form helps festival organizers understand which films resonated with the audience and what areas need improvement.

@@ -1,5 +1,3 @@
-<thinking>This form is designed to help users book and plan events related to music tours. It is intended for individuals or organizations looking to organize and manage music events such as concerts, festivals, or workshops. The form is meant to gather relevant information about the event, including tour dates, locations, requirements, and details about the artist, event, and booking agency. This form should only be filled out by authorized personnel or individuals with a legitimate reason for booking and planning a music event.</thinking>
-
 # Music Tour Planning Booking Form - Help Guide
 ## Purpose
 This form is used to plan and book music tours and events. It gathers necessary information for event organization and management.

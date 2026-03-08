@@ -1,12 +1,3 @@
-<thinking>
-To determine the form purpose, I will analyze the input schema and identify the relevant fields. This form appears to be used for employee evaluations in a restaurant setting. The purpose of the form is to collect evaluations from supervisors, which can be used to track employee performance and provide feedback.
-
-To ensure this form is used correctly, I will review the required fields. The form requires the supervisor's ID, employee ID, date completed, and evaluation date to be filled in. These fields are likely used to identify the evaluator, the employee being evaluated, and the dates of the evaluation. 
-
-The optional fields, such as the rating average, overall rating, and feedback comments, can be filled in by the supervisor to provide additional feedback.
-
-</thinking>
-
 # Restaurant Employee Evaluation Form - Help Guide
 ## Purpose
 The Restaurant Employee Evaluation Form is used for supervisors to evaluate the performance of their employees. It collects relevant information to track employee performance and provide feedback.

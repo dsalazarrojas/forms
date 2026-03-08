@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to gather information from volunteers about their accommodation needs for an event. The form aims to collect the volunteer's name, the event they are volunteering for, a description of their accommodation needs, their arrival and departure dates, their room sharing preference, and any dietary requirements or emergency contact details. This information will be used to provide the best possible experience and accommodations for the volunteers.
-
-The form does not require any non-relevant information, and it is possible that the form could be used as a template for similar events. However, please use it responsibly and respect the original intent of the form.
-
-</thinking>
-
 # Volunteer Accommodation Form - Help Guide
 ## Purpose
 This form is designed to collect information from volunteers about their accommodation needs for an event.

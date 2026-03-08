@@ -1,9 +1,3 @@
-<thinking>
-
-This form is likely used to collect information from customers for a t-shirt deposit order. The customer is being asked to provide their details, order specifics, and payment information. The form likely serves as an intake process for the customer to submit their order and payment method. It's possible that the form is used for both internal and external purposes, such as for customer service or sales teams to process orders and follow up with customers. The fields in this form should align with the customer's needs and the business process of managing orders and payments. I assume that the product_info field is a select_one field with options for different colors, and that the payment_method field is also a select_one field with online and cash options. 
-
-</thinking>
-
 # t_shirt_deposit_order_form - Help Guide
 ## Purpose
 The t_shirt_deposit_order_form is used to collect information from customers for t-shirt orders, including customer details, order specifics, and payment method.

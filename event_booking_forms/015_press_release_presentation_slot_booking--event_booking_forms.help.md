@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for booking and managing press releases and presentations. It helps event organizers and coordinators to create and track the details of events, including event identifiers, press releases, and presentation slots. 
-
-The form is meant to be filled out by event organizers and coordinators to provide accurate and up-to-date information about ongoing and upcoming events. This form serves as a reference point for both event organizers and attendees to ensure smooth and efficient event organization. 
-
-To avoid duplication and ensure accuracy, users should not fill out this form more than once, and the form will only be accessible to authorized personnel with correct permissions.
-
-</thinking>
-
 # Press-Release-Presentation-Booking - Help Guide
 ## Purpose
 This form is used for booking and managing press releases and presentations. It is a crucial tool for event organizers and coordinators to track and update event information in real-time.

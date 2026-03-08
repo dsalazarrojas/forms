@@ -1,5 +1,3 @@
-<thinking>...We are creating a form to evaluate proposals submitted by potential clients. The form is designed to gather information about the project, the proposal, and the evaluator's opinion on the proposal. The form will help us assess the quality and feasibility of each proposal. When filling out the form, please make sure to provide clear and concise answers to each question. If you are unsure about any field, please refer to these guidelines...</thinking>
-
 # Proposal Evaluation Form - Help Guide
 ## Purpose
 The Proposal Evaluation Form is a tool used to assess the quality and feasibility of proposals submitted by potential clients. This form helps to gather relevant information about the project, the proposal, and the evaluator's opinion on the proposal.

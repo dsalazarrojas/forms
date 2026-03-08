@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # **Learning Science Roundtable Registration Form - Help Guide**
 
 ## **Purpose**

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for evaluating virtual events. As an event planner, your role is to gather valuable insights from attendees to improve future virtual events. The form is designed to collect feedback on the overall satisfaction, session durations, and other event-related details. Ensure you complete this form truthfully to provide accurate and helpful feedback.
-
-</thinking>
-
 # virtual_event_evaluation_form - Help Guide
 ## Purpose
 The virtual event evaluation form is designed to collect feedback from attendees on the overall satisfaction, session durations, and other event-related details. Please complete this form to help improve future virtual events.

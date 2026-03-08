@@ -1,12 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly for accurate tracking of event attendance. This guide will cover the necessary information for end-users to fill out the Art Exhibition Attendance Form. We'll break down each field to provide clarity on expectations and required fields.
-
-We'll cover the following:
-* The purpose of the form is to register attendees for the art exhibitions, allowing the organizers to track the expected number of visitors and plan accordingly.
-* How to complete the form, step by step.
-* A detailed explanation of each field, including label, type, and required status.
-</thinking>
-
 # Art Exhibition Attendance Form - Help Guide
 ## Purpose
 The Art Exhibition Attendance Form is designed to collect information from attendees for the Art Exhibition. This form helps the organizers track expected visitor numbers, plan events, and cater to attendees' needs.

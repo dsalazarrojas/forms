@@ -1,13 +1,3 @@
-<thinking>
-The form is used to collect information from participants who are interested in attending the hackathon event. It is used to manage kit requisition and distribution for the event. This form should only be filled out by participants who have been approved to attend the event. It is not intended for general public use and should not be filled out by non-participants.
-
-The form has been designed to collect relevant information in a way that is easy for participants to understand and fill out. Each field is labeled and explained in a way that is clear and concise. This help guide is intended to support participants in filling out the form correctly and ensuring that they are able to submit their information for kit requisition and distribution.
-
-Before filling out the form, participants should ensure that they have been approved to attend the event. If they are not approved, they should not fill out the form.
-
-In addition, this form is not intended to be used for any other purpose other than kit requisition and distribution for the hackathon event. It is not intended to be used for general inquiries or other purposes.
-</thinking>
-
 # Hackathon Kit Requisition Form - Help Guide
 ## Purpose
 The Hackathon Kit Requisition Form is used to collect information from participants to manage kit requisition and distribution for the hackathon event.

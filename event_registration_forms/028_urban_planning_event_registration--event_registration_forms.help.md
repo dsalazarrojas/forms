@@ -1,7 +1,3 @@
-<thinking>
-This form is used to register events related to urban planning, which can include conferences, workshops, or other activities. The primary purpose of this form is to collect information about the event and its participants, including the event title, date, time, and location, as well as details about the participant's name, contact information, dietary preferences, and accessibility needs. Before proceeding, please ensure that this form is not being duplicated or that you are registering a unique event. If you are unsure, please consult with your team or supervisor for clarification.
-</thinking>
-
 # Urban Planning Event Registration - Help Guide
 ## Purpose
 

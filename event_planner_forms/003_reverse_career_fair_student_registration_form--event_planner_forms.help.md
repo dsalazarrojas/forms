@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for student registrants to provide information for a reverse career fair event, where the event organizers will be visiting the students' campus to discuss job opportunities. The form ensures that students provide essential details, such as their company name, job title, email, phone number, and availability, to facilitate the event. This form is used to collect information for both the students and the event organizers.
-
-To ensure that students do not register for multiple reverse career fairs, we are implementing a uniqueness constraint on the student's name, university, and resume link.
-
-Please note that the follow-up section is optional and only required for students who have agreed to it.
-
-</thinking>
-
 # Reverse Career Fair Student Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from students for a reverse career fair event.

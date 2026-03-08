@@ -1,5 +1,3 @@
-<thinking>What is the purpose of this form? The Commercial Driver Evaluation Form is used by evaluators to assess the skills and performance of commercial drivers during a pre-trip evaluation. The form is used to evaluate various aspects of the driver's ability, including vehicle inspection, basic vehicle control, road test, safety practices, professionalism, and overall performance. This form helps to identify areas for improvement and determine whether the driver is qualified to operate a commercial vehicle.</thinking>
-
 # Commercial Driver Evaluation Form - Help Guide
 ## Purpose
 The Commercial Driver Evaluation Form is used to assess the skills and performance of commercial drivers during a pre-trip evaluation. This form is used to evaluate various aspects of the driver's ability, including vehicle inspection, basic vehicle control, road test, safety practices, professionalism, and overall performance.

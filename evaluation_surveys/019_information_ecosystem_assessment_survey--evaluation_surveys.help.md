@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Information Ecosystem Assessment Survey - Help Guide
 ## Purpose
 This form is designed to gather information about the assessment of the information ecosystem. The purpose of this form is to collect data on the sources and flows of information within an organization, as well as any gaps or assessments that may be identified.

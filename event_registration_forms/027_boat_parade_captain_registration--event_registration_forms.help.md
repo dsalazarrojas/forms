@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for boat parade participants, specifically for the captain of the boat. The purpose of this form is to collect essential details about the boat, its crew, and the participant's preferences and requirements. This information will be used to manage event registration, ensure smooth event execution, and provide a safe and enjoyable experience for all participants. Before proceeding, please ensure that you have read and understood the event rules and terms of participation. If you have already registered for the event, please do not repeat this registration process.
-</thinking>
-
 # Boat Parade Captain Registration - Help Guide
 ## Purpose
 The Boat Parade Captain Registration form collects information about the boat and its crew to ensure a smooth and enjoyable experience for all participants.

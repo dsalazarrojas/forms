@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-# performer_check_in_desk_booking_form - Help Guide
+> # performer_check_in_desk_booking_form - Help Guide
 
 ## Purpose
 This form is used to book a performer check-in desk. It is intended to gather information required for a smooth check-in process of performers, allowing them to reserve arrival slots and provide contact details for communication.

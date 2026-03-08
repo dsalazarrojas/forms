@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "event_location_finder" form is to gather essential information related to an event, allowing users to search for specific events based on their details. This form is designed to be a simple and straightforward tool for users to input their event-related queries. Before proceeding, ensure that you are using this form for its intended purpose and not duplicating effort elsewhere. If you are unsure about the form's purpose or have questions, please clarify with the form's creator at form@gic.mx.
-</thinking>
-
 # event_location_finder - Help Guide
 ## Purpose
 The "event_location_finder" form is used to gather event information, enabling users to find specific events based on their details.

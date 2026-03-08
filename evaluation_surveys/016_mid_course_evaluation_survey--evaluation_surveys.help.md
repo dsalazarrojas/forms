@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and evaluation from students about their experiences during the mid-course evaluation period. This form should only be completed by students who have taken a course and are providing their honest opinion about the course's teaching quality, content, and organization. It is essential to complete this form carefully to ensure that the feedback provided is accurate and helpful.
-</thinking>
-
 # Mid Course Evaluation Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and evaluation from students about their experiences during the mid-course evaluation period.

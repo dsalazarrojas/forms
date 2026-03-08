@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the skills and abilities of a tennis player, specifically for the 2016 Early Development Camp 3 tournament. The form is divided into several sections, including player information, technical skills evaluation, physical fitness assessment, and mental game assessment. The form requires players to provide their personal details, evaluate their technical skills, and assess their physical and mental abilities. The form is designed to be completed by a coach or evaluator and will help identify areas where the player needs improvement.
-</thinking>
-
 # 2016 Early Development Camp 3 The All Court Player Master 13 - Help Guide
 ## Purpose
 This form is designed to assess the skills and abilities of a tennis player, specifically for the 2016 Early Development Camp 3 tournament.

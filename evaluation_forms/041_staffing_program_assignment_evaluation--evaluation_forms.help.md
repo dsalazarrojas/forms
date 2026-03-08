@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to evaluate the progress of a staffing program assignment, gathering information about the assignment's title, team member's ID, start and end dates and times, location, status, and performance metrics. It's meant to be completed by team members or team managers to track and assess the performance of each assignment.
-
-To ensure data accuracy, please fill out this form correctly and thoroughly. If you're unsure about any field or have questions, refer to this help guide for guidance.
-
-Please note that some fields are marked as required (true) or optional (false). Ensure you fulfill the required fields for the form to be considered complete.
-
-This form is meant to be used for internal purposes only and should not be shared or used for external purposes without proper authorization.
-</thinking>
-
 # Staffing Program Assignment Evaluation - Help Guide
 ## Purpose
 The Staffing Program Assignment Evaluation form is designed to gather information about the progress of a staffing program assignment, enabling team members and managers to track and assess performance.

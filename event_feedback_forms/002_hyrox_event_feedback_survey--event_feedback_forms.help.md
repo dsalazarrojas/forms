@@ -1,11 +1,3 @@
-<thinking>
-The purpose of the "hyrox_event_feedback_survey" form is to collect feedback from event participants. This form is designed to gather essential information about the event, including the event name, location, satisfaction score, and participant details. 
-
-To ensure that you're completing the form correctly, please make sure you're filling it out for the right purpose and not duplicating your effort. This form is intended for one-time use, so please do not fill it out multiple times for the same event.
-
-Before proceeding, please review the fields below to understand what information is required and how to fill it out accurately.
-</thinking>
-
 # hyrox_event_feedback_survey - Help Guide
 ## Purpose
 The hyrox_event_feedback_survey form is designed to collect feedback from event participants.

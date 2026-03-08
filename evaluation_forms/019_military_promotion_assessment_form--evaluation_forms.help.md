@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Military Promotion Assessment Form - Help Guide
 
 ## Purpose

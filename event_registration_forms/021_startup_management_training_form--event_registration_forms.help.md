@@ -1,5 +1,3 @@
-<thinking>This form is used to register participants for a startups management training event. The form is designed to collect basic information about the participants, including their name, email, phone number, and any additional notes. This form is likely to be used by event organizers to keep track of participant details and to facilitate communication with them.</thinking>
-
 # startups_management_training_form - Help Guide
 ## Purpose
 The startups management training form is a registration form used by participants to register for a startups management training event.

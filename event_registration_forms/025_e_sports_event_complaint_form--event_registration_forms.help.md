@@ -1,20 +1,3 @@
-<thinking>
-To create a user-facing help guide that explains the E Sports Event Complaint Form, I first need to determine the form's purpose and relevance based on its internal structure and provided fields. 
-
-This form is designed to collect information about E Sports events. It appears to be used by event participants, organizers, or attendees to report or complain about any issues they experienced during the event. This form might be used to gather feedback, report technical issues, or document incidents. It is essential to note that this form is likely used for internal purposes within an organization or community related to E Sports.
-
-The provided fields in the form include:
-- E Sports Event Details: This field likely collects information about the event's name or description.
-- Event Date: This field is used for selecting or entering the date of the E Sports event.
-- Event Time: This field might be used for selecting or entering the start time of the event.
-- Event Location: This field is used for entering the event location.
-- Description: This field likely collects a detailed description of the issue or complaint.
-- Event Problem: This field is used for entering the specific problem or issue experienced during the event.
-- E Sports Event Complaint Form Attachments: This field might be used for uploading supporting documents or evidence for the complaint.
-
-Given these fields, the form's purpose is to collect event-specific information and feedback. To complete this form, the user should follow the steps below.
-</thinking>
-
 # e_sports_event_complaint_form - Help Guide
 ## Purpose
 The E Sports Event Complaint Form is designed to collect information about E Sports events, allowing users to report or complain about issues they experienced during the event.

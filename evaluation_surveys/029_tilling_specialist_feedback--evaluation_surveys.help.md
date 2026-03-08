@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This block of internal reasoning helps ensure that the form's purpose and relevance are considered before providing the help guide, and it prevents the form from being duplicated or incorrectly used.
 
 **Form Purpose:** The Tilling Specialist Feedback form is designed to collect feedback from tilling specialists, allowing them to share their experiences, opinions, and ratings of tilling services. This form is intended for internal use, providing valuable insights for improvement and development of tilling services.

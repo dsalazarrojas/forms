@@ -1,5 +1,3 @@
-<thinking>...This is a crucial step to ensure that the form serves its intended purpose and that the user understands its function...</thinking>
-
 # RSVP Form - Help Guide
 ## Purpose
 This RSVP Form is designed to help event planners and organizers collect RSVPs from attendees for upcoming events. It's a simple and straightforward form that gathers essential information to keep track of guest confirmations and provide a clear picture of event attendance.

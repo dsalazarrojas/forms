@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from attendees about the Webinar they have just attended. This form is meant to help the organizers of the Webinar understand the audience's perception of the event, identify areas that need improvement, and gather suggestions for future Webinars. This form is not required, and attendees are encouraged to participate voluntarily. 
-</thinking>
-
 # Webinar Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather your feedback about the Webinar you have just attended.

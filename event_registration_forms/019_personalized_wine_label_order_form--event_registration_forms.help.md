@@ -1,5 +1,3 @@
-<thinking>...Internal reasoning block: This form is designed for customers to order personalized wine labels for their bottles. The form collects information for winery selection, label design, order details, and payment information. The form will be used to generate a customized label for each customer's wine order. The form is not intended for mass orders or for orders with specific deadlines. Each field will be described in the next section to prevent any confusion or misinterpretation of its purpose. ...</thinking>
-
 # Personalized Wine Label Order Form - Help Guide
 ## Purpose
 This form is designed to allow customers to create a personalized wine label that matches their specific order details. To place an order, please follow the steps below.

@@ -1,8 +1,4 @@
-> <thinking>
-This form is designed to collect information from users for a group enquiry single destination event. It's intended for users who are interested in booking a group event or travel package to a specific destination. The form should not be used for other purposes. 
-</thinking>
-
-# Group Enquiry Single Destination - Help Guide
+> # Group Enquiry Single Destination - Help Guide
 ## Purpose
 The purpose of this form is to gather information from users for a group enquiry single destination event. This form is meant for users who are looking to book a group event or travel package to a specific location.
 

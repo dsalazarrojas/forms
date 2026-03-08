@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended for users who will be filling out the STEM Fair Attendance Form. This form is designed to collect information from attendees of the STEM Fair event. The form should only be used to register attendees for the STEM Fair event, and filling it out will help us track attendee information for event management purposes.
-
-To ensure that we accurately track attendee information, please only fill out this form if you are actually attending the STEM Fair event. 
-
-</thinking>
-
 # STEM Fair Attendance Form - Help Guide
 ## Purpose
 The STEM Fair Attendance Form is used to register attendees for the STEM Fair event.

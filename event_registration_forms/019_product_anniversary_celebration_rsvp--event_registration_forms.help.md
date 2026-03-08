@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to allow users to RSVP to a product anniversary celebration event. It collects information such as event name, guest count, guest preferences, event date and time, event location, and whether or not the user has RSVP'd. The form is designed for users to provide their attendance status and any additional comments they may have.
-
-</thinking>
-
 # Product Anniversary Celebration RSVP - Help Guide
 ## Purpose
 This form is used to RSVP to a product anniversary celebration event. Please fill out the form carefully to ensure accurate information is submitted.

@@ -1,7 +1,3 @@
-<thinking>
-The form was created using AI to streamline the enrollment process for individuals interested in joining a hiking club. This form will collect information from users to ensure a smooth onboarding experience. Please note that this form is an original adaptation of public survey topic metadata and does not rely on proprietary content from any form creation platform. The form's purpose is to gather essential details from users, including their contact information, hiking experience, and emergency contact details. The form will not collect sensitive or unnecessary information, and users are free to modify the form as needed. The form's terms and conditions are outlined in the "Terms and Conditions" field.
-</thinking>
-
 # Hiking Club Enrollment Form - Help Guide
 ## Purpose
 The Hiking Club Enrollment Form is designed to collect information from potential members interested in joining the hiking club. This form aims to streamline the enrollment process and ensure a smooth onboarding experience for all members.

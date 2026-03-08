@@ -1,16 +1,3 @@
-<thinking>
-This help guide is intended for users who need to complete a form for checking out a craft fair vendor. 
-
-This form is used to record information about a craft fair vendor's sales and payment status. It is essential to fill out this form accurately to ensure that the vendor's payment and sales data is up-to-date and correct.
-
-To prevent data duplication, make sure to check the form before submitting it to ensure all fields are filled out correctly. 
-
-The form will ask for various pieces of information including the vendor's first name, last name, vendor ID, sales tax rate, total sales amount, paid amount, payment method, payment status, refund, and comments. 
-
-Please note that some fields are required, so make sure to fill out all required fields before submitting the form.
-
-</thinking>
-
 # craft_fair_vendor_check_out_form - Help Guide
 ## Purpose
 The craft fair vendor check out form is used to record sales and payment information for craft fair vendors.

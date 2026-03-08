@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect feedback from attendees of the Leadership Seminar, gathering information on their experience, satisfaction, and suggestions for improvement. The form is intended to be a tool for the event organizers to evaluate the seminar's success and make necessary adjustments for future events. It's recommended to complete this form only once per event, as it's not designed for recurring use. Please ensure that you're not duplicating feedback by checking the form's fields carefully.
-
-</thinking>
-
 # Leadership Seminar Feedback Form - Help Guide
 ## Purpose
 This form aims to gather feedback from attendees of the Leadership Seminar, allowing event organizers to assess the seminar's success and identify areas for improvement.

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of the "Event Entry Pass Request" form is to gather essential information for an event entry pass application. The form is intended to be completed by attendees or organizers of events, such as concerts, workshops, or conferences, to request an entry pass for themselves or their team. This form is not meant to be completed by event organizers or administrators, as they have different needs for event management.
-When designing this form, it is essential to note that some fields are required, but others are optional. This form does not duplicate information already known to the user, assuming that the user has access to their own information.
-
-</thinking>
-
 # Event Entry Pass Request - Help Guide
 ## Purpose
 The Event Entry Pass Request form is a simple, easy-to-use application designed for event attendees and organizers to submit their entry pass requests. This form gathers crucial information to facilitate smooth event management.

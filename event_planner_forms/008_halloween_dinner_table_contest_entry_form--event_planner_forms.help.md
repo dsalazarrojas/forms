@@ -1,9 +1,3 @@
-<thinking>
-
-To ensure the form is being used for its intended purpose and to prevent duplicate entries, we must first confirm that the form is being used to gather information for the Halloween Dinner Table Contest. The form's purpose is to collect data from contestants to evaluate their dishes for the contest. Each field should be filled out accurately and completely. Before filling out this form, please review the provided fields to understand what information is required and how it will be used. If you are unsure, please reach out to the contest organizers for clarification.
-
-</thinking>
-
 # Halloween Dinner Table Contest Entry Form - Help Guide
 ## Purpose
 The Halloween Dinner Table Contest Entry Form is used to collect information from contestants to evaluate their dishes for the contest.

@@ -1,7 +1,3 @@
-<thinking>
-Form purpose: This form is designed to gauge the CEO's self-awareness and stress management habits in leading multiple businesses. It aims to provide tailored guidance on how to achieve success while minimizing stress. By answering the questions, users will be able to get a better understanding of their current situation and gain insights on how to improve.
-</thinking>
-
 # How To Be Successful As A Ceo With Multiple Busineses - Help Guide
 ## Purpose
 This form is designed to help you assess your leadership skills and habits as a CEO with multiple businesses. By answering the questions, you'll gain insights into areas where you can improve to lead your companies stress-free.

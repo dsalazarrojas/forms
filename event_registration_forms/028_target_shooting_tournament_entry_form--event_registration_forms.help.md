@@ -1,9 +1,3 @@
-<thinking>
-
-This form is likely used for participants to register for a target shooting tournament. The purpose of the form is to collect information about the participant's details, including their organizers, medical information, equipment, entry fee, and payment method. The form may be used by the tournament organizers to verify participant information and process payments. The form is likely used during the event registration process, where participants submit their information before attending the tournament.
-
-</thinking>
-
 # Target Shooting Tournament Entry Form - Help Guide
 ## Purpose
 This form is used for participants to register for a target shooting tournament. It collects information necessary for participant verification and payment processing.

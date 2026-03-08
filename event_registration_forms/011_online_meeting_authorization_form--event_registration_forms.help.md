@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for registering participants to an online meeting. It collects information such as meeting details, participant name and contact information, and their role and consent. The fields are designed to be optional, allowing participants to fill out as much or as little information as they need. Please ensure you only complete this form if you are a genuine participant of the meeting.
-</thinking>
-
 # Online Meeting Authorization Form - Help Guide
 ## Purpose
 This guide explains the fields and instructions for completing the Online Meeting Authorization Form.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Youth Ministry Internship Evaluation Form - Help Guide
 
 ## Purpose

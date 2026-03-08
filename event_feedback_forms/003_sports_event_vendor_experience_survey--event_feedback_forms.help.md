@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to be used by event organizers, vendors, and other stakeholders to collect feedback from vendors on their experience with sports events. It's essential to use this form to ensure that feedback is collected in a structured and standardized way, reducing duplication and ensuring that all relevant information is gathered. By using this guide, event organizers can better understand the experiences of vendors and identify areas for improvement.
-</thinking>
-
 # Sports Event Vendor Experience Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from vendors on their experience with sports events. The information collected will help event organizers understand the strengths and weaknesses of the event from the vendor's perspective, ultimately informing decisions to improve future events.

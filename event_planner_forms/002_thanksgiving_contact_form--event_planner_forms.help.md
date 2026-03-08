@@ -1,7 +1,3 @@
-<thinking>
-This form is meant for users to submit their thanksgiving dinner plans to the host. The form asks for basic contact information and a message or comment for the host to prepare. Please ensure you have permission to share this guide and review it for accuracy before publishing.
-</thinking>
-
 # thanksgiving_contact_form - Help Guide
 ## Purpose
 The Thanksgiving Contact Form is a simple form designed to allow guests to share their plans with the host, ensuring a smooth and enjoyable holiday gathering.

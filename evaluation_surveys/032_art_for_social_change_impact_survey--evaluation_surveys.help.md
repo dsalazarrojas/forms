@@ -1,11 +1,3 @@
-<thinking>
-We need to create a help guide for the "Art For Social Change Impact Survey" form. The form is intended to collect data from respondents about their participation in arts-based projects that have a social impact. The goal is to understand the effectiveness of these projects and gather feedback for future improvements. This guide will walk the user through the form's purpose, how to complete it, and a field-by-field explanation of each question. We should also make sure to check if the form is being used for its intended purpose and not being duplicated unnecessarily.
-
-We'll be using the provided YAML fields to create the guide. The form has multiple pages with fields for respondent name, project name, target population, outcomes measured, participation numbers, primary methods used, evidence collected, overall impact rating, lessons learned, and contact for results. We'll make sure to explain each field in a clear and concise manner.
-
-Let's start creating the guide!
-</thinking>
-
 # Art For Social Change Impact Survey - Help Guide
 ## Purpose
 The Art For Social Change Impact Survey is designed to collect data on the social impact of arts-based projects. This survey will help us understand the effectiveness of these projects and gather feedback for future improvements.

@@ -1,13 +1,3 @@
-<thinking>
-This form is used to collect information from parents or caregivers who want to register their child or children for a parenting skills workshop. The form is meant to gather essential details to ensure that each child or family member receives the necessary support and accommodations. 
-
-Before proceeding, ensure that you've reviewed the form carefully and that all necessary information is accurate. If you're unsure about any field, you can ask your workshop organizers for clarification. 
-
-It's essential to fill out the form truthfully and accurately, as this information will be used to tailor the workshop to your needs. 
-
-Also, please be aware that some fields are required and must be filled out to proceed. If you need to ask about any specific circumstances or requirements, please reach out to the workshop organizers.
-</thinking>
-
 # Parenting Skills Workshop Registration Form - Help Guide
 
 ## Purpose

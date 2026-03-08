@@ -1,31 +1,3 @@
-<thinking>
-
-To ensure this help guide is accurate and complete, let's review the form's purpose and fields. This Electric Vehicle Expo Registration Form is designed for attendees to register their electric vehicles for various events, such as expos and conferences. The form collects personal and vehicle information, as well as event details. 
-
-We will focus on the following fields:
-- **Prophets Name** (name): The name of the attendee, as required for registration.
-- **Email**: The attendee's email address, also required for registration purposes.
-- **Phone Number** (phone): A contact number for the attendee, necessary for communication during the event.
-- **Company Name** (company_name): The name of the company the attendee is representing, which can be selected from a list (Tesla, Tesla Motors, Toyota).
-- **Vehicle Make** (vehicle_make): The make of the vehicle being registered, which can be selected from a list (Tesla, Toyota, Hyundai).
-- **Vehicle Model** (vehicle_model): The model of the vehicle being registered, which can be selected from a list (Model 3, Prius, Kona Electric).
-- **Event Date** (event_date): The date of the event the vehicle is registered for, which needs to be in the correct format (YYYY-MM-DD).
-- **Event Time** (event_time): The time of the event the vehicle is registered for, in 24-hour format (HH:MM).
-- **Registration Fee** (registration_fee): A numerical value indicating the registration fee for the event, which is required for accurate fee calculations.
-- **Notes** (notes): Any additional comments or information about the registration, which is optional.
-- **Company** (company): The name of the company the attendee is representing, which is optional and not related to the vehicle registration.
-- **Role** (role): The role of the attendee in the event, which can be selected from a list (Owner, Driver, Other).
-- **Vehicle Year** (vehicle_year): The year of the vehicle being registered, a numerical value.
-- **Vehicle Mileage** (vehicle_mileage): The mileage of the vehicle being registered, a numerical value.
-- **Vehicle Type** (vehicle_type): The type of the vehicle, which can be selected from a list (Electric, Gas, Hybrid).
-- **Vehicle Battery Capacity** (vehicle_battery_capacity): The capacity of the vehicle's battery, a numerical value.
-- **Event Type** (event_type): The type of the event, which can be selected from a list (Expo, Show, Conference).
-- **Vehicle Length** (vehicle_length): The length of the vehicle, which can be selected from a list (Short, Long).
-- **Registration Status** (registration_status): The status of the vehicle registration, which can be selected from a list (Pending, Confirmed).
-- **Event Location** (event_location): The location of the event, which is a text field.
-
-</thinking>
-
 # Electric Vehicle Expo Registration Form - Help Guide
 ## Purpose
 

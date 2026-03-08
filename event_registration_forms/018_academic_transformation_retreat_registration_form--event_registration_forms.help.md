@@ -1,7 +1,3 @@
-<thinking>
-The form is intended for registering attendees for an academic transformation retreat. The retreat is a 3-day event focused on leadership and transformation, and attendees will be able to choose from various tracks of interest to tailor their experience. This form will collect information from attendees, including their full name, institution or organization, email address, attendance mode (full retreat, single day pass, or virtual access), accommodation needs, dietary requirements, and travel information. The purpose of this form is to gather essential details for planning and organization purposes, such as creating attendee badges, coordinating shuttle services, and ensuring that attendees are aware of and agree to the retreat's cancellation and refund policy. This form should only be completed by those who are actually attending the retreat, and it is essential to provide accurate and complete information to ensure a smooth experience for all attendees. 
-</thinking>
-
 # Academic Transformation Retreat Registration Form - Help Guide
 ## Purpose
 The Academic Transformation Retreat Registration Form is used to gather essential information from attendees for planning and organization purposes.

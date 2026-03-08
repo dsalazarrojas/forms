@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form, "Event Catering Satisfaction Questionnaire", is designed to collect feedback from event organizers, attendees, or their guests who have utilized the catering services. It will help assess the overall quality and satisfaction of the catering services, identifying areas of improvement and opportunities to enhance customer experience. This form ensures that the feedback is consistent and comparable across events, allowing for data-driven analysis to inform decision-making and drive future service development. Before filling this form, please make sure you haven't already submitted a review or feedback for the same event.
 
 # Event Catering Satisfaction Questionnaire - Help Guide

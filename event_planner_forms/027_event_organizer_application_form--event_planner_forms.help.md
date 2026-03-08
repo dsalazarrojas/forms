@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users who want to apply to organize an event. The form is intended to collect information about the applicant, contact details, event description, event date and time, event location, organizer requirements, and other relevant event-related data. It seems that this form is meant to streamline the process of event planning and organization by gathering all necessary information in one place. I'll be careful to ensure that the explanations are concrete, concise, and practical to help users understand the form's purpose and fill it out correctly.
-</thinking>
-
 # Event Organizer Application Form - Help Guide
 ## Purpose
 The Event Organizer Application Form is a tool designed to assist users in organizing events by collecting essential information about the event, the applicant, and other relevant details. This form is used to streamline the event planning process and ensure that all necessary information is gathered in one place.

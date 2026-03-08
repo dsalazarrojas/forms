@@ -1,21 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the Party Supply Subscription Form. 
-
-The purpose of this form is to collect customer information, party details, and order specifics from customers who want to subscribe to a party supply service. 
-This form is intended to be used by customers to provide their contact, party, and order information.
-
-Before filling out this form, ensure you are not a duplicate entry. 
-If you have already registered for this party supply service, please do not register again. 
-
-This form is only for new customers or changes to existing accounts. 
-
-Please note that some fields are required and some are optional. 
-
-If you have any questions or concerns, please don't hesitate to reach out to us. 
-
-Please fill out the form accurately and thoroughly to avoid any delays in processing your order. 
-
-</thinking>
 # Party Supply Subscription Form - Help Guide
 ## Purpose
 The Party Supply Subscription Form is a collection of fields that gather customer and party information. This information helps us provide you with the best experience possible. 

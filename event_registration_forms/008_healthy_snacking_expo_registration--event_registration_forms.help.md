@@ -1,9 +1,3 @@
-<thinking>
-The form is designed for registration to the Healthy Snacking Expo, which is likely an event focused on healthy snacking. The purpose of this form is to collect general information, dietary details, and session interests from attendees. This form will help the organizers understand who is attending, what they are interested in, and what they can provide in terms of dietary restrictions. It's essential to fill this form accurately to ensure a smooth and enjoyable experience for all attendees.
-
-Before proceeding, please check if you have filled out this form previously. If you're unsure or have any questions, feel free to reach out to the form developers at form@gic.mx.
-</thinking>
-
 # Healthy Snacking Expo Registration - Help Guide
 ## Purpose
 

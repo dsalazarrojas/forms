@@ -1,8 +1,3 @@
-<thinking>
-This form is used to assess the attendee experience of an event. It gathers information about the attendee's name, email, rating of the event, event experience, improvement ideas, and other details. The form is meant to be filled out by the event attendees after the event has taken place. It is not intended to be filled out by non-attendees. Please ensure that you are eligible to fill out this form by checking the event list and ensuring that you attended the event before proceeding.
-
-</thinking>
-
 # Event Attendee Experience Assessment - Help Guide
 ## Purpose
 The Event Attendee Experience Assessment form is used to gather feedback from event attendees after the event has taken place. This feedback is essential for event organizers to evaluate the event's success and identify areas for improvement.

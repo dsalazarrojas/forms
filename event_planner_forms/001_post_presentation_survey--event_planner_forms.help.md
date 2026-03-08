@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Post Presentation Survey - Help Guide
 
 ## Purpose

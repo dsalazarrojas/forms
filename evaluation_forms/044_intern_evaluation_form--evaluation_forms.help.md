@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Intern Evaluation Form, we need to first understand the form's purpose and the reasoning behind its design. The form's purpose is to evaluate the performance and behavior of interns during their tenure. The form is likely used by supervisors or managers to assess the intern's skills, attitude, and work efficiency, as well as their communication skills, performance, and overall rating. 
-
-The form is designed to collect feedback and comments from the evaluator on the intern's performance, work efficiency, and attitude, as well as their strengths and weaknesses. The evaluator is required to rate the intern's performance and select multiple options for communication skills. The form also collects date and time of evaluation, which may be used to track the evaluation process. 
-
-The form has several fields that require specific types of input: number for intern performance, select multiple for communication skills, select one for intern performance rating, text for feedback and comments, and date and time for evaluation date and time. Some fields are required, while others are optional. 
-
-</thinking>
-
 # Intern Evaluation Form - Help Guide
 ## Purpose
 The Intern Evaluation Form is designed to assess the performance and behavior of interns during their tenure. It is used by supervisors or managers to evaluate the intern's skills, attitude, and work efficiency, as well as their communication skills.

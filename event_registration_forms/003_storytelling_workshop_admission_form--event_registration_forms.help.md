@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect data for attendees who want to participate in a Storytelling Workshop. The form is used to gather information about the attendee's story preferences, contact details, and workshop scheduling preferences. It is likely used in an educational or training setting where attendees want to learn the art of storytelling.
-</thinking>
-
 # Storytelling Workshop Admission Form - Help Guide
 ## Purpose
 This form is designed to collect information about attendees who want to participate in a Storytelling Workshop.

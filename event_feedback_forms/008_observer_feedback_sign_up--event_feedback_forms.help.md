@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from observers on events they have attended or witnessed. It is intended to gather information on their overall impression, ratings, and comments about the event. The form will be used to help us improve our events and services. Please make sure to complete this form only once per event.
-</thinking>
-
 # observer_feedback_sign_up - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the observer feedback sign-up form for events.

@@ -1,7 +1,3 @@
-<thinking>
-This form will help event planners collect information from potential sponsored riders in a structured and organized way. It's designed for both the rider and the sponsor to provide accurate data in a concise format. Please ensure you're familiar with the event and its requirements before filling out this form. This form will be used to collect information for the sponsored riders, so please fill it out carefully and completely. You can save your progress at any time and return to it later. This guide will walk you through the form's sections and fields, helping you to understand what's required and what's optional.
-</thinking>
-
 # Sponsored Rider Application Form - Help Guide
 ## Purpose
 The Sponsored Rider Application Form is designed to collect information from potential sponsored riders for an event. This form will help both the rider and the sponsor to provide accurate data in a concise format.

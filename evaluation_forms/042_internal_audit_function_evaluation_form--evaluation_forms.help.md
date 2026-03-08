@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to evaluate internal audits within an organization. Internal audits are crucial for identifying and addressing potential risks and vulnerabilities within the organization. This form helps audit leaders and stakeholders to assess the overall risk level and provide comments and feedback. It also captures information about the audit process, such as the submitted date and time, and the assigned tool used for the audit.
-
-Before proceeding, please ensure that this form is relevant to your specific use case and not a duplicate of an existing process. If you are unsure, consult with your team or audit leaders to confirm the form's purpose and relevance.
-
-</thinking>
-
 # internal_audit_function_evaluation_form - Help Guide
 ## Purpose
 The "internal_audit_function_evaluation_form" is a tool used to evaluate the internal audit process within an organization. It helps audit leaders and stakeholders assess the overall risk level and gather feedback for improvement.

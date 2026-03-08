@@ -1,7 +1,3 @@
-<thinking>
-This form is used for event registration, specifically for a mocktail party event. The form is designed to collect information from event attendees, including their guest details, headcount, preferences, and other relevant information. The form should be completed by each guest attending the event. 
-</thinking>
-
 # Mocktail Party Registration - Help Guide
 ## Purpose
 The Mocktail Party Registration form is designed to collect information from event attendees for a mocktail party event. This form helps us to understand who is attending, their preferences, and other relevant details.

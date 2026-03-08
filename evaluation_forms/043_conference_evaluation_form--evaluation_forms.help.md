@@ -1,7 +1,3 @@
-<thinking>
-This form is for evaluating a conference, likely used to gather feedback on its overall experience, content, and organization. A well-crafted evaluation form can help event organizers assess their performance and make data-driven decisions for future conferences. To avoid duplication, please only fill out this form once, and provide honest, constructive feedback.
-</thinking>
-
 # Conference Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback on your experience at the conference. Your responses will help us improve future events and provide better experiences for attendees.

@@ -1,9 +1,3 @@
-<thinking>
-The form is designed to collect information from individuals (parents or guardians) to declare their permission for an event. This includes collecting their personal details, information about the child they are representing, and emergency contact details. The form is likely used in an educational or childcare setting where parents need to provide consent and contact information for their child's participation in an event.
-The form is designed to be completed by a single person, typically a parent or guardian of the child.
-The form does not appear to be a duplicate of other forms in the system.
-</thinking>
-
 # Parental Permission Declaration Form - Help Guide
 ## Purpose
 This form is used to collect information from parents or guardians to declare their permission for an event. This includes their personal details, information about their child, and emergency contact details.

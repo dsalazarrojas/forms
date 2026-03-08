@@ -1,7 +1,3 @@
-<thinking>
-We are designing a form to request accommodation options for an event, specifically for travel agencies. This form should be simple and easy to complete, while gathering all the necessary information for the accommodation booking process. The form will be used by travel agencies to provide their clients with options for their events. This form will help us to better understand their needs and preferences.
-</thinking>
-
 # economy_accommodation_request_form - Help Guide
 ## Purpose
 This form is designed to request accommodation options for an event from travel agencies. It will help us to better understand your needs and preferences for your event.

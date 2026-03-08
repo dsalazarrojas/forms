@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to register for the Health Literacy Innovation Forum, which is a platform for health professionals, educators, and others to share knowledge, resources, and best practices in health literacy. The form will ask for basic event details, attendee information, and preferences for the event. This will help us to organize and prepare for the event effectively. Please make sure you have all the required information before filling the form to avoid duplication and ensure that your registration is processed correctly.
-</thinking>
-
 # Health Literacy Innovation Forum Registration - Help Guide
 
 ## Purpose

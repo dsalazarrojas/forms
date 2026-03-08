@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect volunteer information for a tech workshop event. This form is used to gather contact information, availability, and consent from potential volunteers. The form is optional, and users are not required to complete it.
-</thinking>
-
 # tech_workshop_volunteer_registration - Help Guide
 ## Purpose
 This form is for potential volunteers to register for a tech workshop event. Please fill out the form below to provide us with your contact information, availability, and consent.

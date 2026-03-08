@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed for self-evaluation, a process that helps individuals reflect on their own performance, goals, and areas of improvement. The form is used to collect feedback from users on their job title, department, job division, job description, self-assessment, feedback, rating, overall satisfaction, and other related aspects. This form is likely used in a workplace or educational setting where employees or students are required to evaluate their own work or progress.
-
-The form is intended to gather comprehensive data, but it's also designed to be concise and easy to fill out. The form asks for information in various formats, including text, email, phone number, select options, ratings, date, and time.
-
-Before filling out this form, users should ensure that they have all the necessary information ready. Some fields may require specific formats, such as dates or phone numbers.
-
-</thinking>
-
 # self-evaluation - Help Guide
 ## Purpose
 The self-evaluation form is designed to help users assess their own performance, goals, and areas of improvement. It is used to gather feedback and ratings from users on various aspects of their work or progress.

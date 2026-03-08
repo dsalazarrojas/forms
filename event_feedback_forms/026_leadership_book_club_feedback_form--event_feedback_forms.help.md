@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide is meant to assist users in understanding and completing the Leadership Book Club Feedback Form. This form is designed to gather feedback from members of the leadership book club on their experiences with the book, with a focus on rating their favorite elements of the book. To prevent duplicate entries, ensure that you've not already submitted feedback on the book. 
 
 # Leadership Book Club Feedback Form - Help Guide

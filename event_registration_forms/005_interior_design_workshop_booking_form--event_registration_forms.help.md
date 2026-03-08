@@ -1,8 +1,3 @@
-<thinking>
-This form is used for booking an interior design workshop, and it's essential to ensure that the participant's and event organizer's information is accurate and complete. Please review the form carefully before proceeding to avoid any issues or mistakes.
-
-</thinking>
-
 # interior_design_workshop_booking_form - Help Guide
 ## Purpose
 This form is designed to collect essential information for booking an interior design workshop. It includes details about the participant and the event organizer.

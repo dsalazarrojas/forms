@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and completion process of the "Sustainable Health Care Design Project Evaluation Form". The form is designed to gather information about a project's sustainability features, project details, and overall performance.
-
-Before proceeding, please ensure that this form is relevant to your project and that you are not duplicating an existing evaluation. If you are unsure, please review the form's purpose and fields to determine the best course of action.
-
-</thinking>
-
 # sustainable_health_care_design_project_evaluation_form - Help Guide
 ## Purpose
 The "Sustainable Health Care Design Project Evaluation Form" is a tool designed to help evaluate the sustainability features and performance of a project. It gathers information on various aspects of the project, including project details, stakeholder engagement, site characteristics, and overall performance.

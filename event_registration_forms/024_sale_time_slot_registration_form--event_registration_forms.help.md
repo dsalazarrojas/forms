@@ -1,6 +1,3 @@
-<thinking> 
-This form is used for registering sale time slots, which is a crucial process in the sales department. It's essential to ensure the form is filled out correctly to avoid duplication and errors. To prevent duplication, the form should not be filled out multiple times for the same sale. This form is designed to gather all the necessary information for a successful sale time slot registration. Please ensure that all required fields are completed accurately, and the form is filled out in the correct order.</thinking>
-
 # Sale Time Slot Registration Form - Help Guide
 ## Purpose
 The Sale Time Slot Registration Form is used to register sale time slots for sales-related activities. This form helps ensure that all necessary information is collected and stored accurately, preventing duplication and errors.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to evaluate the structural model, which is a crucial step in the process of building and validating models in various fields such as architecture, engineering, or product design. The primary purpose of this form is to gather feedback from users who have reviewed and evaluated the structural model. This form will help assess the model's design, quality, and overall performance against certain standards or benchmarks. It is essential to fill out this form accurately to ensure that the model meets the required standards and to provide valuable feedback for future improvements.
-
-The form is designed to be filled out by users who have reviewed the structural model, and their feedback is crucial in refining the model's design and performance.
-
-Please note that this form is not a duplication of other evaluation forms, and its purpose is unique.
-
-</thinking>
-
 # structural_model_evaluation_survey - Help Guide
 ## Purpose
 The structural model evaluation survey is designed to gather feedback from users who have reviewed the structural model. This form helps assess the model's design, quality, and overall performance against certain standards or benchmarks.

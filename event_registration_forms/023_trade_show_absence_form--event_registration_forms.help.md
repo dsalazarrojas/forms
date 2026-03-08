@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Trade Show Absence Form - Help Guide
 ## Purpose
 The Trade Show Absence Form is used to report an employee's absence or tardiness from a trade show event. This form is designed to be completed by the employee who was scheduled to attend or by their supervisor, indicating the reason for their absence or late arrival.

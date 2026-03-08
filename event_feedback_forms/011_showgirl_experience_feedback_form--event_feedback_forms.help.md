@@ -1,12 +1,3 @@
-<thinking>
-Form purpose: This form is designed to collect feedback from users about their experiences at showgirl events. The form is meant to gather information about the event, including the event experience, event organizer, date, time, location, comments, email, phone number, and rating. This feedback will help event organizers understand what went well and what did not during the event, allowing them to improve future showgirl events.
-
-Form relevance: This form is intended for users who have attended a showgirl event and wish to provide feedback. If you are the event organizer or have not attended an event, your feedback might not be relevant.
-
-Please do not duplicate your submission. If you have already submitted feedback for the same event, your new submission will not be recorded.
-
-</thinking>
-
 # Showgirl Experience Feedback Form - Help Guide
 
 ## Purpose

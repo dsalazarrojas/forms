@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from clients for an event planning photo order. It is intended for the event planner's internal use, and the data will be used to process and fulfill the photo order requests. The form should not be used for external marketing or promotional purposes.
-</thinking>
-
 # League Photo Order Form - Help Guide
 ## Purpose
 This form is used to collect information from clients for event planning photo orders. Please fill out the form below to place your order.

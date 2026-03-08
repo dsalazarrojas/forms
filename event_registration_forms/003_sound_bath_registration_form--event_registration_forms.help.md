@@ -1,11 +1,3 @@
-<thinking>
-This guide provides a step-by-step explanation of the Sound Bath Registration Form for end-users.
-
-**Internal reasoning:**
-This form is designed to collect information from users who want to register for a sound bath session. The form has multiple fields to gather details about the user, their contact information, and session preferences. The fields include user information, contact information, attendee health, session time, payment information, session type, sound frequency, payment method, email, phone number, date of birth, and session date. Some fields are required for the form submission to be complete, and others are optional. The form is used to tailor the sound bath experience to the user's needs.
-
-</thinking>
-
 # Sound Bath Registration Form - Help Guide
 ## Purpose
 The Sound Bath Registration Form is designed to collect information from users who want to register for a sound bath session. This form helps us understand your preferences and needs to create a personalized experience.

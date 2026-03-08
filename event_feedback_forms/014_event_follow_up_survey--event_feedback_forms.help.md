@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to gather feedback from event attendees after an event has taken place. The purpose of this form is to collect information about the event's success, attendees' satisfaction, and any suggestions for improvement. This form is not intended for real-time feedback during the event, so it's best to fill it out after the event has concluded.
-
-This form is meant to be completed by event attendees, not event organizers or participants. If you're an event organizer, please use other forms to gather feedback from your team members.
-
-To avoid duplication of effort, please ensure that attendees only fill out this form once after attending each event.
-
-</thinking>
-
 # Event Follow Up Survey - Help Guide
 ## Purpose
 The Event Follow Up Survey is designed to gather feedback from event attendees about their experience at the event. This feedback will help us improve future events and provide better services to our attendees.

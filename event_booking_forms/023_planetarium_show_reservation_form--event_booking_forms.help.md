@@ -1,5 +1,3 @@
-<thinking>... internal reasoning block ...</thinking>
-
 The Planetarium Show Reservation Form is designed to help event organizers and attendees book and manage events at the Planetarium. This form is used to collect information from visitors about their event preferences and provide a way for event staff to manage and organize the events efficiently.
 
 The form has the following pages:

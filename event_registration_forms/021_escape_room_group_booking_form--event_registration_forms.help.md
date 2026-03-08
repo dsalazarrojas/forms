@@ -1,16 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Escape Room Group Booking Form" that explains its purpose, how to complete it, and what each field means. This form is designed to collect information from groups of people who want to book an escape room experience. We should consider the following:
-
-* The form's purpose is to gather necessary details from groups of people who want to book an escape room experience.
-* The form should be completed by the person in charge of the group.
-* The form requires some fields to be filled out, while others are optional.
-* Some fields have specific options or formats, such as preferred dates or email addresses.
-* The form might require some technical knowledge, such as knowing how to format dates or times.
-* The form should be clear and concise, with each field explained in detail.
-
-We'll create a clear and concrete help guide with concrete language and minimal technical jargon.
-</thinking>
-
 # Escape Room Group Booking Form - Help Guide
 ## Purpose
 This form is designed to collect information from groups of people who want to book an escape room experience. Please fill out the form completely to ensure we have all the necessary details to accommodate your group's needs.

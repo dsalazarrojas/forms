@@ -1,22 +1,3 @@
-<thinking>
-
-This form is used to obtain liability waiver from participants before they engage in surf school activities. The form is meant to be completed by the participant and serves as a legal document that releases the surf school from liability in case of any accidents or injuries during the activity. This form is not affiliated with, endorsed by, or derived from any form platform, but rather an original adaptation created using public survey topic metadata.
-
-To confirm, the form is designed to collect the following information from participants:
-
-* Participant consent
-* Acknowledgement of risks involved in surf activities
-* Emergency contact information
-* Participant information
-* Medical conditions
-* Allergies
-* Medication taken
-* Additional emergency contact information (optional)
-
-Before completing this form, please ensure that all required fields are filled out accurately and completely. Required fields are marked as such.
-
-</thinking>
-
 # Surf School Liability Waiver - Help Guide
 ## Purpose
 This form is a liability waiver used by surf schools to obtain participant consent and release from liability in case of accidents or injuries during surf activities.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fullscreen Event RSVP Responsive Form - Help Guide
 ## Purpose
 This form is designed to gather event details and RSVP information from attendees. It is meant to be used for events where RSVP is required, such as conferences, meetups, or workshops. The form is fully responsive, ensuring it adapts to different screen sizes and devices.

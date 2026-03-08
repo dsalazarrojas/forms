@@ -1,5 +1,3 @@
-<thinking>Before we dive into creating the user-facing help guide for this form, let's break down the form's purpose and how it will be used internally. This form is designed for participants to submit their participation request for a cyber event. The form collects basic information from the participants such as their name, email, phone number, participant name, role in the event, event name, event date, and event time. This data is likely to be used by event organizers to keep track of participants, manage event logistics, and communicate with attendees. The form's design suggests that it's a simple and straightforward way to collect essential information from participants. Internal teams can use this form to streamline event planning and management.</thinking>
-
 # Participation Request For Cyber Event - Help Guide
 ## Purpose
 This form is designed to collect participant information for a cyber event, allowing event organizers to manage registrations and keep track of attendees.

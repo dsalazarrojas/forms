@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from attendees for a Civic Recognition Ceremony. The purpose of the form is to gather necessary details for the organizers to manage the event smoothly, including attendee names, email addresses, number of guests, dietary requirements, seating preferences, interest in participating in program activities, accessibility needs, consent for event photos, and additional notes. This form should only be filled out by individuals who have been invited to the ceremony. To ensure accurate and efficient processing, please ensure that all required fields are filled out. This will help organizers to prepare for the event and make necessary arrangements.
-</thinking>
-
 # Civic Recognition Ceremony RSVP Form - Help Guide
 ## Purpose
 This form is used to collect information for the Civic Recognition Ceremony.

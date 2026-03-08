@@ -1,7 +1,3 @@
-<thinking>
-We need to create a help guide for the "gala_dinner_fundraising_event_feedback_form" form. This form is designed to collect feedback from event attendees after a gala dinner fundraising event. The form should help us understand how well the event met their expectations, what they thought of the food, venue, and overall experience. We also want to ensure that the feedback provided is accurate and not duplicated.
-</thinking>
-
 # gala_dinner_fundraising_event_feedback_form - Help Guide
 ## Purpose
 This form is designed to collect feedback from event attendees after a gala dinner fundraising event. Your feedback is crucial in helping us understand how well the event met your expectations and identify areas for improvement.

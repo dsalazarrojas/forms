@@ -1,11 +1,3 @@
-<thinking>...checking for form purpose and relevance...
-
-This form is designed to educate users about Chinese New Year, a significant cultural celebration in China and many other East Asian countries. The form is a quiz that tests the user's knowledge about the traditions, customs, and symbols associated with Chinese New Year. The purpose of the form is to engage users and provide a fun and interactive way to learn about this important cultural event.
-
-The form includes 14 questions that cover various aspects of Chinese New Year, from the traditional greetings and celebrations to the symbolism and customs associated with the holiday.
-
-... </thinking>
-
 # Chinese New Year Quiz - Help Guide
 ## Purpose
 This form is designed to educate users about Chinese New Year, a significant cultural celebration in China and many other East Asian countries. The form is a quiz that tests the user's knowledge about the traditions, customs, and symbols associated with Chinese New Year.

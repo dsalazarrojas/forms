@@ -1,10 +1,3 @@
-<thinking>
-This help guide is being written to provide a clear understanding of the self_love_experience_rsvp form. This form is designed to collect information from users for a specific event or experience. It is meant to gather essential details such as names, dates, times, and RSVP status to facilitate the organization and management of the event. The form is not meant to be used for any other purpose, and filling it out is a necessary step for event attendees to confirm their participation.
-
-Before proceeding, ensure that you have not filled out this form for the same event before. Filling out the same form multiple times will result in duplicate entries and may cause confusion during event organization.
-
-</thinking>
-
 # self_love_experience_rsvp - Help Guide
 ## Purpose
 The self_love_experience_rsvp form is a simple online form designed to collect information from event attendees to streamline event organization and management.

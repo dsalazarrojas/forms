@@ -1,14 +1,3 @@
-<thinking>
-  To ensure the form is being used as intended, this guide will only cover the most commonly expected scenarios.
-  Before proceeding, check if any of these scenarios apply to you:
-  * Is this form being used to register for the Property Staging Workshop for the first time?
-    * If yes, please continue reading this guide.
-  * Is this form being used to register for an existing event, or to update event details?
-    * If yes, please contact the event administrator for guidance on the correct fields to fill in.
-  * Have you used this form previously, but need a refresher on the fields?
-    * This guide will provide a general explanation of each field, but some details may be missing. You can always contact the event administrator for clarification.
-</thinking>
-
 # Property Staging Workshop Registration Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from attendees for the Property Staging Workshop. It is used to register for the event, provide event details, and make payments. Please ensure all required fields are filled in accurately for a smooth registration process.

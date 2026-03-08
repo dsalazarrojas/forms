@@ -1,9 +1,3 @@
-<thinking>
-
-To prevent duplication of effort, this form will be used for event feedback from attendees of the Veterinary Trivia Night Survey, which aims to gather feedback and insights on the organization, content, and overall experience of the event. This form will help us understand what was enjoyable, what could be improved, and what suggestions attendees have for future events.
-
-</thinking>
-
 # Veterinary Trivia Night Survey - Help Guide
 ## Purpose
 

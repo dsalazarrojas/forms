@@ -1,9 +1,3 @@
-<thinking> 
-To confirm, this form is a feedback evaluation form designed for Nonprofit Advocacy Toolkit users to provide their thoughts and suggestions on the toolkit's usability, usefulness, and potential areas of improvement. This form is intended to gather feedback on specific aspects of the toolkit and help in identifying areas for enhancement and development.
-This form consists of multiple sections and questions that are meant to be filled out by users who have used the Nonprofit Advocacy Toolkit. The form is meant to be a collaborative effort between users and the tool's developers to improve the toolkit's features and user experience.
-Before completing this form, please ensure you have used the toolkit and have some experience with its features and functionalities. Your honest and constructive feedback is invaluable to us.
-</thinking>
-
 # Nonprofit Advocacy Toolkit Feedback Evaluation Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from users on the Nonprofit Advocacy Toolkit, its usability, and potential areas of improvement. We value your opinions and suggestions to enhance the toolkit and provide a better experience for all users.

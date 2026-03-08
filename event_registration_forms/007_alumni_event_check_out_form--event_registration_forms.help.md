@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture information related to the check out process of attendees at alumni events. The purpose of this form is to gather key details such as the attendee's name, event title, check-out time, event satisfaction rating, items returned, payment collected (if any), follow-up needs, and internal staff notes. This information will be used to facilitate smooth and accurate event management, improve post-event processes, and provide valuable insights for future planning and optimization. This form is a critical component of the overall event management system, and its accuracy is crucial in maintaining high-quality event experiences for both attendees and staff. To avoid duplication of effort, please ensure that the form is completed accurately and thoroughly for each event.
-</thinking>
-
 # Alumni Event Check Out Form - Help Guide
 ## Purpose
 The Alumni Event Check Out Form is used to document the attendance and check-out details of alumni attendees at events held by the organization. This form helps staff track key information, including attendee names, event titles, and check-out times, ensuring accurate record-keeping and facilitating post-event follow-up and planning.

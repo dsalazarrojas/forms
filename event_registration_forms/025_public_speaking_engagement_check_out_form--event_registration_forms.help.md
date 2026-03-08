@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about public speaking engagements, likely for event organizers or management. The purpose of this form is to gather data about speakers, such as their names, contact information, roles, engagement types, and dates. This form is likely used to streamline the registration process for events, conferences, or meetings.
-
-This form does not appear to be a duplicate of any existing form, and its content is generated based on publicly available information about public speaking engagements.
-
-</thinking>
-
 # Public Speaking Engagement Check Out Form - Help Guide
 ## Purpose
 This form is designed to collect information about public speaking engagements. It is used to gather data about speakers, which can be used for event management and organization.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from summer camp participants. The purpose of this form is to gather data on individual participants, including their personal details and preferences. It is crucial to ensure that each participant's input is accurate and complete to provide a smooth and enjoyable experience for all campers.
-</thinking>
-
 # Summer Camp Participation Survey - Help Guide
 ## Purpose
 The Summer Camp Participation Survey is designed to collect information from summer camp participants. Please answer the following questions to help us better understand your needs and preferences.

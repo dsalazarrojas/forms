@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I need to ensure I understand its purpose and how users will interact with it. Based on the YAML provided, the form is for booking a family-friendly villa. It seems to be designed to gather basic information from users such as booking date, family member status, contact details, and reservation specifics (room type, check-in, and check-out dates). I will assume that the form is meant for users to provide information for a villa rental or booking process.
-
-</thinking>
-
 # Family Friendly Villa Booking Form - Help Guide
 ## Purpose
 This form is designed to collect information for booking a family-friendly villa. Please fill out the form to provide us with necessary details to process your reservation.

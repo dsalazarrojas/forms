@@ -1,9 +1,3 @@
-<thinking>
-This guide is for internal use only and is intended to be a one-time guide for the Friendsgiving Potluck Invitation Form. The purpose of this form is to gather information for a Friendsgiving potluck event, which is likely a social gathering where friends bring a variety of dishes to share. The form is designed to be completed by guests who are invited to the event.
-
-Before proceeding, please note that this guide is not intended for public use, and the information gathered through this form will be used only for internal purposes.
-
-</thinking>
 # Friendsgiving Potluck Invitation Form - Help Guide
 ## Purpose
 This form is designed to collect information from guests who are invited to a Friendsgiving potluck event. Please fill out this form to help us better understand who is coming and what dishes to expect.

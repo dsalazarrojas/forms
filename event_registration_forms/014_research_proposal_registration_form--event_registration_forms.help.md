@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for the "Research Proposal Registration Form", used for registering research proposals. This form is used by research teams to provide information about their research projects, including research institution, project title, research areas, lead researchers, start and end dates, budget, funding sources, and status. To use this form, ensure that you have all necessary information about your research project at hand before starting to fill it out. Additionally, verify that you have not already submitted a similar proposal using this form to avoid duplication. The form consists of the following fields and sections that are explained below.
-</thinking>
-
 # Research Proposal Registration Form - Help Guide
 ## Purpose
 The Research Proposal Registration Form is used to gather information about research projects to be registered by research teams. This form is a crucial tool for tracking and managing research activities.

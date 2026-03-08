@@ -1,5 +1,3 @@
-<thinking>Feedback Voltage Amplifier Evaluation Form is used for assessing the performance of a voltage amplifier after a test or evaluation. This form is meant for users who want to provide feedback on the results of a voltage amplifier's performance. The form asks for information about the user, the test date, and the evaluation results. It also includes fields for comments, notes, and test environment details. This form is likely used by technicians or engineers in the field of electrical engineering or electronics. This form might not be used by non-technical users, and it's possible that there's a similar form for end-users. Please check with the internal stakeholders to confirm the form's purpose and usage. It's also possible that there's a duplicate form for the same purpose, please check with the internal stakeholders to confirm.</thinking>
-
 # Feedback Voltage Amplifier Evaluation Form - Help Guide
 ## Purpose
 The Feedback Voltage Amplifier Evaluation Form is used for evaluating the performance of a voltage amplifier after a test or evaluation.

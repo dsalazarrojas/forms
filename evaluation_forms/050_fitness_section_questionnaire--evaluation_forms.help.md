@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fitness Section Questionnaire - Help Guide
 
 ## Purpose

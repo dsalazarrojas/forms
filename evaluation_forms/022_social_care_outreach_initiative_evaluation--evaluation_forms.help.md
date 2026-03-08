@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to evaluate the effectiveness of social care outreach initiatives. To ensure relevance and non-duplication, it is crucial to complete the form with accurate and detailed information. Please review the form carefully before submitting it.
-
-</thinking>
-
 # Social Care Outreach Initiative Evaluation - Help Guide
 ## Purpose
 The Social Care Outreach Initiative Evaluation form is designed to gather feedback from participants in social care outreach initiatives. This form helps in understanding the participant's experience, satisfaction, and perceived service quality.

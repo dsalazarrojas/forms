@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Palliative Care Education Workshop Evaluation Form - Help Guide
 ## Purpose
 This form is designed to evaluate the quality and effectiveness of the Palliative Care Education Workshop. It helps us gather feedback from participants to improve our workshops and provide better services in the future.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to register donors for a breakfast meeting event. It is crucial to collect accurate and complete information from donors, including their contact details, dietary restrictions, and attendance schedule. Please ensure you are filling out the form correctly to avoid any errors or discrepancies in event planning. Before proceeding, double-check that your information is accurate to prevent any duplicate registrations.
-</thinking>
-
 # Donor Breakfast Meeting Registration Form - Help Guide
 ## Purpose
 The Donor Breakfast Meeting Registration Form is designed to collect information from donors who are interested in attending a breakfast meeting event. This form helps us to plan and prepare for the event, ensuring that we can accommodate your needs and preferences.

@@ -1,12 +1,3 @@
-<thinking>
-This form is meant to collect information from aspiring screenwriters who wish to participate in our Screenwriting Workshop. The form gathers details such as first and last name, email, contact number, writing sample, bio statement, and workshop preferences (type, location, and duration). This information will be used to evaluate the suitability of each applicant for the workshop. The form will also ask for workshop dates and times, which will be used to schedule the workshop sessions. This form is an essential part of the registration process for the workshop.
-
-Before filling this form, ensure that you have reviewed our workshop schedule and have selected the dates and times that suit your needs. Also, be aware that some fields are optional and are intended to help the workshop organizers tailor the sessions to your needs.
-
-The workshop will cover screenwriting for different mediums, including film and television, theatre, and web series. The workshop location will be one of New York, Los Angeles, Chicago, Paris, or London. 
-
-</thinking>
-
 # Screenwriting Workshop Admission Form - Help Guide
 ## Purpose
 The Screenwriting Workshop Admission Form is designed to gather essential information from aspiring screenwriters to participate in our workshop sessions. The form aims to collect data that will help the workshop organizers schedule and tailor the sessions to the needs of each participant.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for evaluating the performance of restaurant personnel, typically completed by management or HR personnel. The form is likely used to assess an employee's skills, work attitude, and overall performance. It's possible that similar forms exist in the organization, but this specific form is designed to gather feedback on key aspects of an employee's work. Please ensure that the evaluation is objective and fair, and that the feedback is constructive and actionable.
-</thinking>
-
 # Restaurant Personnel Evaluation Form - Help Guide
 
 ## Purpose

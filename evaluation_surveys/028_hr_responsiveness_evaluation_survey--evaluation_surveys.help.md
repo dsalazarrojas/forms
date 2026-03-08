@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to gauge the HR responsiveness in various departments. It's meant to be completed by team members, managers, or department heads. This form likely exists to identify areas of improvement and help the HR department understand where they need to focus their efforts.
 
 # HR Responsiveness Evaluation Survey - Help Guide

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from users about the netball finals venue. This feedback will help us understand the user experience and make improvements to future events.
-To prevent non-duplication of effort, ensure you're providing feedback for a specific event.
-Before providing feedback, please review the form carefully to ensure you're submitting accurate information.
-</thinking>
-
 # netball-finals-venue-feedback-survey - Help Guide
 ## Purpose
 The netball-finals-venue-feedback-survey form is designed to collect your thoughts and opinions about the netball finals venue.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for requesting backstage access for events. It's a standard form used by event organizers to gather information from individuals or groups requesting access to the backstage area during an event. The form helps event staff to efficiently manage requests, ensure security, and provide the right level of access to those who need it. By filling out this form accurately, event organizers can ensure that all necessary information is gathered to provide a smooth and secure experience for everyone involved. This form will only appear to users who are requesting backstage access for an event, and it will be reviewed by the event staff after submission.
-</thinking>
-
 # Backstage Access Booking Form - Help Guide
 ## Purpose
 The Backstage Access Booking Form is a tool used by event organizers to manage requests for backstage access during events. This form is designed to gather necessary information from individuals or groups requesting access to the backstage area.

@@ -1,7 +1,3 @@
-<thinking>
-The Online Seminar Evaluation Form is designed to gather feedback from attendees about the quality and relevance of the seminar they attended. The form is used to measure the effectiveness of the seminar, identify areas for improvement, and inform future seminar planning. This form is a crucial tool to ensure that the seminar is meeting the needs and expectations of attendees and to make adjustments accordingly.
-</thinking>
-
 # Online Seminar Evaluation Form - Help Guide
 ## Purpose
 The Online Seminar Evaluation Form is used to gather feedback from attendees about the seminar they participated in. This form helps us understand their satisfaction with the seminar, assess the effectiveness of the seminar, and identify areas for improvement.

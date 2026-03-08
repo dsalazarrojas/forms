@@ -1,7 +1,3 @@
-<thinking>
-This form is a Sculpture Workshop Reservation Form, which is designed to collect information from participants who want to attend a workshop or seminar related to sculpture. The form is intended to gather necessary details about the workshop and the participant, ensuring they can provide a well-structured and organized event experience. This form was created based on the "event_registration_forms" category and is meant to be used as a standard template for such events. Please ensure this form doesn't contain any proprietary content and is only used as a public example for educational purposes.
-</thinking>
-
 # Sculpture Workshop Reservation Form - Help Guide
 ## Purpose
 This form is designed to collect participant information and workshop details for a sculpture workshop or seminar. It ensures that participants can provide necessary details for a well-structured and organized event experience.

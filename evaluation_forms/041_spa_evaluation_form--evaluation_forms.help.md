@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect evaluation results for a Single-Photon Amplification (SPA) process. 
-The form has a total of 17 fields and is divided into multiple sections. 
-Each field is required to have a valid input except where specified otherwise.
-This form is used in the context of medical services and patient care. 
-Please provide accurate and relevant information for each field.
-</thinking>
-
 # SPA Evaluation Form - Help Guide
 ## Purpose
 This form is used to evaluate the effectiveness and efficiency of the Single-Photon Amplification (SPA) process. It is designed to collect feedback from customers who have undergone the SPA process, providing valuable insights for future improvements.

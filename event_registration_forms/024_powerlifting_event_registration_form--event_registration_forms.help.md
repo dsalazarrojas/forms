@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Powerlifting Event Registration Form - Help Guide
 ## Purpose
 This form is designed to register participants for powerlifting events. It collects information about the event and the participant, including event name, athlete name, date, time, and location. This form is essential for event organizers to gather relevant details about events and participants, and for participants to provide their details in a structured and efficient manner.

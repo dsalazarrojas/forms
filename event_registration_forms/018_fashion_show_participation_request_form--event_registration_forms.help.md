@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to allow users to participate in a fashion show event. To be eligible to participate, you must provide your name, contact information, and a brief description of your role in the event (e.g., Designer, Model, Staff). If you are interested in modeling, please ensure you have a valid email address, as we will use it to communicate with you regarding your participation.
-Before completing this form, ensure that you are not a duplicate participant. If you have already submitted a registration for this event, do not submit another form.
-</thinking>
-
 # Fashion Show Participation Request Form - Help Guide
 ## Purpose
 This form is used to request participation in a fashion show event. To be eligible, you must provide your name, contact information, and a brief description of your role in the event.

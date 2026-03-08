@@ -1,20 +1,3 @@
-<thinking>
-This form is designed to collect feedback from seminar attendees to evaluate the effectiveness and quality of the seminar. The purpose of this form is to gather information about the seminar's content, participants, and overall satisfaction. This information will help the seminar organizers to improve future events and provide better services to attendees.
-
-The form is divided into several sections, each focusing on a different aspect of the seminar. The sections are:
-* Introduction (Page 1)
-* Seminar Participants (Page 2)
-* Seminar Content (Page 3)
-* Seminar Leader (Page 4)
-* Seminar Location (Page 5)
-* Overall Satisfaction (Page 6)
-* Suggestions for improvement (Page 7)
-* Seminar Evaluation (Page 8)
-
-Please make sure to complete all sections thoroughly and accurately to provide valuable feedback.
-
-</thinking>
-
 # Seminar Evaluation Survey - Help Guide
 
 ## Purpose

@@ -1,6 +1,3 @@
-<thinking>
-This form is for the registration of youth leadership events. The purpose of this form is to collect information from participants about their event participation. The form is intended to be completed by the participant themselves, and the information collected will be used to manage their event registration. This form should only be completed once per participant. If a participant has already registered for an event, they should not be able to complete this form again. If a participant is unsure if they have already registered, they can contact the relevant authorities for confirmation.</thinking>
-
 # Youth Leadership Registration Form - Help Guide
 ## Purpose
 This form is used to collect information from youth participants about their leadership events.

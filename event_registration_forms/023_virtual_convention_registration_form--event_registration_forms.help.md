@@ -1,12 +1,3 @@
-<thinking>
-The purpose of the Virtual Convention Registration Form is to collect information from attendees who want to register for a virtual convention. The form is designed to gather essential details such as attendee's name, contact information (email and phone number), and relevant event details (event date and time). This information will be used to facilitate communication and organization for the event.
-
-To ensure accuracy and consistency, please ensure that you're filling out the form for a convention you're actually registered for. If you're filling out the form for someone else, please ensure they're aware of and agree to the provided information. This will help prevent duplication of effort and ensure that the correct information is associated with the right event.
-
-Before proceeding, please review the form carefully and ask yourself if you're registering for the correct convention. If you're unsure, it's best to double-check with the event organizers.
-
-</thinking>
-
 # Virtual Convention Registration Form - Help Guide
 
 ## Purpose

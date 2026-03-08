@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from restaurant managers who are applying for a position at your establishment. The form should only be used for this specific purpose and should not be duplicated for other unrelated applications. It's crucial to ensure that the submitted information is accurate and complete to facilitate a smooth application process. The form will help you gather essential details about the candidate, including their name, contact information, work experience, education, availability, skills, and resume. Please review the form carefully to ensure that all required fields are filled in accurately.
-</thinking>
-
 # Restaurant Manager Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from restaurant managers who are applying for a position at your establishment. Please fill it out carefully and accurately to ensure a smooth application process.

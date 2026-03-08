@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information about the cancellation of an event. It is used to record the reasons for cancellation, the people involved, and other relevant details. Before completing this form, ensure that you have a valid reason for the cancellation, and that you have considered the impact on stakeholders who may be affected by the cancellation. This form should not be used for test or practice purposes. Please review the form carefully and answer all questions truthfully.
-
-</thinking>
-
 # Event Cancellation Notice - Help Guide
 ## Purpose
 The Event Cancellation Notice form is used to document the cancellation of an event and provide a clear reason for the cancellation. This information will be used to communicate with stakeholders and ensure that all parties are informed about the cancellation.

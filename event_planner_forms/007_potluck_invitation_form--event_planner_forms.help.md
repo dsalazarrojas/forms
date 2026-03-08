@@ -1,9 +1,3 @@
-<thinking>
-The potluck_invitation_form is designed to invite participants to bring a specific item to a potluck event. This form is intended to help the host or organizer gather information about the items each guest will bring, ensuring a diverse and exciting spread of food for the event. 
-
-This form should only be used by hosts or organizers to invite guests to a potluck event. Repeating the same form for other events or purposes may lead to confusion and unnecessary data collection. Please review your needs before using this form again.
-</thinking>
-
 # potluck_invitation_form - Help Guide
 ## Purpose
 The potluck_invitation_form is designed to invite participants to bring a specific item to a potluck event, promoting a diverse and exciting spread of food for all attendees.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from event participants regarding their recording consent and event details. It is a crucial document for ensuring that all participants are aware of and agree to the terms of recording their event. This form should only be filled out by event participants, and all fields should be completed accurately and truthfully. Before filling out this form, ensure you have read and understood the terms of recording. This form does not need to be filled out for every event, only for specific instances where recording is planned or has occurred.
-
-</thinking>
-
 # Event Recording Consent Acknowledgement Form - Help Guide
 
 ## Purpose

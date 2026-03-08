@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Internal reasoning block:
 
 This form is designed to assess human development, which encompasses overall well-being, personal growth, and goal-oriented objectives. The form aims to evaluate an individual's current state of mind, emotions, and priorities, helping to identify areas of improvement and potential areas for coaching. This form will help users understand their overall feeling, energy, and stress levels, as well as their personal, wellness, and coaching goals.

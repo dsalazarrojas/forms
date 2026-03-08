@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from attendees of an award ceremony event, aiming to improve future events. It captures information on attendee type, event details, overall satisfaction, and various aspects of the event such as venue quality, registration process, and catering. The form is intended to elicit specific ratings and free-text comments on different event aspects, allowing event planners to gather both quantitative and qualitative feedback.
-</thinking>
-
 # Award Ceremony Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from attendees of an award ceremony event, allowing event planners to understand areas of improvement and make data-driven decisions for future events.

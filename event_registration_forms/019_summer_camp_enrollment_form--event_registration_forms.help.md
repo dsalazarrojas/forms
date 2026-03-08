@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Summer Camp Enrollment Form - Help Guide
 =====================================
 

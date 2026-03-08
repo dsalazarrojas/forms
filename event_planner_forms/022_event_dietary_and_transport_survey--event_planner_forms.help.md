@@ -1,19 +1,3 @@
-<thinking>
-This help guide is intended to ensure that the user understands the purpose and usage of the "event_dietary_and_transport_survey" form. 
-
-This form appears to be designed for event planners and organizers to collect information about attendees' dietary needs, transportation preferences, and contact details. The form should not be filled out by attendees with existing dietary and transportation requirements.
-
-The fields in this form can be categorized into three main sections: Introduction, Preferences and Needs, and Contact Information. 
-
-The Introduction page is an optional section that allows users to provide a brief background information about the event. 
-
-The Preferences and Needs section is where users can select their meal preferences and dietary needs. This is also an optional section. 
-
-The Contact Information section includes fields for email, phone number, and transport time. 
-
-Before proceeding, please ensure that you have not already submitted this form with the same event title. 
-</thinking>
-
 # Event Dietary and Transport Survey - Help Guide
 ## Purpose
 The event_dietary_and_transport_survey form is designed for event planners and organizers to collect information about attendees' dietary needs, transportation preferences, and contact details.

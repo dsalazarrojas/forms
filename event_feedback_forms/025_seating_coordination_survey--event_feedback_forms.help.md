@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather feedback and information about the seating arrangement and preferences of attendees for events, conferences, or similar events. The form will help event organizers to better understand the seating needs and preferences of their attendees, which can inform decisions such as the selection of venues, seating capacities, and event logistics. This form should only be used for events that require seating arrangements, and it's not intended for general feedback or surveys that don't have specific seating requirements.
-
-Before proceeding, please ensure you're filling out this form for an event that specifically requires seating arrangements. If you're unsure, please contact the event organizer or refer to the event details.
-
-</thinking>
-
 # Seating Coordination Survey - Help Guide
 ## Purpose
 This form collects information about your seating preferences and arrangements for events that require reserved seating.

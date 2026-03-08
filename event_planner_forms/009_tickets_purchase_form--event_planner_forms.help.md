@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information for events, allowing users to purchase tickets for various events. The form has multiple fields for event details, contact information, and agreement terms. It is crucial to fill out the form accurately to ensure the successful purchase of tickets. Please make sure to review all fields carefully before submitting the form.
-</thinking>
 # Tickets Purchase Form - Help Guide
 ## Purpose
 The Tickets Purchase Form is designed to collect essential information for event ticket purchases.

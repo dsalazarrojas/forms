@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information for the "Street Food Experience" event registration process. It gathers details such as event type, attendee details, event location, and organizer information. The form aims to ensure that the event is properly organized and executed by capturing crucial data for the event organizers.
-
-To determine if this form is relevant to your specific use case, consider the following:
-- Are you an event organizer planning a street food experience event?
-- Are you responsible for managing event registrations for such events?
-- Do you need to collect attendee information for events like this?
-
-If yes, then this form is likely relevant to your use case. If not, please consider if you need a custom solution for your specific requirements.
-</thinking>
-
 # Street Food Experience Registration - Help Guide
 ## Purpose
 The "Street Food Experience Registration" form is designed to collect information for event organizers and attendees for street food experience events. It helps to gather crucial data for event planning and execution.

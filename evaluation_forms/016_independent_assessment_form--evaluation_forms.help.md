@@ -1,9 +1,3 @@
-<thinking> 
-
-This form is designed to gather information for independent assessments, which are evaluations of a person's performance, skills, or qualifications outside of a structured testing environment. This form helps assessors gather data on a variety of aspects, including the type of assessment, date and time of the assessment, and ratings and recommendations for the individual being assessed. The form is designed to be completed by assessors, who will provide their professional judgment and expertise to inform their evaluations.
-
-</thinking>
-
 # Independent Assessment Form - Help Guide
 ## Purpose
 This form is used for independent assessments, which are evaluations of a person's performance, skills, or qualifications outside of a structured testing environment.

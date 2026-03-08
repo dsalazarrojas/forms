@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from attendees for a public policy workshop, gathering details about the workshop and the attendees. 
-</thinking>
-
 # public_policy_workshop_attendance_form - Help Guide
 ## Purpose
 This form is intended to be used by organizers or administrators to collect information from attendees for a public policy workshop. The form will help in tracking the workshop participation and attendance.

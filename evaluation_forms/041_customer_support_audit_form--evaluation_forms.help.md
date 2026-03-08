@@ -1,9 +1,3 @@
-<thinking>
-The goal of the "Customer Support Audit Form" is to gather feedback and information about the quality of service provided by customer support agents. This form helps identify areas of excellence and areas that need improvement in the support process.
-The form is designed to collect data through multiple pages, each focused on a specific aspect of the support process. Pages 1-3 are likely intended for general information and initial feedback, while pages 4-5 focus on more specific questions about the support experience. Pages 6-9 are concerned with collecting data on specific events or issues, and pages 10-13 are about numerical data and additional information.
-This guide will walk you through each page, explaining the purpose and requirements of each field.
-</thinking>
-
 # Customer Support Audit Form - Help Guide
 
 ## Purpose

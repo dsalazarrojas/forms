@@ -1,7 +1,3 @@
-<thinking>
-We are creating a help guide for the "Geotagged Attendance Check In" form, which is used to record the presence of attendees at events. The form is crucial for tracking attendance and roles of attendees at events. This guide will walk users through each field to ensure that they understand what each field represents and how to fill it out correctly.
-</thinking>
-
 # Geotagged Attendance Check In - Help Guide
 ## Purpose
 The "Geotagged Attendance Check In" form is designed to record and track the attendance of participants at events. It captures essential information such as event ID, date, time, location, attendee name, role, and additional details like team leader name and team members. The form helps event organizers and administrators to monitor attendance, roles, and notes, making it easier to manage events efficiently.

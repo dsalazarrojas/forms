@@ -1,7 +1,3 @@
-<thinking>
-This form is used for tracking resident issues. It is essential for ensuring that issues are reported, documented, and addressed promptly. Before proceeding, please ensure you have not already submitted this form for the same resident issue, as it may cause duplication of effort and potential conflicts in the record.
-</thinking>
-
 # resident_issue_tracking_form - Help Guide
 ## Purpose
 The resident_issue_tracking_form is designed to collect information about issues or concerns raised by residents. This form helps in tracking and resolving these issues efficiently.

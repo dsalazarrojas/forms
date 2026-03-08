@@ -1,13 +1,3 @@
-<thinking>
-The "Training Needs Assessment Evaluation Form" is designed to assess the training needs of employees in a organization. It is intended to be used by trainers, managers, and other relevant stakeholders to identify areas that require attention and development. The purpose of this form is to gather information about the employee's training level, training needs, and evaluation details.
-
-To ensure that this form is used correctly, please note that:
-
-* This form is not a replacement for other forms or assessments that may be used for similar purposes.
-* The responses provided in this form are intended to be used for internal evaluation and development purposes only.
-* Please ensure that the information provided is accurate and up-to-date.
-</thinking>
-
 # training_needs_assessment_evaluation_form - Help Guide
 ## Purpose
 The "Training Needs Assessment Evaluation Form" is used to assess the training needs of employees in a organization.

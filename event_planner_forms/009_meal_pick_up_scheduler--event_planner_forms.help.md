@@ -1,7 +1,3 @@
-<thinking>
-The "Meal Pick Up Scheduler" form is used to collect information from users to schedule meal pickups. This form likely serves as a tool for food banks, meal delivery services, or other organizations that provide meal support. The form's purpose is to gather order details, such as the order date, meal preferences, and contact information from users. To confirm that the form meets your specific requirements, ensure that the form fields align with your organization's needs and procedures. Please review this help guide to understand the form's purpose and how to use it effectively.
-</thinking>
-
 # Meal Pick Up Scheduler - Help Guide
 ## Purpose
 The Meal Pick Up Scheduler form is a tool for scheduling meal pickups, allowing you to collect crucial information from users.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Post Competition Performance Reservations - Help Guide
 
 ## Purpose

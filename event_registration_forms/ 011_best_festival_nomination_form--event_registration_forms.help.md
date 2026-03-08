@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for users to nominate a festival for consideration. The purpose of this form is to gather essential information from users about the festival they would like to nominate. To ensure that users provide relevant and accurate information, please make sure to only nominate a festival that you are familiar with and that meets our guidelines. Additionally, please be aware that duplicate nominations may be rejected or removed to prevent over-nomination.
-
-</thinking>
-
 # Best Festival Nomination Form - Help Guide
 ## Purpose
 This form collects information from users to nominate a festival for consideration.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for registration of summer camp attendees. It collects personal data from both the camper and their emergency and parent/guardian contacts. The form is not strictly necessary but serves to provide relevant information for camp administration and communication.
-</thinking>
-
 # Summer Camp Registration Form - Help Guide
 ## Purpose
 This form is designed to collect personal data from both the camper and their emergency and parent/guardian contacts for summer camp registration.

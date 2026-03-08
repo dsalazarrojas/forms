@@ -1,12 +1,3 @@
-<thinking>
-Rehabilitation Robotics Workshop Evaluation Form purpose: This form is designed to capture feedback from participants in the Rehabilitation Robotics Workshop. It helps us understand their experience, opinions, and suggestions for future improvements. This form ensures that we collect valuable insights to make our workshop better.
-
-To ensure that the feedback we collect is relevant and not duplicated, we kindly ask you to complete this form with your honest and constructive comments. Please note that your responses will be treated with confidentiality and respect.
-
-Before you start, please ensure that you have attended the workshop and are providing feedback based on your personal experience.
-
-</thinking>
-
 # Rehabilitation Robotics Workshop Evaluation Form - Help Guide
 ## Purpose
 The Rehabilitation Robotics Workshop Evaluation Form is designed to gather feedback from participants on their experience, opinions, and suggestions for future improvements.

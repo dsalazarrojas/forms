@@ -1,7 +1,3 @@
-<thinking>
-This form is used for students to renew their art classes. It collects information from the student to determine the best class schedule for them to continue learning art. The purpose of this form is to help students express their preferences and goals, ensuring that they get the most suitable class experience in the next term. By providing accurate and complete information, students can ensure a smooth transition into their new class. The form should not be completed if a student is not renewing their class or has no preference for the renewal class.
-</thinking>
-
 # Art Class Renewal Form - Help Guide
 ## Purpose
 This form is used to collect information from students to renew their art classes. Please answer the questions accurately and completely to ensure a smooth transition into your new class.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a subjective evaluation of your performance and skills during the past year in the workshop. It's meant to be completed by workshop participants to help them reflect on their progress, strengths, and areas for improvement. This form is intended to be a private and confidential assessment, and the answers will be reviewed by the workshop administrators. Please note that the form is not meant to be a formal evaluation or assessment for any specific metrics or requirements. It's meant to be a personal and honest self-assessment to help participants grow and improve.
-</thinking>
-
 # Workshop Annual Performance Review Self Evaluation - Help Guide
 ## Purpose
 This guide explains how to complete the Workshop Annual Performance Review Self Evaluation form, which is a private and confidential assessment for workshop participants to evaluate their performance and progress during the past year.

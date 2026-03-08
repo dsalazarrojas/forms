@@ -1,7 +1,3 @@
-<thinking>
-We've analyzed the provided YAML file and determined that this is an original adaptation of an event registration form, not affiliated with any form platform. The form is designed for outdoor projection mapping applications and contains fields for event registration, project proposal, project name, event date, event time, vendor information, event location, and event description. We've identified that the form is not duplicating any existing form and is released under CC BY 4.0 license, allowing for free use, modification, and even sale. The form was created using AI and does not contain any proprietary content.
-</thinking>
-
 # Outdoor Projection Mapping Application Form - Help Guide
 ## Purpose
 The Outdoor Projection Mapping Application Form is designed for registering events that involve outdoor projection mapping applications. This form helps users provide essential information about the event, including project proposal, project name, event date, event time, vendor information, event location, and event description.

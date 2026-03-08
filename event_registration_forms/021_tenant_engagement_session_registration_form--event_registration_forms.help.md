@@ -1,8 +1,3 @@
-<thinking>
-The Tenant Engagement Session Registration Form is a form designed to collect information from tenants about their engagement sessions. To ensure the form's purpose and the collected data are clear and relevant, we need to confirm if the form is being used for its intended purpose and not for any other reason. Additionally, we need to check if the form is not being filled out multiple times by the same tenant for the same event. If the form is being used for its intended purpose and not duplicated, it will help in creating an accurate record of tenant engagement sessions, which is crucial for future events and planning.
-
-</thinking>
-
 # Tenant Engagement Session Registration Form - Help Guide
 ## Purpose
 The Tenant Engagement Session Registration Form is designed to collect information from tenants about their engagement sessions. This form is meant to provide a structured and organized way of gathering data on events and sessions conducted with tenants.

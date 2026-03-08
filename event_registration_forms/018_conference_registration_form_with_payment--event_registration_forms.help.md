@@ -1,9 +1,3 @@
-<thinking>
-
-The conference registration form is a crucial part of the event planning process. It collects essential information from attendees, such as personal details, contact information, and payment preferences. Before completing this form, ensure that you haven't registered for a different event using a promotional code or coupon. Also, please review the available packages and options carefully to avoid any last-minute issues with payment or accommodation.
-
-</thinking>
-
 # Conference Registration Form With Payment - Help Guide
 
 ## Purpose

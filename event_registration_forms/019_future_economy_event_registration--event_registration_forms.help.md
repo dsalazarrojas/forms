@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I understand the form's purpose to be an event registration form for the "Future Economy" event, which is likely a conference or workshop. The form will collect information from attendees, including event details and contact information. Upon reviewing the YAML, I see that the form has two pages with two text fields on each page. The "Event Details" fields appear to be identical, which may indicate that they're asking for different types of event details. The fields are not marked as required, which means attendees are not obligated to fill them out. Based on this information, I will create a user-facing help guide that explains the form's purpose, how to complete it, and what each field means.</thinking>
-
 # Future Economy Event Registration - Help Guide
 ## Purpose
 The Future Economy Event Registration form is designed to collect information from attendees to the Future Economy conference or workshop. This form is used to gather essential details about the event and the person registering.

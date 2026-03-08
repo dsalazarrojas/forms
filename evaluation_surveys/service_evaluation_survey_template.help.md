@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from service users to help improve the overall quality of our service. The purpose of this form is to solicit opinions and suggestions from users on their experience with our service. The questions are carefully crafted to be concise and relevant, and the form is intended to be completed by users who have interacted with our service.
-</thinking>
-
 # Service Evaluation Survey Template - Help Guide
 ## Purpose
 The Service Evaluation Survey Template is a tool used to gather feedback from service users to improve the overall quality of our service. This form is designed to be completed by users who have interacted with our service and are willing to share their opinions and suggestions.

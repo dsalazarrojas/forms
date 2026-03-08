@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect data on the effectiveness of risk monitoring within an organization. This form is designed to help assess the current state of risk monitoring processes and identify areas for improvement. Before completing this form, ensure that you are familiar with the organization's risk monitoring processes and have access to relevant information about risk monitoring activities.
-
-</thinking>
-
 # Risk Monitoring Effectiveness Survey - Help Guide
 ## Purpose
 The purpose of this survey is to evaluate the effectiveness of risk monitoring within your organization. Please answer the questions honestly, and provide as much detail as possible to help identify areas for improvement.

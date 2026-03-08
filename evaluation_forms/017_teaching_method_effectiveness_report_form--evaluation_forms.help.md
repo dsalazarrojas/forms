@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for this form, we must first understand its purpose and ensure that it is not a duplicate task. This form is designed to collect information about a teaching method's effectiveness, likely for evaluation or review purposes. It may be used to gather feedback or ratings on a specific teaching method, such as a course or instructional approach, to help identify areas of improvement or recognition of successful practices. To avoid duplication, we should ensure that this form is not used for purposes that already have an established process or form, and that it is not used as a substitute for more comprehensive forms or reports.
-
-Before filling out this form, please read through the entire guide to understand the purpose and fields clearly.
-
-</thinking>
-
 # Teaching Method Effectiveness Report Form - Help Guide
 ## Purpose
 The Teaching Method Effectiveness Report Form is designed to collect information about a teaching method's effectiveness. This form is intended to gather feedback or ratings on a specific teaching method, such as a course or instructional approach, to help identify areas of improvement or recognition of successful practices.

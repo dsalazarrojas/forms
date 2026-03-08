@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users who want to register for an Entrepreneurial Networking event. It is crucial to fill out the form accurately to ensure that the event organizers can contact you correctly and share your story effectively. Please do not duplicate your registration if you have already signed up for the event. 
-</thinking>
-
 # Entrepreneurial Networking Event Registration Form - Help Guide
 ## Purpose
 This form is used to collect information from attendees to facilitate the sharing of their stories and experiences during the Entrepreneurial Networking event.

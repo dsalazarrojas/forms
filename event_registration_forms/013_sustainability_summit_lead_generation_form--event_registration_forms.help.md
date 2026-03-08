@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to generate leads for a Sustainability Summit, which likely aims to gather information about individuals or organizations interested in attending or participating in the event. This form will help to collect data such as contact details, roles, event dates and details to facilitate communication and planning. 
-The form does not seem to be designed for duplicate submissions, as none of the fields are marked as required.
-</thinking>
-
 # Sustainability Summit Lead Generation Form - Help Guide
 ## Purpose
 The Sustainability Summit Lead Generation Form is designed to collect information from individuals or organizations interested in attending or participating in the Sustainability Summit.

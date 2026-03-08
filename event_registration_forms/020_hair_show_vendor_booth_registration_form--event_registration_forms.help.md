@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from vendors who want to register for a hair show event. The vendor will be asked to provide their name, contact information, booth details, and other relevant information to ensure they are properly registered for the event. This form will be used to process and prepare for the event, and the information collected will help the event team to manage vendor participation and communication. It's essential to fill out this form accurately and thoroughly to avoid any potential issues or conflicts during the event. Please make sure to read this guide carefully to understand the required fields and what each field means.</thinking>
-
 # Hair Show Vendor Booth Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from vendors who want to register for a hair show event.

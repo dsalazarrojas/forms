@@ -1,12 +1,3 @@
-<thinking>
-This guide will walk through the steps to complete the "Event Feedback Form That Night Follows Day" form, which is used to gather feedback from participants after an event that took place the night before. This form is crucial in understanding how the event was perceived, what was liked or disliked, and what can be improved for future events.
-
-This form has been designed to be completed by participants, so we'll go through each field to understand what information we're asking for and how to provide it accurately.
-
-Before we start, please make sure that you're filling this form for the correct event. The correct event date and time are required in order to provide relevant feedback.
-
-</thinking>
-
 # event_feedback_form_that_night_follows_day - Help Guide
 ## Purpose
 The "event_feedback_form_that_night_follows_day" form is a tool to gather feedback from participants after an event has taken place. This feedback is crucial in helping us understand what went well and what didn't during the event, and will inform our planning and organization for future events.

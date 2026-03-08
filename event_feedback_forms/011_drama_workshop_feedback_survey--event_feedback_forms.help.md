@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback from participants of a drama workshop, aiming to evaluate the quality of the workshop, the effectiveness of the materials and facilitators, and to gather any additional comments or recommendations. The purpose of this form is to help organizers and facilitators understand the strengths and weaknesses of the workshop, allowing them to make necessary adjustments for future events. This form should only be filled out by workshop participants, and it is not necessary for staff or organizers to complete it. Please ensure that each participant completes the form once for each workshop they have attended.
-</thinking>
-
 # Drama Workshop Feedback Survey - Help Guide
 ## Purpose
 This guide will walk you through the "Drama Workshop Feedback Survey" form, explaining each field and providing instructions on how to complete it.

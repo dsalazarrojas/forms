@@ -1,15 +1,3 @@
-<thinking>
-
-The form is intended to collect registration information from players for the Bubble Ball Game. It is crucial that players provide accurate information about themselves and their family members to ensure a safe and enjoyable experience for all participants. This form helps us gather necessary details about the player's contact information, health and medical conditions, and game preferences to prepare for the event.
-
-Before proceeding, please note the following:
-
-* All fields marked as "required" are necessary for a successful registration.
-* Fields that are not marked as "required" are optional but still help us understand your preferences and needs.
-* If a player is under 18 years old, we will need information from their parent or guardian as well.
-
-</thinking>
-
 # Bubble Ball Game Registration - Help Guide
 
 ## Purpose

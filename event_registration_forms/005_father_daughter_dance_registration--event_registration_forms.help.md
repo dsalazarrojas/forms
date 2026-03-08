@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Father Daughter Dance Registration - Help Guide
 ## Purpose
 This form is designed to collect information for the Father Daughter Dance event registration. Please fill out the form accurately and completely to ensure that the event organizers can provide the best experience for you and your guests.

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to help event organizers and attendees RSVP to a vendor networking mixer event. The event organizer information is required for event details, while attendee information is mandatory to confirm attendance. 
-The form is used to gather information about the event and attendee preferences. The form fields allow the organizer to track RSVPs, note dietary needs, and set a deadline for RSVPs.
-The form will help the event organizer to:
-- Track RSVPs and confirm event attendance
-- Gather information about event details (name, date, time, location)
-- Identify attendee preferences (dietary needs, networking goals)
-- Set a deadline for RSVPs
-
-</thinking>
-
 # Vendor Networking Mixer RSVP Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from event organizers and attendees for a vendor networking mixer event.

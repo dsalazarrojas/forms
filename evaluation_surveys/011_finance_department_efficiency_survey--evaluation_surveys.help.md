@@ -1,11 +1,3 @@
-<thinking>
-We need to make sure that this form is for evaluating the finance department's efficiency. Before starting to fill out this form, make sure to:
-- You have all necessary context about the Finance Department's performance.
-- You are not duplicating efforts. If you have already provided feedback on this or similar topic, please do not submit again.
-
-This form is designed to gather feedback from users about the Finance Department's performance, strengths, weaknesses, and areas of improvement. It is not a survey for personal opinions or complaints.
-</thinking>
-
 # Finance Department Efficiency Survey - Help Guide
 ## Purpose
 This form is designed to help the Finance Department identify areas of improvement and opportunities for growth. We appreciate your honest feedback and suggestions to enhance our efficiency and overall performance.

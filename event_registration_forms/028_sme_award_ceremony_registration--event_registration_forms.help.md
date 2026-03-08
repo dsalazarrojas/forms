@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended for SME (Subject Matter Expert) Award Ceremony registration. The purpose of this form is to collect information from SMEs who will be awarded during the ceremony. The form is designed to capture essential details about the SMEs, including their personal and professional information, as well as their company details. The form is divided into several sections, each of which is explained below.
-
-</thinking>
-
 # SME Award Ceremony Registration - Help Guide
 ## Purpose
 The SME Award Ceremony Registration form is used to collect information from SMEs who will be awarded during the ceremony. This information will be used to recognize and celebrate their achievements.

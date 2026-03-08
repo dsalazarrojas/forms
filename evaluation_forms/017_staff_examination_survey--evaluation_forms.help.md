@@ -1,15 +1,3 @@
-<thinking>
-
-To determine the form purpose and ensure it's not duplicated, let's analyze the provided YAML fields. The form is called "Staff Examination Survey", which suggests it's used for evaluating staff performance, strengths, and areas for improvement. It's likely that this form is part of an HR process for employee evaluations. 
-
-Let's create a user-facing help guide that covers the following topics: 
-
-1. Purpose
-2. How to Complete this Form
-3. Field-by-Field Explanation
-
-</thinking>
-
 # Staff Examination Survey - Help Guide
 ## Purpose
 The Staff Examination Survey is a form used by managers to evaluate staff performance, identify strengths, and areas for improvement. This form is part of the HR process to help managers provide regular feedback and guidance to their staff.

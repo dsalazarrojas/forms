@@ -1,7 +1,3 @@
-<thinking>
-To ensure the form is used correctly, this guide will help clarify the purpose and usage of each field.
-</thinking>
-
 # nile_river_experience_survey - Help Guide
 ## Purpose
 The **Nile River Experience Survey** form is designed to collect feedback and information about customer experiences with the Nile River cruise. This form will help us understand your satisfaction with our service and identify areas for improvement.

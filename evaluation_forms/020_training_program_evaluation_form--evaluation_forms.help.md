@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Training Program Evaluation Form - Help Guide
 ## Purpose
 The Training Program Evaluation Form is a form used to gather feedback from participants after attending a training session. It helps evaluate the effectiveness and quality of the training program, providing valuable insights for future improvement.

@@ -1,16 +1,3 @@
-<thinking>
-**Context**: The form is designed to facilitate the collection of orders for Thanksgiving orders, which could include delivery, pickup, or curbside pickup options. This form is likely used by customers to place orders for food or other items for Thanksgiving celebrations. It's crucial that we ensure the form is clear and easy to understand for the end-users, the customers.
-
-**Internal Reasoning Block**:
-To avoid duplication of effort and ensure consistency across the form, we should consider the following:
-
-*   The form has two sections, each with similar fields (Name, Email, Phone, Time, Date, Order Type, Quantity, Total Items, Item Details, and Submit). The only difference between the two sections is the label (Name 2, Email 2, etc.). This suggests that the form is designed to collect information for multiple individuals or orders. 
-*   The "Order Type" field has the same options (Delivery, Pickup, Curbside) for both sections, which indicates that the form is intended to accommodate different types of orders for each individual.
-*   The "Item Details" field has a hint that asks users to describe their order in as much detail as possible, which implies that the form is collecting information about the specific items being ordered.
-*   The "Quantity" and "Total Items" fields are likely used to track the number of items being ordered.
-
-</thinking>
-
 # thanksgiving_order_form - Help Guide
 
 ## Purpose

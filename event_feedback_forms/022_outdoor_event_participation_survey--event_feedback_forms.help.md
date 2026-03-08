@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback from attendees to outdoor events, gathering information on their participation frequency, preferences, and opinions on event organization. The purpose of this form is to improve the quality and content of our outdoor events, making them more enjoyable and engaging for attendees. Please ensure that you are eligible to fill out this form and that your feedback is not a duplicate.
-
-</thinking>
-
 # Outdoor Event Participation Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from attendees to outdoor events, helping us to improve the quality and content of our events. Your input will help us understand what you like and dislike about our events and make adjustments accordingly.

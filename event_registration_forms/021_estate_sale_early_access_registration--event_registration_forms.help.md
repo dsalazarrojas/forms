@@ -1,7 +1,3 @@
-<thinking>
-We should verify the form is relevant to the user's context and not a duplicate. If it's a user from our team, we can skip the form altogether, and if it's a repeat submission, let's politely ask them not to resubmit.
-</thinking>
-
 # Estate Sale Early Access Registration - Help Guide
 ## Purpose
 This form is designed to allow attendees to register for an estate sale's early entry appointments. It is essential to complete this form accurately to ensure that you receive the correct early entry information and access to the sale.

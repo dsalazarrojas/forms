@@ -1,13 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for the Speed Meeting Booking Form, I will analyze the provided YAML fields and provide a concise and practical explanation for each field. 
-
-The form's purpose is likely to gather information about speed meetings, which are informal meetings or sessions where attendees can discuss specific topics or issues. The form is designed to collect data about the meeting's details, attendees, and status. This form may be used by meeting organizers or participants to manage speed meetings efficiently.
-
-The form is not intended for public use, so it's likely used within an organization or team. The fields are mostly text-based, with some select options and date/time fields. The form might be used for both internal and external attendees.
-
-Before proceeding, please make sure you have read and understood the form's purpose and requirements.
-</thinking>
-
 # Speed Meeting Booking Form - Help Guide
 ## Purpose
 This form is designed to collect information about speed meetings, including meeting details, attendees, and status updates. It's intended for internal use, possibly by meeting organizers or participants.

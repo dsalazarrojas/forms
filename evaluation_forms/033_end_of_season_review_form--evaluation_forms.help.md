@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture information on the end of season review process. It's crucial to complete this form accurately to ensure that all necessary performance measures are captured and that any suggestions or comments are documented. Please note that this form does not need to be filled out for every season but rather when the season has ended. If you've already completed this form for the same season, please do not fill it out again.
-</thinking>
-
 # end_of_season_review_form - Help Guide
 ## Purpose
 This form is used to review the performance of a season and collect feedback and suggestions for improvement.

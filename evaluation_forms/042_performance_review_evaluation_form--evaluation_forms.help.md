@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form purpose is likely to collect feedback and evaluation from managers on their team members' performance. This form might be used to identify areas of improvement, recognize strengths, and set goals for the next evaluation period. It's essential to fill out this form accurately and thoroughly, as the feedback collected will be used to support the employee's growth and development. 
 
 To ensure consistency and fairness, managers should only complete this form for their direct reports, and the form should not be used to rate multiple employees at once. 

@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to collect participant details and session information for a stargazing experience. It is likely used for events related to astronomy or stargazing, where participants need to provide their personal and session-specific details. This form may be used by event organizers to collect registration information from participants, which can include names, contact information, and session preferences.
-
-</thinking>
-
 # Stargazing Experience Registration - Help Guide
 ## Purpose
 

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect end-user feedback on the usability of our system. To confirm, let's review the form's purpose and potential biases:
-- The form is meant to gather information about the user's overall experience with the system.
-- The form will likely be completed by users with varying levels of familiarity with the system.
-- We should be cautious not to lead the user or influence their responses.
-</thinking>
-
 # System Usability Evaluation Form - Help Guide
 ## Purpose
 The System Usability Evaluation Form is designed to collect user feedback on the usability of our system. This form is intended to help us understand how well our system meets the needs and expectations of its users. Your input will help us improve the user experience.

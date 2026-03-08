@@ -1,7 +1,3 @@
-<thinking>
-The form is used for event organizers to register and seek approval for event sponsorships. This form is used to gather information about the event, the sponsor, and the budget associated with the sponsorship. It is intended to be filled out by event organizers and reviewed by event managers or administrators. The goal is to ensure that all relevant information is provided to facilitate the approval process.
-</thinking>
-
 # Event Sponsorship Budget Approval Form - Help Guide
 
 ## Purpose

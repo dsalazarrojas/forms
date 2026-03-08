@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information for health-related assessments. It has 24 fields spread across multiple sections, each with its own unique type and set of options. The form is meant to collect a wide range of data, including text, select options, date, time, email, and number fields. Each section is optional, suggesting that this form is not a mandatory or critical assessment tool. The form has a mix of single-select and multi-select options, indicating that it may be used to gather both single and multiple choice answers.
-
-</thinking>
-
 # Health Survey Form - Help Guide
 ## Purpose
 The Health Survey Form is a collection of questions designed to gather information related to health assessments. It is composed of 24 fields across 20 sections, each with its own unique type and set of options.

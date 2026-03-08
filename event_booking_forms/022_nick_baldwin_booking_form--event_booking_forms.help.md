@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect event booking information from users. The form is part of a larger system that handles event bookings for Nick Baldwin, a renowned figure associated with events. The form is meant to be simple and easy to use, requiring minimal information from the user while still allowing for relevant details to be captured. It is not intended for duplicate bookings or multiple bookings from the same user. Each user should only submit one form.
-</thinking>
-
 # nick_baldwin_booking_form - Help Guide
 ## Purpose
 The `nick_baldwin_booking_form` is a form used to collect event booking information from users. It is designed to be simple and easy to use while capturing relevant details.

@@ -1,14 +1,3 @@
-<thinking>
-Before creating this help guide, I'll review the provided YAML file to ensure I understand the form's purpose and requirements. The form appears to be a general registration form for the Youth Leadership Program, designed for volunteers. It collects personal and contact information, volunteer details, and emergency contact information.
-
-This form is likely used to collect data for program management and administration purposes, ensuring that the volunteer program runs smoothly. The form might be used by program coordinators or administrators to track volunteer registrations, manage volunteer schedules, and handle any necessary communication with volunteers.
-
-To avoid duplication of effort, it's essential to note that this form is likely not intended for immediate data collection or real-time processing. Rather, it's a static form used for data collection and storage.
-
-Assuming this form is used for volunteer registration, each field is necessary for a specific reason. However, some fields might be optional or have limited relevance to the program.
-
-To ensure end-users understand the purpose and requirements of each field, I'll create a clear and concise help guide.</thinking>
-
 # Youth Leadership Program Volunteer Registration Form - Help Guide
 ## Purpose
 

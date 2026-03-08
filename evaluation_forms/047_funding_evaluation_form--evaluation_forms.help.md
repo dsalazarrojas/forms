@@ -1,7 +1,3 @@
-<thinking>
-This form is used for evaluating projects and providing feedback to project teams. It is crucial to ensure that all necessary information is accurate and up-to-date. Please make sure that you are using the correct form for your specific project needs and that you are not duplicating any existing evaluations. 
-</thinking>
-
 # Funding Evaluation Form - Help Guide
 ## Purpose
 The Funding Evaluation Form is used to gather information about projects, including their description, funding amount, start and end dates, status, evaluation score, comments, category, and project lead. This form helps to evaluate and track project progress, identify areas for improvement, and provide feedback to project teams.

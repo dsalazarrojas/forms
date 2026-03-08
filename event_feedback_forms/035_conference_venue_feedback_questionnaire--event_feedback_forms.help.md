@@ -1,11 +1,3 @@
-<thinking>
-**Purpose:** The conference venue feedback questionnaire is designed to help us assess and improve our venue's facilities and services. We want to know about your experiences, so we can make informed decisions to make future events a success.
-
-**Check for relevance:** Please note that this form is for attendees who have participated in our events held at our venue. If you've attended an event at our venue but didn't fill out this form, your feedback is still valuable, but it's essential to ensure that this form is filled out for events where it applies.
-
-**Non-duplication:** Please avoid filling out this form if you have already provided similar feedback for the same event. We appreciate your honesty and effort to provide quality feedback.
-</thinking>
-
 # Conference Venue Feedback Questionnaire - Help Guide
 ## Purpose
 The conference venue feedback questionnaire is designed to gather information about your experience at our venue. Your feedback is essential in helping us improve our services and facilities.

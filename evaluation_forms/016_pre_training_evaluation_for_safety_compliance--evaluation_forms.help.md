@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to conduct a pre-training evaluation for safety compliance, gathering information from trainees before they participate in safety training. This form helps assess the trainee's current knowledge and understanding of safety procedures and ensures they are ready for the training program. It is essential to complete this form honestly, as the information collected will aid in creating a tailored training program for each trainee.
-
-Before proceeding, please review each field carefully to ensure you provide accurate and relevant information. This form should not be duplicated for the same trainee.
-
-Please do not complete this form if you have previously submitted it. If you are unsure about any of the questions or fields, please refer to the help guide for guidance.
-</thinking>
-
 # pre-training-evaluation-for-safety-compliance - Help Guide
 ## Purpose
 The purpose of this form is to conduct a pre-training evaluation for safety compliance, gathering information from trainees before they participate in safety training.

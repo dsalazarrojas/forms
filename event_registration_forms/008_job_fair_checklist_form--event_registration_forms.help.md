@@ -1,14 +1,3 @@
-<thinking>
-We need to create a comprehensive help guide for the Job Fair Checklist Form that will assist end-users in understanding the purpose of the form, how to complete it, and what each field means. This form appears to be designed for capturing information about job fairs, including attendee information, event details, and feedback.
-
-To determine the purpose of the form, let's analyze its structure and fields. The form has sections for attendee details (first name, last name, email, job title, company, phone, etc.), event details (event name, date, time, duration, status, etc.), and feedback (comments, feedback, post-event report, etc.). This suggests that the form is meant to capture attendee registration and feedback data for job fairs.
-
-Non-duplication of data is also a key consideration. The form's structure and fields should help ensure that each field is filled out correctly, without requiring unnecessary or redundant data entry.
-
-With this understanding of the form's purpose and requirements, we can create a user-friendly help guide that explains each field in a clear and concise manner.
-
-</thinking>
-
 # Job Fair Checklist Form - Help Guide
 
 ## Purpose

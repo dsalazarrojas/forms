@@ -1,9 +1,3 @@
-<thinking>
-Are you sure this form is for cultural exhibitions?
-Are you sure there are no other forms like this for similar purposes?
-Are you sure you haven't already assessed exhibitions with this form in the past?
-</thinking>
-
 # Cultural Exhibitions Assessment - Help Guide
 ## Purpose
 This form is designed to gather feedback and ratings from users after visiting a cultural exhibition. It helps us understand their overall experience and identify areas of improvement for future exhibitions.

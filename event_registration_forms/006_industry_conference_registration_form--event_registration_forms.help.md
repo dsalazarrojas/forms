@@ -1,5 +1,3 @@
-<thinking>Industry conference registration form. This form is used to register attendees for an industry conference. The form requires minimal information to facilitate easy registration and payment processing. It includes various fields to capture attendee details, payment methods, and event information. Ensure to fill out all required fields for a successful registration. Please note that some fields may be optional, depending on the specific conference requirements.</thinking>
-
 # industry-conference-registration-form - Help Guide
 ## Purpose
 This is an industry conference registration form designed for easy and hassle-free registration and payment processing.

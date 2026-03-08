@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form purpose is clear and that users understand the importance of the cultural festival feedback form. This form is designed to collect feedback from attendees of cultural festivals, allowing us to improve future events. It's essential to understand that the form is meant to be completed by those who have attended the festival, and their input is valuable in helping us make the event better. To prevent duplication of effort, we should ensure that users understand the form's purpose and content before filling it out.
-</thinking>
-
 # cultural_festival_feedback_form - Help Guide
 ## Purpose
 The cultural_festival_feedback_form is designed to collect feedback from attendees of cultural festivals, allowing us to improve future events.

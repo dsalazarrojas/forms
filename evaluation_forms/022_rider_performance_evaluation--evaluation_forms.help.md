@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This internal reasoning block is used to check for relevance and non-duplication.
 
 # Rider Performance Evaluation - Help Guide

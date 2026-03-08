@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for BNI members to provide feedback on their overall experience as part of the organization's evaluation process. It gathers information on their level of engagement, satisfaction with different aspects of the chapter's activities and events, and suggestions for improvement. This form should be used by active BNI members, but non-members who have attended meetings can also provide feedback. It's essential to complete the form accurately and truthfully to help the chapter's leadership make data-driven decisions. Please ensure that you're answering from your personal perspective, and if you're unsure about any question, you can provide an explanation for your choice.
-</thinking>
-
 # BNI Member Survey - Help Guide
 ## Purpose
 The BNI Member Survey is designed to gather feedback from members on their overall experience within the chapter. It's essential to complete this form accurately and truthfully to help the chapter's leadership make informed decisions and improve the overall experience.

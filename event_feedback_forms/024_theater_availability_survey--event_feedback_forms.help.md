@@ -1,24 +1,3 @@
-<thinking>
-
-The form "Theater Availability Survey" is designed to gather feedback from users about the availability and conditions of a specific theater. This feedback is crucial for event organizers and management to make informed decisions about event scheduling and resource allocation. This form is typically used by event planners, event coordinators, and other stakeholders involved in theater operations. The information gathered will help to avoid potential conflicts or issues during events, ensuring that events proceed smoothly and safely. It's essential to complete this form accurately and thoroughly, as it directly impacts the success of events and the satisfaction of attendees.
-
-To complete this form, follow these steps:
-
-1.  Select the days of the week that the theater will be available.
-2.  Provide the time of day when the theater will be available.
-3.  Confirm if the theater has seating capacity for the event.
-4.  Enter the estimated number of people attending the event.
-5.  Confirm if the theater has any accessibility features.
-6.  Add any additional notes or comments about the theater's condition or concerns.
-7.  Enter your contact email address.
-8.  Enter your contact phone number.
-9.  Enter your name.
-10.  Choose a category for the event.
-11.  Write a brief description of the event.
-12.  Click the "Submit" button to send the form.
-
-</thinking>
-
 # Theater Availability Survey - Help Guide
 ## Purpose
 This form is designed to gather information about a theater's availability and conditions to help event planners and coordinators make informed decisions about event scheduling and resource allocation.

@@ -1,8 +1,3 @@
-<thinking>
-This form is meant to gather feedback from partners who have participated in a pilot evaluation of the Digital Health Ecosystem. The form will be used to collect data on the benefits, challenges, and improvements suggested by the partner during the pilot. This will help to refine and better the ecosystem for future use.
-It is essential that this form is only used for those who have actually participated in a pilot evaluation, and not for those who have not. Please make sure to fill out this form only if you have been part of the evaluation process.
-</thinking>
-
 # Digital Health Ecosystem Pilot Evaluation Form - Help Guide
 ## Purpose
 

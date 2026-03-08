@@ -1,12 +1,3 @@
-<thinking>
-As a form designer and technical writer, my internal thought process while reviewing the provided YAML fields is that the cross-functional team performance evaluation form appears to be designed to assess the performance of a team in various aspects, including overall satisfaction, communication, adaptability, and project outcome. The form requires the user to provide ratings and feedback on multiple criteria, making it a comprehensive evaluation tool.
-
-The form's purpose is likely to provide a structured framework for evaluating team performance and identifying areas of improvement, which can be useful for team managers, team leaders, or project managers.
-
-To ensure that this form is being used correctly and effectively, it's essential to clearly explain each field's purpose and requirements. This guide will aim to cover each field, making sure the user understands its importance and how to complete it correctly.
-
-</thinking>
-
 # cross_functional_team_performance_evaluation_form - Help Guide
 
 ## Purpose

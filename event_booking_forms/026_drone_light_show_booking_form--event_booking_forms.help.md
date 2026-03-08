@@ -71,8 +71,4 @@ To complete this form, follow these steps:
 
 </figure>
 
-<thinking>
-This form is designed to provide a structured way of submitting an event booking form. The fields are intended to guide the event organizer through the submission process, reducing potential errors or misunderstandings. By using this form, event organizers can easily provide all the necessary details about their event and receive a confirmation of their booking. It is recommended that the event organizer double-checks their submission before sending to ensure that all required fields are filled and all information is accurate. This will avoid any delays in the booking process.
-</thinking>
-
 Note: I've followed the provided YAML structure to create the help guide. The explanation for each field is based on its label and type. The "Drone Light Show Booking Form" has a wide range of fields that cover event details, drone-related information, and event organizer's contact information. The form is designed to be straightforward, and the help guide should provide clarity to the event organizers.

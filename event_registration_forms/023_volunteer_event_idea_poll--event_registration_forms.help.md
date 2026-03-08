@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Volunteer Event Idea Poll - Help Guide
 ## Purpose
 The Volunteer Event Idea Poll form is designed to collect event ideas and suggestions from volunteers. The purpose of this form is to gather input and suggestions on potential events that can be organized, allowing event organizers to get a better understanding of the volunteers' preferences and ideas.

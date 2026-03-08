@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather evaluations of store features from users. This form is meant to be used by customers or users to provide feedback on the features of a store. It is used to collect data on the user's preferences and opinions on the store's features. This form is not meant to be used for any other purpose, and it is not a duplicate of any other form. It is a one-time use form.
-</thinking>
-
 # Store Features Evaluation Form - Help Guide
 ## Purpose
 The Store Features Evaluation Form is a tool used to collect feedback from customers and users on the features of a store. This form helps us understand what users think about the store's features and how we can improve them.

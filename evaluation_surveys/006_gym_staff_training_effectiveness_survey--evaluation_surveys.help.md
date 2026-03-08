@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback and ratings from gym staff on the effectiveness of the training programs they have attended. The purpose of this form is to gather information on the quality and helpfulness of the training sessions, and to identify areas of improvement. Before completing this form, please ensure that you have attended the training program you are providing feedback on, and that you are providing honest and constructive feedback. 
-
-Please also note that this form is only for internal use and your feedback will be anonymous.
-</thinking>
-
 # Gym Staff Training Effectiveness Survey - Help Guide
 ## Purpose
 The Gym Staff Training Effectiveness Survey is a tool to gather feedback from gym staff on the effectiveness of the training programs they have attended. This feedback will help us identify areas of improvement and provide better training experiences for our staff.

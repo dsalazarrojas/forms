@@ -1,5 +1,3 @@
-<thinking>Before generating the user-facing help guide, I'll briefly outline the purpose and reasoning behind this form. This form is designed to collect feedback from consultants on their current workflow satisfaction, identify main pain points, and explore potential areas for improvement. The form aims to understand the consultants' current workflow, their pain points, and how they envision improvements to their workflow. By analyzing the responses, the organization can gain valuable insights to streamline and optimize their consulting services.</thinking>
-
 # Consulting Workflow Improvement Survey - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a form to register individuals in a Smart Material Management Program. Before completing this form, please ensure that you are an authorized individual and that you are not a duplicate submission. This form is intended to collect basic contact information and other relevant details from individuals who wish to be part of the program. To complete the form, please follow the instructions below.
 
 # Smart Material Management Program Registration Form - Help Guide

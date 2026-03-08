@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from foundations and sponsors who wish to partner with our organization. The goal of this form is to gather essential details about the organization, including their contact information, organization type, and website. This information will be used to facilitate communication and collaboration between our organization and the sponsor.
-</thinking>
-
 # Foundation Sponsor Application Form - Help Guide
 ## Purpose
 The foundation sponsor application form is used to gather information from foundations and sponsors who wish to partner with our organization.

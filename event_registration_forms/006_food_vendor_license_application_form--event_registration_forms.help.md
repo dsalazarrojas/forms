@@ -1,28 +1,3 @@
-<thinking>
-This form is intended for food vendors to apply for a license to operate. The form is likely used by the local health department or regulatory agency to collect necessary information from food vendors, including contact information, business description, type of food sold, and license and permit details. 
-
-Checking the form fields and options:
-
-- The "VENDOR NAME" field is required as it is the name of the food vendor and it is required.
-- "Business Name" field is optional but might be used for the vendor's trade name or DBA (Doing Business As).
-- "Business Address" field is optional but is the address where the business is located.
-- "Business Phone" field is optional but the primary contact method for the business.
-- "Business Email" field is optional but the secondary contact method for the business.
-- "Business Description" field is optional but a brief description of the business is helpful.
-- "Food Type" field is required as it defines the type of food business (e.g., Food Truck, Restaurant, Cart, etc.).
-- "License Type" field is required as it defines the structure of the business (e.g., LLC, Partnership, Corporation, etc.).
-- "Permit Type" field is required as it defines the type of permit the business needs (e.g., Type A, Type B, Type C, etc.).
-- "Permit Date" field is optional but the date the permit was issued.
-- "Permit Expiration" field is optional but the date the permit expires.
-- "Status" field is required as it defines the status of the permit (e.g., Active, Pending, Cancelled).
-- "License Status" field is required as it defines the status of the license (e.g., Active, Pending, Cancelled).
-- "License Expiration" field is optional but the date the license expires.
-- "License Renewal" field is required as it defines whether the license needs renewal.
-- "Date" fields are in the format of MM/DD/YYYY, but no further specification is provided on the format of the date fields.
-
-The form is designed to be completed by food vendors to provide necessary information for local health and regulatory agencies to process the application. 
-</thinking>
-
 # food-vendor-license-application-form - Help Guide
 ## Purpose
 The food-vendor-license-application-form is a form used by food vendors to apply for a license to operate. It collects necessary information from the vendor to process the application for a local health department or regulatory agency.

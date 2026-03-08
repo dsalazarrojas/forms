@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for insurance requests related to events. The purpose of this form is to provide a structured way to gather essential details about an event, including the type of insurance needed, the amount of coverage, and other relevant information. Before filling out this form, ensure that the information provided is accurate and complete, as it will be used to determine the insurance coverage needed for the event.
-
-</thinking>
-
 # Event Insurance Request Form - Help Guide
 ## Purpose
 The Event Insurance Request Form is a tool to help you gather information for event-related insurance requests. This form will help you understand what type of insurance is needed and provide essential details for the insurance provider.

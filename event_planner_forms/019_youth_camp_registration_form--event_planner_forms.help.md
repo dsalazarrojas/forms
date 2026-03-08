@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect registration information for youth campers. This information will be used to manage camper attendance and contact details. Before filling out the form, ensure that you are providing accurate and up-to-date information for each camper. This form should only be filled out for each individual camper. If you have any questions or concerns, please contact us.
-</thinking>
-
 # Youth Camp Registration Form - Help Guide
 ## Purpose
 This form is used to register youth campers for various programs offered by the organization. Please complete this form for each camper to ensure accurate and up-to-date information.

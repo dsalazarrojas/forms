@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather data from hospital administrators on their energy transition evaluation for going green. The form consists of multiple pages that ask about various aspects of energy consumption and greenhouse gas emissions. It seems that the form is used to evaluate the effectiveness of the hospital's efforts to reduce energy consumption and greenhouse gas emissions.
-
-Before proceeding with filling out this form, please ensure that you are familiar with the hospital's current energy consumption and greenhouse gas emissions data. If you're not sure, it's recommended to review the relevant data before starting.
-
-This form is not intended to be a duplicate of other existing forms or surveys. If you've already filled out a similar form, please do not fill this out again.
-
-</thinking>
-
 # Hospital Green Energy Transition Evaluation Form - Help Guide
 
 ## Purpose

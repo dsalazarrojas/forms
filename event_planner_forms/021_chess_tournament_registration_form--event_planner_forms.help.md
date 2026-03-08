@@ -1,7 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the Chess Tournament Registration Form, making it easy for users to understand its purpose and how to complete it. This guide will cover the form's purpose, step-by-step instructions, and field explanations to ensure a smooth and efficient registration process. This form is designed to collect essential information from participants to organize and host a successful chess tournament. The form is intended for players who want to register for the tournament, and it will help us gather necessary details to ensure a well-organized event. Let's get started!
-</thinking>
-
 # Chess Tournament Registration Form - Help Guide
 ## Purpose
 The Chess Tournament Registration Form is designed to collect essential information from participants to organize and host a successful chess tournament. By filling out this form, you'll be able to register for the tournament and provide us with the necessary details to make your participation smooth and enjoyable.

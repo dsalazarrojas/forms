@@ -1,11 +1,3 @@
-<thinking>
-This form is used to register attendees for the Treasury Forecasting Seminar. It collects information about the session preferences of the attendees, their details, and their contact information. The form is designed to accommodate multiple attendees, allowing each to have their own preferences and contact details. This form is intended for internal use within the organization, and the data collected will be used for administrative purposes.
-
-To ensure the accuracy and usefulness of the collected data, we want to make sure that the form is filled out correctly. This help guide will walk you through each field in the form to help users complete it successfully.
-
-The form will only be used for the specified purpose and will not be shared with external parties. All data collected through this form will be treated with the highest level of confidentiality and security.
-</thinking>
-
 # Treasury Forecasting Seminar Registration - Help Guide
 ## Purpose
 The Treasury Forecasting Seminar Registration form is used to gather information about attendees, including their session preferences and contact details, to be used for internal administrative purposes.

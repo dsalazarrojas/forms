@@ -1,8 +1,3 @@
-<thinking>
-This help guide will cover the purpose, completion instructions, and field-by-field explanation of the cybersecurity awareness training feedback evaluation form.
-
-</thinking>
-
 # cybersecurity_awareness_training_feedback_evaluation_form - Help Guide
 ## Purpose
 The cybersecurity awareness training feedback evaluation form is designed to collect user feedback on the effectiveness of the cybersecurity awareness training program. This form will help us understand how users perceive the training and provide valuable insights to improve the program.

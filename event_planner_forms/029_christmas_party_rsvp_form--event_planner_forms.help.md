@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To avoid duplication of content and ensure relevance, let's first understand the form's purpose: the Christmas Party RSVP form is designed to gather information from guests about their intentions to attend the party, their personal details, dietary requirements, preferences, and any special requests or needs. This form aims to streamline the planning process by collecting essential information from guests in an organized and comprehensive manner.
 
 # Christmas Party RSVP Form - Help Guide

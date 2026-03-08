@@ -1,8 +1,3 @@
-<thinking>
-The Science Fair Access Subscription Form is designed for educators and administrators to register events for science fairs, manage participant information, and track updates and progress. This form ensures that event organizers can efficiently collect and review participant data, facilitating a smooth science fair experience.
-This form is intended for use by educators and event organizers. Ensure that you are authorized to access and manage science fair events before proceeding.
-</thinking>
-
 # Science Fair Access Subscription Form - Help Guide
 
 ## Purpose

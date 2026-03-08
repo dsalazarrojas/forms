@@ -1,32 +1,3 @@
-<thinking>
-This form is used for requesting catering services for events. The form collects information about the event, including the event name, date, location, guest count, and catering vendor. It also requests the requester's name, email, and contact information. The form is divided into three sections: Request Details, Event Information, and Approval Decision. The user must provide detailed information for each section to ensure that their request is properly approved. To prevent duplication, make sure to check your email for any previous requests related to this event.
-
-Please fill in the following fields:
-
-  * **Request ID**: Enter a unique identifier for this request.
-  * **Request Date**: Enter the date of the event.
-  * **Requester Name**: Enter your name as the person submitting this request.
-  * **Requester Email**: Enter your email address.
-  * **Event Name**: Enter the name of the event.
-  * **Event Date**: Enter the date of the event.
-  * **Event Location**: Enter the location of the event.
-  * **Guest Count**: Enter the estimated number of guests attending.
-  * **Event Type**: Select the type of event (e.g. Corporate, Wedding, Fundraiser, etc.).
-  * **Catering Vendor**: Enter the name of the proposed catering company.
-  * **Vendor Contact Information**: Enter the contact information (phone and email) of the catering company.
-  * **Service Type**: Select the type of catering service required (e.g. Buffet, Plated Service, etc.).
-  * **Total Catering Cost**: Enter the total cost for the catering service.
-  * **Cost Per Person**: Enter the cost per person.
-  * **Is budget available for this event?**: Select whether budget is available for this event.
-  * **Budget Code**: Enter the cost center or account code for the budget.
-  * **Approval Status**: Select the approval status for this request.
-  * **Approval Comments**: Enter any comments or reasons for the approval status.
-  * **Approver Name**: Enter the name of the person approving or reviewing this request.
-  * **Approval Date**: Enter the date of approval.
-
-Please note that some fields may not be required, but they are all important for the approval process.
-</thinking>
-
 # Catering Service Approval Form - Help Guide
 ## Purpose
 The Catering Service Approval Form is used to request approval for catering services for events. This form is divided into three sections: Request Details, Event Information, and Approval Decision.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for attendees to provide feedback on their experience at the Club Feroviar Conference. The goal is to gather information on the attendees' satisfaction with different aspects of the event, such as content, speakers, and organization. The form should not be used for self-promotion or marketing purposes. If you have already filled out this form in the past, you may not need to do so again, as the feedback provided will be aggregated and used to improve future events. 
-</thinking>
-
 # Club Feroviar Conference Feedback - Help Guide
 ## Purpose
 

@@ -1,20 +1,3 @@
-<thinking>
-The Leadership Skills Training Feedback Form is used to gather feedback from participants on the leadership skills training program. This form is intended for participants to provide an honest and constructive assessment of the training program's effectiveness, the trainers' performance, and their overall experience.
-
-Before completing the form, please ensure that you have attended the leadership skills training program and have the necessary information to provide feedback on the session participation, overall effectiveness, future planning, leadership development, training content, trainer's performance, and other aspects of the program.
-
-If you have already submitted feedback, please do not repeat the same feedback. Your input is valuable, and we want to hear about your genuine thoughts and suggestions.
-
-Please fill out the form accurately and completely, providing as much detail as possible. If you're unsure about any of the fields, you can contact the training team for clarification.
-
-To complete this form, follow these steps:
-
-1. Select the relevant rating or choice for each field, based on your experience with the training program.
-2. Type any additional comments or suggestions in the 'Feedback' and 'Suggestions' fields.
-3. Enter your contact information, including your name, email, phone number, and any other relevant details.
-
-The fields are explained below, along with any additional guidance or tips to help you complete the form accurately.</thinking>
-
 # Leadership Skills Training Feedback Form - Help Guide
 ## Purpose
 

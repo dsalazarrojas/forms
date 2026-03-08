@@ -1,7 +1,3 @@
-<thinking>
-The "super_bowl_questionnaire" form is used to gather feedback and information from users who have attended a Super Bowl event. The form is designed to be completed by attendees to provide insight into their experience, preferences, and demographics. It is not meant for staff or internal use, and users should only access this form if they have attended the event and wish to provide feedback.
-</thinking>
-
 # super_bowl_questionnaire - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Trade Fair Application Form - Help Guide
 
 ## Purpose

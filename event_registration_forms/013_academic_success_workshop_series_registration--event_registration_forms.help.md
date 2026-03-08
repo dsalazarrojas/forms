@@ -1,12 +1,3 @@
-<thinking>
-To ensure the form is correctly filled out and to verify the intent behind the form fields, we first need to confirm the purpose and scope of this form.
-
-The "Academic Success Workshop Series Registration" form is meant to collect information from students regarding their registration for workshops aimed at promoting academic success. This form should serve as a guide for students to provide accurate and necessary details for their registration.
-
-We will go through each field carefully to ensure that the explanations are clear and concise, and that we cover all the required fields and options.
-
-</thinking>
-
 # Academic Success Workshop Series Registration - Help Guide
 ## Purpose
 The "Academic Success Workshop Series Registration" form is designed to collect information from students who wish to register for workshops aimed at promoting academic success. This form is used to gather relevant details about the registrant, such as name, email, ID number, year of study, preferred workshop format, and other relevant information.

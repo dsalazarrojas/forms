@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from participants of events, conferences, or meetings. It aims to gather information about the event's organization and execution from the participant's perspective. The form should only be filled out by actual participants, as it asks about their experiences and ratings of the event.
-
-It is crucial to ensure that participants are not submitting multiple forms for the same event. This form is intended to be a one-time submission, and multiple submissions from the same participant will be considered duplicates. If a participant is unsure or has already submitted a form for a specific event, they should not fill out this form again.
-
-</thinking>
-
 # Global Forum Participation Survey - Help Guide
 ## Purpose
 

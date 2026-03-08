@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect data from educators on their performance, evaluation, and review. It is designed to be completed by teachers to provide valuable information on their teaching abilities, student engagement, and areas for improvement. However, please note that the form's structure and content may not perfectly align with your institution's specific needs or policies. It's recommended to review and potentially modify the form to suit your organization's requirements.
-</thinking>
-
 # Evaluation Teacher Data Form - Help Guide
 ## Purpose
 This form is designed to collect data from teachers on their performance, evaluation, and review. It is essential to have this data to understand teacher strengths, areas for improvement, and overall effectiveness in the classroom.

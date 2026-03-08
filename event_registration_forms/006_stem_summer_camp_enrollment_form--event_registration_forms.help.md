@@ -1,12 +1,3 @@
-<thinking>
-Internal reasoning: The "Stem Summer Camp Enrollment Form" is designed to collect information from parents or guardians to register their child(ren) for a summer camp program. This form is intended to be used by families who are interested in enrolling their camper(s) in the summer camp. To ensure accurate and complete data collection, please review each field carefully and answer truthfully. If you have any concerns or questions, please reach out to our staff.
-
-Before starting, please note that this form is for informational purposes only and should be completed in one sitting. You can save and come back later if you need to, but incomplete submissions will be flagged and require re-submission. Also, be aware that some fields may be required and others are optional but highly recommended for a successful experience at the camp.
-
-Also, please note that you can select multiple options in the "Payment Method", "Special Dietary Needs", "Medical Conditions", and "Payment Method 2" fields.
-
-</thinking>
-
 # Stem Summer Camp Enrollment Form - Help Guide
 
 ## Purpose

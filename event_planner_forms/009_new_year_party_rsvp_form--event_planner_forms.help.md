@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect RSVPs for a New Year's party. The purpose of this form is to gather information from guests about their attendance and any guests they plan to bring. This will help the party host know how many people to expect and make necessary arrangements. The form fields are designed to be straightforward and easy to understand. This should cover all necessary information for guests who are attending, not attending, or maybe attending. However, if there are any questions or concerns, please contact the host directly.
-</thinking>
-
 # New Year Party RSVP Form - Help Guide
 ## Purpose
 This form is a New Year's party RSVP form designed to collect information from guests about their attendance and guests they plan to bring.

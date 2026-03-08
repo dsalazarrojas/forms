@@ -1,7 +1,3 @@
-<thinking>
-The form is meant to gather information from martial arts students for event registration purposes. This form should only be used for students who have already been accepted into a martial arts testing program. The form is likely to be used in a controlled, secure environment where only authorized personnel have access to the data collected. The form is not intended for general public use or sensitive data collection. The form fields are designed to be filled out by the students, and their responses will be reviewed and processed by the event organizers.
-</thinking>
-
 # Martial Arts Testing Payment Form - Help Guide
 ## Purpose
 This form is used for students to provide necessary information for event registration and payment.

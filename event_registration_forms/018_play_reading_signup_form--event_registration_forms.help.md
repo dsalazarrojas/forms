@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to sign up for a play reading event. It collects information about the user's availability and roles they can participate in. To ensure the form is filled out correctly, please make sure to fill out all required fields and review the form carefully before submission.
-</thinking>
-
 # Play Reading Signup Form - Help Guide
 ## Purpose
 The Play Reading Signup Form is designed to collect information about participants' availability and roles for a play reading event. This form helps us determine the best fit for each role and ensures that we have an accurate headcount for the event.

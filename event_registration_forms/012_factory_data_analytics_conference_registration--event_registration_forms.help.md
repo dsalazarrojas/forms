@@ -1,19 +1,3 @@
-<thinking>
-The purpose of this form is to register attendees for the Factory Data Analytics Conference. This form will collect information about each attendee, including their name, email address, phone number, and preferences for sessions and topics. The form will also ask for consent to agree to the terms and conditions of the conference. 
-
-This form is part of the registration process for the conference. It's designed to gather necessary information from attendees to provide a smooth experience for them during the event. 
-
-To prevent duplication of effort, this form will only be used for the registration process and will not be used for any other purpose. 
-
-This form is intended for attendees of the Factory Data Analytics Conference, and the information collected will be used for the sole purpose of providing them with relevant information and services related to the conference. 
-
-Please note that the form will be used for internal purposes only and the data collected will not be shared with any third party. 
-
-The fields in this form will be used to create a record of each attendee. 
-
-Please ensure that the fields are filled in correctly and accurately, as the information will be used to provide personalized services to each attendee. 
-</thinking>
-
 # Factory Data Analytics Conference Registration - Help Guide
 ## Purpose
 This form is designed to register attendees for the Factory Data Analytics Conference. It collects information about each attendee to provide a smooth experience during the event.

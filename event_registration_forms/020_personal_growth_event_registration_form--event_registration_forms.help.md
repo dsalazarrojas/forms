@@ -1,12 +1,3 @@
-<thinking>
-This help guide will cover the Personal Growth Event Registration Form, which is a form designed to collect information from individuals participating in events related to personal growth. The form has five text input fields, each representing a distinct section of the registration process. The form's primary purpose is to gather essential details from attendees, which will aid in organizing and managing the event efficiently.
-
-Before proceeding, please verify that you are registering for an event that aligns with the form's purpose and not for duplicate or unrelated purposes. This will ensure that the information collected is accurate and relevant to the event organizers.
-
-To avoid any confusion, each field has been designed with clear labels and descriptions to guide users through the registration process. The following sections will outline each field, its purpose, and the expected input.
-
-</thinking>
-
 # Personal Growth Event Registration Form - Help Guide
 
 ## Purpose

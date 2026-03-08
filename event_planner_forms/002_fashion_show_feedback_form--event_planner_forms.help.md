@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect feedback from fashion show attendees, exhibitors, or staff. This form will help the event organizers understand what worked and what didn't, allowing them to improve future events. The form is not affiliated with any form platform and is an original adaptation of publicly available survey data. You are free to use, modify, and even sell forms derived from this one, just give credit where credit is due. The form is released under CC BY 4.0, allowing for sharing and modification.</thinking>
-
 # Fashion Show Feedback Form - Help Guide
 ## Purpose
 The Fashion Show Feedback Form is designed to gather information from attendees, exhibitors, or staff about their experiences and opinions on the fashion show. This feedback will help the event organizers make data-driven decisions to improve future events.

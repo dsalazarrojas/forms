@@ -1,13 +1,3 @@
-<thinking>
-This help guide is for the Employee Retention Program Evaluation Form, which is used to gather feedback and opinions from employees on the company's employee retention programs. The form is designed to identify areas of improvement and provide a clear picture of the effectiveness of the programs.
-
-To create a comprehensive evaluation, please ensure that you have filled out all relevant fields. If any field is left blank or marked "N/A", it may lead to an incomplete evaluation.
-
-This form is split into several pages, each with its own set of fields. Please navigate through the pages in order to complete the form thoroughly.
-
-Before filling out this form, please review the fields below to understand their purpose and required information.
-</thinking>
-
 # Employee Retention Program Evaluation Form - Help Guide
 ## Purpose
 The Employee Retention Program Evaluation Form is designed to gather feedback and opinions from employees on the company's employee retention programs. This form helps identify areas of improvement and provides a clear picture of the effectiveness of the programs.

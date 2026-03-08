@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect information about a delivery service nomination, which is a process to recognize and reward exceptional delivery services that have exceeded expectations. This form is intended to gather detailed insights about the service's strengths, such as speed, reliability, and customer support, as well as any notable experiences or reasons why a service is being nominated. The form is designed to be completed by users who want to nominate a delivery service and provide specific examples and justifications for their nomination.
-
-Before starting, please ensure that you haven't already nominated this service in the past. Duplicates can be deleted or merged at our discretion.
-</thinking>
-
 # Best Delivery Service Nomination Form - Help Guide
 ## Purpose
 

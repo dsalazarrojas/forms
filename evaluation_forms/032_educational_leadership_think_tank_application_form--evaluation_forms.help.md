@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect applications from potential participants in an Educational Leadership Think Tank. The think tank is a collaborative platform for educational leaders to share knowledge, ideas, and best practices. The purpose of this form is to gather relevant information from applicants to ensure they are a good fit for the think tank and to facilitate the selection process. Before starting, please ensure you have not already submitted an application for this think tank. If you have any questions or concerns, feel free to reach out to us at form@gic.mx.
-</thinking>
-
 # Educational Leadership Think Tank Application Form - Help Guide
 ## Purpose
 The Educational Leadership Think Tank Application Form is a tool used to collect applications from potential participants in the think tank. This guide will walk you through the form and explain each section in detail.

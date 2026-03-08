@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Seaside Creative Studio Booking Form - Help Guide
 ## Purpose
 The Seaside Creative Studio Booking Form is intended to gather information about your booking request for a session at the Seaside Creative Studio. This form is used to provide us with the necessary details to accommodate your needs and ensure that we have the required resources available during your session. By filling out this form, you will be able to reserve a time slot that suits you best and our team will be able to prepare for your session accordingly.

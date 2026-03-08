@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect session proposal information from presenters for the Abfe Empower Philanthropy Conference. This form will help the conference organizers evaluate proposals and select sessions for the conference program. It's essential to complete this form accurately and thoroughly to ensure that your session proposal is considered for inclusion in the conference.
-
-Before completing this form, please ensure that you have not previously submitted a similar session proposal, as duplicates will not be accepted.
-
-</thinking>
-
 # Abfe Empower Philanthropy Call For Session Proposals 2016 - Help Guide
 ## Purpose
 ## How To Complete This Form

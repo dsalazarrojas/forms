@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # voice-over-recording-reservation-form - Help Guide
 
 ## Purpose

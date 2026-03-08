@@ -1,11 +1,3 @@
-<thinking>
-The internal reasoning process involves checking that the form is being used for the correct purpose and not duplicated.
-This form is to evaluate the performance of an organist (a music organist, typically an organ player). 
-To confirm, the form should only be filled out for an organist's performance and not for other evaluations. 
-If the evaluation is already complete, no need to fill out the form again. 
-If there's a need to re-evaluate, make sure the changes from the previous evaluation are significant enough to warrant the re-evaluation.
-</thinking>
-
 # Organist Evaluation Request Form - Help Guide
 
 ## Purpose

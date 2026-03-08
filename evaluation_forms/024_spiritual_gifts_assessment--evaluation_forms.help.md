@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to help individuals assess their spiritual experiences and gifts. It's a self-reflection tool used to explore personal experiences that might indicate which spiritual gifts one is most and least likely to have. The form asks questions about various experiences related to spiritual growth, guidance, comfort, and empowerment. It's not a test or evaluation, but rather a personal exploration to help individuals gain insight into their spiritual gifts and abilities.
-
-Before filling out this form, make sure you have enough time to answer each question thoughtfully and honestly. You can complete this form at your own pace, and you can take a break if needed. If you have any questions or need clarification on a particular question, feel free to ask for help.
-
-Please note that this form is not a replacement for professional spiritual guidance or counseling. If you're seeking guidance or support, please reach out to a trusted spiritual advisor or professional counselor.
-
-</thinking>
-
 # Spiritual Gifts Assessment - Help Guide
 ## Purpose
 

@@ -1,12 +1,3 @@
-<thinking>
-This form is part of a larger system for registering participants in empowerment movements. It is designed to collect information from participants, including their contact details and preferences. This form should only be filled out by participants who have been officially invited or have been assigned to attend. To fill out this form correctly, please make sure you have the necessary permissions from your supervisor or coordinator.
-
-This form has several fields that require different types of input. Please make sure to fill out each field as instructed and according to your needs.
-
-Before starting, please note that some fields are optional and some are required. The required fields are marked with a asterisk (\*) symbol. Please make sure to fill out all required fields before submitting the form.
-
-</thinking>
-
 # empowerment_movement_registration_form - Help Guide
 ## Purpose
 The Empowerment Movement Registration Form is used to register participants in empowerment movements. This form gathers information from participants, including their contact details and preferences.

@@ -1,9 +1,3 @@
-<thinking>
-To begin with, the form is designed to collect information for booking tickets for the F1 Grand Prix event. The purpose of this form is to gather essential details from the users, including ticket preferences, attendee information, accessibility needs, payment methods, and event-related details. This form aims to streamline the ticket-booking process, ensuring that all relevant information is collected in a clear and concise manner. It's essential to go through each field carefully to provide accurate and complete input, as it will directly impact the booking process.
-
-To avoid any confusion, please ensure you are only booking for the correct event and that all required information is provided. If you're unsure about any particular field, you can refer to the field-by-field explanations below.
-</thinking>
-
 # F1 Grand Prix Ticket Booking - Help Guide
 ## Purpose
 

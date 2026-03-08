@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from clients on the effectiveness of the advisory service provided by the company. The form is designed to measure client satisfaction, identify outcomes and impacts, and gather information on future needs and expectations. Before completing this form, please ensure you have a clear understanding of the service provided and are able to provide honest feedback.
-
-</thinking>
-
 # Strategic Advisory Outcome Survey - Help Guide
 
 ## Purpose

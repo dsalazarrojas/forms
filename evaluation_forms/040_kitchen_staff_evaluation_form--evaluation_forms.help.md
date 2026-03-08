@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # kitchen_staff_evaluation_form - Help Guide
 ## Purpose
 This form is designed to collect feedback and evaluation from kitchen staff about their work environment, management, and performance. It is intended for use by kitchen staff to provide their honest assessment of their workplace, helping kitchen management make data-driven decisions to improve kitchen operations. 

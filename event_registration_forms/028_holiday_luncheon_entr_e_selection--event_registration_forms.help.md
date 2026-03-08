@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from guests who are attending a holiday luncheon. The form is designed to be completed by guests to provide their details and preferences, including their entrée choice and dietary restrictions. This form is likely used by event coordinators or organizers to gather necessary information for the holiday luncheon event.
-
-This form is not a survey form, so it's not intended to collect data for research purposes. The fields are not complex and are mainly focused on collecting basic information from guests. It is likely that the form will be used by a small group or organization, given the limited number of fields and the fact that most fields are not required.
-
-Before using this form, make sure it's relevant to your use case. If you have a large event or multiple events, consider using a more comprehensive form. This form is a good starting point for simple events or small gatherings.
-
-</thinking>
-
 # Holiday Luncheon Entrée Selection - Help Guide
 ## Purpose
 

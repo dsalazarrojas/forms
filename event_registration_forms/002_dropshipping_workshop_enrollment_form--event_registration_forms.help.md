@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals interested in enrolling in a dropshipping workshop. This form is used to gather relevant details from potential attendees, such as their name, contact information, and experience level with dropshipping. The form is also used to collect information about their availability for the workshop, including the date and time they can attend.
-We should check that this form is being used for a valid purpose and not being duplicated unnecessarily. For instance, we should verify that the workshop has not been held previously and that the form is not being used for a similar workshop.
-</thinking>
-
 # dropshipping_workshop_enrollment_form - Help Guide
 
 ## Purpose

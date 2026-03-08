@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback on the Jazz Brunch Experience event. This form is designed to be completed by attendees to provide their opinions and comments about the event. The goal is to help organizers understand what worked well and what didn't, and to improve future events.
-</thinking>
 # Jazz Brunch Experience Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on the Jazz Brunch Experience event.

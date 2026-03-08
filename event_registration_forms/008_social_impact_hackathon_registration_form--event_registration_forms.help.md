@@ -1,16 +1,3 @@
-<thinking>
-This form is meant for registering attendees for the Social Impact Hackathon, a virtual event that aims to bring together individuals from diverse backgrounds to work on projects that create positive social impact. 
-
-To ensure accurate and complete data, please review this guide carefully and fill in all required fields. This form is designed to gather essential information about attendees, their preferences, and event details. 
-
-Before completing the form, make sure you have all necessary details and are aware of the event schedule. If you need help or clarification, don't hesitate to reach out to the organizers.
-
-Before filling out this form, please ensure you have all the necessary information to complete it accurately. The form is divided into several sections, each with a specific purpose. This guide will walk you through each field to help you complete it successfully.
-
-This guide applies to all attendees who need to register for the Social Impact Hackathon.
-
-</thinking>
-
 # Social Impact Hackathon Registration Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from attendees for the Social Impact Hackathon. It helps us understand who is attending, their preferences, and event details. Please fill in all required fields to ensure accurate and complete data.

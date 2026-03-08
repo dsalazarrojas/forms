@@ -1,20 +1,3 @@
-<thinking>
-The purpose of this form is for attendees to RSVP for a corporate awards ceremony. It is essential to use this form to collect information about the event and attendee details to ensure an accurate headcount and to track RSVPs efficiently.
-
-To prevent duplicate entries, ensure you only submit the form once. If you have already registered for the event, you should not fill out the form again.
-
-The form is designed to collect information in multiple pages, each with its own set of fields. This guide will walk you through each page and field, explaining what you need to do and why.
-
-This form is designed to be filled out online or offline, and it's best to submit the form once you have all the necessary information ready.
-
-This form is intended for attendees of the corporate awards ceremony. It is not meant for staff members or organizers of the event.
-
-The information collected through this form will be used to manage event attendance and provide insights to the organizers and attendees.
-
-Please take a moment to read this guide to understand each field and fill out the form accurately.
-
-</thinking>
-
 # Corporate Awards Ceremony RSVP Form - Help Guide
 ## Purpose
 The Corporate Awards Ceremony RSVP Form is designed to gather essential information from attendees to help the event organizers plan and execute the ceremony smoothly. This form is used to confirm attendance, collect contact details, and gather feedback from attendees.

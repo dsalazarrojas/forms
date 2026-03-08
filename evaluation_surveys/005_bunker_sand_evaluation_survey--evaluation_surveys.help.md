@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Bunker Sand Evaluation Survey - Help Guide
 
 ## Purpose

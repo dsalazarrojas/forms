@@ -1,27 +1,3 @@
-<thinking>
-This form is used by users to register for a class or workshop, with the goal of creating a session for a udon-making class. This form likely exists within an organization or business that offers cooking classes, workshops, or courses. The form is intended for instructors to register their classes, specifying details about the session, such as the date, time, capacity, and fees.
-
-To ensure consistency and efficiency in the form's completion, we should ensure that users understand its purpose and how to fill it out correctly.
-
-Before creating this guide, I've reviewed the form schema and considered the following fields and their respective labels:
-- **Session Date**: The date for the class session.
-- **Session Time**: The time for the class session.
-- **Instructor Name**: The name of the instructor leading the class.
-- **Class Name**: The name of the class or workshop.
-- **Session Start Time**: The desired start time for the class session.
-- **Session End Time**: The desired end time for the class session.
-- **Class Capacity**: The maximum number of attendees the class can hold.
-- **Instructor Email**: The email address of the instructor.
-- **Instructor Phone**: The phone number of the instructor.
-- **Class Enrollment**: A select-one field to specify the type of class enrollment (though this could be considered redundant with other fields).
-- **Registration Fee**: The fee charged to attendees for registration.
-- **Session Fee Label**: A text field to describe the registration fee label or description.
-- **Instructor Fee**: The fee charged to the instructor for the class.
-
-This guide will help users understand the form's purpose, how to complete it, and what each field represents.
-
-</thinking>
-
 # udon_making_class_registration - Help Guide
 ## Purpose
 This form is used to register for a udon-making class or workshop. Fill out this form to create a new session with your chosen instructor and class details.

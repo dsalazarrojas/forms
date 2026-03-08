@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Post Christmas Party Survey - Help Guide
 
 ## Purpose

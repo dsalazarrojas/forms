@@ -1,7 +1,3 @@
-<thinking>
-The form "group_evaluate_form" is designed to gather feedback and input from users regarding the performance of their group. It is intended to be used during or after an evaluation process, and is meant to aid in providing a comprehensive review of the group's overall performance. Before proceeding, ensure that the form is not being duplicated or used for any other purpose other than its intended use. 
-</thinking>
-
 # group_evaluate_form - Help Guide
 ## Purpose
 The "group_evaluate_form" is a form used to gather input from users on their group's performance, allowing for a thorough review of the group's overall standing.

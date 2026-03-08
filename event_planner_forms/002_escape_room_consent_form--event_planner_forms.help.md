@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to obtain the necessary consent from students and their guardians before participating in an escape room event. The form will be used to collect information about the student's name, team size, team name, parent/guardian name, and permission status. This form will help the event organizers to ensure that the students have the necessary permission to participate in the escape room event.
-The form consists of several pages, but all the fields are located on the same page for simplicity. Each page will be explained in detail below.
-</thinking>
-
 # Escape Room Consent Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information and permissions from students and their guardians before participating in the escape room event.

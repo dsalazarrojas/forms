@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from users interested in attending the Dream Life Workshop. The purpose of the form is to collect user contact details and workshop preferences in order to better understand their interest and provide relevant information about the event. This form is not a part of any official event registration system and is solely for internal use. 
-
-</thinking>
-
 # Dream Life Workshop Registration - Help Guide
 
 ## Purpose

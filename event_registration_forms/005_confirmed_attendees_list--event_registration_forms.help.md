@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about attendees that have been confirmed to attend an event. It's meant to be filled out by event staff or organizers after verifying the attendance of each participant. The form is structured to collect relevant details such as event specifics, attendee contact information, dietary needs, accessibility requirements, and other relevant details to ensure a smooth and enjoyable experience for all attendees. The form should only be completed for attendees who have already been confirmed to attend, and not for those who are still pending or have not been confirmed. It's essential to fill out the form accurately and thoroughly to provide the best possible experience for the attendees.
-</thinking>
-
 # Confirmed Attendees List - Help Guide
 ## Purpose
 The "Confirmed Attendees List" form is used to collect and store information about attendees that have already been confirmed to attend an event. This form helps event staff and organizers to gather essential details about each attendee, ensuring a smooth and enjoyable experience for everyone.

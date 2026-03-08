@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for attendees to RSVP to the Annual Fund Drive Kickoff event. The purpose of this form is to collect information about the attendees, including their contact details, dietary preferences, and other relevant details to ensure a smooth and enjoyable experience for all attendees. The form is intended to be completed by attendees of the event, and the information collected will be used for event planning and coordination purposes.
-</thinking>
-
 # Annual Fund Drive Kickoff RSVP - Help Guide
 ## Purpose
 This form is used to RSVP to the Annual Fund Drive Kickoff event. Please provide your details to ensure a smooth and enjoyable experience for all attendees.

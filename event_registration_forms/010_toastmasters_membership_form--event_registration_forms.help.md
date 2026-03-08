@@ -1,7 +1,3 @@
-<thinking>
-The Toastmasters Membership Form is designed for users to register for events or membership within the Toastmasters organization. This form is not intended for general public usage and is likely meant for internal purposes, such as for event registration or membership management. It is likely that the form is meant to be filled out by existing or potential members within the Toastmasters community. 
-</thinking>
-
 # Toastmasters Membership Form - Help Guide
 ## Purpose
 

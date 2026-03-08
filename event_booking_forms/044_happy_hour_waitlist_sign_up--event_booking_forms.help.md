@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate the creation of a waitlist for Happy Hour, a popular event. The purpose of this form is to gather necessary details from customers who wish to join the waitlist. This form is intended for internal use, so only relevant information is required. Please ensure you only fill out this form if you are interested in joining the Happy Hour waitlist. Note that some fields may be optional, but please fill out all required fields for a successful submission.
-</thinking>
-
 # Happy Hour Waitlist Sign-up - Help Guide
 
 ## Purpose

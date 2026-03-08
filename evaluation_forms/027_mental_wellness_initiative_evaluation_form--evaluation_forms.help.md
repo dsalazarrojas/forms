@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for users who need to complete the "Mental Wellness Initiative Evaluation Form" to evaluate their mental wellness. Before starting, please ensure that you are eligible to complete this form and that it is not a duplicate evaluation. The form is designed to collect relevant information about your mental wellness status and experiences, and your input will help us better understand your specific needs and provide more effective support.
-</thinking>
-
 # Mental Wellness Initiative Evaluation Form - Help Guide
 ## Purpose
 The Mental Wellness Initiative Evaluation Form is a comprehensive form designed to gather information about your mental wellness status, experiences, and preferences. This form will help us better understand your specific needs and provide more effective support.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for attendees of the Renewable Energy Manufacturing Conference to register for the event. Registration details will be used to provide personalized experience and support during the conference. Please ensure that you fill in the form accurately and honestly, as this information will be used to tailor the conference to your needs.
-</thinking>
-
 # Renewable Energy Manufacturing Conference Registration - Help Guide
 ## Purpose
 The Renewable Energy Manufacturing Conference Registration form is for attendees to provide personal details and preferences to enhance their experience. This form helps us understand your needs and tailor the conference accordingly.

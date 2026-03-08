@@ -1,5 +1,3 @@
-<thinking>This form is designed for users to confirm their participation in a live demo session. It is meant for both participants and organizers to ensure that all necessary information is collected and confirmed before the session starts. The form is divided into several sections: Session Details, Participant Details, Confirmation, and Follow-up Information. The fields in this form are meant to provide a structured way of collecting relevant information from participants.</thinking>
-
 # Live Demo Session Confirmation Form - Help Guide
 ## Purpose
 This form is used to confirm participants' participation in a live demo session. It's essential to fill out this form accurately and thoroughly to ensure a smooth and successful session.

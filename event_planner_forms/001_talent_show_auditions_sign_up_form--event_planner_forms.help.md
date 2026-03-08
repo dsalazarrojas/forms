@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to help performers sign up for the talent show auditions. The form gathers information from the performer, including their contact details, event information, and talent type. This form will likely be used by performers who are interested in showcasing their talents in a specific talent show event. The purpose of this form is to collect relevant data for the event organizers to manage the auditions process effectively.
-
-Before filling out this form, please make sure you have not already registered for the talent show auditions. If you have any issues or concerns, you can contact the event organizers directly.
-
-</thinking>
-
 # Talent Show Auditions Sign Up Form - Help Guide
 ## Purpose
 This form is designed to help performers sign up for the talent show auditions.

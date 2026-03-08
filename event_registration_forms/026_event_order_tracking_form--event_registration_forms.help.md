@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to track and monitor event orders in an organization. It's used to capture information about attendees' details, payment status, and other relevant details associated with the event order. The form is divided into several sections that help ensure accurate and efficient tracking. To ensure data consistency, it's crucial to review the form's fields and instructions before proceeding. Make sure to provide accurate and up-to-date information to prevent errors during the tracking process.
-
-</thinking>
-
 # Event Order Tracking Form - Help Guide
 ## Purpose
 The Event Order Tracking Form is used to monitor and track event orders, capturing important details about attendees, payments, and other relevant information.

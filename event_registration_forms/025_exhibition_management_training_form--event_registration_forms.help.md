@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide that outlines the purpose, completion instructions, and field explanations for the "exhibition_management_training_form" form. The form is designed to collect information about events, participants, and training sessions. It appears to be a comprehensive form with multiple sections and fields for various types of data.</thinking>
-
 # exhibition_management_training_form - Help Guide
 ## Purpose
 The "Exhibition Management Training Form" is a tool used to collect and manage information about training sessions, participants, and events. This form is essential for event organizers to track and manage participant data, session details, and event specifics.

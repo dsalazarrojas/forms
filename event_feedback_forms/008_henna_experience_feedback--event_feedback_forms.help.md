@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from clients about their experience with an event. The form will be used to assess the quality of service provided by the artist and the event itself. Please ensure that you have completed any necessary event evaluation forms before providing feedback. Additionally, please do not submit duplicate feedback, as this can lead to inconsistent data and skew the results of our analysis.
-</thinking>
-
 # Henna Experience Feedback - Help Guide
 ## Purpose
 This form is designed to gather feedback from clients about their experience with an event hosted by our artists. Your input will help us to evaluate the quality of service provided and identify areas for improvement.

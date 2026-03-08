@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is designed to collect suggestions for sharing sessions from users. This form is meant to be filled out by users who want to suggest topics to be shared in a session. The form is divided into different pages, and users can fill out each page according to the provided fields.
 
 </thinking>

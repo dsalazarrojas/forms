@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from users who are interested in purchasing tickets for an online event. The form's purpose is to gather relevant details about the user's purchase and attendee information, allowing event organizers to better understand their audience and manage ticket sales effectively. This form is intended for event planners and organizers to collect data that will help them tailor their online event to the interests and needs of their attendees.
-
-</thinking>
-
 # online_ticket_purchase_form - Help Guide
 ## Purpose
 This form is designed to collect information from users who are interested in purchasing tickets for an online event.

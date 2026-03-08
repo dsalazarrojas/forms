@@ -1,10 +1,3 @@
-<thinking> 
-  We will be creating a help guide for the "Industry Expo Best Project Voting Form". 
-  This guide will aim to be concise and practical while explaining each field and how to complete the form.
-  Each field will be explained in simple terms, avoiding technical jargon and assuming the user is not familiar with the topic.
-  The guide will follow the provided YAML schema, focusing on the labels and hints given.
-</thinking>
-
 # Industry Expo Best Project Voting Form - Help Guide
 ## Purpose
 This form is used to collect ratings and feedback for projects showcased at the Industry Expo. The form is designed to be completed by attendees to rate and provide feedback on each project they visited.

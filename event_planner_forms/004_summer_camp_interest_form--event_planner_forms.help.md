@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals or groups interested in attending a summer camp event. The form is not affiliated with any form platforms and is an original adaptation created using public survey topic metadata. It's meant to be used for gathering interests and registrations for a summer camp activity. Please ensure that the form is being used for its intended purpose and not for any other use cases. Also, please be aware that the form's purpose might overlap or be similar to other forms, so please double-check that you're using the correct form for your specific needs. If you're unsure, contact form@gic.mx for further clarification or support.
-</thinking>
-
 # Summer Camp Interest Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals or groups interested in attending a summer camp event.

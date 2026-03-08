@@ -1,7 +1,3 @@
-<thinking>
-We should verify that the form's purpose is to collect event information for photo booths, which are likely to be booked for events such as parties, conferences, or weddings. We should also check that this form doesn't duplicate any existing forms in the system, and that all required fields are clearly defined for the end-users.
-</thinking>
-
 # Photobooth Events Booking Form - Help Guide
 ## Purpose
 The Photobooth Events Booking Form is designed to collect information for photo booth events, such as parties, conferences, or weddings. This form will help you create and manage your event's booking details, including event title, date, time, and contact information.

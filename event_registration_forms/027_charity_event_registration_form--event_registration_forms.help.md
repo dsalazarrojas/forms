@@ -1,11 +1,3 @@
-<thinking>
-This form is intended for individuals to register for charity events. It collects essential information such as name, contact details, event-related information, and preferences. The form is divided into several sections, each with specific fields that cater to different aspects of event registration. This guide will walk you through the purpose and usage of each field to ensure a smooth registration process.
-
-To confirm that this form is being used for its intended purpose and to prevent duplication, please note that only event registration information should be provided in this form. Other purposes, such as event hosting or general contact forms, should use different forms to avoid confusion. 
-
-The form consists of the following sections: Event Details, Registration Information, Payment and Donation, and Additional Questions. Each section and field are described below to assist in filling out the form accurately and efficiently.
-</thinking>
-
 # Charity Event Registration Form - Help Guide
 ## Purpose
 This form is for individuals to register for charity events. It is essential to fill in all required fields to ensure proper registration and event arrangements.

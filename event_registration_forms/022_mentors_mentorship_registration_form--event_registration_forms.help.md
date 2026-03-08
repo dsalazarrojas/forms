@@ -1,5 +1,3 @@
-<thinking>Before you can register for a mentorship, you must first decide if you are interested in participating in a mentorship program. This form is meant to gather information about the mentors who are interested in being part of a mentorship program. If you are a mentor looking to be part of a mentorship program, please fill out this form to let us know your availability and preferences.</thinking>
-
 # Mentors Mentorship Registration Form - Help Guide
 ## Purpose
 This guide will walk you through the process of filling out the Mentors Mentorship Registration Form, which is used to collect information about potential mentors interested in participating in a mentorship program.

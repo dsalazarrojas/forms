@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is for users to register for special education training programs offered by the organization. This form helps users to select the training program they are interested in, provide their contact information, and make a payment selection. The form is designed to be user-friendly and straightforward, ensuring that users can easily navigate through it to submit their registrations.
-
-The form has multiple sections with various fields, each with its own specific purpose. To complete this form, follow the instructions below.
-
-</thinking>
-
 # Special Education Training Registration Form - Help Guide
 ## Purpose
 This form is used to register for special education training programs. It collects information from users to process their registrations and payment details.

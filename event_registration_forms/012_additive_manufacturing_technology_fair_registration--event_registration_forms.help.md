@@ -1,5 +1,3 @@
-<thinking>Form purpose is to collect information about attendees to the Additive Manufacturing Technology Fair. This form is intended for registration of attendees. The form is required to be filled out by all attendees to provide their personal details, professional interests, and preferences about the event.</thinking>
-
 # Additive Manufacturing Technology Fair Registration - Help Guide
 ## Purpose
 This help guide is intended to assist you in completing the Additive Manufacturing Technology Fair Registration form. The form collects information necessary for the event organizers to manage attendance, networking, and communication with attendees.

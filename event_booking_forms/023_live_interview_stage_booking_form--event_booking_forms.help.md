@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Live Interview Stage Booking Form - Help Guide
 
 ## Purpose

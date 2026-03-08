@@ -1,9 +1,3 @@
-<thinking>
-Before diving into the form help guide, let's break down the form's purpose and internal logic. The "share_your_special_moments" form seems to be designed for users to share their personal stories, experiences, or testimonies, along with various supporting media (photos, videos, audio, or links). It's likely that this form is for a community or event registration process where users are asked to share their experiences or stories related to a specific event or occasion. 
-To create a helpful guide, let's ensure we cover all the fields and provide clear explanations without making any assumptions about the business logic or rules.
-
-</thinking>
-
 # share_your_special_moments - Help Guide
 ## Purpose
 This form is designed for sharing personal stories, experiences, and testimonials about a specific event or occasion. Please fill in the required fields to help create a meaningful and engaging story.

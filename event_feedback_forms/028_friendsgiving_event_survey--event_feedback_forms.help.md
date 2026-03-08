@@ -1,7 +1,3 @@
-<thinking>
-The "Friendsgiving Event Survey" is designed to collect feedback and ratings from attendees of an event to help improve future events. The form is meant to be completed by people who have attended the event, and it should not be filled out by people who did not attend. This ensures that the feedback and ratings collected are relevant and valuable for the organizers.
-</thinking>
-
 # Friendsgiving Event Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and ratings from attendees of an event, helping event organizers to understand what worked well and what can be improved for future events.

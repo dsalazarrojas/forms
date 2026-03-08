@@ -1,14 +1,3 @@
-<thinking>
-This form is designed for independent artists seeking support for their tours. The form is intended for artists who are looking to receive funding, promotion, or other forms of support for their artistic endeavors. To fill out this form, artists should have a clear understanding of their tour goals and be prepared to provide detailed information about themselves and their work. This form will help us gauge the artist's suitability for support and ensure that their application is processed efficiently and effectively.
-
-Before filling out this form, please note that:
-
-*   Only one submission per artist is accepted. Repeated submissions will not be processed.
-*   Incomplete or inaccurate submissions will be reviewed on a case-by-case basis and may be returned to the artist for completion.
-*   By submitting this form, the artist acknowledges that their work will be reviewed in accordance with our selection criteria.
-
-</thinking>
-
 # Independent Artist Tour Support Application Form - Help Guide
 ## Purpose
 

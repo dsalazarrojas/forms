@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to assess the vehicle design style of a vehicle. The goal is to evaluate how well the design fits with the brand identity, overall feel and emotion, and aesthetic and emotional appeal. This form will help in assessing the overall style and design compatibility of the vehicle. It also assesses the vehicle's overall sustainability, futurability, cuteness, and emotionality. This form is intended to be completed by designers, engineers, and other stakeholders to help in the design process. It is also useful to check for duplication or redundancy in the design.
-
-</thinking>
-
 # vehicle_design_style_evaluation - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-The Event Venue Communication Form is used for communicating event details to event organizers. This form is used for collecting and organizing event data in a structured and easy-to-read format. This form should not be filled out if you are trying to book or manage an event, as it's intended for communication purposes only. Please ensure that this form is not filled out multiple times for the same event. If you need to book or manage an event, please use the Event Booking Form instead.
-</thinking>
-
 # Event Venue Communication Form - Help Guide
 ## Purpose
 This form is used to collect and organize event details for communication purposes only. It is not intended for event booking or management.

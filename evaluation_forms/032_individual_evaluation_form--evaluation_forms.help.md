@@ -1,10 +1,3 @@
-<thinking>
-The form's purpose is to evaluate individual employees, capturing their name, position, performance rating, areas of improvement, comments, and status. The form will be used by managers to document employee evaluations, ensuring accurate and comprehensive assessments. Ensure this form is not duplicated, as it's essential for evaluating employees to avoid misplacement of information.
-
-This guide is designed to be used by end-users to understand the form's purpose, complete it accurately, and gain clarity on each field's significance.
-
-</thinking>
-
 # Individual Evaluation Form - Help Guide
 ## Purpose
 The individual evaluation form is a tool used by managers to evaluate employees' performance, identify areas for improvement, and document feedback. This form ensures consistency and accuracy in the evaluation process.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Webinar setup checklist - Help Guide
 ## Purpose
 This form is a setup checklist for webinars, used to collect important information about the event details. Fill out this form carefully to ensure you have all the necessary details for a successful webinar.

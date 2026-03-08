@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form, "post_action_assessment_survey", is likely to collect feedback or assessment results after an event, gathering information from event participants about their experience, attendance, and possibly other related topics. This form is likely used by event organizers or administrators to evaluate events and make informed decisions for future events. Before completing this form, ensure that you are in a context where providing this feedback makes sense and that you have not already submitted similar feedback.
-
-</thinking>
-
 # post_action_assessment_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback after an event, gathering information on participant experience, attendance, and other relevant aspects of the event.

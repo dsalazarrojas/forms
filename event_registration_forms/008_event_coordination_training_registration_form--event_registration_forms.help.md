@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be completed by individuals who want to register for Event Coordination Training. The form captures basic contact information (Participant Name, Email, and Phone) and selects which training sessions the participant wants to enroll in.
-</thinking>
-
 # Event Coordination Training Registration Form - Help Guide
 ## Purpose
 This form is designed to gather participant information and session preferences for Event Coordination Training.

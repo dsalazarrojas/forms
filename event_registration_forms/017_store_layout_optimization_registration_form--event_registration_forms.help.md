@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # store_layout_optimization_registration_form - Help Guide
 ## Purpose
 This form is used to register participants for store layout optimization events. It requires minimal information from participants, such as their name, email, phone number, and location. This form is essential for event organization and management purposes.

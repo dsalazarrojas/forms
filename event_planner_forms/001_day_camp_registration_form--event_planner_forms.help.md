@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from parents or guardians about their child's registration for a day camp. The form is intended to be filled out by the individual responsible for the child's care, typically a parent or guardian. The form collects various personal and contact information, medical conditions, and other relevant details about the camper. It's essential to complete this form accurately to ensure the camper's safety and proper care during the camp.
-
-Before proceeding, please verify that you are the authorized representative of the child, and that the information provided is accurate and up-to-date.
-
-This form should only be filled out by one person per camper. If you need to register multiple campers, please fill out a separate form for each child.
-</thinking>
-
 # Day Camp Registration Form - Help Guide
 ## Purpose
 The Day Camp Registration Form is designed to collect essential information from parents or guardians about their child's registration for a day camp program. This form helps us ensure the camper's safety and proper care during the camp.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to create a virtual event invitation. To determine if this form is relevant to the user, let's assume that the user is someone who needs to create a virtual event invitation for a meeting, conference, or other type of event that requires online attendance. The form is likely used in a business or educational setting where events are regularly held.
-
-This form is designed to collect information that is essential for organizing a virtual event, including event details, invitees' contact information, and submission details such as appointment date and time.
-
-To avoid duplication of effort, it's recommended that users familiarize themselves with this form before proceeding to ensure that they are collecting all the necessary information to create a successful virtual event invitation.
-
-</thinking>
-
 # Virtual Event Invitation Form - Help Guide
 ## Purpose
 This form is used to create a virtual event invitation. It's designed to collect essential information for organizing a virtual event, including event details, invitees' contact information, and submission details.

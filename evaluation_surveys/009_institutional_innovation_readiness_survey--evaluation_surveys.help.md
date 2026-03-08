@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to evaluate the institutional readiness of an organization to innovate, assess its capacity to foster an innovation culture, and gauge its preparedness for implementing new ideas. Before proceeding, please ensure that you are in the right context and not duplicating this evaluation for the same purpose. The form has various sections, each focusing on different aspects of innovation readiness. 
-Please note that some fields may have dependencies on other fields, so ensure that you are providing the most accurate and complete information.
-</thinking>
-
 # Institutional Innovation Readiness Survey - Help Guide
 ## Purpose
 The purpose of this survey is to evaluate the institutional readiness of your organization to innovate, assess its capacity to foster an innovation culture, and gauge its preparedness for implementing new ideas.

@@ -1,18 +1,3 @@
-<thinking>
-
-This form is used for registering swimmers for the Swimming Club Tournament. The purpose of this form is to collect information about the swimmers, including their name, contact information, swim club, parent/ coach information, and event information. The form consists of multiple pages, but only one page is currently filled with fields. To ensure that each swimmer has a unique entry, please ensure that each swimmer's details are entered separately. You will not be able to submit duplicate entries for the same swimmer.
-
-The form collects the following information:
-* Swimmer details (Name, Email, etc.)
-* Swim club
-* Parent/Coach details
-* Event information (Event name, Date, Time)
-* Additional comments
-
-Please make sure to fill out each field accurately and completely.
-
-</thinking>
-
 # Swimming Club Tournament Entry Form - Help Guide
 ## Purpose
 The purpose of this form is to register swimmers for the Swimming Club Tournament.

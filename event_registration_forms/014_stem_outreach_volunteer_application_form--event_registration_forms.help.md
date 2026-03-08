@@ -1,12 +1,3 @@
-<thinking>
-To ensure we don't create an application form that's too complicated or redundant, let's clarify the purpose and requirements of the STEM Outreach Volunteer Application Form. 
-
-The form is designed for individuals who wish to participate in the STEM Outreach program, which aims to promote scientific, technological, and mathematical literacy in local communities. The form gathers personal details, volunteering experience, availability, and other relevant information to facilitate the volunteer's involvement in the program. To avoid duplication of effort, we will make sure that users only access this form for the purposes of volunteering, and other applications will be directed to different forms. 
-
-Given the simplicity of the form, there are no apparent areas of redundancy or overlap. We can move ahead with creating the help guide. 
-
-</thinking>
-
 # STEM Outreach Volunteer Application Form - Help Guide
 ## Purpose
 The STEM Outreach Volunteer Application Form is designed to gather information from individuals who want to volunteer for the STEM Outreach program. This program aims to promote scientific, technological, and mathematical literacy in local communities.

@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect feedback and evaluation results on the administrative areas within an organization. The form likely aims to monitor and assess the cleanliness, functionality, and other aspects of these areas to identify potential issues and provide suggestions for improvement. This form will likely be used by facility managers, supervisors, or other stakeholders to assess the administrative areas and provide a report on the evaluation results. It is essential to ensure that this form is filled out accurately and completely to provide valuable insights and recommendations for improvement.
-</thinking>
-
 # Administrative Area Evaluation - Help Guide
 ## Purpose
 This form is designed to evaluate the administrative areas within the organization, providing feedback and suggestions for improvement. The evaluation results will help identify areas that need attention and contribute to creating a safer and more functional work environment.

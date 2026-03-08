@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for this form, which seems to be used for registering participants for sports analytics training sessions. This form likely aims to collect information about the participant's details, such as their name, email, phone number, and training-related information. Before proceeding, let's ensure this form is not redundant or obsolete, and that its purpose is still valid in our current context. We'll review the provided YAML fields and create a concise guide for end users.
-</thinking>
-
 # Sports Analytics Training Registration - Help Guide
 ## Purpose
 This form is used to register participants for sports analytics training sessions. It helps collect essential information about each participant, including their name, contact details, and training specifics.

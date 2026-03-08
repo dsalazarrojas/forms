@@ -1,15 +1,3 @@
-<thinking>
-This form is likely used to collect event registration information from attendees. Before creating this guide, ensure that the form is correctly configured to capture the necessary data and that the fields are properly labeled.
-
-Please check the following:
-
-* The event name and details are correctly filled out.
-* The attendee's name and contact information are accurate and complete.
-* The date and time fields are correctly formatted.
-
-Please note that the fields are not required, so some of the fields can be left blank if not necessary.
-</thinking>
-
 # Urban Redevelopment Forum Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect registration information from individuals attending events, conferences, or meetings. This includes event name, attendee's name and contact information.

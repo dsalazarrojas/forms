@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # guest_entry_wristband_request_form - Help Guide
 
 ## Purpose

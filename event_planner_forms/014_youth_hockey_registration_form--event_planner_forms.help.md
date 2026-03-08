@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect registration information and contact details from youth hockey players, as well as their preferred payment method and team selection. The form is designed to be completed by parents or guardians on behalf of the youth hockey players. This form will ensure that players are registered correctly and that their information is up-to-date. Please make sure that you are not already registered and have not already completed this form before proceeding.
-</thinking>
-
 # youth_hockey_registration_form - Help Guide
 ## Purpose
 The youth_hockey_registration_form is a form designed to collect registration information and contact details from youth hockey players, ensuring accurate and up-to-date records for the league or organization.

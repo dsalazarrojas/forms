@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect nominations for various awards in an organization or department. The purpose of this form is to gather information about the nominee's achievements, qualifications, and impact on the organization or community. The form will be used to evaluate and recognize individuals who have demonstrated exceptional qualities and contributions. Please ensure that you are submitting a genuine nomination and not repeating an existing one. This form is intended for internal use within your organization or department, and the submitted information will be reviewed by relevant authorities for evaluation and consideration. 
-</thinking>
-
 # Awards Nomination 1 Responsive - Help Guide
 ## Purpose
 This form is designed to collect nominations for various awards in an organization or department. The purpose of this form is to gather information about the nominee's achievements, qualifications, and impact on the organization or community.

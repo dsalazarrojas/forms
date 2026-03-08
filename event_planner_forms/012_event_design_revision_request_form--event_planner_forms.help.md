@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from clients and stakeholders regarding event design revisions. It will be used to collect feedback, suggestions, and comments on the event design, allowing event planners and organizers to make informed decisions and improve the overall event experience. Before proceeding, please ensure that the form has not been completed previously for the same event and client, as this could lead to confusion and redundancy in the feedback process. 
-</thinking>
-
 # event_design_revision_request_form - Help Guide
 ## Purpose
 This form is intended to collect feedback, suggestions, and comments from clients and stakeholders on event design revisions. It will help event planners and organizers make informed decisions to enhance the overall event experience.

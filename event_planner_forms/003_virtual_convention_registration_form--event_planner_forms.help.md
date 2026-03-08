@@ -1,7 +1,3 @@
-<thinking>
-The "Virtual Convention Registration Form" is a form designed to collect information from attendees for a virtual convention. This form is intended to gather details such as name, email, phone number, country, city, attendee type, and other relevant information to ensure a smooth and organized event experience. It's crucial to fill out this form accurately to ensure that your attendance and preferences are correctly recorded. Please note that this form is only meant for convention attendees and not for speakers, sponsors, or other non-attendee categories. If you're unsure about any of the categories or fields, please refer to the convention's event category for clarification.
-</thinking>
-
 # Virtual Convention Registration Form - Help Guide
 
 ## Purpose

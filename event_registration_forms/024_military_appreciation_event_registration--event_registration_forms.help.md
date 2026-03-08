@@ -1,15 +1,3 @@
-<thinking>
-This is an AI-generated form for Military Appreciation Event registration, designed to collect information from users who want to participate in such events. The form is divided into five sections, each collecting specific details from the user. The purpose of this form is to streamline the registration process and gather necessary information from guests attending military appreciation events. 
-
-The event host and details section will collect the host's name and event description, while the guest details section will gather information about the guests. The planning preferences section is optional, but provides an opportunity for guests to specify their preferences for event planning. The registration type section is a select one option that allows guests to indicate whether they are registering to participate or observe the event.
-
-This form is not intended to be a comprehensive resource for military events, but rather a starting point for event organizers to collect information and manage registrations. It is not affiliated with, endorsed by, or derived from any form platform and can be freely used and modified. 
-
-Please note that the form is a text-based form, meaning that most fields are open-text fields where users can provide detailed information. This form is designed to be completed by guests registering for an event, and the provided fields are intended to collect the necessary information for event management.
-
-This form will not collect any sensitive or confidential information, and all fields are optional unless specified as required.
-</thinking>
-
 # Military Appreciation Event Registration - Help Guide
 ## Purpose
 This form is designed to collect information from guests registering for military appreciation events. It is a text-based form with five sections, each collecting specific details from the user.

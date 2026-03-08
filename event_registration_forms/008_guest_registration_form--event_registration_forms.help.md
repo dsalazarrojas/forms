@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, my goal is to create a user-facing help guide that explains the purpose and usage of the guest registration form. This guide will cover the form's purpose, how to complete it, and a field-by-field explanation of each field. The form, titled "guest-registration-form," is designed to collect information from guests registering for an event. Its purpose is to gather essential details such as names, contact information, and accommodation preferences.</thinking>
-
 # guest-registration-form - Help Guide
 ## Purpose
 The guest-registration-form is designed to collect information from guests attending an event. This form helps us understand their preferences and needs, ensuring we provide them with the best possible experience.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Event Fee Structure Survey - Help Guide
 
 ## Purpose

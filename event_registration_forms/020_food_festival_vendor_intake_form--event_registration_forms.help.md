@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for food vendors to provide information about their products and payment details for the Food Festival. The purpose of this form is to ensure that vendors have all the necessary details for their products and payment information correctly filled out before attending the festival. This form should only be filled out by food vendors who are confirmed to participate in the festival. If you have already filled out this form, please do not fill it out again. If you are unsure about any part of this form, please contact the festival organizers.
-
-</thinking>
-
 # Food Festival Vendor Intake Form - Help Guide
 ## Purpose
 

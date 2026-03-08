@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my primary goal is to create a user-friendly help guide that explains the purpose, instructions, and field-by-field explanations for the "Science Fair Judging Form". This form is designed to collect feedback and evaluations from judges for science fair projects. To ensure accuracy and relevance, I'll review the form's YAML fields to ensure that I cover all required and non-required fields. This guide will be concrete, concise, and practical, explaining each field in a way that's easy to understand for end-users.</thinking>
-
 # Science Fair Judging Form - Help Guide
 ## Purpose
 The Science Fair Judging Form is designed for science fair judges to evaluate and provide feedback on science fair projects. This form helps judges to record their thoughts, impressions, and scores for each project, ensuring that their evaluations are thorough and consistent.

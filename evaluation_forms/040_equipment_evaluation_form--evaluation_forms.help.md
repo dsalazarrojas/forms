@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Here's the final help document in Markdown:
 # Equipment Evaluation Form - Help Guide
 ## Purpose

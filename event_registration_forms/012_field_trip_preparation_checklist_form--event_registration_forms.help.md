@@ -1,10 +1,3 @@
-<thinking>
-The purpose of the Field Trip Preparation Checklist Form is to gather essential information to ensure a smooth and safe field trip experience for all participants. This form is used to collect data on various aspects of the trip, including school approval, safety protocols, transportation, accommodations, emergency contacts, field trip permissions, food and supplies, medical care, insurance, first aid kits, field trips, weather, and additional information. This form is likely used in an educational setting to prepare for a field trip, which may involve students, teachers, or staff.
-
-Before creating this help guide, let's review the form fields to ensure this form is not a duplicate and that the information it collects is not already covered by another form. From the provided YAML, it appears that this form collects information that is specific to field trip preparation and is not a generic form.
-
-</thinking>
-
 # Field Trip Preparation Checklist Form - Help Guide
 ## Purpose
 The Field Trip Preparation Checklist Form is used to collect essential information to ensure a smooth and safe field trip experience.

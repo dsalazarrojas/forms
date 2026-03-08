@@ -1,19 +1,3 @@
-<thinking>
-The purpose of this form, "Black Friday Checklist," is to gather crucial information for planning and executing a successful Black Friday event. This form is likely used by event planners to document essential details such as event dates, target budgets, promotional channels, and staffing requirements. The goal is to ensure that all necessary information is collected in one place, facilitating efficient planning and decision-making.
-
-The following is a step-by-step guide on how to complete this form:
-
-1.  **Event Details**: Begin by providing the event date and the name of the store or website where the event will take place. This information is critical for scheduling and logistical purposes.
-2.  **Target Budget**: If you have a target budget for the promotions, enter it here in USD.
-3.  **Priority Items to Acquire**: List the top items you aim to secure during the event.
-4.  **Early Entry Plan**: Indicate if you are offering early entry to customers.
-5.  **Promotional Channels**: Choose the channels you plan to use for promotional activities such as email, social media, paid ads, SMS, and in-store promotions.
-6.  **Staffing Notes**: Provide details on the number of staff and their shift plans.
-7.  **Packing List**: List the essential items to bring on the day of the event.
-8.  **Contingency Plan**: Summarize your backup plans in case of any unexpected situations during the event.
-
-</thinking>
-
 # Black Friday Checklist - Help Guide
 ## Purpose
 The Black Friday Checklist form is designed to aid event planners in collecting essential details for the successful execution of a Black Friday event. It covers critical aspects such as event details, target budget, promotional channels, and contingency planning.

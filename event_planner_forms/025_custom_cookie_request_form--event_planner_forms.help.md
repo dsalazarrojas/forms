@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist end-users in understanding the Custom Cookie Request Form's purpose and how to complete it correctly. This form is designed to collect information about custom cookies requests from users. Before proceeding, please ensure you are not duplicating a request. A cookie is a small text file stored on the user's browser that stores information about the user's interactions with this website. This form should only be used for users who have not made a cookie request in the past 30 days. 
-</thinking>
-
 # Custom Cookie Request Form - Help Guide
 ## Purpose
 

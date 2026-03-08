@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering attendees to the HR Technology Adoption Roundtable event. Please ensure that the event name is accurate, and only one registration per attendee is submitted. If you're unsure about the form purpose or fields, review the event description or ask your HR representative for clarification.
-</thinking>
-
 # HR Technology Adoption Roundtable Registration - Help Guide
 ## Purpose
 This form is for registering attendees to the HR Technology Adoption Roundtable event. It's essential to provide accurate information to ensure a smooth registration process.

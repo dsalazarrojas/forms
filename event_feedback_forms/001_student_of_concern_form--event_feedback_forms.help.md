@@ -1,7 +1,3 @@
-<thinking>
-This form is used by university staff to report any concerns or incidents involving students that require support or intervention. The form helps staff to gather information about the incident, including the student's name, the date of the incident, the type of event or incident, the location, and any support provided or required. This information is used to ensure that students receive the necessary support and resources to help them succeed in their academic and personal lives. Please note that this form should only be completed for incidents that have not already been reported or documented in other forms or systems.
-</thinking>
-
 # Student Of Concern Form - Help Guide
 ## Purpose
 The Student Of Concern Form is used to report incidents or concerns involving students, allowing staff to provide timely and effective support to students in need.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Program Survey - Help Guide
 ## Purpose
 

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from guests attending a baby shower. The form purpose is to gather details about the guest's attendance, preferences, and contact information. This form will likely be distributed to guests in printed or digital format, and will help the host of the baby shower organize and prepare for the event. It's assumed that the host has already selected a date and time for the baby shower. 
-
-The form fields are self-explanatory and follow a logical sequence: guests are first asked about their name, then about their attending status, number of guests, dietary restrictions, and if they want the gift registry links. Contact information like email and phone number are also included for updates. The last field is for a personal message for the parents-to-be.
-</thinking>
-
 # Baby Shower Invitation Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from guests attending a baby shower. It's used to gather details about their attendance, preferences, and contact information.

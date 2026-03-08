@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect event registration information from potential attendees for a hiring event. The purpose of this form is to gather relevant data about the event, company profile, workforce, and business plans from interested individuals. 
-
-This form will be filled out by event attendees who want to participate in the hiring event. They will need to provide information about the event, their company, and their business plans to be considered. The form is not affiliated with any form creation or survey platform, and its content is original and released under a Creative Commons license.
-
-</thinking>
-
 # hiring_event_registration_form - Help Guide
 ## Purpose
 This form is designed to collect event registration information from potential attendees for a hiring event. The purpose of this form is to gather relevant data about the event, company profile, workforce, and business plans from interested individuals.

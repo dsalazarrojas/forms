@@ -1,7 +1,3 @@
-<thinking>
-To avoid redundancy and ensure the form is completed accurately, please check that you have not registered for this event before and that the information you provide is accurate and up-to-date. This form is for individuals seeking a cane for mobility assistance. Please fill it out carefully to ensure you receive the correct cane for your needs.
-</thinking>
-
 # Cane Giveaway Registration - Help Guide
 ## Purpose
 The Cane Giveaway Registration form is designed to collect information from individuals seeking a cane for mobility assistance. By filling out this form, you will help us better understand your needs and provide you with the correct cane for your requirements.

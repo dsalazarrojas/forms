@@ -1,8 +1,3 @@
-<thinking> 
-The form purpose is to allow users to order summer camp boxes that will be delivered to participants. This form is used by event planners to collect information from participants regarding their delivery address, box contents, participant name, email, phone number, and delivery date. This ensures that the correct boxes are delivered to the right participants at the right time. Please ensure that this form is used for the correct purpose and not for any other use. This form is not meant to be filled out by participants directly, but rather by the event planners who will be managing the summer camps.
-
-</thinking>
-
 # Summer Camp Box Order Form - Help Guide
 
 ## Purpose

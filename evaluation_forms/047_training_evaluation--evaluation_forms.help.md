@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to evaluate the effectiveness of a training session, gathering feedback from participants on various aspects of the training, including its overall rating, satisfaction, and comments. The purpose of this form is to help trainers and instructors gauge the quality of the training program, identify areas for improvement, and make data-driven decisions for future trainings.
-
-The form is divided into multiple sections, each focusing on a different aspect of the training evaluation. Some sections are multiple-choice questions, while others are open-ended questions or fields for free-text comments. 
-
-</thinking>
-
 # Training Evaluation - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from participants on the effectiveness of a training session, enabling trainers and instructors to assess the program's quality, identify areas for improvement, and make informed decisions for future trainings.

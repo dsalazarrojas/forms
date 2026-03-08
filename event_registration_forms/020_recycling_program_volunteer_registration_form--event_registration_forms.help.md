@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, let's first understand the form's purpose and how it's used in the context of the recycling program. This form likely helps volunteers to register for a specific recycling event or program. It may also be used to collect information for future reference or to track volunteer activity. Let's ensure the form is not used for other purposes that might conflict with the program's goals or cause confusion among users. By doing so, we'll avoid duplication and maintain the form's relevance.</thinking>
-
 # Recycling Program Volunteer Registration Form - Help Guide
 ## Purpose
 The Recycling Program Volunteer Registration Form is designed to collect information from volunteers who wish to participate in recycling events or programs. This form helps us to manage volunteer registrations and ensures that we have the necessary contact and event details.

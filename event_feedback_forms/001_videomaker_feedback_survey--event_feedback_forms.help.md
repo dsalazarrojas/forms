@@ -1,9 +1,3 @@
-<thinking>
-
-The "Videomaker Feedback Survey" form is designed to collect feedback from event attendees on their experience with Videomaker's services. This form is meant to gather information on specific video production services offered by Videomaker and provide an opportunity for attendees to express their opinions on how these services can be improved. To avoid duplication of feedback, this form should only be filled out by event attendees who have actually used Videomaker's services at the event.
-
-</thinking>
-
 # Videomaker Feedback Survey - Help Guide
 ## Purpose
 The Videomaker Feedback Survey is a tool for event attendees to provide feedback on their experience with Videomaker's video production services. This feedback will help Videomaker to improve its services and better serve its customers in the future.

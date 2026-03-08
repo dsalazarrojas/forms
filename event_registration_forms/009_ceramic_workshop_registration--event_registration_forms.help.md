@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in attending a ceramic workshop. The goal is to gather essential details about the attendee, including their personal preferences, workshop selection, and payment information. The form ensures that attendees understand and agree to the workshop policies, including the cancellation policy, liability waiver, and photography consent. This form is a crucial step in the registration process, allowing us to prepare for the workshop and provide a smooth experience for all participants.
-
-Before starting, please note that this form requires a strong understanding of the workshop's specifics, such as available sessions, dates, and time slots. It's essential to review the form carefully to ensure accurate and informed responses.
-
-To prevent duplicate registrations, please do not submit multiple registrations for the same attendee. If you need to register multiple attendees, please create a new registration for each individual.
-
-</thinking>
-
 # Ceramic Workshop Registration - Help Guide
 ## Purpose
 The Ceramic Workshop Registration form is designed to gather essential information from attendees interested in participating in our ceramic workshops. This information helps us prepare for the workshop and ensure a smooth experience for all participants.

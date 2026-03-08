@@ -1,8 +1,3 @@
-<thinking>
-This form will be used for meeting organizers to collect relevant information from attendees regarding their food requests and other relevant details. The form should be kept concise and only include fields that are necessary for the organizers to provide a smooth and enjoyable experience for all attendees.
-To avoid duplicating effort, meeting organizers and attendees should not be required to fill out unnecessary fields. If a field is not relevant to your needs, it's best to skip it and save time.
-</thinking>
-
 # Meeting Food Request Form - Help Guide
 ## Purpose
 This form helps meeting organizers collect important information from attendees about their food requests and other meeting details.

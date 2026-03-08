@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback from clients or customers about their experience with a portrait photography service. The goal is to understand their overall satisfaction and collect more specific information about their session, such as their favorite image from the session and any other relevant details.
-</thinking>
-
 # Portrait Photography Feedback - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from clients about their experience with our portrait photography service.

@@ -1,19 +1,3 @@
-<thinking>
-The purpose of the "Milestone Celibration Registration" form is to collect information about a specific event or milestone, including details about the event, the guests and host involved, RSVP information, and planning and schedule details.
-
-Upon reviewing the form's properties, I've confirmed that it has 13 fields:
-
-* 5 text fields: `event_details`, `guest_details`, `host_details`, `planning_details`, and `phone`
-* 4 date/time fields: `celebration_date`, `start_time`, `end_time`, and `celebration_date_time`
-* 3 fields with special types: `rsvp` (a select_one field with 40 options, but I'm not sure what these options represent), `rsvp_count` (a number field, likely for RSVP count), and `notes` (a note field)
-
-Given the form's structure and field types, it appears to be used for registering and managing events, possibly for corporate or social events. The fields are likely used to capture details such as event description, guest information, host details, RSVP status, and schedule information.
-
-Before proceeding, I'd like to confirm that there's no duplication or overlap between fields. Upon review, it seems that `celebration_date` and `celebration_date_time` might be redundant, but this could be due to the form's design choices rather than any inherent duplication.
-
-Assuming this form is meant to collect event-specific information, I'll proceed with crafting a user-facing help guide.
-</thinking>
-
 # milestone_celibration_registration - Help Guide
 ## Purpose
 This form is used to register and manage milestones, allowing you to collect information about events and their associated details.

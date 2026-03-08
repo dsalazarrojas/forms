@@ -1,15 +1,3 @@
-<thinking>
-We should first review the provided YAML schema and identify the purpose of the form, which is to collect information for event volunteers. The form is called "marathon_event_volunteer_registration_form" and has several fields for collecting details such as volunteer information, contact information, and event-related data. We need to ensure that the form is completed correctly to prevent duplication or errors.
-
-Here are the steps to follow:
-
-1. Ensure the form is completed by someone who is eligible to be a volunteer.
-2. Fill in all required fields accurately and completely.
-3. Review each field explanation to ensure understanding of the purpose and requirements.
-
-This form collects information for event volunteers and it's crucial to complete it correctly to ensure accurate record-keeping and data collection.
-</thinking>
-
 # marathon_event_volunteer_registration_form - Help Guide
 ## Purpose
 The marathon_event_volunteer_registration_form is used to collect information from potential event volunteers. Please complete the form accurately and completely to ensure that your volunteer information is up-to-date.

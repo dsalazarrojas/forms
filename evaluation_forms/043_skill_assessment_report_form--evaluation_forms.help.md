@@ -1,14 +1,3 @@
-<thinking>
-This form is used to collect feedback and assessments on a specific set of skills from a manager to an employee. The goal is to evaluate the performance of an employee in a particular set of skills over a specific period. This form can be used for regular performance evaluations or progress tracking.
-
-The form is designed to be completed by a manager, and it will collect information about an employee's skills, their performance in those skills, and any relevant notes or comments. The employee ID, manager ID, and evaluation date/time are also collected for reference and tracking purposes.
-
-Before filling out this form, please ensure that you have the correct access permissions and that the form is filled out for the correct employee.
-
-Please note that some fields are optional and can be skipped if not applicable. However, filling out all required fields will provide a more comprehensive assessment and evaluation.
-
-</thinking>
-
 # Skill Assessment Report Form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and assessments on a specific set of skills from a manager to an employee.

@@ -1,10 +1,3 @@
-<thinking>
-This form is used to register for the Hospital Supply Chain Innovation Forum. As such, it's meant for individuals who are interested in attending the event. The form is designed to collect basic contact information, role and organization details, and preferences for the event.
-The form's fields are meant to be used for registration and event planning purposes only. Please make sure to fill out the form accurately and honestly. 
-
-Before submitting, please ensure that you're registering under the correct role and organization. If you're unsure about your role or organization, please contact the event organizers for guidance.
-</thinking>
-
 # hospital_supply_chain_innovation_forum_registration - Help Guide
 ## Purpose
 This form is used to register for the Hospital Supply Chain Innovation Forum. It's designed to collect basic contact information, role and organization details, and preferences for the event.

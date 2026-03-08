@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # event_venue_communication_form - Help Guide
 
 ## Purpose

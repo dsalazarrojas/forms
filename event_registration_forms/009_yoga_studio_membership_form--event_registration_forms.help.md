@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Yoga Studio Membership Form - Help Guide
 ## Purpose
 This form is used to register new members at the Yoga Studio. The goal is to gather essential information from potential members to create a membership account and provide a personalized experience.

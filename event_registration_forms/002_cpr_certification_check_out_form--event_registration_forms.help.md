@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from participants for CPR certification check out purposes. It's essential to understand that this form is for check out purposes only, and it's not intended to be a registration form for new participants. Therefore, please ensure that you've already registered for the course or have an existing account before proceeding with this form. Additionally, the information collected will be used to deliver digital certificates and facilitate payment processing. Please review each field carefully to ensure you're providing the correct information.
-</thinking>
-
 # CPR Certification Check Out Form - Help Guide
 
 ## Purpose

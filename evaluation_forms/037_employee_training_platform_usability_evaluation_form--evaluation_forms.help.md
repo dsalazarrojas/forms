@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Training Platform Usability Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather information from employees about their experience with the Employee Training Platform. The purpose of this form is to evaluate the usability and effectiveness of the platform in meeting the needs of employees.

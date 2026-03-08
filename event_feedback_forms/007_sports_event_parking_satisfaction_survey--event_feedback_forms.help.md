@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users who have attended a sports event. The purpose of the form is to gather information about the user's experience with the parking facilities at the event. This includes questions about whether they attended the event, how they parked their vehicle, where they parked, their satisfaction with the parking, the time they parked, whether they left their vehicle unattended, and which parking facility they used. This form is intended for users who have attended a sports event and have experience with the parking facilities. It is not intended for users who have not attended the event or do not have experience with the parking facilities. 
-
-</thinking>
-
 # Sports Event Parking Satisfaction Survey - Help Guide
 
 ## Purpose

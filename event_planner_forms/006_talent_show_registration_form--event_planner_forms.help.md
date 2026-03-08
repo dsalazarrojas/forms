@@ -1,6 +1,3 @@
-<thinking>
-We need to make sure that the form is used as intended. This form is designed to collect information for a talent show, so we should check that the form is not being used for other purposes, like collecting data for marketing purposes. We should also avoid duplication of effort by not allowing multiple entries from the same performer. This form should only be used by individuals who want to showcase their talent in the talent show.</thinking>
-
 # Talent Show Registration Form - Help Guide
 ## Purpose
 The Talent Show Registration Form is designed to collect information from individuals who want to showcase their talent in the talent show. It helps the event organizers to manage the participants, their performances, and other necessary information.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from parents or guardians about the medical history of a child. The form likely exists to ensure accurate and comprehensive documentation of a child's health status in a clinical or medical context, possibly for diagnostic, treatment, or administrative purposes. This form does not appear to be designed for general public consumption, given its specific focus on medical symptoms and histories. Therefore, it's likely to be used by healthcare professionals or within healthcare institutions. 
-</thinking>
-
 # pediatric_symptom_checklist - Help Guide
 ## Purpose
 The Pediatric Symptom Checklist is a form used to gather information from parents or guardians about the symptoms experienced by a child in a clinical or medical context.

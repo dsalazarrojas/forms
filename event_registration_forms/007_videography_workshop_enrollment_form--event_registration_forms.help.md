@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from participants who are interested in attending a videography workshop. The form is divided into sections that cover participant information, workshop details, and payment and attendance information. To ensure accuracy and completeness of the participant data, this form should only be filled out by authorized personnel. Duplicates should be minimized by verifying participant information and using unique identifiers for each participant.
-
-</thinking>
-
 # Videography Workshop Enrollment Form - Help Guide
 ## Purpose
 The Videography Workshop Enrollment Form is used to collect participant information and workshop details for videography workshops.

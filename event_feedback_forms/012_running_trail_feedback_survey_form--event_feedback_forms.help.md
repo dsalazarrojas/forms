@@ -1,7 +1,3 @@
-<thinking>
-The form is intended for users to provide feedback on running trails, helping event organizers and planners to improve their offerings. The form is structured to collect detailed information about the trail conditions, event, and participant experiences, allowing for informed decision-making. To ensure consistency and accuracy, please fill out the form completely and thoroughly, and avoid duplication of efforts by not submitting feedback for the same event multiple times. If you have additional comments or feedback that don't fit in the provided fields, please use the "Additional Comments" field. Thank you for taking the time to provide your valuable feedback!
-</thinking>
-
 # Running Trail Feedback Survey Form - Help Guide
 ## Purpose
 This form is designed to gather information about your experience on a running trail. Your feedback is crucial in helping event organizers and planners improve their offerings.

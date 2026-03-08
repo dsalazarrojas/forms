@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to assess the management and execution of art events, providing an opportunity for event organizers to reflect on the performance of their events. The form is intended for internal use within the organization, and the information collected will help inform future event planning and decision-making.
-
-The form is structured into several sections: Event Information, Logistics Assessment, Planning and Organization, Event Execution, Outcomes and Impact, and Areas for Improvement. Each section focuses on a different aspect of event management, allowing organizers to provide detailed and specific feedback.
-
-To ensure the accuracy and consistency of data, it is essential to understand the meaning and purpose of each field. Below, you will find a detailed explanation of each field.
-
-</thinking>
-
 # Art Event Management Assessment Form - Help Guide
 
 ## Purpose

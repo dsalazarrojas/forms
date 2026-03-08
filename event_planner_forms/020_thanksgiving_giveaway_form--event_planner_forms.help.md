@@ -1,9 +1,3 @@
-<thinking>... internal reasoning block ...
-
-This form is a simple, user-facing help guide for the "Thanksgiving Giveaway Form", which is likely used to collect information from participants or winners of a Thanksgiving-themed promotion or contest. The form has 9 fields, including name, email, phone number, address, zip code, and three select fields for win possibility, prize type, and winner. To ensure that users understand how to complete the form accurately and without duplication, a clear and concise help guide should be created.
-
-</thinking>
-
 # Thanksgiving Giveaway Form - Help Guide
 ## Purpose
 The Thanksgiving Giveaway Form is used to collect contact and demographic information from participants, such as name, email, phone number, address, and zip code. The form also captures three select fields: win possibility, prize type, and winner. The purpose of this form is to understand who participated in the giveaway and what kind of information can be shared with them regarding the prizes and outcomes.

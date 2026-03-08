@@ -1,7 +1,3 @@
-<thinking>
-This form was created to help individuals or organizations register their awareness of medical AI regulations. The form is designed to collect basic information about the registrant and their contact details. Before proceeding, please ensure that this form is relevant to your specific use case and not a duplication of any other form you may have already used. 
-</thinking>
-
 # Medical AI Regulation Awareness Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information about individuals or organizations registering their awareness of medical AI regulations. It is essential to fill out this form accurately and honestly to ensure that your registration is processed correctly.

@@ -1,11 +1,3 @@
-<thinking>Before creating the help guide, let's review the form's purpose and ensure its relevance. The "Tennis Player Evaluation Form" appears to be designed for assessing a tennis player's skills, strengths, and weaknesses. This form seems to be used by coaches, trainers, or evaluators to provide feedback on a player's performance. To confirm, the form is used for evaluating a tennis player's abilities, but I'd like to clarify the following:
-
-* Is this form intended for players to self-evaluate or for evaluators to assess players?
-* Are there any specific criteria or standards being measured or evaluated in this form?
-* Are there any specific use cases or scenarios where this form would be used (e.g., pre-season, post-season, or during a tournament)?
-
-Please provide more context or clarification on these points, and I'll proceed with creating the help guide.</thinking>
-
 # Tennis Player Evaluation Form - Help Guide
 ## Purpose
 The Tennis Player Evaluation Form is designed for coaches, trainers, or evaluators to assess a tennis player's skills, strengths, and weaknesses. This form helps to provide feedback on a player's performance and identify areas for improvement.

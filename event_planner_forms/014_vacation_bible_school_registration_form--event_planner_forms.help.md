@@ -1,5 +1,3 @@
-<thinking>Forms are often used for data collection, and the Vacation Bible School Registration Form is one such form designed to collect information from users. Its primary purpose is to gather data for the Vacation Bible School event. This form should only be used for registering a single user at a time. Please do not fill out this form multiple times. Ensure all required fields are filled out accurately to avoid any registration issues.</thinking>
-
 # Vacation Bible School Registration Form - Help Guide
 ## Purpose
 The Vacation Bible School Registration Form is used to collect information from users for the purpose of registering them for the Vacation Bible School event. This form should only be used for registering one person at a time.

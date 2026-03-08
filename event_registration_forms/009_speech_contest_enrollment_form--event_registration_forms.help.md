@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a general-purpose speech contest enrollment form. The form is likely used for schools or institutions to enroll speakers for a speech contest. The form is not affiliated with, endorsed by, or derived from any form platform, and it's an original adaptation using public survey topic metadata as inspiration. The purpose of this form is to collect information from speakers and their schools, including speaker name, school contact person, school email, school phone, contest date, and contest time. This form is suitable for general-purpose use and can be modified as needed.
-</thinking>
-
 # Speech Contest Enrollment Form - Help Guide
 ## Purpose
 This form is designed to collect information from speakers and their schools for a speech contest.

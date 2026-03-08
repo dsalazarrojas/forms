@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information related to Panhellenic events, likely for administrative or planning purposes. This form is likely used to gather details about events, such as dates, locations, and themes, to help manage or organize them efficiently.
-Before proceeding, ensure that the information collected is relevant to the event and not duplicated. This form is a general-purpose tool and might not be specific to a particular type of event. If the event is already registered or has been managed through this form, please do not fill out the form again.
-</thinking>
-
 # Panhellenic Information Form - Help Guide
 
 ## Purpose

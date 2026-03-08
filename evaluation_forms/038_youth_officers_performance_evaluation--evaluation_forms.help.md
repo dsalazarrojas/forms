@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to evaluate the performance of youth officers, providing a structured framework for assessing their skills and abilities. The form is used to gather feedback from supervisors and evaluate the performance of youth officers during a specific performance period. The purpose of this form is to ensure that the evaluation process is fair, transparent, and consistent across all youth officers. The form can be completed by supervisors and youth officers, providing an opportunity for feedback and growth.
-
-Please ensure that you are submitting this form for the correct youth officer, performance period, and evaluation cycle. Duplicate or redundant submissions can cause confusion and affect the evaluation results.
-
-</thinking>
-
 # Youth Officers Performance Evaluation - Help Guide
 ## Purpose
 The purpose of this form is to evaluate the performance of youth officers during a specific performance period. This form helps supervisors and youth officers identify areas of strength and areas for improvement, providing a basis for development and growth.

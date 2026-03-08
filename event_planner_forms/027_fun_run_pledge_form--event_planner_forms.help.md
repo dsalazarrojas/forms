@@ -1,7 +1,3 @@
-<thinking>
-This form is for pledging support or making a donation to a fun run event. To ensure accurate and efficient processing of your pledge, please provide all required information. Please note that some fields are optional and can be filled out at your discretion. This form is designed to collect participant and pledge information, as well as donor details if you are making a pledge on behalf of someone else.
-</thinking>
-
 # Fun Run Pledge Form - Help Guide
 ## Purpose
 This form is designed to collect participant and pledge information for a fun run event, as well as donor details if you are making a pledge on behalf of someone else.

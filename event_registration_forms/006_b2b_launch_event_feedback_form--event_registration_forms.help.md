@@ -1,7 +1,3 @@
-<thinking>
-We will create a help guide for the "B2B Launch Event Feedback Form" to assist users in understanding the form's purpose, how to complete it, and what each field means. This form is designed to gather feedback from attendees of the B2B Launch Event, which will help event organizers understand the attendee's experience and make improvements for future events. The form is not intended for internal use only, so we will ensure that the help guide is clear and concise for both internal and external users.
-</thinking>
-
 # B2B Launch Event Feedback Form - Help Guide
 ## Purpose
 The "B2B Launch Event Feedback Form" is designed to gather feedback from attendees of the B2B Launch Event. Your input is valuable to help us understand your experience and make improvements for future events.

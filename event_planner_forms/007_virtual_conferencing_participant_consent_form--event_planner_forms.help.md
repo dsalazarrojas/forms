@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect information and consent from participants in a virtual conferencing event. It's designed to capture essential details and preferences of the attendees, making sure everyone involved is on the same page. Before filling this form, please ensure that you're not already enrolled in a similar form for the same event, as duplicate entries might cause unnecessary confusion. This form is an original adaptation of public survey topic metadata and is released under CC BY 4.0, allowing you to use, modify, and even sell forms derived from it, just give credit.
-
-</thinking>
-
 # Virtual Conferencing Participant Consent Form - Help Guide
 ## Purpose
 This form is designed to collect participant information and consent for a virtual conferencing event.

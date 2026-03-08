@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about a patient's fit test results for a respirator. It is likely used to evaluate how well a respirator fits a patient, taking into account various factors such as the patient's gender, size, height, and weight, as well as the type and size of the respirator being tested. To avoid duplication of effort, please ensure that you have not completed this form previously and that the information you provide is accurate and up-to-date.
-</thinking>
-
 # Qualitative Fit Test Form - Help Guide
 ## Purpose
 The Qualitative Fit Test Form is designed to collect data on the fit test results of patients for respirators, allowing for assessment and improvement of the fit and usability of the respirator.

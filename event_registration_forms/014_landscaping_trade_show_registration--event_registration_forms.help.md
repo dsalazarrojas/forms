@@ -1,18 +1,3 @@
-<thinking>
-We are creating a help guide for the "Landscaping Trade Show Registration" form. This form is designed to collect information from exhibitors and attendees participating in a trade show related to landscaping. The form will be used to gather data on exhibitor and attendee details such as company, contact person, email, phone, booth details, and attendee information like name, email, phone, and attendance status. The form is divided into different sections for easy navigation and completion.
-
-This form will be used to collect data for internal purposes and will not be shared or published publicly. The information collected will be used for event planning and management. We want to ensure that end-users understand the form's purpose and how to complete it accurately.
-
-The form consists of the following fields:
-
-* Exhibitor details such as company, contact person, email, phone, and booth details.
-* Attendee details such as name, email, phone, attendance status, and time of attendance.
-
-Before starting the form, please make sure you have all the required information ready. 
-
-Please ensure that you enter accurate and up-to-date information in the form fields.
-</thinking>
-
 # Landscaping Trade Show Registration - Help Guide
 ## Purpose
 The Landscaping Trade Show Registration form is used to collect information from exhibitors and attendees for event planning and management purposes.

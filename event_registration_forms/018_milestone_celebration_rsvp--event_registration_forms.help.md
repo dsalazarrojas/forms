@@ -1,13 +1,3 @@
-<thinking>
-
-This form is for registering your attendance to a Milestone Celebration event. It will ask for your details and preferences to help us prepare for the celebration. Please ensure that the form is completed accurately, especially if you're planning to attend.
-
-Before proceeding, check if you've already registered for the same event in the past. If you have any doubts, please contact the organiser.
-
-To avoid any technical issues, ensure your browser has cookies enabled and that you're filling out the form in a modern browser.
-
-</thinking>
-
 # Milestone Celebration RSVP - Help Guide
 
 ## Purpose

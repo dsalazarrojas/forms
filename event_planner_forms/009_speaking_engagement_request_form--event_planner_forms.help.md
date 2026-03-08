@@ -1,7 +1,3 @@
-<thinking>
-This form was created using AI to collect information for a speaking engagement. To ensure relevance and non-duplication, please read this guide carefully before filling out the form. The form is designed to collect details about upcoming events that require a speaker. If you've submitted a similar form recently, please review the guide to understand the changes and updates.
-</thinking>
-
 # speaking_engagement_request_form - Help Guide
 ## Purpose
 This form is designed to collect information about speaking engagements, such as events, conferences, and meetups. It helps the organizing team to prepare and assign the necessary resources for the event.

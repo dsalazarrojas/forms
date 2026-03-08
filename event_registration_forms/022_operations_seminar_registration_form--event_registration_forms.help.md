@@ -1,7 +1,3 @@
-<thinking>
-This form is used for participants to register for an Operations Seminar. The purpose of this form is to collect necessary information from participants for the event.
-</thinking>
-
 # Operations Seminar Registration Form - Help Guide
 ## Purpose
 The Operations Seminar Registration Form is used to collect information from participants for the Operations Seminar event. This form is used to ensure that all necessary information is collected and processed correctly.

@@ -1,9 +1,3 @@
-<thinking>
-
-To create a help guide that effectively communicates the purpose and usage of the Thanksgiving Song Request form, we'll need to understand the context and requirements for its completion. Based on the provided YAML, this form appears to be a tool for users to submit their song requests for a Thanksgiving celebration or event. It collects various information about the song, including title, artist, genre, lyrics, and other specifics like tempo and theme. Additionally, it captures details such as email and phone numbers, possibly for follow-up or contact purposes. The form seems to be designed for user convenience and flexibility, allowing for multiple optional fields for specific song attributes and categories.
-
-</thinking>
-
 # Thanksgiving Song Request - Help Guide
 ## Purpose
 This form is designed for users to submit their song requests for a Thanksgiving celebration or event. It allows users to provide detailed information about the song they want to be played, including title, artist, genre, and other specific attributes.

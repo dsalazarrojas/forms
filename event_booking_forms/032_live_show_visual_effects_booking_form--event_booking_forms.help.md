@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning: This form is designed for booking live shows and allows event organizers to provide information about the event name, event date, production equipment, special effects, stage layout, contact details (name, email, phone), and venue. This form is likely intended for use by event planners or production teams, but the purpose and usage context are not explicitly stated, so further research or clarification is required. It is unclear what exactly is being booked or produced (e.g., a concert, play, etc.), and what specific "live show" this form pertains to.
-</thinking>
-
 # Live Show Visual Effects Booking Form - Help Guide
 ## Purpose
 

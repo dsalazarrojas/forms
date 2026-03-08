@@ -1,5 +1,3 @@
-<thinking>...The form is meant to provide an assessment of an online course instructor's performance. The evaluation is based on the instructor's communication and engagement. The form asks for the instructor's name, course ID, a numerical rating of the instructor's performance, and comments regarding the instruction. The form can be completed by any user, regardless of whether or not they have taken the course. This form aims to capture the overall experience of the user with the instructor... </thinking>
-
 # Online Instructors Mini Evaluation Form - Help Guide
 ## Purpose
 The Online Instructors Mini Evaluation Form is designed to gather feedback on the performance of online course instructors. This feedback helps to identify strengths and weaknesses of instructors and aids in the improvement of their teaching methods and communication skills.

@@ -1,10 +1,3 @@
-<thinking>
-The form "ประกObservation And Input Survey" is designed to collect information from observers on their observations and inputs. It is likely used in a work setting, such as a hospital, school, or office, to gather feedback or data from staff, students, or colleagues. This form may be used to monitor progress, evaluate performance, or gather data for research purposes.
-
-This form may not be specific to a particular industry, company, or organization, and its structure does not imply any affiliation or partnership with any form platforms. The form's metadata suggests that it was created using AI-generated content, which is a neutral and automated process, and is not endorsed by any external entity.
-
-</thinking>
-
 # ประกObservation And Input Survey - Help Guide
 ## Purpose
 This form is designed to collect information from observers on their observations and inputs.

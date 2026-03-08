@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the IV Hydration Therapy Enrollment Form, a comprehensive form for collecting patient information and treatment details. Please ensure that you are using this form for its intended purpose and that you have obtained the necessary approvals and consents from patients or their representatives before collecting and using the data collected through this form.
-</thinking>
-
 # IV Hydration Therapy Enrollment Form - Help Guide
 ## Purpose
 The IV Hydration Therapy Enrollment Form is designed to gather information from patients or their representatives regarding their medical history, treatment details, and other relevant data. This form will help medical professionals and caregivers to assess the patient's condition, identify potential risks, and develop a personalized treatment plan.

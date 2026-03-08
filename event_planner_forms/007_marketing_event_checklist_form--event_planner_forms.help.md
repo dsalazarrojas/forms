@@ -1,5 +1,3 @@
-<thinking>... This form is intended for marketing event planners to organize their thoughts and tasks before and after the event. It captures essential information such as event planning tasks, resources, schedule, budget, and status. This is a checklist-style form, making it easy for planners to ensure they haven't forgotten anything important. The form can be completed in sections, and some fields are optional, allowing the planner to focus on the most critical information. This form is likely to be used by marketing teams or event coordinators to streamline their workflow and improve the overall event management process. I'm not aware of any duplicate or related forms that would influence the content or structure of this form.</thinking>
-
 # Marketing Event Checklist Form - Help Guide
 ## Purpose
 This form is designed to help marketing event planners organize their tasks, resources, and schedule to ensure a successful event.

@@ -1,10 +1,3 @@
-<thinking>
-This help guide is designed to assist users in completing the "Ice Show Interest Form" accurately and efficiently. To ensure relevance, the form is intended for event planners and organizers to collect information about upcoming ice shows, including event title, date, time, type, and other relevant details. 
-
-The non-duplication check is to prevent accidental submissions with duplicate values in required fields, such as event title or event type, which may lead to confusion or errors in processing these forms.
-
-</thinking>
-
 # Ice Show Interest Form - Help Guide
 ## Purpose
 The Ice Show Interest Form is designed for event planners and organizers to collect information about upcoming ice shows. It includes fields for event title, date, time, type, event location, organizer, and other relevant details.

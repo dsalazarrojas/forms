@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Government Summit Registration Form - Help Guide
 ## Purpose
 The Government Summit Registration Form is a form designed for participants to register for the Government Summit. The form collects information about the participant, their submission, and their contact details.

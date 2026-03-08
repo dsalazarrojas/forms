@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure that our team members understand the purpose and use case of this form to avoid duplication of effort and ensure consistency in data collection. This form is designed to register participants for a retail AR experience testing session, which is crucial for evaluating the quality and effectiveness of our augmented reality technology in real-world scenarios. The form should only be submitted once a participant has confirmed their interest in participating. Each field should be completed accurately and thoughtfully, as the information collected will help us assess the usability and feasibility of our AR technology in different contexts.</thinking>
-
 # Retail AR Experience Testing Registration - Help Guide
 ## Purpose
 This form is for registering participants in a retail AR experience testing session. It helps us collect valuable data for evaluating the quality and effectiveness of our augmented reality technology in real-world scenarios.

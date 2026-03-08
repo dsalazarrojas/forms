@@ -1,7 +1,3 @@
-<thinking>
-This form is used to book a meeting table within the corporate environment. Before proceeding, ensure that this form is relevant and not a duplicate of a previously submitted form. This form is meant for corporate meetings, and the information collected will be used to arrange the meeting space and amenities accordingly.
-</thinking>
-
 # corporate_meeting_table_booking_form - Help Guide
 ## Purpose
 The "Corporate Meeting Table Booking Form" is a form designed to collect information about corporate meetings, allowing staff members and guests to request and book a meeting table within the corporate environment.

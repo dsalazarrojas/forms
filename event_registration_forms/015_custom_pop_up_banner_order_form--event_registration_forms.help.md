@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for custom pop-up banners. This form was created by AI, using public survey topic metadata, and does not copy or use proprietary content from other form creation platforms. It is an original adaptation and can be freely used, modified, and even sold, as long as credit is given.
-To avoid duplication or confusion, please ensure that this form is not completed for the same purpose multiple times.
-</thinking>
 # Custom Pop Up Banner Order Form - Help Guide
 
 ## Purpose

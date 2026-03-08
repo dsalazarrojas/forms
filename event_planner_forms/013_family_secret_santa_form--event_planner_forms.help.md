@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Family Secret Santa Form is a form designed to gather information from family members who want to participate in a Secret Santa gift exchange. The form is intended to collect each person's name, email, and gift preference, so that a Secret Santa gift giver can choose a personalized gift for each participant.
 
 This form has four main fields:

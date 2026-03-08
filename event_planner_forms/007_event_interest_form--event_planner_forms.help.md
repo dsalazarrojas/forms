@@ -1,13 +1,3 @@
-<thinking>
-The "event_interest_form" form is used to capture user's interests and preferences for events. This includes selecting the type of event they would be interested in (e.g., music, sports, comedy), the frequency of attending events, and other details such as date, time, location, and preferred schedule. This form is designed to provide a structured approach to understanding users' interests and help identify potential matches for future events.
-
-Before proceeding, please ensure that you have a clear understanding of your interests and preferences. This form should only take a few minutes to complete, and you will be guided through each field to ensure accuracy.
-
-Please note that some fields are optional, but providing more information will help us better understand your interests and preferences.
-
-Please complete the form below to help us get to know you better.
-</thinking>
-
 # event_interest_form - Help Guide
 ## Purpose
 The "event_interest_form" is used to capture user's interests and preferences for events.

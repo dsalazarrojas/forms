@@ -1,13 +1,3 @@
-<thinking>
-We will create a help guide for a form used to evaluate escape rooms. This form is designed to gather feedback from players about their experience in a escape room. The form is likely used by escape room operators to improve their games.
-
-Before proceeding, we need to ensure that the form is properly filled out, as this will help us understand how to create better experiences for our players. We will go over each section of the form and what each field represents.
-
-Please note that some of these fields might not be directly related to the escape room industry, but rather general feedback fields used in most feedback forms. These can be considered as general quality of service feedback.
-
-Form fields should only be filled out if you have a valid experience to share. If you don't have an experience, do not fill out this form.
-</thinking>
-
 # escape_room_evaluation_form - Help Guide
 
 ## Purpose

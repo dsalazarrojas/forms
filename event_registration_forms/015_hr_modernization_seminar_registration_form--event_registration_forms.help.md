@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering attendees for the HR Modernization Seminar. The purpose of this form is to collect attendee information for the seminar. This is an optional form and does not require authentication. Please make sure you are registered for a different seminar before filling this form.
-</thinking>
-
 # HR Modernization Seminar Registration Form - Help Guide
 ## Purpose
 This form is designed to register attendees for the HR Modernization Seminar. It is an optional form and does not require authentication. Please ensure that you are not registered for a different seminar before filling this form.

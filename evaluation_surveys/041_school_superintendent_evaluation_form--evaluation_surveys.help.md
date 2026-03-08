@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a user-facing help guide for this "School Superintendent Evaluation Form" that explains its purpose, how to complete it, and what each field means. I'll carefully review the provided YAML fields and provide clear explanations for each field, ensuring the guide is concrete, concise, and practical. After reviewing the form fields, I'll output the final help guide in Markdown format, following the required structure.</thinking>
-
 # School Superintendent Evaluation Form - Help Guide
 ## Purpose
 

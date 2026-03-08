@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect feedback from attendees on the quality and effectiveness of a seminar. This form should only be filled out by attendees who have participated in the seminar. To ensure that the form is filled out correctly, please make sure to answer based on your personal experience and not based on information others may have told you about the seminar. 
-
-Please only fill out this form if you have not already filled out a similar form for this seminar. 
-</thinking>
-
 # Seminar Evaluation Survey - Help Guide
 ## Purpose
 This guide will walk you through the steps to complete the seminar evaluation survey form. The form is designed to gather feedback on the overall quality and effectiveness of a seminar. Your input is valuable in helping us improve our seminar offerings.

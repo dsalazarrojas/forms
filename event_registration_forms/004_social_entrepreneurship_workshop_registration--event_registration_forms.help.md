@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Social Entrepreneurship Workshop Registration - Help Guide
 ## Purpose
 This form is designed to collect participant information for the Social Entrepreneurship Workshop. It is intended for workshop participants to register and provide details about themselves. 

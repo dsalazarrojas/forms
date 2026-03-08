@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Production Optimization Software Fair Registration - Help Guide
 ## Purpose
 This form is designed to collect registration information for the Production Optimization Software Fair. It is used to gather details about event organizers and attendees, including their names, emails, phone numbers, interests, and event details such as dates, times, and venues. The form also tracks registration status and event status for each attendee.

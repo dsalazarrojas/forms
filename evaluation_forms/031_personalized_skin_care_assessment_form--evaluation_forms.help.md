@@ -1,8 +1,3 @@
-<thinking>
-This is a form used to assess a person's skincare habits and preferences to provide personalized recommendations.
-The goal of this form is to collect information about the user's skin type, skin problems, and skincare goals and preferences.
-</thinking>
-
 # Personalized Skin Care Assessment Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about your skin type, skin problems, and skincare habits and preferences. The collected data will be used to create personalized skincare recommendations tailored to your individual needs.

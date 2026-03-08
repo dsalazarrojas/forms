@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Tone Evaluation Form is used to provide feedback on a piece of writing and offer suggestions for improvement. It's designed to assess the overall effectiveness of the writing style, communication, and tone. This form ensures consistency in writing and communication standards across the team or organization. It is intended for evaluators to review and evaluate writing samples submitted by writers. 
 
 # Tone Evaluation Form - Help Guide

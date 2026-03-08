@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gauge the confidence of users in the financial governance processes of their company. It is meant to be filled out by end-users who are familiar with the inner workings of the company's financial governance processes. The form consists of 12 questions that cover various aspects of financial governance, including the board's involvement, decision-making process, and reporting quality. This survey is likely to be filled out by personnel who already have a good understanding of the company's financial governance processes and can provide informed feedback. 
-</thinking>
-
 # Financial Governance Confidence Survey - Help Guide
 
 ## Purpose

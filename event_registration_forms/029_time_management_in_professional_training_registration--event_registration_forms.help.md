@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly and only once per participant. This form will collect information for professional training registrations, specifically for time management topics. Each field should be filled out with accurate and relevant information to help us track and prepare for the training sessions.
-</thinking>
-
 # Time Management In Professional Training Registration - Help Guide
 ## Purpose
 This form is designed to collect information for registrations to our professional training sessions on time management topics. Please fill out this form accurately and only once per participant.

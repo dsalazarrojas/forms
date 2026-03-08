@@ -1,9 +1,3 @@
-<thinking>
-  Before diving into the help guide, let's take a moment to consider the context and purpose of the Fashion Show Feedback Form. 
-  This form is designed to collect feedback from attendees of a fashion show event, likely to gauge their experience, satisfaction, and suggestions for improvement. The form likely aims to improve future events by gathering input from the audience.
-  To avoid duplication, the form should only be filled out by attendees who have attended the event. 
-</thinking>
-
 # Fashion Show Feedback Form - Help Guide
 ## Purpose
 

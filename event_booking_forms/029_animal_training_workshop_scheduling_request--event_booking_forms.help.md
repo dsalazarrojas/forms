@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Animal Training Workshop Scheduling Request - Help Guide
 ## Purpose
 This form is for requesting a workshop for animal training. It is used to gather information from organizations or individuals interested in scheduling a workshop, such as the type of workshop, target audience, and preferred date and time.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback from attendees about their experience at games events. The purpose of this form is to help event organizers understand what worked well and what didn't during the event. This form is only meant for attendees who have recently participated in a games event. If you've already completed this form or are not an attendee, please don't fill it out.
-</thinking>
-
 # Games Attendance Feedback Survey - Help Guide
 
 ## Purpose

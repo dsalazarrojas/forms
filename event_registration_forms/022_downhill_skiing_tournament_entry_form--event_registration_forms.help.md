@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to collect registration information for the Downhill Skiing Tournament. It appears that the form is intended for individuals to provide their personal details, event information, and emergency contact information. To ensure accurate and complete registration, please follow the instructions below.
-
-The form is composed of several pages, each containing a set of fields that require information specific to the page. The pages are:
-
-* User Input: This page is for general user information.
-* Skier Details: This page is for details about the skier, such as age, height, and weight.
-* Contact Info: This page is for the skier's contact information, including email and phone number.
-* Event Info: This page is for event-specific information, including event date and start time.
-* Skier Experience: This page is for details about the skier's experience, such as ski length and type.
-* Racing License: This page is for the skier's racing license number.
-* Emergency Contact: This page is for emergency contact information, including name, phone, and email.
-* Division and Age Group: This page is for division and age group selection.
-* Note: This page is for any additional notes or comments.
-</thinking>
-
 # Downhill Skiing Tournament Entry Form - Help Guide
 ## Purpose
 The Downhill Skiing Tournament Entry Form is designed to collect registration information for the Downhill Skiing Tournament. This form is intended to gather necessary details about the skier, event information, and emergency contact information.

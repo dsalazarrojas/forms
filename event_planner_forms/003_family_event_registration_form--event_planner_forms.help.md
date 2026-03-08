@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Family Event Registration Form - Help Guide
 ## Purpose
 This guide helps you complete the Family Event Registration Form, designed to collect essential details for a family event.

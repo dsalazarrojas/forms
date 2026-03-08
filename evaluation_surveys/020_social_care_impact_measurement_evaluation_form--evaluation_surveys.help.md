@@ -1,13 +1,3 @@
-<thinking>
-
-The form is designed to evaluate the impact of a social care service on its users. Social care services aim to provide support and assistance to individuals or families in need, and this form is meant to help service providers assess their effectiveness in delivering high-quality support. The evaluation is focused on measuring the impact of the service on the service users, and the form collects data on various aspects of the service experience.
-
-Before filling out this form, please note that it is not intended to be a comprehensive, exhaustive evaluation tool. It is rather a starting point for service providers to get a snapshot of their performance and identify areas for improvement.
-
-This guide will walk you through each section of the form, explaining what each field is for and how to complete it.
-
-</thinking>
-
 # Social Care Impact Measurement Evaluation Form - Help Guide
 
 ## Purpose

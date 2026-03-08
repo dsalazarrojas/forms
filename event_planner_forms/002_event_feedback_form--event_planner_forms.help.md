@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect feedback from participants about their experience at an event. The purpose of this form is to gather information about how the event was received by the participants and what aspects of the event could be improved. The form aims to capture both quantitative and qualitative feedback. To ensure the quality of feedback, this form is only for participants who have attended the event. Please complete all required fields to submit your feedback.
-</thinking>
 # Event Feedback Form - Help Guide
 ## Purpose
 The Event Feedback Form is designed to collect participant feedback about their experience at an event. Your feedback is valuable in helping us understand what we did well and what we can improve for future events.

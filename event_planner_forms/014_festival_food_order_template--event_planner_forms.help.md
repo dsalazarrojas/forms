@@ -1,7 +1,3 @@
-<thinking>
-The festival food order template is designed to help event organizers gather essential information from attendees to process their food orders. It is a simple, text-based form with four sections: order details, customer info, payment information, and order confirmation. This form does not have any complex logic or conditional fields, it is purely a basic data collection tool.
-</thinking>
-
 # Festival Food Order Template - Help Guide
 ## Purpose
 This form is used to collect order details from festival attendees, including their name, payment method, and order confirmation.

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be used to set up a duel challenge, which is a type of event where two or more participants engage in a competitive activity. The form is designed to collect relevant details about the duel, including the type of duel, participant information, duel time and duration, rules, and agreement terms. The form is likely used by administrators or organizers to prepare for and manage duel events.
-The form is divided into several sections, each corresponding to a specific page. This guide will walk you through each section and explain what each field is intended for.
-</thinking>
-
 # Duel Challenge Setup - Help Guide
 ## Purpose
 This form is used to set up a duel challenge, collecting information for event management and organization.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for users to register and place orders for jerseys. The main purpose of the form is to gather relevant information from users to process their orders correctly. Before proceeding, make sure you have all the required information and details ready to avoid delays in the order processing.
-
-This form is designed to be user-friendly, with clear labels and options for each field. Please follow the instructions carefully to ensure accurate order processing.
-
-</thinking>
-
 # Jersey Order Form - Help Guide
 ## Purpose
 The jersey order form is designed to gather information from users to process their jersey orders correctly. Please complete the form with all required information to avoid delays in the order processing.

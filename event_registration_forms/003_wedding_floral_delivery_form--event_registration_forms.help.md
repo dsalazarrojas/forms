@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to collect information for wedding floral delivery purposes. It is expected to be completed by the wedding event organizers or individuals responsible for arranging the flower deliveries. The form collects information about the user, their delivery preferences, delivery details, payment status, and contact information. Each field is designed to be completed based on the relevant section. It is not intended to be a generic form and is specific to the wedding context.
 
 # Wedding Floral Delivery Form - Help Guide

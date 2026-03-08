@@ -1,9 +1,4 @@
-# <thinking>
-**Form Purpose:** This form is designed to collect feedback and input from users regarding the event "B&amp;M 2020". The goal is to gather information about their experience, any tools or features they used, and their suggestions or comments.
-**Relevance Check:** Please ensure that you have a valid reason to provide feedback before proceeding. If you've already submitted feedback, please do not duplicate your submission.
-</thinking>
-
-# Feedback Form B&amp;M 2020 - Help Guide
+# # Feedback Form B&amp;M 2020 - Help Guide
 ## Purpose
 The Feedback Form B&amp;M 2020 is designed to collect feedback from users about their experience with the event.
 

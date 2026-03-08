@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Scholarship Workshop Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from workshop participants about their experience with our scholarship program. Your input will help us improve future workshops and provide better services to our users.

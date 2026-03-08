@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Centerpiece Design Competition Entry - Help Guide
 
 ## Purpose

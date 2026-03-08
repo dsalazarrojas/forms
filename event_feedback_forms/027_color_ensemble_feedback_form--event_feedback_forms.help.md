@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from attendees about the color ensemble event. The feedback will help event organizers understand what aspects of the event were well-received and what areas require improvement. The form is divided into several sections to collect information about the attendee's experience, including their name, the date of the event, their overall satisfaction, their favorite aspect of the event, and their suggestions for improvement. The goal is to gather valuable insights to enhance future events.
-</thinking>
-
 # Color Ensemble Feedback Form - Help Guide
 ## Purpose
 The Color Ensemble Feedback Form is a tool for event attendees to provide their opinions and suggestions about the event. By completing this form, you will be helping the event organizers understand what worked well and what could be improved for future events.

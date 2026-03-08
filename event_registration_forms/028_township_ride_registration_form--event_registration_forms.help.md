@@ -1,7 +1,3 @@
-<thinking>
-# The form is used to register events in the Township. This form is part of the event management process, which is used to gather information about an event such as its type, start and end date, duration, capacity, and any additional notes. This form is likely used by event organizers or coordinators to provide information about an event to be displayed on the township's website or other public platforms.
-</thinking>
-
 # Township Ride Registration Form - Help Guide
 ## Purpose
 The Township Ride Registration Form is used to register events, such as rides, events, and tours, with the township. This form collects information about the event, including its type, start and end dates, duration, capacity, and any additional notes.

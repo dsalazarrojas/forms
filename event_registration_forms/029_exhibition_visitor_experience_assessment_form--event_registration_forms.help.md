@@ -1,11 +1,3 @@
-<thinking>
-
-The exhibition_visitor_experience_assessment_form is designed to gather feedback from exhibition visitors about their overall experience, attendance, and satisfaction with various aspects of the event. This form is essential for understanding the strengths and weaknesses of the exhibition and identifying areas for improvement. To ensure accurate and useful feedback, the form is structured to collect both quantifiable (attendance) and qualitative (overall experience and feedback) data.
-
-To avoid duplication, please only complete this form once per visit. If you have visited multiple exhibitions, please ensure that you have not already submitted a review for this specific exhibition.
-
-</thinking>
-
 # exhibition_visitor_experience_assessment_form - Help Guide
 ## Purpose
 

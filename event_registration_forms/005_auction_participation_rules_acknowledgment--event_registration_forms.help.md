@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Auction Participation Rules Acknowledgment - Help Guide
 
 ## Purpose

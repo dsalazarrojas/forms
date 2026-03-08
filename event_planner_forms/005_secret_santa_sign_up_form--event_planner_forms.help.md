@@ -1,10 +1,3 @@
-<thinking>
-This form is used for employees to sign up for the Secret Santa gift exchange program. To determine whether or not to show this form, consider the following: 
-- Is the event planner planning to use this form for a Secret Santa gift exchange program? 
-- Are users already signed up or have been assigned a Secret Santa recipient through some other means? 
-- Is it already a holiday time of year when Secret Santa is not being practiced in your workplace? 
-</thinking>
-
 # Secret Santa Sign Up Form - Help Guide
 ## Purpose
 This form allows employees to sign up for the Secret Santa gift exchange program, a fun and optional holiday activity that promotes team building and camaraderie among colleagues.

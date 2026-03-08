@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather feedback and evaluations from participants who have attended the leadership workshop. This form likely aims to gauge the effectiveness and overall experience of the workshop, which will help the organizers and instructors refine their content and delivery to better serve future participants. This form should only be filled out by workshop attendees, not by organizers or instructors.
-
-</thinking>
-
 # Leadership Workshop Participant Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and evaluations from participants who have attended the leadership workshop. Your input will help us improve future workshops and make sure we're meeting your expectations.

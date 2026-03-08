@@ -1,5 +1,3 @@
-<thinking>Before creating this form, ensure that you're using it for its intended purpose, which is to evaluate a syllable's qualities. This form is designed to collect feedback on the sound quality, recording device, and evaluator's identity. Please do not fill out this form if you've already submitted feedback on this syllable.</thinking>
-
 # Syllable Evaluation Form - Help Guide
 
 ## Purpose

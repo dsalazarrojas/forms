@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information for a senior safety workshop, which is likely a training or educational event focused on safety procedures and protocols, particularly for seniors or older adults. The goal is to collect participant information and emergency contact details for potential follow-up and communication purposes. The form's purpose is to ensure that participants' safety and well-being are taken care of during the workshop.
-
-Before filling out the form, please ensure that you haven't already registered for this workshop, as duplicates might cause confusion and unnecessary work for organizers. 
-
-</thinking>
-
 # Senior Safety Workshop Registration - Help Guide
 ## Purpose
 This form is used to register for the Senior Safety Workshop, a training event designed to educate seniors on safety procedures and protocols.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from immigration session attendees. The purpose of this form is to gauge the quality and effectiveness of the immigration sessions. The session feedback form is used to provide detailed feedback on the session, while the session evaluation form is used to evaluate the session's overall quality. The future topics form is used to suggest topics for future sessions, and the overall evaluation form is used to rate the session's quality. This form is used to collect data for future improvement and development of the immigration sessions.
-</thinking>
-
 # Immigration Continuing Education Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from immigration session attendees to gauge the quality and effectiveness of the sessions.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from attendees to improve the conference experience. It's essential to understand that this form is designed to be completed by those who have attended the conference, and the responses will help organizers refine the event to better meet the needs and expectations of future attendees. To ensure the quality of the feedback, it's vital to complete the form accurately and honestly. Please refrain from duplicating feedback if you've already submitted it in the past. The responses will be treated as individual and unique feedback.
-</thinking>
-
 # Conference Experience Feedback Form - Help Guide
 ## Purpose
 

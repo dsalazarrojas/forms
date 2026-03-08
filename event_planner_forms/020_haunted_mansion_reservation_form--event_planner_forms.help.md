@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to reserve a spot in the Haunted Mansion event. It is intended for individuals who wish to participate in the event. The purpose of this form is to collect relevant contact information and event preferences from users.
-</thinking>
-
 # Haunted Mansion Reservation Form - Help Guide
 ## Purpose
 The Haunted Mansion Reservation Form is designed to allow users to reserve a spot in the Haunted Mansion event. This form collects contact information and event preferences from users.

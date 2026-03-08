@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for evaluating the effectiveness of training programs. It's meant to be filled out by training participants to provide feedback on their experience, assess their understanding of the material, and provide recommendations for future trainings. It's essential to complete this form accurately and thoroughly to ensure that the training program improves over time. 
-
-Before starting the form, ensure that you're filling it out to evaluate a specific training program and not duplicating any existing evaluations.
-
-</thinking>
-
 # Training Assessment Form - Help Guide
 ## Purpose
 This form is used to assess the effectiveness of a training program. Please take a few minutes to review the form and provide honest feedback on your experience.

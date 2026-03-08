@@ -1,7 +1,3 @@
-<thinking>
-This form is used to register users for a Cross Functional Management Workshop. The purpose of this form is to gather information from users about their preferred workshop option, workshop date and time, and any additional notes they may have. This form is intended for internal use within the organization, and the information collected will be used to manage workshop registrations and assignments. To avoid duplicate registrations, users can only submit one registration per form. Please ensure that you have a valid email address and phone number before submitting the form.
-</thinking>
-
 # Cross Functional Management Workshop Registration Form - Help Guide
 ## Purpose
 This form is used to register users for a Cross Functional Management Workshop. It helps us to gather information from users about their preferred workshop option, date, time, and any additional notes they may have.

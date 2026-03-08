@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to collect feedback from participants in a post-event networking session. The purpose of this form is to gather information about participants' experiences and opinions on the meeting, its location, content, and overall organization. This feedback will be used to improve future events, make sure they are relevant and engaging for participants.
-
-Please note that this form will not be used to contact or solicit commercial offers from participants, it's only for improvement and feedback purposes.
-
-Before completing this form, make sure you are providing your real first name, last name, and email address for correct contact in case we need to reach you with further questions or comments.
-
-Please be honest, detailed, and specific with your feedback, as it's crucial for us to understand your experience and improve for the next event.
-
-</thinking>
-
 # Post Event Networking Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect your feedback on the recent post-event networking session. Your input will help us improve future events and ensure they are engaging and valuable for all participants.

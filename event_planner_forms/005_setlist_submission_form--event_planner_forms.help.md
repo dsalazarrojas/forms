@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a submission form for event information, likely for music events or performances. The purpose of this form is to collect details about an event, including the artist performing, event date and time, event location, and setlist (a list of songs or performances). This form is likely used for event organizers or promoters to gather information about upcoming events. 
-</thinking>
-
 # setlist_submission_form - Help Guide
 ## Purpose
 This form is designed to collect information about an event, including artist and event details, for the purpose of event promotion or organization.

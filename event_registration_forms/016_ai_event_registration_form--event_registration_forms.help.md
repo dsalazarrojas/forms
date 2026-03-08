@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect registration information from attendees to the AI Event, a summit focused on artificial intelligence and its applications. The form helps organizers to gather necessary details for event management, such as attendee names, contact information, and technical expertise. It also allows attendees to express their interests in breakout sessions, dietary requirements, and preferences for networking.
-
-Before filling out this form, please ensure that you have not submitted it previously, as this form is used for one-time registration. Also, be aware that some fields are mandatory, indicated by the "required" status in the form.
-
-</thinking>
-
 # AI Event Registration Form - Help Guide
 
 ## Purpose

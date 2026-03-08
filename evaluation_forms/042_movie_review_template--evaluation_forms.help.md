@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Movie Review Template - Help Guide
 ## Purpose
 The Movie Review Template is designed to collect evaluations of movies. It is intended for users to input title and rating information about a movie they have watched.

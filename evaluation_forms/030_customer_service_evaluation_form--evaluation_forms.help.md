@@ -1,11 +1,3 @@
-<thinking>...thinking>
-
-This form is used by customers to provide feedback and evaluation on the service they have received. This form helps us understand their experience and identify areas where we can improve our service. It's essential that customers fill out this form to help us provide better service in the future.
-
-Please note that filling out this form is entirely optional, but it helps us to understand your experience and improve our services.
-
-</thinking>
-
 # Customer Service Evaluation Form - Help Guide
 ## Purpose
 

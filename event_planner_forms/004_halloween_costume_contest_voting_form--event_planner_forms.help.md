@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for collecting votes for a Halloween costume contest. It is crucial to ensure that each user understands the form's purpose and how to fill it out correctly to avoid misinterpretation or duplication of effort. Please check your internal knowledge base or previous form submissions to confirm the form's purpose and potential requirements before filling it out.
-</thinking>
-
 # Halloween Costume Contest Voting Form - Help Guide
 ## Purpose
 This form is used to collect votes for a Halloween costume contest. Users will submit their vote by selecting the contestant they want to vote for and providing some personal information. Please ensure that each contestant has only one vote.

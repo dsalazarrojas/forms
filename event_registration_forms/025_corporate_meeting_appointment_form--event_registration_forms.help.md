@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering corporate meetings, which are meetings that are related to the company's internal business activities. This form should only be used for meetings that are relevant to your job role and do not overlap with any other meeting you have already registered. Please ensure that you have the necessary approval from your supervisor before submitting this form.
-</thinking>
-
 # Corporate Meeting Appointment Form - Help Guide
 ## Purpose
 The Corporate Meeting Appointment Form is used to register and schedule corporate meetings related to your job role. Please fill out this form to create a new meeting request.

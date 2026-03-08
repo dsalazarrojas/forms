@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from participants of a Candy Jar Guessing Game. The purpose of this game is to guess the number of candies inside a jar, and the participant who guesses the correct number wins a prize. This form is used to collect participant information, including their name, contact details, and guessing strategy. It also collects information about the event being guessed, such as the date and description of the jar.
-
-To avoid duplication of entries, we use a unique submission date field.
-
-</thinking>
-
 # Candy Jar Guessing Game Template - Help Guide
 ## Purpose
 This form is used to collect information from participants of a Candy Jar Guessing Game. It is designed to collect participant details, guessing strategy, and event information.

@@ -1,11 +1,3 @@
-<thinking>
-The goal of this form is to allow users to book their stay at the City Hostel. It captures important information about the guest, such as their name, contact information, and booking preferences. The form also aims to provide a smooth and efficient booking process while ensuring that the guest is aware of and agrees to the hostel's house rules and cancellation policy.
-
-It is essential that the form captures all required information accurately to enable seamless communication and ensure a comfortable stay for the guests. The form fields have been carefully designed to cater to the needs of the guests, making it easy and convenient for them to input their details.
-
-Before completing the form, ensure you have all necessary information handy, such as passport or national ID number, phone number, and any special requirements or allergies. If you're unsure about any field, please refer to the explanations below.
-</thinking>
-
 # City Hostel Dorm Booking Form - Help Guide
 ## Purpose
 This form is designed to capture the necessary information for a guest to book their stay at the City Hostel. It helps the hostel staff to prepare for the guest's visit and ensure a comfortable stay.

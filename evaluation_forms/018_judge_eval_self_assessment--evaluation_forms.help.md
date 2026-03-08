@@ -1,8 +1,3 @@
-<thinking>
-This form, "Judge Eval Self Assessment," is intended for evaluators to provide feedback on a group of contest participants. The form's purpose is to gather information about the group's profile, their prioritization of participants, their present performance, and a summary assessment. The form will likely be used in situations where evaluators need to provide a comprehensive evaluation of multiple contestants, such as in talent shows, competitions, or other events where judges must assess and rank participants based on certain criteria.
-Given the form's structure and the lack of explicit guidance on how to complete it, it is essential that users understand the form's requirements and expectations. To ensure accurate and relevant feedback, evaluators should only answer questions that are within their knowledge and expertise, and avoid providing opinions that are not based on fact. If a user is unsure about a particular field, they should not hesitate to contact the form's administrators for clarification.
-</thinking>
-
 # Judge Eval Self Assessment - Help Guide
 ## Purpose
 This form is designed for evaluators to provide feedback on a group of contest participants. It will help you assess and rank the participants based on specific criteria.

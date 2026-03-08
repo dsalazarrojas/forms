@@ -1,8 +1,3 @@
-<thinking>
-We should verify that the form is only accessible after a specific date to prevent nominations before the deadline. We should also check for self-nomination to prevent users from nominating themselves. Additionally, ensure that the nominator and nominee details are complete and accurate to avoid errors or duplication of efforts. Finally, confirm that the nominator has provided a testimonial if they have agreed to do so.
-
-</thinking>
-
 # Community Reader Award Nomination Form - Help Guide
 ## Purpose
 The Community Reader Award Nomination Form is designed to recognize individuals who have made a significant impact on local literacy and reading. This form helps to gather information about the nominee and their contributions to the community.

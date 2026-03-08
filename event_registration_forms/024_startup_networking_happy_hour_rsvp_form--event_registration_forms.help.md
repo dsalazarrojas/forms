@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect RSVPs for the Startup Networking Happy Hour event. This form is used to gather information from attendees about their event details, personal contact information, and dietary restrictions. The form is not a required field, but it is recommended that attendees fill it out to ensure they are registered for the event.
-
-Before filling out the form, the user may already be registered for the event, so this form should only be filled out if the user wants to make any additional changes to their registration or provide more detailed event details. This will prevent duplication of effort in the database.
-
-The form is designed to be user-friendly, with clear labels and concise explanations for each field.
-
-</thinking>
-
 # Startup Networking Happy Hour RSVP Form - Help Guide
 ## Purpose
 This guide will walk you through how to complete the Startup Networking Happy Hour RSVP Form. 

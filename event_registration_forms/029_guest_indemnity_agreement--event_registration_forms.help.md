@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Guest Indemnity Agreement - Help Guide
 
 ## Purpose

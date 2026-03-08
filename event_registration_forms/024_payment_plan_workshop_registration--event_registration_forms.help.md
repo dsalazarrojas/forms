@@ -1,7 +1,3 @@
-<thinking>
-This form is used for customers to register for a payment plan workshop. 
-</thinking>
-
 # Payment Plan Workshop Registration - Help Guide
 ## Purpose
 The Payment Plan Workshop Registration form is a tool for customers to provide information for a payment plan workshop. This form is used to capture the necessary details for workshop administration and planning.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to record and track employee training information, specifically for OSHA (Occupational Safety and Health Administration) certification training. The form is designed to collect data on the organization, trainer, training type, and other relevant details. It is intended to be completed by employees to document their training records. The form's fields should not be confused with other forms, as it is a custom-built form using AI-generated metadata.
-</thinking>
-
 # osha_certification_training_form - Help Guide
 ## Purpose
 This form is used to record and track employee training information for OSHA certification.

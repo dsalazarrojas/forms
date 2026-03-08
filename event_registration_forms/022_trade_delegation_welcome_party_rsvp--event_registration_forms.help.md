@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from attendees and sponsors of the Trade Delegation Welcome Party event. The form will be used to track RSVPs and collect relevant details from both attendees and sponsors. This form is not intended for general public use. Only registered event attendees and sponsors will be able to access and complete this form. Please ensure that you are an authorized representative of your company or event before proceeding. If you are not sure if you are authorized, contact the event organizer for verification.
-</thinking>
-
 # Trade Delegation Welcome Party RSVP - Help Guide
 
 ## Purpose

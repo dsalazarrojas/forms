@@ -1,25 +1,3 @@
-<thinking>
-We need to determine the form purpose and required fields before creating the user-facing help guide. Let's analyze the form YAML.
-The form is a "Virtual Running Event Registration Form" and appears to be used for registering participants for a virtual running event. Based on the fields, it seems that the form is used to collect participant information and event preferences. The required fields are not explicitly stated, so we'll need to determine which ones are actually required for the event registration to be successful.
-
-After analyzing the form YAML, it appears that all fields except for "event_date" and "payment_method" are not required. The "event_date" field seems to be related to the event scheduling, and "payment_method" might be related to the payment processing. However, these fields are not explicitly marked as required, so we'll leave them as optional for now.
-
-The form seems to have the following fields:
-* First Name: a text field for the participant's first name
-* Last Name: a text field for the participant's last name
-* Email: an email field for the participant's contact information
-* Phone: a text field for the participant's phone number
-* Address: a text field for the participant's address
-* City: a text field for the participant's city
-* State: a text field for the participant's state
-* Zip Code: a number field for the participant's zip code
-* Registration Count: a number field for the event registration count
-* Participant Type: a select_multiple field for the participant type (yes/no)
-* Payment Method: a select_one field for the payment method (with options: Option 1, Option 2, Option 3)
-The participant_type field has a hint that states participants must be at least 5 years old and not more than 10 years old, which will be reflected in the help guide.
-
-</thinking>
-
 # Virtual Running Event Registration Form - Help Guide
 ## Purpose
 The Virtual Running Event Registration Form is used to register participants for a virtual running event. Fill out this form to provide your contact information and event preferences.

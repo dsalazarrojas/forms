@@ -1,12 +1,3 @@
-<thinking>
-This form is used to collect information from potential tour guides who are interested in obtaining a tour guide license. The form gathers personal details such as first name, last name, and email address. It also collects professional information like years of experience, educational level, languages spoken, and license status. Additionally, the form includes fields for emergency contact information and agreements that the applicant must accept. The form has multiple pages, with each page having its own set of fields. The form is designed to be completed by the applicant, and the information collected will be used to evaluate their eligibility for a tour guide license.
-
-To avoid duplication of effort, please ensure you have not already applied for a tour guide license with us before submitting this form.
-
-Before starting, please ensure you have all the necessary information ready, including your first name, last name, email address, and any other required fields.
-
-</thinking>
-
 # Tour Guide License Application Form - Help Guide
 ## Purpose
 The Tour Guide License Application Form is used to collect information from potential tour guides who are interested in obtaining a tour guide license. This form is designed to gather personal and professional details that will be used to evaluate their eligibility for a tour guide license.

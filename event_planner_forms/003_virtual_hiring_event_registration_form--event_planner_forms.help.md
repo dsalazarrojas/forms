@@ -1,11 +1,5 @@
 <figure>
 
-<thinking>
-  This form is used in the "event_planner_forms" category and its title is "Virtual Hiring Event Registration Form". The form's purpose is to collect information from event registrants in a virtual hiring event.
-  The following fields will be explained for clarity, ensuring that users understand their purpose and how to complete them.
-  The form is designed to be completed by users without any specific restrictions on required fields. 
-</thinking>
-
 # Virtual Hiring Event Registration Form - Help Guide
 ## Purpose
 This form is designed for registrants to provide information about themselves and their participation in a virtual hiring event. It's essential to complete this form accurately to ensure a smooth and successful event.

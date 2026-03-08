@@ -1,8 +1,3 @@
-<thinking>
-The form, "Panel Discussion Speaker Registration", is used for speakers to register their details for a panel discussion event. This form helps speakers provide their name, email, topic, and other relevant information for the event.
-To prevent duplication of registrations, we have checks in place to ensure that each speaker's email and topic are unique. This is to maintain the organization and accuracy of event data.
-</thinking>
-
 # Panel Discussion Speaker Registration - Help Guide
 ## Purpose
 This form is used for speakers to register their details for a panel discussion event.

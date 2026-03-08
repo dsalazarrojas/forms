@@ -1,9 +1,3 @@
-<thinking>
-The Waterpark Registration Form is designed to collect information from customers about their interest in a specific event at Waterpark. The form is meant to be used by customers to indicate their availability and preferences for the event, which will help the event planners to better understand their needs and plan accordingly.
-The form is divided into multiple sections, each containing relevant fields for customers to fill out. The purpose of the form is to gather basic contact information, event preferences, and other relevant details.
-Before completing the form, please ensure you are registering for the correct event.
-</thinking>
-
 # Waterpark Registration Form - Help Guide
 ## Purpose
 The Waterpark Registration Form is designed to collect information from customers about their interest in a specific event at Waterpark. This form is used to gather basic contact information, event preferences, and other relevant details to help event planners understand customer needs.

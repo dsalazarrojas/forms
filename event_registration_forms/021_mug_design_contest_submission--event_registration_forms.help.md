@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from individuals who want to participate in a mug design contest. The purpose of the form is to collect basic contact information (name and email), a phone number (optional), preferred mug color, type of design, and a description of the design. This form will help the contest organizers to understand the participants' design preferences and contact details. This form should not be filled out if the individual has already participated in the same contest before or if they are not eligible for this contest.
-</thinking>
-
 # Mug Design Contest Submission - Help Guide
 ## Purpose
 This form is for participants to submit their entry for the mug design contest. Please fill out the form completely and accurately to provide your design preferences and contact information.

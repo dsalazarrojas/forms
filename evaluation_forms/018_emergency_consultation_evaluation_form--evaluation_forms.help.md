@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for this "Emergency Consultation Evaluation Form" that explains the purpose and requirements of the form, how to complete it, and what each field means. This form is used for evaluating patients in emergency situations, and it's crucial to ensure that the fields are filled out correctly to get accurate results. Before we begin, we need to check if the form is being used in a context where it makes sense to use it. Let's assume that we are in a medical setting, where patients need to be evaluated quickly and accurately in emergency situations.
-</thinking>
-
 # Emergency Consultation Evaluation Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Artisan Market Feedback Survey Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from visitors to the Artisan Market on their overall experience, including the quality of artisan products, vendor hospitality, and market facilities. The feedback collected will help us understand areas of improvement and provide better services to our visitors. Please note that your feedback is anonymous and will not be used for any direct sales or marketing purposes.

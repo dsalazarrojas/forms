@@ -1,8 +1,3 @@
-<thinking>
-We are creating a form to collect feedback from participants after an event, specifically a semester. This form aims to gather information about the participant's experience, satisfaction, and future attendance. We want to ensure that the form is clear and easy to understand for the end-users, so we will be using plain language in the explanations.
-The form will be used by participants to provide feedback about a specific event, which will help us to identify areas of improvement and make adjustments for future events. This form will not be used to collect information on sensitive or personal data, so we do not need to worry about duplication or relevance checks.
-</thinking>
-
 # semester_feedback_form - Help Guide
 ## Purpose
 This form is designed to collect feedback from participants after an event, specifically a semester. It helps us to gather information about their experience, satisfaction, and future attendance.

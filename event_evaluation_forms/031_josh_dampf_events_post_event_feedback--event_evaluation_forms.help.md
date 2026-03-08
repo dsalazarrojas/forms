@@ -1,8 +1,3 @@
-<thinking>
-This guide is for internal use only, and it's assumed that users have already been familiarized with the form's purpose through internal communication. However, to reiterate, the form "josh_dampf_events_post_event_feedback" is used to collect feedback and ratings from attendees after an event. This form is designed to gather information about the event details, attendee's experience, and overall satisfaction. Please ensure that you're completing this form only for events that have already taken place, as it's not intended for real-time feedback during the event. To avoid duplication, please only complete this form once for each event.
-
-</thinking>
-
 # josh_dampf_events_post_event_feedback - Help Guide
 ## Purpose
 The "josh_dampf_events_post_event_feedback" form is designed to collect feedback and ratings from attendees after an event. It helps us evaluate the success of events and make improvements for future events.

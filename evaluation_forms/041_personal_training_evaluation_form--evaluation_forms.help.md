@@ -1,20 +1,3 @@
-<thinking>
-This form is designed to evaluate the progress and effectiveness of personal training sessions. The form is used by trainers to gather feedback from clients, track progress, and identify areas for improvement. To ensure accurate and comprehensive evaluations, please fill out this form carefully and thoroughly.
-
-Before starting, ensure that you are completing this form for the correct training program. If you're unsure, please contact your program manager or training coordinator.
-
-This form is not meant to be a substitute for any other evaluation or assessment processes. If you're completing this form for the first time, please note that it may take some time to understand the form's layout and requirements.
-
-Please answer the questions truthfully and to the best of your ability. If a question doesn't apply, simply leave it blank or write "N/A" if that's the case.
-
-When filling out this form, please make sure to:
-
-* Use clear and concise language
-* Be as detailed as possible when answering questions
-* Follow the format and instructions carefully
-
-</thinking>
-
 # Personal Training Evaluation Form - Help Guide
 
 ## Purpose

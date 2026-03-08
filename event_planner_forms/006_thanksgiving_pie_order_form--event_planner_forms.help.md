@@ -1,17 +1,3 @@
-<thinking>
-This form is used for customers to order Thanksgiving pies for delivery or pickup. 
-The form collects the following information:
-- customer name
-- customer contact information (email and phone number)
-- ordered pie type
-- desired quantity
-- special address and message (if necessary)
-- assigned tool for delivery (if applicable)
-- form ID (for internal reference)
-- category and description (if applicable)
-The form is used for both new and existing customers, and the customer information is stored for future orders.
-</thinking>
-
 # Thanksgiving Pie Order Form - Help Guide
 
 ## Purpose

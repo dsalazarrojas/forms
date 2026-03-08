@@ -1,7 +1,3 @@
-<thinking>
-The Event Logistics Support Request Form is designed to gather information about an event from the event organizer. This form is used by event organizers to request support services from the logistics team. The form is meant to capture event details such as title, category, location, date, and other essential information that helps the logistics team prepare for the event. This information is used to prioritize and manage event requests, so please ensure that the information provided is accurate and complete.
-</thinking>
-
 # Event Logistics Support Request Form - Help Guide
 
 ## Purpose

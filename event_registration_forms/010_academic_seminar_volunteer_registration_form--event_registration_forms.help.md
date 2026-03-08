@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from individuals interested in volunteering for an academic seminar. It's used for registration purposes and to gather essential details for logistical planning. The form will not be used for any other purpose. It's essential to fill out the form accurately to ensure correct information is collected. The form is divided into several sections, each covering a specific aspect of the volunteer's profile and commitment. Please review each section carefully to ensure you provide all necessary details.
-</thinking>
-
 # Academic Seminar Volunteer Registration Form - Help Guide
 ## Purpose
 The Academic Seminar Volunteer Registration Form is designed to collect information from individuals interested in volunteering for an academic seminar. This form is used to gather essential details for logistical planning and to ensure the accurate registration of volunteers.

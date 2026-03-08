@@ -1,23 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from users regarding their course selection preferences. Specifically, it is designed to allow users to choose their favorite main, second, and third courses from a list of options. The form is meant to be a user-friendly and efficient way to gather this information, which can be used to provide personalized recommendations or insights.
-
-Before proceeding, please note that this form is not affiliated with or endorsed by any form platform, and it is an AI-generated adaptation of public survey topic metadata. It is an original creation and can be freely used, modified, or even sold, with proper attribution.
-
-To determine the relevance and non-duplication of this form, please consider the following:
-
-* Category: "event_registration_forms"
-* Title: "Main Course Selection Form"
-* Input schema:
-	+ Main Course: select_one (Vegetarian, Non-Vegetarian, Vegan)
-	+ Second Course: select_one (Salad, Soup, Grilled Meat)
-	+ Third Course: select_one (Fruit, Chocolate, Cheese)
-	+ Meal Time: time (no options provided)
-
-Please review the form carefully to ensure it meets your specific needs and goals.
-
-</thinking>
-
 # Main Course Selection Form - Help Guide
 ## Purpose
 The Main Course Selection Form is designed to collect information from users regarding their course selection preferences.

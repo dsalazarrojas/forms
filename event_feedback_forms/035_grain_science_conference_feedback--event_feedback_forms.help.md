@@ -1,16 +1,3 @@
-<thinking>
-This form is intended to collect feedback from attendees of a grain science conference. The primary goal is to gather information about their experience, suggestions for improvement, and ratings for various aspects of the conference. The form is designed to be completed by attendees who have participated in the conference, and it's essential to ensure that each field is filled correctly to provide valuable insights for future conferences.
-
-To minimize duplication and ensure the form is filled correctly, we should:
-
-- Check that only attendees of the conference attempt to complete the form.
-- Verify that the form is completed in its entirety, as required fields are essential for providing comprehensive feedback.
-- Ensure that attendees select the correct session attended from the provided options.
-
-By following these guidelines and completing the form accurately, the collected feedback will be invaluable for organizing future grain science conferences.
-
-</thinking>
-
 # grain_science_conference_feedback - Help Guide
 ## Purpose
 

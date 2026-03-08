@@ -1,8 +1,3 @@
-<thinking>
-The "Future Narratives Evaluation Form" is designed to collect feedback from users about a specific event or workshop, typically used for evaluation and improvement purposes. This form aims to gather information about the overall experience, organization, and presentation of the event, allowing organizers to identify areas for improvement and make informed decisions about future events.
-It is essential to ensure that each field is filled in accurately and thoroughly, as the feedback collected will be used to make informed decisions about the event's future.
-</thinking>
-
 # Future Narratives Evaluation Form - Help Guide
 ## Purpose
 The "Future Narratives Evaluation Form" is designed to collect feedback from users about a specific event or workshop. This form aims to gather information about the overall experience, organization, and presentation of the event, allowing organizers to identify areas for improvement and make informed decisions about future events.

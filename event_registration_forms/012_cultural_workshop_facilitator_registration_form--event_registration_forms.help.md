@@ -1,7 +1,3 @@
-<thinking>
-This form is a registration form for cultural workshop facilitators. The purpose of this form is to collect information from potential facilitators to help them register for a cultural workshop. Before proceeding, please ensure that you have read the workshop description and are familiar with the event details.
-</thinking>
-
 # cultural_workshop_facilitator_registration_form - Help Guide
 ## Purpose
 The purpose of this form is to register as a cultural workshop facilitator. Please fill out the form below to provide us with the required information.

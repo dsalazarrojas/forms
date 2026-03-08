@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from attendees of the Tea Day event. This feedback is crucial for identifying areas of improvement and providing a better experience for future events.
-
-Before filling out this form, please make sure to have attended the Tea Day event and have a genuine opinion about the experience.
-
-Please note that this form is not for general feedback, but rather for specific feedback on your experience with this event.
-
-It's essential to complete this form accurately and honestly, as it will help the event organizers understand what they need to improve.
-
-If you have already provided feedback on this event in the past, please do not fill out this form again. Your previous feedback will be taken into account when assessing the event.
-
-</thinking>
-
 # Tea Day Feedback Form - Help Guide
 ## Purpose
 The Tea Day Feedback Form is designed to gather feedback from attendees of the Tea Day event. This feedback will help the event organizers understand what went well and what can be improved for future events.

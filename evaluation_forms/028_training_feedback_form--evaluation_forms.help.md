@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect feedback from trainers and trainees about a training session. It helps in evaluating the effectiveness of the training and identifying areas for improvement. This form is used to assess the quality of the training session, the trainee's engagement, and the tools used during the training.
 
 The form consists of 7 fields, each with a specific purpose:

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information for parent-teacher conferences. It's essential to fill out this form carefully, ensuring that you provide accurate and detailed information for the conferences. Make sure you have the necessary details ready before starting. If you're unsure about any field, refer to the field-by-field explanations below for clarification.
-</thinking>
-
 # Parent Teacher Conference Intake Form - Help Guide
 ## Purpose
 The Parent Teacher Conference Intake Form is designed to gather essential information from parents and teachers to facilitate effective and productive parent-teacher conferences. This form helps to ensure that both parties are informed and prepared for the conference.

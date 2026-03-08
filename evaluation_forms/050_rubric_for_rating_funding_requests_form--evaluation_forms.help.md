@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is only used when it's really needed and not duplicated. This form is meant to collect ratings for funding requests, so let's make sure that the person filling it out has a good understanding of its purpose and how it should be completed.
-</thinking>
-
 # rubric_for_rating_funding_requests_form - Help Guide
 ## Purpose
 This form is used to rate funding requests. It's designed to gather information about the progress of funding requests, helping to track their status and make informed decisions.

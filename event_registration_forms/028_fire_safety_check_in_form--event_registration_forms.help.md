@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to facilitate fire safety check-in procedures during emergencies or events. The form aims to quickly capture essential information from employees in the event of a fire or other emergency. This guide will walk you through the fields included on the form to ensure accurate and efficient completion.
-</thinking>
-
 # Fire Safety Check In Form - Help Guide
 ## Purpose
 The Fire Safety Check In Form is designed to gather crucial information from employees during emergencies or events. This form helps ensure that everyone's presence is accounted for and that emergency responders can quickly locate and evacuate all employees as needed.

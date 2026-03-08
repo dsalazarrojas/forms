@@ -1,7 +1,3 @@
-<thinking>
-To ensure this form is properly completed, we need to understand its purpose and make sure it's not a duplicate. This form is meant for trade show organizers to collect information for display booth orders. It's essential to fill out the form accurately to ensure a smooth event planning process. Before proceeding, check if a similar form has already been submitted for the same event. If so, please do not resubmit. This will help us prevent duplicate data entry and avoid any potential conflicts.
-</thinking>
-
 # Trade Show Display Booth Order Form - Help Guide
 ## Purpose
 This form is used to collect information for trade show display booth orders. Please fill it out carefully to ensure your booth requirements are met.

@@ -1,10 +1,3 @@
-<thinking>
-This form is for placing orders for Halloween Candy Grams and Halloween Grams. It collects information from a business to fulfill their order. The form is used by the business to provide details about their order, including the order type, delivery date and time, and contact information. The form will be used to assign a tool to the business for their order.
-
-This form is not intended for personal use. It is for businesses that want to place orders for Halloween Candy Grams and Halloween Grams.
-
-</thinking>
-
 # Halloween Candy Gram Order Form - Help Guide
 ## Purpose
 This form is for businesses to place orders for Halloween Candy Grams and Halloween Grams.

@@ -1,9 +1,3 @@
-<thinking>
-
-To ensure the form's purpose and requirements are clear, I'll provide a brief internal reasoning block to understand the form's intention and potential overlap with existing forms. This form, "Healthcare Team Collaboration Workshop Evaluation", seems to be designed for assessing the effectiveness of a collaboration workshop in a healthcare setting. It aims to gather feedback on various aspects of the workshop, including its quality, collaboration effectiveness, staff satisfaction, and submission status. The form might overlap with other evaluation forms that focus on team collaboration, but this specific form is likely tailored to the healthcare industry's unique needs and considerations.
-
-</thinking>
-
 # Healthcare Team Collaboration Workshop Evaluation - Help Guide
 ## Purpose
 This form is designed to evaluate the effectiveness of a healthcare team collaboration workshop. It assesses various aspects of the workshop, including its quality, collaboration effectiveness, staff satisfaction, and submission status.

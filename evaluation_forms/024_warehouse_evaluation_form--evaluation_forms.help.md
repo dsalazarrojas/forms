@@ -1,13 +1,3 @@
-<thinking>
-To create an effective and user-friendly Warehouse Evaluation Form, we first need to understand the context and purpose of the form. This form is designed to evaluate the warehouse service provided by a facility or organization. This form likely aims to collect feedback from clients or users about their experience with the warehouse, including various aspects such as overall experience, communication, cleanliness, equipment condition, staff professionalism, parking facilities, accessibility, and other important criteria.
-
-The form should be clear and easy to understand to ensure that users can provide accurate and relevant feedback. A well-designed form should guide users through each section and help them fill it out without unnecessary complexities.
-
-The form has multiple fields, some of which are required, while others are optional. We need to explain each field in detail to ensure users understand what to expect and how to fill it out correctly.
-
-Let's create a detailed help guide for the Warehouse Evaluation Form.
-</thinking>
-
 # Warehouse Evaluation Form - Help Guide
 ## Purpose
 The Warehouse Evaluation Form is designed to collect feedback from clients or users about their experience with a warehouse. This form helps the facility or organization to understand their strengths and weaknesses, identify areas of improvement, and make necessary adjustments to enhance their services.

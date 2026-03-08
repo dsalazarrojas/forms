@@ -1,7 +1,3 @@
-<thinking>
-This form is used to evaluate the effectiveness and impact of a training program. It is designed to gather feedback from trainees on their experience with the training and its relevance to their job responsibilities. The form should only be used for this purpose and not for other evaluations or assessments. Please ensure that you are using this form in the correct context to get the most accurate and relevant feedback.
-</thinking>
-
 # Training Evaluation Questionnaire - Help Guide
 ## Purpose
 This form is designed to evaluate the effectiveness and impact of a training program. It is meant to gather feedback from trainees on their experience with the training and its relevance to their job responsibilities.

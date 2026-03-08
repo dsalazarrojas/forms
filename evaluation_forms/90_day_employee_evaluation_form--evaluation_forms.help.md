@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a comprehensive evaluation tool for employees within the first 90 days of their employment. It's intended for managers or HR representatives to assess an employee's performance, provide feedback, and recommend action items for growth and development. This form ensures that all necessary information is gathered to make informed decisions about an employee's continued employment, potential extension of their probation period, or termination of their employment contract.
-</thinking>
-
 # 90 Day Employee Evaluation Form - Help Guide
 ## Purpose
 The 90 Day Employee Evaluation Form is a structured assessment tool that helps managers and HR representatives evaluate an employee's performance during their first 90 days of employment. It provides a clear and concise way to gather feedback, identify areas of improvement, and make informed decisions about an employee's future.

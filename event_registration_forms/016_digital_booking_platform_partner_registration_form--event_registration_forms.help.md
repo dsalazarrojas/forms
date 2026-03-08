@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from digital booking platform partners. The form should help you to register your platform as a partner on our platform.
-We will only include this form in the guide if it is not already included.
-</thinking>
-
 # digital_booking_platform_partner_registration_form - Help Guide
 ## Purpose
 This form is designed to collect information from digital booking platform partners for registration on our platform.

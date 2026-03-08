@@ -1,7 +1,3 @@
-<thinking>
-This form is used for participants to provide information about a holiday event they are hosting or participating in. This event is part of a larger giveaway program and this form collects necessary details for event organizers to verify the event's legitimacy and ensure it meets the giveaway program's criteria. This form is not intended for general event registration; it is specifically for participants to provide information about their holiday event. To avoid duplication of effort, please only submit this form once for each holiday event. 
-</thinking>
-
 # Holiday Giveaway Information Request - Help Guide
 ## Purpose
 The Holiday Giveaway Information Request form is used to collect information about a holiday event you are hosting or participating in. This form is essential for our giveaway program to verify the event's legitimacy and ensure it meets our program's criteria.

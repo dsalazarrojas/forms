@@ -1,12 +1,3 @@
-<thinking>
-Internal reasoning block to confirm form purpose and prevent duplication:
-
-- The purpose of this form is to collect registration information from attendees for a networking mixer event.
-- This form should only be used for events that are part of the official company calendar.
-- Ensure the "event_name" field matches the actual event name from the calendar.
-
-</thinking>
-
 # networking_mixer_registration_form - Help Guide
 ## Purpose
 The networking mixer registration form is designed to collect essential details from attendees for a networking mixer event. This information helps the organizers manage event registrations efficiently and ensures that attendees receive accurate updates and communications related to the event.

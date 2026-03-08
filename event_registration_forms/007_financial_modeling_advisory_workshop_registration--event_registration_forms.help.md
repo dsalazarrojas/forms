@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from participants who want to register for the Financial Modeling Advisory Workshop. The form is intended to be used by individuals who are interested in attending the workshop and want to provide their details and payment information. The form has five fields: "Event Details", "participant information", "contact info", "Workshop Details", and "Payment Info". Each field is a text input, indicating that the form does not require any specific formatting or special input types.
-The form is not affiliated with any form creation or survey platforms, and the AI-generated form is released under CC BY 4.0 license, allowing users to use, modify, and even sell forms derived from it while giving credit.</thinking>
-
 # Financial Modeling Advisory Workshop Registration - Help Guide
 ## Purpose
 This form is designed to collect registration information from participants who want to attend the Financial Modeling Advisory Workshop.

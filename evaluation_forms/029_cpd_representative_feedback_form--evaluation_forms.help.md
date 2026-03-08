@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, my approach to creating a user-facing help guide for this form is to ensure it is clear, concise, and easy to understand. The CPD Representative Feedback Form is a crucial tool for gathering feedback from users on their interactions with representatives. This form is used to collect detailed information on the representative's professionalism, knowledge, and communication skills, as well as areas where they can improve. The goal is to provide actionable feedback that can help the representative grow and develop in their role.</thinking>
-
 # CPD Representative Feedback Form - Help Guide
 ## Purpose
 The CPD Representative Feedback Form is designed to gather feedback from users on their interactions with representatives. The form is used to assess the representative's performance, identify areas for improvement, and provide suggestions for future interactions.

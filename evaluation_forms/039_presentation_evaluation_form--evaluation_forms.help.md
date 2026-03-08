@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to evaluate a presentation, typically used by a team lead or manager to assess the quality and effectiveness of a presentation. The evaluation form is usually filled out by someone who has watched the presentation and wants to provide feedback on its various aspects. It's likely that the form will be used in an educational or corporate setting, where the presentation is part of a course, meeting, or other corporate event.
-Before starting to fill out this form, make sure you're familiar with the presentation and have any necessary information or materials ready. This form is meant to be filled out once for each presentation, so be thorough and honest in your evaluation.
-Please note that some fields are marked as "required", meaning they must be filled out. If a field is not required, you can leave it blank or fill it out if you feel it's relevant.
-</thinking>
-
 # Presentation Evaluation Form - Help Guide
 ## Purpose
 This form is designed to evaluate a presentation on various aspects, including speaker skill, content, time management, and organization. It's used to gather feedback on the presentation's quality and effectiveness.

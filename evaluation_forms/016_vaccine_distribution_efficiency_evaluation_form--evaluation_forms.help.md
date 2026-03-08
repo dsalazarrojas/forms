@@ -1,7 +1,3 @@
-<thinking>
-The Vaccine Distribution Efficiency Evaluation Form is used to gather feedback and ratings from vaccine distributors on the efficiency of their distribution process. The form aims to collect information on various aspects of vaccine distribution, including overall rating, distribution strategy, distribution channel, and other relevant details.
-</thinking>
-
 # Vaccine Distribution Efficiency Evaluation Form - Help Guide
 
 ## Purpose

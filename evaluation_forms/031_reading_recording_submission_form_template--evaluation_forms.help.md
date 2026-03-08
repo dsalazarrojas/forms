@@ -1,9 +1,3 @@
-<thinking>
-This form template is designed to support the evaluation and recording of submissions from students. The form will be used to collect data on student submissions, including details about the recording, such as the student's ID, submission date, and recording quality. The form also allows the user to provide comments, feedback, and status updates on the submission. 
-
-To prevent duplication and ensure accurate data collection, it is essential to use this template carefully and only when necessary.
-</thinking>
-
 # reading_recording_submission_form_template - Help Guide
 ## Purpose
 The "reading_recording_submission_form_template" is a form designed to support the evaluation and recording of student submissions. It collects data on student submissions, including details about the recording, comments, feedback, and status updates.

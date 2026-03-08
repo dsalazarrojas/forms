@@ -1,14 +1,3 @@
-<thinking>
-This form is designed for Christmas gift selection for employees. It is intended for employees to input their personal details and gift preferences to select a suitable gift. It seems like this form is part of a company's employee appreciation or recognition program. Each field is carefully crafted to gather relevant information to create a personalized gift experience. 
-
-It seems like the form has a clear and structured approach with sections for employee details, gift selection, and delivery information. It aims to cater to different gift tiers and categories, as well as personalization options. The form's design appears to cater to different departments and employee preferences.
-
-It is worth noting that the form's options are extensive, but not all fields are required, which suggests that employees can choose to provide as much or as little information as they want. This flexibility allows employees to provide the necessary details while keeping the form concise and manageable.
-
-The form's purpose is to collect data for gifting employees as part of their company's appreciation program. The structure is designed to provide a personalized gift experience based on the employee's preferences. It seems like the company is invested in showing appreciation to their employees in a thoughtful and meaningful way.
-
-</thinking>
-
 # Christmas Gift Selection Form - Help Guide
 
 ## Purpose

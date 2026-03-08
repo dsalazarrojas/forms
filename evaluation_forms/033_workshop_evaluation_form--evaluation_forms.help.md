@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and evaluations from workshop attendees. It is intended for internal use within the organization, so the form fields and questions are tailored to gather relevant and useful information. The form is not designed to collect sensitive or personal identifiable information.
-</thinking>
-
 # Workshop Evaluation Form - Help Guide
 ## Purpose
 The Workshop Evaluation Form is a tool to gather feedback and evaluations from workshop attendees. It is used by our organization to improve the quality and relevance of future workshops.

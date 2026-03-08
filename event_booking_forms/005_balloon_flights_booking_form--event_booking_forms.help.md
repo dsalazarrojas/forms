@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used to book balloon flights, which is a recreational activity typically involving hot air balloons. The form is meant for customers to provide their information for the booking, including contact details, flight preferences, and other relevant information for the flight operators. The form's purpose is to gather all necessary information to plan and execute the flight smoothly and safely. It is crucial that the customer provides accurate and complete information to ensure a successful flight. The form's fields are designed to be clear and concise, making it easy for customers to navigate and complete the form. Please ensure that the fields are filled in correctly to avoid any issues during the booking process.
-</thinking>
-
 # Balloon Flights Booking Form - Help Guide
 ## Purpose
 The Balloon Flights Booking Form is designed to gather information for booking a successful and safe balloon flight. Please follow this guide to complete the form accurately and ensure a smooth experience.

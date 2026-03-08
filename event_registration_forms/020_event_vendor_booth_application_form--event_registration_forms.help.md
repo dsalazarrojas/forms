@@ -1,7 +1,3 @@
-<thinking>
-The Event Vendor Booth Application Form is a digital form designed for event vendors to submit their application to participate in an event. This form is intended to collect necessary information from vendors to ensure a smooth and organized event experience. To prevent duplicate applications, we recommend that vendors submit their applications only once they have reviewed and understood the form's requirements. If you are a vendor interested in applying, please take the time to carefully read and complete this form accurately and thoroughly.
-</thinking>
-
 # Event Vendor Booth Application Form - Help Guide
 ## Purpose
 This form is designed to gather information from event vendors to facilitate their participation in an event. It includes fields for vendor information, product offers, contact details, event details, and other essential information.

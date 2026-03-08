@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from attendees and participants of the Educational Technology Expo. This form will help us understand who is coming to the expo, how they can be contacted, and what they are interested in learning about. This information will be used to prepare for the event and ensure that we can provide the best experience for all attendees.
-Before filling out this form, please ensure that you are registering for the correct event and that you haven't already filled out this form. If you have any questions or concerns, feel free to reach out to us.
-</thinking>
-
 # Educational Technology Expo Registration Form - Help Guide
 ## Purpose
 The Educational Technology Expo Registration Form is designed to collect relevant information from attendees and participants of the event. This information will be used to prepare for the event and provide the best possible experience for all attendees.

@@ -1,8 +1,3 @@
-<thinking>
-The Stage Power Connection Booking Form is a critical tool for event organizers to book and manage power requirements for stage events. Its completion requires specific information to ensure the smooth execution of these events. To avoid any misunderstandings or misinterpretations, please review this guide carefully before filling out the form.
-To ensure you're not duplicating efforts or missing any essential details, kindly double-check that your event is not already listed or that you're not filling out this form for the same event again. Please also be sure to review the field explanations provided below to guarantee you're filling out the form correctly.
-</thinking>
-
 # Stage Power Connection Booking Form - Help Guide
 ## Purpose
 The Stage Power Connection Booking Form is a vital tool for event organizers to book and manage power requirements for stage events. It helps to ensure that all necessary power resources are reserved and allocated efficiently.

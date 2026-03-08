@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect registration information for a specific event or scenario. Before completing this form, ensure that you understand the purpose and scope of the information being collected. The form should not be used for duplicate or redundant purposes. Please ensure that the information provided is accurate and complete.</thinking>
-
 # Registration Form Orange Scheme - Help Guide
 ## Purpose
 The Registration Form Orange Scheme is designed to collect registration details for a particular event or occasion. This form helps us gather essential information about you and your preferences for the event.

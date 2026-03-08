@@ -1,12 +1,3 @@
-<thinking>
-To determine if the form is a good fit for your use case, consider the following:
-  - Is the form intended to collect feedback and evaluate the effectiveness of events or conferences? 
-  - Are the questions and sections relevant to your event management or organization process? 
-  - Have you already used similar forms in the past or is this form part of a larger set of forms used for event evaluation and feedback? 
-  - Are there any existing forms or processes that may be duplicating the functionality or questions of this form? 
-  - Is there a specific team or department that will be responsible for reviewing and analyzing the data collected from this form?
-</thinking>
-
 # Business Event Evaluation Form - Help Guide
 
 ## Purpose

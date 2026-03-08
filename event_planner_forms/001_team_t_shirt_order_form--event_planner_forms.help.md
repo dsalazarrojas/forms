@@ -1,13 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "team_t_shirt_order_form" form, we need to first understand the form's purpose and context. This form is likely used for ordering team shirts, and the fields provided seem to be related to event planning and customization. 
-
-The form appears to be used for ordering team shirts for a specific event, and the fields include options for team name, shirt size, quantity, email, phone, team color, T-shirt color, order type, team number, notes, event name, location, event date and time, and team T-shirt design. 
-
-We should check if this form is being used for a specific event or if it's a general team order form. We also need to ensure that we're not duplicating any other help guides for similar forms. 
-
-Assuming this form is specific to a particular event, we can proceed to create a user-facing help guide.
-</thinking>
-
 # Team T Shirt Order Form - Help Guide
 ## Purpose
 The Team T Shirt Order Form is used to place orders for team shirts for a specific event. This form gathers information about the team, the order details, and other relevant event information.

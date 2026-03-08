@@ -1,7 +1,3 @@
-<thinking>
-  This form is designed to collect information about a wedding event, specifically to help wedding coordinators and planners understand the scope and details of the event. The purpose of this form is to gather essential data from the couple getting married and their families to ensure a smooth and stress-free wedding experience. This form is meant to be used by couples and their loved ones to provide accurate and comprehensive information about their wedding event. 
-</thinking>
-
 # wedding_event_plan_questionnaire - Help Guide
 ## Purpose
 This form collects information about the wedding event to help wedding coordinators and planners plan and coordinate the event successfully.

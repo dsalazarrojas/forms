@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Road Safety Workshop Feedback Form - Help Guide
 
 ## Purpose

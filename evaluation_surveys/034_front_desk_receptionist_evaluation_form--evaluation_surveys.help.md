@@ -1,5 +1,3 @@
-<thinking>This form is designed to evaluate the performance of front desk receptionists, gathering feedback on their attitude, communication skills, time management, problem-solving abilities, technical skills, teamwork, customer service, overall performance, and rating. The form is intended to be completed by evaluators who have observed the receptionist's work and can provide an unbiased assessment. The form is not designed to be a mandatory or mandatory evaluation, but rather a voluntary and confidential feedback mechanism. It is meant to help evaluate and improve the receptionist's performance and overall office operations.</thinking>
-
 # Front Desk Receptionist Evaluation Form - Help Guide
 ## Purpose
 This form is designed to evaluate the performance of front desk receptionists, allowing evaluators to provide feedback on various aspects of their work, including attitude, communication skills, time management, problem-solving abilities, and more.

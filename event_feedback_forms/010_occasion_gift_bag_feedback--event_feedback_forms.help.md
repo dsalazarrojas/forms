@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback on the occasion gift bag provided to customers or clients. This feedback will help us understand their experiences and identify areas of improvement to better serve them in the future. To ensure accurate and actionable feedback, please provide honest and specific responses to each question. If you've already completed a similar form, please don't worry to fill it out again unless there are changes or updates to the occasion gift bag you're providing feedback on.
-</thinking>
-
 # Occasion Gift Bag Feedback - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback on the occasion gift bag provided to customers or clients. Your input will help us understand their experiences and identify areas of improvement to better serve them in the future.

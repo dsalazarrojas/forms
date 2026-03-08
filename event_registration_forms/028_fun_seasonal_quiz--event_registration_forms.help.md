@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fun Seasonal Quiz - Help Guide
 ## Purpose
 The "Fun Seasonal Quiz" form is designed to collect feedback and opinions from users on their interest in participating in seasonal activities. The form will help us gauge user interest and preferences for upcoming seasonal events.

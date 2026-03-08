@@ -1,10 +1,3 @@
-<thinking>
-The Event Venue Contract Form is a digital form used to capture essential details related to event venue contracts. Its primary purpose is to provide a structured way to collect and manage contract information for events held at various venues. This form should be used when an event is booked at a venue, and the venue manager needs to agree or decline the booking. 
-The form is typically completed by the venue manager or other authorized personnel. 
-Please ensure that the form is filled out accurately and completely for each event to ensure proper processing and follow-up. 
-Note: This form should not be used for other purposes than event bookings. 
-</thinking>
-
 # Event Venue Contract Form - Help Guide
 ## Purpose
 The Event Venue Contract Form is used to capture essential details of event venue contracts for accurate processing and follow-up.

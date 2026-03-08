@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to capture sponsorship information from potential sponsors for an Educational Expo event. The form is likely used by event organizers to collect details from sponsors such as their name, title, email, phone number, website, school/institution information, and event team details. This information will help the event organizers communicate with and provide services to the sponsors effectively.
-To ensure the form is filled out correctly, please review each field carefully.
-</thinking>
-
 # Educational Expo Sponsorship Form - Help Guide
 ## Purpose
 This form is intended for sponsors of the Educational Expo event to provide their information for communication and partnership purposes.

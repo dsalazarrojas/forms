@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to be a survey for gathering information about Spring Break, which is a popular vacation period in the United States. It is likely used to collect data from students, staff, or faculty about their plans, preferences, or experiences related to Spring Break. This form is probably used by administrators, HR, or event planners at educational institutions to track attendance, preferences, or feedback.
-
-The form is likely to be filled out by students, staff, or faculty who are taking spring break.
-
-The form consists of 7 pages with the same type of field "text" on each page. Each field is required, indicating that the person filling out the form must provide some text in each field.
-
-This form may be used for various purposes such as tracking attendance, understanding preferences, or gathering feedback about events or activities related to Spring Break. However, without more information about the specific use case, it's impossible to determine the exact purpose of the form.
-
-The form does not appear to be affiliated with or derived from any form platform, and is an original adaptation created by AI using public survey topic metadata. It is released under CC BY 4.0 license, allowing users to use, modify, and even sell forms derived from it, while giving credit.
-</thinking>
-
 # Spring Break Survey - Help Guide
 ## Purpose
 This form is designed to collect information about Spring Break from students, staff, or faculty at educational institutions.

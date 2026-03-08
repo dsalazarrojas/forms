@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for collecting information for a Mother's Day raffle event. The form collects participant information, raffle details, and event details. To fill out this form, please make sure you have all the necessary information for the participant and the raffle event. Note that some fields are optional and can be left blank.
-</thinking>
-
 # Mother's Day Raffle Form - Help Guide
 ## Purpose
 This form is designed to collect participant and event information for the Mother's Day raffle event.

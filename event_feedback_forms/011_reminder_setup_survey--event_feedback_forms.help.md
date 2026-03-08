@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Reminder Setup Survey - Help Guide
 ## Purpose
 The Reminder Setup Survey is a form designed to collect feedback about events. Its purpose is to help us understand your experience with events and identify areas for improvement.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals or organizations interested in donating Halloween candies for an event. The form is intended for those who want to donate candies for the event and need to provide details about themselves and their donation. This form is not intended for event organizers or participants. Please ensure you only fill out this form if you are a candy donor.
-</thinking>
-
 # Halloween Candy Donation Form - Help Guide
 ## Purpose
 This form is for individuals or organizations interested in donating Halloween candies for an event. Please fill out this form to provide details about yourself and your donation.

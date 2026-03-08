@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Management Evaluation Form is used to gather feedback and information from managers about their team members' performance and management style. This form helps to identify areas of strength and weakness in management, and can be used as a tool for professional development and growth.
 
 Before starting, please ensure that you are filling out the correct form. This form has multiple pages, but all the pages are part of the same form, so please complete all the pages carefully.

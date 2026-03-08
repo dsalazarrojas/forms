@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for attendees to register for a live remote event segment. To ensure accuracy and completion, please review the form carefully before submitting. 
-The form is composed of multiple sections: Attendee Details, Segment Choices, and Time Slots. 
-</thinking>
-
 # Live Remote Segment Registration - Help Guide
 
 ## Purpose

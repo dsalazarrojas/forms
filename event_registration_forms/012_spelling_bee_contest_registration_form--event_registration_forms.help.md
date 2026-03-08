@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect registration information for the Spelling Bee Contest. It is likely intended for schools or other educational institutions to collect data from participants or their emergency contacts in advance of the event. Please ensure that the form fields are accurately completed to avoid duplication of effort and confusion during the registration process.</thinking>
-
 # Spelling Bee Contest Registration Form - Help Guide
 ## Purpose
 The Spelling Bee Contest Registration Form is designed to collect registration information from participants and their emergency contacts for the Spelling Bee Contest.

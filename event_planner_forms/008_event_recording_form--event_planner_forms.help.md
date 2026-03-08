@@ -1,9 +1,3 @@
-<thinking>
-To ensure that the form is used effectively and accurately, let's review its purpose and ensure it's not a duplicate form. The Event Recording Form is designed to collect information about events, including speaker details, event dates and times, recording methods, and other relevant metadata. This form is meant to standardize the way event recordings are documented and reported within the organization. 
-
-This form should only be used for recording events that have not been previously recorded, and users should not use it for events that already have a corresponding record in the system.
-</thinking>
-
 # Event Recording Form - Help Guide
 ## Purpose
 The Event Recording Form is used to record new events, providing a standardized way to document and track event details.

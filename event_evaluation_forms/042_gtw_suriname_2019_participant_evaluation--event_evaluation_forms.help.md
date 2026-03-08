@@ -1,7 +1,3 @@
-<thinking>
-This form was created using AI and is an original adaptation of the GTW Suriname 2019 event. It's not affiliated with or endorsed by any form platform. The form's purpose is to collect participant evaluations for the GTW Suriname 2019 event. To ensure relevance, please note that this form is specific to the GTW Suriname 2019 event and not a general purpose form. If you've already completed an evaluation form for this event, you might find this one familiar, but please fill it out again to help us gather more detailed insights. 
-</thinking>
-
 # GTW Suriname 2019 Participant Evaluation - Help Guide
 
 ## Purpose

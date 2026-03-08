@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended for users to enter their details for an event registration, and it collects name, email, and phone number from the users. The purpose of this form is to gather relevant information from users before they register for the event, and to ensure that the registration process is smooth and error-free. 
-
-To avoid duplication of efforts, this form will only be shown to users who have not already registered for the event.
-
-</thinking>
-
 # welcome_message_form - Help Guide
 ## Purpose
 The "welcome_message_form" is designed to collect essential information from users who are registering for an event. This form is meant to be a one-time entry point for users to provide their details for registration.

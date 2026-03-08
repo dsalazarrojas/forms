@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is clear and easy to use for the end-users. The form is designed for booking a comedy show performance, and it's crucial to get the correct information from the performer to ensure a smooth and enjoyable experience for both the performer and the event organizers. The key fields to focus on are the performer's name, email, and phone number as these are crucial for communication and payment purposes. The performance details section, including style, duration, and preferred dates, are essential for the event organizers to schedule the show correctly. The technical requirements section is important for the performers' specific needs, and the compensation section is critical for the business aspect. Lastly, the promotional materials section is optional but can help the performer showcase their work.
-</thinking>
-
 # Comedy Show Performance Booking Form - Help Guide
 
 ## Purpose

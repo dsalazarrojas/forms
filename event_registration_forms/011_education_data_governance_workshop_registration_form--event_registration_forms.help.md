@@ -1,7 +1,3 @@
-<thinking> 
-This form is used to collect user information for the Education Data Governance Workshop. The form is designed to be completed by users who want to attend the workshop, providing details such as name, email, phone number (optional), event selection, date, and time of attendance. This information is crucial for the workshop organizers to manage the event efficiently. Please make sure you are registering with a valid email address and correct phone number (if provided) to ensure smooth communication.
-</thinking>
-
 # Education Data Governance Workshop Registration Form - Help Guide
 ## Purpose
 This form is used to collect user information for the Education Data Governance Workshop.

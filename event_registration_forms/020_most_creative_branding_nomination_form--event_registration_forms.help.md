@@ -1,8 +1,4 @@
-> **<thinking>**
-This form is intended for users to nominate their company or organization for the "Most Creative Branding" award. The purpose of this form is to gather information about the nominated entity, including its name, email, and the reason for the nomination. This form will help the award committee evaluate the nominations and choose the winner.
-> </thinking>
-
-# Most Creative Branding Nomination Form - Help Guide
+> **# Most Creative Branding Nomination Form - Help Guide
 ## Purpose
 The "Most Creative Branding" award is given to companies or organizations that have demonstrated exceptional creativity in their branding efforts. This form allows users to nominate their own company or organization for this award.
 

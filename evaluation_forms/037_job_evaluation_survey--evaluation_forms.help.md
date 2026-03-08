@@ -1,15 +1,3 @@
-<thinking>... internal reasoning block to check if form purpose and fields are clear and relevant ...
-
-This form is designed to collect job evaluation information from users. It appears to be a survey with various fields related to job characteristics, such as job title, description, responsibilities, and evaluation metrics. The fields are mostly select or text fields, indicating a qualitative evaluation.
-
-Before proceeding, please ensure that the form purpose and fields are clear and relevant to your specific use case. If you are unsure, consider the following:
-
-* Is this form intended for self-assessment or peer evaluation?
-* Are the evaluation metrics (urgency, frequency, priority) relevant to your specific job evaluation process?
-* Are the fields sufficient for collecting the necessary information, or should additional fields be added?
-
-If you are satisfied with the form purpose and fields, please proceed to the help guide below.</thinking>
-
 # job_evaluation_survey - Help Guide
 ## Purpose
 The Job Evaluation Survey is designed to collect information about a job's characteristics and evaluate its suitability for completion.

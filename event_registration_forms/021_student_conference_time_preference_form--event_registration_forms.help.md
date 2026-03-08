@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Conference Time Preference Form - Help Guide
 ## Purpose
 

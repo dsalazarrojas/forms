@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about an online event, including its details, attendee information, date and time, registration status, type, location, description, organizer, contact email, and contact phone number. This form should be used to register events such as conferences, webinars, meetups, and workshops. **Please ensure that you have all necessary information before proceeding, as this form cannot be duplicated or submitted multiple times.**
-</thinking>
-
 # Online Event Registration - Help Guide
 ## Purpose
 This form is designed to collect information about an online event, including its details, attendee information, date and time, registration status, type, location, description, organizer, contact email, and contact phone number. The goal is to gather all necessary information to register and plan the event.

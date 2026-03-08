@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to register a pool party event. It is used by event planners to collect information about pool parties, including the date of the party, the type of party, the number of guests, whether there will be dogs, any notes or comments about the party, the host of the party, and the location of the party. The form is used to ensure that all necessary information is collected in a standardized way, so that the planners can plan and execute the event efficiently and effectively.
-</thinking>
-
 # Pool Party Registration Form - Help Guide
 ## Purpose
 This form is used by event planners to collect information about pool parties.

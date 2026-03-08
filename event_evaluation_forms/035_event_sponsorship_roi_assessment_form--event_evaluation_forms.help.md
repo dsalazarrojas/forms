@@ -1,15 +1,3 @@
-<thinking>
-This form is used to assess the return on investment (ROI) of a sponsorship for an event. The ROI is calculated by evaluating the benefits received from the sponsorship compared to the costs incurred. This form is used to gather data that will help event organizers and sponsors to evaluate the effectiveness of their investment in an event. 
-
-This form is part of the event evaluation forms, which are used to collect data on various aspects of an event. To avoid duplication of effort, please ensure that you have already completed the event evaluation forms for the same event before filling this form.
-
-Please note that this form is used to collect data that will be used for internal reporting and evaluation purposes only. The data collected through this form will not be shared with external parties.
-
-Before filling this form, please make sure that you have all the necessary information about the event and the sponsorship ready.
-
-This form has multiple pages, and each page has several fields that you need to fill in. Please follow the instructions below to complete the form correctly.
-</thinking>
-
 # event_sponsorship_roi_assessment_form - Help Guide
 
 ## Purpose

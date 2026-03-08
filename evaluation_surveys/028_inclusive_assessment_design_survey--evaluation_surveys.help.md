@@ -1,6 +1,3 @@
-<thinking>
-This form is for collecting feedback on the assessment design process, aiming to improve its inclusivity and effectiveness. It is designed to gather insights from educators on their roles in the assessment process, their experience with the current design, and their perceptions on various aspects of the assessment such as quality, feedback mechanisms, and inclusivity. This form should be filled out by educators who are familiar with the assessment process and can provide informed opinions. Please note that the form is not intended to be a comprehensive evaluation, but rather a starting point for improvement. If you are unsure about any question, please answer according to your best understanding and judgment. If you have already filled out this form, your responses should be based on your current understanding and experiences, rather than any previous answers you may have provided.</thinking>
-
 # Inclusive Assessment Design Survey - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture basic registration information from individuals who want to participate in a powerlifting event. The form is likely used for event planning purposes, such as tracking attendee information or sending reminders and updates to participants. The registration information may be used to create a database of registered participants, which can be useful for event organizers to track and manage attendee data.
-</thinking>
-
 # Powerlifting Event Registration Form - Help Guide
 ## Purpose
 This form is used to collect basic information from individuals who want to participate in a powerlifting event. The information collected will be used for event planning and management purposes.

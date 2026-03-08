@@ -1,7 +1,3 @@
-<thinking>
-Is the purpose of this form to evaluate the innovation project for an animal training grant? This form seems to be a comprehensive application for an innovation project that focuses on animal training, and it includes various sections to gather information about the organization, project details, budget, team, and evaluation criteria. I will create a help guide that explains each field in a concrete and concise way.
-</thinking>
-
 # Animal Training Innovation Grant Application - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-Internal reasoning:
-This help guide aims to assist users in completing the Casual Day Participation Form, a key document for registering and participating in Casual Days, a themed event that supports local charities and promotes team bonding. 
-The form's purpose is to gather essential employee information, including name, ID, department, email, participation date, preferred theme, donation amount, payment method, lunch preferences, and acknowledgement of workplace guidelines. 
-The form ensures that employees provide accurate and complete data, ensuring seamless event execution and participant management. 
-This guide will walk users through each field, providing clear explanations and examples, making it easy for them to complete the form with confidence.
-</thinking>
-
 # Casual Day Participation Form - Help Guide
 ## Purpose
 This form is used to register and participate in Casual Days, a themed event that supports local charities and promotes team bonding.

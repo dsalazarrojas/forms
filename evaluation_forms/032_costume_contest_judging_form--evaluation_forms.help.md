@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to allow users to judge costumes in a contest. It's essential to ensure that the form is filled out correctly for accurate and fair evaluation. Before filling out this form, please review the guidelines and instructions to ensure you're evaluating the costume correctly. This form is used to gather information from multiple judges, so please only fill out the form once per judge. If you're unsure about any part of the form, please ask your supervisor for clarification.
-</thinking>
-
 # Costume Contest Judging Form - Help Guide
 ## Purpose
 The costume contest judging form is used to evaluate costumes in a contest. Judges will use this form to provide feedback and ratings for each costume.

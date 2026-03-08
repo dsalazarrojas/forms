@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and opinions from users about their experiences with Hallowfest, a hypothetical festival. It's assumed that this form is used to gauge user engagement, satisfaction, and preferences regarding the festival. The form is not required, and users can fill it out at their discretion. It's essential to ensure that users do not fill out the form multiple times, as the data collection is for internal purposes only.
-</thinking>
-
 # Hallowfest Survey - Help Guide
 ## Purpose
 This form collects feedback and opinions from users about their experiences with Hallowfest, a hypothetical festival. It's designed to gauge user engagement, satisfaction, and preferences.

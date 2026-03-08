@@ -1,13 +1,3 @@
-<thinking>
-
-The Social Impact Film Festival Evaluation Form is designed to collect feedback from users about a film festival, specifically about a particular film. This form is meant to be used by festival attendees, jurors, or organizers to provide an evaluation of the film's social impact, its technical merits, and their overall experience. 
-
-The form is intended to be a simple and user-friendly way to gather feedback, making it accessible to a wide range of users. Before completing this form, please ensure you have a clear understanding of the film's content and your own feelings about it.
-
-Please note that this form is a general feedback tool and is not meant to be a comprehensive review or critique of the film. Your input will help us improve future film festival events and better serve the community.
-
-</thinking>
-
 # Social Impact Film Festival Evaluation Form - Help Guide
 ## Purpose
 This form is used to evaluate a film presented at the Social Impact Film Festival. It's meant to gather feedback on the film's content, impact, and overall experience.

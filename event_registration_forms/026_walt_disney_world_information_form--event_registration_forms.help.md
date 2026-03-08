@@ -1,7 +1,3 @@
-<thinking>
-The Walt Disney World Information Form is a user registration form designed to collect information from users about their visit to Walt Disney World. The form is intended to be completed by individuals visiting the theme park and aims to gather basic contact information, travel plans, and other relevant details. The form consists of three pages, each with a text field. The purpose of this form is to provide a convenient and organized way for guests to share their experiences, provide feedback, and receive updates from Walt Disney World.
-</thinking>
-
 # Walt Disney World Information Form - Help Guide
 ## Purpose
 The Walt Disney World Information Form is designed to gather information from visitors about their experiences and preferences during their visit. This form is intended to help Walt Disney World's management team better understand guest needs and improve the overall experience.

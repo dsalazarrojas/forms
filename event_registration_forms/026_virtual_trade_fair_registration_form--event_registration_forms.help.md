@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for users to register for a virtual trade fair. The form captures the necessary information for event organizers to understand who will be attending the event. The form fields are organized into several sections, including personal details, event information, and attendee details. The form is designed to be completed by individuals who want to participate in the virtual trade fair.
-
-Please note that some fields are optional, and users should only fill in the information that is relevant to their participation in the event.
-
-</thinking>
-
 # Virtual Trade Fair Registration Form - Help Guide
 ## Purpose
 This form is designed for users to register for a virtual trade fair. It captures personal details, event information, and attendee details to allow event organizers to understand who will be attending the event.

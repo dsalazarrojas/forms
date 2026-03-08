@@ -1,17 +1,3 @@
-<thinking>
-The form is intended to collect information from potential members of the Runners Association, allowing them to register and apply for membership. This form should only be filled out by individuals who are interested in becoming a part of the association. The form will be used to verify the identity and contact information of the applicant. It is not intended for internal association members or staff.
-
-The form is divided into one page, with the following fields:
-
-- **Application Form**: a text box for a brief description of the applicant's interest in joining the association.
-- **First Name**: a field for the applicant's first name.
-- **Last Name**: a field for the applicant's last name.
-- **Email**: an email field for the applicant to provide their contact email address.
-- **Phone**: a text box for the applicant's phone number.
-
-The association encourages members to be honest and accurate when filling out this form, as it will be used for membership verification and communication purposes.
-</thinking>
-
 # Runners Association Membership Form - Help Guide
 ## Purpose
 

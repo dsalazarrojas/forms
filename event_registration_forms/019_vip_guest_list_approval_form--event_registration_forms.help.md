@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # VIP Guest List Approval Form - Help Guide
 
 ## Purpose

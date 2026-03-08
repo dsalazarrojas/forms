@@ -1,5 +1,3 @@
-<thinking>...The goal of this form is to gather feedback from users on a mediation session, allowing us to improve our services and provide better support. This form will be used to collect information about the session, including the session name, date, facilitator, and goals, as well as the outcome and any follow-up comments. We need to ensure that users understand how to fill out this form correctly, so let's break down the instructions step by step... </thinking>
-
 # Mediation Session Feedback Form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from users on a mediation session, allowing us to improve our services and provide better support.

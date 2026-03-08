@@ -1,7 +1,3 @@
-<thinking>
-This guide will cover the Party Rental Agreement Form, a document used to outline the terms and conditions of a party rental event. The form is used to collect contact information, party details, and other relevant data from customers. It serves as a contract between the party planner and the customer, outlining the services and equipment provided, payment terms, and other essential agreements. The form is a critical component in managing party rentals and ensuring that both parties are on the same page. Before proceeding, ensure that you have a clear understanding of the form's purpose and requirements.
-</thinking>
-
 # Party Rental Agreement Form - Help Guide
 ## Purpose
 The Party Rental Agreement Form is a document used to outline the terms and conditions of a party rental event. It collects contact information, party details, and other relevant data from customers, serving as a contract between the party planner and the customer.

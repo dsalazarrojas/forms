@@ -1,16 +1,3 @@
-<thinking>
-This form was designed to help customers personalize an ornament by pre-ordering a customized ornament based on their specific preferences. 
-
-Form fields will ask for:
-- Customer information
-- Ornament details
-- Order details
-- Shipping information
-- Customer payment info
-
-Please ensure the form is being filled out in a single session, and that it's only used for personal, non-commercial purposes. If used for commercial purposes, please ensure you have a valid commercial license.
-</thinking>
-
 # Personalized Ornament Pre Order Form - Help Guide
 
 ## Purpose

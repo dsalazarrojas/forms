@@ -1,10 +1,3 @@
-<thinking>
-The Role Play Evaluation Form is designed to evaluate the performance of actors in role plays, providing an assessment of their ability to play a specific role in a scenario. This form is used to collect data on the actor's performance, including their description, location, and score. The form is meant to be completed by a designated assessor, who provides feedback on the actor's performance and completes the form on behalf of the actor. 
-
-Before proceeding, please verify that you are authorized to complete this form and that the data is accurate. This form should not be completed multiple times for the same evaluation; instead, use the "Form Completed By" field to identify the person who completed it.
-
-</thinking>
-
 # Role Play Evaluation Form - Help Guide
 ## Purpose
 The Role Play Evaluation Form is a tool used to assess the performance of actors in role plays, providing a structured evaluation framework for assessors to provide feedback on their performance. 

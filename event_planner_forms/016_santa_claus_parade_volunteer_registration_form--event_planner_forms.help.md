@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Santa Claus Parade Volunteer Registration Form - Help Guide
 
 ## Purpose

@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to be used by individuals or their representatives to register for the Mental Health Awareness Program. This guide will walk you through the purpose of the form and how to complete it. Please ensure that you have not completed this form before, as it is intended for new registrants only. This form is a crucial part of the registration process for the program and is required for all participants. Failure to complete this form accurately may result in delayed or denied admission to the program.</thinking>
-
 # Mental Health Awareness Program Admission Form - Help Guide
 ## Purpose
 The Mental Health Awareness Program Admission Form is a registration form used by individuals or their representatives to enroll in the program. This form is necessary for participants to gain access to program resources and services.

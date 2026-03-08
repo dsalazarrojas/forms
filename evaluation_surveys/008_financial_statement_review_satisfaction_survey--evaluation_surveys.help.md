@@ -1,7 +1,3 @@
-<thinking>
-To ensure this help guide is relevant and non-duplicative, let's first review the form's purpose and content. The form is titled "Financial Statement Review Satisfaction Survey" and is used to gather feedback on the satisfaction of users with the reviewed financial statements. It appears to be a general survey with a mix of multiple-choice, single-entry, and text-entry fields. The form does not have any mandatory fields, suggesting that it's an optional survey for users to provide their feedback. The fields are quite diverse in terms of input types, including select_one, select_multiple, date, time, and number fields. This guide will aim to cover these aspects in a clear and concise manner.
-</thinking>
-
 # Financial Statement Review Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to help us understand your satisfaction with the reviewed financial statements.

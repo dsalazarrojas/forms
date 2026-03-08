@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect participant information for a group fitness class, which is a crucial part of the process for class organizers. The form should only be completed by authorized personnel, and it's essential to avoid duplication of effort. 
-</thinking>
-
 # Group Fitness Class Access Form - Help Guide
 ## Purpose
 This form is used to collect participant information for a group fitness class. It helps class organizers track participant details, access, and status.

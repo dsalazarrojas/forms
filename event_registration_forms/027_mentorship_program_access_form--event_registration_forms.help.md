@@ -1,14 +1,3 @@
-<thinking>
-The form purpose is to facilitate the registration for the mentorship program, where the user can select their preferred mentorship program, enter their details, and provide other relevant information related to their mentorship experience. 
-
-This form likely aims to gather data for tracking, management, or evaluation purposes within the mentorship program. However, without more specific context, the purpose remains uncertain and may include other uses such as scheduling, matching, or monitoring of mentorship engagements.
-
-To confirm that the form is correctly filled out and to prevent duplication, internal checks should be implemented to verify the user's details against existing records and ensure they are not already registered or have the necessary permissions to register. 
-
-Please ensure the form meets the required standards and follows any applicable regulatory and data protection policies before proceeding with this guide.
-
-</thinking>
-
 # Mentorship Program Access Form - Help Guide
 
 ## Purpose

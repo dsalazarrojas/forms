@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Multi Family Housing Summit Registration Form - Help Guide
 ## Purpose
 This form is for registering attendees to the Multi Family Housing Summit. It collects necessary information to ensure a smooth and efficient experience for all participants. Please fill in the required fields accurately to ensure a successful registration.

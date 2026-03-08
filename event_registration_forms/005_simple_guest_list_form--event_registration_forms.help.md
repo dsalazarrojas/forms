@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from guests attending an event. The purpose of this form is to gather essential details such as name, contact information, arrival and departure times, and event-specific details. This form is meant to be completed by event organizers or staff to keep track of guests attending an event. Please ensure you are filling this form for the intended purpose and not for any other reason. If you're unsure about any field, it's best to consult with the event organizer or the relevant authority.
-
-</thinking>
-
 # Simple Guest List Form - Help Guide
 ## Purpose
 The Simple Guest List Form is a tool to help event organizers keep track of guests attending an event. It collects essential information such as name, contact details, and event-specific information to ensure a smooth and organized guest experience.

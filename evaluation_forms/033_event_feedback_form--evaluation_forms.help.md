@@ -1,28 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from event attendees on various aspects of the event they attended. The purpose of this form is to gather valuable insights that can help event organizers evaluate their performance and make necessary improvements for future events. 
-
-The form consists of a series of questions that ask for ratings, comments, and suggestions on different aspects of the event, such as the event title, rating, comments, event description, event presentation, event venue, event presentation quality, event services, event fulfillment, overall experience, event attendance, and suggestions for future events. The form also asks for contact information, including email and phone number, although these are not required fields.
-
-The form is structured into the following sections: 
-* **Event Title**: A text field where the attendee can provide the title of the event they attended.
-* **Rating**: A numeric field where the attendee can rate the event on a scale from 1 to 5.
-* **Comments**: A text field where the attendee can provide additional comments about the event.
-* **Event Description**: A text field where the attendee can describe the event.
-* **Event Presentation**: A dropdown field where the attendee can rate the event presentation as Excellent, Good, or Poor.
-* **Event Venue**: A dropdown field where the attendee can select multiple options for the event venue as Excellent, Good, or Poor.
-* **Event Presentation Quality**: A dropdown field where the attendee can rate the event presentation quality as Excellent, Good, or Poor.
-* **Event Services**: A dropdown field where the attendee can rate the event services as Excellent, Good, or Poor.
-* **Event Fulfillment**: A dropdown field where the attendee can rate the event fulfillment as Excellent, Good, or Poor.
-* **Overall Experience**: A dropdown field where the attendee can rate the overall experience as Excellent, Good, or Poor.
-* **Event Attendance**: A dropdown field where the attendee can select multiple options for the event attendance as Excellent, Good, or Poor.
-* **Event Suggestion**: A text field where the attendee can provide suggestions for future events.
-* **Email**: An email field where the attendee can provide their email address.
-* **Phone**: A text field where the attendee can provide their phone number.
-* **Name**: A text field where the attendee can provide their name.
-
-</thinking>
-
 # Event Feedback Form - Help Guide
 ## Purpose
 The Event Feedback Form is designed to collect feedback from event attendees on various aspects of the event they attended. This feedback will help event organizers evaluate their performance and make necessary improvements for future events.

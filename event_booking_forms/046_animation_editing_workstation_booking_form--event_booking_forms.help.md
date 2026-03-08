@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to allow users to book and configure an editing workstation for a specific project, ensuring that the desired software and equipment are available for use. This helps the team manage resource allocation and minimize conflicts. It is crucial that users accurately provide their name, department/team name, workstation ID, preferred booking date and time, software requirements, project name, and agreement to clean the workstation after use. This guide is designed to walk the users through the form step-by-step.
-</thinking>
 # Animation Editing Workstation Booking Form - Help Guide
 ## Purpose
 The Animation Editing Workstation Booking Form is used to book and configure an editing workstation for a specific project. Users are required to select a workstation, preferred booking date and time, and software requirements to ensure that the desired equipment and tools are available for use. This form helps the team manage resource allocation and minimize conflicts.

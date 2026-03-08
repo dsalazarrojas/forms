@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from new students to tailor the welcome event to their needs and interests. It is crucial to ensure that each field is filled out accurately and truthfully to guarantee that the event is a positive experience for all attendees. Before starting, please review the form carefully to ensure that you have all the necessary information and that it is accurate. If you have any doubts or concerns, please reach out to the event organizers for clarification.
-</thinking>
-
 # New Student Welcome Event Registration - Help Guide
 ## Purpose
 This form is designed to collect information from new students to help us tailor the welcome event to their needs and interests.

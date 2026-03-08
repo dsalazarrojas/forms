@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to evaluate the effectiveness of wildlife care training, gathering feedback from participants on their experience. It should only be used for this specific purpose. To ensure consistency and accuracy, please do not use this form for any other type of evaluation. If you are unsure about the form's purpose, please contact your supervisor or the training facilitator.
-</thinking>
-
 # Wildlife Care Training Evaluation Survey - Help Guide
 ## Purpose
 This form is used to evaluate the effectiveness of wildlife care training, allowing participants to provide their ratings and comments on their experience. The goal is to gather feedback that will help improve future training sessions.

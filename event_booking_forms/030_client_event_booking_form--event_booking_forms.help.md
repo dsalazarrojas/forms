@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for clients who are interested in booking an event with the company. The form is intended to gather details about the client's event, such as the type of event, date and time, and venue preferences. The goal is to ensure that the company can provide the necessary services and accommodations for the client's event.
-This form is a comprehensive guide to help clients provide all the necessary information to book their event. Please take the time to fill out the form thoroughly and accurately to ensure that your event is booked smoothly and efficiently.
-</thinking>
-
 # Client Event Booking Form - Help Guide
 ## Purpose
 The Client Event Booking Form is designed to gather information about your event, allowing us to provide the best possible service for your needs.

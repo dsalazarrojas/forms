@@ -1,10 +1,3 @@
-<thinking>
-This form is used to gather feedback from event participants after an event has taken place. The form will help organizers understand what worked well and what didn't during the event, and provide an opportunity for attendees to provide their thoughts on what they experienced.
-
-Before filling out this form, ensure that you have attended the event and have something valuable to contribute. Please do not fill out this form if you have already provided feedback in the past.
-
-</thinking>
-
 # josh_dampf_events_post_event_feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from attendees after an event has concluded. Your input is crucial in helping us understand what worked well and what didn't during the event.

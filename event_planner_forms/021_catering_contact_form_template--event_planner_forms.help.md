@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from customers or clients about their catering needs and preferences. The form is meant to be used by event planners or caterers to collect essential details about the event, such as the type of event, date, location, and number of guests. The goal is to ensure that the caterer has all the necessary information to provide personalized services to the customer. This form should not be used for other purposes, such as sales pitches or promotions. Each field is carefully crafted to provide the most relevant information for the catering services.
-
-</thinking>
-
 # Catering Contact Form Template - Help Guide
 ## Purpose
 The Catering Contact Form is designed to gather essential information from customers or clients about their catering needs and preferences.

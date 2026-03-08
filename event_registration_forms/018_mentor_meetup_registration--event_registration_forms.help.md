@@ -1,7 +1,3 @@
-<thinking>
-This is a form to collect information from participants and mentors regarding their interests, availability, skills, experience, and other relevant details for the event meetup. It's essential to ensure that the mentor and participant details are correctly filled out, as this information will be used to pair them effectively.
-</thinking>
-
 # Mentor Meetup Registration - Help Guide
 ## Purpose
 The purpose of this form is to collect necessary information from both mentors and participants to facilitate a successful and engaging meetup event. The form will help the organizers determine suitable pairings between mentors and participants based on their interests, availability, and other relevant details.

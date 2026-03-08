@@ -1,13 +1,3 @@
-<thinking>
-This help guide is for the "fundraising_event_report_form" form, which is a crucial tool for reporting and tracking fundraising events. To ensure this form is used correctly and effectively, it's essential to understand its purpose and how each field contributes to this purpose.
-
-The primary function of this form is to collect and analyze data from event organizers and participants to improve future event planning and fundraising efforts. The form's data will be used to identify areas of improvement, optimize event execution, and enhance the overall fundraising experience.
-
-Before proceeding with filling out the form, please ensure that you are an authorized event organizer or participant. This form should not be used for general feedback or inquiries, as it is specifically designed for event-related data collection.
-
-Please note that some fields are optional, but completing them will provide more detailed and accurate data for analysis. If you're unsure about any field, please refer to the field-by-field explanation below.
-</thinking>
-
 # fundraising_event_report_form - Help Guide
 ## Purpose
 The "fundraising_event_report_form" is a form designed to collect data from event organizers and participants to improve future fundraising events. This guide will walk you through each field and its purpose.

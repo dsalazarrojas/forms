@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I will need to understand the purpose and functionality of the form, as well as the context in which it will be used. Based on the provided YAML, it appears that this form is used for requesting audio visual setup for events. The form asks for event details, equipment needs, and logistical information, such as contact person and contact information. This form likely serves to gather necessary information for event planners to prepare for and execute the event.
-
-The form is designed to be completed by event coordinators or organizers to request audio visual equipment and services for an event. This could include events such as conferences, presentations, or exhibitions. The form's purpose is to ensure that the necessary equipment and services are arranged for the event, and that the event planner has all the required information to plan and execute the setup.
-
-Before filling out this form, the event planner should confirm that they have the necessary permission and resources to complete the form. They should also review the form carefully to ensure they have answered all the required fields and have provided accurate information.
-
-</thinking>
-
 # Audio Visual Setup Request Form - Help Guide
 ## Purpose
 The Audio Visual Setup Request Form is used to request audio visual equipment and services for events. This form gathers necessary information from event coordinators to ensure that the event runs smoothly and that all equipment and services are prepared and ready for the event.

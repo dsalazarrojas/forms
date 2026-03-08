@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from potential helpers for the Santa's workshop, helping to streamline the selection process and match candidates with the best fit for the job. The form is used to gather data on personal details, availability, skills, and emergency contacts. Please note that the form is intended for one-time use and is not meant for recurring helpers. To ensure the most accurate and efficient matching process, it's essential to provide complete and honest information. 
-</thinking>
-
 # Santa Helper Application Form - Help Guide
 ## Purpose
 The Santa Helper Application Form is designed to collect information from potential candidates to assist in selecting the best helpers for Santa's workshop. This form aims to gather essential details, availability, skills, and emergency contacts to make a suitable match.

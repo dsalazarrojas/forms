@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registering participants for an AI-powered marketing training program. Its purpose is to collect information from interested individuals, organizations, or companies to facilitate their registration and provide a smooth experience for them during the training event. The form gathers essential details such as participant contact information, job role, preferred session, dietary requirements, accessibility needs, payment preferences, and additional comments or requests. This form is designed to be user-friendly and efficient, ensuring that all necessary information is collected without overwhelming the participant. 
-
-</thinking>
 # AI Powered Marketing Training Registration Form - Help Guide
 ## Purpose
 This form is designed to register participants for an AI-powered marketing training program. It collects essential information to provide a personalized experience during the training event.

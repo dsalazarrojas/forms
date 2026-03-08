@@ -1,17 +1,3 @@
-<thinking> 
-
-The purpose of this form is to collect feedback from attendees of a networking event. It is designed to capture information about the event, such as its name, date, location, and the attendees' experience and opinions. The form is likely to be used by event organizers to evaluate the success of the event and identify areas for improvement. 
-
-To determine if the form is suitable for your needs, please consider the following:
-
-- Is the form intended for a specific event or a general feedback collection?
-- Have you already collected feedback for this event or similar events?
-- Have you considered the specific goals and objectives of your feedback collection (e.g., evaluating event effectiveness, identifying areas for improvement, etc.)?
-
-If you're still unsure, feel free to ask your event organizers or the form creator for more information.
-
-</thinking>
-
 # Networking Event Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from attendees of a networking event. It will help event organizers evaluate the success of the event and identify areas for improvement.

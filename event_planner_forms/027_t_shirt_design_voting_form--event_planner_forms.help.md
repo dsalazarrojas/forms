@@ -1,10 +1,3 @@
-<thinking>
-This is a help guide for the "t_shirt_design_voting_form" form. This form is designed to allow users to vote on various aspects of a t-shirt design, including the choice of design, description, name, email, and other related fields. The form consists of multiple pages with different sections for users to fill out. 
-
-The form's purpose is to gather information from users about their preferences and opinions on t-shirt designs. Users can choose their favorite design, provide a description of their choice, input their name and email, and select the event location, event date, and event time. Additionally, users can input the name of the event, the event organizer's name, and their preferred t-shirt color and size. 
-
-To avoid confusion, the form is split into sections, and each field is clearly labeled, making it easier for users to navigate and fill out the form correctly.</thinking>
-
 # t_shirt_design_voting_form - Help Guide
 ## Purpose
 The "t_shirt_design_voting_form" is a multi-page form designed to gather information from users on t-shirt designs. It is meant to be used for voting on various aspects of t-shirt designs, such as design choice, description, and preferences.

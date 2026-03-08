@@ -1,13 +1,3 @@
-<thinking>... (internal reasoning block)
-
-The purpose of this form is to gather feedback from users on their interactions with the data support team. This form is designed to understand the user's experience, satisfaction, and areas of improvement to enhance the quality of service provided by the data support team.
-
-This form is meant to be used by users who have interacted with the data support team, and their responses will help shape the team's service and communication style.
-
-To avoid duplication, users who have already submitted feedback will be prompted to reevaluate and update their existing feedback before submitting this form.
-
-</thinking>
-
 # Data Support Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from users on their interactions with the data support team, helping us understand their experience, satisfaction, and areas of improvement.

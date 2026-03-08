@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Architect Of The Year Nomination Form - Help Guide
 ## Purpose
 This form is designed for nominating an architect for the "Architect Of The Year" award. It allows you to provide information about the nominee, their achievements, and the reasons for the nomination. Please fill out this form to submit your nomination.

@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and evaluations from students in the Nu212 Spring 2013 course. This form is intended to gather specific information about each student's experience, including course number, student ID, name, and overall rating. It also includes space for students to provide additional comments and evaluations.
-
-To ensure data consistency and accuracy, it's essential to understand how to complete this form correctly. This guide will walk you through each field, explaining what each one means and how to fill it out properly.
-
-</thinking>
-
 # Nu212 Spring 2013 Student Self Evaluation 2 - Help Guide
 ## Purpose
 The Nu212 Spring 2013 Student Self Evaluation 2 form is designed to collect feedback and evaluations from students in the course. This form is used to gather specific information about each student's experience and provide a comprehensive view of the course.

@@ -1,16 +1,3 @@
-<thinking>
-
-This form is designed to collect information from event inspectors on their findings and details about events. The form is meant to be used during or after an event inspection to gather data that can be used for reporting and analysis. The form is not intended to be a comprehensive survey, but rather a concise and structured way to capture relevant information. 
-
-Before creating this guide, I reviewed the form schema to ensure that it meets the requirements of the event inspection process and is not duplicating any existing forms. The form consists of four pages with the following fields:
-
-* Event Inspection (page 1)
-* Event Details (page 2)
-* Inspection Items (page 3)
-* Photo Upload (page 4)
-
-</thinking>
-
 # Event Inspection Report - Help Guide
 ## Purpose
 This form is designed to collect information from event inspectors on their findings and details about events during or after an inspection. It helps to gather data for reporting and analysis.

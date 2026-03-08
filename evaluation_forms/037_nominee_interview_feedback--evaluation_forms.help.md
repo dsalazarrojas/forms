@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nominee Interview Feedback - Help Guide
 
 ## Purpose

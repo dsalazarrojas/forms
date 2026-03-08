@@ -1,7 +1,3 @@
-<thinking>
-This form is used to capture information about an event, specifically the load-in and load-out details. The purpose of this form is to gather essential data that will help in managing and coordinating the event. The form is divided into sections that correspond to various aspects of the event, making it convenient for the user to input relevant information in a clear and organized manner. To ensure the form's effectiveness, it is essential to complete it accurately and thoroughly, taking into account the required and optional fields.
-</thinking>
-
 # Event Load In And Load Out Form - Help Guide
 ## Purpose
 This form is designed to gather information about event load in and load out details to facilitate effective event management.

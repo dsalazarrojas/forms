@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Volleyball Player Evaluation Form is used to assess a player's performance in a volleyball game or practice. This form helps to evaluate a player's skills, effort, and overall performance, and provides a space for additional comments and feedback. The form is designed to be completed by coaches, trainers, or evaluators who have direct observation of the player's performance. 
 
 </thinking>

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to help music schools generate leads for their open house events by capturing information from prospective students and families interested in the school's programs. This form can be used to collect contact information, program interest, and other relevant details to follow up with potential leads.
-The form's internal logic is based on a series of questions and fields that aim to qualify interest and gather information for lead generation. However, it's essential to ensure that the form is being used correctly to avoid duplication of efforts and to guarantee accurate data collection.
-In this help guide, we'll break down each field to provide a clear understanding of what's required and what information should be collected.</thinking>
 # Music School Open House Lead Form - Help Guide
 ## Purpose
 The Music School Open House Lead Form is designed to capture information from prospective students and families interested in your music school's programs. By filling out this form, you'll be able to generate leads, follow up with potential students, and plan your open house events effectively.

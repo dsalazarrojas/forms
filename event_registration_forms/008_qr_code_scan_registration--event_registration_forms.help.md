@@ -1,5 +1,3 @@
-<thinking>...The `qr_code_scan_registration` form is used to register participants for events with a unique QR code. This form is typically used for events where attendees need to be identified and registered using a QR code, such as conferences, workshops, or festivals. By using this form, event organizers can efficiently manage attendance and track participant information. To use this form, ensure that you have a valid QR code to input and that it corresponds to a specific event...!</thinking>
-
 # qr_code_scan_registration - Help Guide
 ## Purpose
 The `qr_code_scan_registration` form is designed to collect and manage participant information for events using a unique QR code.

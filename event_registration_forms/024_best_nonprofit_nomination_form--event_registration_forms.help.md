@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information about a nonprofit organization from a nominator, including the nominator's contact information and details about the nonprofit's profile, mission, goals, and achievements. This form is intended to support the nomination process for a Best Nonprofit Award. The form ensures that the nominator provides accurate and relevant information to help the award committee evaluate the nonprofit's eligibility and potential for recognition. The form is structured to guide the nominator through the necessary fields to provide a comprehensive and fair assessment of the nonprofit organization. Before starting, please note that the nominator should not nominate the same organization more than once within a 12-month period, and the form is intended for individual organizations only, not for individuals. Ensure that you have the necessary permissions and authorization to nominate the selected organization. After completing the form, please review it carefully to ensure accuracy and completeness before submitting it for review.
-</thinking>
-
 # Best Nonprofit Nomination Form - Help Guide
 ## Purpose
 The Best Nonprofit Nomination Form is a tool designed to facilitate a fair and comprehensive evaluation of nonprofit organizations for a Best Nonprofit Award. The form collects essential information about the nonprofit's profile, goals, achievements, and impact, allowing the award committee to assess eligibility and potential.

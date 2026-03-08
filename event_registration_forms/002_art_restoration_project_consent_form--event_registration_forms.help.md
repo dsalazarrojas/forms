@@ -1,7 +1,3 @@
-<thinking>
-This form is part of the Art Restoration Project and is used to capture the necessary information from the art owner before proceeding with the restoration process. This form aims to understand the owner's preferences, expectations, and consent for the restoration process. To ensure accuracy and consistency, please make sure to fill out this form carefully and thoroughly. If you have already filled out this form, please do not submit it again as it will not be processed. 
-</thinking>
-
 # Art Restoration Project Consent Form - Help Guide
 ## Purpose
 The Art Restoration Project Consent Form is designed to collect essential information from art owners to ensure that the restoration process meets their needs and expectations.

@@ -1,7 +1,3 @@
-<thinking> 
-This guide is designed to help users navigate and complete the "Webinar Host Referral Form" efficiently. Before proceeding, please ensure that you are using this form for its intended purpose: to refer hosts for the webinar series. If you've already referred a host through this form, please do not submit duplicate forms as this may cause unnecessary processing and confusion in the system. 
-</thinking>
-
 # Webinar Host Referral Form - Help Guide
 ## Purpose
 This form is designed to collect information from existing webinar hosts who wish to refer a new host or hosts for our upcoming webinars.

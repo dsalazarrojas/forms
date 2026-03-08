@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for workshop attendees to register for a customer service workshop. It is intended to collect basic information from attendees about themselves and the workshop they will be attending. This form is not designed to collect sensitive or personal data and should only be used for the purpose of workshop registration. Please ensure that the fields are filled in accurately and thoroughly to avoid any issues with workshop arrangements. Note that the fields are not required, as they may not be applicable to all attendees. Ensure that the fields filled in make sense in the context of the workshop.
-
-</thinking>
-
 # customer_service_workshop_attendance_form - Help Guide
 ## Purpose
 This form is for workshop attendees to register for a customer service workshop.

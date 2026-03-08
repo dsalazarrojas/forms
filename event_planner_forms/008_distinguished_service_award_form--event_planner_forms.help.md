@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information for the Distinguished Service Award. The purpose of this form is to recognize and acknowledge exceptional service and contributions made by employees. The form will be used to gather details about the nominee, nominator, and award criteria. This form is only for nominating individuals for the Distinguished Service Award, not for self-nomination. Each page is a separate section of the form, and some fields are required while others are optional. Please ensure you have all the necessary information before starting the form.</thinking>
-
 # Distinguished Service Award Form - Help Guide
 ## Purpose
 The Distinguished Service Award Form is used to recognize and acknowledge exceptional service and contributions made by employees.

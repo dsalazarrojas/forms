@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Adventure Tour Consent Form - Help Guide
 
 ## Purpose

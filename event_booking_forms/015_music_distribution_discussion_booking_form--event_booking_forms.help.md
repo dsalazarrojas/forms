@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for music distribution discussion booking purposes. The form has seven pages: "Music Distribution Overview", "Artist Information", "Music Details", "Distribution Channels", "Scheduling", "Payment Information", and "Notes". Each page has a specific type (text, select_multiple, note) and is required or not required (as specified in the YAML).
-</thinking>
-
 # music_distribution_discussion_booking_form - Help Guide
 ## Purpose
 This form is used to collect information for music distribution discussion booking purposes.

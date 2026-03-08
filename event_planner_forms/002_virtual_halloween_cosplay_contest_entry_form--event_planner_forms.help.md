@@ -1,7 +1,3 @@
-<thinking>
-This form is for the Virtual Halloween Cosplay Contest, a fun online event where attendees can showcase their spooky creative costumes. The form helps contest organizers collect and organize entries from participants. This form will not be used for other purposes. Please make sure to submit only your own work and do not submit any work that infringes on someone else's intellectual property rights or any other form of copyright or intellectual property.
-</thinking>
-
 # Virtual Halloween Cosplay Contest Entry Form - Help Guide
 ## Purpose
 The Virtual Halloween Cosplay Contest Entry Form is designed for participants to submit their Halloween cosplay creations to be judged and displayed in the virtual contest. 

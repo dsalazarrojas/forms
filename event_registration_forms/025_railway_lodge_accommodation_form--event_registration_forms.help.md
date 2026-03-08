@@ -1,6 +1,3 @@
-<thinking>
-This form is designed for users to register and reserve a room at a railway lodge. This form is typically used by customers who want to check-in and check-out dates for their stay, along with their room preferences, room type, and any other details they would like to share with the lodging staff. To ensure accurate and efficient processing of these bookings, it's essential that the form is completed accurately and thoroughly. Please ensure that you fill out this form with your correct details to avoid any confusion or mistakes. If you are unsure about any information, please contact the lodging staff directly.</thinking>
-
 # Railway Lodge Accommodation Form - Help Guide
 ## Purpose
 This form is designed to facilitate the reservation and management of railway lodge accommodations.

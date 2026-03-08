@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to register volunteers for an entrepreneurship program. The form is intended to gather information about the individual's background, skills, and preferences. The goal is to ensure that the right candidates are matched with the right roles within the program.
-
-Upon reviewing the form, it appears that most fields are optional, but it's essential to complete the required fields to ensure that the form is processed correctly. The fields include information about the individual's organization, role, skills, and availability. There is also a field to confirm whether or not the individual is willing to participate in the program.
-
-To avoid duplicating efforts, please make sure to only register once for the program.
-
-</thinking>
-
 # entrepreneurship_program_volunteer_registration_form - Help Guide
 ## Purpose
 This form is for registering volunteers for the entrepreneurship program. It helps us understand your background, skills, and preferences to match you with the right opportunities within the program.

@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to be filled out by users to express their gratitude to their friends, family, colleagues, and even the food they enjoy. It is likely used in a personal or professional setting where appreciation and thanks are being shared among individuals in a group or organization. The form's structure implies that it is intended to be a simple and informal means of acknowledging and celebrating the people or things that are valued by the user. It does not appear to be related to any specific business or commercial purpose, and its simplicity suggests that it may be used in a variety of contexts, such as in a personal appreciation message or a company-wide thank-you note.
-</thinking>
 # Give Thanks Form 3 - Help Guide
 
 ## Purpose

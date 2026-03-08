@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sales Strategies Training Registration Form - Help Guide
 ## Purpose
 This form is used for registering participants in the Sales Strategies Training program. It gathers information about the participant, their company, and payment details. The form is not meant for internal purposes only and will be used to track and manage participant information for the training program.

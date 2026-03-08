@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, the purpose of this form is to gather essential information about events and registrations from users. This form will ask for the user's full name, email, and phone number, as well as the event date they are registering for. This information will help us verify and process their registration efficiently. Please ensure that you only fill out this form once per person. If you are unsure about the purpose of this form or have already submitted an identical form, please double-check with the event organizers before proceeding.</thinking>
-
 # Desktop Calendar Order Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from users to process their event registrations efficiently.

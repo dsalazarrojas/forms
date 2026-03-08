@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect participant information and their preferences for a gift card raffle. The form's primary purpose is to gather data on participants, including their name, email, phone number, and date of birth. Additionally, it asks participants to select their preferred gift card and confirm their agreement to the raffle terms. This form aims to ensure that participants are eligible and willing to participate in the raffle. To avoid duplication, we'll check for unique participant entries. This form is intended for internal use within an organization, and the data collected will be used to facilitate the raffle process.
-</thinking>
-
 # Gift Card Raffle Entry Form - Help Guide
 ## Purpose
 The Gift Card Raffle Entry Form is designed to collect participant information and their preferences for a gift card raffle. The form's primary purpose is to gather data on participants, including their name, email, phone number, and date of birth, as well as their preferred gift card and agreement to the raffle terms.

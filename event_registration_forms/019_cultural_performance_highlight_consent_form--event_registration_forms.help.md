@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a consent form for participants in cultural performance events. It likely requires participants to provide demographic and consent information, such as their name, email, and age. The form also asks for permission to release images, performances, and videos, which suggests that the event organizers may be capturing these elements as part of the event. The form also collects contact information for the participant, including a name, phone number, and email. This form seems to be a standard form for gathering participant information and consent for cultural performance events.
-</thinking>
-
 # Cultural Performance Highlight Consent Form - Help Guide
 ## Purpose
 This form is for participants in cultural performance events to provide their demographic and consent information, as well as permission for the event organizers to release certain elements of their performance, such as images, videos, and contact information.

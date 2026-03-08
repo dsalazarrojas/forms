@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Plant Safety Technology Fair Registration - Help Guide
 ## Purpose
 The purpose of this form is to register for the Plant Safety Technology Fair, an event designed for professionals and companies to showcase and learn about the latest advancements in plant safety technology. This form collects information from attendees to facilitate their registration and participation in the event.

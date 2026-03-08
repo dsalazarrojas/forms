@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from attendees on the conference schedule, allowing the organizers to assess the effectiveness of the schedule and make improvements for future conferences. This form is designed to be completed by attendees after attending a session, and it is intended to be a quick and easy way to provide feedback.
-
-To ensure that the form is completed correctly and that feedback is not duplicated, it is recommended that attendees only complete the form once per session. If an attendee wishes to provide feedback on multiple sessions, they should complete the form separately for each session.
-
-This form is designed to be simple and easy to complete, with clear instructions and explanations for each field. Please note that while some fields are optional, providing as much information as possible will help the organizers to better understand your needs and preferences.
-
-</thinking>
-
 # Conference Schedule Survey - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to ensure that users understand the purpose and requirements of the "Business Partner Meet And Greet RSVP Form". The form is designed to collect information from business partners attending events hosted by the organization. The form's main goal is to gather essential details about the attendees, including their name, contact information, event attendance status, and any special requirements or requests. This guide will explain each field's purpose and required/optional status in a clear and concise manner, aiming to minimize errors and facilitate accurate completion of the form.
-</thinking>
-
 # Business Partner Meet And Greet RSVP Form - Help Guide
 ## Purpose
 The Business Partner Meet And Greet RSVP Form is a crucial tool for event planning and management. It helps us understand who is attending our events, their preferences, and any special requirements they may have. This form will help us tailor our event experience to meet your needs and ensure a successful event.

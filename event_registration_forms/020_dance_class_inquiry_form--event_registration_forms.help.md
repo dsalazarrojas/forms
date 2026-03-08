@@ -1,7 +1,3 @@
-<thinking>
-This form is for inquiring about a dance class. The end-user will be able to submit their name, contact information, class preferences, and any other relevant details. This form should only be used once per person. The form is not intended for internal use within the organization, but rather for external use by clients or potential clients.
-</thinking>
-
 # Dance Class Inquiry Form - Help Guide
 ## Purpose
 The Dance Class Inquiry Form is a tool used by clients or potential clients to express their interest in joining a dance class. It captures necessary information to help us understand their preferences and tailor our services to meet their needs.

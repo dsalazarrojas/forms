@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect participant information for webinars, allowing organizers to monitor and track participant engagement during and after the event. The form is used to gather basic participant details, collect feedback, and establish a contact method for follow-up communication. 
-
-The form is not meant to collect sensitive or confidential information and should only be used for informational purposes only.
-
-Before proceeding, please ensure you have the necessary permission to collect participant information. Also, be aware that this form is a basic template and might need adjustments for specific business use cases.
-
-</thinking>
-
 # webinar_participant_monitoring_form - Help Guide
 ## Purpose
 This form is designed to collect participant information for webinars, allowing organizers to monitor and track participant engagement.

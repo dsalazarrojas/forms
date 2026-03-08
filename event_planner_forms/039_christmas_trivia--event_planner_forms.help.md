@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Christmas Trivia - Help Guide
 ## Purpose
 The Christmas Trivia form is designed to collect player information and answers to a series of Christmas-themed trivia questions. This form is intended for entertainment purposes, and participants will be scored based on their knowledge of Christmas traditions and history.

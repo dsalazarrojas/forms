@@ -1,6 +1,3 @@
-<thinking> 
-This form is used for evaluating a master program, likely for a university or academic institution. The purpose of this form is to gather feedback and comments from users, particularly on the clarity of policies, faculty issues, and availability of information and support. The form has multiple fields for comments, which suggest that the evaluation is comprehensive and open-ended. To confirm, I will review the form's fields and their labels to provide a more detailed explanation.</thinking>
-
 # Master Program Evaluation Form - Help Guide
 ## Purpose
 The Master Program Evaluation Form is used to collect feedback and comments from users on various aspects of the master program, including policies, faculty issues, and information and support availability.

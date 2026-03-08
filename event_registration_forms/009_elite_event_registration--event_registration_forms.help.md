@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering users for the "Elite Event" and will be used to collect attendee information for events managed by the organization. The form should only be completed once per attendee, and any duplicate submissions will not be accepted.
-</thinking>
-
 # Elite Event Registration - Help Guide
 ## Purpose
 The "Elite Event Registration" form is designed to collect personal and event-related information from attendees for the "Elite Event" managed by our organization.

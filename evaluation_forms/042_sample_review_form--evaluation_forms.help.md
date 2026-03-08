@@ -1,9 +1,3 @@
-<thinking>
-This is a generated form guide that will walk a user through the purpose and usage of the form. To begin with, the form is designed to be a generic form for various purposes, with no affiliation or affiliation with any form platform. The form was created using public metadata as inspiration and is released under the Creative Commons BY 4.0 license, allowing users to use, modify, and sell forms derived from it, provided they give credit.
-
-The form is divided into four pages, each with a title and a hint, which will guide the user through the process. The purpose of the form is to collect information from the user, with fields that vary in requirements and types across the pages.
-</thinking>
-
 # <string> - Help Guide
 
 ## Purpose

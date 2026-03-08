@@ -1,7 +1,3 @@
-<thinking>
-This form is used for customers to register for the Halloween Candy Buy Back Program. The form captures basic customer information and event details for event planning and follow-up purposes. The fields are mostly text-based and include a mix of required and optional fields. This form should only be used once per customer. If a customer has already registered, do not reuse this form, instead, update their information directly in our system. The form can be completed in a few steps, and each field is explained below.
-</thinking>
-
 # Halloween Candy Buy Back Program Registration Form - Help Guide
 ## Purpose
 The Halloween Candy Buy Back Program Registration Form is a tool for customers to register for the program and provide their event details.

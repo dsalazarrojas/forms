@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about a meeting, including the date, time, location, and any additional notes. The form is intended for event registration purposes, allowing users to provide details about a meeting they are attending or organizing. The form has 7 fields, all of which are optional. This form is not affiliated with any form platform and is an original adaptation created using AI.
-
-</thinking>
-
 # First Meeting Date Selection - Help Guide
 ## Purpose
 The purpose of this form is to collect information about a meeting, including the date, time, location, and any additional notes. This form is intended for event registration purposes.

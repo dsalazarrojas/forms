@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's review the form's purpose and fields to ensure we create a comprehensive help guide that addresses your specific needs. This form is an entertainment event planner job application form, designed to collect information about applicants for an event planning job. The form consists of various fields that cover different aspects of the applicant's profile, skills, and event planning requirements. We will cover the form's purpose, provide step-by-step instructions on how to complete it, and explain each field in detail.</thinking>
-
 # entertainment_event_planner_job_application - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-This form is likely part of a peacebuilding training program, and its purpose is to collect feedback and evaluations from participants after the training session. This form aims to gather information about the participant's name, contact details, and their experience with the training.
-
-This form likely collects data on the participant's name (a text field for personal identification), email address and phone number (for communication purposes), and their thoughts on the training (a text field for feedback), and possibly some rating of their experience (using a numerical input type).
-
-To avoid duplication of effort and ensure that the form is used correctly, it is essential to understand its purpose and how to fill it out properly.
-
-</thinking>
-
 # Peacebuilding Training Evaluation - Help Guide
 ## Purpose
 This form is a feedback and evaluation tool designed to gather information from participants after a peacebuilding training session. It helps us understand your experience, thoughts, and suggestions for the training.

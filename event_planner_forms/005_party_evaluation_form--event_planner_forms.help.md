@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Party Evaluation Form is used by staff members and event planners to provide feedback and insights on the success and quality of parties and events they organize or attend. This form helps to gather information on various aspects of the event such as party name, date, time, venue, overall quality, event coordinator's performance, communication, organization, teamwork, value for money, and party atmosphere. The collected data can be used to identify areas of improvement for future events and evaluate the effectiveness of event planning and execution.
 
 # Party Evaluation Form - Help Guide

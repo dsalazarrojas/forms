@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect feedback from event vendors on the equipment provided for events. The form should only be completed by event vendors, not attendees or other individuals who did not participate in the event. It's essential to ensure that the form is filled out by the correct person to avoid duplication or irrelevant responses. This form will be used to gauge the satisfaction of event vendors with the equipment provided and help us understand areas for improvement.
-
-To complete this form, please follow the instructions below:
-</thinking>
-
 # Event Equipment Vendor Satisfaction Survey - Help Guide
 ## Purpose
 This form aims to collect feedback from event vendors on the equipment provided for events, helping us to understand their satisfaction and identify areas for improvement.

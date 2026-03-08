@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # enroll_for_an_online_seminar_form - Help Guide
 ## Purpose
 This form is designed to register an individual for an online seminar. It requires personal details such as first name, last name, email, phone number, date of birth, and time of birth. The form also includes a confirmation of email and phone number fields to ensure accuracy and prevent errors.

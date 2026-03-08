@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who wish to join a pet loss support group. The form is meant to gather personal and pet-related details, including name, pet type, and reason for seeking therapy. The goal is to provide a supportive environment for those dealing with the emotional challenges of pet loss. This form should be filled out by individuals who are willing to share their experiences and connect with others who have gone through similar situations. Please ensure that you are not already registered in the support group or have not been previously registered by mistake.
-</thinking>
-
 # Pet Loss Support Group Registration - Help Guide
 ## Purpose
 The Pet Loss Support Group Registration form is designed to help individuals share their experiences and connect with others who have gone through similar situations. It is meant to provide a supportive environment for those dealing with the emotional challenges of pet loss.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used by teachers to track student grades and assessments. To complete this form, we first need to understand its purpose and relevance. This form is meant to be used for general student assessment, not for tracking specific student grades or progress in a class. If you are looking to track student grades in a specific class, you should use a different form. We also need to ensure that this form is not filled out multiple times for the same student.
-
-</thinking>
-
 # Student Grade And Assessment Tracking Form - Help Guide
 ## Purpose
 The purpose of this form is to track student grades and assessments in a general sense. It is meant to be used by teachers to keep a record of student performance and progress.

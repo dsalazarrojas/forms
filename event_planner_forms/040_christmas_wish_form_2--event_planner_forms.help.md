@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to capture the user's Christmas wishes, traditions, and reflections during the holiday season. It gathers information on the user's name, contact information, and preferences for sharing their wishes publicly. The form also includes sections for users to express their favorite holiday memories, traditions, and the emotions they experience when sharing their wishes.
-To prevent duplication and ensure consistency, this form is only intended for individuals to share their personal wishes and experiences. Please fill out the form carefully and honestly.
-</thinking>
-
 # Christmas Wish Form 2 - Help Guide
 ## Purpose
 This form is designed to gather information on your Christmas wishes, traditions, and reflections.

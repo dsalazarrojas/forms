@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Christmas Poll - Help Guide
 ## Purpose
 This form is a comprehensive survey to understand your preferences and habits during the Christmas season. It will help us gather information on your favorite Christmas traditions, holiday habits, and spending patterns. Please answer the questions honestly, and you can skip any questions that don't apply to you.

@@ -1,10 +1,3 @@
-<thinking>
-
-**Form Purpose**
-This form, titled "Equity And International Survey", is designed to collect information from users about their equity and international experiences, perceptions, and capacity levels. The form is divided into different sections, each addressing a specific aspect of equity and international engagement. This form is likely used to gather insights and opinions from users on these topics, helping organizations or researchers understand their perspectives and needs.
-
-</thinking>
-
 # Equity And International Survey - Help Guide
 ## Purpose
 The form is designed to collect information on equity and international experiences, perceptions, and capacity levels.

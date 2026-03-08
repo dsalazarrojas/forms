@@ -1,9 +1,3 @@
-<thinking>
-Please note that the provided YAML form schema is quite sparse, which means it does not include any additional metadata or guidance. However, I'll do my best to create a user-friendly help guide based on the available information.
-
-Before we dive into the guide, please be aware that the form is designed to gather information from job seekers for virtual job fairs. It is intended to collect contact information and job-specific details to help employers and recruiters connect with potential candidates.
-</thinking>
-
 # Virtual Job Fair Registration Form - Help Guide
 ## Purpose
 The Virtual Job Fair Registration Form is designed for job seekers to register for virtual job fairs, allowing them to connect with employers and recruiters. By filling out this form, you will be able to provide your contact information and job-specific details to interested parties.

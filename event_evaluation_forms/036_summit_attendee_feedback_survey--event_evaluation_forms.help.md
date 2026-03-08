@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "summit_attendee_feedback_survey" form, I'll need to first understand the form's purpose and the reasoning behind its design. This will help me ensure that the guide is clear, concise, and practical for end-users.
-
-From the provided YAML fields, it appears that this form is designed to collect feedback from attendees of a summit or conference. The form is composed of 10 fields across 2 pages, with most fields being optional. The feedback is likely intended to help organizers or event planners gauge the success of the event and identify areas for improvement.
-
-With this understanding, I'll proceed to create the user-facing help guide.
-
-</thinking>
-
 # summit_attendee_feedback_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from attendees of the summit or conference on various aspects of the event. Your input will help organizers understand what worked well and what could be improved for future events.

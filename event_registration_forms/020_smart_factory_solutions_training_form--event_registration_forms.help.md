@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Smart Factory Solutions Training Form - Help Guide
 ## Purpose
 The Smart Factory Solutions Training Form is designed to collect information from participants who are registering for a training session. This form is intended for internal use within the organization.

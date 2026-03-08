@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Preventive Care Outcome Measurement Evaluation Form - Help Guide
 
 ## Purpose

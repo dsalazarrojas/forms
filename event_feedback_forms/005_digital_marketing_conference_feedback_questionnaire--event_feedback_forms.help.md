@@ -1,8 +1,3 @@
-<thinking>
-The "Digital Marketing Conference Feedback Questionnaire" is a form designed to gather feedback from attendees on various aspects of the conference, including speakers, venue, sessions, catering, event organization, time management, and overall experience. The form is meant to be completed by attendees who have participated in the conference to provide their honest feedback and suggestions for improvement.
-To confirm, this is a form to collect feedback from conference attendees, and there is no duplication of effort or overlap with other forms, as each field is designed to capture unique and specific information.
-</thinking>
-
 # Digital Marketing Conference Feedback Questionnaire - Help Guide
 ## Purpose
 The "Digital Marketing Conference Feedback Questionnaire" is designed to gather feedback from attendees on their experience with the conference. This feedback will help us improve future events and ensure that you, as a valued attendee, get the most out of our conferences.

@@ -1,15 +1,3 @@
-<thinking>
-
-The purpose of the Animal Shelter Marketing Workshop Registration Form is to gather information from participants and attendees for the workshop. This form is designed to collect demographic information (name, email, phone number, organization) as well as interests, skills, and expectations of the participant. 
-
-This form is intended for staff and attendees of the Animal Shelter Marketing Workshop. It will be used to tailor the workshop to their needs, and to provide them with relevant resources and networking opportunities.
-
-Please note that some fields are optional and are meant to provide additional context and information for the organizers and speakers of the workshop. 
-
-To avoid confusion, we will only consider this form submission as complete if all required fields are filled.
-
-</thinking>
-
 # Animal Shelter Marketing Workshop Registration Form - Help Guide
 ## Purpose
 The Animal Shelter Marketing Workshop Registration Form is designed to gather information from workshop participants for the purpose of providing a tailored experience.

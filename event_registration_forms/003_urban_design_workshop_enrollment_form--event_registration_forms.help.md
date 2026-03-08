@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to be used for enrolling in an urban design workshop. It gathers basic information from participants, such as workshop name, dates, participant name, email, phone number, and the workshop organizer's name. This form should only be filled out for actual workshops that are being held. There should be no duplicate submissions. Participants are required to provide their name, email, and phone number for contact purposes.
-
-</thinking>
-
 # urban_design_workshop_enrollment_form - Help Guide
 ## Purpose
 This form is used to enroll in an urban design workshop.

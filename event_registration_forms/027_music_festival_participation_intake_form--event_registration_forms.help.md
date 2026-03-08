@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for collecting information from individuals who wish to participate in a music festival. The form will be used to gather data on the event name, role (attendee, vendor, or performer), name, email, and phone number of the participant. This information will be used to communicate with the participant and manage their registration.
-The form does not have any specific requirements for submission, meaning that all fields are optional.
-</thinking>
-
 # Music Festival Participation Intake Form - Help Guide
 ## Purpose
 This form is used to register an individual's interest in participating in a music festival event.

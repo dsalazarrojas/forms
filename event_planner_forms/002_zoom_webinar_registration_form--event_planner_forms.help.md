@@ -1,26 +1,3 @@
-<thinking>
-The purpose of this form is to collect registration information from attendees and hosts for a Zoom webinar. This form is used to gather essential details such as names, contact information, role in the webinar (attendee, host, co-host, or panelist), time zone, and start and end times. The form's purpose is crucial for the smooth organization and execution of the webinar, allowing the organizer to track attendance, manage roles, and ensure a well-planned schedule.
-
-To avoid duplication and ensure accurate registration data, the form must be filled out completely and correctly. Each field should be filled in according to the provided instructions, and any unclear fields should be clarified by the user before submission.
-
-The form will collect the following information:
-* First name
-* Last name
-* Email
-* Phone
-* Date of birth
-* Time of registration (not used in the form but potentially for internal tracking purposes)
-* Role in the webinar (attendee, host, co-host, or panelist)
-* Time zone
-* Time zone label (optional)
-* Registration link (optional)
-* Time zone offset (optional)
-* Start time and end time of the webinar
-* Timezone (optional)
-* Time zone offset 2 (optional)
-* Timezone 2 (optional)
-</thinking>
-
 # Zoom Webinar Registration Form - Help Guide
 ## Purpose
 The Zoom Webinar Registration Form is a tool designed to collect essential information from attendees and hosts for the smooth organization and execution of a Zoom webinar. Filling out this form ensures that all necessary details are gathered accurately and efficiently.

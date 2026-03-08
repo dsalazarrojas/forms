@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals interested in participating in the Community Dialogue Series, a collection of events focused on various themes such as social justice, community building, policy reform, and more. The form's purpose is to ensure that participants' needs and interests are accounted for in event planning and to provide accurate headcounts for logistical arrangements. It is crucial that participants provide accurate and honest answers to ensure that their experience is tailored to their needs and that they can fully engage with the event content.
-</thinking>
-
 # Community Dialogue Series Registration - Help Guide
 ## Purpose
 This form is designed to gather necessary information about you to ensure a smooth and enjoyable experience at the Community Dialogue Series events. Please take a few minutes to complete this form accurately and honestly.

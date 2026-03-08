@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Heritage Festival Vendor RSVP Form - Help Guide
 
 ## Purpose

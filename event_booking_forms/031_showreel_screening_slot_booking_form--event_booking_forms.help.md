@@ -1,13 +1,3 @@
-<thinking> 
-
-The form is used to book a showreel screening slot. Users will need to provide their input, choose a screening slot, select a booking date, enter their contact email and phone number, provide screening notes, and confirm their booking. The form is divided into several sections, each with its own fields for collecting specific information.
-
-The form is required to be completed by the user, and it includes fields for screening slot selection, booking date, contact email, contact phone number, screening notes, user confirmation, assigned tool, created by, updated by, created at, updated at, assigned date, assigned time, user comments, created, updated, created by 2, updated by 2, updated at 2, assigned tool 2, form id, user id, updated user id, submitted by. Some of these fields are optional and are intended for administrative purposes.
-
-Please note that the form is meant for internal use only and should not be filled out by external users without proper authorization. This form is likely to be used by authorized personnel within the organization for administrative tasks.
-
-</thinking>
-
 # Showreel Screening Slot Booking Form - Help Guide
 ## Purpose
 The Showreel Screening Slot Booking Form is used to book a showreel screening slot.

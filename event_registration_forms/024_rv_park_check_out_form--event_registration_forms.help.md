@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # rv_park_check_out_form - Help Guide
 ## Purpose
 The purpose of the rv_park_check_out_form is to collect information from guests checking out of the RV park. This form is used to gather the date of check out, any comments from the park manager, guest feedback, guest signature, and the final balance due.

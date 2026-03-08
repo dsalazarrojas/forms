@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to collect basic information about a person being judged in a competition or event. The form is designed to be used as a template to record details about the person being evaluated, which can then be used to calculate and provide scores for specific judges.
-
-To avoid duplication of forms for individuals, the form is designed to be completed for each person separately and each time they are being judged. The purpose of the form is not to collect information that will be reused or referenced later, but rather to ensure consistency and accuracy of the evaluation process.
-
-The form is intended to be completed by the person being judged or their representative, and the information collected is meant to help the judges make informed decisions based on their observations.
-
-</thinking>
-
 # Universal Miss Judge Information Form - Help Guide
 ## Purpose
 This form is used to collect basic information about a person being judged in a competition or event.

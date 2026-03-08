@@ -1,21 +1,3 @@
-<thinking>
-
-This form is a Community Participation Release Form, which is designed to be completed by participants in community events. The purpose of this form is to gather essential information from participants, including their personal details, consent for medical treatment and media usage, and agreement to participate in the event. 
-
-The form is split into several sections, which cover the following topics: 
-
-*   Participant Information (name, date of birth, gender, participant full name, and participant date of birth)
-*   Event Details (event title, date, and event participation waiver)
-*   Release of Liability (agreement to release the organization from claims or liability)
-*   Medical Treatment (consent for medical treatment in an emergency)
-*   Photo and Video Release (consent to use images or video for promotional purposes)
-*   Emergency Contact Information (emergency contact full name and phone number)
-*   Medical Concerns (list any medical conditions or allergies)
-*   General Participation Agreement (agreement to follow instructions and rules of the event)
-*   Digital Signature (electronic signature of the participant)
-
-</thinking>
-
 # Community Participation Release Form - Help Guide
 ## Purpose
 

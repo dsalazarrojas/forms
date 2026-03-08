@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to provide a structured evaluation scorecard for stories, allowing users to assess and comment on the quality and impact of a story. This scorecard is designed to collect numerical scores from multiple stakeholders, including teachers, editors, and judges, as well as open-ended comments from each stakeholder. The scores and comments will be used to inform decisions and provide feedback on story development and quality. To ensure consistency and accuracy, it's essential to understand each field's purpose and requirements. Please review the form carefully to ensure you're providing accurate and informative responses.
-
-</thinking>
-
 # Story Evaluation Scorecard - Help Guide
 ## Purpose
 The Story Evaluation Scorecard is a tool used to collect feedback and scores from multiple stakeholders (teachers, editors, and judges) on the quality and impact of a story.

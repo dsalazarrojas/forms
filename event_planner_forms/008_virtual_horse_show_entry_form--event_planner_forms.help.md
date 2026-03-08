@@ -1,9 +1,3 @@
-<thinking>... internal reasoning block ...
-
-The virtual horse show entry form is used to collect information about a horse to be entered in a virtual horse show. This form is used to gather data about the horse's name, owner's name, breed, age, height, weight, sex, show type (e.g., halter, hunter, jumper, saddle seat), and show class (e.g., level 1, 2, or 3). This information is collected to create a comprehensive database about the horse and its owner. The form is not limited to any specific breed, age, or show type.
-
-</thinking>
-
 # virtual_horse_show_entry_form - Help Guide
 ## Purpose
 This form is used to collect information about a horse and its owner for a virtual horse show.

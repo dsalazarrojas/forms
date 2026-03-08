@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for event collaboration requests. It is meant to be filled out by event organizers or coordinators to request collaboration from sponsors or other entities. The form should not be filled out for the purpose of requesting sponsorship for personal or non-event-related purposes. Please ensure that the form is filled out accurately and thoroughly to ensure proper review and consideration of the request.
-</thinking>
-
 # Event Collaboration Request Form - Help Guide
 ## Purpose
 This form is for event organizers or coordinators to request collaboration from sponsors or other entities for their events.

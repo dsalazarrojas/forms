@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Virtual Reality Music Festival Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from attendees of the Virtual Reality Music Festival. It gathers essential details such as user contact information, event preferences, and any additional notes. The purpose of this form is to streamline the registration process and help festival organizers efficiently manage attendee data.

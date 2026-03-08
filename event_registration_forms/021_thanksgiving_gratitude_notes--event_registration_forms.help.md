@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to help users express their gratitude and share their thoughts on thanksgiving. It is not affiliated with, endorsed by, or derived from any form platform. The form is a public survey inspired by the topic "thanksgiving" and "gratitude" and is released under CC BY 4.0 license. The form collects the following information:
-- First Name: a brief introduction of the person expressing gratitude
-- Your Message: a detailed message expressing their thoughts and feelings
-- Email: an optional contact information for the person expressing gratitude
-- Note: an optional additional note or comment
-
-This form is intended to be a simple and easy-to-use platform for people to share their gratitude and thoughts on thanksgiving. It does not collect any sensitive or personal information and is designed for public use.
-</thinking>
-
 # thanksgiving_gratitude_notes - Help Guide
 ## Purpose
 The "Thanksgiving Gratitude Notes" form is designed to allow users to express their gratitude and share their thoughts on thanksgiving. This form is meant to be a simple and easy-to-use platform for users to share their appreciation and thanks.

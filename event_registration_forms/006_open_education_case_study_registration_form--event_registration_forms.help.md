@@ -1,10 +1,3 @@
-<thinking>
-The form "open_education_case_study_registration_form" is used to collect information from participants in an open education case study. This form is likely used in a research or educational context to gather data about the participants' demographics, interests, and qualifications. This guide will help users understand how to complete the form correctly and what each field means.
-
-To avoid duplication, please ensure that the participant has not already completed this form. If you are unsure, please verify with the participant or the project lead.
-
-</thinking>
-
 # open_education_case_study_registration_form - Help Guide
 
 ## Purpose

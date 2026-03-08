@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow teachers and students to express their appreciation for a teacher's work. It's essential to ensure that the form is completed correctly to capture accurate feedback. Please verify that the form is not already available in your institution's current catalog of forms and that there are no existing forms with similar purposes that might lead to duplication of effort. The form should be completed by the teacher or a representative, and the information provided should be accurate and sincere.
-</thinking>
-
 # Teacher Appreciation Form - Help Guide
 ## Purpose
 The Teacher Appreciation Form is designed to allow teachers and students to express their gratitude and appreciation for a teacher's dedication and hard work. This form helps to provide constructive feedback and support to the teacher.

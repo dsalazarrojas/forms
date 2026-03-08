@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from participants in the "Family Rental Sweepstakes" event. The form is used to collect personal and demographic details from individuals who wish to enter the sweepstakes, including entry date, name, contact information, and demographic data such as age and number of children. The form is not a requirement for entry, but rather an optional way to provide more information for organizers to better understand the participants. It is essential to fill out this form accurately and completely to ensure that your entry is valid and eligible for the sweepstakes.
-</thinking>
-
 # Family Rental Sweepstakes Entry - Help Guide
 ## Purpose
 This form collects personal and demographic information from participants in the "Family Rental Sweepstakes" event. It is not a requirement for entry, but rather an optional way to provide more information for the organizers.

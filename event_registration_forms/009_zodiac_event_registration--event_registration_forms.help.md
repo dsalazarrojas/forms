@@ -1,10 +1,3 @@
-<thinking>
-This help guide will cover the purpose and completion instructions for the zodiac_event_registration_form. The form is used to register participants for events related to zodiac signs, such as workshops, meetings, or conferences. The form is designed to collect participant information, event details, and registration data.
-
-The form is likely used in a context where events are organized for people born under specific zodiac signs, and the registration process involves providing personal details of the participants, as well as event specifics.
-
-</thinking>
-
 # zodiac_event_registration_form - Help Guide
 ## Purpose
 The zodiac_event_registration_form is used to register participants for events related to zodiac signs.

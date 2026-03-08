@@ -1,11 +1,3 @@
-<thinking>
-
-The SBAR Form is a tool used to collect structured information for patient evaluations. This form is designed to capture a comprehensive overview of a patient's status, medical history, and treatment plans. By using this form, healthcare professionals can quickly and efficiently gather the necessary information to make informed decisions about patient care.
-
-Before using this form, please ensure that you are authorized to access patient information and that the form is not being used to duplicate efforts or interfere with existing patient records.
-
-</thinking>
-
 # SBAR Form - Help Guide
 ## Purpose
 The SBAR Form is a standardized tool for patient evaluations, providing a clear and structured format for collecting patient information.

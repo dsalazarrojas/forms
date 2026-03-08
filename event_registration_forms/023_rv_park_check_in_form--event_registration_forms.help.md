@@ -1,10 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and structure of the RV Park Check In Form. The form is designed to collect relevant information about guests arriving at an RV park, ensuring a smooth check-in process. The fields are carefully crafted to capture essential details about the guest, their vehicle, and any additional information they may provide. This guide will walk users through each section, highlighting what each field represents and how to fill it out correctly.
-
-To begin with, please ensure you've reviewed the RV Park policies and guidelines before proceeding. If you're unsure about any information, consult the park staff or refer to the RV Park's website or policy documents.
-
-</thinking>
-
 # RV Park Check In Form - Help Guide
 ## Purpose
 The RV Park Check In Form is designed to gather essential information from guests arriving at the park. This includes personal details, vehicle specifics, and any additional information you'd like to share.

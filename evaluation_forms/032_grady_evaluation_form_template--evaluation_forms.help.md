@@ -1,12 +1,3 @@
-<thinking>
-We need to create a help guide for the Grady EVALUATION FORM TEMPLATE. This form is used for evaluating various aspects of a project, course, or other evaluations. It's likely used in an educational or professional setting to gather feedback and insights. 
-
-This form seems to be a comprehensive evaluation form with a variety of fields, including demographic information (first name, last name, email, phone), a date and time field, a score field, a free-text note field, and multiple select fields for evaluations, instructors, and other related entities. The form also has a field for submitted date, submitted to, submitted by, and submitted on fields.
-
-Let's assume this form is for evaluating projects, courses, or other items. It's likely used by instructors or evaluators to provide feedback on these items. The form's purpose is to gather detailed information about the project, course, or evaluation item, including demographic data, evaluation scores, comments, and status updates.
-
-</thinking>
-
 # Grady EVALUATION FORM TEMPLATE - Help Guide
 ## Purpose
 The Grady EVALUATION FORM TEMPLATE is used to collect and document evaluations of projects, courses, or other items.

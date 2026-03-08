@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Community Program Participant Satisfaction Check In - Help Guide
 
 ## Purpose

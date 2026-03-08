@@ -1,12 +1,3 @@
-<thinking>
-We need to ensure that our community podcast guest registration form is filled out correctly to maximize our chances of getting great guests for our podcast. A thorough review of this form will help us determine if you're a good fit for our community and what topics you can discuss. If you've already filled out this form, please note that we're not duplicating efforts and you may need to resubmit or provide new information.
-
-The form is split into two main sections: 
-1) Guest Information
-2) Recording and Equipment
-We'll cover each section in detail below.
-</thinking>
-
 # Community Podcast Registration Form - Help Guide
 ## Purpose
 This form is for community members interested in appearing on our podcast as a guest. Please fill it out thoroughly to increase your chances of being selected.

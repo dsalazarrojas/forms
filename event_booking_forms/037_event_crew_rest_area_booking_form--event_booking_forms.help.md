@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Event Crew Rest Area Booking Form - Help Guide
 ## Purpose
 The Event Crew Rest Area Booking Form is designed to book rest area resources for events. This form helps event managers and staff to efficiently allocate resources and manage crew rest area bookings.

@@ -1,37 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals who are registering for an Emergency Medicine-related workshop or conference. The purpose of this form is to collect attendee information, including their name, contact details, and registration status. This data will be used to manage the workshop or conference effectively. Before proceeding, please ensure that you are filling this form for a relevant event and not duplicating your registration.
-
-Please note that the fields are designed to capture specific information about the workshop or conference you are registering for. The fields are:
-
-*   First Name: Enter your first name as it appears on your official documentation.
-*   Last Name: Enter your last name as it appears on your official documentation.
-*   Email: Enter your email address for communication purposes.
-*   Phone Number: Enter your phone number for contact purposes.
-*   Workshop Type: Select the type of workshop or conference you are registering for.
-*   Medical Specialty: Select one or more medical specialties relevant to your practice.
-*   Workshop Date: Enter the date of the workshop you are registering for.
-*   Workshop Time: Enter the time of the workshop you are registering for.
-*   Conference Date: Enter the date of the conference you are registering for.
-*   Conference Time: Enter the time of the conference you are registering for.
-*   Workshop Location: Enter the location of the workshop you are registering for.
-*   Additional Notes: Enter any additional notes or comments about your registration.
-*   Medical License: Enter your medical license number or details.
-*   Emergency Contact Name: Enter the name of the emergency contact person.
-*   Emergency Contact Relationship: Enter your relationship with the emergency contact person.
-*   Emergency Contact Email: Enter the email address of the emergency contact person.
-*   Emergency Contact Phone: Enter the phone number of the emergency contact person.
-*   Workshop Capacity: Select the maximum capacity of the workshop you are registering for.
-*   Conference Capacity: Select the maximum capacity of the conference you are registering for.
-*   Workshop Fees: Enter the fees you are paying for the workshop.
-*   Conference Fees: Enter the fees you are paying for the conference.
-*   Medical Insurance: Select whether you have medical insurance.
-*   Payment Method: Select the payment method you are using.
-*   Registration Date: Enter the date you are registering for the workshop or conference.
-*   Submitted By: Enter the person submitting the registration.
-
-Please fill in the form accurately and completely to ensure that your registration is processed correctly.
-</thinking>
-
 # Emergency Medicine Data Analytics Registration Form - Help Guide
 ## Purpose
 This form is designed to gather information from individuals who are registering for an Emergency Medicine-related workshop or conference.

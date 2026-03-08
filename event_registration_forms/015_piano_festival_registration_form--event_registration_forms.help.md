@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Piano Festival Registration Form is used to collect contact information and event details for attendees who want to participate in the Piano Festival. This form is essential for ensuring that all participants have a wonderful and smooth experience at the festival. Please note that this form is not intended for festival organizers or event staff; it's designed specifically for attendees. Before proceeding, verify that you're submitting this form for yourself or on behalf of someone else who will be attending the festival.
 
 </thinking>

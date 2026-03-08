@@ -1,7 +1,3 @@
-<thinking>
-We need to make sure that our form is used correctly and that we're not duplicating efforts. This form is meant to collect information for an honorary award nomination. A nomination can only be submitted once, so please make sure you haven't already submitted a nomination for the same nominee and category. If you're unsure, please check our internal database or ask your supervisor for clarification.
-</thinking>
-
 # Honorary Award Nominee Recommendation Form - Help Guide
 ## Purpose
 This form is used to collect information for an honorary award nomination. Please use it to provide detailed and accurate information to help us evaluate the nominee's work.

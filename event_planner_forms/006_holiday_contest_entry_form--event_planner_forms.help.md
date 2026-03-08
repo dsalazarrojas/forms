@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Holiday Contest Entry Form - Help Guide
 
 ## Purpose

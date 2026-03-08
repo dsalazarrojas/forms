@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # executive_director_evaluation_form - Help Guide
 ## Purpose
 The executive director evaluation form is used to collect feedback and ratings on the performance of the executive director. This form helps to evaluate the executive director's leadership skills, job performance, and overall effectiveness in their role. It's essential to fill out this form accurately and honestly to provide valuable insights for future development and growth opportunities.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information from users to track their attendance and preferences for an event. It asks for personal details such as first name, last name, email, and phone number, as well as their preferred date and time to attend the event. The "RSVP" field allows users to respond with a simple "Yes", "No", or "Maybe" answer, and a text area for comments is provided for any additional information. This form is intended to be completed by users who want to attend or have questions about the event.
 
 # Zoom RSVP Form - Help Guide

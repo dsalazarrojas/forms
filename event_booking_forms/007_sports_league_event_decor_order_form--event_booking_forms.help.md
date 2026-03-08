@@ -1,13 +1,3 @@
-<thinking>
-
-To design a help guide for a form, first we need to understand the form's purpose and how it is used. This form is used for event decorations, and the user needs to provide information about selecting decor items for an event, event dates, venues, and payment options. The form has 12 pages with a mix of select multiple, select one, date, and text fields. 
-
-The form's purpose is to collect information about an event, specifically about the event's decorations, dates, venues, and payment options. The user needs to select multiple decor items, event dates, event venues, and payment options for the event. 
-
-The form is likely used by event organizers or coordinators to plan and prepare for an event's decorations, timing, and logistics.
-
-</thinking>
-
 # sports_league_event_decor_order_form - Help Guide
 ## Purpose
 The sports_league_event_decor_order_form is used by event organizers or coordinators to collect information about an event's decorations, dates, venues, and payment options. This form helps to plan and prepare for an event's logistics.

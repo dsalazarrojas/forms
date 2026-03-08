@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from event organizers and technical teams involved in setting up stages for music events. The purpose of this form is to gather specific technical details and contact information from these teams to ensure a smooth and successful event execution. By filling out this form, organizers and technical teams can provide accurate and up-to-date information about their technical requirements, stage layout, and contact details, which will be used to coordinate and communicate with them effectively.
-</thinking>
-
 # Music Event Stage Setup Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from event organizers and technical teams to ensure a smooth and successful music event execution.

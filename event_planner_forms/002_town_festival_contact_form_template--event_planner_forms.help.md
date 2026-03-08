@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for event planners and town officials to contact the festival organizers regarding the festival event. It's meant to provide essential information and allow for note-taking. To ensure accuracy, please make sure to complete this form correctly. If you're unsure, please review the form again before submitting. Please do not submit duplicate forms as this may cause confusion.
-</thinking>
-
 # Town Festival Contact Form Template - Help Guide
 ## Purpose
 The purpose of this form is to allow event planners and town officials to contact the festival organizers with any questions or concerns related to the festival event. This form will be used to gather essential information and provide a way to take notes for future reference.

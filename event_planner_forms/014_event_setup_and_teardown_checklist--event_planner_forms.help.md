@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to provide a structured way to collect information on event setup and teardown activities. This form helps users to systematically document and track events, including their schedules, locations, and necessary resources. By filling out this form, users can ensure that all relevant details are captured and that they have a clear overview of the event's setup and teardown process.
-</thinking>
-
 # Event Setup And Teardown Checklist - Help Guide
 ## Purpose
 This form is designed to assist users in collecting essential information for event setup and teardown activities. It serves as a checklist to ensure that all necessary details are captured, making it easier to manage and track events.

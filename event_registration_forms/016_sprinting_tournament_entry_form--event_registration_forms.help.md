@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-Sprinting_Tournament_Entry_Form - Help Guide
+> Sprinting_Tournament_Entry_Form - Help Guide
 ## Purpose
 This form is for registering participants for a sprinting event. It requires information about the participant, the event, and other details related to the sprinting event. The form is divided into several sections, each containing specific fields that need to be filled.
 

@@ -1,16 +1,3 @@
-<thinking>
-We are going to create a user-facing help guide for the "Music Therapy Registration Form" that is designed to collect information from music therapy registrants. The form is used to capture the necessary details for each registrant, including their contact information, session preferences, and music therapy options. This guide will cover the purpose of the form, how to complete it, and provide field-by-field explanations of each section.
-
-The form is used to register and manage music therapy sessions for the registrants. Each field is designed to collect the necessary information for the music therapy team to provide an efficient and effective music therapy experience for the registrants.
-
-The form is divided into multiple sections, each with specific fields for registrant information, contact information, session details, and music therapy options. The registrants will be asked to provide their email and phone number, which will be optional fields, but recommended for contact purposes. The registrants will also be asked to select the type, frequency, and level of music therapy they are interested in, which will help the music therapy team tailor their sessions to their needs. The form will also include fields for music therapy status and notes, which will be used to track the registrants' progress and provide personalized feedback.
-
-Before starting the form, ensure that you have the necessary information and answers to all the questions asked. The form is designed to be completed in a straightforward and efficient manner, with clear and concise explanations for each field.
-
-Please note that some fields are required, while others are optional, and the registrants are expected to complete all the required fields.
-
-</thinking>
-
 # Music Therapy Registration Form - Help Guide
 ## Purpose
 The Music Therapy Registration Form is used to collect information from registrants for music therapy sessions. Completing this form will help the music therapy team to provide an efficient and effective music therapy experience for you.

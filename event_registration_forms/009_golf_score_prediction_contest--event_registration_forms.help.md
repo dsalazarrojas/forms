@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Golf Score Prediction Contest - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Alumni Reunion Registration Form - Help Guide
 ## Purpose
 This form is for alumni to register for the reunion event. It collects information such as reunion year/class, event date selection, personal details, attendance plans, accommodation preferences, and payment information.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users for training sessions on special effects techniques. The form has been designed to gather necessary details such as workshop type, participant's name, email, phone number, and other relevant information.
-</thinking>
-
 # special_effects_techniques_training_form - Help Guide
 ## Purpose
 This form is used to collect details for training sessions on special effects techniques. It helps us to organize and schedule workshops efficiently.

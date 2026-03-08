@@ -1,7 +1,3 @@
-<thinking>
-This is an in-line help guide for the Global Education Exchange Registration Form. It's used for registering participants, teachers, and schools for various events. This form is used to collect participant information, contact details, event specifics, and agreement status. Ensure that you have filled out this form correctly before submission, as incorrect submissions may lead to delays or denial of participation.
-</thinking>
-
 # Global Education Exchange Registration Form - Help Guide
 ## Purpose
 This form is used to register participants, teachers, and schools for various events. It collects participant information, contact details, event specifics, and agreement status.

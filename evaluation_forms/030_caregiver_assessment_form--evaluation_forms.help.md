@@ -1,7 +1,3 @@
-<thinking>
-This help guide will cover the Caregiver Assessment Form, a comprehensive tool used to evaluate the experiences, needs, and challenges of caregivers. Before starting, ensure that you are not duplicating efforts or assessments for other caregivers, as this form is designed to support individualized support and services. Caregivers may have varied experiences and needs, so please answer honestly and accurately to provide the most helpful information.
-</thinking>
-
 # Caregiver Assessment Form - Help Guide
 ## Purpose
 The Caregiver Assessment Form is a tool used to assess the experiences, needs, and challenges of caregivers. It helps identify areas of support and resources that can be beneficial for caregivers, ensuring they receive adequate assistance and guidance.

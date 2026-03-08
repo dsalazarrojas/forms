@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Spa Guest Evaluation Form - Help Guide
 
 ## Purpose

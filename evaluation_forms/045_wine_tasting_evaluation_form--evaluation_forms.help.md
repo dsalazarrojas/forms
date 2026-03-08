@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to guide wine enthusiasts and professionals in evaluating and recording their experiences with wine. The form is used to collect feedback on the appearance, aroma, taste, finish, overall impression, and other attributes of a particular wine. It is essential to fill out this form accurately to help in making informed decisions about wine purchases or recommendations.
-</thinking>
-
 # Wine Tasting Evaluation Form - Help Guide
 ## Purpose
 The Wine Tasting Evaluation Form is a tool used to collect and record wine tasting experiences. This form is used by wine enthusiasts and professionals to provide detailed feedback on the various attributes of a wine.

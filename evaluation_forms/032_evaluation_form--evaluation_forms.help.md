@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for the Evaluation Form, a tool designed to gather feedback and insights from users. The form is used for internal evaluations within an organization, likely to gauge performance, assess quality, or gather opinions on specific topics. Before starting, please ensure that you're not duplicating an evaluation that has already been completed, as this form is intended to be used on a per-evaluation basis. 
-</thinking>
-
 # Evaluation Form - Help Guide
 ## Purpose
 The Evaluation Form is a multi-page questionnaire aimed at gathering feedback and insights from users. It helps assess performance, quality, or opinions on specific topics, allowing the organization to make informed decisions.

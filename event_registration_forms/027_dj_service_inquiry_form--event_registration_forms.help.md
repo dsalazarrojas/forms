@@ -1,6 +1,3 @@
-<thinking>
-**Form purpose is to collect inquiry information for DJ services to help our team prepare for the event. This guide will walk you through the required fields and options in the "DJ Service Inquiry Form" to ensure a successful and enjoyable event for your guests. Please note: this form will not be used for actual event planning purposes, but rather for internal purposes only to understand event inquiries better. Before proceeding, please confirm your event details and services requirements to avoid any unnecessary duplication of work.</thinking>
-
 # DJ Service Inquiry Form - Help Guide
 ## Purpose
 The "DJ Service Inquiry Form" is designed to collect information about your event and services required for your DJ to deliver an exceptional experience for your guests. Fill out this form to help us better understand your event needs and prepare accordingly.

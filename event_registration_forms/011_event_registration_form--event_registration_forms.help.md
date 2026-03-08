@@ -1,5 +1,3 @@
-<thinking>Internal Note: The Event Registration Form is a critical component of our event management system. It's designed to collect relevant information from users who want to register for an event. To ensure accuracy and completeness, please review this form carefully before submitting your registration. This form is non-mandatory and should only be filled out by those who have a genuine interest in the event.</thinking>
-
 # Event Registration Form - Help Guide
 
 ## Purpose

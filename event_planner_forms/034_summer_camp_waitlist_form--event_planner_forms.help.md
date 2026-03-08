@@ -1,7 +1,3 @@
-<thinking>
-This form is part of a larger process for managing summer camps. Its purpose is to allow parents to add themselves and their children to a waitlist for a summer camp program. This is not the main registration form for the summer camp, but rather a way to get people to express interest in attending before the regular registration process begins. This form will be reviewed and people who are not currently registered will be contacted to provide additional information or to register officially. The form should be completed by the parent or guardian of the child(ren) expressing interest in attending the summer camp.
-</thinking>
-
 # Summer Camp Waitlist Form - Help Guide
 ## Purpose
 This form is used to express interest in attending a summer camp program. It allows parents or guardians to add themselves and their child(ren) to a waitlist for the summer camp.

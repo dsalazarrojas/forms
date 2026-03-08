@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To avoid redundancy and ensure the form's content is comprehensive, we'll need to check if we have other proposals with similar content to yours. This form is for new proposals, and any existing events with the same name will be flagged.
 
 Please review the form carefully before submitting. Ensure all required fields are filled out accurately and completely. If you're unsure about a field or option, please contact our team for assistance.

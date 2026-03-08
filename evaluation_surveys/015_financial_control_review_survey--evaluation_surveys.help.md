@@ -1,7 +1,3 @@
-<thinking>
-This form is used by financial control teams to evaluate the effectiveness of their internal controls and identify potential areas for improvement. It should only be completed by individuals with relevant knowledge and experience in the financial control domain. To avoid unnecessary duplication of effort, please ensure that this form is filled out only once per year, and not as part of regular control activities. Please note that this is a self-assessment tool and should be completed with the highest level of honesty and integrity.
-</thinking>
-
 # Financial Control Review Survey - Help Guide
 ## Purpose
 The Financial Control Review Survey is a tool used to evaluate the effectiveness of internal controls in your area of responsibility. This form helps identify potential financial risks and areas for improvement, allowing you to strengthen your financial control environment.

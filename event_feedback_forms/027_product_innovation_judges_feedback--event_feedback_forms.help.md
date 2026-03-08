@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Product Innovation Judges Feedback - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from product innovation judges on the products they have evaluated. This feedback will help us understand the judges' perceptions and experiences with the products, enabling us to improve our products and services accordingly.

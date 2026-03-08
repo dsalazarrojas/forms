@@ -1,9 +1,3 @@
-<thinking>This form is designed to collect information from individuals or teams interested in attending the Senior All-Night Party. The form is used to gauge interest, gather contact information, and collect RSVPs for the event. To ensure accurate and complete data, please fill out the form carefully.
-
-Before starting, please review the form to ensure you are filling out the correct information and not duplicating your response. If you have already submitted a response, you can skip this form.
-
-This guide will walk you through each section of the form, explaining each field's purpose and requirements.</thinking>
-
 # senior_all_night_party_registration_form - Help Guide
 ## Purpose
 This form is used to collect information for the Senior All-Night Party event. Please provide the required information to help us gauge interest and organize the event.

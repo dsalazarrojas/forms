@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect feedback and ratings from the supervisor and consultant teams. This form helps to evaluate the effectiveness and performance of the consultant and provide a way for supervisors to share their comments and ratings. Before completing this form, please ensure you have read and understood our evaluation policies and procedures, and that you are familiar with the consultant's work and performance. Please only complete this form if you have had a working relationship with the consultant, as it will not be completed by anyone else. Also, please be as concise as possible and provide specific examples to support your answers.
 
 # Supervisor And Consultant Evaluation - Help Guide

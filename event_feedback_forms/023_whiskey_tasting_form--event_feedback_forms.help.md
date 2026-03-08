@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to gather feedback on the tasting experience of a particular whiskey. It is meant for employees of a wine and spirits store or tasting room to provide detailed and honest feedback on the whiskey's aroma, appearance, finish, and overall experience. This feedback will be used to help improve the store's offerings and services.
-</thinking>
-
 # Whiskey Tasting Form - Help Guide
 ## Purpose
 This form is used to gather feedback on the tasting experience of a particular whiskey. It is intended for employees of a wine and spirits store or tasting room to provide detailed and honest feedback on the whiskey's qualities.

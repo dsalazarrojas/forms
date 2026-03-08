@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to be used for assessing the potential environmental impact of an event. It's intended to be used by event organizers to provide information about the event, including its title, category, date, location, and other relevant details. The form can be used to collect data on various aspects of the event, such as energy consumption, water usage, waste production, and carbon footprint. This form will help event organizers to better understand the environmental implications of their events and make more sustainable choices.
-
-This guide is intended to be used by event organizers and others who need to fill out the form. Please make sure to review the fields carefully and provide accurate information to ensure that the form is completed correctly.
-</thinking>
-
 # Event Environmental Impact Assessment Form - Help Guide
 ## Purpose
 This form is designed to be used for assessing the potential environmental impact of an event. It's intended to be used by event organizers to provide information about the event, including its title, category, date, location, and other relevant details.

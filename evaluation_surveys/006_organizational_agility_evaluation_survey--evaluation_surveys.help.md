@@ -1,8 +1,3 @@
-<thinking>
-**Internal reasoning block:**
-This form is designed to evaluate the level of organizational agility within an organization. Organizational agility refers to the ability of an organization to adapt quickly to changes in the market, customer needs, or internal processes. The survey is intended to gather feedback from employees on their perception of the organization's agility, with questions covering aspects such as collaboration, adaptability, and responsiveness to change. The purpose of this form is to help identify areas of improvement and provide insights for management to make data-driven decisions.
-</thinking>
-
 # Organizational Agility Evaluation Survey - Help Guide
 ## Purpose
 The Organizational Agility Evaluation Survey is a tool designed to measure the level of organizational agility within your company. This survey aims to gather feedback from employees on their perception of the organization's ability to adapt to changes and stay competitive in the market.

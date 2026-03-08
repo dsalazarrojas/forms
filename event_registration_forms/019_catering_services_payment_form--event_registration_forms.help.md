@@ -1,14 +1,3 @@
-<thinking>
-To determine the purpose of the Catering Services Payment Form, let's analyze the input schema. The form has multiple sections, including payment information, event reference, and payment terms. This suggests that the form is designed to collect information from customers to process payments for catering services. However, to confirm, we should consider the required and optional fields. The required fields include "Payer Name", "Email Address", "Phone Number", "Event Name", "Event Date", "Catering Company Name", "Invoice Number", "Service Cost", "Subtotal", "Tax Amount", "Total Amount Due", "Payment Method", "Payment Terms", and "Authorization". These fields imply that the form is indeed for processing payments for catering services.
-
-Upon reviewing the optional fields, we can see that they are mostly related to payment terms, deposit amounts, and special instructions. This further confirms that the form is focused on payment processing.
-
-To avoid duplication, let's also consider the form's structure. The form is divided into sections with clear labels, making it easy to navigate and understand. Each section has a clear purpose, such as "Payment Information", "Event Reference", and "Payment Terms". This structure suggests that the form is designed to be user-friendly and easy to complete.
-
-Considering the form's purpose, structure, and required fields, it appears that the Catering Services Payment Form is designed to collect payment information from customers for catering services. The form is likely used in a business setting, such as a restaurant or event planning company, to process payments for catering services.
-
-</thinking>
-
 # Catering Services Payment Form - Help Guide
 
 ## Purpose

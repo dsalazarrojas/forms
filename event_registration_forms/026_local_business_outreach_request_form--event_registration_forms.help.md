@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to gather information from local businesses about their interests and preferences for outreach events. It is likely used to facilitate partnerships, sponsorships, or collaborations between the organization and local businesses. 
-
-The form should only be filled out once per business. If a business has already submitted this form, it should not be resubmitted. 
-
-</thinking>
-
 # Local Business Outreach Request Form - Help Guide
 ## Purpose
 This form is designed to help local businesses connect with the organization for potential partnerships, sponsorships, or collaborations. Please complete this form to share your business interests and preferences.

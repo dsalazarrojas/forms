@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users RSVP (Respond to an invitation) for a Thanksgiving event. The purpose of this form is to collect information from guests about their plans to attend and any food or items they plan to bring. 
-</thinking>
-
 # thanksgiving_rsvp - Help Guide
 ## Purpose
 This form is used to RSVP for a Thanksgiving event. It will ask you for your name, the name of your guest, the food you plan to bring, and any message you'd like to share with the host.

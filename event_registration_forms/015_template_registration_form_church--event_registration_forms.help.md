@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to register participants for events or activities related to a church or organization. The form collects general information about the participant, including name, contact details, and relevant event details. This form appears to be used in conjunction with children's activities, such as "bible lessons," suggesting it's intended for minors. The fields are generally self-explanatory but may require some clarification for certain fields, like the participant's age and event type.</thinking>
-
 # Template Registration Form Church - Help Guide
 ## Purpose
 This form is intended for registering participants for various events or activities at the church, including children's activities like "bible lessons."

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # momentous_affairs_sop_draft_for_cloning - Help Guide
 
 ## Purpose

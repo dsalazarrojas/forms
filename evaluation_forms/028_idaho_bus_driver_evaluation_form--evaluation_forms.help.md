@@ -1,14 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the "idaho_bus_driver_evaluation_form" form, I will first analyze the provided YAML schema to understand the form's purpose and fields. Upon reviewing the schema, I notice that the form is designed to collect information about a bus driver's evaluation. The form appears to be focused on gathering data about the driver's qualifications, vehicle condition, and other relevant factors. 
-
-Given the form's design, it seems that the primary purpose is to assess the suitability of a bus driver for a particular evaluation or assessment. However, without more information about the specific use case, I assume that the form is intended to be a general evaluation form for bus drivers.
-
-The fields provided in the schema cover various aspects of a bus driver, including their name, driver's license information, driving experience, vehicle details, and accident history. The required fields are not explicitly specified, which implies that some or all fields might be optional. 
-
-To provide a clear and concise help guide, I will focus on explaining each field in the context of the provided schema. 
-
-</thinking>
-
 # idaho_bus_driver_evaluation_form - Help Guide
 
 ## Purpose

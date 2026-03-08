@@ -1,7 +1,3 @@
-<thinking>
-This form, "Fitness Class Check minimalist_form", is designed for collecting information from users regarding their registration for a fitness class. The form is likely used for internal purposes, such as tracking user registrations and class attendance. The fields provided are standard and straightforward, allowing users to input their contact information, payment method, and class preferences. To avoid duplication, users are encouraged to register once and provide their details only once. This form should not be used for repeated registrations or updates, as it is intended for one-time use.
-</thinking>
-
 # Fitness Class Check minimalist_form - Help Guide
 ## Purpose
 This form is used to register for a fitness class.

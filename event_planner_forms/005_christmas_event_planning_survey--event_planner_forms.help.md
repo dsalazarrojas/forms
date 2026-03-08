@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from event planners about an upcoming Christmas celebration. The purpose of this form is to gather insights into event planning preferences, such as venue, budget, and entertainment options. This form will help event planners tailor their celebrations to meet the needs and expectations of their attendees. The form is intended to be used by event planners, managers, and HR representatives.
-</thinking>
-
 # Christmas Event Planning Survey - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the Christmas Event Planning Survey form.

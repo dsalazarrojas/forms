@@ -1,12 +1,3 @@
-<thinking>
-This form is for users to register for a DIY workshop. The form has multiple fields that require information from the participant, such as their name, email, phone number, and workshop preferences. The form also has a "Choose Workshop" field that allows participants to select which workshop they would like to attend. The form is designed to be flexible, allowing participants to select one or more workshops.
-
-The form is used to collect information for events, which are likely recurring events that take place at a specific time. The form is not meant for one-time events or events that do not require workshop selection.
-
-This guide will help participants understand what information is required and how to fill out the form correctly.
-
-</thinking>
-
 # DIY Workshops Reservation Form - Help Guide
 ## Purpose
 The DIY Workshops Reservation Form is designed to allow participants to register for a DIY workshop event. To complete this form, please follow the steps below.

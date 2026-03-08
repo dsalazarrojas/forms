@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect information for an N95 fit test. The N95 fit test is a procedure used to ensure that respirators fit properly on a person's face, and this form helps to document the results of the fit test. It is used by fit testers to record details about the testee, including their name, age, height, weight, and gender, as well as information about the respirator being tested, such as size and type. The form also requires information about the test location, test date and time, and the result of the fit test. It is used to ensure that the respirator fits properly and safely on the testee's face. Please ensure you fill out this form for every fit test conducted.
-
-</thinking>
-
 # N95 Fit Test Form - Help Guide
 ## Purpose
 The N95 Fit Test Form is used to record the details of an N95 fit test. It is a crucial process to ensure that respirators fit properly and safely on a person's face. This form helps to document the results of the fit test, which is essential for maintaining the integrity of the respirator and ensuring the health and safety of the testee.

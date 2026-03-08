@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for end users who will be completing the "Festival Spin And Win Survey" form. The purpose of this form is to collect feedback and suggestions from attendees of a music festival, allowing the organizers to gauge the quality and satisfaction of the event. This form will not be used to collect sensitive or personal data, and all questions are optional and will only be used to improve future festivals. Please note that this form may be filled out multiple times, and responses will be treated as individual submissions.
-</thinking>
-
 # Festival Spin And Win Survey - Help Guide
 ## Purpose
 The Festival Spin And Win Survey is designed to gather feedback and suggestions from festival attendees. The information collected will help the organizers improve future events. This form is completely optional, and you can fill it out at your convenience.

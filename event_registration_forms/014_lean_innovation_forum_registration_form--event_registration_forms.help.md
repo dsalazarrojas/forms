@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is being used for its intended purpose and not duplicated. This form is designed to collect information from users for events such as innovation forums, networking sessions, conferences, seminars, webinars, workshops, and pitch competitions. It is intended to gather details from users such as their first name, last name, email address, phone number, zip code, date and time of the event, and other specific event-related information. The form requires users to select specific options for event types and select multiple options for certain aspects of the event. This form is a critical tool for event organizers to collect necessary information from attendees and participants.
-</thinking>
-
 # lean-innovation-forum-registration-form - Help Guide
 ## Purpose
 The lean-innovation-forum-registration-form is a tool designed to gather information from users attending events such as innovation forums, networking sessions, conferences, seminars, webinars, workshops, and pitch competitions.

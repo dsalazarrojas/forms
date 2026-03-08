@@ -1,15 +1,3 @@
-<thinking>
-
-This form is used to gather feedback and evaluation data from attendees after a webinar. The form is intended to be completed by individuals who have attended the webinar, and it aims to collect their opinions and suggestions for future webinars. This feedback will help the event planning team to understand what attendees thought about the webinar and how they can improve future events.
-
-The form is divided into two sections. The first section, "Webinar Evaluation Form," is a text field where attendees can enter their feedback about the webinar. This section is optional, meaning attendees are not required to provide any feedback if they do not wish to do so.
-
-The second section is also optional, but it contains several questions that will help us understand their opinion about the webinar. We ask attendees to rate the webinar on a scale of 1-4, where 1 is poor and 4 is excellent. We also ask them to suggest ways to improve the webinar, and whether they would suggest hosting future events in-person or virtually. 
-
-Note that this form is designed to be completed by attendees within the first few days after the webinar. The feedback and suggestions will be reviewed by the event planning team, and they will use the information to plan future events.
-
-</thinking>
-
 # Webinar Evaluation Form - Help Guide
 ## Purpose
 The Webinar Evaluation Form is designed to gather feedback and suggestions from attendees after a webinar. It helps the event planning team to understand what attendees thought about the webinar and how they can improve future events.

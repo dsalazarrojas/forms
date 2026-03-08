@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Event Result Summary - Help Guide
 
 ## Purpose

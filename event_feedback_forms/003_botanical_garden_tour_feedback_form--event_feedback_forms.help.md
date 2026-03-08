@@ -1,7 +1,3 @@
-<thinking>
-The Botanical Garden Tour Feedback Form is designed to collect visitor feedback and suggestions for improving future tours. This form ensures that we hear your thoughts and experiences from your visit, which will help us refine our tours and make them more enjoyable for everyone. Please note that this form is completely voluntary and all information provided will be kept confidential. Please fill out this form only once per visit, as multiple submissions are not accepted.
-</thinking>
-
 # Botanical Garden Tour Feedback Form - Help Guide
 ## Purpose
 

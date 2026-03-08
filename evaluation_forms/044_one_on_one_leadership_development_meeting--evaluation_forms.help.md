@@ -1,7 +1,3 @@
-<thinking>
-The form "One On One Leadership Development Meeting" is intended to facilitate one-on-one meetings between supervisors and their team members to discuss performance, progress, and development. This form is used to standardize the process and ensure that both parties are aware of the meeting's purpose and expectations. To fill out this form, you will only need to focus on the meeting's focus, take notes during the meeting, and evaluate the team member's performance. 
-</thinking>
-
 # One On One Leadership Development Meeting - Help Guide
 ## Purpose
 This form is used for one-on-one meetings to facilitate discussions between supervisors and team members on performance, progress, and development.

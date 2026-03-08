@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed for gathering feedback from participants about group chat meetings. It aims to collect data on various aspects of the meeting, such as participant satisfaction, meeting attendance, leadership, communication, and overall experience. The form will help the meeting organizers identify areas of improvement and make data-driven decisions to enhance the quality of future meetings.
-
-This form is intended for participants to provide their honest and candid feedback. It is not a performance evaluation or a formal assessment, but rather a tool for constructive feedback and improvement.
-
-Before filling out this form, please make sure to answer each question honestly and to the best of your ability. If a question does not apply to your experience, feel free to leave it blank or provide a brief explanation for the sake of clarity.
-
-</thinking>
-
 # Group Chat Meeting Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from participants about group chat meetings, aiming to identify areas for improvement and enhance the quality of future meetings.

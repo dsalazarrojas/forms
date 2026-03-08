@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users plan and manage Christmas events. The goal is to collect essential information about the event, including the host's contact details, event title and type, date and time, venue, and other relevant specifics such as dress code, meal provision, and RSVP information. This form should not be used for any other purpose than planning a Christmas event.
-</thinking>
-
 # Christmas Invitation Form - Help Guide
 ## Purpose
 The Christmas Invitation Form is a tool for event planners to collect essential information about a Christmas celebration. This form helps hosts gather details about their event, including contact information, event specifics, and RSVP requirements.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Summer Book Club Registration Form - Help Guide
 
 ## Purpose

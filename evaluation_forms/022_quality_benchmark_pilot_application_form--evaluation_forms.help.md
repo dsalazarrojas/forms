@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is properly filled out to help us understand the needs and expectations of the organization applying for a quality benchmark pilot. This form will help us gauge whether the organization is ready to participate in the pilot program, and whether they have a clear understanding of what a quality benchmark pilot entails. It's essential to answer this form accurately and thoroughly to avoid delays or miscommunication in the application process. Please note that the form has multiple pages, each with its own set of questions. Make sure to fill out each page completely before moving on to the next one. We also want to avoid duplicate or incomplete submissions, so please review your answers carefully before submitting the form. If you have any questions or concerns, don't hesitate to reach out to us.
-</thinking>
-
 # Quality Benchmark Pilot Application Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from organizations applying for a quality benchmark pilot. It's a critical step in the application process, and accurate completion will help us evaluate your organization's readiness for the pilot program.

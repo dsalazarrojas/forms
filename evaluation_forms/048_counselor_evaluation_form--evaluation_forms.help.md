@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect feedback from clients about their experiences with a counselor, including their level of satisfaction with the counselor's services. This form is used to evaluate the performance of counselors, and the feedback collected will be used to make informed decisions about their training, support, or potential termination. It is essential to ensure that the feedback is genuine and accurate, so please be honest and thorough in your response. Please do not duplicate responses, as this may skew the results. If you have already submitted a form, you will not be able to submit again. If you are unsure about any of the fields, please refer to this help guide for clarification...</thinking>
-
 # Counselor Evaluation Form - Help Guide
 ## Purpose
 The Counselor Evaluation Form is designed to collect feedback from clients about their experiences with a counselor, which will be used to evaluate the performance of the counselor and make informed decisions about their training, support, or potential termination.

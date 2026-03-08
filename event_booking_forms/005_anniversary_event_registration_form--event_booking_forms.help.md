@@ -1,25 +1,3 @@
-<thinking>
-This help guide is intended to help users understand the purpose and functionality of the Anniversary Event Registration Form. The form is designed to gather information from attendees for the anniversary event. The internal reasoning checks for relevance and non-duplication of user input to ensure that each attendee's data is captured correctly and efficiently.
-
-The form is used to collect the following information:
-
-*   Full name and contact information of the attendee
-*   Graduation or joining year
-*   Number of guests attending
-*   Names of guests
-*   Dietary restrictions
-*   Accommodation requirements
-*   Preferred hotel or dormitory
-*   Mode of transportation
-*   Events to attend
-*   Special assistance needs
-
-The form is designed to be completed by attendees themselves, ensuring that they provide accurate and up-to-date information.
-
-Before completing the form, please make sure to review the event schedule and events that interest you to ensure that you have selected all relevant sessions.
-
-</thinking>
-
 # Anniversary Event Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from attendees for the anniversary event.

@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to capture event registration information for a themed party. The purpose of this form is to gather the necessary details from attendees who want to order party favors. The form is split into two pages, and the first page collects information about the party favor order. The second page collects personal information such as name and email address. This form is a basic template and does not include any advanced features like conditional logic or calculations. 
-Please ensure that you have the necessary permissions to access and share the collected data. 
-
-Note: The form is not affiliated with any form platform, is an original adaptation of a public survey topic, and does not use proprietary content from any form creation, data collection, or survey platform. 
-
-Please fill out this form carefully and honestly to ensure accurate data collection.
-
-</thinking>
-
 # themed_party_favor_order_form - Help Guide
 ## Purpose
 This form is used to capture event registration information for a themed party. It is a basic template for collecting party favor order details and attendee personal information.

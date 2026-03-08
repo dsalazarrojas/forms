@@ -1,11 +1,3 @@
-<thinking>
-This form is used for event planners to recommend events to the organization's management for approval. The purpose of this form is to gather information about upcoming events, such as the date, time, and location of the event, so that management can review and approve or reject the event. This form ensures that all necessary details are provided to make informed decisions about event planning. 
-
-The form should only be filled out by authorized event planners. 
-
-To prevent duplication of effort, please check the organization's event calendar before filling out this form.
-</thinking>
-
 # event_coordinator_recommendation_form - Help Guide
 ## Purpose
 This form is used for event planners to recommend events to the organization's management for approval. It gathers information about upcoming events, including date, time, and location, to facilitate informed decisions about event planning.

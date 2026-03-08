@@ -1,14 +1,3 @@
-<thinking>
-The Skydiving Event Feedback Survey form is designed to collect feedback from participants of skydiving events. This form will be used to gather information on the event's name, participant details, event date and time, location, and feedback on the overall event experience. The form includes fields for rating the event's overall quality and participant's enjoyment level, as well as fields for suggestions and additional comments. The form is designed to be completed by participants to provide feedback on the event's organization, staff, and overall experience.
-
-This form will be used to improve the planning and execution of future events, and to identify areas of improvement. It is essential that participants provide honest and constructive feedback to help us better understand their experience. 
-
-Please make sure to complete the form carefully and accurately, as your feedback is crucial to helping us improve our events. If you have any questions or concerns, please don't hesitate to reach out to us.
-
-The form will be used to collect feedback from multiple participants, so please be aware that your responses will be aggregated with others to create a comprehensive picture of the event's success. 
-
-</thinking>
-
 # Skydiving Event Feedback Survey - Help Guide
 
 ## Purpose

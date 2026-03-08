@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect registration information from attendees for a wedding show. The form's purpose is to gather relevant details about each attendee, including their personal and professional information. This form is likely to be used by event organizers to track and manage the attendees of the wedding show.
-
-To avoid duplication and ensure accurate records, it's crucial to ensure that each attendee registers only once. Before proceeding, please verify that you haven't already registered as an attendee.
-
-</thinking>
-
 # Wedding Show Attendee Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect and track registration information from attendees of the wedding show. Please fill out the form with your details to participate in the event.

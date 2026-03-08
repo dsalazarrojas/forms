@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for participants to register for online chat rooms. The purpose of this form is to collect information from participants about themselves and their registration details. It is intended for event registration, but it's not exclusively for this purpose and might be used in other contexts as well. To ensure data consistency and avoid duplicates, the system checks for existing participant information before accepting new submissions.
-
-The form is divided into two pages: Registration Form and Chat Rooms. The Registration Form page is required and has the following fields:
-
-The form collects participant information in a structured way, which helps the event organizers and participants in the chat room to have a better understanding of the event and its participants.
-
-</thinking>
-
 # Online Chat Room Registration Form - Help Guide
 ## Purpose
 This form is used for participants to register for online chat rooms. It collects information about the participant and their registration details.

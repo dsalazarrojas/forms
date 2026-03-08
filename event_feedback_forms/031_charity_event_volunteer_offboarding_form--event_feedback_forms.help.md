@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that our charity event volunteers are offboarded correctly to free up resources and make space for new volunteers. This form is used to gather information about the volunteer's experience, challenges faced, and overall satisfaction with the event. We also want to know if they would volunteer again and recommend us to others. Please fill this form only if you've participated in one of our charity events. If you've already filled this form, please don't submit it again.
-</thinking>
-
 # Charity Event Volunteer Offboarding Form - Help Guide
 ## Purpose
 This form helps us understand your experience and satisfaction with our charity events and gather feedback to improve future events.

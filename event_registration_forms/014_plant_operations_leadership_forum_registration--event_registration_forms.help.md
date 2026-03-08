@@ -1,11 +1,3 @@
-<thinking>
-
-This form is a registration form for a plant operations leadership forum, likely used to gather information from attendees and organizers. The form is designed to collect event details, attendee information, session interests, and accessibility needs. The form is likely used for internal purposes within a company or organization, possibly for tracking attendance, catering, or other logistical needs.
-
-Before proceeding, ensure that this form is not a duplicate of an existing form, and that the purpose is clear and relevant to your needs.
-
-</thinking>
-
 # plant_operations_leadership_forum_registration - Help Guide
 ## Purpose
 This form is designed to collect information from attendees and organizers for the plant operations leadership forum. It includes fields for event details, attendee information, session interests, and accessibility needs.

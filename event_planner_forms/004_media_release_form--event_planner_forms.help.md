@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Media Release Form - Help Guide
 ## Purpose
 This Media Release Form is used to collect personal information from individuals who are being featured in media events, interviews, or publications. It helps to gather consent and contact details for future communications and collaborations.

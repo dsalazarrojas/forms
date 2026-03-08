@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Open Evening Feedback Survey - Help Guide
 
 ## Purpose

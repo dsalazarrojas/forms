@@ -1,5 +1,3 @@
-<thinking>Before starting on the form, let's take a moment to confirm that we are on the right track. From what we know, this form is for collecting information from tour operators, likely for business or event management purposes. We will ensure that our explanation is straightforward, clear, and easy to follow. Let's break down the form into the required sections: "Tour Operator Information Form - Help Guide".</thinking>
-
 # Tour Operator Information Form - Help Guide
 
 ## Purpose

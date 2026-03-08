@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for volunteers to register for an educational program. The form is likely used for event organizers or administrators to collect information from potential volunteers, including their contact details, availability, and role within the program. The form may be used to track and manage volunteer registrations for events or programs with specific shifts or time slots. 
-
-Before completing this form, ensure that you are registering for a program that you have been assigned to or are eligible for. If you are unsure, please contact the event organizer for clarification.
-
-Please review this form carefully and fill in the required information accurately to ensure a smooth registration process.
-</thinking>
-
 # Educational Program Volunteer Registration Form - Help Guide
 ## Purpose
 The Educational Program Volunteer Registration Form is designed for volunteers to register for educational programs and events. This form helps event organizers collect relevant information from volunteers, including contact details, availability, and role within the program.

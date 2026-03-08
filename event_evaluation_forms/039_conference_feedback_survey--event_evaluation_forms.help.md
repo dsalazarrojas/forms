@@ -1,12 +1,3 @@
-<thinking>
-To create a form that captures conference feedback effectively, we must consider a few essential factors: 
-1.  We must know what our audience is. The form should cater to the demographics of our attendees.
-2.  We should not overburden our audience with excessive questions, while still capturing the necessary information to understand their opinions. We want the responses to be actionable for us and the attendees.
-3.  The questions we ask should be relevant and well-crafted to get genuine feedback.
-
-We will aim for a balance between asking for personal details, rating questions, and open-ended questions, to gather diverse and actionable data.
-</thinking>
-
 # Conference Feedback Survey - Help Guide
 
 ## Purpose

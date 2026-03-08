@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback and information about social events. It's intended for event organizers and planners to gather data on event outcomes, satisfaction, and areas for improvement. It's likely that this form will be used for internal purposes, such as evaluating event effectiveness and identifying areas for future development. Before filling out this form, please ensure you're familiar with the event and its details.
-
-To use this form, you will be asked to provide feedback on the event's outcomes, satisfaction, and areas for improvement. You will also be asked to provide contact information and details about the event's date, time, location, and other relevant aspects.
-
-This form is not intended for general public access and should only be filled out by authorized personnel. Please ensure that you have permission to access and fill out this form.
-
-</thinking>
-
 # Social Event Survey Form - Help Guide
 ## Purpose
 The Social Event Survey Form is designed to collect feedback and information about social events. It's intended for event organizers and planners to gather data on event outcomes, satisfaction, and areas for improvement.

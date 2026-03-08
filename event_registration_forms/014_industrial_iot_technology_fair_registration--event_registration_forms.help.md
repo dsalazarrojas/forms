@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect registrations for the Industrial IoT Technology Fair. It is assumed that the target audience is likely professionals and researchers interested in IoT technologies. This form will be used to gather basic contact information and specific interests of the attendees. There is no indication that this form is part of a larger workflow or system that requires any specific validation rules beyond the provided input schema. This form will only be used for informational purposes and does not imply any further action or integration with other systems. There is no indication of any non-duplication rules in place, so it is assumed that each user can submit the form as many times as they want without any restrictions.
-</thinking>
-
 # Industrial IoT Technology Fair Registration - Help Guide
 ## Purpose
 This guide will help you complete the Industrial IoT Technology Fair Registration form. The form is designed to collect your basic contact information and specific interests in IoT technologies.

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed to collect information for event planning. The form consists of 25 fields across multiple pages, with a mix of text fields, multiple-choice questions, and date/time fields. The "select_one" and "select_multiple" fields suggest that the form is designed to ask about event details, possibly including event planning preferences or availability. The fields are not strictly categorized into sections, but the page labels suggest a sequence or progression from general information to specific details. There is no explicit indication of any complex calculations or logic that would make it necessary to provide a step-by-step guide or complex instructions.
-</thinking>
-
 # event_planning_questionnaire - Help Guide
 ## Purpose
 The event_planning_questionnaire form is designed to collect information for event planning purposes.

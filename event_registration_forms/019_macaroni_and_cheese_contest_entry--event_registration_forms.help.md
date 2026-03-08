@@ -1,11 +1,3 @@
-<thinking> 
-This form is designed to collect entries for a Macaroni and Cheese Contest. The purpose of this form is to gather information from participants who wish to enter the contest. 
-
-Each field in the form is designed to collect specific details about the participant and their entry. 
-
-Before filling out this form, ensure that you have a clear understanding of the entry requirements and that you are not duplicating an entry. 
-
-</thinking>
 # Macaroni And Cheese Contest Entry - Help Guide
 
 ## Purpose

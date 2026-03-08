@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to order homecoming mums for a particular event. The form will guide users in collecting the necessary information to process their order. This form is not intended for users to input their personal data for the event organizers but rather to provide information about the order they wish to place. Please ensure that each field is filled out completely and accurately. If any fields are not filled or are filled with incorrect data, the form will not process correctly. The fields should not be duplicated, i.e., if a field has a default value or is automatically generated, do not input a different value. For example, do not enter a value for "total" if "mums_quantity" and "price_per_mum" are filled out.
-</thinking>
-
 # Homecoming Mum Order Form - Help Guide
 ## Purpose
 This form is used to place an order for homecoming mums for an event.

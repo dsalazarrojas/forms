@@ -1,11 +1,3 @@
-<thinking>
-The watercolor course registration form is used to collect information from students who want to enroll in a watercolor course. The form is designed to be completed by students who are interested in learning watercolor painting techniques. This form will not be used for any other type of course registration. Please ensure that you only fill out this form if you are a new student interested in registering for a watercolor course.
-
-This form has multiple pages and is intended to be completed in a step-by-step manner. Each page collects information related to specific aspects of the student's details and course selection.
-
-Before we dive into the form details, note that the instructor name field is not required for this form as the course will be open to multiple instructors.
-</thinking>
-
 # watercolor_course_registration - Help Guide
 ## Purpose
 This form is used to register a student for a watercolor course. It collects personal details and course selection information from the student.

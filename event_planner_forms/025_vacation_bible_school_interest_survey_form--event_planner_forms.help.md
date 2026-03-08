@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vacation Bible School Interest Survey Form - Help Guide
 
 ## Purpose

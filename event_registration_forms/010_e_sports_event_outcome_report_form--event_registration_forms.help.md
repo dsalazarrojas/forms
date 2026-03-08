@@ -1,17 +1,3 @@
-<thinking>
-**Internal Reasoning Block:**
-
-To create the user-facing help guide for the "E Sports Event Outcome Report Form," we need to break down the purpose, completion, and field explanations for the form, based on the provided YAML fields.
-
-The purpose of the form is to gather information from users on various aspects of an E Sports event, such as tournament outcomes, player performances, audience engagement, overall event success, and comments related to the event.
-
-The form is designed to be completed by users in a series of steps, with each step corresponding to a separate page with its own set of questions and fields. 
-
-We will focus on providing clear explanations for each field, taking into account the field type, options, and any provided hints.
-
-**Form fields will be explained in detail, using concise and practical language, with the intent of ensuring the user understands the expected input and what information will be collected.**
-</thinking>
-
 # E Sports Event Outcome Report Form - Help Guide
 
 ## Purpose

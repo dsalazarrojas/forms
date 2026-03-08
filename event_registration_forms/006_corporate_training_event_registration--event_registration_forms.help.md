@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to register corporate training event participants. The purpose of this form is to collect information from individuals who are interested in attending a corporate training event. The form is meant to be completed by corporate employees or representatives who want to register themselves or others for the event.
-
-The form is intended for corporate training event organizers to gather information about the attendees, including their name, company, email, role, dietary requirements, preferred date, session time, and any special requirements. The form is not meant to be completed by anyone who is not attending the corporate training event.
-
-Before starting the registration process, please ensure you are not already registered for the event. If you are unsure, contact the event organizers for clarification.
-</thinking>
-
 # Corporate Training Event Registration - Help Guide
 ## Purpose
 This form is designed to register corporate training event participants.

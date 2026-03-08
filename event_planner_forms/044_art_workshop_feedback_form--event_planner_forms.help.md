@@ -1,5 +1,3 @@
-<thinking>Form purpose is to gather feedback from participants about the workshops they've attended. This form helps event planners evaluate the quality and effectiveness of their workshops.</thinking>
-
 # Art Workshop Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from participants about their experience at an art workshop. Your input will help event planners assess the effectiveness and quality of their workshops.

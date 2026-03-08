@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from attendees of a seminar. It's intended for seminar organizers to understand the quality, relevance, and overall satisfaction of the event. This feedback is crucial for future improvements and adjustments to the seminar content and format. 
-
-When filling out this form, please ensure that you provide honest and constructive feedback. Your input will help us create a more valuable experience for our attendees. 
-
-Please note that this form will not be used for marketing or sales purposes, and your information will be kept confidential.
-
-</thinking>
-
 # Seminar Content Feedback Form - Help Guide
 ## Purpose
 The Seminar Content Feedback Form is designed to gather feedback from attendees on the quality, relevance, and overall satisfaction of the seminar. Your input will help us improve and refine the content and format of future seminars.

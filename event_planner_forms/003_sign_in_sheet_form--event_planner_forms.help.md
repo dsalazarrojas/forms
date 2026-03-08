@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to capture information for event planning purposes. It is meant to be completed by individuals who are attending or participating in an event. The fields on this form are designed to collect relevant contact information and event details. This guide is meant to ensure that users understand how to fill out the form correctly and what each field is intended for.
-
-The guide is intended to help end-users fill out the form without requiring extensive training or knowledge of our internal workflows, as the form will be used in conjunction with other tools and systems that may not be immediately familiar to all users.
-
-It's worth noting that there is no duplication of effort in creating this guide as this form is a unique tool and is not part of a larger, more complex form or process that requires extensive explanation.
-
-</thinking>
-
 # Sign In Sheet Form - Help Guide
 ## Purpose
 The Sign In Sheet Form is used to collect information from individuals who are attending or participating in an event. This form is intended to capture relevant contact and event details to help event organizers and attendees effectively manage the event.

@@ -1,7 +1,3 @@
-<thinking>
-This form is meant for users to book an experience at a safari lodge. It is meant for guests to provide their details and preferences for their stay. To ensure that this form serves its purpose effectively, it is essential that the questions cover necessary information such as guest details, dates of stay, activities, payment details, and confirmation of the booking. The form should not be used for any other purpose than booking an experience at a safari lodge. Please note that the fields are not required to be filled, which might lead to a non-completed booking. Please fill out the form carefully and accurately to ensure a smooth booking process.
-</thinking>
-
 # safari_lodge_experience_booking_form - Help Guide
 ## Purpose
 This form is designed to help guests book an experience at a safari lodge. It requires guests to provide their details and preferences for their stay.

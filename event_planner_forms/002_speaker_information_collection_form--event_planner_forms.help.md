@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about speakers for events or presentations. It is designed to capture essential details about the speaker's identity, such as their name, contact information, company, position, biography, and image. This form is intended for internal use, and the collected data will be used to create speaker profiles and facilitate communication with speakers before and after events. Before filling out this form, please ensure that you have the speaker's permission to collect and store their information. If the speaker is a repeat attendee, please check that we do not already have their information on file before submitting a new entry. If you are unsure, please contact the event planner for guidance.
-</thinking>
-
 # Speaker Information Collection Form - Help Guide
 ## Purpose
 The Speaker Information Collection Form is used to gather essential details about speakers for events or presentations.

@@ -1,9 +1,3 @@
-<thinking>
-The "Youth Volunteering Fair Registration Form" is a digital form designed to collect information from students who wish to participate in a volunteering fair event. This event aims to promote volunteering opportunities among youths, providing a platform for them to learn new skills, interact with like-minded peers, and give back to the community.
-The form is used internally and is intended for school administrators and staff to register students for the event. It is not intended for general public use, so please do not share or use it for external purposes.
-The form will be reviewed and approved internally to ensure data accuracy and relevance. Please make sure to provide accurate and up-to-date information.
-</thinking>
-
 # Youth Volunteering Fair Registration Form - Help Guide
 ## Purpose
 This form is designed to register students for the Youth Volunteering Fair event, where they can explore volunteering opportunities, learn new skills, and interact with like-minded peers.

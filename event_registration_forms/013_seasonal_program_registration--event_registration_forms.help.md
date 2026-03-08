@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Seasonal Program Registration - Help Guide
 
 ## Purpose

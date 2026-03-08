@@ -1,12 +1,3 @@
-<thinking>
-This form is for individuals or organizations interested in participating in the Future AI Summit. The purpose of the form is to collect information about the registrant, including their name, contact information, and areas of interest in AI. This form will help the event organizers to better understand who is interested in attending and what they are expecting to gain from the summit.
-
-To ensure that you are not duplicating your registration, please fill out the form only once. If you have already registered, you can update your information by filling out the form again, and we will make sure to update your previous registration.
-
-Please note that this form is an original adaptation of a public survey and does not copy or use any proprietary content from other form platforms.
-
-</thinking>
-
 # Future AI Summit Interest Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from individuals or organizations interested in participating in the Future AI Summit.

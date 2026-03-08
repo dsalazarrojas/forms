@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from clients for catering services billing purposes. The form is divided into several sections: Client Information, Event Details, Service Details, Charges and Fees, and Total & Payment. The sections are designed to gather the necessary information to calculate the total amount due and payment method. The form fields are labeled with clear and concise language to guide the user through the process. The fields include client name, email, phone number, event date, event name, event location, number of guests, service type, cost per person, subtotal, additional services charges, service fee percentage, service fee amount, tax amount, total amount due, payment method, payment terms, invoice notes, and billing confirmation.
-
-Before filling out this form, please ensure that you have all the necessary information ready. It is recommended to review each section carefully and fill out the form in the same order as the sections appear. If you have any doubts or questions, please contact your sales representative.
-</thinking>
-
 # Catering Services Billing Form - Help Guide
 ## Purpose
 The Catering Services Billing Form is used to gather information from clients for billing purposes. This form helps in calculating the total amount due and payment method.

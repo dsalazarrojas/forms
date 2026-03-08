@@ -1,7 +1,3 @@
-<thinking>
-The form is used for registering events, specifically Zumba classes, in a park setting. The purpose of this form is to collect information from event organizers to help them schedule their events effectively. This form should only be filled out once per event, and event organizers are encouraged to submit the same information for each event they wish to schedule.
-</thinking>
-
 # Zumba In The Park Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from event organizers for registering and scheduling Zumba classes in a park setting.

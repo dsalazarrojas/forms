@@ -1,11 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for an event feedback form, specifically designed for tournament food vendors. This form aims to gather information on the vendors' experience during the event, including event organizer info, food quality, temperature, and other essential details. The form will help us understand the vendors' satisfaction level and identify areas for improvement for future events. To ensure the guide is comprehensive, we will cover the form's purpose, how to complete it, and each field's explanation.
-
-The guide will be based on the provided YAML input schema, where each field has a specific label, type, and options. We will use these details to craft clear and concise explanations for each field. The final guide will be in Markdown format, divided into four sections: "Purpose", "How To Complete This Form", "Field-by-Field Explanation", and "Tips".
-
-Before proceeding, let's review the YAML input schema to ensure we cover all essential points. The form consists of 16 fields, covering various aspects of the tournament food vendor experience. These fields include Event Organizer Info, Food Vendor Info, Overall Experience, Food Quality, Food Temperature, Event Info, Comments, Rating, Vendor ID, Vendor Name, Vendor Email, Vendor Phone, Event Name, Event Date, Event Time, and Feedback.
-</thinking>
-
 # Tournament Food Vendor Experience Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from food vendors on their experience during the tournament event. We want to understand how well we managed the event and identify areas for improvement.

@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's confirm that this form is intended to evaluate the technical co-founder of a project or company. This form is likely used to assess the candidate's technical abilities, leadership skills, project fit, and other relevant qualities. We will create a help guide that assumes the form is used for this purpose. Additionally, we will make sure the guide is clear and concise, avoiding duplication of content where possible.</thinking>
-
 # Technical Co-Founder Evaluation Form - Help Guide
 ## Purpose
 This form is used to evaluate the technical co-founder of a project or company. It assesses the candidate's technical abilities, leadership skills, project fit, and other relevant qualities.

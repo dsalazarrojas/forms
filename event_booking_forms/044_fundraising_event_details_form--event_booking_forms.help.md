@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a fundraising event, which is a crucial step in organizing and planning events for fundraising activities. To ensure that the event details are accurate and complete, it is essential to understand each field's purpose and requirements.
-
-The form is designed to gather essential information about the event, including its name, date, location, type, description, organizer, target audience, and goal. Each field is carefully crafted to help the event organizer provide the most accurate and relevant information about the event. 
-
-Please note that the event target and goal fields have options to help you select the correct options for your event.
-
-Before proceeding to fill out the form, review each field carefully and ensure that the information provided is accurate and complete.</thinking>
-
 # Fundraising Event Details Form - Help Guide
 ## Purpose
 This form is designed to collect essential information about a fundraising event. It helps event organizers gather details such as event name, date, location, type, and other relevant information to make the event a success.

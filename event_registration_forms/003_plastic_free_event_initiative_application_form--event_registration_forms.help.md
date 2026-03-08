@@ -1,11 +1,3 @@
-<thinking>
-The "Plastic Free Event Initiative Application Form" is a form designed to support the organization's efforts to promote sustainability and reduce plastic usage. This form should only be used for events that align with the plastic-free initiative's goals and objectives. To ensure that the form is filled out correctly, please note that:
-- The form is not meant for events that promote or involve plastic usage.
-- The form is meant for events that are specifically organized by or in support of the initiative.
-- The form is meant for internal events or events that benefit the initiative, not external events.
-- Please review the "Tips" section for additional guidance on completing this form correctly.
-</thinking>
-
 # Plastic Free Event Initiative Application Form - Help Guide
 ## Purpose
 This form is for events that align with the "Plastic Free Initiative" goals and objectives.

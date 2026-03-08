@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide will provide an overview of the Meeting Feedback Form, explaining its purpose, how to complete it, and the meaning of each field.
 
 # Meeting Feedback Form - Help Guide

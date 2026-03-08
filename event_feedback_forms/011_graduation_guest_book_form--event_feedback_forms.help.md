@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect feedback or messages from guests at a graduation event. To fill out this form, follow the instructions below, carefully reading each field's explanation to ensure you're providing the correct information.
-
-This form will have multiple pages, each with its own set of fields. Please complete each page as prompted, making sure to fill in all required fields and providing any additional information as needed.
-
-Some fields may have hints or labels that may not be immediately clear. If you're unsure about a particular field, refer to its explanation below for guidance.
-
-</thinking>
-
 # Graduation Guest Book Form - Help Guide
 ## Purpose
 The Graduation Guest Book Form is designed to collect feedback, messages, or comments from guests at a graduation event. Your responses will help us understand your thoughts, sentiments, and experiences from this special occasion.

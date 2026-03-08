@@ -1,15 +1,3 @@
-<thinking> This form is a feedback survey designed for attendees to provide feedback on a presentation they have watched or attended. It is used to collect information on various aspects of the presentation, including the content, speaker, event, and overall experience. 
-
-This form is intended for attendees who have watched or attended a presentation, and it is not intended for speakers or organizers of the event. 
-
-To ensure data quality and relevance, it is recommended that only one feedback form is filled out per attendee, and that attendees provide their feedback honestly and accurately.
-
-Before filling out this form, make sure you have all the required information and fields filled out correctly. If you have filled out a feedback form for this presentation already, do not fill it out again. 
-
-If you are unable to find a specific field or have any doubts about the purpose of a field, please ask your event organizer for clarification.
-
-</thinking>
-
 # Presentation Feedback Survey - Help Guide
 ## Purpose
 

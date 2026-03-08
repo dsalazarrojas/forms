@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # online_auction_appointment_preview - Help Guide
 
 ## Purpose

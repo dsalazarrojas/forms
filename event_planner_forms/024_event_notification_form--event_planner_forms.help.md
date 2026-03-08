@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Event Notification Form - Help Guide
 ## Purpose
 The Event Notification Form is a tool used to notify various stakeholders about events that require attention or action. This form helps ensure that the right people are informed and can respond promptly to events such as meetings, concerts, weddings, and other activities that may impact the community or require special handling.

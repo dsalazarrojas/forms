@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback from users about their viewing experience at a theater. This form will help us understand what aspects of the experience were enjoyable and what could be improved. It seems like this form has multiple pages, and the "First Page" page likely has some introductory information or instructions. On the "rating" page, users will be asked to select how they would rate their overall viewing experience. The "feedback" field likely allows users to provide specific feedback about their experience. The "first_name", "last_name", "email", "phone" fields are typical contact information fields that may be required or optional, depending on the form's purpose. The "additional_feedback" field, like "feedback", allows users to provide more details. I don't see any obvious purpose or connection between these fields, so I'll assume they're all meant to gather more information about the user, but the "rating" and "feedback" fields are likely the primary focus of this form.
-</thinking>
-
 # Theater Viewing Experience Feedback Poll - Help Guide
 
 ## Purpose

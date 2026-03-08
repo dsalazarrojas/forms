@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used to collect registration information for participants in a "Mixed Doubles" sports event, such as table tennis or badminton. To ensure accurate and efficient processing, please fill out this form completely and accurately. Note that this form has been designed to be a one-time registration, and any duplicate or incomplete submissions will be discarded.
-</thinking>
-
 # Mixed Doubles Registration Form - Help Guide
 ## Purpose
 The Mixed Doubles Registration Form is used to collect registration information for participants in a Mixed Doubles sports event.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # summer_camp_participant_information_form - Help Guide
 ## Purpose
 This form is designed to collect essential information from participants of the summer camp. It's essential to fill it out accurately to ensure a smooth and enjoyable experience for both the participant and the camp staff. Completing this form helps us understand your personal details, emergency contacts, and any medical needs.

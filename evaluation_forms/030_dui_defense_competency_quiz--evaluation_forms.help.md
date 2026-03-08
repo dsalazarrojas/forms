@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to evaluate a defendant's defense competency in a court of law. The purpose of this form is to assess the defendant's understanding of the legal framework, case laws, defense techniques, and legal standards relevant to their case. The evaluation is crucial for the court to determine the defendant's ability to defend themselves effectively.
-
-</thinking>
-
 # dui_defense_competency_quiz - Help Guide
 ## Purpose
 The purpose of this form is to evaluate a defendant's defense competency in a court of law. It assesses their understanding of the legal framework, case laws, defense techniques, and legal standards relevant to their case.

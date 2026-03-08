@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect feedback and suggestions from stakeholders on the treasury budget review process. It is intended to gather information on the allocation of funds, improvement suggestions, and comments from various stakeholders. The form is part of the evaluation process to ensure that the treasury budget is accurate and effective.
-
-Before filling out this form, please ensure that you have read and understood the purpose and scope of the treasury budget review process. This form should only be filled out by authorized personnel who have been invited to participate in the evaluation process.
-
-Please note that some fields in this form are optional, and you should only fill out the relevant sections that apply to your specific situation.
-
-Also, please make sure to review the form carefully to avoid duplication of comments and feedback.
-
-</thinking>
 # Treasury Budget Review Survey - Help Guide
 ## Purpose
 The Treasury Budget Review Survey is designed to collect feedback and suggestions from stakeholders on the treasury budget review process. This form is part of the evaluation process to ensure that the treasury budget is accurate and effective.

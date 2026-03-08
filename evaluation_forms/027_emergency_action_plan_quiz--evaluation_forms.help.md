@@ -1,10 +1,3 @@
-<thinking>
-We need to ensure that the "Emergency Action Plan Quiz" form is used as intended. The form is designed to help employees prepare for emergency situations by evaluating their response to fire-related hazards. This includes selecting the right alarm procedures, evacuating the area correctly, fighting the fire, assembling with the team, and ensuring accountability. The form should only be filled out by employees who have undergone proper training and are familiar with emergency protocols.
-
-To avoid duplication, ensure that this form is not filled out for every single emergency situation. It's meant to be a reference guide for employees to review and update their emergency action plans regularly.
-
-</thinking>
-
 # Emergency Action Plan Quiz - Help Guide
 ## Purpose
 

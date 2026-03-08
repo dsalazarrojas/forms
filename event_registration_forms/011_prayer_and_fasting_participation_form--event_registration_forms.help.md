@@ -1,6 +1,3 @@
-<thinking>
-This form is used for registering participants for a prayer and fasting event. The form is designed to collect information about the fasting initiative, participants, and event details. It is not intended to be a comprehensive form for all possible fasting events, but rather a general template for specific events. Before filling out this form, please make sure you have the necessary information and authorization to participate in the event.</thinking>
-
 # Prayer And Fasting Participation Form - Help Guide
 ## Purpose
 This form is used to register participants for a prayer and fasting event. It collects information about the fasting initiative, participants, and event details.

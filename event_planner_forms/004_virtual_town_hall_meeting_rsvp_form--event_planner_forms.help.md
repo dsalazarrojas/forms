@@ -1,7 +1,3 @@
-<thinking>
-We are creating this form to ensure that the attendees of the Virtual Town Hall Meeting have a chance to participate and express their thoughts. We want to make sure that we get an accurate headcount for the meeting and that attendees can provide their feedback. This form will be used to collect information about attendees, their roles, and their RSVP status. We will check for duplicate submissions and ensure that the form is not used for spamming or other malicious purposes.
-</thinking>
-
 # Virtual Town Hall Meeting RSVP Form - Help Guide
 ## Purpose
 This form is designed to collect information from attendees of the Virtual Town Hall Meeting. It allows attendees to confirm their attendance, provide their role, and leave comments and questions. The form also includes fields for collecting phone numbers, comments, and RSVP methods.

@@ -1,20 +1,3 @@
-<thinking>
-This help guide will help users understand the purpose of the Soccer Coach Evaluation Form and its components. It's essential to ensure that users are able to use the form effectively and accurately.
-
-This guide will be based on the provided YAML fields, which describe the form's layout and components. It will cover three main sections: "Purpose", "How To Complete This Form", and "Field-by-Field Explanation".
-
-Before we proceed, let's review the internal reasoning for this form:
-
-*   The form appears to be designed to assess a soccer coach's performance, style, and other relevant aspects.
-*   The form includes various fields that ask for information on the coach's performance, coaching style, communication skills, leadership ability, and overall impact.
-*   There are also fields for providing additional comments and assessing the coach's background, experience, and language skills.
-*   The form seems to be designed for evaluating coaches, likely for internal or external purposes.
-
-The form has 25 fields, including text, select_one, select_multiple, and number fields.
-The form's purpose is likely to provide a comprehensive evaluation of a soccer coach's performance, style, and other relevant aspects.
-
-</thinking>
-
 # Soccer Coach Evaluation Form - Help Guide
 ## Purpose
 

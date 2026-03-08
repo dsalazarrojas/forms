@@ -1,8 +1,4 @@
 >
-<thinking>
-The form is intended to capture user information for ticket purchases related to an event, specifically when the event is ticketed and when users are purchasing tickets with Skrill. This form likely serves as a registration or checkout form for an event, and its purpose is to collect relevant attendee details to facilitate the ticketing process.
-</thinking>
-
 # Ticket Purchase Form With Skrill - Help Guide
 ## Purpose
 This form is designed to gather information from users for ticket purchases related to an event, specifically when the event is ticketed. The form collects user details such as Skrill card information and event-related information to process ticket purchases with Skrill.

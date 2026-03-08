@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Computer Based Driving Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect information about participants who have undergone a computer-based driving evaluation. It will help assess their control skills, hazard recognition, and reaction time during the evaluation. This data will be used to evaluate their driving abilities and skills.

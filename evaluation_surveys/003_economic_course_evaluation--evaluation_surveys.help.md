@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and evaluation data about a specific economic course. It is intended for students, instructors, or course administrators to provide an evaluation of the course's content, organization, and overall quality. The form will help to identify areas of strength and weakness in the course, which can inform improvements and updates. This form is a self-contained tool, not affiliated with or derived from any existing form platform. It is released under CC BY 4.0 and can be used, modified, and even sold without restrictions, as long as credit is given.
-</thinking>
-
 # Economic Course Evaluation - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and evaluation data about a specific economic course. It is designed to help students, instructors, or course administrators understand the course's content, organization, and overall quality. This information will help identify areas of strength and weakness in the course, which can inform improvements and updates.

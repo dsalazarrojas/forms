@@ -1,7 +1,3 @@
-<thinking>
-To confirm that the form purpose is to collect registration information from potential attendees of the Inclusive Tourism Innovation Summit. The form is designed to be user-friendly and straightforward, with clear instructions and concise explanations for each field. Before proceeding, please ensure you have carefully reviewed the form's purpose and the required fields to avoid any confusion.
-</thinking>
-
 # Inclusive Tourism Innovation Summit Registration - Help Guide
 ## Purpose
 This form is designed to collect registration information from potential attendees of the Inclusive Tourism Innovation Summit. The summit aims to promote inclusive tourism practices and bring together experts and industry professionals to share knowledge and experiences.

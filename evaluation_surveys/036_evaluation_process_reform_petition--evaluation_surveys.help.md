@@ -1,9 +1,3 @@
-<thinking>Before generating the help guide, I'd like to clarify some aspects of the form and its fields. The form seems to have multiple pages with various types of fields, including select_one, select_multiple, text, and note types. The required fields are: title, page_10, page_3, page_6, and page_8. The fields that are not immediately clear or require further explanation are: page_6, page_7, page_9, and page_12, which are all text type fields with no hints provided.
-
-The form's purpose appears to be related to evaluating or reforming a process, with fields that might be used to gather support or comments from users. The "Sign up reason" and "Supporter type" fields are select fields that could be used for categorizing or qualifying respondents.
-
-To create the help guide, I will focus on explaining each field in a concrete and concise manner, avoiding any unsupported business logic.</thinking>
-
 # Evaluation Process Reform Petition - Help Guide
 ## Purpose
 The Evaluation Process Reform Petition form is designed to gather feedback and opinions from users on a specific process. This form is intended for users who want to express their support or comments on the reform process.

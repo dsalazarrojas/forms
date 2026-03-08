@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I need to create a help guide that explains the purpose of the "Community Photo Submission Form" and how to complete it, while also providing a field-by-field explanation of each field. This form is used for submitting community photos and gathering necessary information from the photographers. The form requires the photographer's contact information, photo details, and permission for usage. To ensure accuracy, the form also includes a certification that the submitter is the owner of the photo and has granted the necessary permissions.</thinking>
-
 # Community Photo Submission Form - Help Guide
 ## Purpose
 The "Community Photo Submission Form" is designed to collect photos and gather necessary information from community members who want to share their photos with the organization. This form is used to ensure that the photos are submitted with the proper permissions and credits.

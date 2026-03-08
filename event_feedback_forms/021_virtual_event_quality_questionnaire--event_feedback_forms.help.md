@@ -1,9 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and usage of the Virtual Event Quality Questionnaire form. 
-The purpose of this form is to gather feedback from attendees regarding the quality of virtual events. It is used by event organizers to evaluate the performance of virtual events, identify areas for improvement, and make necessary adjustments. 
-The form should only be completed by individuals who have attended a virtual event, ensuring that the feedback is relevant and valuable for event organizers.
-</thinking>
-
 # Virtual Event Quality Questionnaire - Help Guide
 ## Purpose
 The Virtual Event Quality Questionnaire is a form used to collect feedback from attendees on the quality of virtual events. Event organizers use this information to evaluate and improve the performance of virtual events.

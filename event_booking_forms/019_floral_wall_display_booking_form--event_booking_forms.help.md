@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information for booking and managing floral wall displays for events. The purpose of the form is to gather details about the event, including its name, terms and conditions, floral wall reservations, event notes, contact information, and confirmation of terms and conditions. This information will be used to process and confirm the booking. 
-
-This form appears to be part of a larger system for managing event bookings, and its completion is likely necessary for the successful execution of the event. It is possible that this form is used by event planners or administrators to manage multiple events simultaneously, or by event staff to quickly gather essential details about an event. 
-
-Before proceeding, ensure that this form is the correct one for your purpose and that you have all necessary permissions to complete it. Duplicate or unnecessary submissions may be deleted or voided by the system. 
-
-</thinking>
-
 # Floral Wall Display Booking Form - Help Guide
 ## Purpose
 The Floral Wall Display Booking Form is used to gather information about an event, including its name, terms and conditions, floral wall reservations, event notes, contact information, and confirmation of terms and conditions. This information will be used to process and confirm the booking.

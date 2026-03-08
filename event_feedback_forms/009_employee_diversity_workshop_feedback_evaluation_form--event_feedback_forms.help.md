@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to collect feedback from employees who have attended the Diversity Workshop, which is a workshop designed to promote diversity and inclusion within the organization. The form is meant to be a subjective evaluation of the workshop's quality, relevance, and overall impact on the attendees.
-
-The main purpose of this form is to gather qualitative feedback about the workshop's content, facilitation, and overall experience. The feedback will help organizers assess the workshop's effectiveness and make improvements for future workshops.
-
-</thinking>
-
 # Employee Diversity Workshop Feedback Evaluation Form - Help Guide
 ## Purpose
 This guide will explain each field in the form and how to complete it effectively.

@@ -1,28 +1,3 @@
-<thinking>
-
-This form is used to request a ticket printing quantity for events or activities. It's essential to ensure that the correct quantity of tickets is printed for each event to avoid any discrepancies. This form is not meant for general ticket printing requests, but rather for specific events or activities that require customized ticket printing. 
-
-Please do not submit this form if you are requesting general ticket printing. Instead, use the standard ticket printing form.
-
-The form will ask for the following information:
-
-* Ticket Type (e.g., A, B, or C)
-* Whether or not to print the tickets (yes, no, or other)
-* Print run details (yes, no, or other)
-* Quantity of tickets requested
-* Total printed tickets
-* Quantity printed
-* Quantity requested
-* Ticket Type Other Value (if the ticket type is other)
-* Print Method (e.g., Print or Email)
-* Email address
-* Phone number
-* Notes
-* Who submitted the form (e.g., John, Jane, or Joe)
-* Form title and version
-
-</thinking>
-
 # Ticket Printing Quantity Request Form - Help Guide
 ## Purpose
 This form is used to request a customized ticket printing quantity for specific events or activities.

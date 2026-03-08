@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from participants about their enrollment in a Government Policy Workshop. The form is used to gather details such as participant information, payment method, workshop details, and other relevant details. This form is typically used by government agencies to manage workshop registrations.
-
-The form is divided into various sections, each collecting specific information from the participant. This guide will walk you through each section and provide explanations for each field to ensure a smooth and accurate completion of the form.
-
-</thinking>
-
 # Government Policy Workshop Enrollment Form - Help Guide
 ## Purpose
 This form is used to collect information from participants to manage their enrollment in the Government Policy Workshop. The form helps us understand your needs and preferences to tailor the workshop experience to your requirements.

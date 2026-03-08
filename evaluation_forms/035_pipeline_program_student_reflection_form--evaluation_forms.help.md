@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for students to reflect on their experience in a pipeline program, which is a structured program that guides students through a series of steps and activities designed to help them achieve specific goals. The form is meant to be completed by students after they have participated in the program to help them process their experience, identify what they learned, and plan for future progress. This form is not meant to be completed by anyone other than the student who participated in the program.
-
-</thinking>
-
 # pipeline_program_student_reflection_form - Help Guide
 ## Purpose
 The purpose of this form is to guide students in reflecting on their experience in a pipeline program, helping them identify what they learned, set goals for future progress, and solidify their experience in their own mind.

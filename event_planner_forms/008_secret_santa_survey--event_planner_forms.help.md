@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that only users who are eligible and not duplicates fill out the Secret Santa Survey form. This implies that we should verify the user's role in our organization and that they haven't filled out the survey before. We also need to consider using some sort of validation mechanism to prevent users from accessing the form multiple times. To address this, we can implement role-based access controls and add a unique identifier to each user's survey response to track whether they've already submitted their form. This way, we can ensure that users can only submit their survey once and that it's filled out correctly. 
-</thinking>
-
 # Secret Santa Survey - Help Guide
 ## Purpose
 The Secret Santa Survey form is a crucial tool for the event planning committee to gather essential information about participants' gift preferences for our Secret Santa event. This form will help us create a more enjoyable and meaningful gift-giving experience for everyone involved. It's essential that all users fill out this form accurately and honestly, as it will help us tailor gifts to each person's interests and budget.

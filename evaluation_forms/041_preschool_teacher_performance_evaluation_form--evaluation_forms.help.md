@@ -1,8 +1,3 @@
-<thinking>
-To avoid duplication and ensure relevance, let's consider the context and purpose of the Preschool Teacher Performance Evaluation Form. This form is designed to assess the performance of preschool teachers in various areas, such as their teaching methods, classroom management, communication style, and overall effectiveness. The evaluation form should be completed by an authorized person, ideally an administrator or a peer evaluator, to provide a balanced and constructive assessment of the teacher's performance. Before proceeding with the guide, we'll review each field's label and explanation for clarity and accuracy.
-
-</thinking>
-
 # Preschool Teacher Performance Evaluation Form - Help Guide
 ## Purpose
 

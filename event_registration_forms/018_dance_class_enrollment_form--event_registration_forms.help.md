@@ -1,13 +1,3 @@
-<thinking>
-The main reason for this form is to enable students to sign-up for a dance class by providing their name, contact information, and other relevant details. By filling out this form, students can choose their desired class type, class level, and payment method to complete the enrollment process.
-
-To prevent duplication of forms, we have a unique student ID that will be assigned to each student upon enrollment. This student ID will be used to keep track of each student's progress and class status. 
-
-Before we begin with the form guide, we need to note that some fields might appear unnecessary for this specific form, but they were part of the original YAML configuration that we're using to create this guide. 
-
-Now, let's proceed with the guide.
-</thinking>
-
 # Dance Class Enrollment Form - Help Guide
 
 ## Purpose

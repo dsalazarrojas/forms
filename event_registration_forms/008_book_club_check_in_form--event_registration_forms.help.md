@@ -1,6 +1,3 @@
-<thinking>
-The purpose of the Book Club Check In Form is to gather information from members about their attendance and engagement with the book club. This form is used to record attendance, completion status, and feedback on the current book. The information collected will help the book club organizers understand member participation and tailor future meetings to meet the needs of the group. This form is not intended for general feedback or comments, so please only answer the questions that apply to your specific situation. Please note that some fields are marked as optional, so you can skip them if they do not apply to you.</thinking>
-
 # Book Club Check In Form - Help Guide
 ## Purpose
 The purpose of this form is to ensure accurate and efficient recording of member attendance, completion status, and feedback on the current book. Please take a few minutes to complete this form, and thank you for your participation!

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for farmers participating in local farmer markets. To ensure relevance and non-duplication, please check that you are not already registered for this market before filling this form. If you are unsure, you can verify with the market manager. This form will help you register for a specific market event, providing details such as your contact information, market and vendor information, and event specifics. Please complete this form accurately to avoid any delays or issues with your participation in the market.
-</thinking>
-
 # Local Farmer Market Registration Form - Help Guide
 ## Purpose
 This form is designed to collect registration information from farmers participating in local farmer markets. It gathers essential details such as farmer, market, and event information to facilitate efficient and accurate registration processes.

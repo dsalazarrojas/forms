@@ -1,9 +1,3 @@
-<thinking>
-The form is for collecting information about individuals who want to receive a holiday card from the organization. This information will be used to personalize and address the card to the recipient appropriately. The form should only be completed once per individual, to avoid duplication of information.
-
-The form consists of several fields that ask for the recipient's name, email, phone number, participant's name, relationship to the participant, a personal message, whether they want to receive a card, and whether they want to send a card.
-</thinking>
-
 # Holiday Card Interest Form - Help Guide
 ## Purpose
 The Holiday Card Interest Form is a way for individuals to express interest in receiving a personalized holiday card from the organization.

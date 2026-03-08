@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # travel_risk_assessment_form - Help Guide
 ## Purpose
 This form is designed to assess potential travel risks for individuals. It collects information about the trip, medical history, medications, medical documents, and travel dates to evaluate the individual's risk level for travel-related activities. This form is intended to identify potential risks and take necessary precautions for a safe journey.

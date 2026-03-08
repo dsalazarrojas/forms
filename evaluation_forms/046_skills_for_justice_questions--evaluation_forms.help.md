@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect answers to a series of questions related to skills for justice, which is likely to be used to evaluate or assess someone's skills in this area. This form is designed to gather information in a structured and organized way, making it easier to review and understand the respondent's answers. It's essential to fill out this form accurately and thoroughly to ensure that the data collected is relevant and useful for the intended purpose.
-</thinking>
-
 # Skills For Justice Questions - Help Guide
 ## Purpose
 The Skills For Justice Questions form is designed to collect answers to a series of questions related to skills for justice. It helps to assess or evaluate someone's skills in this area by gathering information in a structured and organized way.

@@ -1,9 +1,3 @@
-<thinking>
-The Sorority Registration Form is used to collect information from students who want to be part of a sorority. It is essential to ensure that the form is completed accurately and thoroughly to avoid any confusion or errors during the registration process.
-The form is divided into several pages, each focusing on a specific aspect of the student's information.
-Before starting the form, make sure you have all the necessary documents and details ready.
-</thinking>
-
 # Sorority Registration Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information from participants for the Investment Compliance Workshop. The purpose of the form is to register participants for the workshop, and it is required for every participant to complete the form before attending the workshop. This form is not intended to be duplicated for the same participant. Please note that every field marked as "required" is compulsory to complete the form, while "optional" fields can be completed or left blank if not applicable.
 
 # Investment Compliance Workshop Registration Form - Help Guide

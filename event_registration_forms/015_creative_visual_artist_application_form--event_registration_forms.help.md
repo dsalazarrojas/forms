@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from creative visual artists applying to be part of a community, organization, or platform. This form is used to gather essential details from potential artists, including their name, contact information, and other relevant data.
-</thinking>
-
 # Creative Visual Artist Application Form - Help Guide
 ## Purpose
 The Creative Visual Artist Application Form is designed to collect essential information from creative visual artists who are interested in joining or participating in our community, platform, or organization. This form is used to gather details such as name, contact information, and other relevant data that will help us understand their artistic profile and interests.

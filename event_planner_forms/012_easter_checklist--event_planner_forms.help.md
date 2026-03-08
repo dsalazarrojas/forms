@@ -1,23 +1,3 @@
-<thinking>
-The "easter_checklist" form is designed to gather information about Easter celebrations. The form is likely used to record and manage Easter event details, ensuring that no essential elements are overlooked, and the celebration goes smoothly. It's possible that this form is part of a larger workflow or system for organizing and coordinating events. To avoid duplication, it's worth noting that this form likely serves a specific purpose and should not be duplicated or used for other types of events.
-
-Given the provided YAML, it appears that the form includes fields for:
-
-* Easter Date (a date field)
-* Easter Time (a time field)
-* Easter Message (a text field)
-* Easter Menu (a multiple-select field with options like ham, fish, lamb, and egg)
-* Easter Activities (a single-select field with options like Easter Egg Hunt, Easter Egg Decorating, Easter Egg Roll, and Easter Egg Hunt with Family)
-* Easter Guests (a multiple-select field with options like Family Members, Close Friends, Distant Relatives, and Other Guests)
-* Easter Contact Email (an email field)
-* Easter Contact Phone (a text field)
-* Easter Comments (an optional text field for additional comments)
-* Are you sure the Easter Checklist is Complete? (a single-select field to confirm completion of the form)
-
-The form is likely used to record and manage Easter event details, and ensure that all necessary elements are included.
-
-</thinking>
-
 # easter_checklist - Help Guide
 ## Purpose
 The "easter_checklist" form is designed to gather information about Easter celebrations and ensure that all essential elements are included.

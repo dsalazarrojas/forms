@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # VIP Event Access Form - Help Guide
 ## Purpose
 The VIP Event Access Form is designed to collect information from attendees for a special event, allowing them to express their interest in attending and providing essential details about the event and themselves. This form helps event organizers streamline the registration process and ensures a smooth experience for both attendees and organizers.

@@ -1,17 +1,3 @@
-<thinking>
-
-The `resident_assistant_training_evaluation_form` helps assess and document the progress of a resident's training program. This form captures essential information about the trainee's performance, including their skills, level of training, and areas for improvement. It also provides a platform for trainers to offer feedback and recommendations to trainees.
-
-The purpose of this form is to:
-
-* Evaluate the trainee's performance based on their training level and progress
-* Identify areas for improvement and provide recommendations for further development
-* Document the trainer's feedback and ratings for future reference
-
-Before filling out this form, please ensure you have all the necessary information and permissions to proceed. This form should only be completed by authorized personnel, such as trainers, and is intended for internal use within your organization.
-
-</thinking>
-
 # resident_assistant_training_evaluation_form - Help Guide
 ## Purpose
 The form is used to evaluate and document the progress of residents undergoing training.

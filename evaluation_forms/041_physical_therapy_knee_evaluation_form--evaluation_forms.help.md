@@ -1,7 +1,3 @@
-<thinking>
-This help guide is being created for the "Physical Therapy Knee Evaluation Form" to assist end-users in understanding its purpose and usage. The form is designed to gather information about a patient's knee health and medical history, which is crucial for physical therapists to provide personalized care. This guide will cover the purpose of the form, how to complete it, and provide a detailed explanation of each field to ensure accurate and efficient completion.
-</thinking>
-
 # Physical Therapy Knee Evaluation Form - Help Guide
 ## Purpose
 The "Physical Therapy Knee Evaluation Form" is a questionnaire used by physical therapists to gather information about a patient's knee health and medical history. This form helps the therapist to understand the patient's condition better, identify potential issues, and provide targeted treatment plans.

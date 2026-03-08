@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help event planners collect information for a new stylist launch party. The goal is to gather details about the party, including its date, location, theme, and agenda. This form likely belongs to the "event_planner_forms" category.
-</thinking>
-
 # new_stylist_launch_party_planning_form - Help Guide
 ## Purpose
 This form is designed to collect information for a new stylist launch party, allowing event planners to gather details about the party in a structured and organized manner.

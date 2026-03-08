@@ -1,16 +1,3 @@
-<thinking>
-The Puppeteer Registration Form is intended to collect information from potential performers for events, such as concerts, festivals, or workshops. This form will be used to gather contact details, performance dates, and other relevant information to help event organizers connect with and manage performers.
-
-Before filling out this form, please ensure that you have not already registered as a performer. If you have previously registered, please do not submit a new registration, as this may cause duplicate records and unnecessary work for our team.
-
-This form is designed to collect information from individual performers, not groups or teams. If you are a group or team of performers, please register each member separately using this form.
-
-The information collected will be used to promote performers and connect them with event organizers. By filling out this form, you will be helping us to create a centralized database of performer profiles.
-
-Please provide as much information as possible to help us accurately represent you and connect you with suitable events.
-
-</thinking>
-
 # Puppeteer Registration Form - Help Guide
 ## Purpose
 

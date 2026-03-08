@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mental Health Workshop Registration Form - Help Guide
 
 ## Purpose

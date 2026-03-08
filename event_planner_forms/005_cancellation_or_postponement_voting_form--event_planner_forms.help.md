@@ -1,14 +1,3 @@
-<thinking>
-This form is used to collect input from event participants on whether the event should be cancelled or postponed due to unforeseen circumstances. This form is typically filled out by event attendees, organizers, or stakeholders who have a vested interest in the event's outcome. The form helps gather their opinions and concerns regarding the event, which can be crucial in making a well-informed decision.
-
-Before filling out this form, please take a moment to consider your position on the event's cancellation or postponement. This will help you provide a thoughtful and honest response.
-
-If you have already expressed an opinion on this event's cancellation or postponement, please refrain from submitting this form again.
-
-Please note that the form is designed to collect data for decision-making purposes, and your input will be kept confidential.
-
-</thinking>
-
 # Cancellation Or Postponement Voting Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is for symposium registration. The purpose of this form is to gather information about attendees who want to attend the symposium. This form is not intended for internal purposes or for any other type of registration. Please note that this form is not mandatory for symposium registration. The required fields are attendee_name, institution, and email, but they can be completed by the end user as part of the symposium registration process.
-</thinking>
-
 # innovative-pedagogy-symposium-registration - Help Guide
 ## Purpose
 The "innovative-pedagogy-symposium-registration" form is used to collect information about the attendees for the symposium.

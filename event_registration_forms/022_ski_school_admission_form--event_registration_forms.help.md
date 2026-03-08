@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals who wish to attend a ski school, which likely offers lessons, instruction, or courses on skiing. The form's purpose is to collect contact and demographic information from students, allowing the ski school to organize and manage registrations, provide personalized instruction, and ensure a safe and enjoyable experience for all participants. To prevent duplication of records, it is recommended that individuals do not submit multiple registrations.
-
-</thinking>
-
 # Ski School Admission Form - Help Guide
 ## Purpose
 This form is for students who wish to attend a ski school. It collects contact and demographic information to help us organize and manage your registration and provide a safe and enjoyable experience.

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to allow individuals to nominate others for an award. The form asks for information about the award program, the nominee, and the reasons for the nomination. This form is likely used for an event or conference where awards are given to recognize outstanding individuals or organizations. The fields are designed to gather information about the nominee's achievements, such as their company, title, and email address, as well as the nominator's contact information and reason for nomination. The form also asks for a specific example of the nominee's excellence and their impact, and the nominator's willingness to work with them again. Finally, the form asks for permission to publish the nomination publicly.
-The form is likely to be used by attendees of the event or conference, and the information collected will be used to recognize and honor the nominees. It is essential to complete the form carefully and accurately to ensure that the nomination is taken seriously and considered for an award.
-This form appears to be part of a larger process, and filling it out may involve other steps or actions that are not explicitly mentioned here.
-</thinking>
-
 # Awards Nomination 2 Red Theme And Responsive - Help Guide
 ## Purpose
 This form is designed to gather information for award nominations. It is intended for individuals to nominate others for outstanding achievements or contributions.

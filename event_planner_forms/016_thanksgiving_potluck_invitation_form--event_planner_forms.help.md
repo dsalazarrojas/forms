@@ -1,9 +1,3 @@
-<thinking>
-
-This form was designed to help event planners create an efficient and inviting Thanksgiving potluck invitation. To ensure relevance, the form is intended for events related to Thanksgiving and is meant to gather details necessary for organizing a potluck-style event. The form should not be used for other types of events or purposes. The form will guide the user through a simple and straightforward process, collecting only the essential information for hosting a successful potluck.
-
-</thinking>
-
 # Thanksgiving Potluck Invitation Form - Help Guide
 ## Purpose
 This form is intended for event planners to create an inviting and efficient Thanksgiving potluck invitation for their guests.

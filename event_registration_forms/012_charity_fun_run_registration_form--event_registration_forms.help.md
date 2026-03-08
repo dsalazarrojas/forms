@@ -1,9 +1,3 @@
-<thinking>
-This form is used for participants to register for a charity fun run event. The form is used to collect information about the participant, including their contact information, medical conditions, and emergency contact details. It also includes fields to determine the participant's age category, race distance, and participation type (running, walking, or other). The form is designed to be completed by the participant themselves, or by a parent/guardian for minors.
-The form should only be completed by the participant or their authorized representative.
-Please review the form carefully before submitting it, as all information provided is required to complete the registration process.
-</thinking>
-
 # Charity Fun Run Registration Form - Help Guide
 ## Purpose
 This form is used to register for a charity fun run event. It is used to collect information about you, the participant, in order to properly manage your registration and ensure your safety and participation in the event.

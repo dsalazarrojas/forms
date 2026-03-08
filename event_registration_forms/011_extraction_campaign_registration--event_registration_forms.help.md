@@ -1,19 +1,3 @@
-<thinking>
-This form is for registering an event extraction campaign. The purpose of this form is to collect information about the campaign, including the participant's details, campaign type, and preferred dates. It also requires the participant's consent and assigned tool for the campaign. The form is part of the "event_registration_forms" category. 
-
-This form is used to register an event extraction campaign, which is a process of extracting data or information from a source, such as a document, audio file, or image. The campaign is registered by providing the participant's first name, last name, email, and phone number. The participant's consent and assigned tool are also required. The form also asks for the start and end dates of the campaign. 
-
-This form ensures that the participant's details and campaign information are correctly registered, making it easier to manage and track the campaign. 
-
-The form is non-duplicate checking, meaning that the system will check for duplicate entries before allowing the participant to submit the form. 
-
-This form is part of the "event_registration_forms" category, which suggests that it is for registering event extraction campaigns. 
-
-This form is used by participants to register for an event extraction campaign. 
-
-This form has 25 fields in total, each with a specific purpose: 
-</thinking>
-
 # extraction_campaign_registration - Help Guide
 
 ## Purpose

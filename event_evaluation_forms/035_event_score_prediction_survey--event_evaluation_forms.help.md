@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect data from event organizers, participants, or attendees to predict the success score of an event. This form is designed to gather information about the event, including its characteristics, goals, and expectations. The data collected through this form will help event organizers and stakeholders make informed decisions about the event's direction and strategy.
-
-The form is composed of four pages, each with a unique set of questions. The pages are not necessarily in a linear order, and the user can navigate through them in any order. The form is not meant to be a comprehensive survey, but rather a brief and focused assessment of the event's potential.
-
-To ensure data quality and consistency, the form is designed to be completed by a single person or a small group of people with a deep understanding of the event.
-
-</thinking>
-
 # event_score_prediction_survey - Help Guide
 ## Purpose
 The event_score_prediction_survey form is designed to collect information about an event to help predict its success. The form is composed of four pages, each with a set of questions that aim to gather specific data points about the event.

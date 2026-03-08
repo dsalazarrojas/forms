@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their Thanksgiving Party preferences. The purpose of this form is to help the event planner organize and plan the event according to the users' needs and preferences. Please ensure that you have a valid reason for filling out the form, and that you have not filled out the form previously.
-
-</thinking>
-
 # Thanksgiving Party Signup Form - Help Guide
 
 ## Purpose

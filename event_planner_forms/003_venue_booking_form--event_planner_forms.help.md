@@ -1,8 +1,4 @@
-<thinking>...
-To determine the purpose of the form, I analyzed the input YAML and concluded that it's used to book a venue for a specific event. The form likely allows users to input details about the event such as date, time, venue name, event type, number of attendees, contact information, and additional notes. This form is probably used by customers or users to request or reserve a venue for an event.
-The form fields seem to be designed to collect relevant information about the event and the person booking the venue. There's no clear indication that the form is used for internal administrative tasks or has specific business rules that would prevent duplication or non-relevant submissions.
-The event_type field suggests that the form might be used to cater to different types of events, such as music concerts, weddings, conferences, or other types of events. This might influence how the form is used by different user groups.
-</thinking>...
+...
 
 # Venue Booking Form - Help Guide
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to collect attendance information for virtual family events. To ensure accurate and complete data, please provide the correct event date, a brief description of the event, the attendee's name, their email, and the number of guests attending. The form also asks whether the submission was made by the attendee or someone else. If you have any additional comments about the event, you can provide them here. The form is designed to be completed by each attendee, and submissions are required from all attendees. 
-
-The form is not meant to collect any sensitive or financial information, and all data is collected for internal tracking and reporting purposes only.
-
-Please review the following steps to ensure you understand how to complete the form correctly.
-
-</thinking>
-
 # Virtual Family Event Attendance Form - Help Guide
 ## Purpose
 This form collects information about your attendance at virtual family events. Your submission will help us understand who is attending and plan for the event accordingly.

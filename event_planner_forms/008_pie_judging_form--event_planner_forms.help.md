@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to gather input from judges on the quality of the pies being entered into a competition. This form will be used by the event organizers to collect ratings, comments, and contact information from judges. 
-
-The form will be filled out by judges who will be evaluating the different pies. The form will ask for the name of the competitor, the rating of the pie, comments about the pie, and optional contact information. The form will help the event organizers to get feedback from the judges and to contact them if needed.
-
-It's worth noting that the form has several fields that are not required, but are still important for the event organizers. The "Comments" field allows the judge to add additional information that might not fit into a numeric rating score. The "Email" and "Phone" fields are for the event organizers to contact the judges for any further questions or information. 
-
-The fields that are not required are not essential to the judging process, but still provide useful information.
-
-</thinking>
-
 # Pie Judging Form - Help Guide
 
 ## Purpose

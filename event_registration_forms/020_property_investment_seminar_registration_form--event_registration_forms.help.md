@@ -1,10 +1,3 @@
-<thinking>
-This form is meant to collect information from participants for a property investment seminar. The purpose of this form is to gather data about each participant, such as their name, email, phone number, company, designation, property type, seminar date, seminar time, seminar location, and any additional notes. This form is likely used to keep track of participants and their preferences for the seminar, and to ensure that each participant has a clear understanding of the event's details.
-
-To prevent duplication and ensure that each participant's information is accurate and complete, it's essential to review and validate the collected data after submitting the form.
-
-</thinking>
-
 # property_investment_seminar_registration_form - Help Guide
 ## Purpose
 The property investment seminar registration form is designed to collect information from participants, allowing us to keep track of their details and preferences for the seminar.

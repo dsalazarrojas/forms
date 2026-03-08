@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect participant information for a workshop, including their name, contact details, and preferences regarding the event. This guide will cover the purpose and usage of each field to ensure that users understand what information is required and how to provide accurate input. To avoid duplication of effort, please review the form before submission to ensure you have provided all necessary details. Note that required fields are marked as such and must be completed to proceed.
-</thinking>
-
 # Workshop Participant Registration Form - Help Guide
 ## Purpose
 This form is designed to collect participant information for a workshop, including name, contact details, and event preferences. It is essential to provide accurate and complete information to ensure a smooth registration process.

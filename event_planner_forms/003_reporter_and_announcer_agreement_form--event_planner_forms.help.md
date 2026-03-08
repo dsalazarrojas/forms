@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Reporter And Announcer Agreement Form - Help Guide
 ## Purpose
 

@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure this form is used correctly to gauge the ESG (Environmental, Social, and Governance) reporting awareness among users. The purpose of this form is to collect feedback on how users perceive ESG reporting and their experiences with it. It's essential that users understand the context and intent behind each question to provide accurate and helpful responses. To avoid confusion, please review the form carefully before starting, and if you're unsure about any section, ask for clarification.</thinking>
-
 # ESG Reporting Awareness Survey - Help Guide
 ## Purpose
 The ESG Reporting Awareness Survey is designed to gather information on users' experiences and perceptions related to ESG reporting. Your input will help us understand where we need to improve our ESG reporting practices and provide better support in the future.

@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll assume the form is intended to measure audience satisfaction and gather feedback on a cultural event. The purpose of this form is to collect opinions and ratings from attendees about their experience at the event. The form is not meant to be a comprehensive assessment, but rather a brief evaluation of the event's quality and attendees' satisfaction. By completing this form, attendees can provide valuable insights that can help event organizers improve future events.</thinking>
-
 # Cultural Event Audience Satisfaction Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from cultural event attendees about their experience, satisfaction, and suggestions for improvement. Your input will help event organizers understand what worked well and what didn't, allowing them to make necessary adjustments for future events.

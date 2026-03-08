@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help assess a person's public speaking fears, anxieties, and related physiological responses. It is intended for individuals who may be experiencing nervousness or apprehension when speaking in public or to an audience. This guide will walk you through the form and its purpose.
-</thinking>
-
 # public_speaking_fear_survey - Help Guide
 
 ## Purpose

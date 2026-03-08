@@ -1,13 +1,3 @@
-<thinking>
-This form appears to be designed for creating event planning forms, which are used to collect data from participants or users related to events. The form's purpose is likely to gather information about events, such as their description, category, and other relevant details. 
-
-This form does not seem to be a duplicate of any existing form, and its purpose is unique in terms of collecting event planning data. It's also not affiliated with or derived from any proprietary form platforms, and is instead an original adaptation created using AI-generated form code. 
-
-The form's structure suggests it is designed for event planning purposes, and is a collection of fields related to event planning, including title, description, category, and possibly other details like assigned tools or output files. 
-
-Please note that this form is not affiliated with, endorsed by, or derived from any form platform, and can be used and modified freely under CC BY 4.0 license.
-</thinking>
-
 # Event Programming Form - Help Guide
 ## Purpose
 This form is designed to collect data for event planning purposes, including event title, description, category, and possibly other details like assigned tools or output files.

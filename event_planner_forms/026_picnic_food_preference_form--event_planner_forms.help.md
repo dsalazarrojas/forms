@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information about the user's picnic preferences, including the type of food they would like to have at the picnic, their dietary restrictions, and any additional comments or contact information. This form is not intended to be a comprehensive survey, but rather a way to get a general idea of what the user is looking for. Please make sure to fill it out accurately and thoroughly so that we can better cater to your needs.
-</thinking>
-
 # Picnic Food Preference Form - Help Guide
 ## Purpose
 The Picnic Food Preference Form is designed to collect information about your food preferences and dietary needs for a picnic event. This form will help us provide the best possible experience for you at the event.

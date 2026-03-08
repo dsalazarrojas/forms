@@ -1,8 +1,3 @@
-<thinking>
-This is a form to collect speaker information for events, meetings, or conferences. The form is designed to be completed by speakers who are attending or contributing to the event. It will be used to create a speaker list, which can be displayed on event schedules, promotional materials, and other event-related documents.
-Before filling out this form, make sure you have all the necessary information about the speaker. If you're unsure about any field, you can always ask the speaker or their team for clarification.
-</thinking>
-
 # Speaker Information Collection Form - Help Guide
 ## Purpose
 This form is designed to collect speaker information for events, meetings, or conferences. It will be used to create a speaker list, which can be displayed on event schedules, promotional materials, and other event-related documents.

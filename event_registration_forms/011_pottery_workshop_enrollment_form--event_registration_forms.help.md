@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the Pottery Workshop Enrollment Form. The form is used for registering participants in a pottery workshop. It collects essential information about the participant, the session date, and other relevant details.
-This form is part of the event_registration_forms category and is used for the registration process of a pottery workshop. Please ensure this form is completed accurately and thoroughly to ensure smooth participant registration process.
-</thinking>
-
 # Pottery Workshop Enrollment Form - Help Guide
 
 ## Purpose

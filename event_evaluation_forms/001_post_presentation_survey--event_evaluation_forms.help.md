@@ -1,16 +1,3 @@
-<thinking>
-The postPresentationSurvey form is used to collect feedback and ratings from the audience after a presentation. This form is meant to gather valuable insights on the presentation's quality, content, and overall impact. The form is designed to be user-friendly and easy to complete.
-
-The main purpose of this form is to:
-
-* Evaluate the presenter's performance
-* Gather feedback on the presentation's content and delivery
-* Assess the audience's perception of the presentation's quality
-
-The form consists of several fields that require different types of input. Make sure to complete each field accurately and thoroughly to ensure that your feedback is helpful. 
-
-</thinking>
-
 # postPresentationSurvey - Help Guide
 ## Purpose
 This form is used to collect feedback and ratings from the audience after a presentation. It is meant to gather valuable insights on the presentation's quality, content, and overall impact.

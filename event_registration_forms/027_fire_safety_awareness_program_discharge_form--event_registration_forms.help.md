@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fire Safety Awareness Program Discharge Form - Help Guide
 ## Purpose
 This form is used to document a participant's completion of a Fire Safety Awareness Program.

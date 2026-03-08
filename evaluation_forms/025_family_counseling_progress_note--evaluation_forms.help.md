@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Family Counseling Progress Note - Help Guide
 
 ## Purpose

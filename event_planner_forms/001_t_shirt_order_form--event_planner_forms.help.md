@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to guide users in creating a T-shirt order. The purpose of this form is to collect information about the customer's preferences, such as their preferred size, color, and other details. The form is intended for end-users to input their order information accurately. This form has been designed to minimize errors and maximize user experience. There should be no need for users to repeat this form, as it is a one-time form. Please make sure to complete this form accurately. This form is not intended for users with special requirements or needs that cannot be met through the standard T-Shirt options. If you have any questions or concerns, please contact the support team.
-</thinking>
-
 # T Shirt Order Form - Help Guide
 ## Purpose
 The T Shirt Order Form is designed to guide users in creating a T-shirt order. The form is intended to collect information about the customer's preferences such as size, color, and other details for T-shirt ordering purposes.

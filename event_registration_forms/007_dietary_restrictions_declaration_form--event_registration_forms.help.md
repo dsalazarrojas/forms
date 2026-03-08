@@ -1,10 +1,3 @@
-<thinking>
-  This form is designed to collect dietary restrictions information from participants in an event.
-  It is likely used in settings such as events, conferences, or food-related activities.
-  The form has four pages: Registration Information, Participant Details, and three additional pages for Participant Details with decreasing importance.
-  The form is not affiliated with any form platform, is an original adaptation, and is released under a Creative Commons BY 4.0 license.
-</thinking>
-
 # Dietary Restrictions Declaration Form - Help Guide
 ## Purpose
 This form is designed to collect dietary restrictions information from participants in an event.

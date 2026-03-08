@@ -1,9 +1,3 @@
-<thinking>
-
-To confirm, this form is for gathering feedback from the Executive Council members about their meetings, performance, and any suggestions they may have. I will not be duplicating any existing form templates and will ensure the form's purpose and fields align with the provided specifications. I will also consider the audience and their level of familiarity with forms when crafting the explanation.
-
-</thinking>
-
 # Executive Council Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from Executive Council members about their experiences and perceptions of the council's meetings, performance, and potential suggestions for improvement. Your input is valuable in helping us better understand your needs and preferences.

@@ -1,13 +1,3 @@
-<thinking> This form is used for tracking event attendance. It captures details about an event's attendees, organizers, location, and timing. This form is not mandatory, so users can input as much or as little information as they need.
-
-To ensure accurate tracking, the form should only be filled out for events that actually happened. Please note that some fields might not apply to every event.
-
-Before filling out this form, make sure to have the necessary information about the event at hand.
-
-Please fill out this form carefully, as it will help us better understand event attendance patterns and improve our services.
-
-</thinking>
-
 # event-attendance-monitoring-form - Help Guide
 ## Purpose
 This form is used for tracking event attendance.

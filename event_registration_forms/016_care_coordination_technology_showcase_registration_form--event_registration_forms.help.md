@@ -1,5 +1,3 @@
-<thinking>... internal validation checks to prevent duplicate registrations: we will check the email address, name, and phone number to prevent duplicate registrations. Please fill out the form carefully, and note that all fields marked as required are mandatory for a successful registration...</thinking>
-
 # Care Coordination Technology Showcase Registration Form - Help Guide
 ## Purpose
 This form is designed to collect registration information for the Care Coordination Technology Showcase event. It's meant to help us get to know you and understand your interests and needs for the event.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # off_road_experience_feedback_form - Help Guide
 
 ## Purpose

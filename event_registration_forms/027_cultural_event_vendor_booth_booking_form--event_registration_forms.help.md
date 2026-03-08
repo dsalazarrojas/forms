@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the "Cultural Event Vendor Booth Booking Form" in a clear and concise manner. This form is used to register a vendor for a cultural event and provide necessary details for their participation. 
-
-The form is split into multiple sections, each containing fields that require different information. 
-
-Please ensure to read and understand each section and field explanation to avoid any errors or misunderstandings in the submission process.
-
-</thinking>
-
 # Cultural Event Vendor Booth Booking Form - Help Guide
 
 ## Purpose

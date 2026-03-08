@@ -1,8 +1,3 @@
-<thinking>
-To create a help guide for the Party Evaluation Form, I need to first understand the purpose and requirements for completing it. Based on the input schema, it appears that this form is intended to gather feedback and ratings from users about their experience at a party. The form has several fields that ask for ratings on various aspects of the party experience, such as overall quality, music, food, atmosphere, and service. Additionally, there are fields for providing comments and feedback, as well as selecting the party organizer and event coordinator. The form seems to be designed to collect data for improvement, and the required fields ensure that users provide some level of feedback. However, the "Party Organizer" field is a required select_one field, implying that the user is asked to select a rating for the organizer's performance, whereas the "Event Coordinator" field is not required, which might be a design decision to keep the form optional. I will create the help guide based on these insights.
-
-</thinking>
-
 # Party Evaluation Form - Help Guide
 ## Purpose
 This form is used to gather feedback and ratings from users about their experience at a party. Your input will help us improve future events.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for applicants to apply for a Christmas meal program. The application form gathers essential information about the applicant, their household size, meal preferences, and other relevant details to ensure that the meals are distributed effectively and fairly. Please note that the form is for internal use only, and the information provided will be treated confidentially. Ensure you only submit one application per household. If you have any questions or concerns, you can reach out to our support team.
-</thinking>
-
 # Christmas Meal Application Form - Help Guide
 ## Purpose
 The Christmas Meal Application Form is designed to collect essential information from applicants to help us provide Christmas meals to those in need. This form serves as a guide to help you complete the application process.

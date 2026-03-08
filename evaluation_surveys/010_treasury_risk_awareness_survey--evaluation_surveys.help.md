@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help identify potential risks within the treasury function. The form is part of a larger process to maintain risk awareness and mitigation within the treasury department. It is recommended to complete this form only once for each risk instance and ensure that all relevant risks are reported and assessed. If you have any questions or concerns, please contact your supervisor or risk management team.
-</thinking>
-
 # Treasury Risk Awareness Survey - Help Guide
 ## Purpose
 The Treasury Risk Awareness Survey is designed to help identify and categorize potential risks within the treasury function. This survey is a crucial tool for maintaining risk awareness and mitigation within the department.

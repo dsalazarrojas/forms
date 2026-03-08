@@ -1,9 +1,3 @@
-<thinking>
-
-This form is likely used for customers or clients to provide their event information such as date, time, party size, and any special requests they may have for a fine dining experience. The purpose of the form is to help the restaurant staff to prepare and confirm the reservation efficiently. It's possible that this form is used for online reservation systems, but it could also be used for in-person or printed forms in a physical setting.
-
-</thinking>
-
 # Fine Dining Reservation Form - Help Guide
 ## Purpose
 This form is used to help fine dining customers provide their event information, such as dates, times, and party sizes, to ensure accurate and efficient reservation preparation and confirmation.

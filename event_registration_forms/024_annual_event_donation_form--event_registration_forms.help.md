@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about donors and their contributions to an annual event. Donors can provide information about themselves, their donation preferences, and any special requests or preferences for recognition. This form helps to ensure accurate and complete information for donation processing and event planning.
-
-To avoid duplication of effort, please check if a similar donation has been made in the past before filling out this form.
-
-</thinking>
-
 # Annual Event Donation Form - Help Guide
 ## Purpose
 This form is designed to collect information from donors about their annual event donations. It helps to ensure that all necessary details are captured for accurate and efficient donation processing and event planning.

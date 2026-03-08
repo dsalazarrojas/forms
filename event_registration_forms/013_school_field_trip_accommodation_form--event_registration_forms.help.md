@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for school field trips, ensuring that all necessary details are captured accurately and efficiently. The form should only be filled out for school field trips, and users should not fill out this form for other purposes. Please confirm that this form is relevant to your needs and that you have not submitted this form for the same purpose in the past before proceeding.
-</thinking>
-
 # School Field Trip Accommodation Form - Help Guide
 
 ## Purpose

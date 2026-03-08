@@ -1,18 +1,3 @@
-<thinking> 
-This form is designed for an Observational Safety Program, which aims to ensure the safety of a construction site by gathering information on various aspects of the site's safety conditions. This form is intended for use by site inspectors to document their observations and report any potential hazards or issues during an inspection. 
-
-The form is not intended for general use, but rather for specific purposes such as:
-
-* Pre-construction site surveys to identify potential hazards before work begins
-* Regular site inspections to monitor safety conditions and identify areas for improvement
-* Post-construction site visits to document lessons learned and identify areas for future improvements
-
-This form should only be filled out by authorized site inspectors, and the data collected should be used solely for the purpose of improving site safety. 
-
-If you are not an authorized site inspector, or if you are not filling out this form for the purpose of improving site safety, please do not fill it out.
-
-</thinking>
-
 # Observational Safety Program - Help Guide
 ## Purpose
 The Observational Safety Program form is designed to help site inspectors document and report on the safety conditions of a construction site. This form is used to gather information on various aspects of site safety, including site address, inspector name, and date of inspection.

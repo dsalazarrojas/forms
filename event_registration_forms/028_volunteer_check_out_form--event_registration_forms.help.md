@@ -1,18 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from volunteers after they have completed their work at an event. This form helps to:
-- Track the event name and date for record-keeping purposes
-- Identify the volunteer's role during the event
-- Collect contact information for follow-up communication
-- Capture feedback and any comments regarding the event
-
-This form is intended for volunteers who have worked on events. It is not meant for staff members or other individuals who are not participating as volunteers.
-
-This form will likely be submitted by the volunteer themselves, or potentially by a designated team member or supervisor responsible for managing volunteers.
-
-This form can be used as a standalone form, or as part of a larger system or process for managing event volunteers.
-
-</thinking>
-
 # Volunteer Check Out Form - Help Guide
 ## Purpose
 The Volunteer Check Out Form is used to collect information from volunteers after an event has taken place. This form helps us keep track of event details, volunteer roles, contact information, and feedback.

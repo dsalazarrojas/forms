@@ -1,7 +1,3 @@
-<thinking>
-We're creating this form to get feedback and preferences from users about sessions they'd like to attend. This form should only be filled out once per user, to avoid duplication. It's designed to collect basic information about the user, such as name, preferred session, and contact details.
-</thinking>
-
 # Session Preference Survey - Help Guide
 ## Purpose
 This form is to collect user feedback and preferences for sessions they'd like to attend. Please fill it out to help us understand your needs better.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Kids Christmas Party Sign Up Form - Help Guide
 ## Purpose
 This form is designed for parents to sign up their children for the Kids Christmas Party event. It helps us gather necessary information from each child to ensure a safe and enjoyable experience.

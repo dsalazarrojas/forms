@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Exhibition Booking Form - Help Guide
 ## Purpose
 This form is designed for exhibition organizers to book a booth at an event. The form collects relevant information about the exhibition, including name, dates, booth type, and contact details, to facilitate the booking process.

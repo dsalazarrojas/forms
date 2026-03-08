@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for users to schedule a portfolio review appointment. It is a crucial form for clients to communicate their preferences and requirements for the review, ensuring that the reviewer is adequately prepared and equipped with the right tools. 
-
-The form should be completed by the user to ensure that the reviewer is aware of the necessary information for the review. Before starting this form, please make sure that you are not already scheduled for a review within the same timeframe. 
-
-</thinking>
-
 # Portfolio Review Appointment Form - Help Guide
 
 ## Purpose

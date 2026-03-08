@@ -1,7 +1,3 @@
-<thinking>
-This guide assumes that the form is used to pre-order DIY (Do-It-Yourself) Halloween kits for an event or festival. This form is designed to collect necessary information from customers, such as contact details, shipping preferences, and payment methods. It's likely used for events or festivals organized by a business or organization that wants to sell pre-ordered DIY kits to customers. Before proceeding, please ensure that you are using the correct form for your event or festival.
-</thinking>
-
 # halloween_diy_kits_pre_order_form - Help Guide
 ## Purpose
 This form is used to pre-order DIY Halloween kits for an event or festival. Customers can use this form to provide their contact information, shipping details, and payment method for pre-ordering a Halloween kit.

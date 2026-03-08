@@ -1,12 +1,3 @@
-<thinking>
-This form is used to request allocation of press tables for various events. When filling out this form, please note that:
-* All required fields must be completed.
-* The form is divided into 2 pages.
-* Page 1 is for the event information (Press Table Request).
-* Page 2 is for the contact information and event details.
-* This form is meant for requesting press table allocations for specific events.
-</thinking>
-
 # Press Table Allocation Request Form - Help Guide
 ## Purpose
 The Press Table Allocation Request Form is used to request allocation of press tables for various events. Fill out this form to request a press table for a specific event.

@@ -1,7 +1,3 @@
-<thinking>
-This guide assumes that the purpose of this form is to collect feedback from presenters on their performance during an event. This form will likely be used by event planners or organizers to evaluate and improve the presenter's experience. The form includes fields for rating the presenter's performance, providing feedback, and collecting contact information in case the presenter needs to be contacted later. Please note that this form has 25 pages, with some fields being optional. This guide will walk you through each field, explaining its purpose and how to complete it correctly.
-</thinking>
-
 # Presenter Feedback Survey - Help Guide
 ## Purpose
 The Presenter Feedback Survey is a tool used by event planners or organizers to collect feedback from presenters on their performance during events. This form helps to evaluate and improve the presenter's experience, ensuring that they receive the necessary guidance to enhance their skills.

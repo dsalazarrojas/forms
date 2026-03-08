@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for booking cultural exchange housing accommodations. The form is used to gather information about the accommodation, including the start and end dates of the reservation, the type of accommodation, the address, contact information, and any additional notes. This form is likely used by administrators or coordinators to book and manage cultural exchange housing accommodations. It's possible that this form is used for a specific program or event, as it asks for a "Program" field. However, without more context, it's hard to determine the exact purpose and scope of this form.
-</thinking>
-
 # cultural_exchange_housing_booking - Help Guide
 ## Purpose
 This form is used to book cultural exchange housing accommodations for a specific program or event.

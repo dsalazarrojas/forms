@@ -1,30 +1,3 @@
-<thinking>
-This is an in-house form for event registration, used primarily for artists and performers. The form is used to collect essential information for event management, including arrival details, performance times, equipment status, and emergency contact information. To ensure accuracy, please fill out this form carefully and thoroughly.
-
-Before proceeding, please note that this form has been designed with the following fields:
-
-* Artist or Performer Name: This is the name under which you will be listed on the event schedule and promotional materials.
-* Artist ID or Confirmation Number: This is a reference number for your event, which you may need to provide to access certain areas or services.
-* Performance Type: This indicates the type of performance you will be providing, such as Musician, Dancer, or Comedian.
-* Scheduled Performance Time: This is the time you are scheduled to perform, as confirmed with the event organizers.
-* Check-In Date: This is the date you arrived at the event location.
-* Actual Check-In Time: This is the time you actually checked in with the event staff.
-* Arrival Status: Please indicate if you are on time, early, or late for your performance.
-* Will Equipment Be Arriving Separately?: This indicates if you will be bringing your own equipment or if it will be arriving separately.
-* Equipment Arrival Status: If your equipment is arriving separately, please indicate when you expect it to arrive.
-* Parking Location Assigned: If a parking location has been assigned to you, please enter it here.
-* Dressing Room Assignment: This indicates if a dressing room has been assigned to you.
-* Special Accommodation Needs: If you have any specific needs or requests, please describe them here.
-* Have You Provided Your Rider/Requirements?: This indicates if you have already submitted your technical and hospitality specifications.
-* Health and Safety Declaration: Please confirm your health and safety status for the event.
-* If Any Concerns, Please Describe: If you have any health or safety concerns, please describe them here.
-* Emergency Contact Name: This is the name of the person to contact in an emergency.
-* Emergency Contact Phone: This is the phone number for the emergency contact.
-* Event Staff Member Assigned: This is the name of your point person for the event.
-* Additional Notes or Requirements: Any other information you want to provide to the event team.
-
-Please fill out this form carefully and completely to ensure a smooth and successful event experience. Thank you for your cooperation!</thinking>
-
 # Artist Arrival Check In Form - Help Guide
 ## Purpose
 This form is used for artists and performers to provide essential information for event management, including arrival details, performance times, and emergency contact information.

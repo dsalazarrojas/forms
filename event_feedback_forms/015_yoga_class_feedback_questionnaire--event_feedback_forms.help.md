@@ -1,9 +1,3 @@
-<thinking> This form is a crucial tool for gathering feedback and evaluating the effectiveness of yoga classes. It is crucial to complete this form accurately and thoroughly to ensure the instructor and management team get valuable insights into what participants enjoy and dislike about the class. Please make sure you have attended the class before providing feedback. Additionally, this form should not be used for duplicate reporting or to report issues that are not relevant to the provided questions. 
-
-Please fill out this form completely and honestly, and make sure to review it before submitting it. If you have any issues or concerns not addressed in this form, please mention them in the appropriate fields or contact us directly.
-
-</thinking>
-
 # Yoga Class Feedback Questionnaire - Help Guide
 
 ## Purpose

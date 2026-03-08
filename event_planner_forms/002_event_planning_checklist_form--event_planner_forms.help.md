@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Event Planning Checklist Form - Help Guide
 
 ## Purpose

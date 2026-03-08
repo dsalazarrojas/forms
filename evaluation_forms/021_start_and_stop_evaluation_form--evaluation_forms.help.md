@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to record the start and stop dates for an evaluation, allowing users to provide context and reasons for stopping an evaluation. The form is used in a scenario where evaluations can be started and stopped, likely in a research or project management context. Before filling out this form, please ensure you have the necessary information and permissions to complete it accurately. This form should not be filled out for duplicate evaluations or if you are not authorized to do so.
-</thinking>
-
 # Start And Stop Evaluation Form - Help Guide
 
 ## Purpose

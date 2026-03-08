@@ -1,13 +1,3 @@
-<thinking>
-As I review the provided form design and YAML data, I'll create a comprehensive user-facing help guide that explains the form's purpose, how to complete it, and what each field means in a clear and concise manner.
-
-Form purpose:
-The Stage Setup Equipment Booking Form is used to book and schedule the use of stage setup equipment for a specific period. This form is essential for ensuring that the equipment is available when needed and for tracking usage and availability.
-
-Before proceeding, ensure that you have the correct permissions to access and submit this form.
-
-</thinking>
-
 # Stage Setup Equipment Booking Form - Help Guide
 ## Purpose
 The Stage Setup Equipment Booking Form is used to book and schedule the use of stage setup equipment for a specific period. This form is essential for ensuring that the equipment is available when needed and for tracking usage and availability.

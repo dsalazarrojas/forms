@@ -1,7 +1,3 @@
-<thinking>
-The form is used to gather feedback and ratings from attendees of trade shows. It's likely being used to evaluate the quality of the event, its overall experience, and potential areas for improvement. This form should only be used for attendees who have participated in a trade show event, and it should not be used for general feedback or other types of events. This form is designed to be used for trade shows, and the questions and answers should reflect that context.
-</thinking>
-
 # trade_show_attendee_experience_questionnaire - Help Guide
 ## Purpose
 This form is used to gather feedback and ratings from attendees of trade shows to help evaluate the quality of the event and identify areas for improvement.

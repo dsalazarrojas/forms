@@ -1,13 +1,3 @@
-<thinking>
-The Workplace Community Event Application Form is a crucial tool for employees to submit their event proposals and applications to the workplace community. This form ensures that events are properly registered and approved by the necessary parties, reducing duplication and ensuring that events are well-planned and executed. The form's primary purpose is to gather essential event information, such as date, time, location, and event description, which will help the event organizers to make informed decisions.
-
-To avoid duplication, please make sure that you are not filling out this form for an event that is already registered in the system or for an event that has not been approved yet.
-
-Before filling out the form, please ensure that you have all the necessary information ready, such as event description, date, time, location, and number of attendees.
-
-This guide will help you walk through the form fields, making it easy and intuitive to fill out the form correctly.
-</thinking>
-
 # Workplace Community Event Application Form - Help Guide
 
 ## Purpose

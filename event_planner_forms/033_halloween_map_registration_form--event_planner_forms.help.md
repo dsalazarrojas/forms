@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-friendly help guide for the Halloween Map Registration Form, I'll first analyze the provided YAML file. The form appears to be for registering events related to Halloween, possibly for a festival, party, or other celebrations. The form collects general information about the participant, including their name, address, contact details, and event specifics (date, start and end time, number of participants). Given this analysis, I'll proceed to create the guide.
 
 # Halloween Map Registration Form - Help Guide

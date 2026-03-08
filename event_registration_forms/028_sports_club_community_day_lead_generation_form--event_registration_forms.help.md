@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sports Club Community Day Lead Generation Form - Help Guide
 ## Purpose
 The "Sports Club Community Day Lead Generation Form" is a tool used to collect information from interested individuals about their interest in attending a Sports Club Community Day event, their personal details, and their interest in specific sports. The form will be used to track and follow-up on leads generated from this event, ensuring that interested individuals receive relevant information and support from the club's leadership team.

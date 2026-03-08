@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from students about their teachers, aiming to provide valuable insights into the quality of instruction and teaching performance. The purpose of this survey is to gather specific, concrete feedback from students on their experiences with a particular teacher. This form should be used by students to provide honest and constructive feedback about their teachers.
-</thinking>
-
 # Teacher Evaluation Survey - Help Guide
 ## Purpose
 The Teacher Evaluation Survey is a tool used to gather feedback from students about their experiences with a teacher. This feedback helps to assess the teacher's performance, teaching skills, and overall ability to communicate effectively with students.

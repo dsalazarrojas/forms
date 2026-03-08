@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback and evaluations from students on various aspects of a course, including its content, teaching quality, learning experience, relevance, and any additional feedback. The purpose of this form is to help instructors and course administrators understand student perceptions and opinions about the course, which can inform future improvements and enhancements.
-The form consists of several fields, all of which are optional, except for "Teaching Quality" and the "Additional Feedback" section. This means that students can provide feedback on a scale of "High", "Medium", and "Low" for the teaching quality, and describe their overall learning experience, course relevance, and provide any additional feedback.
-To fill out this form, follow these steps:
-</thinking>
 # Course Evaluation Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and evaluations from students on various aspects of a course, including its content, teaching quality, learning experience, relevance, and any additional feedback.

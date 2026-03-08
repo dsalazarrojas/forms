@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create an effective help guide for the Seminar Coordinator Volunteer Registration Form, we need to ensure that it accurately captures the purpose of the form and the required information from the end user. The form's purpose is to collect data from individuals who want to volunteer as Seminar Coordinators for events. This form will help us understand their availability and preferences to assign them the right roles and tasks.
 
 We also need to consider that the form is not intended for general public users, so it is likely that the end user will have some level of familiarity with event registration forms. Therefore, the help guide should be concise and focused on the specific fields and their relevance to the form's purpose.

@@ -1,17 +1,3 @@
-<thinking>
-
-This form is a post-event feedback survey used to collect information about a specific event from attendees. The purpose of this form is to gather feedback from attendees regarding the event, their experience, and their level of engagement. It aims to capture both positive and negative feedback, suggestions, and potential follow-up actions. It's essential to complete this form honestly, as the feedback will help event organizers understand attendees' needs and improve future events.
-
-The form will not ask for any personal data unless absolutely necessary (e.g., email, phone, event location). If you've participated in the event, we invite you to take a few minutes to share your thoughts and suggestions.
-
-Before proceeding, please be aware that:
-
-* Some questions might not apply directly to your experience (e.g., follow-up frequency might not be relevant if you've already provided your email address).
-* Some questions are designed to collect feedback, while others are optional or for internal follow-up purposes.
-* Please be honest and clear in your answers, as they will help us improve future events.
-
-</thinking>
-
 # Post Event Innovation Survey - Help Guide
 ## Purpose
 

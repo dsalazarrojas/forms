@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals and groups for conferences and events, with the main goal of providing necessary details for event organizers to effectively book rooms and make logistical arrangements. This form aims to cover various essential aspects of the event, including attendee information, preferences, and requirements such as meeting room size and AV equipment. By using this form, event planners will be able to provide a comprehensive experience for their attendees.
-</thinking>
-
 # Conference Reservation Form - Help Guide
 ## Purpose
 

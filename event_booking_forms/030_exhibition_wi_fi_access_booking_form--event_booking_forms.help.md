@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for an exhibition Wi-Fi access booking system. This form helps exhibitors provide their details and specify their equipment for the exhibition. The form is not affiliated with any form platform, but rather an AI-generated adaptation.
-</thinking>
-
 # exhibition_wi_fi_access_booking_form - Help Guide
 ## Purpose
 This form is designed to collect necessary information from exhibitors for Wi-Fi access booking at exhibitions. The form ensures that all necessary details are captured to facilitate smooth Wi-Fi access provision.

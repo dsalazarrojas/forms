@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from individuals interested in attending the public sector innovation forum. The purpose of the form is to gather relevant details about the attendees, including their name, contact information, organization, role, department, event attendance, date of interest, and any additional information they may want to provide. This form will help us understand who is attending, their preferences, and any special requirements they may have. This form should only be filled by individuals who have been invited to attend the forum.
-</thinking>
-
 # public_sector_innovation_forum_registration_form - Help Guide
 ## Purpose
 

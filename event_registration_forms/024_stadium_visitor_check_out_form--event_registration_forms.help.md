@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from visitors to an event at a stadium, likely to gather feedback or comments about their experience. This form should not be used for other purposes, such as registration for a new event. Ensure that you complete this form accurately and thoroughly to provide useful feedback.
-
-</thinking>
-
 # Stadium Visitor Check Out Form - Help Guide
 ## Purpose
 The Stadium Visitor Check Out Form is designed to collect feedback and comments from visitors about their experience at an event at the stadium.

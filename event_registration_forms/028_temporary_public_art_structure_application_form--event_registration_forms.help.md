@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to collect information from artists and organizers for temporary public art structures. This form should help ensure that all necessary information is collected and submitted correctly. This guide will provide a step-by-step instruction on how to complete the form and a detailed explanation of each field to avoid any confusion.
-</thinking>
-
 # Temporary Public Art Structure Application Form - Help Guide
 
 ## Purpose

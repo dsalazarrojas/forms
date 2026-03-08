@@ -1,12 +1,3 @@
-<thinking>
-This form appears to be a workshop registration form, likely for a conference or event. 
-The purpose of this form is to gather information from attendees who want to participate in an iPhonest workshop. 
-The form should only be filled out by individuals who wish to attend the workshop. 
-No other purpose or affiliation is specified. 
-No form platform is affiliated, endorsed, or derived from this form. 
-Please ensure that the form is filled out by the right audience.
-</thinking>
-
 # iPhonest_workshop_registration - Help Guide
 ## Purpose
 The iPhonest_workshop_registration form is a self-service registration form for attendees interested in attending an iPhonest workshop. 

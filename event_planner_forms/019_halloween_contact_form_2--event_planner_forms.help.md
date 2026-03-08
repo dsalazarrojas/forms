@@ -1,9 +1,3 @@
-<thinking>
-We should create a help guide that is concrete, concise, and practical for the end-users to understand the form's purpose and each field's explanation.
-The form seems to be designed to collect information about Halloween events or activities, possibly for event planning purposes. The presence of fields like "halloween_theme", "note" fields, and a "Spooky/Scary/Fun" option list suggest that the form is related to Halloween-themed events or activities.
-However, there seem to be a lot of "note" fields which might be redundant or unnecessary.
-</thinking>
-
 # Halloween Contact Form 2 - Help Guide
 
 ## Purpose

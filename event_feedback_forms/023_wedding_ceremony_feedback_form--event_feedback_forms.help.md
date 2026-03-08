@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from attendees of a wedding ceremony. It is meant to help wedding planners, coordinators, and other stakeholders assess the quality of the event. The form should not be used for internal purposes only, such as tracking RSVPs or guest lists. The feedback collected will be shared publicly, so please keep your responses professional and respectful. Please fill out this form carefully and honestly, as it will help us improve future events.
-</thinking>
-
 # Wedding Ceremony Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from attendees of a wedding ceremony. It will help wedding planners, coordinators, and other stakeholders assess the quality of the event.

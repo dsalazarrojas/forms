@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a guide to help users understand how to fill out the STEM Outreach Volunteer Registration Form.
 
 The purpose of this form is to collect information from volunteers who wish to participate in STEM outreach activities. The form is designed to be simple and easy to fill out, and it helps us better understand who is interested in volunteering and what they are interested in doing.

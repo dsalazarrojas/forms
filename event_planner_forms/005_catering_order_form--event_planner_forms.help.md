@@ -1,24 +1,3 @@
-<thinking>
-
-We need to make sure that the form's purpose and content are clearly understood by the end user. Let's review the provided YAML fields and determine what each section and field is intended for. 
-
-The form appears to be a catering order form, used to gather information about an event, its details, and the customer's needs. It's likely used for catering services, where the user needs to provide information about the event's specifics and their own preferences.
-
-The form has multiple sections, each with its own label and hint text. Let's break down each section and field, making sure to understand their purpose and requirements.
-
-We can see that the form is divided into several sections:
-
-1. Customer Information: This section collects the customer's basic information, including name, email, and phone number.
-2. Event Details: This section gathers details about the event, including date, time, location, and type.
-3. Dietary Requirements: This section asks about any dietary restrictions or preferences the customer may have.
-4. Menu Selection: This section allows the customer to choose a menu type and select their preferred cuisine.
-5. Delivery & Pickup: This section determines the delivery method and special requests.
-6. Terms and Conditions: This section confirms that the customer has read and agreed to the terms and conditions.
-
-Let's review each field to ensure we understand its purpose and requirements.
-
-</thinking>
-
 # Catering Order Form - Help Guide
 ## Purpose
 This form is used to gather information about an event and its catering needs from the customer. It helps us to understand their preferences, requirements, and expectations to provide the best possible catering service.

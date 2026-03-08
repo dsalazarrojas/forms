@@ -1,9 +1,3 @@
-<thinking>
-
-This form is an original adaptation of a survey on audit transparency, designed to evaluate the quality and clarity of audit findings, recommendations, and communication. The purpose of this survey is to gauge the level of transparency exhibited by auditors and identify areas for improvement. It assesses the clarity of audit findings, the quality of evidence presentation, and the openness of auditors to questions and progress updates, among other aspects.
-
-</thinking>
-
 # Audit Transparency Evaluation Survey - Help Guide
 ## Purpose
 This survey aims to evaluate the transparency of audit processes, ensuring that auditors are clear in their findings, communicate effectively, and provide accessible reports.

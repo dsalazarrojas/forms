@@ -1,8 +1,3 @@
-<thinking>
-  This form is designed for NGO seminar check-in purposes, allowing attendees to register and provide necessary information for event management and follow-up. The form is likely used during an event to quickly gather information from attendees, such as their name, contact details, and attendance status. It may also be used to collect information on tools or resources used during the event. This form is likely to be used by event organizers or administrators to track attendee data and manage event follow-up activities.
-  Ensure that the form fields are accurately and consistently filled out to avoid duplication and misclassification of data. Please note that the required fields are indicated by the "required" property in the form schema, but it's always a good practice to fill out all relevant fields to provide complete and accurate information.
-</thinking>
-
 # NGO Seminar Check In Form - Help Guide
 ## Purpose
 The NGO Seminar Check In Form is designed to gather information from attendees for event management and follow-up purposes.

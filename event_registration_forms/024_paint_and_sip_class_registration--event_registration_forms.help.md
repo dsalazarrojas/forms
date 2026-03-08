@@ -1,17 +1,3 @@
-<thinking>
-
-This form is designed for event registration purposes, specifically for a "Paint And Sip Class Registration" event. The form is meant to collect information about the event and the registrant's details. This form is likely used for an art-themed event or a workshop where attendees can paint and sip on beverages while learning a new skill. 
-
-The form is designed to be flexible and adaptable to different types of events and registration settings. 
-
-To avoid confusion and ensure accurate information, it is recommended to review the form thoroughly and complete it carefully. 
-
-This form is a critical component of the registration process, and it will be used for internal administrative purposes. 
-
-Please note that if the form is being filled out for an event with a specific payment gateway other than the provided options, please select the "Other" option and provide the name of the custom payment gateway in the "other_payment_gateway" field. 
-
-</thinking>
-
 # Paint And Sip Class Registration - Help Guide
 
 ## Purpose

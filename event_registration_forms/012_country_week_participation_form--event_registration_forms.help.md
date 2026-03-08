@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about events and their details. 
-Before proceeding, ensure this form is not being used in a different context. 
-Please check that you are in the correct context and not duplicating effort. 
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This guide explains the "Event Registration Form" and its usage.

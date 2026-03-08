@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed for parents or guardians to register their baby for a photo contest. It gathers essential information to ensure the contest process runs smoothly and fairly, while also obtaining the necessary permissions and agreements for the contest's promotional purposes.
-
-This form will not be used for other purposes, such as customer support or general feedback.
-
-The main goal is to collect the required information for contest eligibility and rules compliance.
-
-</thinking>
-
 # Baby Photo Contest Registration Form - Help Guide
 
 ## Purpose

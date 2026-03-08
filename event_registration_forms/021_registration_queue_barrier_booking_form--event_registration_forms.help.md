@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to facilitate the registration queue barrier booking process for events. It is intended to be filled out by event organizers to create and manage bookings for queue barriers. 
-
-The form is composed of multiple fields, each of which is optional. 
-
-This form is intended to be used in conjunction with other event management tools. 
-
-Please ensure that you are using the correct form for your intended purpose and that the information you submit is accurate. 
-
-If you are unsure about the form's purpose or any of its fields, please reach out to us for clarification. 
-
-</thinking>
 # Registration Queue Barrier Booking Form - Help Guide
 ## Purpose
 This form is designed to assist event organizers in creating and managing bookings for queue barriers during events.

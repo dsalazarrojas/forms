@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for end-users to register their participation in the "First Data Workshop". The form is likely to be used for internal purposes within the organization, possibly for event planning and management. I assume the form is created for tracking participant information and payment details. I'll create a help guide that explains how to complete the form and what each field means.
-
-</thinking>
-
 # First Data Workshop Registration Form - Help Guide
 ## Purpose
 This form is used to collect participant information and payment details for the First Data Workshop. It's essential to fill out this form accurately to ensure your participation is recorded correctly.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the Junior Showmanship Entry Form, a form used for registering junior dog handlers in competitions. The form gathers information on event registration, handler information, dog information, competition details, and entries. To ensure accurate completion, please review the fields carefully before submitting.
-</thinking>
-
 # Junior Showmanship Entry Form - Help Guide
 ## Purpose
 This form is designed to gather information for junior dog handlers participating in competitions. It includes fields for registering event details, handler information, dog details, and competition requirements.

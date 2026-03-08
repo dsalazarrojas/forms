@@ -1,15 +1,3 @@
-<thinking>Wedding Consultation Form - Internal Note
-
-This form is designed to capture essential details from clients seeking wedding consultation services. It's intended to provide the wedding planner with valuable information about the client's preferences and requirements to effectively plan their special event. Before proceeding, ensure that the client has the necessary details ready and that the form is not already filled out.
-
-This form is not meant to be a comprehensive survey or a detailed planning tool. It's a starting point for the wedding planner to start discussing the client's needs and preferences. The wedding planner will use this information to schedule meetings and discuss further details to finalize the wedding arrangements.
-
-Please note that this form is not a replacement for in-person meetings or phone calls. It's a convenient way to gather initial information from clients remotely. The wedding planner will still need to follow up with phone calls or meetings to discuss and confirm the details.
-
-Before filling out the form, please review the instructions carefully to ensure you provide accurate and comprehensive information.
-
-</thinking>
-
 # Wedding Consultation Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from clients seeking wedding consultation services. It helps the wedding planner understand the client's preferences and requirements, making it easier to tailor the planning process to their needs.

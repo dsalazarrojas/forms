@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback from attendees on their experience with a workshop they attended. This will help event planners understand the quality of the workshop and identify areas for improvement. Please complete this form carefully and honestly, providing as much detail as you can. If you have any comments or suggestions, this is a good place to express them.
-</thinking>
-
 # Workshop Evaluation Form - Help Guide
 ## Purpose
 This form is used to gather feedback from workshop attendees on their experience with the workshop. Your input is valuable in helping us improve our events and provide better services in the future.

@@ -1,8 +1,3 @@
-<thinking>
-This form was generated using AI to create a Session Evaluation Sign Up form. The purpose of this form is to collect information from evaluators for a session, including the session date, start and end times, event name, evaluator's name, email, and phone number. This form is designed to be a simple and straightforward way to collect evaluation feedback.
-Before filling out this form, please note that it's intended for non-deduplicated evaluation purposes only. If you're unsure about the form's purpose or if you've already filled out this form for the same session, please double-check with your supervisor or the session organizer.
-</thinking>
-
 # Session Evaluation Sign Up - Help Guide
 ## Purpose
 This form is designed to collect evaluation feedback from session evaluators. It helps the session organizers to understand the effectiveness of the session, identify areas of improvement, and provide valuable insights to attendees.

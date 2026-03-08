@@ -1,8 +1,3 @@
-<thinking> 
-This form is for online seminar registration. The purpose of this form is to gather information from attendees who want to register for an online seminar. This form will be used to collect personal details such as name, contact information, seminar preferences, and other relevant information. It is recommended to fill out the form carefully and accurately to ensure a smooth registration process. Please make sure to check the "Agree" field at the end of the form before submitting your registration.
-
-</thinking>
-
 # Online Seminar Registration Form - Help Guide
 ## Purpose
 This form is for registering for an online seminar. Please fill it out carefully to ensure a smooth registration process.

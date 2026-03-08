@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for event concession stands. The purpose of this form is to gather information from vendors that would like to operate a concession stand at an event. 
-The form is used to collect details about each vendor, such as vendor experience, contact information, and required documents. This information will be used to review and approve vendor applications. 
-This form will not be used for multiple events, so please do not submit separate applications. 
-Please ensure that each vendor submits only one application per event. 
-</thinking>
-
 # Event Concession Stand Application Form - Help Guide
 ## Purpose
 The Event Concession Stand Application Form is for vendors who would like to operate a concession stand at an event. It is used to collect necessary information from vendors and will be reviewed and approved for each application.

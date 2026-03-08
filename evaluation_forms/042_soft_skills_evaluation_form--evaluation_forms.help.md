@@ -1,12 +1,3 @@
-<thinking>
-**Soft Skills Evaluation Form - Help Guide**
-
-The "Soft Skills Evaluation Form" is designed to assess an employee's soft skills, which are valuable competencies that are not necessarily tied to a specific job or role but are rather personal attributes that support professional growth and development. Soft skills are often essential for a smooth and efficient work performance. This form helps managers and supervisors evaluate the current state of an employee's soft skills, set goals for improvement, and track progress over time. This form can be used for employee performance reviews, evaluations, and development plans.
-
-This form is an original adaptation of a public survey topic and does not copy or use proprietary content from any form creation platform. It's released under CC BY 4.0 and can be freely used, modified, or sold, just give credit.
-
-</thinking>
-
 # Soft Skills Evaluation Form - Help Guide
 ## Purpose
 The Soft Skills Evaluation Form is designed to evaluate an employee's soft skills, set goals for improvement, and track progress over time.

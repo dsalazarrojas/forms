@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # EdTech Evaluation Research Panel Registration - Help Guide
 
 ## Purpose

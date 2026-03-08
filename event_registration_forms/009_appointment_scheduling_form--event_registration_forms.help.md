@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from clients for appointment scheduling purposes. The form will be used to create a schedule for the client to meet with a representative or team member. The information collected will be used to ensure that the client's appointment is scheduled correctly and that they are aware of the expected duration, location, and any special requirements or notes. 
-</thinking>
-
 # Appointment Scheduling Form - Help Guide
 ## Purpose
 The Appointment Scheduling Form is used to collect client information and schedule appointments with a representative or team member.

@@ -1,8 +1,3 @@
-<thinking>
-We'll create a user-facing help guide for the "Startup Trade Show Item Order Request Form" form. This form is designed to collect information from startup companies that will be participating in a trade show. The purpose of this form is to allow event organizers to collect detailed information from startups about their participation in the event, including items they wish to have on display, their event preferences, and contact information. 
-The form will not be required to be filled out by startup companies if they are already registered to participate in the trade show.
-</thinking>
-
 # Startup Trade Show Item Order Request Form - Help Guide
 ## Purpose
 The "Startup Trade Show Item Order Request Form" is used to collect information from startup companies that are participating in a trade show. This form helps the event organizers to better understand the startup's needs and preferences for the event.

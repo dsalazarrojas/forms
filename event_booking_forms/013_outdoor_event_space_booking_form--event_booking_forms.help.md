@@ -1,7 +1,3 @@
-<thinking>
-This form is used for booking an outdoor or indoor event space for an event. The purpose of this form is to collect essential information about the event, including the type, date, time, and other relevant details. It ensures that all necessary details are captured for event planning and organization.
-</thinking>
-
 # Outdoor Event Space Booking Form - Help Guide
 
 ## Purpose

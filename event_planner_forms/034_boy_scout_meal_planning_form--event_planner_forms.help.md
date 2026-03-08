@@ -1,8 +1,3 @@
-<thinking>
-Internal reasoning:
-This form is for planning and organizing meal planning and food preparation for a Boy Scout campout. It helps the troop to prepare and manage resources, including ingredients, cooking equipment, and supplies needed for meals. The form is designed to be filled out by the scout responsible for meal planning, with optional sections for assistant planners and scoutmaster approval. It includes sections for planning meals, ingredients, cooking equipment, and supplies needed for each meal, as well as sections for planning for dietary restrictions, food allergies, and trash disposal. The form is intended to provide a structured and organized approach to meal planning and food preparation for the campout.
-</thinking>
-
 # Boy Scout Meal Planning Form - Help Guide
 ## Purpose
 The Boy Scout Meal Planning Form is designed to help you plan and organize meals for your troop during a campout. It guides you in preparing and managing the resources needed for each meal, including ingredients, cooking equipment, and supplies. This form is intended to be filled out by the scout responsible for meal planning, with optional sections for assistant planners and scoutmaster approval.

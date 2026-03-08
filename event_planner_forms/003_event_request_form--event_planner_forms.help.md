@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to request events, allowing them to input specific details about the event such as date, time, location, and organizer. To ensure accurate and efficient processing, please review the form carefully and provide relevant information. This form will help the event organizers or administrators to process your event request efficiently. Please ensure that you do not submit duplicate requests for the same event.
-</thinking>
-
 # Event Request Form - Help Guide
 ## Purpose
 The Event Request Form is designed to gather information for event planning and execution. This form helps the organizers or administrators to process event requests in a structured and organized manner.

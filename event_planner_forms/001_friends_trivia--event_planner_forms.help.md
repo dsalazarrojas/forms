@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to collect user feedback and survey responses on the Friends TV show. The purpose of this form is to gather information about users' favorite catchphrases, favorite characters, and other fun facts about the show. The form is divided into several pages, each with a specific set of questions that aim to capture different aspects of the show. This guide will help users understand how to complete the form correctly and what each field represents.
-
-The form has a mix of single-select and multiple-select questions, which are meant to capture both individual and group opinions. Users are required to answer all questions, and the form is designed to be completed in a way that is easy and intuitive to follow.
-
-Please note that this form is for fun and entertainment purposes only, and the answers will not affect any real-world consequences. Users are encouraged to be honest and creative in their responses.
-
-The questions on this form are designed to be engaging and challenging, but not too complex or time-consuming. Users can complete the form at their own pace and in their own time.
-
-Before starting, please make sure to read through the entire form to ensure you understand all the questions and requirements.
-
-If you have any questions or concerns, feel free to reach out to us for assistance.
-</thinking>
-
 # Friends Trivia - Help Guide
 ## Purpose
 This form is designed to collect user feedback and survey responses on the Friends TV show.

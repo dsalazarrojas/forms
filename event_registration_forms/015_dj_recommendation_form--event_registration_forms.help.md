@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a DJ recommendation, which is a crucial part of planning events such as parties, weddings, or corporate events. The form should only be filled out by authorized event planners or users with access to the event's planning data. Please note that this form is used to provide a suggestion for a DJ, and not to actually book or confirm a DJ's availability. 
-
-This form is not intended to be filled out multiple times for the same event, so please ensure that only one submission per event is made. Duplicate submissions will be automatically rejected. 
-
-To ensure that the form is filled out correctly, we've included a few required fields that need to be filled out before submission. 
-
-</thinking>
-
 # DJ Recommendation Form - Help Guide
 ## Purpose
 

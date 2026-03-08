@@ -1,5 +1,3 @@
-<thinking>...internal reasoning block...</thinking>
-
 # Music Event Availability Survey - Help Guide
 ## Purpose
 This form is designed to gather information about a music event from its performers. The purpose of this form is to determine the performer's availability for the event, and to collect additional details such as event name, dates, and comments.

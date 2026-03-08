@@ -1,13 +1,3 @@
-<thinking>
-This form, "theater-festival-form-braintree," is designed to gather information about upcoming events in the theater festival. Its primary purpose is to collect data from users, organizers, and other stakeholders to ensure a smooth and well-organized event. The form is used to collect various details such as event names, dates, times, locations, and participant information.
-
-Internal notes suggest that the form might be used for internal purposes like tracking, but its primary user-facing intent should remain the same: to gather relevant information about theater festival events. The form appears to be a general-purpose form for collecting event information without being specific to a particular event type, so it's likely used as a base template for various events.
-
-To avoid duplication and confusion, users should only fill out this form once per event. If you've already filled out this form for the same event, please do not fill it out again. If you're unsure about which form to use, please reach out to the event organizers or support team for guidance.
-
-Before proceeding, please ensure you have all the necessary information and permissions to fill out this form accurately. If you're filling out this form on behalf of someone else, please ensure you have their permission to do so.
-</thinking>
-
 # theater-festival-form-braintree - Help Guide
 ## Purpose
 Theater Festival Form Braintree is designed to collect information about upcoming events in the theater festival. It's used to gather details from users, organizers, and other stakeholders to ensure a well-organized event.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from participants in an entertainment training event, such as workshops, conferences, or seminars. It is meant to be used by event organizers to gather necessary details from participants, including their contact information, payment method, and workshop specifics. To ensure accurate and complete registration, please review the form carefully and fill in all required fields. If you are unsure about any field, you can refer to this help guide for guidance.
-
-Please note that this form is a general template and might not be applicable to every specific event. Some fields might be irrelevant or have different requirements based on the event type and organizer's preferences. Always check with the event organizer to confirm the required information.
-
-</thinking>
-
 # entertainment_training_registration_form - Help Guide
 ## Purpose
 The entertainment_training_registration_form is designed to collect information from participants in an entertainment training event. It gathers details such as participant contact information, payment method, and workshop specifics to ensure a smooth and successful event.

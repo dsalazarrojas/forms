@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to register a group package for an event. This form should only be completed by a registered user who has been authorized to create and manage event groups. The form will ask for basic participant information and group details, as well as payment method and preferences. Please make sure to complete the form accurately and thoroughly, and do not duplicate or misrepresent information. This form is a critical part of the event registration process and is required for participant registration and billing.
-</thinking>
-
 # Group Package Registration Form - Help Guide
 ## Purpose
 The Group Package Registration Form is used to register a group package for an event. This form is intended for authorized users who have been granted access to create and manage event groups. It is essential to complete this form accurately and correctly to ensure that participant registration and billing are processed smoothly.

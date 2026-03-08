@@ -1,5 +1,3 @@
-<thinking>...the purpose of the Event Debrief Form is to gather details about an event, including the event's organization, name, dates, time, venue, location, attendees, and any additional notes or debriefing information. This form is meant to be completed by event organizers or coordinators as a way to gather crucial information about the event that has taken place. By filling out this form, event planners can ensure that all relevant details are captured and stored for future reference. The form is an essential tool for post-event evaluation and planning, helping event organizers to improve their events and make data-driven decisions. It is not meant for general event promotion or marketing purposes. The goal is to provide accurate and comprehensive event information for debriefing and future planning. Please ensure the form is completed accurately and thoroughly for best results.</thinking>
-
 # Event Debrief Form - Help Guide
 
 ## Purpose

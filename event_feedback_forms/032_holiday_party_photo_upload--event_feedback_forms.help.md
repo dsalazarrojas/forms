@@ -1,10 +1,3 @@
-<thinking>
-We are building a help guide for the "holiday_party_photo_upload" form, which is intended to collect feedback about holiday party events. The purpose of this form is to provide a simple and efficient way for attendees or staff members to upload photos from the holiday party event. The form likely aims to collect information about the event, such as the attendee's name, their relationship to the party (e.g., staff member or guest), and any other relevant details. 
-
-Before creating this form, we need to ensure that the form is being used for its intended purpose and not for other purposes that might overlap or be redundant. It's also essential to guarantee that the form is not being used to collect the same information multiple times, which might lead to data duplication or inconsistencies.
-
-</thinking>
-
 # holiday_party_photo_upload - Help Guide
 ## Purpose
 This form is designed to collect feedback and photos from attendees of a holiday party event. It is meant for staff members and attendees to provide their input and experiences about the event.

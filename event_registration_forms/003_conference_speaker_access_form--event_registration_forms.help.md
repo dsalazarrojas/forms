@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from conference speakers. The goal is to ensure that speakers have access to all necessary resources and accommodations during the conference. To avoid duplication, please do not fill out this form if you have already provided speaker information. The conference team uses this information to provide a smooth and comfortable experience for all speakers.
-</thinking>
-
 # Conference Speaker Access Form - Help Guide
 ## Purpose
 This form is used to collect information from conference speakers to ensure they receive the necessary resources and accommodations during the event.

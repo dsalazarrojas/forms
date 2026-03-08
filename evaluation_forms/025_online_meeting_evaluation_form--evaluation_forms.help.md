@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for users who need to evaluate their online meeting experiences. This form is intended to be completed by meeting participants, organizers, or attendees to provide feedback on their experiences, which will help improve future meetings. The evaluation form is optional, so users are not required to complete it unless they wish to provide feedback. Please ensure that each form submission is submitted only once per meeting to ensure accurate and unique feedback.
-</thinking>
-
 # Online Meeting Evaluation Form - Help Guide
 ## Purpose
 

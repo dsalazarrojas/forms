@@ -1,28 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Media Interview Segment Booking Form, we first need to understand the purpose and requirements of the form. The form is intended for booking media interviews with guests. It gathers information about the guest, including their contact details, preferences, and booking details.
-
-The form has several pages with fields that need to be filled out. 
-
-The form is divided into several sections: 
-
-1. Guest Information: This section gathers information about the guest, including their contact details.
-2. Segment Booking: This section includes fields for booking details such as the date, time, and segment length.
-3. Preferred Time Slots: This section allows guests to select their preferred time slots for the booking.
-4. Additional Comments: This section is for any additional comments or information the guest wants to provide.
-
-The required fields are:
-- Select Topic
-- Date of Booking
-- Time of Booking
-- Email
-- Phone
-- Segment Length
-- Preferred Time Slots
-- PR Contact
-
-This guide will explain each field in detail.
-</thinking>
-
 # Media Interview Segment Booking Form - Help Guide
 ## Purpose
 This form is used to book media interviews with guests. Fill out this form to book a segment on a show.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for translation sessions, including session details, participant information, and coordinator data. It ensures that all relevant details are captured correctly to facilitate efficient session management and communication. This guide will walk you through the form fields and their purposes.
-
-</thinking>
-
 # Translation Session Registration - Help Guide
 ## Purpose
 This form is used to register and manage translation sessions.

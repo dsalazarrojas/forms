@@ -1,6 +1,3 @@
-<thinking>
-The form is meant to gather feedback from users after an event, gathering information on their experience. This form will collect feedback on the event's aspects such as what happened, what made it worthwhile, what didn't go well, what was missed, areas for improvement, overall experience, and whether the user will attend again. The form also asks for the user's phone number and email for contact purposes. The feedback gathered will be used to evaluate and enhance future events, ensuring that they are enjoyable and beneficial for attendees.</thinking>
-
 # Team Celebration Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from users after an event, allowing us to evaluate and enhance future events.

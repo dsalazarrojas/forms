@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We've created a form to book a residency for an event in a rural regeneration context. This form is used to collect relevant information from artists to facilitate the booking process. We want to ensure that all required fields are filled to avoid any potential issues with the residency booking. Please make sure to fill in all the required fields accurately and thoroughly.
 
 # rural_regeneration_residency_booking_form - Help Guide

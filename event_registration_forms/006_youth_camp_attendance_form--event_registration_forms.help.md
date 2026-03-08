@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to collect information from both participants and staff attending a youth camp, including their names, contact details, dates of birth, and other relevant personal data. This form aims to gather accurate and complete information about the camp attendees, ensuring that the staff can provide the best possible experience for everyone. Before filling out this form, please ensure that you have already registered for the camp or are a confirmed staff member.
-</thinking>
-
 # Youth Camp Attendance Form - Help Guide
 ## Purpose
 This form is designed to collect information from participants and staff members attending a youth camp. Please take a few minutes to fill out this form accurately and completely.

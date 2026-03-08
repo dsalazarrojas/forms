@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback from users who have attended an event. It's a crucial tool for organizers to evaluate and improve their events. Please verify that this form is relevant to your organization's use case and not a duplicate of an existing form. If you're unsure, please review your organization's form catalog to ensure the purpose and structure of this form align with existing ones.
-</thinking>
-
 # Round Review Feedback - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from event attendees to help event organizers improve future events.

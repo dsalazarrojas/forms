@@ -1,9 +1,3 @@
-<thinking>
-This form is used to schedule a meeting on Zoom, a video conferencing platform. 
-The form is designed for users to input information about the meeting, including meeting details, attendees, date, and time zone. 
-To avoid duplication, please ensure that you are not submitting multiple forms with the same meeting information. 
-</thinking>
-
 # Schedule A Zoom Meeting Form - Help Guide
 ## Purpose
 This form is designed to help you schedule a meeting on Zoom by collecting meeting details, attendee information, and scheduling preferences.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect registration information for an event. The "open_mic_registration_form" form is used to gather details about upcoming performances, such as the event date, start and end times, performance length, and other relevant information.
-To avoid duplication, this form should only be used for registration purposes, and not for general contact or other inquiries.
-</thinking>
-
 # open_mic_registration_form - Help Guide
 ## Purpose
 The "open_mic_registration_form" is used to collect information about upcoming performances for an event. This includes details such as the event date, start and end times, performance length, and other relevant details.

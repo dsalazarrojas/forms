@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect participant information and payment details for online auctions. To ensure accuracy, please review each field carefully and ensure you're providing the correct information. Before starting, please note that this form is a general guide and might need adjustments according to your internal business logic. 
-
-This guide will walk you through the process of completing the form, explaining each field and providing practical tips to ensure you get the most out of the form.
-</thinking>
-
 # Online Auction Access Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-We need to make sure the form "security_supplier_evaluation_form" is used correctly. The main purpose of this form is for evaluating security suppliers. It is crucial to evaluate these suppliers to understand their performance and make informed decisions. This form will guide you through the process. Please confirm that you understand the form's purpose before proceeding. Is your current process already using a similar evaluation form? If so, please note that this one is designed with a different structure, so it's essential to review this guide carefully to ensure a smooth transition.
-</thinking>
-
 # security_supplier_evaluation_form - Help Guide
 ## Purpose
 The "security_supplier_evaluation_form" is a tool used to evaluate security suppliers. Its primary goal is to assess the supplier's performance based on the provided criteria. This form will help you gather relevant data to make informed decisions.

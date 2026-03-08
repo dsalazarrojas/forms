@@ -1,7 +1,3 @@
-<thinking>
-The corporate team building activity evaluation form is designed to collect feedback and information from participants about their experience with the corporate team building activity. This form is used to evaluate the effectiveness of the activity and gather insights that can help improve future events. The form is typically completed by participants after the activity has taken place, and the feedback collected is used to assess the activity's quality, engagement, and overall value. To ensure that this form is completed accurately and thoroughly, please review the instructions below.
-</thinking>
-
 # corporate_team_building_activity_evaluation_form - Help Guide
 ## Purpose
 The corporate team building activity evaluation form is used to gather feedback from participants about their experience with the activity.

@@ -1,7 +1,3 @@
-<thinking>
-The form is intended for generating leads for events related to Farming Technology, which could be conferences, meetups, workshops or any other type of gathering where people are interested in farming technology. The purpose of this form is to gather necessary information about the event, such as location, date, and details of the event. Non-duplication is encouraged as the form is used to collect data for various events. Please make sure that the event details are correct and up-to-date to ensure that the generated leads are accurate.
-</thinking>
-
 # Farming Technology Event Lead Generation Form - Help Guide
 
 ## Purpose

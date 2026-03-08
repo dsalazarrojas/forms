@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a waiver form for customers who have placed an order for embroidery services. It is likely used to gather information from customers to process their order and potentially communicate with them about the status of their order. Given the required fields, this form is likely used for internal purposes within an organization, such as an office or business, and is not intended for public or external use. The form appears to be a simplified, one-page form with a focus on capturing customer contact information and order details. The fields are generally straightforward and do not appear to be part of a more complex form with multiple sections or attachments. The presence of two "First Name" and "Last Name" fields, as well as a second "Email" field, suggests that this form may be used for both the customer and their representative or contact person. The "Order ID" and "Order Date" fields indicate that the form is used to track and manage orders. The optional "Order Notes" field suggests that customers can provide additional information about their order if needed. The second set of fields for "First Name 2", "Last Name 2", and "Email 2" may be intended for use in specific circumstances, such as for a second contact person.
-</thinking>
-
 # embroidery_waiver_form - Help Guide
 ## Purpose
 This form is a waiver form for customers who have placed an order for embroidery services. It is designed to gather information from customers to process their order and communicate with them about the status of their order.

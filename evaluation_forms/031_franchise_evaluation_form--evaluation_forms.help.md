@@ -1,9 +1,3 @@
-<thinking>
-The Franchise Evaluation Form is designed to collect information about a potential franchisee's business and their interest in establishing a franchise relationship with your company. This form helps to gauge the feasibility of a franchise opportunity and ensures that both parties are well-informed about the potential partnership. 
-
-When completing this form, please be as accurate and comprehensive as possible, and avoid duplication or submission of irrelevant information. Your input will help us evaluate your business and assist you in making informed decisions about your franchise opportunity.
-</thinking>
-
 # Franchise Evaluation Form - Help Guide
 ## Purpose
 The Franchise Evaluation Form is used to collect information from potential franchisees to gauge the feasibility of a franchise opportunity. This form helps our team evaluate your business and assist you in making informed decisions about your franchise opportunity.

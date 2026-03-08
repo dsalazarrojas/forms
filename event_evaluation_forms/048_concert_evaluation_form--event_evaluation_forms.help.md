@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Concert Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from concert attendees on their experience at a recent concert. The form helps artists, venues, and event organizers assess the quality of the event and identify areas for improvement. By providing an honest evaluation, attendees contribute to the growth and development of the music industry.

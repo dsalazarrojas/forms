@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form, "Issue Allocation Assessment Quiz", is to assess users' understanding of how to allocate issues to the best-suited team or individual when they arise. By evaluating their answers to a series of questions, we aim to gauge users' ability to identify the correct team or individual to handle issues effectively.
-
-Before completing this form, we should ensure that the context provided is relevant and unique, to avoid duplicating information.
-
-</thinking>
-
 # Issue Allocation Assessment Quiz - Help Guide
 ## Purpose
 The Issue Allocation Assessment Quiz form is designed to evaluate users' understanding of issue allocation to the best-suited team or individual.

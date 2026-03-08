@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information and obtain a waiver from participants before they enter a shooting range. The form is intended for participants to provide their personal details, including their name, email, phone number, and date and time of participation. The waiver is a required field, as it ensures that participants understand and agree to the terms and conditions of the shooting range. The form is used to ensure that all participants are aware of and agree to the safety rules and regulations of the shooting range. This form is not intended to be a registration or sign-in form, but rather a waiver and information gathering tool.
-</thinking>
-
 # Shooting Range Waiver - Help Guide
 ## Purpose
 The Shooting Range Waiver form is a document that asks participants to provide their personal details and agree to the terms and conditions of the shooting range. It is a mandatory form that ensures participants understand and agree to the safety rules and regulations of the shooting range.

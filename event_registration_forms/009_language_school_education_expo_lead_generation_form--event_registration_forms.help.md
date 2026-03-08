@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for capturing information about a Language School Education Expo lead generation event. The event type will help us determine if this is a real event or not. The contact person and event name are optional but provide additional context to the event. Event date, event time, and event location will be useful for planning purposes. The email and phone fields are optional but allow us to contact the person in charge if needed. The event status field will help us understand the current status of the event, active or inactive. The event details field is a space for any additional information about the event. The event website, Facebook event, Twitter event, Instagram event, LinkedIn event, and YouTube event fields will be used to link to the event's online presence.
-</thinking>
-
 # Language School Education Expo Lead Generation Form - Help Guide
 ## Purpose
 This form is used to collect information about a Language School Education Expo lead generation event. It helps us gather details about the event, its status, and contact information.

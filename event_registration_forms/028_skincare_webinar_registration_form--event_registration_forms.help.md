@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering users to attend a skincare webinar. It is essential to fill out this form to ensure that the speaker receives your information and you can participate in the webinar on the scheduled date. Please do not duplicate your registration by submitting the form multiple times.
-</thinking>
-
 # Skincare Webinar Registration Form - Help Guide
 ## Purpose
 This form is used to collect information from individuals interested in attending a skincare webinar.

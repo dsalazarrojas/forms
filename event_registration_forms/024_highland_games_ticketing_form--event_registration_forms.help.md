@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about event attendees for the Highland Games event. This form is intended to be submitted by event organizers or volunteers to record the details of attendees who have registered for the event. The form is designed to be filled out once for each attendee, allowing multiple attendees to be registered simultaneously. Please ensure you have the permission of the attendee before submitting their details on this form.
-This form is for the purpose of registering multiple attendees in one session. Please ensure you fill in all required fields accurately to avoid any issues with event management.
-</thinking>
-
 # Highland Games Ticketing Form - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-The Hotel Guest Registration Form is used to collect information from guests when they check-in to the hotel. This form helps the hotel staff to verify the guest's identity and ensure they have all the necessary details for their stay. 
-
-This form is designed to be completed in multiple pages, making it easier for guests to focus on one piece of information at a time. The form is also designed to collect all the necessary information from the guest, including their personal details, accommodation preferences, payment method, and check-in/check-out details.
-
-</thinking>
-
 # Hotel Guest Registration Form - Help Guide
 ## Purpose
 The Hotel Guest Registration Form is used to collect information from guests when they check-in to the hotel. This information helps us to verify the guest's identity and ensure they have all the necessary details for their stay.

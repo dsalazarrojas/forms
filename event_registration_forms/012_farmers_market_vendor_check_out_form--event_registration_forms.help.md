@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for farmers market vendors to register and check out their products. Its purpose is to ensure accurate and efficient inventory management for the vendors and the market administrators. This form will help streamline the checkout process by allowing vendors to provide necessary details and make payments in a single platform. 
-
-To ensure accuracy and prevent duplication, it's essential that vendors fill out this form for each transaction separately. Please review the form carefully before submitting it.
-
-</thinking>
-
 # farmers_market_vendor_check_out_form - Help Guide
 ## Purpose
 The farmers market vendor checkout form is designed for farmers market vendors to accurately record and report their produce sales and other transactions. This form helps ensure that all sales are accounted for and reported to the market administrators, promoting transparency and efficient inventory management.

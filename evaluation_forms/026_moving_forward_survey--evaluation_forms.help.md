@@ -1,7 +1,3 @@
-<thinking>
-We're creating a user-facing help guide for a form called "Moving Forward Survey". This form's purpose is to gather information from users on their past and future goals, achievements, and obstacles. The form has eight fields, each with a specific type and label that will help users navigate and complete it efficiently. Before we dive into the detailed explanation, we want to ensure that we've covered all the relevant fields and avoid duplication.
-</thinking>
-
 # Moving Forward Survey - Help Guide
 ## Purpose
 The Moving Forward Survey is designed to help you reflect on your past and future goals, achievements, and obstacles. This form will gather information on your experiences, aspirations, and challenges, which will aid us in providing you with personalized guidance and support.

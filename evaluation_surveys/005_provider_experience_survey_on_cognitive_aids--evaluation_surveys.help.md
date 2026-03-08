@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about the experience of providers (clinicians) using cognitive aids in clinical settings. The form aims to collect quantitative and qualitative feedback to improve the design and implementation of cognitive aids. This form is designed to be completed by providers who have experience using cognitive aids, and the responses will help to identify areas of improvement and provide data-driven insights for future development.
-</thinking>
-
 # Provider Experience Survey On Cognitive Aids - Help Guide
 ## Purpose
 This form is designed to gather information about your experience using cognitive aids in clinical settings. Your feedback is invaluable in helping us improve the design and implementation of these aids.

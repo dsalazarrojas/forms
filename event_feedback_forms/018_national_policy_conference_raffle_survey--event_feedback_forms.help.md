@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is a survey designed for attendees of the National Policy Conference to provide feedback on the sessions they attended. The form aims to collect information about the attendees' ratings, attendance, and suggestions for future session improvements. This form is intended to be completed by each attendee, and the data collected will be used to improve future conferences.
 
 </thinking>

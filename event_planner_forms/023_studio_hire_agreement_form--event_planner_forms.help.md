@@ -1,8 +1,3 @@
-<thinking>
-We need to understand that the "Studio Hire Agreement Form" is a document used for hiring a studio or venue for events. This form is likely used by event planners or coordinators to collect information from clients or customers about their studio hire needs, including dates, locations, and contact details. To ensure relevance and avoid duplication, we should check if this form is not already being used for similar purposes within the organization or if there are any existing forms that cover the same requirements. This form might be used for in-house events, workshops, or meetings.
-
-</thinking>
-
 # Studio Hire Agreement Form - Help Guide
 ## Purpose
 The Studio Hire Agreement Form is used to collect information from clients or customers about their studio hire needs for events.

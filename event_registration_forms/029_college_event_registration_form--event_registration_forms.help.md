@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from students to register for college events, such as workshops, conferences, or seminars. It's crucial that the form is filled out completely and accurately to ensure that the student's registration is processed correctly. Please make sure to review all fields carefully and provide honest responses to the questions. If you're unsure about any field, refer to the field description or contact the event organizers for clarification. Before submitting the form, double-check that you've completed all required fields. The form includes options for students to select their attendance, dietary restrictions, accessibility needs, and other preferences to provide a comfortable experience for all attendees. Ensure that all selections are accurate and honest to facilitate proper arrangements. Note that this form is for college students only, so please refrain from registering if you're not affiliated with the institution.
-</thinking>
-
 # College Event Registration Form - Help Guide
 ## Purpose
 This form is for college students to register for events hosted by their college or university. It's essential to provide accurate information to ensure proper processing of your registration.

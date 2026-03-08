@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from attendees of the health clinic lecture, to help the organizers understand their experience, the quality of the lecture, and overall satisfaction. This form aims to collect both quantitative (rating scales) and qualitative (text-based) feedback. It is essential to complete this form to provide accurate and comprehensive feedback, which will help to improve future lectures and events.
-
-To avoid duplication of feedback, please fill out the form only once per attendee.
-
-To complete this form accurately, please ensure that you are providing feedback for a specific lecture you have attended. If you are unsure about any question or section, please contact the event organizers for clarification.
-</thinking>
-
 # Health Clinic Lecture Feedback Form - Help Guide
 ## Purpose
 The Health Clinic Lecture Feedback Form is designed to collect feedback from attendees of the lecture, providing valuable insights to the organizers to improve their future events.

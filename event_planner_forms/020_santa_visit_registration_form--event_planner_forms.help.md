@@ -1,9 +1,3 @@
-<thinking>
-The internal reasoning block explains the form purpose and checks for relevance and non-duplication.
-
-This form is intended to be used to collect information from parents/guardians about their child's visit to Santa. This ensures that Santa has all the necessary details to tailor the visit to the child's needs and preferences. It's crucial that only one form is submitted per child to avoid mixing up the visit details. Please ensure that you've filled out the form correctly and only submit once.
-</thinking>
-
 # Santa Visit Registration Form - Help Guide
 ## Purpose
 The Santa Visit Registration Form is designed to gather information from parents/guardians about their child's visit to Santa. This form helps Santa's team understand the child's preferences and needs to provide a personalized and enjoyable experience.

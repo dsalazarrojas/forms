@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # junior_member_evaluation_form - Help Guide
 
 ## Purpose

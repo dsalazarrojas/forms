@@ -1,7 +1,3 @@
-<thinking>
-The form's purpose is to collect event information for an "event booking" scenario, likely for event creation, management, or scheduling. This form likely belongs to an events management system or a website for event planning. Its purpose is to gather details such as event title, date, location, and other essential information. I will review the form fields to ensure clarity and conciseness in the help guide.
-</thinking>
-
 # event_booking - Help Guide
 ## Purpose
 This form is used to create, manage, and schedule events on an events management system or website.

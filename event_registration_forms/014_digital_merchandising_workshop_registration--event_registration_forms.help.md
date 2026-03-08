@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this guide is user-friendly and easy to understand. The form is designed for registering attendees for a digital merchandising workshop, and it's essential to communicate this purpose clearly. The fields should be explained in a way that makes it easy for users to fill them out correctly.
-</thinking>
-
 # digital_merchandising_workshop_registration - Help Guide
 ## Purpose
 This form is for registering attendees for a digital merchandising workshop. Please fill it out to provide your information and choose the sessions you'd like to attend.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for artisanal brands to register for the Artisanal Brand Showcase, which is an event where brands showcase their products and participate in various activities. The event organizers are expecting high-quality applications from brands that showcase unique and high-quality products. This form requires accurate and detailed information from brands to ensure a smooth and successful event. To avoid duplication, brands are limited to one application per business. Please ensure that the information provided is accurate and up-to-date.
-</thinking>
-
 # Artisanal Brand Showcase Registration - Help Guide
 ## Purpose
 The Artisanal Brand Showcase Registration form is designed to collect detailed information from artisanal brands that want to participate in the event. This form helps the event organizers to understand the brand's products, services, and expectations.

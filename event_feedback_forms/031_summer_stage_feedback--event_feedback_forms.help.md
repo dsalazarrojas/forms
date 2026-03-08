@@ -1,8 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "summer_stage_feedback" form. The form is designed to collect feedback from event attendees. The purpose of this form is to gather information about the events that took place during the summer season. This will help the event organizers and management team to identify areas of improvement and make informed decisions for future events. Before we proceed, let's make sure that this form is not intended for other purposes and that we're not duplicating efforts. If you're creating this form for a different purpose, please stop and revisit this guide.
-
-</thinking>
-
 # summer_stage_feedback - Help Guide
 ## Purpose
 The "summer_stage_feedback" form is designed to collect feedback from event attendees to help the event organizers and management team make informed decisions for future events.

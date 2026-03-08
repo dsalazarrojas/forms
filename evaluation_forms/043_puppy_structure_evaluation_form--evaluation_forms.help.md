@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information for the evaluation of a puppy's structure. The structure of a puppy is a critical aspect of its health and development. This form will help collect data on the general information, behavior, training, and health of the puppy. The purpose of this form is to gather essential details about the puppy's condition to provide guidance on its care and well-being.
-
-Please note that this form has been generated based on public metadata and is not affiliated with any form platform. It is released under a Creative Commons license and can be used, modified, and even sold with proper credit.
-</thinking>
-
 # Puppy Structure Evaluation Form - Help Guide
 ## Purpose
 The Puppy Structure Evaluation Form is designed to collect information about a puppy's general information, behavior, training, and health to assess its overall condition and provide guidance on its care.

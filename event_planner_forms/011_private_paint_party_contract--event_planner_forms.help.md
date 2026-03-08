@@ -1,12 +1,3 @@
-<thinking>
-This form appears to be a template for a private paint party event contract. The form is likely designed for hosts or organizers of private painting events to collect necessary information from clients or participants.
-
-The fields on this form seem to cover essential details such as event and contract information (title, event date, start and end times, location), host information (host name, location details), payment terms, and contract signatories. The select_multiple field for contract signatories suggests that multiple parties may be involved in the contract.
-
-Before using this form, please ensure that you have not created a duplicate or similar form. If you have any doubts about the form's purpose or content, please contact the form creator at form@gic.mx.
-
-</thinking>
-
 # Private Paint Party Contract - Help Guide
 ## Purpose
 The Private Paint Party Contract form is designed for hosts or organizers of private painting events to collect necessary information from clients or participants. This form helps in creating a comprehensive contract that covers all aspects of the event, including event details, host information, payment terms, and contract signatories.

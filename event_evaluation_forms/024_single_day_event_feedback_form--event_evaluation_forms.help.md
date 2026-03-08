@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Single Day Event Feedback Form - Help Guide
 
 ## Purpose

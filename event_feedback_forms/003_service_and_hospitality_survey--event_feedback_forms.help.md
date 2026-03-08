@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback on the quality of service and hospitality provided during an event. The purpose of this form is to gather information on how well the event organization met the needs and expectations of attendees. This information will be used to improve the services and experiences offered by the event organizers. 
-
-To ensure that your feedback is accurate and helpful, please complete this form carefully and thoroughly. If you have any suggestions or comments, please provide them in the space provided.
-
-</thinking>
-
 # Service And Hospitality Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on the quality of service and hospitality provided during an event. The information collected will be used to improve the services and experiences offered by the event organizers.

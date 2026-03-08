@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information for the Geography BEE (Bee Event Entry) form. It likely captures data for students participating in a geography-themed educational event or competition. The form might be used for registration, event administration, or other related purposes. Before proceeding, please ensure you are filling out this form for the correct event and student. If you are unsure or have already submitted this form for the same student, please do not submit duplicate entries.
-</thinking>
-
 # Geography BEE Tournament Entry Form - Help Guide
 ## Purpose
 The Geography BEE Tournament Entry Form is designed to collect relevant information from students participating in a geography-themed event or competition.

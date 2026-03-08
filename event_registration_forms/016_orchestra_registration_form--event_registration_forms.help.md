@@ -1,7 +1,3 @@
-<thinking>
-This guide is for users who need to register for an event related to an orchestra. The purpose of this form is to collect information about the user's musical skills, experience, and practice habits. This form will help the event organizers to get a better understanding of the participants' qualifications and match them with suitable parts of the event.
-</thinking>
-
 # Orchestra Registration Form - Help Guide
 ## Purpose
 The Orchestra Registration Form is designed to collect information from users about their musical skills, experience, and practice habits in order to facilitate better event organization and participant matching.

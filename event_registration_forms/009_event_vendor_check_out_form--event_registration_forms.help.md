@@ -1,8 +1,3 @@
-<thinking>
-We are creating a user-facing help guide for the "event-vendor-check-out-form" form, which is designed to collect various information from event vendors. The purpose of this form is to gather details about event vendors, including their payment methods, payment amounts, payment dates, and other relevant information. This guide will walk the user through the form's purpose, completion instructions, and an explanation of each field to ensure they understand how to fill out the form accurately and efficiently.
-
-</thinking>
-
 # event-vendor-check-out-form - Help Guide
 ## Purpose
 The "event-vendor-check-out-form" is a form used to collect information from event vendors for processing payments and other administrative tasks. This form is typically filled out by event vendors to provide details about their payments and events.

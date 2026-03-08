@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information and evaluations from users about events. The purpose of this form is to gather data on events, including their names, dates, times, evaluation dates, and ratings. The form is designed to be used by evaluators to provide feedback and ratings on events.
-
-</thinking>
-
 # itfi_evaluation_form - Help Guide
 ## Purpose
 The itfi_evaluation_form is a tool used to collect information and evaluations from users about events. It collects data on event name, date, time, evaluation date, evaluation note, ITFI rating, SDCPC rating, assigned tool, and evaluation comment.

@@ -1,7 +1,3 @@
-<thinking>
-The Agile Implementation Assistance Request Form is designed to help organizations request assistance from the Agile team in implementing Agile practices within their organization. This form captures essential information about the organization, their current challenges, and their desired assistance model and timeline. By completing this form, organizations can effectively communicate their needs and expectations to the Agile team, ensuring that they receive tailored assistance that suits their specific requirements.
-</thinking>
-
 # Agile Implementation Assistance Request Form - Help Guide
 ## Purpose
 The Agile Implementation Assistance Request Form is a tool used to gather information from organizations requesting assistance with Agile implementation.

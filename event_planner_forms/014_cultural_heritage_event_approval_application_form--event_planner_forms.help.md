@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for event planners to submit their applications for cultural heritage events. It is essential to ensure that the application is filled out correctly to avoid duplication of effort. The form is split into several sections, each requiring information about the event. Please ensure that you have read the instructions carefully before submitting the form.
-</thinking>
-
 # Cultural Heritage Event Approval Application Form - Help Guide
 ## Purpose
 This form is designed to collect information about cultural heritage events for approval. Fill out the form carefully to avoid any duplication of effort.

@@ -1,7 +1,3 @@
-<thinking>
-**This form is intended for collecting data on race bib clips, including event information, race details, and bib collection data. It is crucial to ensure that all fields are filled in accurately to provide a comprehensive report. Please ensure that you are filling out the correct event and race information to avoid any discrepancies in the data. Also, please note that some fields are required and must be filled in order to proceed.**
-</thinking>
-
 # Race Bib Clips Collection Form - Help Guide
 ## Purpose
 The Race Bib Clips Collection Form is designed to collect data on race bib clips, including event information, race details, and bib collection data. This form ensures that accurate and comprehensive data is collected for analysis and reporting.

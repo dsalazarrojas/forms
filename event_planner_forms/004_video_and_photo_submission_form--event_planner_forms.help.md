@@ -1,9 +1,3 @@
-<thinking>
-AI-generated form designed for submitting video and photo content in a structured way. This form aims to gather information about events, conferences, and meetups, providing a centralized platform for users to showcase their work.
-This form is a tool for content creators, attendees, and organizers to submit their work and connect with others in the industry. Its purpose is not to replicate existing platforms but to offer an alternative, original adaptation of a form tailored to specific needs.
-Before submitting, please make sure you've filled out the required fields accurately. This form will help in preventing duplication of content.
-</thinking>
-
 # Video And Photo Submission Form - Help Guide
 ## Purpose
 This form is designed for submitting video and photo content related to events, conferences, and meetups in a structured way, allowing for centralized information gathering and connectivity among content creators, attendees, and organizers.

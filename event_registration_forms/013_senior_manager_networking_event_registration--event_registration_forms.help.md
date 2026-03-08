@@ -1,11 +1,3 @@
-<thinking>
-
-The internal reasoning block is used to check that the form purpose and fields match the event category and other relevant criteria.
-
-The purpose of this form is to collect information from senior managers attending a networking event. This is a general event registration form, designed to collect the attendee's name, contact details, job role and preferences, and event attendance details. The form fields are designed to be simple and easy to fill out, with the goal of providing the necessary information for event organization and communication. It is not designed to collect sensitive or personal identifiable information. The form has been carefully curated to match the senior manager event category, ensuring that all the necessary fields are present and relevant for this specific use case.
-
-</thinking>
-
 # Senior Manager Networking Event Registration - Help Guide
 ## Purpose
 This form is designed to collect information from senior managers attending a networking event. It includes fields for basic contact details, job role, preferences, and event attendance details.

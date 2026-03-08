@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to gather information for a charity drive, a fundraising event. It helps event organizers and coordinators plan and prepare for the event by collecting details about the drive's general information, logistics, and preparation tasks. This guide will walk you through how to complete the form.
-
-</thinking>
-
 # Charity Drive Preparation Checklist - Help Guide
 ## Purpose
 This form is a checklist for charity drive organizers to gather and organize essential information before and during the event.

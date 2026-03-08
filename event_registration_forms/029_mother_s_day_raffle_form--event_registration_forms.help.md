@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect participant information for the Mother's Day Raffle. The form likely serves as an entry point for participants to register for the raffle, providing their personal details and preferences. This form is probably used to manage participant data internally for the event organizers.
-</thinking>
-
 # Mother's Day Raffle Form - Help Guide
 ## Purpose
 This form is designed to collect participant information for the Mother's Day Raffle event.

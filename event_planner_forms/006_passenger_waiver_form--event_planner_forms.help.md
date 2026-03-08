@@ -1,6 +1,3 @@
-<thinking>
-This form is used for passengers to submit their information for the event. It is not a duplicate of other forms used for similar purposes and it is intended to be used by passengers who need to provide their details for the event. The information provided on this form will be used to verify the passenger's identity and ensure their attendance. The form is not intended for use by staff or administrators and it should not be used for this purpose.</thinking>
-
 # Passenger Waiver Form - Help Guide
 ## Purpose
 The Passenger Waiver Form is used for passengers to submit their information for events. This form is designed to ensure that all necessary details are collected in a clear and concise manner.

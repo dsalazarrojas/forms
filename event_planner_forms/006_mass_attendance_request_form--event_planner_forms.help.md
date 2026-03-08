@@ -1,14 +1,3 @@
-<thinking>
-This form is designed for users to request mass attendance for a specific date, time, and type. It is intended for people who want to attend a mass and provide information about their preferences and requirements. The form is likely to be filled by people who are interested in attending a mass at a specific date and time, and want to ensure that there is sufficient seating and arrangements in place.
-
-Before filling out this form, please ensure that:
-- The mass date and time are confirmed
-- You have the required information to fill out the form accurately
-- You are not duplicating an already submitted request
-
-It is also worth noting that if you are planning to bring family members with you, please ensure that you provide their details correctly in the 'family_members' field.
-</thinking>
-
 # Mass Attendance Request Form - Help Guide
 
 ## Purpose

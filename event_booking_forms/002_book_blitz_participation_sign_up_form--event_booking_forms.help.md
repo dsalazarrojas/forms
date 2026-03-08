@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from participants interested in attending the Book Blitz event. This form will help us understand who is attending, their role, and their preferences for the event. It's essential to fill out this form accurately to ensure that we can provide the best experience for all participants.
-
-Before proceeding, please ensure that you're not duplicating your registration. If you've already signed up for the Book Blitz, please don't submit this form again. This will help us avoid unnecessary duplicate registrations and ensure that everyone has a smooth experience. If you have any issues or concerns, feel free to reach out to us directly.
-
-Please review all fields carefully before submitting the form. Some fields are required, marked as such, and others are optional but still help us tailor the event to your needs. Don't hesitate to ask if you have any questions or need further clarification on any field.
-
-</thinking>
-
 # Book Blitz Participation Sign Up Form - Help Guide
 
 ## Purpose

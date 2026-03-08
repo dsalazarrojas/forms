@@ -1,8 +1,3 @@
-<thinking>
-This help guide aims to provide a clear understanding of the Virtual Concert Registration Form's purpose and how to complete it. The form is designed to gather information from event planners to help them organize and manage their virtual concerts. This guide will cover the form's purpose, how to fill it out, and a detailed explanation of each field.
-
-</thinking>
-
 # Virtual Concert Registration Form - Help Guide
 ## Purpose
 The Virtual Concert Registration Form is a tool for event planners to collect information from attendees and organizers to ensure a smooth and successful virtual concert experience. By filling out this form, you will be able to provide essential details about your event, making it easier for attendees and organizers to stay connected and informed.

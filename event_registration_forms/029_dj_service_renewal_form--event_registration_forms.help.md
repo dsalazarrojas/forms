@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for the renewal of DJ services, which includes client details, service information, and event specifics. This form likely serves as a template for internal use within an organization or company, and the goal is to ensure that all necessary information is collected and recorded in a clear and organized manner. The form is not designed for public use and is intended for internal use only.
-</thinking>
-
 # DJ Service Renewal Form - Help Guide
 ## Purpose
 The DJ Service Renewal Form is designed to collect information for the renewal of DJ services. This form is used to gather details about the client, service, and event specifics.

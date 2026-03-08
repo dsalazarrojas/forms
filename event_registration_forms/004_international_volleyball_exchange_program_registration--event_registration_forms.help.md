@@ -1,13 +1,3 @@
-<thinking>
-The International Volleyball Exchange Program Registration form is designed to collect information from individuals who wish to participate in the International Volleyball Exchange Program. The form is intended to gather data about the participant's personal details, nationality, sporting preferences, and other relevant information. The form will be used to facilitate the registration process for the program.
-
-To ensure that the form is filled out correctly, please review the following instructions:
-
-1. Check if you have filled out this form before. If you have, please do not repeat your registration.
-2. Make sure to fill out all required fields (marked as "required" in the form).
-
-</thinking>
-
 # International Volleyball Exchange Program Registration - Help Guide
 ## Purpose
 The International Volleyball Exchange Program Registration form is designed to collect information from individuals who wish to participate in the International Volleyball Exchange Program. The form is intended to gather data about the participant's personal details, nationality, sporting preferences, and other relevant information.

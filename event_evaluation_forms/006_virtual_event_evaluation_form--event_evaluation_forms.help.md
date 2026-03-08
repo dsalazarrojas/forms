@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect feedback and evaluation of virtual events from attendees. It helps organizers to assess the quality and satisfaction of the event. This form must be filled by attendees who participated in the virtual event. The form should not be filled by the event organizers or anyone involved in the event planning process to avoid bias and ensure accurate feedback. Ensure that you are not filling this form if you are an event organizer or involved in the event planning process.</thinking>
-
 # Virtual Event Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and evaluation of virtual events from attendees to help event organizers improve the quality and satisfaction of their events.

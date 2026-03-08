@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for end-users to provide information about their event participation preferences and gift expectations. It seems to be used in a scenario where a Secret Pal is assigned to each participant in an event.
-</thinking>
-
 # Secret Pal Questionnaire - Help Guide
 ## Purpose
 

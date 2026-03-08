@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for booking a public performance stage, which implies it's for events such as concerts, plays, or other performances. The form is probably intended for event organizers or managers to provide essential details about the event, including the venue, dates, and times. The purpose of this form is to collect necessary information from event organizers to ensure smooth planning and execution of the event.
-</thinking>
-
 # Public Performance Stage Booking Form - Help Guide
 
 ## Purpose

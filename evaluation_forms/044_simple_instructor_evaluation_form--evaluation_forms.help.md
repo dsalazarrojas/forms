@@ -1,5 +1,3 @@
-<thinking>Is the form purpose simply to collect instructor feedback, likely to be used by administrators or managers to assess instructor performance?</thinking>
-
 # Simple Instructor Evaluation Form - Help Guide
 ## Purpose
 The Simple Instructor Evaluation Form is designed to collect feedback from students on the performance of their instructor. This form helps administrators or managers evaluate the instructor's overall effectiveness in the classroom and identify areas for improvement.

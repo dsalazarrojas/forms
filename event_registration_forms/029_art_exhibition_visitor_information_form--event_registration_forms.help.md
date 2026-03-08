@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to collect visitor information for the art exhibition. It is intended for individuals or groups visiting the exhibition and is used to ensure a smooth and organized visit experience. It is crucial that the required fields, such as visitor name, contact email, and visit date, are filled out accurately to enable efficient communication and planning. The form does not require a duplicate submission from the same visitor. 
-</thinking>
-
 # Art Exhibition Visitor Information Form - Help Guide
 
 ## Purpose

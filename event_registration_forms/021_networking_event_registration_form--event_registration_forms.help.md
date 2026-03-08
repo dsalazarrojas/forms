@@ -1,8 +1,3 @@
-<thinking>
-This form is a networking event registration form designed for collecting information from attendees. It is meant to be completed by individuals who are interested in attending a networking event. The form is not affiliated with any particular platform and is generated using AI, making it a neutral and original adaptation of a typical registration form.
-
-To ensure accuracy, we'll review the form's fields to provide a clear and concise help guide.</thinking>
-
 # Networking Event Registration Form - Help Guide
 ## Purpose
 This form is designed to gather information from attendees interested in attending a networking event.

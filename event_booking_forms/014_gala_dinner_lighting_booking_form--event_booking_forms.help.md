@@ -1,9 +1,3 @@
-<thinking>
-This guide is for those who are unfamiliar with form design and technical writing or need a refresher on how to complete the "Gala Dinner Lighting Booking Form". The form's purpose is to gather essential information from clients for a successful event lighting setup. To ensure a smooth booking process, please take the following steps and carefully fill out each field according to the provided explanations.
-
-Please note that this form does not require any specific knowledge or prior experience in event lighting or the industry. The fields are designed to be straightforward, and this guide will help you understand each field's purpose.
-</thinking>
-
 # Gala Dinner Lighting Booking Form - Help Guide
 
 ## Purpose

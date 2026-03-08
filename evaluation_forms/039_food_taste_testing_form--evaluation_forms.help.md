@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Food Taste Testing Form - Help Guide
 
 ## Purpose

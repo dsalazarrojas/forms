@@ -1,7 +1,3 @@
-<thinking>
-**Internal reasoning block:** This form is for users to register for cultural awareness training sessions. Users can choose the language of the training session, the location, and other relevant details. The form is designed to collect participant information and preferences in a user-friendly way.
-</thinking>
-
 # Cultural Awareness Training Registration Form - Help Guide
 ## Purpose
 This form is designed to help you register for cultural awareness training sessions. Please fill out the required and optional fields to provide us with your preferences and information.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for festival attendees to check in to the event. This guide is provided to help ensure the correct completion of the form, preventing any potential errors or misinterpretation. Please note that this form is a critical part of the event registration process, and accurate completion is necessary for a successful check-in experience. Before proceeding, ensure you are familiar with the purpose and requirements of this form.
-</thinking>
-
 # Festival Check In Form - Help Guide
 ## Purpose
 The Festival Check In Form is designed to gather essential information from festival attendees, including event registration details, attendee information, and check-in information. This form is used to verify attendee identities and ensure a smooth check-in process during the event.

@@ -1,15 +1,3 @@
-<thinking>
-We have a form designed for users to collect information about events. The form is used for event programming purposes. It is essential to ensure that the form is completed accurately and in its entirety to collect the necessary information.
-
-Before proceeding, please ensure that you understand the purpose of this form and that the information required is relevant to the event you are creating. 
-
-Please review the form carefully and ensure that you have all the necessary information before submitting it. This form is used to collect event details, organizers, attendees, and other related information.
-
-Also, please be aware that some fields are optional and only required if specified by the event organizer or type. Ensure that you complete the required fields as per the event's specific requirements.
-
-To avoid any duplication, please do not submit this form multiple times for the same event.
-</thinking>
-
 # Event Programming Form - Help Guide
 ## Purpose
 This form is designed to collect information about events for event programming purposes. It is essential to ensure that the form is completed accurately and in its entirety to collect the necessary information.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for internal leadership forums, where attendees can provide their preferences and details for the event. To confirm, the form will be used to collect information from attendees who are interested in participating in the internal leadership forum. The purpose of the form is to collect relevant details and preferences so that organizers can better serve the attendees. Please review the form carefully to ensure you are providing accurate and complete information. If you have already provided this information, please do not submit the form again as it will cause duplication of efforts.
-</thinking>
-
 # Internal Leadership Forum Registration - Help Guide
 ## Purpose
 This form is for internal leadership forum registration. It is intended for attendees to provide their session preferences, details, and contact information so that organizers can better serve them.

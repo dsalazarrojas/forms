@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to evaluate the performance of students, teachers, and parents in a Sunday school setting. The form collects data on student attendance, attitude, and evaluation dates. Each field is designed to capture specific information that will help in assessing the overall performance of students and staff members. To avoid duplication, please ensure that each form is filled out completely and accurately for each student or staff member being evaluated.
-
-</thinking>
-
 # Sunday School Evaluation Form - Help Guide
 ## Purpose
 The Sunday School Evaluation Form is a tool used to evaluate the performance of students and staff members in a Sunday school setting.

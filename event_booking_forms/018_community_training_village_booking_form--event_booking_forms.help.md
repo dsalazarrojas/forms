@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals or organizations to book a space in the Community Training Village. The form will be used to gather details such as the name of the person booking, their organization (if applicable), contact email for confirmations, desired booking date and time, expected number of attendees, equipment needs, and any special instructions for facility setup. This form is designed to ensure that the booking request is accurate and complete before processing it for the facilities team.
-</thinking>
-
 # Community Training Village Booking Form - Help Guide
 ## Purpose
 The Community Training Village Booking Form is a tool used to request space booking for events and training sessions in the village.

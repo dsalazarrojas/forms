@@ -1,14 +1,3 @@
-<thinking>
-This form is for evaluating the manufacturing process, which involves assessing various aspects of the process to identify areas for improvement. The purpose of this form is to provide a structured and standardized way of evaluating the process steps, safety checklist, quality checks, time required, and submitter information. This can help to improve process efficiency, identify potential safety risks, and ensure quality control.
-
-Before filling out this form, please make sure that you are familiar with the manufacturing process and have the necessary information required to complete it accurately.
-
-It is recommended to review the entire form before starting to fill it out to ensure you have all the information needed and to understand the questions and options provided.
-
-This form is an evaluation tool and should not be used as a certification or validation process. The evaluation results are meant to be used for process improvement purposes only.
-
-</thinking>
-
 # Manufacturing Process Evaluation - Help Guide
 ## Purpose
 The Manufacturing Process Evaluation form is designed to assess various aspects of the manufacturing process, including process steps, safety checks, quality checks, time required, and submitter information. By using this form, you can identify areas for improvement and optimize the process to ensure efficiency, safety, and quality control.

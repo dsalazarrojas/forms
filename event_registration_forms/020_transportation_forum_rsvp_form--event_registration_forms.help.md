@@ -1,9 +1,3 @@
-<thinking>
-The Transportation Forum RSVP Form is designed to collect information about attendees' transportation plans for events hosted or sponsored by the organization. It is meant to help the organizers and event staff efficiently manage event logistics and ensure everyone's transportation needs are met. This form should be used for events where attendees will be using different modes of transportation to travel to the event location. 
-The purpose of this form is to gather accurate and up-to-date information about attendees' transportation plans, including their preferred mode of transportation, event details, and contact information. 
-Before filling out this form, ensure that you only submit it once per participant, and make sure you provide accurate and complete information to help the event organizers plan effectively.
-</thinking>
-
 # Transportation Forum RSVP Form - Help Guide
 ## Purpose
 The Transportation Forum RSVP Form is used to collect information about your transportation plans for events hosted or sponsored by the organization.

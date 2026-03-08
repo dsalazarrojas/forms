@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect RSVPs from attendees for a strategic planning meeting. This information will be used to prepare for the meeting and ensure an accurate headcount. The form is intended for meeting organizers to gather details about attendees, including their role in the organization, so they can plan the meeting accordingly.
-</thinking>
-
 # Strategic Planning Meeting RSVP Form - Help Guide
 ## Purpose
 This form is used to register for the strategic planning meeting. Please fill out this form to let us know you are attending and provide your details.

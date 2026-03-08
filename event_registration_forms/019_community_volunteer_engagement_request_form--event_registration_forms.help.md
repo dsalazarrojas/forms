@@ -107,6 +107,4 @@ To complete this form, please follow these steps:
 * **Any additional comments or questions?**: Enter any additional information or questions you may have.
 * **Request Date \* (\*)**: This field is automatically populated with today's date.
 
-<thinking>... This guide will help ensure that the information provided is accurate and complete, avoiding any issues that may arise from missing or incorrect data. It will also prevent duplication of effort and save time for both the volunteer and staff members.</thinking>
-
 Please note that the fields with an asterisk (\*) are required fields, and it is essential to fill them out correctly to ensure a smooth volunteer registration process.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from event attendees about their experience at the exhibition booth, including services they used or would like to use, staff interactions, and any special requests or additional services required. This guide will cover the purpose and usage of each field in the form to ensure attendees understand what to expect and how to provide accurate information.
-</thinking>
-
 # Exhibition Booth Check Out Form - Help Guide
 
 ## Purpose

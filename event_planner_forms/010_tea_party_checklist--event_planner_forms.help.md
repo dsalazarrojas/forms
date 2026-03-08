@@ -1,15 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for this form that will help users understand its purpose, how to complete it, and what each field means. The form appears to be a checklist for planning a Tea Party, and it includes fields for guest quantity, date, time, food and drinks, decorations, music playlist, notes, assigned tool, username, and other metadata.
-
-To ensure that the form's purpose and functionality are clear, we should review its fields and identify any potential areas of confusion or redundancy. Upon examining the form, we notice that it's designed to gather information for planning a Tea Party event. The fields are organized into different categories, such as guest details, event settings, and decorations. The form is likely used for planning and documentation purposes.
-
-One thing to consider is that the "assigned_tool" field seems out of place, as it's not directly related to the event planning theme. It might be a leftover field or a placeholder for a different type of event. We should take note of this and decide whether to remove or modify it in the help guide.
-
-To complete the form, users will need to provide basic information about the event, such as guest quantity, date, time, and decorations. They will also have the option to select food and drinks, and specify a music playlist. The form seems to be designed for planning and organizing a Tea Party event, and the fields should be filled out in a way that makes sense for this purpose.
-
-With the form's purpose and functionality in mind, we can create a help guide that will walk users through each field and explain its significance.
-</thinking>
-
 # Tea Party Checklist - Help Guide
 ## Purpose
 This form is designed to help you plan and organize a successful Tea Party event. It gathers information about the event details, such as guest quantity, date, time, and decorations, to ensure that everything runs smoothly.

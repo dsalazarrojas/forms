@@ -1,7 +1,3 @@
-<thinking>
-This form is used to register individuals for a speech writing workshop. The purpose of this form is to gather information about the registrant, including their contact information and role in the workshop. This form is intended for public use, and users should be able to register for the workshop with ease. It is assumed that users are registering for the workshop for a specific date and time.
-</thinking>
-
 # Speech Writing Workshop Registration Form - Help Guide
 ## Purpose
 This form is a registration form for the Speech Writing Workshop. It helps the workshop organizers to collect necessary information from participants to manage the event smoothly.

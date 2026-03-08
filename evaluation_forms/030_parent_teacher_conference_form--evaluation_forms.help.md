@@ -1,7 +1,3 @@
-<thinking>
-The parent-teacher-conference-form form is designed to be used in a school setting for parents and teachers to meet and discuss a student's progress. This form aims to provide a structured conversation guide for both parties to effectively communicate and address any concerns or questions they may have. To ensure a smooth and productive meeting, it's essential to understand the purpose and requirements of the form.
-</thinking>
-
 # parent-teacher-conference-form - Help Guide
 ## Purpose
 The parent-teacher conference form is a tool to facilitate open communication between parents and teachers, enabling them to discuss a student's progress, address concerns, and set goals for improvement.

@@ -1,8 +1,3 @@
-<thinking> 
-This form is used to collect information about sports competitions, including participant and event details. The form is designed to be completed by participants in a sports competition, providing essential information about themselves and their participation in the event. This guide will walk you through each field of the form, explaining its purpose and requirements. Ensure that you read this guide carefully before filling out the form to ensure accurate completion.
-
-</thinking>
-
 # Sports Competition Information Collection Form - Help Guide
 ## Purpose
 This form collects information about sports competitions, including participant and event details. It's used to ensure accurate participant registration and event organization.

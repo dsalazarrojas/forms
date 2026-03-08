@@ -1,5 +1,3 @@
-<thinking>Form purpose: This form is designed to collect assessments from healthcare providers on the quality of healthcare infrastructure they operate. The form will be used to evaluate the infrastructure, patient care, staff information, and overall experience. This form will help in understanding the strengths and weaknesses of the healthcare infrastructure. This assessment is used for internal purposes and is not intended for external publication. The form will be reviewed by a designated reviewer, and the reviewer will be recorded in the submitted_by field. This form is required for all assessments, and the submission date, time, and reviewer information will be tracked for future reference. This guide will explain each field in detail for clarity and understanding.</thinking>
-
 # Healthcare Infrastructure Assessment Evaluation Form - Help Guide
 ## Purpose
 The form is designed to collect evaluations from healthcare providers on their facilities' quality and safety. It is used to help in evaluating the strengths and weaknesses of the healthcare infrastructure.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for users to register their equipment for efficiency testing. It captures essential information such as the organization, contact person, equipment type, and test results. This form is likely used by facilities or maintenance teams to track and manage equipment testing processes. To ensure accurate and efficient processing, please ensure that you're only registering each equipment once. If you're unsure about any field, please refer to the field-by-field explanation below.
-</thinking>
-
 # Equipment Efficiency Testing Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information about equipment efficiency testing. It helps track and manage equipment testing processes for organizations.

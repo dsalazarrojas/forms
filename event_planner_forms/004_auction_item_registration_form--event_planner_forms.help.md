@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information from consignors (individuals or organizations donating items to an auction) for the registration and preparation of their auction items. The purpose of this form is to gather essential details about the item, including its description, category, estimated value, and pickup availability, among other details.
-The form should be completed by the consignor, who is typically the seller or owner of the item being auctioned. Completing the form accurately and thoroughly helps the auction staff to effectively market and manage the auction process.
-To ensure consistency, it's recommended that this form be reviewed and updated regularly to reflect changes in item categories, auction rules, and other relevant details.
-The fields provided in this form are designed to be straightforward and clear. However, if you encounter any doubts or uncertainties while filling out the form, please do not hesitate to reach out to the auction staff for support.
-</thinking>
-
 # Auction Item Registration Form - Help Guide
 ## Purpose
 The Auction Item Registration Form is used to gather essential information about an auction item, including its category, condition, estimated value, and other relevant details. The form is typically completed by the consignor, who is the seller or owner of the item being auctioned.

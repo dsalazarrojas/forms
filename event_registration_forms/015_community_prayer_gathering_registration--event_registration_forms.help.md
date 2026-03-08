@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals interested in attending a community prayer gathering event. The purpose of this form is to register attendees, collect contact information, and gather any necessary details for the event organization. By filling out this form, you will be able to:
-- Register yourself and any guests you plan to bring
-- Provide contact information (email and phone number) so we can reach out with updates
-- Share any prayer requests or needs you have that you'd like to be acknowledged by the community
-- Indicate your interest in volunteering for the event
-- Provide information about any specific accessibility needs or dietary restrictions you have
-- Sign up for our weekly mailing list to receive updates on future events
-
-Please ensure you fill out all required fields to help us plan and organize the event effectively. If you have any questions or concerns, don't hesitate to reach out to us.
-</thinking>
-
 # Community Prayer Gathering Registration - Help Guide
 ## Purpose
 This guide will walk you through the steps to complete the Community Prayer Gathering Registration form.

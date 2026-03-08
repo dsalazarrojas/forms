@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll help create a user-facing help guide for the Website Evaluation Form that explains its purpose, completion instructions, and a detailed explanation of each field. This guide will ensure end-users understand the form's significance and can complete it accurately and efficiently.</thinking>
-
 # Website Evaluation Form - Help Guide
 
 ## Purpose

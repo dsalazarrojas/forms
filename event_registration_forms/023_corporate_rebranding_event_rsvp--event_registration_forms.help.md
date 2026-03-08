@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to collect information from participants who are interested in or have already registered for the Corporate Rebranding Event. The primary goal of the form is to gather details about the event, including event details, the number of guests attending, any special requests, and confirmation of the event and guests' attendance. Additionally, the form includes fields to confirm the event details, guests, and special requests, as well as to collect RSVP confirmation and event attendance confirmation. Finally, the form asks for contact information in case further details are needed. The form is meant to be completed by the person registering or attending the event. 
-</thinking>
-
 # Corporate Rebranding Event RSVP - Help Guide
 ## Purpose
 

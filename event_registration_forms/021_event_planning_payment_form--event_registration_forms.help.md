@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect event planning payment information from attendees. 
-The purpose of this form is to gather details about an event, including the event details, attendee details, payment information, and other relevant event specifics. 
-The form is used by event organizers to collect payment and attendee data, ensuring they have accurate information for their events. 
-The form is divided into several sections, each containing relevant fields for the corresponding information.
-</thinking>
-
 # event_planning_payment_form - Help Guide
 ## Purpose
 The event_planning_payment_form is used to collect payment and attendee information for events.

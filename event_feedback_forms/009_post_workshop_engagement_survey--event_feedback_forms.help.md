@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect feedback from participants after a workshop, gathering information on their satisfaction, key takeaways, and improvement ideas. This helps us evaluate the workshop's effectiveness and identify areas for future improvement. To avoid duplication, please only submit one survey per participant.</thinking>
-
 # Post Workshop Engagement Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from participants after a workshop, gathering information on their satisfaction, key takeaways, and improvement ideas. This helps us evaluate the workshop's effectiveness and identify areas for future improvement.

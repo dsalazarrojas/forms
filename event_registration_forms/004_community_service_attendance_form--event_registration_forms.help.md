@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Community Service Attendance Form - Help Guide
 ## Purpose
 This form is used to track attendance at community programs or events. It captures information about the program name, date of attendance, attendee's name and email (if provided), institution or group affiliation, attendance status, and hours attended. This form is essential for keeping records and ensuring accurate attendance tracking.

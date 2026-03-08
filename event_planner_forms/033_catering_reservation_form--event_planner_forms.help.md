@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture essential information for catering services, which include contact details, event planning specifics, and menu preferences. The purpose of this form is to ensure that the catering service provider has all the necessary information to prepare for a successful event. The form should only be used for events that are not already scheduled or booked with the catering service.
-</thinking>
-
 # Catering Reservation Form - Help Guide
 ## Purpose
 This form is used to reserve catering services for events. It captures essential information such as contact details, event specifics, and menu preferences.

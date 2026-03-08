@@ -1,13 +1,3 @@
-<thinking>
-  This form is used for customers to share their feedback and opinions about our product or service. 
-  It helps us understand customer satisfaction and identify areas of improvement. 
-  Please fill out this form to provide a detailed account of your experience. 
-  Note that the form fields are designed to be optional, but providing a testimonial and a rating will help us better understand your feedback. 
-  If you have any issues or concerns, feel free to let us know in the testimonial field. 
-  This form is intended for customers who have had a recent interaction with our product or service. 
-  If you have already submitted a testimonial, you may be able to submit a new one, but we kindly ask you not to duplicate your feedback. 
-</thinking>
-
 # Customer Testimonial Form - Help Guide
 ## Purpose
 The purpose of this form is to gather customer feedback and opinions about our product or service. This will help us understand customer satisfaction and identify areas of improvement.

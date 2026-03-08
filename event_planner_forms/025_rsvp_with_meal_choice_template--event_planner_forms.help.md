@@ -1,6 +1,3 @@
-<thinking>... Internal reasoning block to ensure form purpose and fields relevance.
-We should confirm the purpose of this form to be a simple RSVP (response system) for an event. This form collects attendee information and their meal preferences. We should validate that the required fields are indeed "RSVP", "RSVP Comments", and "Email" which are used to track attendee responses and provide a method for guests to communicate any additional details or questions about their attendance. The fields "Attending Date", "Attending Time", "Attending Guests", and "Phone" are optional and can be omitted if they are not relevant to the event or the type of RSVP being requested. The "Meal Preference" field should have a list of options that match the event's available meal choices. We should confirm that the form does not allow for duplicate RSVPs and that the required fields are correctly marked as such. ...</thinking>
-
 # RSVP With Meal Choice Template - Help Guide
 ## Purpose
 This form is designed to be a simple RSVP system for an event. It helps you keep track of who is attending and their dietary preferences.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to evaluate a student's presentation, taking into account their performance in different aspects and providing an overall score for their presentation. The fields in this form are designed to collect specific information related to the evaluation, such as the teacher's name, student ID, and presentation date. The purpose of this form is likely to assess the student's knowledge, skills, and presentation abilities, and to provide feedback on their performance. However, the actual purpose and usage of the form might vary depending on the specific context and requirements of the institution or organization using it.
-</thinking>
-
 # Student Presentation Evaluation Form - Help Guide
 ## Purpose
 This form is used to evaluate a student's presentation, providing a structured way to assess their performance in different areas and provide an overall score.

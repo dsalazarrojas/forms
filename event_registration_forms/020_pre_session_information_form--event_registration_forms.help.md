@@ -1,14 +1,3 @@
-<thinking>
-This help guide will assist users in understanding the purpose and usage of the pre-session-information-form. 
-
-The form is designed to collect information from attendees about their session preferences and requirements before attending a session. The goal is to ensure that attendees' needs are met, and the session is tailored to their needs. This information will be used to make necessary arrangements and adjustments.
-
-Before filling out the form, please review the fields carefully to ensure you provide accurate and complete information. If you have any questions or need clarification on any field, please do not hesitate to reach out to the session organizers.
-
-The form has been designed to be user-friendly, and the explanations for each field are provided below.
-
-</thinking>
-
 # pre-session-information-form - Help Guide
 ## Purpose
 The pre-session-information-form is designed to collect information from attendees about their session preferences and requirements before attending a session.

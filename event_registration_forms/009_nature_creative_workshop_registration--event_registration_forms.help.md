@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for an event registration for a workshop on nature-focused topics. This form will be used to gather details about the workshop, its participants, and other relevant information to facilitate the event planning process. To avoid duplicates, ensure you only submit this form once for each unique workshop.
-</thinking>
-
 # Nature Creative Workshop Registration - Help Guide
 ## Purpose
 The Nature Creative Workshop Registration form is used to gather information about a workshop on nature-focused topics. It is crucial to fill out this form accurately to ensure that all necessary details are captured for the successful organization and execution of the workshop.

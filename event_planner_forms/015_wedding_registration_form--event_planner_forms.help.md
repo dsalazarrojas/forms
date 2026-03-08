@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about a wedding event. The purpose of this form is to collect data about the wedding's details, such as the bride and groom's information, categories of interest, email, phone, and any additional notes. This form is likely used by event planners or coordinators to organize and prepare for the wedding event. It's worth noting that the form does not seem to require any personal or sensitive information, so it is unlikely to be used for security or identity verification purposes. This form appears to be for informational purposes only.
-</thinking>
-
 # Wedding Registration Form - Help Guide
 ## Purpose
 The Wedding Registration Form is designed to gather information about a wedding event. This includes details such as the bride and groom's information, categories of interest, contact information, and any additional notes.

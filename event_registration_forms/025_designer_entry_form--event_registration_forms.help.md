@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Designer Entry Form - Help Guide
 ## Purpose
 This form is used for designers to enter their information, which will be used to create a unique designer entry. The form is used to capture the designer's last name, first name, email, and phone number.

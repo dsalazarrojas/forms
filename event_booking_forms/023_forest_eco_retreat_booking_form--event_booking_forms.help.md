@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from users for booking purposes. This form is designed to collect data on event bookings, including guest name, check-in and check-out dates, number of guests, accommodation type, and other relevant details. It's essential to fill out this form accurately to ensure that the retreat can be arranged as per the user's preferences. Make sure to fill out this form only once for each booking, and if you need to make changes, please contact the event organizer directly.
-</thinking>
-
 # Forest Eco Retreat Booking Form - Help Guide
 ## Purpose
 The Forest Eco Retreat Booking Form is designed to gather information from users for booking purposes.

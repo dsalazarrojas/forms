@@ -1,7 +1,3 @@
-<thinking>
-The internal logic behind this form is that it's a voting system for film festival. Users can vote on their favorite film, provide feedback and other information such as event details. This form is likely used by organizers to track and analyze user preferences.
-</thinking>
-
 # Film Festival Best Film Voting Form - Help Guide
 ## Purpose
 The Film Festival Best Film Voting Form is designed for users to vote on their favorite film in a film festival, as well as provide feedback and other event information. This form helps organizers track and understand user preferences.

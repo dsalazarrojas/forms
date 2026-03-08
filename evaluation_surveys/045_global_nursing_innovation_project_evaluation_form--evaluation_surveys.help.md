@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect evaluation information and feedback from users on the Global Nursing Innovation Project. It appears to be a comprehensive assessment tool used to monitor and evaluate nursing innovations.
-</thinking>
-
 # Global Nursing Innovation Project Evaluation Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>This form is used to create a schedule request for an event. It is intended for users to fill out the form to submit their schedule requests. To confirm that this form is being used correctly, it's essential to understand that this form is meant for users to schedule a specific event, and not for other purposes such as meeting requests, vacation days, or any other type of scheduling request. It's crucial to fill out this form accurately and thoroughly, as it will be reviewed and approved by designated approvers before the schedule request is finalized. Before proceeding, make sure you are aware of the purpose of this form and that you are filling it out for the correct reason.</thinking>
-
 # Schedule Request Form - Help Guide
 ## Purpose
 The Schedule Request Form is used to create a schedule request for an event. It is intended for users to fill out the form to submit their schedule requests.

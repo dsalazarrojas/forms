@@ -1,11 +1,3 @@
-<thinking> 
-
-The Medical Assistant Evaluation Form is used to evaluate a medical assistant's performance and provide feedback for improvement. This form is a standardized tool to assess the medical assistant's skills and competencies in providing quality care to patients. It is designed to be completed by a medical professional, such as a doctor or a nurse, who has had the opportunity to observe and interact with the medical assistant during their work.
-
-Before proceeding, please ensure that you are familiar with the purpose and scope of this form. It is essential to have a clear understanding of the evaluation criteria to provide accurate and fair assessment.
-
-</thinking>
-
 # Medical Assistant Evaluation Form - Help Guide
 ## Purpose
 

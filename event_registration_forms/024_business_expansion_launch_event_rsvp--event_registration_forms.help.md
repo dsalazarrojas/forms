@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the "Business Expansion Launch Event RSVP" form, I'll follow the provided structure and provide clear explanations for each field.
 
 # Business Expansion Launch Event RSVP - Help Guide

@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering a user's interest in a one-on-one session. The purpose of this form is to gather relevant information from the user about their interest, such as their name, email, phone number, session date, session time, session type, topic of interest, and whether they require a mentor or not. 
-</thinking>
-
 # Interest Registration For One On One - Help Guide
 ## Purpose
 This form is designed to collect information from users about their interest in a one-on-one session, which will be used by the organizers to schedule and prepare for the session.

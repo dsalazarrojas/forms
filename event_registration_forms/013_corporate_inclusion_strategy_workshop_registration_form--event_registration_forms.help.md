@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to collect information from users for the Corporate Inclusion Strategy Workshop. This guide will help ensure that the form is completed correctly and consistently. To avoid duplication, please do not complete this form unless you are registering for the workshop.
-</thinking>
-
 # Corporate Inclusion Strategy Workshop Registration Form - Help Guide
 ## Purpose
 The Corporate Inclusion Strategy Workshop Registration Form is designed to collect information from users who wish to attend the Corporate Inclusion Strategy Workshop. Please complete this form to provide your details and preferences.

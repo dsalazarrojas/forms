@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback and insights on the quality of service provided by the 211 CALL CENTRE, ensuring that the quality standards are met and areas for improvement are identified. It is crucial that the questions are relevant and non-duplicative.
-</thinking>
-
 # Quality Assurance Evaluation Form 211 CALL CENTRE - Help Guide
 ## Purpose
 This form is designed to assess the quality of service provided by the 211 CALL CENTRE. Please provide your honest and constructive feedback to help us improve our services.

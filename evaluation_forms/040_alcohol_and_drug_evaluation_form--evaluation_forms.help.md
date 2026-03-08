@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Alcohol And Drug Evaluation Form - Help Guide
 
 ## Purpose

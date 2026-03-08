@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users who want to book a room for a Christmas party. The form asks for personal details such as the name of the person booking the room, the organization or group name (if applicable), and a contact email address and phone number. It also captures essential event details like the event date, start and end times, expected number of guests, preferred room setup, and any special requests. This form is likely to be used by event planners to plan and prepare for the party. It's essential to ensure all required fields are filled in to ensure that the party can be properly organized and executed.
-</thinking>
-
 # Christmas Party Room Registration Form - Help Guide
 ## Purpose
 This form is designed for individuals or groups to book a room for a Christmas party. It collects essential information to plan and prepare for the party.

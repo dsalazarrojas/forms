@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be a general-purpose form intended for collecting various types of information. The purpose of this form is to gather data through different types of fields, including text, number, select-one, select_multiple, date, time, note, and email fields. This form is likely used for administrative or data collection purposes. It's not clear if this form is used for a specific business process or process, but it seems to be a general form for gathering information. There is no indication that any of the fields are duplicated or redundant, so the form's purpose is likely to be used in conjunction with other forms or as a standalone data collection tool.
-
-The form is divided into 11 fields, each with its own specific type and label. Field labels are mostly straightforward and clear. 
-
-</thinking>
-
 # Pump Form - Help Guide
 ## Purpose
 The Pump Form is a general-purpose form used for collecting various types of information.

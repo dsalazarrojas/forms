@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to collect information from parents or guardians to register their child for a summer camp. The form likely has several fields that need to be filled out, including contact details and background information about the child. This form may have multiple pages, with the first page being the "Camp Registration Form" and subsequent pages providing additional information. The fields on this form might include the child's background, contact details, and possibly other relevant information such as medical history or allergies. However, without more detailed context, it's difficult to determine the exact layout and purpose of each field. To ensure accuracy and consistency in the help guide, it's crucial to review and confirm the form's design and content. Please validate the form's fields and their labels, and if necessary, update the guide accordingly.
-</thinking>
 # Kids Summer Camp Registration Form - Help Guide
 
 ## Purpose

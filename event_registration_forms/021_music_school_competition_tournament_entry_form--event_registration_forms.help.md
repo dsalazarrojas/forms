@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is for students to register for a music school competition tournament. The form is designed to collect relevant information from students and parents/guardians (if applicable) about the student's participation in the competition. The form aims to streamline the registration process and ensure that all necessary details are captured for the competition organizers. To complete this form, please ensure that you have the required information readily available. Please review the form carefully to avoid any duplication of effort.
-</thinking>
-
 # Music School Competition Tournament Entry Form - Help Guide
 ## Purpose
 This form is designed to register students for a music school competition tournament. It is a crucial step in the registration process, and it helps the competition organizers to gather essential details about each participant.

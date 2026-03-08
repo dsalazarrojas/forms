@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Catering Request Form - Help Guide
 ## Purpose
 This form is designed to collect information for catering requests from employees, meeting organizers, or other stakeholders. It will help us ensure that all necessary details are captured and communicated effectively for the smooth execution of events. Please fill out this form as accurately and thoroughly as possible to help us better understand your catering needs.

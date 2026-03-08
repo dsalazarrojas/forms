@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from participants after an event, such as a roast, dinner, or comedy show. This form helps us to understand how the event was perceived by the participants, what they enjoyed about it, and where we can improve for future events.
-To ensure the collected feedback is valuable and not redundant, please make sure to:
-* Only submit one feedback form per event.
-* Provide specific feedback, not just general comments.
-* Keep the feedback clear and concise.
-</thinking>
-
 # Friend Roast Feedback Form - Help Guide
 ## Purpose
 The Friend Roast Feedback Form is designed to collect participant feedback after an event. This form helps us understand what worked well and what didn't during the event, allowing us to make improvements for future events.

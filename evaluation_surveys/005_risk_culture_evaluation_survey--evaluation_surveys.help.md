@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Risk Culture Evaluation Survey - Help Guide
 
 ## Purpose

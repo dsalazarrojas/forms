@@ -1,7 +1,3 @@
-<thinking>
-This form is for guests to RSVP to the Engagement Party, indicating their availability and preferences for the event. The form will not ask for any sensitive or redundant information. Please do not fill out this form if you have already responded, or if you are an internal team member.
-</thinking>
-
 # Engagement Party RSVP Survey - Help Guide
 ## Purpose
 This form is for guests to RSVP to the Engagement Party, indicating their availability and preferences for the event.

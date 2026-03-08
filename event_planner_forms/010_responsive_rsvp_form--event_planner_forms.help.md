@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a Responsive RSVP form designed to collect event details, attendee information, and RSVP status. It consists of multiple fields for various aspects of event planning and management. The form can be completed by users to provide their RSVP status and other relevant event details. To complete the form, users will be guided through the different sections and fields, ensuring they understand what information is required and how to fill it out correctly.
-
-</thinking>
-
 # Responsive rsvp form - Help Guide
 ## Purpose
 The Responsive RSVP form is designed to allow users to provide their RSVP status and share event details with the event organizers. This form is meant to be completed by event attendees, allowing them to easily and conveniently provide the necessary information.

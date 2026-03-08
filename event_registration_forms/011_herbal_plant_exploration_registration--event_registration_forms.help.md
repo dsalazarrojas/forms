@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is for user registration for an event related to herbal plant exploration. The form collects personal and event-related information. This guide will walk the user through each field, ensuring they understand the required and optional fields. The form is designed to collect the following information: user details (first name, last name, email, phone, event details (date, event time, group name, group type, event type, event leader), and a brief event description. To prevent errors, the user must fill out the required fields (indicated by a red asterisk * in field labels).
-</thinking>
-
 # Herbal Plant Exploration Registration - Help Guide
 ## Purpose
 The purpose of this form is to register for an herbal plant exploration event. Please fill out the form to provide the necessary information for event management and participant coordination.

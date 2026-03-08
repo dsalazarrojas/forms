@@ -1,12 +1,3 @@
-<thinking>
-This form is used to collect information from participants in a wine tasting event. The form is designed to capture essential details about the participant, including their name, email, phone number, address, date of birth, dietary restrictions, and other relevant information that will help the event organizer prepare for the event.
-
-To ensure accuracy and completeness of the form, the fields marked as "required" are essential for the participant to complete.
-
-The form will be used by the event organizers to prepare for the event, and the information collected will be used to manage participant registration and ensure a smooth event execution.
-
-</thinking>
-
 # Wine Tasting Event Permission Form - Help Guide
 ## Purpose
 This form is used to collect information from participants in a wine tasting event.

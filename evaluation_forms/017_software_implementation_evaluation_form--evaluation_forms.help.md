@@ -1,12 +1,3 @@
-<thinking>
-The form "software_implementation_evaluation_form" seems to be designed for evaluating the implementation of software in a particular project or team. This form is likely used for assessing the effectiveness and progress of software deployment, as well as gathering feedback and suggestions for improvement. The form appears to cover various aspects of the software implementation, including deployment details, project information, user experience, and evaluation scale. It also includes fields for additional feedback, team and manager information, and evaluation frequency. The purpose of this form is likely to gather data and insights that can be used to refine and improve the software implementation process.
-
-Before filling out this form, please note that it is designed to be completed by individuals who have experience with the software implementation being evaluated. This includes project managers, team members, and users who can provide valuable insights and feedback.
-
-Before proceeding, please ensure that you have filled out the form completely and accurately. If you are unsure about any of the fields or options, please refer to the explanations provided below.
-
-</thinking>
-
 # software_implementation_evaluation_form - Help Guide
 ## Purpose
 The software_implementation_evaluation_form is designed to collect information and feedback on the effectiveness and progress of software implementation in your project or team. This form is intended to gather insights that can be used to improve the software implementation process.

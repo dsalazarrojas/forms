@@ -1,11 +1,3 @@
-<thinking>
-This form is used to manage extensions for dance classes. 
-The form is typically used by students to request a time extension for a previously scheduled dance class. 
-The form is not meant to be used for other purposes such as registering for a new class or for non-student use. 
-Please ensure that you are filling out this form for the correct purpose to avoid confusion and potential miscommunication. 
-Ensure that the form is not filled out multiple times for the same purpose. 
-</thinking>
-
 # dance_class_extension_form - Help Guide
 ## Purpose
 This form is designed to allow students to request extensions for previously scheduled dance classes. 

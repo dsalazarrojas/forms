@@ -1,13 +1,3 @@
-<thinking>
-
-The SMART Goals Assessment form is a tool used to evaluate the objectives of an individual or team. It helps identify the goals that are Specific, Measurable, Achievable, Relevant, and Time-bound (SMART criteria). This form ensures that the goals set are clear, concise, and actionable, allowing for better prioritization and progress tracking.
-
-The form is primarily used for evaluating existing goals and objectives, ensuring they align with the SMART criteria. However, it can also be used for setting new goals by filling it out with relevant information.
-
-Before filling out the form, ensure that you have a clear understanding of what your goals are and how they align with the SMART criteria. This form is meant to be a self-assessment tool, so it's essential to be honest and thorough in your responses.
-
-</thinking>
-
 # SMART Goals Assessment - Help Guide
 ## Purpose
 

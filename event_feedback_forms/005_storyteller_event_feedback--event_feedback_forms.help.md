@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from event participants about their experiences, allowing organizers to understand what worked well and what didn't. This feedback is used to improve future events and ensure that attendees have a positive experience.
-</thinking>
-
 # Storyteller Event Feedback - Help Guide
 ## Purpose
 The Storyteller Event Feedback form is designed to gather feedback from event participants about their experiences. This information is used to improve future events and ensure attendees have a positive experience.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to register employees for an event, workshop, or meeting. The form is used to collect information about the employee's personal details, role, department, and event attendance.
-
-To avoid duplication, please note that you are not allowed to register more than one employee per company.
-
-</thinking>
-
 # Employee Growth Forum Registration Form - Help Guide
 ## Purpose
 This form is used to register employees for events, workshops, or meetings. Fill out this form to provide information about the employee's personal details, role, department, and event attendance.

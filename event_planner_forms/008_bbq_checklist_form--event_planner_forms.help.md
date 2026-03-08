@@ -1,8 +1,3 @@
-<thinking>
-The purpose of the BBQ Checklist Form is to gather information from event organizers to ensure that all necessary preparations are made for a successful BBQ event. This form is meant to be filled out by event organizers to provide a comprehensive view of the event's status, helping to avoid last-minute surprises and ensuring that everything is in place for a enjoyable and safe experience for all guests.
-By filling out this form, event organizers can provide an accurate picture of the event's readiness, allowing organizers to make informed decisions and adjustments as needed. This form should only be filled out by event organizers, not by event attendees.
-</thinking>
-
 # BBQ Checklist Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from event organizers to ensure that all necessary preparations are made for a successful BBQ event.

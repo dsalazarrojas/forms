@@ -1,7 +1,3 @@
-<thinking>
-...the form is used to collect feedback and opinions on promotional events from customers, allowing us to understand their experiences and satisfaction levels, and to gather suggestions for improvement. This form should only be filled out if the customer has attended a promotional event, and we are not interested in duplicate submissions from the same person, so please fill out the form only once per event.
-
-</thinking>
 # promotional_event_customer_opinion_questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback and opinions from customers who have attended promotional events. It helps us understand their experiences and satisfaction levels, which we use to improve our events and services.

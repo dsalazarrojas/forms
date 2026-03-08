@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the Event Crowd Management Feedback Form is being used correctly to collect relevant data from attendees. This form should only be filled out by those who have attended the event in question and have had a direct experience with the event's crowd management. We also need to prevent duplicate submissions from the same user. To ensure this, a simple check can be implemented to prevent users who have already submitted feedback from filling out the form again. The purpose of this form is to gather feedback on the crowd management aspects of the event, which will help us improve and refine our management strategies.
-</thinking>
-
 # Event Crowd Management Feedback Form - Help Guide
 ## Purpose
 The Event Crowd Management Feedback Form is designed to collect feedback from attendees on the crowd management aspects of an event. This feedback will help us understand how we can improve our crowd management and provide a better experience for our attendees.

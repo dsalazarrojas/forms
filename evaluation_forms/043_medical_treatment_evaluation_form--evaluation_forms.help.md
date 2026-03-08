@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback and evaluation from patients about their medical treatment experience. It is intended to be completed by patients after receiving medical treatment at a clinic. The form is meant to gather information about the patient's satisfaction with the treatment they received, the quality of the medical treatment, and the overall experience at the clinic. 
-
-This form is meant to be used for evaluation purposes only and should not be used for medical diagnosis or treatment. 
-
-The following sections will guide you on how to complete this form.
-
-</thinking>
-
 # Medical Treatment Evaluation Form - Help Guide
 ## Purpose
 The Medical Treatment Evaluation Form is designed to collect feedback and evaluation from patients about their medical treatment experience. It is intended to be completed by patients after receiving medical treatment at a clinic.

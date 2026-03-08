@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for booking music artists for events. It's used to collect information about the event, artist, and contact details. The form is not intended for other purposes, such as creating a new account or logging in. Please ensure you are filling out this form correctly to ensure accurate processing of your booking request.
-</thinking>
-
 # Music Artist Booking Form - Help Guide
 
 ## Purpose

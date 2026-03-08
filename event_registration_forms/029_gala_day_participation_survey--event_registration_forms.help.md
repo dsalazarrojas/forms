@@ -1,11 +1,3 @@
-<thinking>
-
-The gala-day-participation-survey form is used to gather feedback and information from participants after an event. This form is used to collect demographic information, event participation data, and feedback to improve future event organization. It is essential to fill out this form carefully to ensure accurate and helpful data.
-
-This form is designed to be completed by participants after attending the event. It is not intended to be filled out by non-participants or for other purposes.
-
-</thinking>
-
 # gala-day-participation-survey - Help Guide
 ## Purpose
 The gala-day-participation-survey form is used to gather feedback and information from participants after an event.

@@ -1,18 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals planning to attend or participate in a graduation ceremony. The form gathers details such as name, email, phone number, and other relevant information to facilitate communication and organization for the event. The form also includes fields for additional information, such as graduation date, ceremony location, and special requests. By understanding this purpose, users should be able to fill out the form accurately and efficiently.
-
-To determine if this form is relevant to your needs, ask yourself:
-
-* Are you planning to attend or participate in a graduation ceremony?
-* Do you need to provide information about yourself or your role in the ceremony?
-* Are you looking to make special requests or provide additional details for the event?
-
-If you answered yes to any of these questions, this form is likely relevant to your needs. If not, you may want to consider other forms or resources that better suit your purpose.
-
-To avoid duplication of effort, please ensure that you have reviewed all relevant information and forms before completing this one. Some fields may ask similar questions, so double-checking your answers across all forms can help prevent errors and ensure accuracy.
-
-Please note that some fields are marked as optional, which means you may choose to fill them out or not. However, if you choose not to complete an optional field, it may impact how your response is processed or how you are contacted about the event.</thinking>
-
 # Graduation Ceremony RSVP Form - Help Guide
 ## Purpose
 The Graduation Ceremony RSVP Form is designed to collect information from individuals who plan to attend or participate in a graduation ceremony. This form gathers details such as name, email, phone number, and other relevant information to facilitate communication and organization for the event.

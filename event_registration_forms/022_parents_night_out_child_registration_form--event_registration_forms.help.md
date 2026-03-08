@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Parents' Night Out Child Registration Form - Help Guide
 ## Purpose
 The "Parents' Night Out Child Registration Form" is a form used for parents to register their child for an event or outing. This form collects essential information about the child, including their name, relationship with the registering parent, contact details, dietary requirements, and any allergies or special needs. By filling out this form, you will be able to provide the necessary information to ensure a safe and enjoyable experience for your child.

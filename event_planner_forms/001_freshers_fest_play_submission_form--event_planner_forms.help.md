@@ -1,6 +1,3 @@
-<thinking>
-The Freshers’ Fest Play Submission Form is designed to collect information about plays that will be performed during the Freshers’ Fest event. This form is meant for individuals who want to submit their play for the event. It is not intended for general inquiries or other types of submissions. Before filling out this form, please ensure you have a valid play to submit and that you have read the submission guidelines carefully.</thinking>
-
 # Freshers’ Fest Play Submission Form - Help Guide
 
 ## Purpose

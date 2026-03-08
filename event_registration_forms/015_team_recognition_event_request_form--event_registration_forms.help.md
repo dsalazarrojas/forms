@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about a team recognition event, which is likely an internal corporate or organizational event to acknowledge and appreciate team members' achievements, milestones, or contributions. The form is intended to gather details about the event, such as date, time, location, and description, as well as the team member requesting the recognition and the team being recognized. This form will help ensure that the event is properly coordinated and executed. Before starting, please ensure that this is not a duplicate request and that the event has not already been scheduled.
-
-Please fill out this form accurately and thoroughly, and provide any necessary details about the event.
-</thinking>
-
 # Team Recognition Event Request Form - Help Guide
 ## Purpose
 This form is used to request and coordinate a team recognition event.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for participants to provide information and consent for community theater participation, including personal and contact information, availability, and commitment to production schedules. The form aims to ensure that participants understand the risks and responsibilities involved in participating in theater activities, and to obtain their consent for media and publicity use. Before filling out the form, please review the sections carefully to understand what is required and what you are consenting to.
-</thinking>
-
 # Community Theater Participation Consent Form - Help Guide
 ## Purpose
 This form is designed to help us get to know you better and understand your commitment to participating in our community theater activities. Please fill out this form to provide us with your personal and contact information, availability, and consent to participate in our productions.

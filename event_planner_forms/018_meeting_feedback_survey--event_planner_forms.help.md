@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of the "Meeting Feedback Survey" form is to gather feedback from attendees on the effectiveness and organizational aspects of a meeting. This form is designed to help meeting organizers and facilitators identify areas of improvement and make informed decisions for future meetings. Before filling out this form, please make sure that you're providing feedback on a specific meeting, as this form is intended for individual meetings rather than as a general feedback mechanism.
-
-To ensure that your feedback is valuable and actionable, please provide detailed and thoughtful responses to each question, and avoid providing duplicate or irrelevant answers. If you have any questions or concerns, please don't hesitate to reach out to the meeting organizers or facilitators.
-
-</thinking>
-
 # Meeting Feedback Survey - Help Guide
 ## Purpose
 The "Meeting Feedback Survey" form is designed to gather feedback from attendees on the effectiveness and organizational aspects of a meeting. This feedback will help meeting organizers and facilitators identify areas of improvement and make informed decisions for future meetings.

@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to collect event booking information from attendees. This form is used to gather details about the event, including the event ID, attendee name, email, signature, event date, time, event start and end status, event type, attendee consent, payment method, payment amount, notes, additional notes, contact number, event description, event address, and event website. This information is essential for event organizers to track and manage the event efficiently.
-This form should only be filled out by people booking the event.
-</thinking>
-
 # event-signature-collection-form - Help Guide
 ## Purpose
 The event-signature-collection-form is used to collect event booking information from attendees. It is essential for event organizers to gather details about the event and its attendees.

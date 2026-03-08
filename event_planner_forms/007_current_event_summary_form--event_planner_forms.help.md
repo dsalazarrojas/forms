@@ -1,11 +1,3 @@
-<thinking>
-This form was created to help individuals or organizations gather information about a current event, including the event date, a brief summary, the location, a list of attendees, and contact information. The form is designed to be simple and easy to use, making it accessible to a wide range of users.
-
-Before using this form, please ensure that it is the correct tool for your needs. If you are unsure, you can check with the form's creator or your supervisor for guidance.
-
-Please note that this form was generated using a machine learning model and does not store any sensitive or proprietary information. If you have any concerns or questions, please don't hesitate to reach out.
-</thinking>
-
 # current_event_summary_form - Help Guide
 ## Purpose
 The current_event_summary_form is designed to collect information about a current event, including the date, a brief summary, location, attendees, and contact information.

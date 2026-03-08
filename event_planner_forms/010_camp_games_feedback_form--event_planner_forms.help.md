@@ -1,5 +1,3 @@
-<thinking>Before we dive into this help guide, let's confirm that the purpose of this form, "Camp Games Feedback Form," is to collect information from participants about their experiences during camp games, including their overall enjoyment, favorite games, and areas for improvement. The form is likely created for the camp organizers or event planners to gather valuable feedback to enhance future camp game experiences. Please ensure that you are completing this form for the intended purpose and not for any other reasons. Additionally, to the best of my knowledge, this form does not duplicate any existing form in any form platform, and it's an original adaptation, not extracted or copied from any other source. This form's structure and content are based on the provided YAML fields.</thinking>
-
 # Camp Games Feedback Form - Help Guide
 ## Purpose
 The Camp Games Feedback Form is designed to gather feedback from participants on their experiences during camp games. This feedback will help the camp organizers to understand what worked well and what areas need improvement.

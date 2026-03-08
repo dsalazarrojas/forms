@@ -1,11 +1,3 @@
-<thinking>... internal reasoning block to ensure the form purpose and fields are relevant and non-duplicitous ...
-
-The form "E Sports Arena Feedback Form" is designed to collect feedback from users who have attended events at the E Sports Arena. The form is likely intended to gather information about the events, user experiences, and suggestions for improvements. The fields are designed to capture basic contact information and event-specific details.
-
-The fields are not excessively long and do not overlap with other forms, making it likely that this form is meant to be a straightforward and simple feedback collection tool.
-
-</thinking>
-
 # E Sports Arena Feedback Form - Help Guide
 ## Purpose
 The E Sports Arena Feedback Form is designed to collect feedback from users about their experiences at events held at the E Sports Arena. This feedback will help us understand what we do well and where we can improve.

@@ -1,12 +1,3 @@
-<thinking>
-This guide is intended to be used by vendors after an event has taken place, to provide feedback to the event organizers. The form is not designed for general public use. 
-
-The form is not intended to be used in conjunction with any other forms, and it's a one-time submission.
-
-The form's purpose is to gather feedback from the vendor, regarding their experience with the event, the overall satisfaction, and the potential for future events.
-
-</thinking>
-
 # Vendor Post Event Feedback Poll - Help Guide
 ## Purpose
 This form is used by vendors to provide feedback on their experience with our events. It is essential to fill this form to help us improve our services and provide better experiences for our vendors.

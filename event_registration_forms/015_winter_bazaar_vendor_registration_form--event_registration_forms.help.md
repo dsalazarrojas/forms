@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from vendors who wish to participate in the Winter Bazaar event. The form aims to gather essential details about each vendor, including their name, contact information, product category, location, and other relevant details. This information will be used to facilitate communication and organization during the event. Before starting, ensure you have not already submitted this form, as duplicate submissions will not be accepted.</thinking>
-
 # Winter Bazaar Vendor Registration Form - Help Guide
 ## Purpose
 The Winter Bazaar Vendor Registration Form is a crucial document that collects essential information from vendors participating in the Winter Bazaar event. This guide will walk you through each section of the form to ensure you submit your registration accurately and efficiently.

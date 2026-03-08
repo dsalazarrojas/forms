@@ -1,16 +1,3 @@
-<thinking>
-Please note that the Virtual Career Fair Registration Form is designed to collect information from job seekers and employers participating in a virtual career fair. It is crucial that only one person from an organization or company fills out this form, as it aims to gather data for a specific event.
-
-Before you start filling out the form, please ensure that you have the necessary information ready. This form is not intended for multiple submissions or to be filled out by multiple people from the same organization. If you're unsure about any of the fields or questions, don't hesitate to contact the form administrators at form@gic.mx.
-
-Please make sure to fill out the form accurately and completely. Any missing or incorrect information may lead to your participation being denied.
-
-Also, note that some of the fields are repeated multiple times. This is due to an error in the form design and is not indicative of any actual requirement. Please disregard the duplicates and fill out the form as instructed.
-
-Before starting, please ensure you're filling out the form for the correct event.
-
-</thinking>
-
 # Virtual Career Fair Registration Form - Help Guide
 ## Purpose
 This form is designed to collect registration information for a virtual career fair. The event organizers will use this data to prepare for the event and ensure the smooth participation of job seekers and employers.

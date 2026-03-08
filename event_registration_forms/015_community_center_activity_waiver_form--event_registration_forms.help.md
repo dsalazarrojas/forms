@@ -1,7 +1,3 @@
-<thinking>
-This form is used for event registration and activity waiver purposes. It is designed to collect information from participants, including their name, date of birth, emergency contact details, a description of the activity, any known medical conditions, a liability acknowledgement, and photo release consent. This form is used to ensure that participants are aware of and agree to the risks associated with the activity. Please ensure that you have the necessary permissions and approvals before submitting this form.
-</thinking>
-
 # Community Center Activity Waiver - Help Guide
 ## Purpose
 This form is used to register participants for an event or activity and to obtain their waiver of liability for any injuries or damages that may occur during the event or activity.

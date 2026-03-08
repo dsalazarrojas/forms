@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to register for a wildlife rehabilitation workshop, providing details such as attendee information, preferred dates, and event-related details. The form helps to track attendee registrations, event schedules, and payment information. It is intended for internal use within the organization. Please ensure you are authorized to register for this event before submitting this form.
-</thinking>
-
 # wildlife_rehabilitation_workshop_registration - Help Guide
 ## Purpose
 This form is used to register attendees for a wildlife rehabilitation workshop. It collects information about the attendees, their preferred dates, and event details.

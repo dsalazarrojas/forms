@@ -1,11 +1,3 @@
-<thinking>
-This form is used to register a user to a whitelist, which is a list of allowed users for a particular application or system. This form is usually used for users who want to access restricted features or areas of the application. The purpose of this form is to collect user details and reason for request to process the registration request efficiently. 
-
-Before proceeding with this form, please make sure the user has not been previously registered on this system. 
-
-This form is split into multiple pages for better readability and user experience.
-</thinking>
-
 # Whitelist Registration Form - Help Guide
 ## Purpose
 

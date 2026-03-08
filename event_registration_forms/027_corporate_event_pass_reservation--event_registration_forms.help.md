@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information about corporate event passes and reservations. This form is used by employees to register for corporate events and reserve passes for themselves or their colleagues. The form is likely used by HR or event management teams to track event registrations and pass reservations. It is essential to ensure that the form is filled out correctly to avoid any duplication of efforts or miscommunication. Before filling out this form, please review the form carefully to ensure that you are providing accurate and relevant information.
-</thinking>
-
 # corporate_event_pass_reservation - Help Guide
 ## Purpose
 This form is used to register corporate event passes and reserve passes for corporate events.

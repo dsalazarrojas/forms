@@ -1,7 +1,3 @@
-<thinking>
-To provide a better user experience and prevent potential duplicates, please ensure that each person only submits one registration form per event. Before filling out this form, please review the event details carefully and make sure that this is the correct event you would like to participate in.
-</thinking>
-
 # Intercultural Dialogue Series Registration Form - Help Guide
 
 ## Purpose

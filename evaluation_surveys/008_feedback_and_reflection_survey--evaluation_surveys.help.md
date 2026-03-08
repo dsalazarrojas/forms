@@ -1,10 +1,3 @@
-<thinking>
-This form was created for the purpose of gathering feedback and reflection from attendees and participants of events, meetings, and workshops. 
-The purpose of this form is to elicit candid and constructive responses from individuals about their experiences and expectations. 
-It's crucial that each response be honest and accurate as it will be used to improve the quality of upcoming events. 
-Please take a few minutes to read the entire form and think back to the event to provide thoughtful and sincere answers.
-</thinking>
-
 # Feedback And Reflection Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and reflections from event attendees to help us improve our events and services. Your responses will help us identify areas of strength and weakness, and inform decisions for future events.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather feedback from customers about their experience at a hotel. It will ask for information such as the hotel's name, overall rating, comment, and other aspects of the stay. The fields are designed to be optional, allowing customers to provide as much or as little information as they feel comfortable sharing. This form is not a survey, it's a feedback form, and it's meant for customers to provide their honest opinion about their stay.
-
-Please note that this form is not a survey, it's a feedback form, and it's intended to be a quick and easy way for customers to share their thoughts and suggestions. It's not meant to be a comprehensive evaluation, but rather a way to get general feedback from customers.
-</thinking>
-
 # Hotel Feedback Form - Help Guide
 ## Purpose
 The Hotel Feedback Form is designed to gather feedback from customers about their stay at the hotel. It's a quick and easy way for customers to share their thoughts and suggestions about their experience.

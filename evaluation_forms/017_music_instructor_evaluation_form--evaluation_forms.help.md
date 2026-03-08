@@ -1,9 +1,3 @@
-<thinking>
-
-This form is likely used by school administrators or educators to evaluate the performance of music instructors. The form's purpose is to collect feedback on the instructor's teaching style, lesson plans, and overall performance. This evaluation is likely conducted on a regular basis to assess the instructor's strengths and weaknesses, and to identify areas for improvement. The evaluation form is not likely to be used on a one-time basis, but rather as part of an ongoing process to help the instructor grow and refine their teaching skills.
-
-</thinking>
-
 # Music Instructor Evaluation Form - Help Guide
 ## Purpose
 The Music Instructor Evaluation Form is used to collect feedback on the performance and teaching style of music instructors. This feedback is used to inform decisions on instructor evaluations and development.

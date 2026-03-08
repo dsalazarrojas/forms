@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect RSVPs (responses) from crew members for the Film Crew Appreciation Party. This form allows crew members to indicate their attendance, provide their name and contact information, and select the crew member(s) they are attending the party with, their department, and any additional notes. It's essential to accurately complete this form to ensure that the party planners have a clear headcount, can tailor the event to meet the crew's needs, and can communicate efficiently with attendees. 
-Please ensure you're filling this form accurately to help us make this event a success. If you've already responded to this form, you may not need to fill it out again. Please double-check that you're not duplicating your response.
-</thinking>
-
 # Film Crew Appreciation Party RSVP Form - Help Guide
 ## Purpose
 The Film Crew Appreciation Party RSVP Form is designed to gather essential information from crew members to ensure the success of the party. Please take a few minutes to fill out this form accurately.

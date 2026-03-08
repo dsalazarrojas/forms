@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from event attendees about their accommodation preferences and requirements for a festival or event. The form is designed to gather specific details such as name, contact information, arrival and departure dates, accommodation preferences, and any special requests. It's possible that some fields may be optional, depending on the event's specific needs. To avoid duplication or irrelevant submissions, please ensure that you only fill out the form once for each person attending the event. This form should not be used for purposes other than event accommodation requests.
-</thinking>
-
 # Festival Accommodation Request Form - Help Guide
 ## Purpose
 This form is used to request accommodation for a festival or event.

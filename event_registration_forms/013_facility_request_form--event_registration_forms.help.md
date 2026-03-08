@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Facility Request Form - Help Guide
 
 ## Purpose

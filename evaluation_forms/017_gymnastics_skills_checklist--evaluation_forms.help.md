@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to assess and record the skills and abilities of a gymnast, specifically in the context of gymnastics training or evaluation. The form's primary purpose is to collect information about the gymnast's skills, including their level of mastery, frequency of practice, and any potential dangers associated with each skill. This form is used to track progress, identify areas of improvement, and provide a comprehensive understanding of a gymnast's skills and abilities. The form is likely used in a training or coaching environment, such as a gym or sports program, to facilitate evaluation and feedback.
-
-To ensure accuracy and consistency, please complete this form with attention to detail and thoroughness.
-
-Please note that some fields are marked as required, which means they must be filled out completely to submit the form. Required fields are marked with a "true" value in the YAML definition.
-
-Before proceeding, review each field to ensure you understand its purpose and requirements.
-
-</thinking>
-
 # Gymnastics Skills Checklist - Help Guide
 ## Purpose
 This form is designed to assess and record the skills and abilities of a gymnast, specifically in the context of gymnastics training or evaluation.

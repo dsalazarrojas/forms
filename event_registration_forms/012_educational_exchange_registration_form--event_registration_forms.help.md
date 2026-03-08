@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect registration information from students participating in the Educational Exchange program. It's essential to fill out this form accurately to ensure that the relevant department receives all necessary details for planning and execution of the event.
-To avoid duplication, please check if a student is already registered before submitting this form.
-</thinking>
-
 # Educational Exchange Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from students participating in the Educational Exchange program. This information will be used to prepare for and execute the event.

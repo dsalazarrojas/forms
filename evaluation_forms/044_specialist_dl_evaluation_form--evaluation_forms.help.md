@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to evaluate the performance of specialists, typically in the context of their work or services provided. The form likely aims to capture relevant information about the specialist, including their current status, performance, and any comments or feedback that can help evaluate their work. The form may be used by a manager or supervisor to assess the specialist's progress, identify areas for improvement, and make informed decisions about their professional development or future projects.
-</thinking>
-
 # specialist_dl_evaluation_form - Help Guide
 ## Purpose
 This form is designed to assess the performance of specialists, providing a structured framework for evaluating their work and identifying areas for improvement. It is intended to be used by managers or supervisors to gather information about a specialist's progress, evaluate their performance, and make informed decisions about their future development or projects.

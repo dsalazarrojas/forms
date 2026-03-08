@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to assess the performance of a group or panel at a congressional hearing. It helps assessors evaluate the group's preparation, testimony, and overall impact on the hearing topic. The form is not affiliated with or endorsed by any form platform and is an original adaptation using public survey topic metadata as inspiration. It is released under the Creative Commons license and can be used, modified, and even sold as long as credit is given.
-
-Before filling out this form, it's essential to note that each field is carefully crafted to provide a comprehensive assessment of the group's performance. This guide will walk you through each field, its purpose, and how to complete it accurately.
-
-</thinking>
-
 # Congressional Hearing Group Performance Assessment Form - Help Guide
 ## Purpose
 This form is designed to evaluate a group or panel's performance at a congressional hearing. It assesses their preparation, testimony, and overall impact on the hearing topic.

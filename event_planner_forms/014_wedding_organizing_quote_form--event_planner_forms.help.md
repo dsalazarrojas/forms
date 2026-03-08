@@ -1,11 +1,3 @@
-<thinking>
-**Form purpose:** This form is used to gather information from couples who are interested in booking a wedding planning service. It collects details about their wedding, preferred communication channels, budget breakdown, and other relevant details to assist wedding organizers in providing accurate quotes.
-
-The form aims to streamline the planning process by asking for specific information, allowing the planner to tailor their services to the couple's needs.
-
-This form does not duplicate any existing form templates, and its structure was created based on general wedding planning needs.
-</thinking>
-
 # Wedding Organizing Quote Form - Help Guide
 ## Purpose
 This form is designed for couples who are interested in booking a wedding planning service to provide essential details for a personalized quote.

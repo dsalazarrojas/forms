@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ### free-dj-contract - Help Guide
 
 **Purpose**

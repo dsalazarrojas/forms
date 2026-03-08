@@ -1,7 +1,3 @@
-<thinking>
-Please note that the provided form YAML is quite extensive and complex, covering various aspects of event registration, such as attendee information, participation type, session preferences, and more. The form's purpose is to collect data for event registration, ensuring that attendees provide the necessary information for a successful event experience. This guide will help users understand each field's purpose and how to complete the form accurately.
-</thinking>
-
 # Clean Label Forum Registration Form - Help Guide
 
 ## Purpose

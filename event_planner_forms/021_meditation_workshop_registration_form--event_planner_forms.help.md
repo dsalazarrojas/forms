@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to register for a meditation workshop. 
-It's intended to gather information from potential attendees for the workshop. 
-The form is divided into four sections, each with its own specific fields and requirements. 
-This form is an AI-generated form for the meditation workshop registration process. 
-The form will be used to collect registration information, contact information, participant details, and any additional comments from potential attendees. 
-This guide will explain each section and field of the form in detail to help users understand what information is needed. 
-
-</thinking>
-
 # Meditation Workshop Registration Form - Help Guide
 ## Purpose
 The Meditation Workshop Registration Form is designed to collect information from potential attendees for a meditation workshop.

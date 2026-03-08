@@ -1,17 +1,3 @@
-<thinking>
-Before creating the help guide, I'll review the provided YAML fields to understand the form's purpose and structure. The form appears to be a "Military Warrior Registration" form, designed to collect personal information, service history, and emergency contact details from military personnel. 
-
-The form has multiple pages, each with different fields, including:
-
-1. Personal details (first name, last name, email, phone, date of birth, and military ID)
-2. Service history (service branch, years active, date of enlistment, and service history)
-3. Emergency contact (relationship, phone, email, address)
-
-The form is likely used for registration, verification, or other administrative purposes within the military or related organizations.
-
-Please let me know if I've correctly understood the form's purpose and structure.
-</thinking>
-
 # Military Warrior Registration - Help Guide
 ## Purpose
 The Military Warrior Registration form is designed for military personnel to provide their personal details, service history, and emergency contact information for administrative and verification purposes.

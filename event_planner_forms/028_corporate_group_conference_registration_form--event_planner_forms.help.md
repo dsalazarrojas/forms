@@ -1,7 +1,3 @@
-<thinking>
-This form is for planning and organizing a corporate group conference. It seems like this form could be used for internal purposes such as event planning within an organization. Before proceeding, please ensure that this form is not being duplicated or filled out for another event.
-
-</thinking>
 # corporate_group_conference_registration_form - Help Guide
 
 ## Purpose

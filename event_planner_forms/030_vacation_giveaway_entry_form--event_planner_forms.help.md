@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to gather information for a vacation-giveaway event. The form asks for entry information, contact methods, entry methods, and other details related to the event. This form should only be filled out by participants who are interested in entering the giveaway. Please note that this form does not collect personal identifiable information (PII) or sensitive information, and the form purpose is to facilitate entry into the giveaway event.</thinking>
-
 # vacation-giveaway-entry-form - Help Guide
 ## Purpose
 The "vacation-giveaway-entry-form" is designed to allow participants to enter the vacation-giveaway event by submitting their entry information, contact details, and other relevant details.

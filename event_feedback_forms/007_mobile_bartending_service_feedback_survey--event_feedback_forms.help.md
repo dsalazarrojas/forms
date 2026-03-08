@@ -1,5 +1,3 @@
-<thinking>As this form is used for collecting feedback on mobile bartending services, it is crucial to ensure that end-users understand its purpose and can complete it accurately. This form is designed to gather information about events that have taken place or are scheduled to take place, and the level of service quality provided by the mobile bartenders. This will help the company to improve its services and better understand customer needs. It is essential to review the form carefully to avoid duplication or misinterpretation of the data.</thinking>
-
 # Mobile Bartending Service Feedback Survey - Help Guide
 ## Purpose
 The Mobile Bartending Service Feedback Survey is used to gather information about events that have taken place or are scheduled to take place, and the level of service quality provided by the mobile bartenders. The feedback collected will help the company to improve its services and better understand customer needs.

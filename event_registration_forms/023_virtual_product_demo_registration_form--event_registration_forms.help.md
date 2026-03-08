@@ -1,8 +1,3 @@
-<thinking> 
-The purpose of this form is to register a virtual product demo event. This form is used for customers to provide details about a demo event they would like to attend. The form collects information about the new product being demoed, available slots for the demo, the scheduled time of the demo, and whether the customer would like to schedule an appointment during the demo event. It is likely that this form is used by sales or product teams to manage and schedule demos for potential customers.
-
-</thinking>
-
 # virtual_product_demo_registration_form - Help Guide
 ## Purpose
 This form is used to register for a virtual product demo event. To get started, click the "Submit" button below.

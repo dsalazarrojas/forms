@@ -1,14 +1,3 @@
-<thinking>
-We will be creating a help guide for the "Thrombosis Seminar Feedback Form" to help end-users understand its purpose, how to complete it, and what each field means.
-The form is designed to gather feedback from users about the thrombosis seminar they attended. This feedback will help us improve the seminar content and overall experience. To ensure that each user's feedback is unique and valuable, we will be using the following fields:
-
-*   **Name**: This field is used to collect the attendee's name. Please enter your first and last name to help us identify you correctly.
-*   **Department**: This field is used to determine which department you belong to. Please select your department from the provided options to ensure that we understand your perspective accurately.
-*   **Feedback**: Share your honest and detailed feedback about the seminar. This will help us identify areas of improvement and make the seminar better in the future.
-*   **Contact**: Please include your contact information so that we can reach out to you with any further questions or to follow up on your feedback.
-*   **Additional Info**: If you have any additional information or comments that you'd like to share with us, please provide them here.
-This guide aims to be as clear and concise as possible. However, if you need further clarification on any field, don't hesitate to ask us.
-</thinking>
 # Thrombosis Seminar Feedback Form - Help Guide
 
 ## Purpose

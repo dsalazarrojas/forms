@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to collect participant information for dance class waiver, including studio address, parent contact information, participant medical information, and participant consent.
-The form appears to be for a dance studio or school that requires waiver and consent from participants before they can attend a dance class.
-The fields on this form seem to be a mix of general participant information, emergency contact information, and medical information.
-</thinking>
-
 # Dance Class Waiver Form - Help Guide
 ## Purpose
 This form is designed to collect participant information and waiver for dance class attendance.

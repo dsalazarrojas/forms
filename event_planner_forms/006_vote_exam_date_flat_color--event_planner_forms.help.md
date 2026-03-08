@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a simple and user-friendly tool to help exam administrators create a flat color scheme for exams. It's designed to be completed by exam administrators to configure the visual appearance of exam dates. The form asks for the exam date, color scheme, majority choice, and other background settings.
-</thinking>
-
 # Vote Exam Date Flat Color - Help Guide
 ## Purpose
 This form is used to create a flat color scheme for exam dates. It allows you to select the exam date, color scheme, and other background settings for a visually appealing exam layout.

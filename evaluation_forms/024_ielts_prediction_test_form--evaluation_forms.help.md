@@ -1,12 +1,3 @@
-<thinking>... (internal reasoning block)
-
-The form purpose is for evaluating a student's IELTS test results.
-The form is designed to collect basic information about the student, including their name, test date, score, and test section results.
-The form is not intended to be used for any other purpose other than IELTS test result evaluation.
-We assume that the student has already taken the IELTS test and is now submitting their results.
-
-</thinking>
-
 # ielts_prediction_test_form - Help Guide
 ## Purpose
 This form is used to collect and evaluate IELTS test results from students. It helps to track student performance in each test section.

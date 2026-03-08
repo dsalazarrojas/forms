@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather essential information from individuals interested in planning an event, typically weddings, corporate events, birthday parties, conferences, private parties, or other types of events. The form is meant to be completed by individuals who want to get in touch with us for more information about our services and to inquire about potential collaboration. The information gathered through this form will allow us to better understand their needs and provide them with the most suitable solutions. Before proceeding, let's ensure that this form doesn't already exist for your purpose, and please do not fill out this form if you are an event planner looking to use the services of another organization or if you are not the actual event planner.
-</thinking>
-
 # Contact Form Rock Background - Help Guide
 
 ## Purpose

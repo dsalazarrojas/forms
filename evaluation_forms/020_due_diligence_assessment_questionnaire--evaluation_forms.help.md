@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for assessing a company's due diligence. It is used to gather information about a company's basic contact and entity details. The fields are organized in a logical order, starting with identifying the company and its contact information, followed by assessing its status and ownership structure. The form is intended to be completed by company representatives or their authorized agents.
-
-To ensure that all required fields are filled out, please review this form carefully before starting the assessment.
-
-Before proceeding, please note that some fields might be optional or have specific instructions. Please refer to the explanations below for further guidance.
-
-</thinking>
-
 # Due Diligence Assessment Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information about a company's due diligence.

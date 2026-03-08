@@ -1,7 +1,3 @@
-<thinking>
-The "Referral Form" is a form used for collecting information about a patient's referral to a healthcare provider. It is intended to be completed by a healthcare professional, such as a doctor or nurse, as part of the referral process. This form should only be used for referrals that are not already in the system, to prevent duplication of effort and data entry. Please ensure that you have checked the system for any existing referrals before completing this form.
-</thinking>
-
 # Referral Form - Help Guide
 ## Purpose
 The Referral Form is a tool used to collect and document information about a patient's referral to a healthcare provider. It is designed to ensure that all necessary information is gathered in a consistent and accurate manner.

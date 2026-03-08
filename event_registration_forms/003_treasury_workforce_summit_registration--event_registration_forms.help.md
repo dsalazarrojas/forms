@@ -1,12 +1,3 @@
-<thinking>
-The purpose of the "Treasury Workforce Summit Registration" form is to collect information from participants, hosts, and speakers for the Treasury Workforce Summit. This includes their first name, last name, email address, role, participation type, preferences, and other relevant details. The form also requires agreement from participants. 
-
-This form is intended for individuals who are interested in attending the summit, and the information collected will be used to finalize their registration. It's essential to provide accurate and complete information to ensure a smooth and enjoyable experience for all attendees.
-
-To avoid duplication, please ensure that you are not registering multiple times for the same event. If you have any questions or concerns, feel free to contact the event organizers.
-
-</thinking>
-
 # Treasury Workforce Summit Registration - Help Guide
 ## Purpose
 The "Treasury Workforce Summit Registration" form is designed to collect information from attendees, hosts, and speakers for the Treasury Workforce Summit. This form helps the event organizers to prepare for the event and ensure that all attendees have a smooth and enjoyable experience.

@@ -1,5 +1,3 @@
-<thinking>Before diving into the help guide for the Multipage Party Time Form, let's clarify its purpose and relevance. This form appears to be designed for planning and organizing party events, gathering details such as party details, host information, and other specifics. It's likely to be used by individuals or businesses hosting parties, such as birthday parties, weddings, or graduations. To ensure relevance, let's consider who the target audience might be - party hosts, event planners, or individuals responsible for planning social gatherings.</thinking>
-
 # Multipage Party Time Form - Help Guide
 ## Purpose
 The Multipage Party Time Form is designed to collect detailed information about party events, including party details, host information, and other relevant specifics. This form helps party hosts and planners gather necessary information to make their events successful and memorable.

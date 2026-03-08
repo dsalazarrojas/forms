@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from end users about their participation preferences for a tournament. The form is designed to be a simple and straightforward way to gather relevant details about the user's preferences. The form should be used by event organizers or administrators to collect this information from participants. I will check for relevance and duplication of forms in the field before providing the final output.
-
-</thinking>
-
 # Tournament Participation Preferences - Help Guide
 ## Purpose
 This form is designed to collect information from end users about their participation preferences for a tournament. It will help event organizers or administrators understand the preferences of participants, making it easier to organize and plan the event accordingly.

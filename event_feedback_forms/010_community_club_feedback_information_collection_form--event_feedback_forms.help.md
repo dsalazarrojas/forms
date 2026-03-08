@@ -1,9 +1,3 @@
-<thinking>
-As an expert form designer and technical writer, I understand the importance of creating a clear and concise user-facing help guide for the Community Club Feedback Information Collection Form. The purpose of this form is to collect feedback from members about their experience with the community club. This feedback will help the club understand what works well and what areas need improvement, enabling them to make data-driven decisions to better serve their members. It's essential to ensure that the form is easy to understand and complete, and that each field is properly explained to avoid confusion. By following this guide, members can provide valuable insights and suggestions to enhance their club experience.
-
-This guide will cover the following topics:
-</thinking>
-
 # Community Club Feedback Information Collection Form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from members about their experience with the community club. This feedback will help the club understand what works well and what areas need improvement.

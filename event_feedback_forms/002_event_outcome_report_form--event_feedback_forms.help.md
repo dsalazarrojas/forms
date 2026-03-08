@@ -1,5 +1,3 @@
-<thinking>**Internal Note:** This form is designed to collect feedback on events, gathering information on the outcome of the event, what the user liked, disliked, and any suggestions they may have. It is likely used to gauge the effectiveness and satisfaction of the event.</thinking>
-
 # Event Outcome Report Form - Help Guide
 ## Purpose
 The Event Outcome Report Form is a survey to collect feedback on events, gathering information on the outcome, likes, dislikes, and suggestions. This form helps event organizers and attendees understand what worked well and what could be improved.

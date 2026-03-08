@@ -1,15 +1,3 @@
-<thinking>
-
-This form is intended to evaluate the product development process of a company. It is meant to collect data on various aspects of the process, including project information, team details, and project status. This form is designed to help organizations assess their product development processes and identify areas for improvement.
-
-This form is not intended to replace any official company reporting or documentation processes. It is meant to supplement internal processes and provide an additional perspective on project management. 
-
-It is recommended that company managers and team members fill out this form to gain a deeper understanding of their project development processes. It can also be used as a tool to compare and contrast different projects and teams.
-
-The form's questions are designed to be straightforward and easy to understand. However, if you have any questions or concerns, please do not hesitate to reach out to the form's creators.
-
-</thinking>
-
 # Product Development Process Evaluation Form - Help Guide
 ## Purpose
 This form is designed to evaluate the product development process of a company. It aims to collect data on various aspects of the process, including project information, team details, and project status.

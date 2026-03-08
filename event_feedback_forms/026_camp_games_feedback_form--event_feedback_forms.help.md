@@ -1,16 +1,3 @@
-<thinking>
-The Camp Games Feedback Form is designed to collect input from participants after they have played games during a camp. It's essential to provide feedback on the games so that we can improve them for future camps. 
-
-Please make sure to complete this form only for games you have actually played, and avoid providing feedback on games you didn't play. 
-
-Before providing feedback, consider that some fields are optional, but it's crucial to fill in the required fields for us to understand the game better. 
-
-This form will help us evaluate the games and make improvements for the next camp. 
-
-Please be honest and provide as much detail as possible.
-
-</thinking>
-
 # Camp Games Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from camp participants about their experiences with the games. 

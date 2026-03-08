@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback and assessment from a housing manager. The purpose of this form is to evaluate the performance of a housing manager, providing a rating system for overall performance, leadership, communication, and teamwork. The ratings and comments will be used to assess the manager's strengths and weaknesses, helping to identify areas for improvement.
-This form is intended for internal use within the organization and should only be filled out by authorized personnel. Please note that this form is not intended for external use and any sensitive information should be handled with caution.
-To ensure accurate and consistent data, please do not duplicate the effort of filling out this form. If you've already filled out this form for the same manager, please do not submit a new one.
-</thinking>
-
 # housing_manager_assessment_form - Help Guide
 ## Purpose
 The housing_manager_assessment_form is designed to collect feedback and assessment from a housing manager. This form will help assess the manager's performance, leadership, communication, and teamwork skills.

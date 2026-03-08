@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback from students who have attended a transfer fair event. The purpose of this form is to gather information about the student's experience at the event, including whether they attended, the date and time of the event, their overall experience, and any feedback they may have. This form is intended to be completed by students who attended the event, and the feedback collected will be used to improve future events. 
-This form will not ask for any personally identifiable information (PII) of the students. All the fields are optional, and the student can choose not to fill up any field if they do not have any information for that particular field. 
-The form has a lot of fields, but most of them are just asking for information about the event and the student's experience. If you are not sure about any field or have any confusion, please refer to this guide to clarify your doubts.
-</thinking>
-
 # Student Transfer Fair Feedback - Help Guide
 ## Purpose
 

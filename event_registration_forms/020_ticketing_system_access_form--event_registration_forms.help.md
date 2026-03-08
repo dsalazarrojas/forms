@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to allow users to access the ticketing system for events. The form is designed to collect information from users to determine their eligibility to access the ticketing system. The form will be used to filter users who are eligible to access the system based on their responses. To complete this form, users will select whether they are registering for an event, provide their name, email, phone number, and event type (if applicable). Users will also be asked to select the event start and end times. If the user is registering for a session, meeting, or conference, they will be required to provide the ticket price. The user will not be required to provide their phone number.
-</thinking>
-
 # Ticketing System Access Form - Help Guide
 ## Purpose
 This form is used to grant access to the ticketing system for eligible users.

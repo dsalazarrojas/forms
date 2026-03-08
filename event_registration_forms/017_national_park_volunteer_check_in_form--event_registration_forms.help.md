@@ -1,5 +1,3 @@
-<thinking>Since this form is used for checking in and out National Park volunteers, it's crucial to ensure that all necessary information is accurate and up-to-date. To prevent any errors, please verify that each field is filled in correctly. If you are not sure about any field, please refer to your volunteer manual or contact your supervisor for guidance.</thinking>
-
 # National Park Volunteer Check In Form - Help Guide
 ## Purpose
 This form is used to track the check-in and check-out of National Park volunteers. It captures essential information about the volunteer, their shift, and their activities during their shift.

@@ -1,19 +1,3 @@
-<thinking>
-The form purpose is to collect information for a graduation ceremony invitation. The form is meant to gather details about the ceremony, the graduate, and the invitation design to create a personalized and official invitation.
-
-This form is designed to be simple and easy to complete, with the main fields asking for the following information:
-- Ceremony details, including the date and time.
-- Graduate details, including their name and other relevant information.
-- Invitation design preference, choosing between a graduation cap and gown, invitation card, or certificate.
-- Additional event details, such as any specific instructions or requests.
-- Contact details, including phone number and email.
-
-The form is not meant to be filled out by the graduate themselves, but rather by someone else on their behalf, likely a school administrator or a parent/guardian.
-
-The form is not a complex or time-consuming form, and it is meant to be completed quickly and easily.
-
-The fields are self-explanatory and should not require much explanation or guidance to complete.</thinking>
-
 # Graduation Ceremony Invitation Form - Help Guide
 ## Purpose
 This form is designed to collect information for a graduation ceremony invitation. The purpose is to gather details about the ceremony, the graduate, and the invitation design to create a personalized and official invitation.

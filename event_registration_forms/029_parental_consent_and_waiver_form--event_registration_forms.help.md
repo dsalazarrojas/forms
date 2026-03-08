@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Parental Consent And Waiver Form - Help Guide
 
 ## Purpose

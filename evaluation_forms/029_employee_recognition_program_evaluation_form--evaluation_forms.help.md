@@ -1,12 +1,3 @@
-<thinking> 
-This form is used to evaluate an employee's recognition program. The purpose of this form is to gather feedback from employees on the effectiveness and effectiveness of the recognition program, providing insights to management on areas of improvement and suggestions for enhancement. This form will help identify strengths and weaknesses of the program, allowing managers to make data-driven decisions to optimize the program.
-
-Before filling out this form, please ensure you have all necessary information and permissions to complete it accurately. Duplicate entries are not recommended as they may cause discrepancies in data collection.
-
-This guide assumes you have access to the correct information and resources required to fill out this form. If you are unsure about any question or field, please consult with your manager or supervisor for guidance. 
-
-</thinking>
-
 # employee_recognition_program_evaluation_form - Help Guide
 ## Purpose
 The employee_recognition_program_evaluation_form is designed to gather feedback from employees on the effectiveness and effectiveness of the recognition program. This form helps management identify areas of improvement and suggestions for enhancement.

@@ -1,12 +1,3 @@
-<thinking>
-The purpose of the "Activity Evaluation Form" is to gather feedback from students on their experiences and perceptions of a learning activity. This form aims to assess the effectiveness and quality of the activity, providing valuable insights for instructors and educational professionals to improve future learning experiences. By filling out this form, you will be helping to contribute to the development and refinement of educational materials and practices.
-
-This form is designed to be completed by students who have participated in a learning activity. It is not intended to be used for other purposes, such as creating new forms or collecting data for research projects. If you are not a student or have not participated in the learning activity, please do not fill out this form.
-
-Please note that this form is an original adaptation created by AI, using only public survey topic metadata as inspiration. It does not copy, extract, or use proprietary content from any form creation, data collection, or survey platform.
-
-</thinking>
-
 # Activity Evaluation Form - Help Guide
 ## Purpose
 The "Activity Evaluation Form" is designed to gather feedback from students on their experiences and perceptions of a learning activity. This form will help instructors and educational professionals to improve the effectiveness and quality of future learning activities.

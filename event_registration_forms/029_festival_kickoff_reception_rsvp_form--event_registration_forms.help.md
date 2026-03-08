@@ -1,7 +1,3 @@
-<thinking>
-This guide will cover the "Festival Kickoff Reception RSVP Form" in detail. The form is used to register attendees for a festival kickoff reception, gathering information about their name, guest information, contact details, and preferences for the event.
-</thinking>
-
 # Festival Kickoff Reception RSVP Form - Help Guide
 ## Purpose
 The Festival Kickoff Reception RSVP Form is designed to collect information about attendees for the festival kickoff reception. This form will help us ensure an accurate headcount, gather contact details, and confirm event preferences.

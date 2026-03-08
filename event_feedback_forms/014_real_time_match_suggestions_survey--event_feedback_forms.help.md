@@ -1,6 +1,3 @@
-<thinking> 
-To determine the form's purpose and ensure it only displays relevant information, I'll review the provided YAML structure. The form has multiple pages, but the only property that seems to be relevant is the "pages" section. It only contains one page with the "id" of 1, which is "event_feedback_forms". This form appears to be a simple feedback form related to events, and it might be intended to collect feedback from users or attendees. The fields provided seem to be general and not necessarily specific to a particular event. To confirm, I'll assume that this form is meant to be a generic feedback mechanism. If you want to add more specific fields, please let me know.</thinking>
-
 # Real Time Match Suggestions Survey - Help Guide
 ## Purpose
 The Real Time Match Suggestions Survey is a form used to collect feedback on events, aiming to improve the overall experience and provide better matches. Please take a few minutes to fill out this form to help us understand your thoughts and preferences.

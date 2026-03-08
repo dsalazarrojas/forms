@@ -1,33 +1,3 @@
-<thinking>
-We need to determine the purpose and relevance of this form. Let's analyze the input schema:
-
-This form is a "Trading Company Evaluation Survey". Based on the fields provided, it seems to be a form for customers or partners to evaluate a company's performance, services, or products. The form likely aims to gather feedback and ratings on various aspects of the company. 
-
-The form appears to be a one-page survey with fields for:
-
-1. Company Name (required: false)
-2. Evaluation Date (required: false)
-3. Rating (Select One: Excellent, Good, Fair, Poor) (required: false)
-4. Rating Comment (optional)
-5. Satisfaction Score (Number) (optional)
-6. Satisfaction Comment (optional)
-7. Would Recommend (Select Multiple: True, False, Maybe) (optional)
-8. Why Would You Recommend (optional)
-9. Feedback (optional)
-10. Company Contact (optional)
-
-The fields can be divided into three categories:
-
-- **Company Information (1-2)**: Company Name and Evaluation Date.
-- **Performance Evaluation (3-4)**: Rating and Rating Comment.
-- **Satisfaction (5-6)**: Satisfaction Score and Satisfaction Comment.
-- **Recommendation (7-8)**: Would Recommend and Why Would You Recommend.
-- **General Feedback (9-10)**: Feedback and Company Contact.
-
-The form seems to be designed for collecting feedback and ratings on a company's performance, which can be useful for the company to improve its services or products.
-
-</thinking>
-
 # Trading Company Evaluation Survey - Help Guide
 ## Purpose
 

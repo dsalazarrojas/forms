@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from participants registering for an event, specifically a contest. The purpose of this form is to gather relevant details from participants, including their personal and contact information, as well as their preferences and waiver agreement. This form ensures that all necessary information is collected correctly, and in the right format, to facilitate smooth registration and participant management.
-The form is divided into several sections, each with clear headings and labels, making it easy to navigate through. Each section focuses on a specific aspect of the registration process. For instance, the "Registration Details" section captures basic participant information, while the "Participant Details" section is used to collect age-related information.
-The required fields are highlighted as such to ensure that all participants provide the necessary details for a successful registration. The form also allows for optional fields that provide additional context or details that can be useful for the organizers.
-</thinking>
-
 # Contest Registration Form - Help Guide
 ## Purpose
 This form is used to register participants for contests or events. It collects personal, contact, and waiver agreement information, ensuring a smooth and efficient registration process.

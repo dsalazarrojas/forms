@@ -1,10 +1,3 @@
-<thinking>
-This form is for evaluating the summer camp experience. It is not for general feedback or complaints. This form is meant to collect specific, constructive feedback on the quality of the summer camp program. To ensure the form is useful, please provide thoughtful and detailed responses. 
-
-Also, please note that this form is not a duplicate of other evaluation forms used in the camp, and you are providing feedback specifically about the summer camp experience. 
-
-</thinking>
-
 # Summer Camp Evaluation Form - Help Guide
 ## Purpose
 This form is used to gather feedback on the quality of the summer camp program.

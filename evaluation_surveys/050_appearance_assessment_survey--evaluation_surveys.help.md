@@ -1,9 +1,3 @@
-<thinking>... 
-
-To create a user-facing help guide for this form, I will follow the provided YAML fields and create a clear and concise guide for end-users to understand the form purpose and how to complete it. 
-
-</thinking>
-
 # Appearance Assessment Survey - Help Guide
 ## Purpose
 This survey is designed to assess the appearance of services provided by our specialists, such as hair styling, nail services, skin treatments, and makeup applications. The purpose of this survey is to gather feedback on the services provided, including overall satisfaction, cleanliness, and professionalism. This feedback will help us improve our services and better serve our clients in the future.

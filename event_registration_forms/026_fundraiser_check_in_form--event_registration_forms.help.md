@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fundraiser Check In Form - Help Guide
 ## Purpose
 The Fundraiser Check In Form is used to collect information from event attendees, organizers, and fundraisers for the purpose of tracking event participation and goals.

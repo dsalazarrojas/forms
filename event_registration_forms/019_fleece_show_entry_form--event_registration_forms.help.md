@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from exhibitors for a Fleece Show event. The purpose of this form is to gather data about the exhibitors, including their name, animal information, and details about the fleece show. This form is designed to be completed by exhibitors to register for the Fleece Show event. Please note that this form has 3 fields in total: exhibitor, animal info, and fleece show info, all of which are optional.
-</thinking>
-
 # Fleece Show Entry Form - Help Guide
 ## Purpose
 The Fleece Show Entry Form is designed to gather information from exhibitors for a Fleece Show event.

@@ -1,8 +1,3 @@
-<thinking>
-Internal reasoning to check if the form is relevant and non-duplicate:
-The form, "film_pitch_presentation_booking_form", is intended for booking film pitch presentations, which involves selecting and scheduling a presenter for a film pitch. The form has multiple fields for capturing detailed information about the presenter, project, and booking details. The fields include a mix of text, select options, and date/time fields, indicating that it requires specific data from the user. The form has 25 fields in total.
-</thinking>
-
 # film_pitch_presentation_booking_form - Help Guide
 ## Purpose
 The film pitch presentation booking form is used to schedule and book presenters for film pitch presentations. This form helps to collect information about the presenter, project, and booking details, making it easier to manage and process film pitch presentations.

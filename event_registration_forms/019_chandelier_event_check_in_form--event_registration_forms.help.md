@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to gather information about attendees for events managed by the Chandelier organization. It appears to be used for check-in purposes, likely to track guest attendance, their registration status, and any special requirements or accommodations they may need. The form seems to be relevant to a wide range of events, including conferences, workshops, and conferences with VIP or special guests. It's likely that this form will be used by event staff to efficiently manage the check-in process and ensure that all guests are accounted for and have received necessary materials or information.
-</thinking>
-
 # Chandelier Event Check In Form - Help Guide
 
 ## Purpose

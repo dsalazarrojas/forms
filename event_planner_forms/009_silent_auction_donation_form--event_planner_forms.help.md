@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect information from donors for a silent auction event, including their full name, email, amount of donation, description of the donation, type of donor (individual, business, or organization), and type of donation (prize, gift, or grant). The form will help the event organizers to contact the donor and follow up with them after the event.
-
-Before filling out this form, ensure you have checked if there are any other forms with the same purpose that are already in progress. Repeatedly filling the same form with the same information can lead to duplicated data and unnecessary work for the organizers.
-
-</thinking>
-
 # Silent Auction Donation Form - Help Guide
 ## Purpose
 This form is used to collect information from donors for a silent auction event.

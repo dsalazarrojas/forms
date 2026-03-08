@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Art Gallery Visitor Preference Check In - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # <string> - Help Guide
 ## Purpose
 The Event Registration Form is a crucial tool used to document and organize events. This form captures essential information about events, including details about event organizers, participants, and emergency procedures. The form is designed to ensure accurate and comprehensive data collection, facilitating effective event management and planning.

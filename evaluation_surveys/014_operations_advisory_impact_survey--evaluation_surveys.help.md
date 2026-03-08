@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is for collecting feedback on the impact of various teams and team leads on operations. It is designed to help understand the effectiveness of each team's engagement and the perceived impact they have on the organization. The form is meant to be completed by team members and team leads, and should only be filled out once. 
 
 To ensure consistency and avoid duplicate entries, please check the form's "id" field (located at the top right corner of the form) to see if it has already been completed. If it has, please do not re-fill it out.

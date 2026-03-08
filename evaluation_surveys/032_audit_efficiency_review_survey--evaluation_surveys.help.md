@@ -1,7 +1,3 @@
-<thinking>
-The "Audit Efficiency Review Survey" form is designed to measure the effectiveness of audit processes, identifying areas for improvement and providing recommendations for increased efficiency. This form collects data on various aspects of the audit process, such as staff efficiency, technology effectiveness, communication, process streamlining, and overall efficiency. The purpose of this survey is to help management identify potential bottlenecks and opportunities for cost-saving and process optimization. Before starting, please ensure this is not a duplicate effort and that you are authorized to participate in this survey.
-</thinking>
-
 # Audit Efficiency Review Survey - Help Guide
 ## Purpose
 The "Audit Efficiency Review Survey" is a tool for evaluating the efficiency of audit processes, aiming to improve the effectiveness of audit staff, processes, and overall audit efficiency. The survey covers various aspects of the audit process, providing a comprehensive evaluation of strengths and weaknesses.

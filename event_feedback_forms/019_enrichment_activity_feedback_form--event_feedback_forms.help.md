@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from participants and event organizers regarding the enrichment activities conducted during events. This form ensures that the feedback is collected in a structured manner, helping to identify areas of improvement and areas of success. It's essential that only relevant and unique feedback is submitted, as it will help in creating more effective and enjoyable events for all participants. Please ensure that you only submit feedback that is specific to the event you participated in and not for any other event.
-</thinking>
-
 # Enrichment Activity Feedback Form - Help Guide
 ## Purpose
 The Enrichment Activity Feedback Form is designed to collect feedback from participants and event organizers on the effectiveness and enjoyment of enrichment activities conducted during events. This feedback will help in identifying areas of improvement and successes.

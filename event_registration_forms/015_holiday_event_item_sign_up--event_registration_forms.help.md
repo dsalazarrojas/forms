@@ -1,8 +1,3 @@
-<thinking>
-This form is a Holiday Event Item Sign Up form, likely for an office holiday party or event. It collects information about the items people plan to bring, their contact details, and any special requests or dietary needs. This form is intended to be completed by individuals planning to attend the event, to help the organizers plan the food and drinks. It's essential to fill out this form accurately and thoroughly to ensure that everyone's needs are met and there's a good distribution of items.
-
-Before filling this form, please make sure you have not already signed up for the same items or events. It's a good idea to check the list of existing sign-ups to avoid duplication and ensure that everyone brings something different.
-</thinking>
 # Holiday Event Item Sign Up - Help Guide
 ## Purpose
 The Holiday Event Item Sign Up form is designed to help you sign up to bring or contribute items to the holiday party. Please fill out this form accurately to ensure everyone's needs are met.

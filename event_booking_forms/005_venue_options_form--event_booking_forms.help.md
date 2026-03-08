@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information about venue options for an event. The purpose of this form is to gather data from users to provide a comprehensive understanding of the venue options. This form will be used to collect venue-specific details such as name, address, indoor and outdoor amenities, event costs, payment type, and contact information. This form is a crucial part of the event planning process and will help event planners make informed decisions.
-
-To ensure data accuracy and consistency, users should only fill out this form once per venue, and make sure to review and update information if any changes occur. 
-
-</thinking>
-
 # Venue Options Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about venue options for an event. This form is used to gather data from users to provide a comprehensive understanding of the venue options.

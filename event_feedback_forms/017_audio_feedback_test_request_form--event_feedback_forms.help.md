@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information from users requesting audio feedback tests for their venues or events. The primary goal is to gather details about the testing process, including the type of test needed, the equipment being tested, and the preferred date and time for the test. This form helps technicians understand the specific needs and constraints of the user, ensuring that the testing process is efficient and effective.</thinking>
-
 # Audio Feedback Test Request Form - Help Guide
 ## Purpose
 The Audio Feedback Test Request Form is used to collect information from users requesting audio feedback tests for their venues or events. The form helps technicians understand the specific needs and constraints of the user, ensuring that the testing process is efficient and effective.

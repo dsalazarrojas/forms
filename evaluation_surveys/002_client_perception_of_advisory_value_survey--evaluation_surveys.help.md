@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-# Client Perception Of Advisory Value Survey - Help Guide
+> # Client Perception Of Advisory Value Survey - Help Guide
 
 ## Purpose
 

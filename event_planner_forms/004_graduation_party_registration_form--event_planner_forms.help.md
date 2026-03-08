@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who are interested in attending a graduation party. It captures essential details such as name, contact number, email, and RSVP type, as well as additional information like graduation date, number attending, and graduation class. This form helps event organizers to track and manage RSVPs efficiently. 
-To avoid duplication of effort, please ensure that you're not registering multiple times if you're planning to attend the same graduation party.
-</thinking>
-
 # Graduation Party Registration Form - Help Guide
 ## Purpose
 The Graduation Party Registration Form is designed to collect information from individuals who are interested in attending a graduation party. This form is used by event organizers to track and manage RSVPs, ensuring a smooth and well-organized event.

@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information from attendees to a rental market reform session, allowing them to register their interest in the session and provide details about their attendance. This form helps the session organizers to manage attendee details, including any schedules or registries they may have for the session. The form is designed to be completed by individuals who want to attend or are already attending the session. The form is not affiliated with any specific survey or form platform, and its purpose is to facilitate communication between attendees and the session organizers. To ensure accuracy, please review each field carefully and provide correct information. If you've already registered for this session, please do not duplicate your registration. Please do not submit duplicate entries, as this may cause confusion and affect the session's organization.
-</thinking>
-
 # Rental Market Reform Session Registration - Help Guide
 ## Purpose
 This form is designed to help session attendees register their details and provide feedback on their attendance. It's a simple and straightforward way to collect information from attendees and ensure a smooth experience for all.

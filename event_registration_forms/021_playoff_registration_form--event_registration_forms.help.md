@@ -1,12 +1,3 @@
-<thinking>
-This form is for the purpose of registering a player and team for a game. This is a common scenario where an individual and their team are looking to participate in a playoff match. 
-
-This form has been designed to collect necessary information about the player and team in order to facilitate registration for the game. 
-
-Please ensure that only one registration per player/team is made to avoid duplicate entries.
-
-</thinking>
-
 # Playoff Registration Form - Help Guide
 ## Purpose
 The Playoff Registration Form is designed to collect information required for a player and their team to register for a game. 

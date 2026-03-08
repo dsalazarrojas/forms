@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from attendees of virtual conferences to gauge their experience and satisfaction with the event. It's designed to be completed by attendees, not speakers or organizers. The form helps us understand what worked well and what didn't, which can inform improvements for future events.
-</thinking>
-
 # virtual_conference_attendee_feedback_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from attendees of virtual conferences, enabling us to understand their experience and satisfaction with the event.

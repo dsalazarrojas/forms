@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect information from customers who are interested in preordering crawfish. The form has 8 pages, each with a different set of fields. The form is not affiliated with any form platform and is an original adaptation of public survey metadata. It is released under CC BY 4.0 license, allowing users to use, modify, and even sell forms derived from it while giving credit. 
-
-Before proceeding, ensure that the form's purpose and content are relevant to your needs. If you are not sure or have any doubts, please refer to the form's metadata or contact form@gic.mx. 
-
-The form's content is intended to be used for preordering crawfish, but if you are unsure about any field or its purpose, please provide your feedback to help improve the form and its explanation.
-
-Please note that the form has multiple fields, each with a different label and purpose. This guide will help you understand each field's meaning and complete the form correctly.</thinking>
-
 # crawfish_preorder_form - Help Guide
 ## Purpose
 This form is designed to collect information from customers who are interested in preordering crawfish.

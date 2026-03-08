@@ -1,10 +1,3 @@
-<thinking> 
-This form is designed for patrons to RSVP for an exclusive preview event. It is intended for event organizers to collect relevant information from guests, including event details and special requests. To complete this form, please ensure you are registering for the correct event and provide accurate information for each field. 
-
-Note: This form is not intended for general event registration. If you are not sure whether this event is for you, please contact the event organizer.
-
-</thinking>
-
 # exclusive_preview_patron_rsvp - Help Guide
 ## Purpose
 This form is for patrons to RSVP for an exclusive preview event. Please fill out the form accurately to provide the necessary information for event organizers.

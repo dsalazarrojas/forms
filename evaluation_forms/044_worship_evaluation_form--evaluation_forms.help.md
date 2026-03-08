@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a form called "Worship Evaluation Form" that will be used to evaluate the quality of worship performances. This form appears to be used to collect opinions on various aspects of the performance, including musical excellence, atmosphere, and comments. The form seems to have multiple questions that ask for numerical ratings and text-based feedback. We should ensure that the guide explains each field in a clear and concise manner, avoiding any assumptions or jargon that might confuse the user. We should also provide tips on how to complete the form effectively.
-</thinking>
-
 # Worship Evaluation Form - Help Guide
 ## Purpose
 The Worship Evaluation Form is a tool used to collect feedback and opinions on worship performances. It helps us understand the quality of the performances and make improvements for future events.

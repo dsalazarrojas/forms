@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and evaluation data from various stakeholders, project team members, and interviewees. It aims to gather information on their views and perceptions on a specific project or initiative. This form will help in understanding the project's strengths, weaknesses, and areas for improvement.
-
-To avoid duplication of effort, ensure that this form is used for collecting feedback on a single project or initiative at a time. This will help in keeping the data organized and easy to analyze.
-
-Before proceeding, please ensure that you have the necessary permissions and approvals to collect this information. Also, be honest and accurate in your responses as this information will be used to improve the project or initiative.
-
-</thinking>
-
 # Focus Group Questionnaire - Help Guide
 
 ## Purpose

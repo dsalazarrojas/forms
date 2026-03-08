@@ -1,7 +1,3 @@
-<thinking>
-This form is primarily designed for registrants to provide their personal information, particularly their name, contact details, and demographic data (date of birth). The form will likely be used for networking purposes, allowing attendees to connect with each other based on shared interests and demographics. To prevent duplicate registrations, it's essential to ensure that each field is filled out correctly and consistently. This form should only be used for networking events related to doulas (birth attendants or birth professionals).
-</thinking>
-
 # Doula Networking Event Registration - Help Guide
 ## Purpose
 The Doula Networking Event Registration form is designed for registrants to provide their personal information and demographic details to facilitate networking opportunities at doulas-related events.

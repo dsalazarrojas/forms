@@ -1,7 +1,3 @@
-<thinking>
-This form is used to assess the effectiveness of a panel discussion. It helps event organizers and attendees evaluate the performance of the speakers and provide feedback on the overall experience. The form is used to collect feedback and identify areas for improvement. It is essential to ensure that all required fields are completed to provide a comprehensive assessment.
-</thinking>
-
 # Panel Discussion Effectiveness Assessment Form - Help Guide
 ## Purpose
 The Panel Discussion Effectiveness Assessment Form is a tool used by event organizers and attendees to evaluate the performance of speakers and provide feedback on the overall event experience.

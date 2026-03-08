@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from choirs and ensembles that want to participate in the Community Choral Festival. It's intended for festival organizers to collect relevant details about the participating groups, including their performance preferences, requirements, and contact information. This form will be used to manage the festival entries and ensure a smooth organization process. Please make sure to complete the form accurately and thoroughly, as it will help us to better serve you and your group. Also, ensure that you don't duplicate entries, as this will cause confusion and affect the festival's scheduling and organization.
-</thinking>
-
 # Community Choral Festival Tournament Entry Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from choirs and ensembles that want to participate in the Community Choral Festival. This form is used to manage the festival entries, schedule performances, and ensure a smooth organization process.

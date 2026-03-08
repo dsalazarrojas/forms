@@ -1,10 +1,3 @@
-<thinking> 
-This form is used to request a waiver for a construction project. It is used to track and manage waiver requests, including the project start date, department, employees involved, manager, and waiver status. The form is used to ensure that all relevant information is collected and tracked for the waiver process.
-
-To complete this form, you will need to select the appropriate options from the provided fields. Each field is described below:
-
-</thinking>
-
 # Waiver Request Form - Help Guide
 ## Purpose
 

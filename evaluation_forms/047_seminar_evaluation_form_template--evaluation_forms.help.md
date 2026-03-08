@@ -1,7 +1,3 @@
-<thinking>
-This is a form for evaluating seminars, conferences, or events. The purpose of this form is to gather user feedback about the seminar's content, presentation, and overall organization. The form is meant to be completed by attendees after the seminar has ended, to provide valuable insights for the organizers and speakers.
-</thinking>
-
 # Seminar Evaluation Form Template - Help Guide
 ## Purpose
 This form is designed to collect feedback from attendees about the seminar they attended. It's essential to provide accurate and honest opinions to help organizers and speakers improve future events.

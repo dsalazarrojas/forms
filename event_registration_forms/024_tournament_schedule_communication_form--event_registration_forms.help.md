@@ -1,12 +1,3 @@
-<thinking>
-Are we sure we've captured the essence of this tournament schedule communication form? Let's break it down. This form likely serves as a communication tool for scheduling information about a tournament, where users can input details like the date, time, location, and status of the event. It's probably used by event organizers or coordinators to keep track of and share schedules with relevant parties. The form might be used in sports, events, or any other context where recurring or one-time tournaments need to be communicated to an audience.
-
-We should double-check that we haven't created a similar form before. If this form is a rework or a copy of an existing form, we should revisit our design choices and make sure we're not duplicating effort.
-
-Let's assume this form is an original creation, and we'll proceed with creating the help guide.
-
-</thinking>
-
 # tournament_schedule_communication_form - Help Guide
 ## Purpose
 The tournament schedule communication form is designed to gather and share important information about a tournament, including its schedule, status, and details.

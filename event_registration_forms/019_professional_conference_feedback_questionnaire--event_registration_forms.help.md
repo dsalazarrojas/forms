@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from attendees of a professional conference. The purpose of this form is to help organizers of the conference understand what attendees liked or disliked about the event, what they thought of the content, speakers, and facilities, and what they would like to see improved in future conferences. This information will help organizers make informed decisions about future events. To ensure that the form is helpful and relevant, please only fill out the sections that apply to your experience. If you have any additional feedback or suggestions, please include them in the "Additional feedback" section. If you are interested in future events of this type, please select "Yes" under the "Are you interested in this type of event?" section. Please note that your feedback is anonymous and will help us improve future conferences.
-</thinking>
-
 # Professional Conference Feedback Questionnaire - Help Guide
 
 ## Purpose

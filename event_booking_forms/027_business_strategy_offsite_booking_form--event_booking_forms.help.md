@@ -1,7 +1,3 @@
-<thinking>
-We will create this form for a company that needs to book a strategy offsite for their team. This form will collect information about the company's preferences, requirements, and goals for the offsite. We will use the information gathered from this form to ensure that the offsite is tailored to the company's needs and that the space is set up accordingly.
-
-The form will be used by company organizers to submit their requests for offsite booking. The information collected will be used to determine the feasibility of the booking request and to communicate with the company about the availability of the space and other logistical details.</thinking>
 # Business Strategy Offsite Booking Form - Help Guide
 ## Purpose
 This form is used to submit a request for booking a business strategy offsite for your organization. Please fill out the form with your company's details and preferences to help us tailor the offsite to your needs.

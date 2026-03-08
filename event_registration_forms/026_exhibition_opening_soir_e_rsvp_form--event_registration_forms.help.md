@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed for guests to RSVP (Respond to a Social Signal) to the "Exhibition Opening Soirée" event. The purpose of the form is to collect information from guests about their interest in attending the event, their guest details, and any additional comments or contact information. To complete the form, follow the steps below.
 
 ## Purpose

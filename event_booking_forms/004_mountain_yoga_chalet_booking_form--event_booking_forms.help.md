@@ -1,7 +1,3 @@
-<thinking>
-The Mountain Yoga Chalet Booking Form is used to collect information from guests for their stay at the chalet. The form is used to record the guest's details, room preferences, and booking status. This form is likely used by the chalet's management or staff to manage bookings and communicate with guests.
-</thinking>
-
 # Mountain Yoga Chalet Booking Form - Help Guide
 ## Purpose
 The Mountain Yoga Chalet Booking Form is used to collect information from guests for their stay at the chalet.

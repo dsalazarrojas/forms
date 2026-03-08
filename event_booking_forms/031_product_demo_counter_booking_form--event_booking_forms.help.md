@@ -1,9 +1,3 @@
-<thinking>
-This form is a product demo counter booking form, which is designed to collect product demonstration and contact preferences from customers or potential customers.
-The form is likely used in a business-to-business (B2B) or business-to-consumer (B2C) setting, where a company showcases products or services through demonstrations or trials.
-The form may be used in industries such as software as a service (SaaS), product sales, or marketing demonstrations.
-</thinking>
-
 # product_demo_counter_booking_form - Help Guide
 ## Purpose
 This form is designed to collect product demonstration and contact preferences from customers or potential customers to facilitate the demonstration process and follow-up on customer interests.

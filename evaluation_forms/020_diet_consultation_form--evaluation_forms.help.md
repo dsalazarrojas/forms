@@ -1,5 +1,3 @@
-<thinking>As we design forms, it's essential to ensure that end-users understand the purpose and structure of the form. This guide will walk through the Diet Consultation Form, explaining its purpose, how to complete it, and what each field means.</thinking>
-
 # Diet Consultation Form - Help Guide
 ## Purpose
 The Diet Consultation Form is designed to gather information from users about their dietary preferences, health conditions, and other relevant details to help healthcare professionals provide personalized diet recommendations.

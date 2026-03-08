@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from home visits made by teachers to students' homes. This form is used to gather data on the parent's and teacher's feedback, evaluation, and ratings of the visit. The form collects data on various aspects of the visit, including feedback, rating, evaluation, and comments from both the parent and teacher sides.
-
-The purpose of this form is to ensure that teachers are gathering accurate and thorough data on every home visit, and to track progress and improvements made by teachers.
-
-Please ensure that you have the necessary permissions to access this form.
-
-</thinking>
-
 # home_visit_evaluation_form - Help Guide
 
 ## Purpose

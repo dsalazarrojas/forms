@@ -1,7 +1,3 @@
-<thinking>
-The "Indemnity Waiver Form" is a crucial document that protects the event planner, venue, or activity provider from liability in case of an injury or accident during an event. It is essential to have this form filled out correctly and signed by all participants to ensure the event planner's or provider's legal protection. Please ensure that this form is filled out accurately and honestly, and if you are unsure about any field, please reach out to your event planner or activity provider for clarification.
-</thinking>
-
 # Indemnity Waiver Form - Help Guide
 ## Purpose
 The "Indemnity Waiver Form" is a document that protects event planners, venues, or activity providers from liability in case of an injury or accident during an event.

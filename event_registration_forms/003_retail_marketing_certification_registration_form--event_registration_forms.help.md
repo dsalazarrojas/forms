@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to gather information for retail marketing certification registration. The purpose of this form is to register individuals for a retail marketing certification program. The form will ask for contact information (name, email, phone, address, city, and state), demographic information (certification level, program type, program date, program time, program start date, and program end date), payment method (payment method), payment amount, and certification details (certification date, certified by, status, notes, certification number).
-
-To avoid duplication of efforts, please do not register if you have already registered for the certification program in the past.
-
-Before filling out this form, please review the provided options for each field. If you are unsure about any field, please feel free to ask.
-
-Please note that some fields might be optional, but providing accurate and complete information will help us to process your registration efficiently.
-</thinking>
-
 # Retail Marketing Certification Registration Form - Help Guide
 ## Purpose
 This form is designed to gather information for retail marketing certification registration.

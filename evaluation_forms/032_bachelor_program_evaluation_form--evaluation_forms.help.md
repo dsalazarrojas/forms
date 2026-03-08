@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect evaluations of Bachelor Program Evaluation Form. This form is intended to be used by evaluators to provide feedback on various aspects of a bachelor's program, including student name, program name, evaluation period, curriculum relevance, teaching quality, academic support services, resources and facilities, career services, overall satisfaction, and additional comments. To avoid duplication, please ensure that you are completing this form for a program that has not been previously evaluated.
-
-Please keep in mind that this form is a tool to collect data and feedback, and your input will help us improve the program. Your participation is greatly appreciated.
-
-</thinking>
-
 # Bachelor Program Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect evaluations of bachelor's programs to help us better understand their strengths and weaknesses.

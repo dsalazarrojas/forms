@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to be a simple tool for volunteer coordinators to register for training programs. The form is intended to collect contact information and training preferences from volunteer coordinators. It is likely used in a volunteer management context where volunteers need to be trained on various aspects of their roles.
-
-The form has several fields that ask for basic contact information (name, email, phone number) and specific training preferences (location, date, time). The form is likely to be used by volunteer coordinators to provide training sessions for volunteers, and the information collected will help in organizing and coordinating the training sessions.
-
-This form seems to be a standard form used across the organization, and it's essential to understand its purpose and usage to ensure consistency in data collection.
-
-</thinking>
-
 # Volunteer Coordinator Training Form - Help Guide
 ## Purpose
 The Volunteer Coordinator Training Form is a tool used to register volunteer coordinators for training programs. It helps in collecting contact information and training preferences from volunteer coordinators.

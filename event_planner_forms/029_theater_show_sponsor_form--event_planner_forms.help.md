@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from potential sponsors for a theater show event. The purpose of this form is to gather essential details about the show and the sponsor's contact information. The form will help event organizers to communicate with potential sponsors and tailor their approach to the sponsor's interests. Please review the form to ensure you are providing the correct information and to avoid duplication of effort.
-</thinking>
 # Theater Show Sponsor Form - Help Guide
 ## Purpose
 The form is used to collect information from potential sponsors for a theater show event.

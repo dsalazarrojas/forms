@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the quality of an application's localization. It is intended for use by testers, managers, and other stakeholders in the application development process. The assessment focuses on the translation quality, cultural sensitivity, and overall performance of the localized application. It's essential to complete this form with attention to detail and honesty, as the feedback provided will guide the improvement of the application.
-</thinking>
-
 # Application Localization Assessment - Help Guide
 ## Purpose
 The purpose of this form is to help assess the quality of an application's localization. It will be used to evaluate the translation accuracy, cultural sensitivity, and overall performance of the application in different languages and regions.

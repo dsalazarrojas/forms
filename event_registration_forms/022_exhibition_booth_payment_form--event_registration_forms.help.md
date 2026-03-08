@@ -1,5 +1,3 @@
-<thinking>This form is for exhibition booth payments, where exhibitors can provide their details, select their preferred payment method and amount, choose a payment term, and add any additional comments. It is crucial to ensure that all exhibitors complete the form correctly to avoid any payment disputes or misunderstandings.</thinking>
-
 # Exhibition Booth Payment Form - Help Guide
 ## Purpose
 This form is used to capture exhibition booth payment information from exhibitors. It ensures that all relevant details are provided to process payments accurately and efficiently.

@@ -1,10 +1,3 @@
-<thinking>
-This form seems to be a straightforward collection of fields for auditing and managing events. The form's purpose is to collect information about events, including details about the event, its location, date, and time, as well as information about the event planner, guests, and services provided. It may be used by event managers or coordinators to record and track events.
-
-The form does not appear to have any conditional logic or branching based on the provided YAML, so the instructions will assume that all fields are always present.
-
-</thinking>
-
 # Hospitality Event Management Audit Form - Help Guide
 ## Purpose
 The Hospitality Event Management Audit Form is a collection of fields for auditing and managing events in the hospitality industry.

@@ -38,6 +38,3 @@ To complete this form, follow these steps:
 * Double-check your party details before submitting the form.
 * You can always contact the host for any clarification or concerns.
 
-<thinking>
-The purpose of this form is to gather information about the Thanksgiving Zoom party. This form will be used to track RSVPs, note any special requests or needs, and ensure that the host can plan for the party. We expect all guests to fill out this form to ensure accurate and up-to-date information for the host. Please make sure to fill out all required fields and double-check your party details before submitting the form. We will not accept duplicate or incomplete submissions. If you have any questions or concerns, please contact the host directly.
-</thinking>

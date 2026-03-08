@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect information about a worship event. It is likely used for internal registration and organization purposes, such as tracking event details and attendee information. 
-The form is not used for public-facing purposes and does not require any sensitive or personal data. 
-
-To avoid duplication, please ensure that this form is not submitted multiple times for the same event.
-</thinking>
-
 # Worship Event Guide - Help Guide
 
 ## Purpose

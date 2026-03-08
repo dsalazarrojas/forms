@@ -1,10 +1,3 @@
-<thinking>
-We need to create a help guide for a Drone Risk Assessment Form. This form is used to assess the risk associated with drones in various settings, such as construction sites, industrial areas, or public events. The form is designed to be completed by a reviewer who evaluates the risk of drones in a particular area and provides recommendations for mitigation.
-
-To ensure that the form is completed accurately and consistently, it's essential to understand its purpose and each field's significance. Before we begin, let's confirm that this form is relevant to your role and that you're not duplicating your efforts. If you're unsure, please review the form's purpose and fields to ensure you're on the right track.
-
-</thinking>
-
 # Drone Risk Assessment Form - Help Guide
 ## Purpose
 This form is used to assess the risk associated with drones in various settings, such as construction sites, industrial areas, or public events. It's designed to help reviewers evaluate the risk of drones and provide recommendations for mitigation.

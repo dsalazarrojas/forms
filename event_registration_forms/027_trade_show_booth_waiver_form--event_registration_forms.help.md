@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Trade Show Booth Waiver Form - Help Guide
 
 ## Purpose

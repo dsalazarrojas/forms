@@ -1,5 +1,3 @@
-<thinking>This form is used by workshop facilitators to provide their payment information and details for an event. The purpose of this form is to collect financial data for payment processing and workshop management. Before proceeding, ensure you have the correct workshop facilitator information and payment details ready. If you've already submitted this form for the same workshop, please do not resubmit. Please note that this form should only be filled out by the workshop facilitator, not the participant.</thinking>
-
 # Workshop Facilitator Payment Form - Help Guide
 ## Purpose
 This form is used by workshop facilitators to provide their payment information and details for an event.

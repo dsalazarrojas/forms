@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback on the impact of wildlife photography on the environment, wildlife, and people. The form is intended to be completed by respondents who have participated in a wildlife photography activity, such as a photo shoot or a workshop, and are now being asked to evaluate their experience. This is not a duplicate survey, and responses will only be collected once per participant. Please note that this survey is for informational purposes only and will not influence any decision-making process.
-</thinking>
-
 # Wildlife Photography Impact Study Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on the impact of wildlife photography on the environment, wildlife, and people.

@@ -1,9 +1,3 @@
-<thinking>
-This form is used to register an individual's interest and availability for a specific organizational change event. The purpose is to collect information about the person's role, job title, and other relevant details to facilitate the management of the event.
-The form is designed to be completed by individuals who are interested in attending or participating in the event. It is not intended for internal use only, so there is no need to worry about duplication.
-To avoid duplication, the system will automatically check for existing registrations before allowing the user to submit the form.
-</thinking>
-
 # Organizational Change Forum Registration - Help Guide
 ## Purpose
 This form is used to register an individual's interest and availability for a specific organizational change event.

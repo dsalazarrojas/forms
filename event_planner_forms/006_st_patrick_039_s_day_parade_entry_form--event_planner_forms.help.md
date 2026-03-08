@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # St. Patrs Day Parade Entry Form - Help Guide
 ## Purpose
 The St. Patrs Day Parade Entry Form is used by individuals or groups interested in participating in the St. Patrs Day Parade to submit their entry information.

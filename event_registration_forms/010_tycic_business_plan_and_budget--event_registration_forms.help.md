@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from users about the "Junior Contest" event, which likely refers to a business planning or competition event for young entrepreneurs. The form's purpose is to gather relevant details about the event, including the title, a brief description, category, and other supporting information. This is an AI-generated form created using public survey topic metadata and is released under CC BY 4.0. Please review the form carefully before proceeding to ensure you are providing accurate and relevant information.
-
-</thinking>
-
 # Tycic Business Plan And Budget - Help Guide
 ## Purpose
 The "Tycic Business Plan And Budget" form is designed to collect information from users about the Junior Contest event. This form is used to gather essential details for the event.

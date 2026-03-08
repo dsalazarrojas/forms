@@ -1,9 +1,3 @@
-<thinking>
-We have designed this form to be a comprehensive registration tool for the Harvest Basket Contest, a popular culinary competition. This form will collect essential information from participants, which will be used to evaluate their entries. 
-
-Please ensure that you are only submitting one entry per person or organization. If you're unsure, refer to the instructions below for guidance on filling out this form accurately.
-</thinking>
-
 # Harvest Basket Contest Entry - Help Guide
 ## Purpose
 The purpose of this form is to register your entry for the Harvest Basket Contest. It is essential to provide accurate information about your entry, as it will be evaluated based on your descriptions and photos.

@@ -1,13 +1,3 @@
-<thinking>
-
-We are checking for internal consistency and duplication of the Art Exhibit Curation Request Form.
-
-This form is intended for artists and galleries to propose art exhibits for curation. It is used by curators to gather information about proposed exhibits, including the proposer's contact information, the exhibit's details, and logistical requirements. 
-
-We will be using this form to ensure that all proposed exhibits are well-organized and well-planned, and that we can effectively communicate with the proposers to bring their work to life.
-
-</thinking>
-
 # Art Exhibit Curation Request Form - Help Guide
 ## Purpose
 This form is designed to gather information from artists and galleries about proposed art exhibits. It will help curators to assess and consider their proposals for curation.

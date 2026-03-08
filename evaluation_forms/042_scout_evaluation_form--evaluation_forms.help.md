@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect evaluations from scouts regarding a player's performance in a game or match. It is intended to assess the player's skills, behavior, and overall fit with the team. The form will be used to provide feedback to the player, coach, and other relevant stakeholders. Please ensure that you are evaluating the player in the context of the game or match being evaluated, and that your feedback is specific, objective, and constructive.
-</thinking>
-
 # Scout Evaluation Form - Help Guide
 ## Purpose
 The Scout Evaluation Form is a tool for collecting evaluations from scouts on a player's performance in a game or match.

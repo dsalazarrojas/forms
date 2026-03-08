@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in participating in leadership development programs as volunteers. The purpose of this form is to gather personal contact information, volunteer details, skills, and interests of potential volunteers. The form is intended for internal use, and responses will be reviewed to ensure relevance and non-duplication of efforts.
-
-To complete this form, follow these steps:
-
-1.  **Personal Information**: Provide your name and other personal details in the "Personal Information" section. This section is optional.
-2.  **Contact Information**: Enter your contact information in the "Contact Information" section, including your email and phone number. This section is optional.
-3.  **Volunteer Details**: Describe your volunteer interests and skills in the "Volunteer Details" section. This section is optional.
-4.  **Volunteer Skills**: List all relevant skills, certifications, and special talents you have that you can offer as a volunteer in the "Volunteer Skills" section. This section is optional.
-5.  **Volunteer Interests**: List all areas of interest or topics you have a background in in the "Volunteer Interests" section. This section is optional.
-6.  **Email and Phone Number**: Enter and confirm your email and phone number for contact purposes in the "Email" and "Phone" fields. This section is optional.
-7.  **Submit**: Click the "Submit" button to complete and submit your registration form.
-
-</thinking>
-
 # leadership_development_volunteer_registration_form - Help Guide
 ## Purpose
 This form is for individuals interested in participating in leadership development programs as volunteers. It helps us understand your personal and contact information, volunteer details, skills, and interests to ensure relevance and non-duplication of efforts.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to create a record of an event registration. The purpose of this form is to gather information about the event and the participant attending it. This form will help to ensure that all necessary details are captured accurately and consistently. Please note that this form is not designed for real-time updates or changes, it's intended for one-time data collection.
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is used to create a record of an event registration, capturing essential details about the event and participant.

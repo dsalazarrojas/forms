@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Theater Audience Check In Form - Help Guide
 ## Purpose
 Theater Audience Check In Form is designed to collect information from theater audience members for events. This form helps theater staff to track audience attendance and ensure accurate records.

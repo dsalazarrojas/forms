@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from board members and attendees about their availability and needs for the annual planning board meeting. This form aims to gather data on who will be attending, their contact information, and their preferences for meeting arrangements, such as attendance method, dietary restrictions, and preferred format for pre-meeting materials. The form also allows attendees to propose budget allocations and strategic initiatives for the upcoming year. The information collected will help in organizing the meeting effectively and preparing necessary materials for attendees. The form is designed to be completed by board members and attendees to ensure that everyone is informed and prepared for the meeting.
-
-</thinking>
-
 # Annual Planning Board Meeting Form - Help Guide
 ## Purpose
 The Annual Planning Board Meeting Form is a document designed to gather information from board members and attendees about their needs and preferences for the meeting.

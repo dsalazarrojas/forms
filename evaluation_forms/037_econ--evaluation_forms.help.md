@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information about the user's purpose for sharing information and collected information on a personal page. This form will serve as a reference for internal evaluation and improvement of the platform.
-
-</thinking>
-
 # ECON - Help Guide
 ## Purpose
 The ECON form is used to collect information about users' purpose for sharing information and collected information on a personal page. This form helps us understand how users are utilizing the platform and gather feedback for improvement.

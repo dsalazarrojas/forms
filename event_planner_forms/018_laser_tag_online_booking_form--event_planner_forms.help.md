@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to help users book and manage events, specifically for the Laser Tag online platform. It gathers necessary information to create and update event details. Ensure this form is not a duplicate and that the correct purpose is understood before proceeding.
-
-The form will be used for both event creation and updates, and all fields are essential for the event's visibility in the platform.
-
-</thinking>
-
 # Laser Tag Online Booking Form - Help Guide
 ## Purpose
 This form is designed to help users book and manage events on the Laser Tag online platform. It collects necessary information to create and update event details.

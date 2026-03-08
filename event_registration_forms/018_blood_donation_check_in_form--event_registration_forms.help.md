@@ -1,5 +1,3 @@
-<thinking> This is a form design and technical writing task to create a user-facing help guide for the "Blood Donation Check In Form". The form is meant to collect information from blood donors during the check-in process for a blood donation drive. The fields are designed to gather essential details about the donor, including contact information, medical history, and appointment details. The form is likely used by blood donation centers or organizations to streamline the check-in process and ensure accurate data collection. Before creating the help guide, let's review the form's fields to understand their purpose and ensure there are no duplicates or unnecessary fields. </thinking>
-
 # Blood Donation Check In Form - Help Guide
 ## Purpose
 The Blood Donation Check In Form is used to collect information from blood donors during the check-in process for a blood donation drive. This form helps ensure accurate and efficient data collection.

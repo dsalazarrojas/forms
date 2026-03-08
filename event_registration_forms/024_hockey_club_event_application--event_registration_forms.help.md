@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the "Hockey Club Event Application" form. Before proceeding, please ensure that:
-- You are registering for an event that is relevant to the hockey club.
-- You are not duplicating an existing application.
-</thinking>
-
 # Hockey Club Event Application - Help Guide
 ## Purpose
 This form is used to register for events organized by the hockey club. Please fill out this form to provide your information and details about your event registration.

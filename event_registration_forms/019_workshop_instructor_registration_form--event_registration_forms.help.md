@@ -1,8 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a "Workshop Instructor Registration Form" that explains the form's purpose, how to complete it, and what each field means.
-The form is intended to collect information from workshop instructors about their workshop, including their name, email, phone number, workshop name, bio, bio text, workshop type, date of birth, time of birth, gender, assigned tool, output file, category, description, form IDs, assigned tool 2, category 2, and output file 2.
-</thinking>
-
 # Workshop Instructor Registration Form - Help Guide
 ## Purpose
 This form is designed to gather information from workshop instructors about their workshop, including details such as their name, contact information, workshop title, and other relevant details. Please fill out this form to ensure that we can process your workshop information accurately and efficiently.

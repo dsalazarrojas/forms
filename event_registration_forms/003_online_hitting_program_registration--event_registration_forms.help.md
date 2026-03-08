@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to allow participants to register for an online hitting program. This form is likely to be used by participants who want to enroll in a program related to hitting, such as a golf or baseball program. The form is designed to collect basic information about the participant, including their name, contact details, and payment method. This form is not intended to be used for other purposes, such as event planning or sales transactions.
-
-To prevent duplication, we will not allow participants to register multiple times using the same email address. 
-
-</thinking>
-
 # Online Hitting Program Registration - Help Guide
 ## Purpose
 The online hitting program registration form is designed to collect information from participants who want to enroll in a program related to hitting, such as a golf or baseball program.

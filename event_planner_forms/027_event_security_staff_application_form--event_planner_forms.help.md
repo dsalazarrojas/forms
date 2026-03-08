@@ -1,10 +1,3 @@
-<thinking>
-This guide is to support end users in understanding and filling out the Event Security Staff Application Form, which is designed to gather relevant information from individuals wishing to be part of the event's security staff. This form serves as an essential tool for event planners to assess each applicant's availability, experience, and contact details to determine their eligibility for the role.
-
-This guide will walk you through the form's sections and explain each field to ensure you can fill it out accurately. Please ensure you have all the required details before filling out the form to avoid any duplication or errors.
-
-</thinking>
-
 # Event Security Staff Application Form - Help Guide
 ## Purpose
 The Event Security Staff Application Form is a crucial tool for event planners to collect information from potential security staff members. It's essential to fill this form out accurately to ensure a smooth application process.

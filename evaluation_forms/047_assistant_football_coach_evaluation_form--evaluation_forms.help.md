@@ -1,9 +1,3 @@
-<thinking>... internal reasoning and checks to ensure the form purpose and relevance...
-
-This form is designed to evaluate the performance of an assistant football coach, providing a structured assessment of their leadership, communication, and technical skills. It's essential to ensure that the evaluator has a clear understanding of their strengths and areas for improvement. To avoid duplication or irrelevant feedback, this form is intended for use by authorized personnel only, such as the head coach or designated evaluators.
-
-</thinking>
-
 # Assistant Football Coach Evaluation Form - Help Guide
 ## Purpose
 This form assesses the performance of an assistant football coach, examining their leadership, communication, and technical skills.

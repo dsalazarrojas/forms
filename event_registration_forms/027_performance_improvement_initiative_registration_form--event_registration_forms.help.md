@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # performance_improvement_initiative_registration_form - Help Guide
 
 ## Purpose

@@ -1,14 +1,3 @@
-<thinking>
-This guide is intended to help veterinary employees fill out the evaluation form correctly and efficiently. The form is designed to collect information about an employee's performance, work experience, and evaluation results. The main goals are to evaluate the employee's overall performance and provide areas of improvement.
-
-Before starting the form, please make sure you are filling it out for the correct purpose and not for other types of evaluations, such as performance reviews.
-
-Please note that some fields are required to be filled out while others are optional. Make sure to fill out all required fields and use the provided options for select fields to ensure accurate evaluation results.
-
-This guide will walk you through each field in the form, explaining what it is for and how to fill it out correctly.
-
-</thinking>
-
 # Veterinary Employee Evaluation Form - Help Guide
 ## Purpose
 The Veterinary Employee Evaluation Form is designed to help evaluate the performance of veterinary employees. It collects information about their work experience, job title, department, and overall performance. The form provides a space for comments and areas of improvement.

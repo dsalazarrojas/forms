@@ -1,7 +1,3 @@
-<thinking>
-We should first check if this form is not already filled out, and if so, prevent the user from submitting it again. We should also verify that the user is filling out the correct type of form - this form is intended for event planners to submit information about upcoming events they are planning. The form should only be accessible to users with the correct permissions.
-</thinking>
-
 # Sponsor Application Form - Help Guide
 ## Purpose
 This form is used for event planners to submit information about upcoming events they are hosting. It includes details about the event, including date, time, location, and sponsorship level.

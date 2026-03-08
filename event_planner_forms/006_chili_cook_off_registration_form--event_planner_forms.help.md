@@ -1,10 +1,3 @@
-<thinking>
-As an expert form designer and technical writer, I'd like to clarify the purpose of this form and its relevance. This form is for the Chili Cook Off Registration Form, which is used to collect information from participants or teams who are planning to enter the chili competition. The form aims to gather essential details about the participant or team, their chili entry, and their preferences for the event.
-
-Before proceeding, please ensure that you are registering for the correct event and have not already submitted the form. If you have any questions or concerns, feel free to ask the event organizers for clarification.
-
-</thinking>
-
 # Chili Cook Off Registration Form - Help Guide
 
 ## Purpose

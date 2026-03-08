@@ -1,6 +1,3 @@
-<thinking>
-This form seems to be intended for users to vote on the decorations and colors of Easter tables. It is possible that this form is used during Easter celebrations to gather opinions from team members or event organizers. I'll create a user-facing help guide that explains the purpose and usage of the form.
-</thinking>
 # Easter Table Decor Voting Form - Help Guide
 ## Purpose
 The Easter Table Decor Voting Form is used to gather opinions on the Easter table decorations and theme. This form is designed for users to vote on their preferences, providing valuable feedback to event organizers to create a memorable Easter celebration.

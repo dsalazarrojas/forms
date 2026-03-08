@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Event Memory Test Feedback Form is used to collect feedback from users on the difficulty level of an event and how it helped with memory. This form is intended for users to provide input on the effectiveness of events, but it may not be suitable for all events. Please ensure that you have received permission from the event organizer to submit feedback before filling out this form. Also, be cautious not to submit duplicate feedback as this may affect the overall statistics and analysis.
 
 # Event Memory Test Feedback Form - Help Guide

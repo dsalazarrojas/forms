@@ -1,9 +1,3 @@
-<thinking>
-The "educational_game_developers_roundtable_registration" form appears to be a registration form for an event focused on educational game development. The form likely aims to gather information from attendees, such as developers, game designers, and educators, who are interested in participating in a roundtable discussion or session.
-
-Before creating this help guide, I'll review the form's purpose and content to ensure that it accurately represents the event's objectives and attendee expectations. Upon reviewing the form, I notice that it requests basic contact information (first name, last name, email), professional roles (developer, game designer, educator), company affiliation, session interests, and discussion topics. The form seems to be designed to collect data for event organization and planning purposes.
-
-</thinking>
 # educational_game_developers_roundtable_registration - Help Guide
 
 ## Purpose

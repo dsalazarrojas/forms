@@ -1,12 +1,3 @@
-<thinking>
-We need to make sure that this form is not a duplicate or unnecessary. The purpose of this form is to gather information about events and track the approval process for them. It's essential to fill out the form accurately and thoroughly to ensure that the correct information is collected and that the approval process is streamlined.
-
-The form is used to record and track events, including their title, category, description, time, date, location, and other relevant details. It's used to keep track of event organizers, event budgets, and event status.
-
-To complete this form, follow the instructions below:
-
-</thinking>
-
 # Event Planning Approval Form - Help Guide
 ## Purpose
 The Event Planning Approval Form is used to collect and track information about events, including their title, category, description, time, date, location, and other details. This form helps to keep track of event organizers, event budgets, and event status.

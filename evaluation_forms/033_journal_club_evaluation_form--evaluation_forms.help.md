@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback on a paper's evaluation. The evaluation will cover various aspects of the paper, including paper readability, author contribution, relevance, and overall quality, among others. This form is designed for internal use within an organization and will help evaluate papers for their relevance, quality, and other important factors. This form does not collect any sensitive or personally identifiable information, ensuring that the responses are anonymous.
-</thinking>
-
 # Journal Club Evaluation Form - Help Guide
 ## Purpose
 The Journal Club Evaluation Form is a comprehensive tool for evaluating papers and collecting feedback on their quality and relevance. It's designed to help assess the paper's readability, clarity, author contribution, and other essential factors.

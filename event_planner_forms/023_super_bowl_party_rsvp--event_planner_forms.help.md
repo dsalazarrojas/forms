@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for Super Bowl party planning purposes, gathering RSVPs from attendees and collecting relevant details for party organization and communication. It should not be used for any other purpose. Please ensure you are using this form correctly and for its intended use only.
-</thinking>
-
 # super_bowl_party_rsvp - Help Guide
 ## Purpose
 The Super Bowl party RSVP form is designed to collect information from individuals about their interest in attending a Super Bowl party and any additional details they'd like to share.

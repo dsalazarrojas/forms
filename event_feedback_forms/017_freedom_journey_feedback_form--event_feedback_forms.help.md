@@ -1,11 +1,3 @@
-<thinking>
-
-This form, "Freedom Journey Feedback Form," is used to gather feedback from program participants about their experiences. It is intended to collect data that will help improve the Freedom Journey program. The form should be filled out by program participants, ideally after completing the program. It is likely used by program coordinators or administrators to monitor participant engagement and satisfaction with the program.
-
-Before filling out this form, please note that it is divided into two parts: the first part collects basic information (Participant Satisfaction, Recommendations, Participant Sentiment, Facilitator Support, Program Organizers), and the second part collects more detailed feedback (Satisfaction Level, Additional Comments, Program ID, Program Name, User ID, User Name).
-
-</thinking>
-
 # Freedom Journey Feedback Form - Help Guide
 ## Purpose
 The "Freedom Journey Feedback Form" is used to collect feedback from program participants, which will help improve the Freedom Journey program.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for end-users to register for a mental health advocacy workshop. The purpose of this form is to gather participant information, including personal details, contact information, and verification details. 
-Before proceeding, please ensure that you are registering for this workshop for the correct purpose and that you are not a duplicate registrant. 
-If you are unsure, please contact the workshop organizers for clarification.</thinking>
-
 # mental_health_advocacy_workshop_registration_form - Help Guide
 ## Purpose
 This form is designed to gather participant information for a mental health advocacy workshop.

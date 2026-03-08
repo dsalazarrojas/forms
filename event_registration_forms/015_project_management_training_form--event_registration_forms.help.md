@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information about project management training sessions. The purpose of this form is to capture details about the project, participant, and training session. This includes the project title, participant name, project manager's email, project details, participant ID, project ID, participant status, session start and end dates, participant location, and other relevant information.
-
-The form is divided into various sections, each with specific fields that require or provide additional information. The fields are:
-
-*   Title: Project Management Training Form
-
-Below are the instructions on how to complete this form.
-
-</thinking>
-
 # Project Management Training Form - Help Guide
 ## Purpose
 The form is designed to collect information about project management training sessions.

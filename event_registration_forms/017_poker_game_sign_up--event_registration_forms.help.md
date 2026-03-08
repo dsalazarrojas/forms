@@ -1,8 +1,3 @@
-<thinking>
-We need to create a user-friendly help guide for the "Poker Game Sign Up" form that explains its purpose, how to complete it, and what each field means. The form is designed to collect information from players who want to sign up for a poker game. The purpose of this form is to gather essential details from players, including their preference for game type and stakes, their contact information, and other relevant details. To ensure that players understand the importance of providing accurate information, we need to clearly explain each field's purpose and requirements. This form is crucial for organizing and facilitating a smooth gaming experience for all participants.
-
-</thinking>
-
 # Poker Game Sign Up - Help Guide
 ## Purpose
 The "Poker Game Sign Up" form is designed to collect essential information from players who want to participate in a poker game. This form helps us understand your preferences and needs to provide a smooth and enjoyable gaming experience.

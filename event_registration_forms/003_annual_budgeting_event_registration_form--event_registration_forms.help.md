@@ -1,9 +1,3 @@
-<thinking>
-
-The internal reasoning for this form is to collect registration information for the Annual Budgeting Event, which is a crucial step in the budgeting process for organizations. This form ensures that attendees can register for the event, select the sessions they plan to attend, and provide necessary contact information. It also helps organizers track attendance and send out relevant communications. By using this form, we can avoid duplication of efforts and ensure that all necessary information is collected in one place.
-
-</thinking>
-
 # Annual Budgeting Event Registration Form - Help Guide
 ## Purpose
 This form is used to register for the Annual Budgeting Event, which is a gathering of professionals focused on budgeting best practices.

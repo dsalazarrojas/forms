@@ -1,12 +1,3 @@
-<thinking>
-This form is likely designed for Camp Grace to collect references from individuals who can vouch for applicants, providing a more comprehensive and personal evaluation of their character, skills, and potential. This form aims to gather information about the candidate's background, strengths, and areas for growth. It's possible that this form will be used for internal personnel evaluations within the organization.
-
-Before proceeding, let's make sure this form is not being used for any other purpose and that the information collected will not be duplicated. This form should only be used for genuine evaluations of prospective staff members. If you're unsure about the form's purpose or have concerns about data duplication, please consult with the relevant authorities before continuing.
-
-This guide is designed to walk you through the form step-by-step, ensuring you complete it accurately and effectively.
-
-</thinking>
-
 # Camp Grace Prospective Staff Reference - Help Guide
 ## Purpose
 This form is designed to collect references from individuals who can vouch for prospective staff members of Camp Grace. It gathers information about the candidate's background, strengths, and areas for growth, which will help the organization make informed decisions about their suitability for the role.

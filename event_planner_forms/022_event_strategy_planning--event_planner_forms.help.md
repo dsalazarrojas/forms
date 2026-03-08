@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Event Strategy Planning - Help Guide
 ## Purpose
 

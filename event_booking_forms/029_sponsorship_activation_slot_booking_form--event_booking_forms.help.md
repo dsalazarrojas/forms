@@ -1,7 +1,3 @@
-<thinking>
-This form is for event organizers to book activation slots for their events. The purpose of this form is to gather information about the event, the sponsor, and the desired activation slots. This information will be used to facilitate communication and coordination between the event organizers and the sponsors. Please review the following instructions carefully to ensure you are filling out the form correctly and accurately. This form should only be submitted once per sponsor per event.
-</thinking>
-
 # Sponsorship Activation Slot Booking Form - Help Guide
 ## Purpose
 The purpose of this form is to enable event organizers to book activation slots for their events and provide relevant information about the event and the sponsor.

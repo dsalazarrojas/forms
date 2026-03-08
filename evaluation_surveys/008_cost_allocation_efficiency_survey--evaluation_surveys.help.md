@@ -1,11 +1,3 @@
-<thinking>
-
-This form, titled "Cost Allocation Efficiency Survey," is designed to gauge the current level of transparency and challenges associated with cost allocation processes within an organization. It aims to collect information on the current state of cost allocation, the process itself, and any difficulties faced in this regard. This form is meant to be completed by organizational members responsible for managing and allocating costs. 
-
-Before beginning, ensure you have the necessary authority to access and complete the form.
-
-</thinking>
-
 # Cost Allocation Efficiency Survey - Help Guide
 ## Purpose
 The Cost Allocation Efficiency Survey is a tool to assess the effectiveness and transparency of an organization's cost allocation process. It aims to identify areas of improvement and provide insights into the efficiency of cost allocation practices.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for registering participants in a Sales Transformation Challenge. It appears to be a form that collects information from participants to track their progress and goals in a sales transformation program. The form likely serves as a registration and tracking tool for the challenge administrators.
-
-The form is divided into several sections, which will be covered in this help guide. Before completing the form, ensure you have the necessary information and permissions to proceed.
-
-</thinking>
-
 # Sales Transformation Challenge Registration - Help Guide
 ## Purpose
 This form is used to register participants in the Sales Transformation Challenge. It collects essential information about each participant, including their goals, status, and other relevant details.

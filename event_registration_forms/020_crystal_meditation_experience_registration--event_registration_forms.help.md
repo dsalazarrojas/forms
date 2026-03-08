@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a simple registration system for events such as Crystal Meditation Experiences. It's possible that this form is used to gather information about attendees, events, and other relevant details. However, the exact purpose and use case may vary depending on the context. To avoid duplication, please ensure that you're not already registered for this event or have an existing registration.
-</thinking>
-
 # Crystal Meditation Experience Registration - Help Guide
 ## Purpose
 This form is used to register for the Crystal Meditation Experience event. It gathers basic information about attendees and event details.

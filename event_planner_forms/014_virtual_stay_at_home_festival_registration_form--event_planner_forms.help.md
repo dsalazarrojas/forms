@@ -1,33 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly and that users understand how to fill it out to register for the Virtual Stay At Home Festival. Let's review the form schema and create a clear and concise help guide for end users.
-
-The form is used to collect information for virtual event registration, with fields for user details, event details, and payment information. It's essential to make sure that users know what each field is for and how to fill it out accurately.
-
-Let's review the fields one by one to create a clear and concise guide. This will help prevent errors and ensure that the form is filled out correctly.
-
-The form has multiple pages with fields for:
-
-* First Name
-* Last Name
-* Email
-* Phone
-* Event Date
-* Event Time
-* Event Location
-* Event Description
-* Number of Attendees
-* List of Attendees (multiple selection)
-* Additional Comments
-* Payment Method
-* Ticket Price
-* Total Cost
-* Payment Status
-* Notes
-
-Some fields might have multiple options or be required, which we need to explain clearly.
-
-</thinking>
-
 # Virtual Stay At Home Festival Registration Form - Help Guide
 ## Purpose
 This form is used to register for the Virtual Stay At Home Festival. Please fill out the form accurately to ensure that you are registered for the event.

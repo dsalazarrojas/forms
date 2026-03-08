@@ -1,9 +1,3 @@
-<thinking>
-We need to verify that this form is being used correctly and that users are entering the required information. This form should only be used by individuals or teams looking to book a creative residency cottage for a stay. If you're looking to book a different type of accommodation or service, please use the relevant form.
-The purpose of this form is to collect information about the user's stay, including start and end dates, guest details, project details, and cottage details.
-The form is divided into two main sections: Guest Information and Cottage Information. The Guest Information section includes fields for the guest's name, email, phone number, and note, as well as project name, description, type, and location. The Cottage Information section includes fields for the cottage's name, address, description, phone number, email, and website, as well as stay cost, currency, length, cancellation policy, and payment method.
-</thinking>
-
 # Creative Residency Cottage Booking Form - Help Guide
 ## Purpose
 This form is designed to be used by individuals or teams looking to book a creative residency cottage for a stay. It is intended to collect the necessary information to facilitate the booking process.

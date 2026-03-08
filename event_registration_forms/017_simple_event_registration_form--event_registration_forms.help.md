@@ -1,7 +1,3 @@
-<thinking>
-This guide will help you understand how to use the Simple Event Registration Form, which allows you to register events in a concise and efficient manner. The form is designed to capture essential information about the event, including the event title, attendee's name, email, phone number, date, time, event details, notes, and selections. To avoid duplication, please ensure that you only register events for which you are authorized to do so.
-</thinking>
-
 # Simple Event Registration Form - Help Guide
 ## Purpose
 

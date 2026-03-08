@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Concert Ticket Registration Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,4 @@
-# <thinking>
-This form is designed to collect data from a field survey. It is used for evaluating the quality and effectiveness of field survey results. The form is not affiliated with, endorsed by, or derived from any form platform. It was created using public survey topic metadata and is an original adaptation. The form is released under CC BY 4.0 and can be used, modified, and even sold with proper credit.
-</thinking>
-
-# field_survey_results_evaluation_form - Help Guide
+# # field_survey_results_evaluation_form - Help Guide
 ## Purpose
 The "field_survey_results_evaluation_form" is a form used to evaluate the quality and effectiveness of field survey results. It is designed to collect feedback and insights from respondents to improve the survey process.
 

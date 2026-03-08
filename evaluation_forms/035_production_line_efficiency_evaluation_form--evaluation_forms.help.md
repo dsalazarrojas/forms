@@ -1,15 +1,3 @@
-<thinking>
-To create a helpful guide for the "Production Line Efficiency Evaluation Form", we must first understand its purpose and how it should be used. This form is meant to evaluate the efficiency of a production line, which can include various aspects such as production time, downtime, safety and quality observations, and other relevant metrics. The goal is likely to identify areas of improvement and optimize production processes. 
-
-The form should be used by production line supervisors or operators to gather data on a shift by shift basis, making it a daily or short-term usage form. To ensure that the data collection process is efficient, the form should be clear, concise, and easy to understand.
-
-Before filling the form, the user should consider the following:
-1) Review the production line's current state and what specific areas they want to focus on.
-2) Ensure they have all necessary information available, such as time stamps and shift details.
-3) Be clear and concise in their answers, avoiding any unnecessary comments.
-
-</thinking>
-
 # Production Line Efficiency Evaluation Form - Help Guide
 ## Purpose
 The "Production Line Efficiency Evaluation Form" is designed to collect data on the efficiency of a production line, helping supervisors and operators identify areas for improvement and optimize processes.

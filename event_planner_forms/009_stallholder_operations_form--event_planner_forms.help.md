@@ -1,11 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Stallholder Operations Form", I will review the form's purpose, structure, and field explanations.
-The form seems to be designed for managing events with various details. Its purpose is to collect and track event-related information. The form consists of several fields for event details, owner information, and stallholder information.
-Upon reviewing the form structure, it appears to be split into two main categories: Event and Stallholder information.
-The Event category includes fields for event title, name, type, start and end dates and times, address, location, description, and owner details.
-The Stallholder category includes fields for stallholder id, name, status, start and end dates and times, address, and location.
-The form requires event_type, event_stallholder_status, and event_stallholder_start_date as some fields have "required: true" status.
-</thinking>
 # Stallholder Operations Form - Help Guide
 ## Purpose
 The Stallholder Operations Form is a tool used to collect and track information about events. It provides a comprehensive overview of the event, including details about the event itself and its associated stallholder.

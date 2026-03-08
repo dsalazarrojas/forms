@@ -1,12 +1,3 @@
-<thinking>
-We are creating a help guide for a form used for registering events. The form is designed to collect information from registrants, including their personal details, event information, and payment details. This guide will cover the purpose of the form, how to complete it, and explain each field in a clear and concise manner.
-
-The purpose of this form is to register for events, providing essential details about the registrant, the event, and payment information. This form is intended for event organizers to collect relevant data for event management and follow-up purposes. 
-
-Before proceeding, please note that this form should not be used for duplicate registrations. If you have already registered for the same event, please do not fill out this form again.
-
-</thinking>
-
 # Control Number Registration Form - Help Guide
 ## Purpose
 The Control Number Registration Form is used to register for events and provide essential details about the registrant and the event. This form helps event organizers collect relevant data for event management and follow-up purposes.

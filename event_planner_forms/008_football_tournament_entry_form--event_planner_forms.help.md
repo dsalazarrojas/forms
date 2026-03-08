@@ -1,9 +1,3 @@
-<thinking>
-This form is used by event planners to enter information for a football tournament. 
-It's essential to use this form correctly to ensure accurate and complete data entry. 
-Please verify that this form is not a duplicate and that the data is up-to-date. 
-</thinking>
-
 # football_tournament_entry_form - Help Guide
 ## Purpose
 This form is designed for event planners to enter information for a football tournament. It gathers data for teams participating in the tournament, including stage numbers and team names.

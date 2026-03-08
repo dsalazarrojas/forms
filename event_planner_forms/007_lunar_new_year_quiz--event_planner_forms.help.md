@@ -1,7 +1,3 @@
-<thinking>
-This form is for collecting user input on the Lunar New Year celebration. The form likely aims to gather information on user preferences or behaviors related to the Lunar New Year. This could be used for marketing, customer feedback, or user research purposes. It's a basic form that collects text responses for three questions, date and time of birth, and multiple category choices, along with an email and phone number field.
-</thinking>
-
 # Lunar New Year Quiz - Help Guide
 ## Purpose
 This form is designed to collect user input on the Lunar New Year celebration. It will help us understand how you feel about the Lunar New Year.

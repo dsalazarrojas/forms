@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Adventure Sports Access Form - Help Guide
 
 ## Purpose

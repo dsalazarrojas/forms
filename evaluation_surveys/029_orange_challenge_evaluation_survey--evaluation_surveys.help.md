@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Orange Challenge Evaluation Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and evaluation from participants of the Orange Challenge event. It aims to collect information on how participants experienced the event, their satisfaction, and areas for improvement. Please complete this form to help us understand your experience and provide valuable insights for future events.

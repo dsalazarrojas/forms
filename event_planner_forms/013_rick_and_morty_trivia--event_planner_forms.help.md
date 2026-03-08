@@ -1,14 +1,3 @@
-<thinking>
-We're creating a help guide for the "Rick and Morty Trivia" form to ensure that end-users understand its purpose, how to complete it, and what each field means. This form is likely designed for fans of the animated series to test their knowledge about the show.
-
-We need to verify that the form's purpose is to assess the user's knowledge about the series and that it's not a duplication of an existing form.
-
-The form is divided into several sections, each representing a different aspect of the series. The fields are a mix of text, select_one, and select_multiple types, covering questions about characters, dimensions, and other show-related topics.
-
-To ensure the guide is concrete, concise, and practical, we'll focus on explaining each field's purpose and expected input.
-
-</thinking>
-
 # Rick And Morty Trivia - Help Guide
 ## Purpose
 This form is designed to test your knowledge about the animated series "Rick and Morty." Answer the questions to demonstrate your understanding of the show's characters, dimensions, and storylines.

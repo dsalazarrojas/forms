@@ -1,26 +1,3 @@
-<thinking>
-This form is intended to be used to assess the maturity of an organization's Operational Hazardous Materials and Safety Management (OHMSM) system. It appears to be part of an assessment process, likely used by safety and compliance experts to gauge the level of preparedness and response of an organization in managing operational hazards and safety risks. The form's structure and field types suggest that it is used to gather information about various aspects of the OHMSM system, such as site safety management, training, incident reporting, and response to hazards. This form is likely used by individuals or teams responsible for safety and risk management within an organization.
-
-Before proceeding, please ensure that the form is relevant to your specific context and that you have the necessary permissions and authority to complete it. To avoid duplication of effort, please check if this form has already been completed for your organization or a similar one.
-
-Assuming this form is relevant to your context, please note that the answers provided will be used to support organizational decision-making and improvement of safety practices. 
-
-Please ensure that you answer the questions honestly and based on your actual experience and knowledge of your organization's safety management system.
-
-The purpose of this form is to gather information and assess the maturity level of an organization's Operational Hazardous Materials and Safety Management system. Please answer the questions accordingly.
-
-Please note that this guide is intended to provide assistance, not replace any formal training or guidance from your organization's safety experts.
-
-If you have any questions or concerns about this form, please reach out to your organization's safety team or contact the form author.
-
-Please provide your answers based on your current state of knowledge. If you are unsure about any question, please consult with your colleagues or safety experts before providing an answer.
-
-The answers will be used for internal purposes and will not be shared outside of your organization.
-
-With that said, let's move on to the next section.
-
-</thinking>
-
 # ohsms_maturity_assessment_survey - Help Guide
 
 ## Purpose

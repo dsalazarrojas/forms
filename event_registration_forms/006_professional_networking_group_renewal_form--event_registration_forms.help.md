@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from members of a professional networking group for the purpose of renewal. This form is part of a larger system for managing group membership and activities. To ensure accurate and efficient completion of the form, it's essential to understand its purpose and the fields it contains. Please review the following help guide to ensure you complete the form correctly. 
-
-</thinking>
-
 # professional_networking_group_renewal_form - Help Guide
 ## Purpose
 The professional networking group renewal form is used to collect information from members for the purpose of renewal. This includes updating member details and payment information to ensure the member's status within the group is up-to-date.

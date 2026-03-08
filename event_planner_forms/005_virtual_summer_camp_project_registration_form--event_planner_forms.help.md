@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from participants for a Virtual Summer Camp Project. The form is likely intended for project coordinators or administrators to gather details from interested participants. The purpose of the form is to collect demographic information, skills, and goals from each participant. This will help the project team to get an overview of the participants' backgrounds and preferences. The form should only be filled out once per participant.
-</thinking>
-
 # virtual_summer_camp_project_registration_form - Help Guide
 ## Purpose
 The Virtual Summer Camp Project Registration Form is designed to collect information from participants for a Virtual Summer Camp Project.

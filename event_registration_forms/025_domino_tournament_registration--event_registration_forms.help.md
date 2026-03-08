@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect registration information for a domino tournament. This form is likely used for team or individual registration, depending on the options selected in the "Tournament Info" and "Participation" fields. The form asks for details about the player or team, including contact information, and other relevant details such as team tier and team members.
-
-Before filling out this form, make sure to read this guide carefully to understand what each field is asking for.
-
-This form is not designed to be filled out multiple times by the same user, so ensure that you only fill it out once for each player/team registration.
-
-</thinking>
-
 # domino_tournament_registration - Help Guide
 ## Purpose
 This form is used to collect registration information for a domino tournament.

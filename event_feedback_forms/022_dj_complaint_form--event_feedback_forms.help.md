@@ -1,8 +1,3 @@
-<thinking>
-To determine the purpose of this form, we analyze the input schema. The form is called "DJ Complaint Form", which suggests that it is designed to handle complaints or issues related to the DJ performance. Each field in the form appears to be focused on collecting data for a complaint, with fields for ratings, dates, and descriptive text fields. This form likely serves as a system for users to provide feedback on a DJ's performance.
-The form has a mix of select, date, and text fields. Some fields are required, while others are optional.
-</thinking>
-
 # DJ Complaint Form - Help Guide
 ## Purpose
 This form is used to provide feedback on the performance of a DJ at an event. It helps to identify areas of improvement and track complaints or issues that need to be addressed.

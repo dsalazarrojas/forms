@@ -1,10 +1,3 @@
-<thinking>
-AI-Generated Form: 
-This form is an original adaptation created using public survey topic metadata (title + industry/category) as inspiration. It is not affiliated with, endorsed by, or derived from any form platform. 
-The trade-show-checklist-form is designed to help event organizers and staff prepare for and execute a successful trade show event. The form guides through various essential elements to consider during event planning, including event preparation, booth graphics, marketing materials, event team structure, communication plan, trade show schedule, exhibit space, staff attire, event budget, event goals, target audience, exhibit space layout, event duration, event timing, and event goals again. It's a comprehensive checklist to ensure a well-organized and productive trade show experience.
-
-</thinking>
-
 # trade-show-checklist-form - Help Guide
 ## Purpose
 The trade-show-checklist-form is a comprehensive guide for trade show event organizers and staff to prepare and execute a successful trade show event.

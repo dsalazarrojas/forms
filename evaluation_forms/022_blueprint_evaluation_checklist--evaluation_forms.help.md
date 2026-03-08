@@ -1,7 +1,3 @@
-<thinking>...
-The purpose of this form is to collect feedback from reviewers on various aspects of a blueprint, ensuring it meets local building codes and standards. This feedback is crucial for identifying potential issues and proposing corrective actions to improve the quality of the blueprint. To avoid unnecessary duplication of efforts, please ensure that you have read and understood all relevant local building codes before proceeding with the review.
-</thinking>
-
 # Blueprint Evaluation Checklist - Help Guide
 ## Purpose
 The Blueprint Evaluation Checklist is designed to gather feedback from reviewers on the compliance of a blueprint with local building codes and standards. This form helps identify potential issues and propose corrective actions to improve the blueprint's quality.

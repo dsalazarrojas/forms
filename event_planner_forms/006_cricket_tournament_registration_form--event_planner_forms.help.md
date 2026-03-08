@@ -1,7 +1,3 @@
-<thinking>
-The form is for the registration of a cricket tournament. It is not meant for general purposes and should only be used when registering for a cricket tournament. This form will help collect information from individuals wishing to participate in the tournament and is not intended for public use or mass duplication. The form should only be used for one user at a time.
-</thinking>
-
 # Cricket Tournament Registration Form - Help Guide
 ## Purpose
 

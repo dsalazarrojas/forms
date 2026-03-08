@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Roleplay Session Registration - Help Guide
 ## Purpose
 The Roleplay Session Registration form is used to create and manage roleplay events, such as tabletop RPGs, LARPing, and similar activities. This form helps you to provide necessary details about the event, including its name, type, duration, and other relevant information to ensure a smooth and engaging experience for participants.

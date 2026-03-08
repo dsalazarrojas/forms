@@ -1,11 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll first consider the context and requirements of the form before creating the user-facing help guide.
-
-The "Valentine Giveaway Form" seems to be designed for a Valentine's Day promotion or contest, where participants provide information to participate or win a gift card. The form asks for personal details, contact information, and specific questions related to the gift card giveaway. The fields include text, email, phone, number, and select options for various questions, indicating a mix of personal and numerical data collection.
-
-Upon reviewing the form YAML, I notice that all fields are optional or required, depending on the "required" field attribute. The form appears to be designed for a one-time event or promotion.
-
-Before proceeding with the help guide, I'll review the provided YAML again to ensure I cover all fields and accurately explain their purpose and expectations.</thinking>
-
 # valentine_giveaway_form - Help Guide
 
 ## Purpose

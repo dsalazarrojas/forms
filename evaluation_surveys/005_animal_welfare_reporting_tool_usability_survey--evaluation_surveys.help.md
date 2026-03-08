@@ -1,14 +1,3 @@
-<thinking>
-To provide a user-facing help guide for the "Animal Welfare Reporting Tool Usability Survey", we'll need to ensure that the form is completed accurately and with the right information, while also being mindful of the potential biases and sensitivities of the users. This guide will walk through each section, explaining the purpose and relevance of the form, the importance of providing accurate and honest answers, and the best practices for completing each field. 
-
-The form's purpose is to gather feedback from users on the usability of the Animal Welfare Reporting Tool, which will help the developers and administrators of the tool to identify areas of improvement and make necessary changes to enhance the user experience. It's essential to approach this survey with an open mind, providing honest and constructive feedback that will help the tool become more effective and user-friendly. 
-
-Before proceeding, please take a moment to review the form's instructions and guidelines, ensuring that you're completing the form accurately and thoroughly. If you have any questions or concerns, don't hesitate to reach out to the support team for assistance. 
-
-This guide is divided into several sections, each covering a specific aspect of the form. Please read through each section carefully, and follow the instructions provided for each field. 
-
-</thinking>
-
 # Animal Welfare Reporting Tool Usability Survey - Help Guide
 ## Purpose
 The Animal Welfare Reporting Tool Usability Survey is designed to gather feedback from users on the usability of the tool, helping the developers and administrators make improvements to enhance the user experience. Your input is valuable in shaping the future of the tool, and we appreciate your time and effort in completing this survey.

@@ -1,7 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the "performance_night_check_in_form", let's break down the form's purpose and functionality. This form likely aims to collect information from participants in a performance event, such as a concert or festival, where attendees may be interested in purchasing event merchandise, specifically T-shirts. The form will ask for personal details like name, email, phone, and emergency contact information. It also inquires about special requests, medical information, and other relevant details. Furthermore, it asks for shirt-related specifics, including size, color, and style. Finally, it covers event-related details like the event name, date, and time.
-</thinking>
-
 # performance_night_check_in_form - Help Guide
 ## Purpose
 

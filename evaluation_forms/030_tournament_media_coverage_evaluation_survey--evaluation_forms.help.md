@@ -1,7 +1,3 @@
-<thinking>
-This form is part of an evaluation process for assessing a tournament media coverage. The form aims to gather input from users on various aspects of the media coverage provided for an event. The purpose of this form is to collect feedback on event organizers, media coverage quality, audience reach, improvement ideas, assigned personnel, contact information, event date and time, and overall assessment. To complete this form, users are to fill out each field accurately and thoroughly, providing their opinions and suggestions. Each field's explanation will be detailed below.
-</thinking>
-
 # Tournament Media Coverage Evaluation Survey - Help Guide
 
 ## Purpose

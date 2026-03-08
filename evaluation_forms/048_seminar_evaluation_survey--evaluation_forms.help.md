@@ -1,7 +1,3 @@
-<thinking>
-We have a form called "Seminar Evaluation Survey" which is used to gather feedback and evaluations from seminar attendees. This form is likely used by seminar organizers or facilitators to assess the quality and effectiveness of the seminar. The form has 11 questions across multiple pages, with some questions being optional and others required. The form is likely used for internal evaluation and quality control purposes, and the answers will be reviewed by the seminar organizers to identify areas of improvement. This form does not seem to have any specific business logic or rules that would affect its completion.
-</thinking>
-
 # Seminar Evaluation Survey - Help Guide
 ## Purpose
 The Seminar Evaluation Survey is used to gather feedback and evaluations from seminar attendees. It helps seminar organizers and facilitators assess the quality and effectiveness of the seminar.

@@ -1,8 +1,3 @@
-<thinking>
-This form is used for booking team practice sessions. The form allows users to input details about the practice session, such as date, time, location, coach's name, practice details, and more. This form is not a general-purpose form, but rather a specific form designed for a particular team or group of teams.
-To avoid confusion, this form should only be used for booking team practice sessions and not for other types of events or bookings.
-</thinking>
-
 # Team Practice Session Booking Form - Help Guide
 ## Purpose
 The Team Practice Session Booking Form is used to book practice sessions for teams. This form helps to gather essential details about the practice session, such as date, time, location, and more.

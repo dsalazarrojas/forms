@@ -1,11 +1,3 @@
-<thinking>
-To create this form, we first need to understand the context in which it will be used. This form is designed to evaluate vendors of time and attendance systems, which are used for recording and managing employee work hours. The form helps administrators gather feedback on the performance and effectiveness of these vendors. It will be used to collect data on the vendor's overall rating, comments, and specific details about their relationship with the company, such as contact information and email addresses.
-
-The form will have multiple pages, with each page containing a specific set of questions or fields to be filled in. Each field will have an explanation of its purpose and what kind of input the user should provide.
-
-Before we dive into the help guide, let's confirm that this form is not a duplicate of any other form and that the fields and pages are correct for the intended purpose.
-</thinking>
-
 # Time And Attendance Vendor Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback on the performance and effectiveness of time and attendance vendors. It helps administrators evaluate vendors and make informed decisions about their use.

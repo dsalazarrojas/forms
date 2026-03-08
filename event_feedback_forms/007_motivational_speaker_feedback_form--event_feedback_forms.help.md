@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from attendees about the quality and performance of the motivational speaker. It is intended to help event organizers understand what attendees thought of the speaker and the event in general. This form should only be used for this specific purpose and not for other purposes. Please make sure to complete it carefully and accurately.
-</thinking>
-
 # Motivational Speaker Feedback Form - Help Guide
 ## Purpose
 The Motivational Speaker Feedback Form is designed to collect feedback about the motivational speaker's performance and the quality of the event. This feedback will help us to improve the speaker's performance and make future events better.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in becoming moderators for a Clubhouse, a platform for community-driven discussion and event planning. The form aims to gather data on the applicant's personal and professional qualifications, experience, and availability to moderate discussions and events in the Clubhouse. 
-</thinking>
-
 # Clubhouse Moderator Application Form - Help Guide
 ## Purpose
 This form is a tool for applicants to express their interest in becoming moderators for the Clubhouse platform. By completing this form, applicants will be able to showcase their qualifications, experience, and availability for moderation duties.

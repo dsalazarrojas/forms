@@ -1,10 +1,3 @@
-<thinking>
-Internal reasoning: This form is used to evaluate the performance of a special education program. The form is completed by program staff/evaluators who provide input on various aspects of the program, including student progress, program type, and overall satisfaction. The goal of the form is to gather feedback and data that can be used to improve the program and make informed decisions. The form should not be completed by students or parents, but rather by program staff who have direct knowledge of the student's participation and progress in the program.
-
-Before filling out this form, please ensure that you have read and understood the purpose and instructions. This form should only be used for evaluating programs that have ended or completed.
-
-</thinking>
-
 # special_education_program_evaluation_form - Help Guide
 ## Purpose
 The special education program evaluation form is used to provide input on the performance of a special education program.

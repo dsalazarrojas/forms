@@ -1,8 +1,3 @@
-<thinking>
-This form is a registration form for a music school, designed for students and their parents to provide necessary information for class enrollment. This form ensures that students and parents have the required details filled before attending the music school classes. To prevent form duplication and improve accuracy, ensure to fill the form with accurate details for each student and their parent. 
-
-</thinking>
-
 # Music School Registration Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from students and their parents for music class enrollment. It helps to streamline the registration process, ensuring accuracy and preventing errors.

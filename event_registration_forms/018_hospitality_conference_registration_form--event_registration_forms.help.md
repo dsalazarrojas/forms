@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to gather information from attendees for a hospitality conference. This form is designed to capture essential details such as event details, contact information, dietary restrictions, and confirmation of attendee and event information. The form is intended to help the event organizers ensure that the attendees have provided accurate and complete information, and to facilitate communication and coordination during the event.
 
 ...</thinking>

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Stage Crew Training Booking Form - Help Guide
 ## Purpose
 This form is designed for booking and managing Stage Crew Training sessions. It helps in recording the required details such as booking date, time, trainer name, email, and client information for effective management of training activities.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from event attendees, aiming to measure the business impact of a particular event or meeting. The form is intended for event organizers or administrators to gather information on attendee satisfaction, attendance, and potential improvements. To ensure accurate and relevant feedback, please only fill out this form if you have attended the event and wish to provide feedback.
-</thinking>
-
 # post_event_business_impact_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from event attendees, allowing event organizers to measure the success and areas for improvement of the event.

@@ -1,8 +1,3 @@
-<thinking>
-**Internal Reasoning Block**
-This form is designed to collect wishes, messages, and well-wishes for new parents and their baby. It's intended to be completed by people who want to offer words of encouragement, advice, or support to the new family. The form helps to capture various types of messages, including general well-wishes, advice for parents, and wishes for the baby's future. It also allows users to include a photo, make the message private or shareable, and express their willingness to help the family after the baby arrives. The form's design caters to the needs of both the message sender and the new parents.
-</thinking>
-
 # Baby Wishes Collection - Help Guide
 
 ## Purpose

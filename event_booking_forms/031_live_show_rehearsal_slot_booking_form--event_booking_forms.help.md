@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is likely to allow users to book a live show rehearsal slot, which is a critical component in live event planning. This form should be used by production teams or coordinators to book a specific time slot for rehearsals, providing essential information such as start dates, duration, and other related details. This form should not be used to create new events or bookings, but rather to update or manage existing ones. 
-To check for relevance and non-duplication, the system should validate the form input against existing bookings, ensuring that no duplicate entries are made. 
-</thinking>
-
 # Live Show Rehearsal Slot Booking Form - Help Guide
 ## Purpose
 The Live Show Rehearsal Slot Booking Form is designed to assist production teams in booking a specific time slot for live shows. This form provides a convenient way to schedule rehearsals and associated details.

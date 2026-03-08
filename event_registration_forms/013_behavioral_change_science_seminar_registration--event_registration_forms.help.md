@@ -1,22 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from potential attendees for the Behavioral Change Science Seminar. The form is designed to gather personal details, seminar preferences, and interests in order to tailor the seminar experience to the attendee's needs. This form is typically filled out by those interested in attending the seminar.
-
-To avoid duplication of effort, it's recommended that you only register once per person. If you have already registered for a seminar, please do not repeat this process.
-
-To complete this form, please ensure that all required fields are filled out accurately and completely. Optional fields are provided for additional information, but are not mandatory.
-
-The following sections of the form are:
-- Personal Information: This section collects your personal details such as first name, last name, email address, and phone number.
-- Seminar Details: This section collects information on which seminar date you are interested in attending, your preferred attendance type, and your experience level with behavioral change.
-- Areas of Interest: This section allows you to select topics you are interested in and any additional comments you would like to make.
-- Accessibility and Preferences: This section is for any accessibility needs or dietary restrictions you may have.
-- Networking: This section asks if you are interested in networking sessions.
-- Prior Seminars: This section is to check if you have attended any of our prior seminars.
-- Referral Source: This section is to indicate how you heard about the seminar.
-
-Please fill out the form accurately and completely to ensure a smooth and enjoyable experience for everyone.
-</thinking>
-
 # Behavioral Change Science Seminar Registration - Help Guide
 ## Purpose
 The purpose of this form is to collect information from potential attendees for the Behavioral Change Science Seminar.

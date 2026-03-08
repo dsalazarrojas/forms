@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Supervised Practice Evaluation - Help Guide
 
 ## Purpose

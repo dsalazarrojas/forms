@@ -1,15 +1,3 @@
-<thinking>
-
-To create a user-friendly help guide for this "Educational Content Source Evaluation Form", I will first provide a brief internal explanation.
-
-**Internal Reasoning Block:**
-
-This form is designed to collect evaluations of educational content sources, likely for use by educational institutions or organizations. The purpose of this form is to gather information about the quality, accuracy, and reliability of educational content, which can be used to inform decisions about its adoption or use. The form collects information on the source type, name, and specific evaluations (scales 1-2) which may be numerical ratings. Additionally, the form includes space for notes, contact information (email and phone), and timestamps (date and time). 
-
-Please ensure that you have the necessary permissions or rights to complete this form, as it may contain sensitive or confidential information. 
-
-</thinking>
-
 # Educational Content Source Evaluation Form - Help Guide
 
 ## Purpose

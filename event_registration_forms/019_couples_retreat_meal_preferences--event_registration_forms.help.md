@@ -1,8 +1,3 @@
-<thinking>
-The form is for collecting information from couples participating in a retreat, specifically their meal preferences and dietary needs. This data will be used to tailor meal options to suit their needs, ensuring a comfortable and enjoyable experience for all retreat participants. To prevent non-duplication, it's essential to fill out the form accurately and consistently, as any discrepancies may lead to incorrect meal allocation. It's also crucial to ensure that each couple fills out their own form separately to maintain the privacy and integrity of individual data.
-
-</thinking>
-
 # Couples Retreat Meal Preferences - Help Guide
 ## Purpose
 The "Couples Retreat Meal Preferences" form is designed to collect information about the dietary needs and meal preferences of participating couples in a retreat. This data will be used to tailor meal options to suit their individual and joint needs, ensuring a comfortable and enjoyable experience for all participants.

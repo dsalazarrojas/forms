@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Thanksgiving Turkey Reservation Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information for the Thanksgiving Turkey Reservation process. Please use this form to make a reservation for a special occasion.

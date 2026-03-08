@@ -1,7 +1,3 @@
-<thinking>
-The Rail Ticket Booking Form is a user-facing form used to collect information from passengers for ticket booking purposes. The form allows passengers to select their departure and arrival stations, travel dates, class type, ticket type, and provides an option to enter their contact information. The form's fields are designed to gather the necessary details for efficient ticket booking. It's essential to ensure that all required fields are completed to avoid errors during the booking process.
-</thinking>
-
 # Rail Ticket Booking Form - Help Guide
 ## Purpose
 The Rail Ticket Booking Form is a user-facing form used to collect information from passengers for ticket booking purposes.

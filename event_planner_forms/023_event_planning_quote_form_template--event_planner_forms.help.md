@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for event planners to submit quotes for events. The goal is to collect information about the event, the planner, and the quote details. This form will guide you through the required fields to ensure accurate and complete information.
-</thinking>
-
 # event_planning_quote_form_template - Help Guide
 ## Purpose
 This form is designed for event planners to provide quote details for their events.

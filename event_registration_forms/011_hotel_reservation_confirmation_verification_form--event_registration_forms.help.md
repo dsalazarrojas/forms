@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from guests for hotel reservation confirmation and verification. The form is likely used by hotels to gather details from guests to confirm their reservations and ensure that all necessary information is accurate. The form should not be used for any other purpose.
-
-To complete this form, follow these steps:
-
-1. Fill in the necessary fields with the required information.
-2. Ensure that all required fields are completed.
-3. Review the form carefully before submitting it.
-
-This form has several fields that require specific information from guests. Here's a breakdown of each field:
-
-</thinking>
-
 # hotel_reservation_confirmation_verification_form - Help Guide
 ## Purpose
 This form is designed to collect information from guests for hotel reservation confirmation and verification.

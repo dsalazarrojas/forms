@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to gather the supervisor's evaluation of a scholar's progress and achievements in their work. It is essential to provide specific and constructive feedback to help the scholar improve and advance in their role. This form should not be used for general feedback or performance management, but rather for in-depth analysis and recommendation of a scholar's work.
-
-To ensure the form is completed accurately and thoroughly, it is crucial to understand the purpose and requirements of each section. This guide will walk you through the form's purpose, how to complete it, and an explanation of each field to help users fill out the form correctly.
-
-</thinking>
-
 # Working Scholar Supervisor Evaluation Form - Help Guide
 
 ## Purpose

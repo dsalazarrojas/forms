@@ -1,7 +1,3 @@
-<thinking>
-We are implementing a form to gather data from guests upon check-out. This form will cover various aspects of their stay, including guest information, check-out details, campsite conditions, satisfaction, and potential improvements. This form is intended to help us better understand our guests' experiences and make informed decisions to improve our services. To avoid duplication of effort, this form should only be filled out upon check-out.
-</thinking>
-
 # Campground Guest Check Out Form - Help Guide
 ## Purpose
 The Campground Guest Check Out Form is a crucial tool used to gather essential information from guests upon their departure. This form aims to provide an in-depth understanding of their stay, allowing us to make informed decisions to improve our services and enhance their experiences.

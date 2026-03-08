@@ -1,8 +1,3 @@
-<thinking>
-The form "craft_booth_payment_form" is likely used in an event setting to collect payment information from customers, such as determining whether they want to pay for an event, providing their name, email, and a description of the product or service being offered, and the price of the product or service. This form is likely used in a context where customers can choose to purchase something at an event, and the information collected will be used to process the payment and fulfill the order. To the best of my knowledge, this form is not used for any other purpose, and there is no duplication of this form's functionality within the application.
-
-</thinking>
-
 # craft_booth_payment_form - Help Guide
 ## Purpose
 The "craft_booth_payment_form" is used to collect payment information from customers at an event, such as determining payment intent, name, email, product description, and price.

@@ -1,8 +1,3 @@
-<thinking>
-This form is for registering and processing payments for participants in a performance competition. The purpose of this form is to collect information about the participant, including their contact details, payment method, and event information. This form will likely be used by competition organizers or administrators to track and manage participant payments.
-The form should only be used for participants who are registered for the competition and have a valid payment due for the event.
-</thinking>
-
 # performance_competition_payment_form - Help Guide
 ## Purpose
 This form is for registering and processing payments for participants in a performance competition.

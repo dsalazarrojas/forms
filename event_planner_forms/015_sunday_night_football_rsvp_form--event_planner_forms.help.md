@@ -1,15 +1,3 @@
-<thinking>
-Form purpose:
-This form is designed for players to RSVP for Sunday night football games. It allows players to indicate their availability and select the game they plan to attend. The form is intended for players who want to participate in Sunday night football events, but it's not a registration form for the event itself. The form is not affiliated with any specific platform, and it's an original adaptation created by AI.
-
-Form relevance:
-This form is relevant for players who want to participate in Sunday night football games. It's not for coaches, referees, or other staff members.
-
-Non-duplication:
-This form is an original adaptation and not a copy of any existing form. It's not affiliated with any proprietary platform, and it's released under CC BY 4.0.
-
-</thinking>
-
 # sunday_night_football_rsvp_form - Help Guide
 ## Purpose
 The Sunday night football RSVP form is designed for players to indicate their availability and select the game they plan to attend. This form helps the event organizers know who's coming and plan accordingly.

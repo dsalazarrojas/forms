@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to evaluate a journal article. The purpose of this form is to collect feedback on the article's quality, relevance, completeness, originality, and other essential aspects. The form will be used to assess the article's strengths and weaknesses, helping users to identify areas for improvement. Before proceeding, please ensure that you have a clear understanding of the article's contents and are familiar with the evaluation criteria. This guide is intended to be used once, to evaluate one article at a time. If you are evaluating multiple articles, please refer to this guide for each article individually.</thinking>
-
 # Journal Article Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback on a journal article, specifically assessing its quality, relevance, completeness, originality, and grammar.

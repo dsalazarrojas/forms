@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help wedding planners and coordinators gather essential information for wedding events. The purpose of this form is to ensure that all the necessary details are collected to facilitate a well-planned and executed wedding event. Before proceeding with this guide, ensure you are familiar with the internal wedding planning process and the requirements for a successful event.
-</thinking>
-
 # Wedding Final Meeting Questionnaire - Help Guide
 ## Purpose
 This form is used to gather final meeting questionnaire information for a wedding event. It is essential to have all necessary details collected before proceeding with the event.

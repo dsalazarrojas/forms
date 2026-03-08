@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for collecting registration information from participants and teams for a machine learning tournament. The form is likely used for internal or external purposes such as event management, participant tracking, or data collection. Given the lack of proprietary data and metadata, this form seems to be an AI-generated template. To confirm its purpose, a closer look at the form fields reveals that they all pertain to gathering details about participants and teams, suggesting the form is indeed for event registration.
-</thinking>
-
 # Machine Learning Tournament Signup - Help Guide
 ## Purpose
 The Machine Learning Tournament Signup form is designed to collect information from participants and teams for the purpose of organizing and managing the event.

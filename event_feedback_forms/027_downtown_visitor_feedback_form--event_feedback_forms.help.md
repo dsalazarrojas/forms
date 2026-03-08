@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback from visitors about their experiences with events hosted in the Downtown area. The form is meant to be used to gather information about the event's quality, organization, and overall satisfaction. The feedback collected will be used to identify areas of improvement and help plan future events.
-The form is not intended for general feedback or comments. If you have feedback or suggestions for the downtown area in general, please use a different form.
-Please ensure that you are providing feedback for the specific event you attended, not just general feedback about the area.
-</thinking>
-
 # Downtown Visitor Feedback Form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from visitors about their experiences with events hosted in the Downtown area. Your input will help us improve future events and create a better experience for everyone.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to reserve an exclusive shopping experience, which includes making appointments and providing personal contact information. The fields on this form are essential to ensure a smooth experience for both customers and our team. The form does not require any prior knowledge or experience, and its completion should take approximately 2-3 minutes.
-</thinking>
-
 # Exclusive Shopping Experience Reservation Form - Help Guide
 
 ## Purpose

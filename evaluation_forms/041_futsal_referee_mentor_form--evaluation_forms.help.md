@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, let's review the form purpose and fields. This form appears to be designed for evaluating or mentoring referees in the context of Futsal, a variant of futsal. The form collects information about the referee, including their name, contact details, experience, mentorship level, evaluation frequency, and other relevant attributes. The fields seem to be categorized into sections, such as contact information, experience, and evaluation details. To ensure the form is properly completed, we'll need to provide clear explanations of each field and its purpose.</thinking>
-
 # Futsal Referee Mentor Form - Help Guide
 ## Purpose
 The Futsal Referee Mentor Form is designed to collect information about referees in the context of Futsal. This form is intended for evaluating or mentoring referees, and the collected data will help in understanding their strengths and areas of improvement.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The goal of this form is to gather information about an event from the end-user, including user preferences, contact details, and event specifics. This template is designed to be a general purpose form for event planning, and it's intended for internal use only. If you're using this form to collect user data for other purposes, please verify that it aligns with your organization's data protection policies.
 
 # Wish List Template - Help Guide

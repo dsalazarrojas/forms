@@ -1,6 +1,3 @@
-<thinking>
-The Escape Room Evaluation Form is designed to gather feedback from event attendees on their experience at an escape room event. This form is intended for attendees to provide their opinions on various aspects of the event, such as event type, date visited, room name, event length, and more. The form should be filled out by attendees who have participated in the escape room event, and the goal is to collect data that can be used to improve future events. Please make sure you have participated in the escape room event before filling this form. If you have already filled this form for the same event, please do not fill it again.</thinking>
-
 # Escape Room Evaluation Form - Help Guide
 ## Purpose
 

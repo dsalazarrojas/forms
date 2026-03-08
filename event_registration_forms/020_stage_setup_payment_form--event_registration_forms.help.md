@@ -1,5 +1,3 @@
-<thinking>This form is used for the event registration process, specifically for stage setup payment setup. It is essential to understand the correct fields and their meanings to ensure accurate and efficient registration. Ensure this form is not completed in duplicate, as it might cause confusion and lead to errors.</thinking>
-
 # Stage Setup Payment Form - Help Guide
 ## Purpose
 This form is designed to handle stage setup payment setup for events. It is a critical part of the event registration process, ensuring that all necessary details are captured accurately.

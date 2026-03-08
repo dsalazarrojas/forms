@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for the JENS BIRTHDAY CRUISE event. This form is intended to collect event-related data such as event name, start date, arrival date, departure date, group size, contact information (name, email, phone), and event notes. The form is also required to select an assigned tool for the event, which is a critical piece of information for event planning and execution.
-</thinking>
-
 # JENS_BIRTHDAY_CRUISE - Help Guide
 ## Purpose
 The JENS BIRTHDAY CRUISE form is designed to collect essential information for the event planning process. This guide will walk you through each step to complete the form accurately and efficiently.

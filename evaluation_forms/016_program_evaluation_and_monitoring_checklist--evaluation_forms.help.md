@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information on the evaluation and monitoring process for a specific program or project. The purpose of this form is to collect data on various aspects of the program, including its objectives, monitoring, follow-up, evaluation cycles, target group, stakeholders, evaluation questions, and outcomes. This form is likely to be used by program managers or evaluators to assess the effectiveness and efficiency of the program in achieving its goals.
-To complete this form, please follow these steps:
-
-</thinking>
-
 # Program Evaluation And Monitoring Checklist - Help Guide
 ## Purpose
 The Program Evaluation And Monitoring Checklist is a tool used to collect data on the evaluation and monitoring process for a specific program or project. It helps program managers or evaluators assess the effectiveness and efficiency of the program in achieving its goals.

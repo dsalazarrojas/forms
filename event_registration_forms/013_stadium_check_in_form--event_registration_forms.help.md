@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from guests attending an event at a stadium. The form likely aims to gather contact details and event-related information. The field labels and descriptions should be self-explanatory. The form does not require any specific authentication or authorization. The form fields can be filled out by anyone, and the collected data can be used for event management purposes.
-</thinking>
-
 # stadium_check_in_form - Help Guide
 ## Purpose
 The stadium_check_in_form is used to collect guest information for events held at a stadium. It is a straightforward form designed to gather essential details from attendees.

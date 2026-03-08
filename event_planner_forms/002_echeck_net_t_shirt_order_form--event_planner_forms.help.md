@@ -1,8 +1,3 @@
-<thinking>
-You are about to access the ECheck.Net T Shirt Order Form, a form designed to assist users in ordering custom T shirts with various customization options. Please note that this form is not a general form for any purpose, but is specifically tailored for T shirt orders. It is also not a required form for all users, so feel free to review the form's purpose and content to determine if it's relevant to your needs.
-To ensure that you don't end up with duplicate entries, please take a moment to review the form's content before submitting it. Each field has been designed to provide clear and concise options for you to choose from. 
-</thinking>
-
 # ECheck.Net T Shirt Order Form - Help Guide
 ## Purpose
 The ECheck.Net T Shirt Order Form is designed to assist users in ordering custom T shirts with various options for size, color, design, and payment methods. This form is intended for users who want to order T shirts with specific requirements.

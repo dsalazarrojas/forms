@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # running_course_feedback_form - Help Guide
 ## Purpose
 

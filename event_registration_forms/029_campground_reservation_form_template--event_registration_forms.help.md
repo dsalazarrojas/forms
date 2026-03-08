@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to be used by individuals and groups who want to reserve a campsite at a campground. It is intended for guests to provide their personal and campsite selection information. This form is likely to be used by campground staff or administrators to process and confirm reservations.
-The following fields are required to be filled out: First Name, Last Name, Email Address, Phone Number, Check-In Date, Check-Out Date, Number of Adults, Campsite Type, and Number of Pets. 
-This form should not be duplicated or used for purposes other than reservation inquiries. The form is designed to provide the necessary information to efficiently process and confirm reservations.
-</thinking>
-
 # Campground Reservation Form Template - Help Guide
 ## Purpose
 This form is designed to help individuals or groups reserve a campsite at the campground. 

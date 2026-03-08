@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Stakeholder Meeting Attendance Form - Help Guide
 
 ## Purpose

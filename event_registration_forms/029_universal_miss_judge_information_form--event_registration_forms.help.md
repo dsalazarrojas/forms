@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information from judges for various pageants, including the basic personal information of the judge and the event details. This form aims to standardize the collection of data from judges and provide a unified platform for event organizers to access this information. It's likely that this form will be filled out by pageant organizers or judges' assistants to provide necessary information for event planning and coordination purposes.
-Before filling out the form, please ensure that the information provided is accurate and complete. This form is designed to collect specific details for each field, and any errors or missing information may cause issues with event planning and coordination.
-
-This form will be reviewed internally to ensure that it's filled out correctly and completely before proceeding with the event. If any issues or discrepancies are found, they will be addressed accordingly.
-</thinking>
-
 # Universal Miss Judge Information Form - Help Guide
 ## Purpose
 This form collects information from judges for pageant events, including personal details and event specifics.

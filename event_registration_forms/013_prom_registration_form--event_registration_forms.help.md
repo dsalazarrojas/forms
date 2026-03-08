@@ -1,7 +1,3 @@
-<thinking>
-The form is used to collect information from event registrants for a prom registration event. This form will be used by event organizers to get details from attendees about their participation and preferences.
-</thinking>
-
 # Prom Registration Form - Help Guide
 ## Purpose
 The Prom Registration Form is used to collect registration details from attendees for a prom registration event.

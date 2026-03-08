@@ -1,21 +1,3 @@
-<thinking>
-This form is used to register an attendee for a festival. It is intended to be completed by the festival organizer or staff member who is responsible for managing the festival's access delivery. The form should only be used for festival registration and not for other purposes. 
-
-This form is not intended for general public use and requires specific information to be filled in by the festival organizer or staff member. 
-
-Please ensure that you have the necessary permissions and approvals before filling out this form. 
-
-This form is intended for internal use within the organization and should only be used by authorized staff members. 
-
-Please review the form carefully and fill it out accurately. 
-
-Please note that the form is divided into the following sections: 
-  - Attendee Information: This section is used to capture details about the attendee including their name, email, phone number and any additional notes. 
-
-  - Event Information: This section is used to select the type of event and the type of ticket. 
-
-</thinking>
-
 # Festival Access Delivery Form - Help Guide
 ## Purpose
 This form is used to register an attendee for a festival.

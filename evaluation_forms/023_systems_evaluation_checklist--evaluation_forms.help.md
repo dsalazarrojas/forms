@@ -1,8 +1,3 @@
-<thinking>
-The Systems Evaluation Checklist form is designed to gather information about the evaluation process of a project's systems. This form is intended for project managers to provide regular evaluations of their projects' performance. The evaluation process is crucial in identifying areas that need improvement, tracking progress, and making data-driven decisions.
-Before filling out this form, please ensure you've reviewed the project's current status, including any ongoing or past evaluations. This will help you provide accurate and relevant information for this evaluation.
-</thinking>
-
 # Systems Evaluation Checklist - Help Guide
 ## Purpose
 The Systems Evaluation Checklist form is a tool for project managers to evaluate and track the performance of their projects' systems. It helps project managers to identify areas that need improvement and make data-driven decisions.

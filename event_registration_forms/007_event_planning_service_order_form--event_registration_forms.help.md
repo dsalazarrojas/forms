@@ -1,7 +1,3 @@
-<thinking>
-To determine the form's purpose and ensure this guide does not duplicate existing knowledge, I'll need to make some educated guesses about the event planning process and typical forms used in this context. The goal is to help users understand the form's purpose, how to complete it, and what each field means.
-</thinking>
-
 # Event Planning Service Order Form - Help Guide
 
 ## Purpose

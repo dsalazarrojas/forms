@@ -1,7 +1,3 @@
-<thinking>
-The form is an AI-generated, public domain form designed to assist in assessing risks. The form's purpose is to collect information about a person's risk factors, medical history, allergies, medications, and additional comments. It's likely created for healthcare or risk management purposes. Before completing this form, please ensure you have the necessary information and consent from the individual or their representative. This form is an original adaptation of public survey metadata and does not copy or use proprietary content from other platforms.
-</thinking>
-
 # Risk Assessment Questionnaire - Help Guide
 ## Purpose
 The Risk Assessment Questionnaire is designed to collect information about a person's risk factors, medical history, allergies, medications, and additional comments. This form is intended to assist in assessing risks in a healthcare or risk management context.

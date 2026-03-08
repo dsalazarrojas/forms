@@ -1,7 +1,3 @@
-<thinking>
-This form is used for users to sign up for food gatherings, allowing them to provide their name, email, and other relevant information. The form is likely used for internal management purposes, such as tracking attendee information. To ensure accurate completion, please review the form carefully. Note that some fields are marked as required, which means they must be filled in for the form to be submitted successfully. 
-</thinking>
-
 # Food Signup for Gatherings - Help Guide
 ## Purpose
 This form is used to collect information from users for food gatherings.

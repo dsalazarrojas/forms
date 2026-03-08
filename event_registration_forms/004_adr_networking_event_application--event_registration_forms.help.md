@@ -1,12 +1,3 @@
-<thinking> 
-This form is for attendees to register for the ADR (Art Director's Review) Networking Event. The form captures the necessary information to manage attendee expectations, facilitate networking opportunities, and ensure a smooth event experience. 
-
-To prevent duplicate applications, a check will be performed on submitted entries to ensure uniqueness of the contact email address. 
-
-Before proceeding, please ensure you have all required fields filled out accurately and truthfully. If you're unsure or need more information, please contact the event organizers directly.
-
-</thinking>
-
 # ADR Networking Event Application - Help Guide
 ## Purpose
 The ADR Networking Event Application form is designed to gather essential information from attendees to ensure a seamless and enjoyable experience. By submitting this form, you'll be able to connect with fellow attendees, participate in sessions of interest, and receive important event updates.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended for customers to order Valentine's DIY kits. The form is designed to collect basic information from customers, including their kit preferences, contact details, and payment method. The form is not intended for internal use within the company and is primarily for external customers to place orders. Please ensure this form is not used for any other purpose than what it was intended for. 
-
-</thinking>
-
 # Valentine DIY Kits Order Form - Help Guide
 ## Purpose
 The Valentine DIY Kits Order Form is a simple, user-friendly form for customers to order DIY kits for Valentine's Day celebrations. The form will help you collect necessary information to process their orders efficiently.

@@ -1,7 +1,3 @@
-<thinking>...
-This form is a Virtual Event Registration Form used for event registration purposes. It is designed to gather information from attendees about their first name, last name, email, phone number, registration date, event name, event type, and ticket price. The form does not have any specific validation or conditional logic that would prevent users from proceeding without filling out all fields. This form is likely used for general event registration purposes and does not have any specific security or sensitive information requirements. It is expected that users will fill out the form for event planning purposes.
-</thinking>
-
 # Virtual Event Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from attendees for virtual events.

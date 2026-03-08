@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect details about a seminar, including the seminar title, attendee name, attendee email, and attendee phone number. The purpose of this form is to gather information from attendees who want to participate in the seminar. The form does not require a specific structure or format, so the end user can fill it out in a way that is clear and concise.
-</thinking>
-
 # Seminar Details Form - Help Guide
 ## Purpose
 

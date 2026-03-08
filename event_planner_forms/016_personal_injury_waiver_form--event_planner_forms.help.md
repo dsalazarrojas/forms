@@ -1,9 +1,3 @@
-<thinking>As an expert in form design and technical writing, I will create a comprehensive help guide for the "ประกerson Injury Waiver Form". The form is designed to collect information from participants, particularly in events where there may be a risk of injury, such as sports competitions, adventure activities, or any other events where liability concerns may arise. This guide will explain the purpose and usage of each field in the form, ensuring that end-users understand the context and requirements for completing the form accurately.
-
-This guide will be based on the provided YAML fields and follows a structured format to facilitate easy understanding.
-
-</thinking>
-
 # ประกerson Injury Waiver Form - Help Guide
 ## Purpose
 The "ประกerson Injury Waiver Form" is designed to be completed by participants in events where there is a risk of injury, ensuring that they are aware of and acknowledge certain risks, and that they provide necessary information for their care and liability purposes in case of an emergency. The form requires specific details from participants to ensure a smooth and safe event experience.

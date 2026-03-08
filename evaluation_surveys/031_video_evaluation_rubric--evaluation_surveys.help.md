@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Video Evaluation Rubric - Help Guide
 ## Purpose
 This form is designed to help users evaluate videos based on a set of criteria. It is used to provide feedback on video content, quality, and relevance.

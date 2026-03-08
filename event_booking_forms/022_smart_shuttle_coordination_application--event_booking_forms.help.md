@@ -1,7 +1,3 @@
-<thinking>
-This form, the "Smart Shuttle Coordination Application," aims to collect information about events and trips for coordination and scheduling purposes. It appears to be designed for managing and coordinating events, riders, and trips. To avoid duplication or misinterpretation, please ensure that each event or trip details are filled out accurately, and if there's any confusion, contact the form creators at form@gic.mx.
-</thinking>
-
 # Smart Shuttle Coordination Application - Help Guide
 ## Purpose
 

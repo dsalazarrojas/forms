@@ -1,13 +1,3 @@
-<thinking>As a user-facing help guide, the primary goal of this help guide is to assist users in understanding the purpose and requirements of the form titled "franchise_owner_conference_registration". The purpose of this form is to gather information from franchise owners regarding their conference registration details. This form will help us better understand the preferences and needs of each franchise owner, allowing us to tailor our conference setup according to their needs.
-
-We need to ensure that this guide is clear and concise, covering all aspects of the form, and that users understand what information is required and what information is optional. This will save time and reduce confusion in the submission and processing of registrations.
-
-Please note that the following fields are optional unless otherwise stated.
-
-Before starting, please ensure that you have the required information ready to fill in the form.
-
-</thinking>
-
 # franchise_owner_conference_registration - Help Guide
 ## Purpose
 

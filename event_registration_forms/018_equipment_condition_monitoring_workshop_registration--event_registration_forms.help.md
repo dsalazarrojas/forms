@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect information from users who want to attend the Equipment Condition Monitoring Workshop. The purpose of this form is to register attendees for the workshop, allowing them to specify their details, preferred workshop dates, any special requirements they may have, and contact information. This form ensures that the workshop organizers have the necessary information to accommodate the attendees' needs and provide them with the necessary support during the event. It's essential to note that the form is not intended to be a comprehensive survey but rather a registration form to collect basic information from attendees. The form is open for registration until the workshop is full or the cut-off date is reached, whichever comes first. If a user has already registered for the workshop, they will not be able to register again.</thinking>
-
 # Equipment Condition Monitoring Workshop Registration - Help Guide
 
 ## Purpose

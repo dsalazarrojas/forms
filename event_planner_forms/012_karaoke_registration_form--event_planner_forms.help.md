@@ -1,8 +1,3 @@
-<thinking>
-This form is used for registering a user for a karaoke event. This form collects information about the registrant, including their name, song request, and contact details. This form helps ensure that the registrant's information is accurately captured and can be used for event planning purposes. Before filling out this form, please ensure you have already checked that the event is not already registered. Duplicate registrations are not allowed.
-
-</thinking>
-
 # Karaoke Registration Form - Help Guide
 ## Purpose
 The Karaoke Registration Form is used to collect information from users who want to participate in a karaoke event. This form is essential for event organizers to have the necessary details to manage the event smoothly.

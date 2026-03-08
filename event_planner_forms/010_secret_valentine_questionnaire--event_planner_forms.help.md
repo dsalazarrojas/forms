@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Secret Valentine Questionnaire - Help Guide
 
 ## Purpose

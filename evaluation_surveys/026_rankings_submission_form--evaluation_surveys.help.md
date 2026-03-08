@@ -1,11 +1,3 @@
-<thinking>
-
-We're creating a form for users to submit rankings or ratings, likely for evaluation or survey purposes. This form seems to be designed to collect diverse types of information from users, including notes, ratings (numeric and select_multiple), and demographic data (email). The form might be used to gather feedback or opinions from users, or to collect data for research purposes.
-
-Before starting, please make sure to complete the form only once. Duplicate submissions might lead to data inconsistencies and inaccuracies.
-
-</thinking>
-
 # Rankings Submission Form - Help Guide
 ## Purpose
 This form is designed to collect user ratings and rankings for evaluation or survey purposes. It has multiple pages with different types of fields, including notes, numeric ratings, select one and multiple options, and email address.

@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this Virtual Bra Fitting Booking Form is to allow customers to schedule an online appointment for a bra fitting. The form collects contact information and booking details from customers, enabling the business to manage and prepare for the fitting session.
-
-To ensure that the form is used correctly, let's verify that it is not being used for other purposes, such as duplicate submissions or unrelated bookings. Please confirm that the form is only used for virtual bra fitting bookings.
-
-</thinking>
-
 # Virtual Bra Fitting Booking Form - Help Guide
 ## Purpose
 The Virtual Bra Fitting Booking Form is designed to allow customers to schedule an online appointment for a bra fitting. Fill out this form to reserve a time slot for a virtual consultation with our bra fitting expert.

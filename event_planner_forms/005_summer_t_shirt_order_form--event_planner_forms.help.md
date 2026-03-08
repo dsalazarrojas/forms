@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for a summer T-shirt order. The form is likely used for a company or organization to collect orders for T-shirts with specific features such as size, color, and quantity. However, some fields seem to be unrelated to the order process, such as fields for email, phone, name, company, order total, tax rate, and order status. These fields may be added for administrative purposes or to track customer information. To confirm, I will base my explanation on the provided YAML fields and provide a clear and concise help guide for end-users.
-
-</thinking>
-
 # Summer T Shirt Order Form - Help Guide
 ## Purpose
 This form is used to collect information for a summer T-shirt order. Please follow these steps to complete the form.

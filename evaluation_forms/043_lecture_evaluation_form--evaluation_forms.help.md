@@ -1,9 +1,3 @@
-<thinking>
-Do we want to evaluate the lectures to see how students are enjoying them or not? We want to understand whether the speaker was engaging and if the content and the materials were well-organized. The form should only take a few minutes to fill out and should be straightforward to understand. This should not be too long or complicated to fill out as the goal is for students to provide feedback, not get bogged down with complicated forms. Are you evaluating the same lecture multiple times? Please fill out this form once per lecture to provide accurate feedback.
-
-The following help guide is for students who have taken this lecture.
-</thinking>
-
 # Lecture Evaluation Form - Help Guide
 ## Purpose
 This form is designed to evaluate your experience of a recent lecture. This will give us an idea of the quality of our courses so we can improve for you in the future.

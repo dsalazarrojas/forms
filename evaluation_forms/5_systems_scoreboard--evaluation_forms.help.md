@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registering participants for a 5K run event. Before completing this form, ensure that you are registering as part of the 5K run and not duplicating your registration. This guide provides instructions on how to fill out the form accurately and correctly.
-</thinking>
-
 # 5K Run Registration Template - Help Guide
 ## Purpose
 This form is for registering participants for the 5K run event. It collects information necessary for race management and communication with participants, including contact details, emergency contacts, and other important information.

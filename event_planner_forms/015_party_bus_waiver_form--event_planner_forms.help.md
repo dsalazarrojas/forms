@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information from party bus riders to ensure they have a safe and enjoyable experience on the party bus. It collects contact information, medical conditions, and other essential details to provide a smooth and secure environment for all passengers. This form is typically used before embarking on a party bus adventure.
-</thinking>
-
 # Party Bus Waiver Form - Help Guide
 ## Purpose
 The Party Bus Waiver Form is used to collect important information from party bus riders to ensure their safety and comfort during the journey.

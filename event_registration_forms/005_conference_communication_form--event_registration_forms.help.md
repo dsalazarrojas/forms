@@ -1,7 +1,3 @@
-<thinking>
-We are developing a help guide for the "Conference Communication Form" used for event registration. This form is essential for attendees to communicate their preferences and information for the conference organizers. To ensure that our guide is helpful, we will only cover the necessary fields and explanations, avoiding duplication and non-relevant information. 
-</thinking>
-
 # Conference Communication Form - Help Guide
 ## Purpose
 The Conference Communication Form is a crucial part of the registration process, allowing attendees to provide their contact information and preferences for communication during the event. By filling out this form, attendees can ensure they receive relevant and timely updates, reminders, and notifications about the conference.

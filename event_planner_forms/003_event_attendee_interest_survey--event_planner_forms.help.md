@@ -1,6 +1,3 @@
-<thinking> 
-This form is intended to gather information from event attendees about their interest in various events. The form collects data on event type, date, location, and attendees, among other details. This form should be completed by individuals who are interested in attending events to help event planners understand their preferences and tailor their offerings accordingly. Ensure that you complete this form accurately and thoroughly to provide the most valuable information to event planners. </thinking>
-
 # Event Attendee Interest Survey - Help Guide
 ## Purpose
 The Event Attendee Interest Survey is designed to gather information from event attendees about their preferences for various events. This will help event planners to better understand their interests and offer tailored services.

@@ -1,8 +1,3 @@
-<thinking>
-This help guide is designed to walk users through the Organizational Strategy Lab Registration form. Before proceeding, please ensure that you have a clear understanding of the form's purpose and that this is not a duplicate registration. The form is intended to collect information from users for the purpose of registering their participation in the Organizational Strategy Lab event. 
-
-The event aims to provide a platform for users to engage in discussions and workshops related to organizational strategy. The registration process is crucial for organizers to plan and prepare for the event. Please take a moment to review the form fields below to ensure you have provided all necessary information to complete your registration successfully.
-</thinking>
 # Organizational Strategy Lab Registration - Help Guide
 ## Purpose
 This form is used to register participation in the Organizational Strategy Lab event. It is essential to provide accurate and complete information to ensure proper registration and event planning.

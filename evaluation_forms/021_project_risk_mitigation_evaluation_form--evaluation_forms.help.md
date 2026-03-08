@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect and evaluate project risk mitigation strategies. It's intended for project managers to assess the risks associated with a project and identify potential areas for improvement. The form is not meant to be a comprehensive risk assessment tool, but rather a starting point for project teams to evaluate and discuss project risks.
-
-The purpose of this form is to help project teams:
-* Identify potential risks and their associated frequencies and impacts
-* Evaluate the level of risk for each identified risk
-* Document the risk description, frequency, and impact
-* Assign a project manager ID for each risk
-
-To ensure accurate and consistent data collection, please fill out the form completely and thoroughly.
-
-</thinking>
-
 # Project Risk Mitigation Evaluation Form - Help Guide
 ## Purpose
 The Project Risk Mitigation Evaluation Form is designed to collect and evaluate project risk mitigation strategies. It's intended for project managers to assess the risks associated with a project and identify potential areas for improvement.

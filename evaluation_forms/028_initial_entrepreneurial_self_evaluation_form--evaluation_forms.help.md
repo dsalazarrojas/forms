@@ -1,5 +1,3 @@
-<thinking>Before filling out this form, please note that it is intended to help entrepreneurs and business owners evaluate their business ideas. This form is designed to collect information about your business concept, its potential for growth, and key areas to consider. To ensure you get the most out of this form, please answer each question truthfully and provide as much detail as possible. If you're unsure about any of the questions, you can refer to the field explanations below for guidance. Also, please note that some fields are optional, but completing them will provide more valuable insights for your business idea.</thinking>
-
 # Initial Entrepreneurial Self Evaluation Form - Help Guide
 ## Purpose
 The Initial Entrepreneurial Self Evaluation Form is designed to help you assess the feasibility and potential of your business idea. It covers various aspects of your business, including its growth potential, financial projections, management structure, and market trends.

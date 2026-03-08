@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from users about a specific event or occurrence. The form is likely used in a medical or screening context, where the user's input will help assess their risk level or suitability for an event or activity. This form should not be used for general inquiries or casual feedback, as it contains sensitive information and requires careful completion. Before proceeding, please make sure you are submitting this form for the correct purpose and have reviewed the required fields carefully.
-</thinking>
-
 # Prescreen Form - Help Guide
 ## Purpose
 The Prescreen Form is designed to collect critical information from users about a specific event or occurrence.

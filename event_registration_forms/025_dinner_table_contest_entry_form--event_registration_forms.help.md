@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect data for a dinner table contest. Contestants will be providing information about themselves, their dishes, and their submissions. This form is likely used to streamline the contest entry process and gather necessary details for judging and administration purposes.
 
 To ensure that contestants' submissions are unique and valid, the form has several fields that are not explicitly required for entry but may be reviewed upon submission. Contestants should provide as much accurate information as possible to increase their chances of getting feedback or recognition.

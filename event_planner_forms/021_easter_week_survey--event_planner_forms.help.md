@@ -1,10 +1,3 @@
-<thinking>
-This form is used for planning and organizing events, specifically for Easter week celebrations. The form is designed to collect information about the event, including sales performance, shopkeeper details, and attendee information. It's likely used for internal planning and organization purposes within a sales or event planning team.
-The form appears to be a comprehensive tool for managing various aspects of an event, including dates, times, locations, and attendee details. It's possible that this form is used for events that occur on specific dates and times, such as conferences or workshops.
-This form seems to be focused on collecting data about sales performance and events, which may indicate that it's used within a sales or event planning context.
-Before proceeding, please ensure you are filling out this form for a genuine Easter-related event or activity.
-</thinking>
-
 # Easter Week Survey - Help Guide
 ## Purpose
 This form is used to collect information for events or activities related to Easter week celebrations. It helps to organize and plan events, sales, and other activities that take place during this time period.

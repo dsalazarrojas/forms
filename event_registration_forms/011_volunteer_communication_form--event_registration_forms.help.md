@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for volunteers to provide their contact information and communication preferences. The form helps in maintaining a database of volunteers and their preferred communication methods, allowing event organizers to reach out to them effectively. This information is essential for event planning and execution. 
-Please ensure you're only filling out this form for yourself or if you've been invited as a volunteer, and avoid duplication or submitting false information.
-</thinking>
-
 # Volunteer Communication Form - Help Guide
 ## Purpose
 This form is designed for volunteers to share their contact information and communication preferences with event organizers. This information helps event organizers stay in touch with volunteers efficiently and effectively.

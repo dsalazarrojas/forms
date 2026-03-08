@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to collect information from couples celebrating their marriage anniversary. The purpose of the form is to gather details about the couple, including their names, contact information, and the date and time of their marriage. The form is likely to be used by event planners to track and organize the mass registration for the anniversary celebration.
-
-Before proceeding, please ensure that you have the necessary permissions and approvals to fill out this form on behalf of the couple.
-
-This form is not intended to be filled out multiple times by the same person. Each submission should represent a unique couple celebrating their anniversary.
-
-</thinking>
-
 # World Marriage Day Anniversary Mass Registration Form - Help Guide
 
 ## Purpose

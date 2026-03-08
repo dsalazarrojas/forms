@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to assess an organization's Agile maturity, which is a measure of how well an organization has adopted and implemented Agile practices and principles. This assessment is a valuable tool for teams and organizations looking to improve their Agile maturity and achieve better results. The form is divided into several sections that cover different aspects of Agile maturity, such as culture and values, processes and practices, people and capabilities, and business value.
-
-The form is intended to be used by an assessor to evaluate an organization's current state of Agile maturity, provide recommendations for improvement, and help the organization develop an action plan to reach higher levels of Agile maturity. The form is based on the Agile Maturity Model, which is widely recognized and used in industry best practices.
-
-The assessor should complete the form by providing ratings and scores for each section, and provide recommendations for improvements based on their evaluation. The form is designed to be easy to use and understand, and the sections and questions are tailored to elicit specific information about the organization's Agile maturity.
-
-</thinking>
-
 # Agile Maturity Assessment Form - Help Guide
 ## Purpose
 The Agile Maturity Assessment Form is designed to help teams and organizations evaluate their current state of Agile maturity and identify areas for improvement. The form is based on the Agile Maturity Model and is a valuable tool for teams and organizations looking to improve their Agile maturity and achieve better results.

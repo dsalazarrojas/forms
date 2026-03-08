@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to collect feedback from event participants about their experience with our events and content. The form has 5 fields:
-	* Feedback: This is the main text field where participants can share their thoughts and comments about the event.
-	* Satisfaction: This field is a numeric scale (1-10) where participants can rate their overall satisfaction with the event.
-	* Content preferences: This field is a multiple-choice question where participants can express their interest in different types of content (e.g., music, art, food).
-	* Event experience: This field is another text field where participants can elaborate on their experience with the event.
-	* Fan preferences: This field is a text field where participants can share what they liked about our event.
-
-The purpose of this form is to collect feedback that can help us improve our events and content to better engage our fans. It is essential to provide honest and specific feedback, and to the best of your knowledge, please do not submit duplicate feedback.
-
-Please ensure that the feedback you provide is relevant to the event you attended.
-
-Please note that the feedback form is for internal use only. Your input will help us improve our events and content for future participants.
-</thinking>
-
 # Fan Engagement Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from event participants about their experience with our events and content.

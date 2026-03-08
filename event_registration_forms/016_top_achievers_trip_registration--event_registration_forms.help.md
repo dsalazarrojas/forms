@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication and ensure accurate completion, this form is intended for registering participants in a trip, gathering necessary information for a smooth experience. The purpose of this form is to collect details about the participant's background, travel preferences, and medical information to cater to their needs and ensure a safe and enjoyable trip. This form should only be filled out by participants who are actually attending the trip, and not as a test or placeholder.
-</thinking>
-
 # Top Achievers Trip Registration - Help Guide
 ## Purpose
 The Top Achievers Trip Registration form is designed to collect essential information from participants to ensure a successful and enjoyable trip experience. Please fill out this form carefully and accurately to help us provide the best possible experience for you.

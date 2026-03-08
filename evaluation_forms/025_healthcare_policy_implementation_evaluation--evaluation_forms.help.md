@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Healthcare Policy Implementation Evaluation - Help Guide**
 ## Purpose
 This form is designed to collect information about the implementation of healthcare policies in a healthcare organization. The form helps to evaluate the effectiveness and impact of the policies on patient care, staff, and the organization as a whole.

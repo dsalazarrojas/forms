@@ -1,8 +1,3 @@
-<thinking>
-The internal reasoning block to understand the form purpose: 
-The form "harp_performance_feedback_survey" is designed to collect feedback from users about performances related to harp music. It seems to assess various aspects of the event, such as the harp player's performance, music style, and event organization. The form has multiple fields, including options for rating and selecting multiple-choice answers. This guide aims to break down each field and explain its purpose and requirements for users to fill out the form effectively.
-</thinking>
-
 # harp_performance_feedback_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on performances related to harp music, allowing the event organizers to assess and improve the overall experience of their events.

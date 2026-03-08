@@ -1,10 +1,3 @@
-<thinking>
-The Free Yoga Intro Class RSVP Form is designed to allow users to express their interest in attending a free yoga class. By filling out this form, users can provide necessary information about themselves and their attendance plans, which will help the event organizers prepare for the class.
-
-Before completing the form, please ensure that you are not already registered for this event. If you have any questions or concerns, feel free to reach out to the event organizers.
-
-</thinking>
-
 # Free Yoga Intro Class RSVP Form - Help Guide
 ## Purpose
 The Free Yoga Intro Class RSVP Form is intended to collect information about attendees who are interested in attending a free yoga class. This form will help the event organizers prepare for the class, ensuring that there are enough resources and materials for each attendee.

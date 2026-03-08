@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to assess the academic achievement of a student. It captures relevant information from the student's perspective. The purpose is to provide a structured evaluation process, allowing for efficient and thorough evaluation. The form should be used as a reference point for teachers, instructors, or educational professionals to evaluate student's performance.
-</thinking>
-
 # Student Academic Achievement Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect data on a student's academic performance, helping educators to evaluate and provide feedback to the student. It covers various aspects of the student's achievement, including grade level, subject areas, and evaluation date and time.

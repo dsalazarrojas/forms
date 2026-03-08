@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # forklift_operator_evaluation_form - Help Guide
 ## Purpose
 The Forklift Operator Evaluation Form is used to assess the performance of a forklift operator. It captures information about the operator's name, supervisor's name, evaluation date, time, score, comments, rating, and other relevant details. This form helps in conducting thorough evaluations and provides valuable feedback to operators.

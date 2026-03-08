@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about upcoming workshops. It is intended to be used by organizers to provide details about the event such as its name, date, time, duration, venue, and organizer. This guide will help users understand what each field is for and how to complete it correctly.
-</thinking>
-
 # Workshop Information Form - Help Guide
 
 ## Purpose

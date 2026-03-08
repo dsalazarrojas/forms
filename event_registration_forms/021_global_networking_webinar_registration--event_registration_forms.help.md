@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and usage of the Global Networking Webinar Registration form. This form is designed to collect information from participants for events organized by the organization. The form should be reviewed to ensure that all required fields are completed before submission. Please note that this form is not intended for general public use and is primarily used for internal purposes by the organization. It is recommended to only fill out the form if you are a registered participant.
-
-</thinking>
-
 # Global Networking Webinar Registration - Help Guide
 ## Purpose
 The Global Networking Webinar Registration form is a tool used by the organization to collect information from participants for events organized by the organization. This form helps to ensure accurate and relevant information is collected from participants.

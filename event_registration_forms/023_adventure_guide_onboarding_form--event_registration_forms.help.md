@@ -1,9 +1,3 @@
-<thinking>
-
-We need to ensure that the onboarding process is clear and comprehensive to help new guides get started as quickly and effectively as possible. This form is designed to collect essential information about the guide's personal and professional background, emergency contact, and availability. To avoid any potential delays or issues during the onboarding process, please ensure that all required fields are completed accurately and thoroughly.
-
-</thinking>
-
 # Adventure Guide Onboarding Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information about you as an adventure guide, ensuring we can verify your identity, assess your qualifications, and confirm your availability for guiding activities.

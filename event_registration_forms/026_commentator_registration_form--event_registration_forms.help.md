@@ -1,13 +1,3 @@
-<thinking>
-This form is intended for commentating talent to register and showcase their qualifications for potential broadcasting gigs. The purpose of this form is to collect relevant information about the commentator's experience, skills, and availability to determine their suitability for future events. To avoid duplicating efforts, ensure that you're not already registered in our system before submitting this form.
-
-This form is designed to guide you through a comprehensive registration and qualification process. Please fill out the form carefully and accurately to increase your chances of being considered for future commentating opportunities.
-
-Below is a step-by-step guide to help you complete this form:
-
-### Purpose
-</thinking>
-
 # Commentator Registration Form - Help Guide
 ## Purpose
 The Commentator Registration Form is designed to collect information about your experience, skills, and availability to determine your suitability for commentating gigs. This form is a critical step in our talent registration process.

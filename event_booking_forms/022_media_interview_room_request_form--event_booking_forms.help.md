@@ -1,9 +1,3 @@
-<thinking>
-This form is used to request a media interview room. It is intended for employees to reserve a room for media-related activities such as video interviews, photo shoots, or filming. 
-The form is meant to gather all necessary information for the room reservation process. 
-Before filling out this form, please ensure that you have a valid reason for requesting a media interview room and that you are not duplicating an existing request. 
-</thinking>
-
 # Media Interview Room Request Form - Help Guide
 ## Purpose
 This form is used to request a media interview room for events such as video interviews, photo shoots, or filming.

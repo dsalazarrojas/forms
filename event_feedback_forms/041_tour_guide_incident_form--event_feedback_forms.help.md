@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to provide users with a clear and concise understanding of the Tour Guide Incident Form. Please review this guide carefully to ensure you are using this form correctly and to avoid duplication of effort. 
-</thinking>
-
 # Tour Guide Incident Form - Help Guide
 ## Purpose
 The Tour Guide Incident Form is used to collect information about incidents that occur during a tour. This form helps in documenting and reporting incidents in a standardized and organized manner, ensuring that critical information is captured and reviewed for follow-up actions.

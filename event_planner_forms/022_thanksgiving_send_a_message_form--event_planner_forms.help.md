@@ -1,8 +1,3 @@
-<thinking>
-This is a form designed to help individuals send personalized messages or invitations to others during the holiday season, specifically around Thanksgiving. The form is meant to guide users in providing relevant and polite communication for this context. The form does not require any information about form creation, data collection, or survey topics. The purpose is straightforward - users will fill out the form to send a message to someone else. There is no need to provide redundant or duplicate information as the form only has one page with six fields for the sender's and recipient's details.
-
-</thinking>
-
 # thanksgiving_send_a_message_form - Help Guide
 ## Purpose
 This form is designed to help you send personalized messages or invitations to others during the holiday season.

@@ -1,10 +1,3 @@
-<thinking>
-Form purpose: The "sustainability_reporting_workshop_registration_form" is designed to collect participant information for a workshop focused on sustainability reporting. The form captures personal details, event preferences, and other relevant data to facilitate a successful and enjoyable workshop experience for all attendees. 
-
-Non-duplication check: Ensure that you only register once for this workshop by filling out this form with accurate and complete information. If you've already registered, please do not fill out this form again, as it may cause confusion and duplication of registration. 
-
-</thinking>
-
 # sustainability_reporting_workshop_registration_form - Help Guide
 ## Purpose
 

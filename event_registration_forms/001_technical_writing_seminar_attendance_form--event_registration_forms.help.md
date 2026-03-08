@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from participants regarding their attendance to the technical writing seminar. The form is used to gather data on participant's name, role, email, phone number, and other details. This form helps the organizers to keep a record of attendees and their preferences. To ensure you're filling out the correct form, please note that this is specifically for technical writing seminar attendees. Please ensure you don't submit this form for other types of events.
-</thinking>
-
 # technical_writing_seminar_attendance_form - Help Guide
 
 ## Purpose

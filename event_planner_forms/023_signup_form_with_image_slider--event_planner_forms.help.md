@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect user details for event planning purposes. It's a general form that can be used for various events, and its fields allow users to input their personal information, such as email, phone number, and date and time. The form also includes fields for uploading a profile picture and selecting options for certain categories. The goal of this form is to capture a comprehensive set of data from users for event planning.
-
-This form appears to be a general-purpose form and does not seem to be a duplicate of another form. However, if you are unsure about any field or its purpose, please reach out to us for further clarification.</thinking>
-
 # Signup Form With Image Slider - Help Guide
 ## Purpose
 The purpose of this form is to collect user details for event planning purposes.

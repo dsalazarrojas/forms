@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for registering attendees for the eco-efficiency symposium. It is designed to gather information about the attendees' details, session interests, special requirements, session preferences, submission agreement, dietary preferences, accessibility questions, and comments. The form is intended to be completed by individuals who are interested in attending the symposium and requires information that is relevant to their participation.
-
-Before filling out the form, please ensure that you have not already registered for the symposium using this form, as duplicate registrations may cause confusion.
-
-</thinking>
-
 # eco-efficiency-symposium-registration - Help Guide
 ## Purpose
 The purpose of this form is to gather information from attendees interested in attending the eco-efficiency symposium.

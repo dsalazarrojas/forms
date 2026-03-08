@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for evaluating the performance of an excavator operator. Excavator operators are typically individuals who operate heavy machinery used in construction and mining industries. This form is used to gather information from evaluators to assess the operator's skills, knowledge, and behavior during an evaluation session. The form may be used in a variety of settings, including construction sites, mining operations, or other areas where excavators are used. The purpose of this form is to provide a structured and comprehensive evaluation of the operator's performance, which can be used for training, certification, or other purposes.
-
-</thinking>
-
 # Excavator Operator Evaluation Form - Help Guide
 ## Purpose
 This form is used to evaluate the skills and performance of an excavator operator during an evaluation session.

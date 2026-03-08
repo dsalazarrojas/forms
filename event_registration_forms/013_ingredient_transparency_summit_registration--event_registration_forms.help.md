@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from participants who are interested in attending the Ingredient Transparency Summit. The form is part of the registration process for the event and aims to gather essential details from attendees such as their preferences for sessions and contact information. The fields in the form are designed to be completed by the participant, and the required fields must be filled out to successfully submit the registration. The form is intended for individuals who are interested in attending the summit and are able to provide their consent to the terms and conditions.
-</thinking>
-
 # Ingredient Transparency Summit Registration - Help Guide
 ## Purpose
 The purpose of this form is to collect registration information from individuals interested in attending the Ingredient Transparency Summit.

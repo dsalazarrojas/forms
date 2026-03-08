@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect data from end users to evaluate the health equity program, a program aimed at addressing and mitigating health inequities among different populations. The primary purpose of this survey is to gather information on various aspects of the program, including demographic information, health outcomes, program information, data sources, data collection methods, and next steps. The survey is crucial in ensuring that the program is effectively addressing the needs of diverse populations, and any information collected will be used to improve the program.
-
-However, before we proceed, let's check for potential duplication and relevance of the information collected. 
-
-This form seems to have a comprehensive and structured approach by collecting data on different aspects of the program. Nevertheless, it's crucial to ensure that the end-user understands the importance and relevance of each field. Therefore, a detailed help guide will be essential to facilitate the completion process.
-
-</thinking>
-
 # Health Equity Program Evaluation Survey - Help Guide
 ## Purpose
 

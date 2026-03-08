@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to gather essential information for booking and planning events such as corporate dinners, weddings, and other gatherings. It aims to collect details about the event, including date, time, and number of guests, as well as specific requirements like menu options, beverage service, and audio/visual equipment needs. The form is divided into sections for event description, dietary accommodations, entertainment, and payment terms, ensuring that all relevant factors are captured to provide a seamless event experience.
-
-By filling out this form, event organizers can ensure accurate event planning, confirm availability, and establish clear communication with the event management team.
-
-This form is meant to be filled out by event organizers, and the information will be used to tailor the event experience accordingly.
-
-To fill this out, please review each field carefully and provide as much detail as possible.
-
-</thinking>
-
 # Banquet Event Order Form - Help Guide
 ## Purpose
 This form is used to gather event details for seamless planning and organization.

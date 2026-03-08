@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to collect information from students who want to volunteer for a workshop event. The form is to be filled out by students who are interested in volunteering for one or more of the available events. Each field should be filled out according to its label. The fields are: 
   - First Name: A field to input your first name.
   - Last Name: A field to input your last name.

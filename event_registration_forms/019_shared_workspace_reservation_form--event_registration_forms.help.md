@@ -1,22 +1,3 @@
-<thinking>
-This form is used for reserving a shared workspace. The form is intended to collect information about an event, such as the date, time, and location of the event, as well as details about the event organizer and attendees. 
-The purpose of this form is to ensure that all necessary information is captured accurately and efficiently, reducing the likelihood of errors or missed appointments.
-
-To complete this form, please follow these steps:
-
-1. Enter your email address to associate with the event.
-2. Select the date and time of the event.
-3. Enter the name of the event and its location.
-4. Provide details about the event, such as the number of guests attending and the start and end times.
-5. Enter the contact information of the event organizer.
-6. Add any additional notes about the event.
-7. Select the shared space where the event will take place.
-8. Confirm the status of the event (active or inactive).
-9. Optionally, select additional event status options.
-10. Enter any notes regarding the event status.
-11. Assign the event to a specific tool or person.
-</thinking>
-
 # shared_workspace_reservation_form - Help Guide
 ## Purpose
 The shared workspace reservation form is used to reserve a shared workspace for an event. This form captures essential information about the event, including the date, time, location, and event details, to ensure accurate and efficient event planning.

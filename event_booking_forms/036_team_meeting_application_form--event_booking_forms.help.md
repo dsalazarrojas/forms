@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to be a Team Meeting Application Form for team members to request and book meetings with their team. The form will gather essential information from applicants to ensure that meetings are properly coordinated and scheduled. When filling out this form, please ensure that you're providing accurate and relevant information to facilitate the process.
-
-To complete this form, click on the link provided to access the form. Then, fill in the required fields as prompted. Make sure to select at least one meeting time that suits you best.
-</thinking>
-
 # Team Meeting Application Form - Help Guide
 ## Purpose
 The form is designed to gather information for team meeting applications and bookings.

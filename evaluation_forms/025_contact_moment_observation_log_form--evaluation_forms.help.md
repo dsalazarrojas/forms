@@ -1,21 +1,3 @@
-<thinking>
-This form is used for recording and evaluating customer interactions, such as phone calls, meetings, or other types of conversations. The purpose of this form is to gather information about the effectiveness of the agent's performance during the interaction and provide feedback for improvement. This form is part of the quality evaluation process and is used to help identify areas of strength and weakness in agent performance.
-
-To ensure accurate and comprehensive feedback, please note that the fields on this form are designed to be completed with respect to the specific interaction being evaluated. Please provide detailed and honest answers in each field, taking care to provide specific examples or incidents that illustrate your assessment.
-
-Before starting, please make sure to:
-
-* Review the interaction notes and any relevant documentation or recordings.
-* Assess the interaction based on your own evaluation criteria, such as active listening, empathy, problem-solving, and overall performance.
-
-When completing this form, please consider the following guidelines:
-
-* Be specific and objective when assessing each field.
-* Avoid vague or incomplete responses.
-* If unsure, choose "Unknown" or "N/A" when necessary.
-
-</thinking>
-
 # Contact Moment Observation Log Form - Help Guide
 
 ## Purpose

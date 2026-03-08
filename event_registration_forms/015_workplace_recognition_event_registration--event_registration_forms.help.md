@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for registering events within the workplace, allowing employees to provide information about upcoming events. It's essential to fill out this form correctly to ensure accurate record-keeping and to facilitate the organization's event planning and communication processes. Please ensure that you have the necessary permissions and authority to register events and that you're not duplicating efforts already underway.
-</thinking>
-
 # Workplace Recognition Event Registration - Help Guide
 
 ## Purpose

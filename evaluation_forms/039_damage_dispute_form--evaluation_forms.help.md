@@ -1,7 +1,3 @@
-<thinking>
-This form is used for disputing damage to a property. The property damage date should be the date the damage occurred or was noticed. The property manager is the person who is responsible for the property. The damage amount is the amount of money claimed for the repair or reimbursement. This form should be completed by the property owner or manager to report any damage to the property, with supporting evidence and additional comments as necessary.
-</thinking>
-
 # Damage Dispute Form - Help Guide
 ## Purpose
 This form is used to report and dispute damage to a property. It captures necessary information about the property, the damage, and supporting evidence.

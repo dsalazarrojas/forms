@@ -1,17 +1,3 @@
-<thinking>This is a form design and technical writing task that requires an understanding of the provided YAML fields and the purpose of the "Self Appraisal Form". The form seems to be designed for evaluating students, where a student and an appraiser (or evaluator) can both fill out the form. The form appears to capture various information such as student ID, name, email, appraiser's feedback, and overall performance evaluation. The form also includes fields for comments, strengths, areas of improvement, and additional comments. The form has multiple pages, but it's not clear how the pages are structured or which fields are on each page.
-
-To create a user-facing help guide for this form, we need to consider the following steps:
-
-1.  Identify the purpose of the form and its intended users.
-2.  Determine the structure of the form and which fields are on each page.
-3.  Explain each field and its intended use.
-
-The form seems to be used for evaluating students' performance, which is a subjective process. It's essential to provide clear guidance on how to complete the form accurately and fairly.
-
-The form is composed of multiple pages, but the field layout is not specified. Let's assume each field is on its own page for the sake of this exercise.
-
-After understanding the form's structure and purpose, we will create a help guide that includes a brief introduction, step-by-step instructions, and field-by-field explanations.</thinking>
-
 # Self Appraisal Form - Help Guide
 ## Purpose
 This form is designed for evaluating students' performance by a designated appraiser. The form is split into several sections that capture various information from both the student and the appraiser.

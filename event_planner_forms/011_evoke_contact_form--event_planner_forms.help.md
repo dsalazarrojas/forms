@@ -1,22 +1,3 @@
-<thinking>
-
-The Evoke Contact Form is designed to gather contact information and event details from users. This form is intended for customers or attendees to provide their contact information and event preferences, allowing our team to follow up with them and tailor our services accordingly. It is not intended for general inquiry or feedback purposes, as those use cases are managed through separate channels.
-
-The form is divided into multiple fields, each with its own specific purpose:
-
-*   **Form Name** (`form_name`, text, required): Enter a name for your event or gathering.
-*   **Email Address** (`email_address`, email, required): Enter your contact email address.
-*   **Phone Number** (`phone_number`, text, optional): Enter your phone number for contact purposes.
-*   **Message** (`message`, text, required): Provide a short message about your event or request.
-*   **Form Submit** (`form_submit`, text, required): Confirm your form submission.
-*   **Event Date** (`event_date`, date, optional): Enter the date of your event.
-*   **Event Start Time** (`event_start_time`, time, optional): Enter the start time of your event.
-*   **Event End Time** (`event_end_time`, time, optional): Enter the end time of your event.
-*   **Cover Image** (`cover_image`, note, optional): Upload a cover image for your event.
-*   **Top Header Color** (`top_header_color`, note, optional): Select a background color for your event header.
-
-Please fill out the form completely and accurately, making sure to enter all required fields. If you're unsure about any information, don't hesitate to contact us for clarification.</thinking>
-
 # Evoke Contact Form - Help Guide
 
 ## Purpose

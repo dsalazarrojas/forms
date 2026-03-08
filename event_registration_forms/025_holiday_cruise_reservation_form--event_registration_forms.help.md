@@ -1,5 +1,3 @@
-<thinking>...the form purpose is to collect user registration information for a holiday cruise event...this form is not affiliated with any specific form creation platform, but was generated based on a public survey topic metadata...this form is a free and open-source tool, released under CC BY 4.0...</thinking>
-
 # Holiday Cruise Reservation Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from travelers about their holiday cruise plans. The goal is to ensure accurate and complete data entry for the event organizers.

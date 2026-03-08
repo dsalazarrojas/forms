@@ -1,11 +1,3 @@
-<thinking>...
-
-This form is for evaluating a speech, likely to assess the effectiveness and quality of a public speaker, such as a teacher, professor, or student. It appears to be used by educators or instructors to assess communication skills, articulation, body language, vocal inflections, and other aspects of public speaking. 
-
-The form seems to be used for formative and summative evaluation purposes, possibly for feedback and improvement.
-
-</thinking>
-
 # Speech Evaluation Form - Help Guide
 ## Purpose
 This form is designed to help you assess the communication skills and overall effectiveness of a speaker. It's a comprehensive evaluation tool that covers various aspects of public speaking, including communication skills, articulation, body language, vocal inflections, and more.

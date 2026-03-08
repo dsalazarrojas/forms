@@ -1,9 +1,3 @@
-<thinking>Internal reasoning and duplication check:
-
-This form is designed to collect registration information for the Ethical Sourcing Awareness Forum. Users will be asked to provide their personal and professional contact details, as well as information about their company, such as its type, industry, size, sector, and location. The form will also capture data on the job function, resources, and company website. Some fields are marked as required, indicating that they must be completed for the form to be submitted. The purpose of this form is to gather data for the Ethical Sourcing Awareness Forum, but it may also serve other purposes, such as marketing or lead generation for the company. Before submitting the form, users are expected to provide accurate and truthful information.
-
-Before proceeding, check if you have already registered for the forum. If you have registered previously, please do not resubmit your information.</thinking>
-
 # Ethical Sourcing Awareness Forum Registration Form - Help Guide
 ## Purpose
 The Ethical Sourcing Awareness Forum Registration Form is designed to collect personal and professional contact information from interested parties. This data will be used to manage forum registrations and may also be used for marketing purposes.

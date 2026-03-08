@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from healthcare professionals about their current billing process efficiency. The purpose of this form is to identify areas of inefficiency and provide suggestions for improvement. This form should not be filled out by individuals who are not healthcare professionals.
-</thinking>
-
 # Healthcare Billing Process Efficiency Evaluation Form - Help Guide
 ## Purpose
 

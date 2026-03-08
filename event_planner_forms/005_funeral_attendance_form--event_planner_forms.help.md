@@ -1,10 +1,3 @@
-<thinking>
-The Funeral Attendance Form is a crucial document that helps us understand the attendance and seating preferences of mourners attending a funeral service. This form is designed to collect information about the attendees, including their name, relationship to the deceased, contact details, seating preferences, and arrival information. It's essential to complete this form accurately to ensure that we can provide the best possible experience for the family and the deceased.
-
-This form is typically used during a funeral service, and it's crucial to fill it out completely and correctly to avoid any confusion or errors. Please take a few minutes to review the form carefully and fill it out according to your information.
-
-</thinking>
-
 # Funeral Attendance Form - Help Guide
 ## Purpose
 The Funeral Attendance Form is a document that collects information about mourners attending a funeral service. It's essential to complete this form accurately to ensure that we can provide the best possible experience for the family and the deceased.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for a specific event or market booth setup order. It's likely used for a trade show or conference setup. The form is not designed for general events or other types of setup orders. It's recommended to ensure that the form is filled out by the correct person (e.g., event organizer or event staff) to avoid duplication of work or incorrect information being entered. This form requires no prior knowledge of the event or setup process to be completed.
-</thinking>
-
 # Organic Market Booth Setup Order Form - Help Guide
 ## Purpose
 The Organic Market Booth Setup Order Form is designed to collect essential information for a specific event or market booth setup order. This form will help the event staff efficiently prepare for the setup of the booth, ensuring all necessary details are captured accurately.

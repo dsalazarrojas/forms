@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect data on the user's evaluation of a food product, including rating, comment, and other relevant details about the product. This form is likely used by product managers or quality assurance teams to gather feedback from customers and evaluate the product's performance. Before proceeding, please ensure that you have a clear understanding of the product being evaluated and that you are not repeating an evaluation that has already been completed. 
-</thinking>
-
 # Food Product Evaluation Form - Help Guide
 ## Purpose
 The Food Product Evaluation Form is a tool used to gather feedback from customers on a specific food product. This form collects information on the product's quality, effectiveness, and overall customer experience.

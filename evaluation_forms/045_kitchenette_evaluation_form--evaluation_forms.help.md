@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback and evaluation data from users about kitchen items. The form is intended to be used by kitchen staff to evaluate the usefulness and discard rates of kitchen items. The form will help to gather data on the items that are useful and not useful, as well as any comments or feedback about the items. It's essential to complete this form carefully to ensure accurate data collection. 
-Please ensure you have the necessary permissions to access this form. If you have already completed this form for the same kitchen item, you do not need to complete it again. 
-If you're not sure about any field, you can ask your supervisor or colleague for clarification. 
-</thinking>
-
 # Kitchenette Evaluation Form - Help Guide
 
 ## Purpose

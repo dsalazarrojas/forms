@@ -1,11 +1,3 @@
-<thinking>
-This form is intended for customers to preorder wristbands for team events. To avoid duplication, customers can only preorder for one event per form submission. The form is designed to collect essential information from the customer, including their personal details and event-specific details. This includes the event they are preordering for, the color of the wristband, the quantity, and the payment method. Additionally, the form asks for team-related information such as the team's name, event type, and team member details.
-
-Please note that this form is a critical part of our event registration process and must be completed accurately and in full to ensure timely delivery of wristbands and correct event attendance.
-
-To complete this form, please follow the instructions below:
-</thinking>
-
 # Team Branded Wristband Preorder Form - Help Guide
 ## Purpose
 The Team Branded Wristband Preorder Form is designed to collect information from customers who wish to preorder wristbands for team events. The form is used to ensure accurate and timely delivery of wristbands and correct event attendance.

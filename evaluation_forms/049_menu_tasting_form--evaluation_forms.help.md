@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used in a food tasting context, possibly for rating and reviewing restaurants or food items. The goal is to collect information about a specific event, food item, and user's evaluation. It's possible that this form is part of a quality control process to assess the quality of food served at restaurants. The form might be used by restaurant managers or quality assurance teams to collect data that helps to identify areas for improvement. Before completing this form, make sure the information you provide is accurate and relevant to the specific menu item being evaluated. 
-</thinking>
-
 # Menu Tasting Form - Help Guide
 ## Purpose
 The Menu Tasting Form is designed to gather information about menu items and the quality of food served at restaurants. This form helps to collect ratings and feedback for quality control and improvement purposes.

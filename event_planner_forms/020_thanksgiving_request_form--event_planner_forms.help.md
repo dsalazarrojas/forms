@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to collect information from users who are requesting a specific event or activity to be held during the Thanksgiving holiday season. It is crucial that the form is completed accurately and truthfully to ensure that the event planner can process the request efficiently. To avoid any duplication or unnecessary processing, please ensure that you have not previously submitted a request for the same event or activity. Before proceeding, review the fields below to understand what is required and optional for each field.</thinking>
-
 # Thanksgiving Request Form - Help Guide
 ## Purpose
 The Thanksgiving Request Form is a tool for users to submit requests for events or activities to be held during the Thanksgiving holiday season. This form helps the event planner gather necessary information to process and manage these requests effectively.

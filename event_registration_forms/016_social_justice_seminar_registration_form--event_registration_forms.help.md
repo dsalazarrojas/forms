@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in attending the Social Justice Seminar. The purpose of this form is to gather essential details from registrants, including their name, contact information, and event-specific details. This form is not intended for general event inquiries or feedback; it's specifically tailored for those who want to register for the seminar. 
-
-The form is divided into sections for easy navigation. Each field is labeled and explained below to ensure a smooth completion process. Before starting, please make sure you have all necessary information ready. If you have any doubts or questions, feel free to contact us for assistance.</thinking>
-
 # Social Justice Seminar Registration Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to gather feedback from patients about their experience with the patient education platform. The purpose of this form is to evaluate the effectiveness and usability of the platform, gathering information about what patients think of its features, content, and overall satisfaction. It's essential to ensure that the platform meets the needs and expectations of its users, and this form helps us gather valuable insights to improve it. To avoid any duplication of effort, it's crucial that this form is completed for each unique user experience, so we encourage patients to provide honest and detailed feedback about their encounters with the platform.
-
-</thinking>
-
 # Patient Education Platform Evaluation Form - Help Guide
 ## Purpose
 This form is used to gather feedback from patients about their experience with our patient education platform.

@@ -1,14 +1,3 @@
-<thinking>
-This form is intended for conference registration for makeup artists. It gathers basic contact information and session attendance preferences. The form has 18 fields in total, including session preferences for up to 18 sessions. Each session has a 'Yes' or 'No' option. The form is divided into several sections, but the exact division is not specified in the provided YAML.
-
-To create a help guide for this form, I'll make some assumptions about the intended use and structure of the form.
-
-The form is likely used for registration of attendees for a conference, with the purpose of tracking their contact information and session preferences. It seems that the sessions are labeled as numbers (Session 1, Session 2, etc.), which might imply that there are multiple tracks or topics for the conference.
-
-The form has a lot of fields with similar labels, which could be improved for clarity and consistency. I'll focus on explaining each field in the context of the conference registration process.
-
-</thinking>
-
 # Makeup Artist Conference Registration - Help Guide
 ## Purpose
 This form is used to register attendees for a makeup artist conference. It collects basic contact information and session preferences to help us track your attendance and preferences.

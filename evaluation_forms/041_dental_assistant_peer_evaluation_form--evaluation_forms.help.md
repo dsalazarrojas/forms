@@ -1,11 +1,3 @@
-<thinking>
-
-This form is a structured tool for evaluating the performance of dental assistants in a clinical setting. The fields are designed to assess their ability to effectively communicate with patients, demonstrate technical skills, and work collaboratively with others. By providing feedback on these specific skills, evaluators can help dental assistants grow and improve their practice.
-
-Before proceeding, please ensure that you are using this form for its intended purpose and not duplicating efforts. The form is designed to gather feedback on individual dental assistants, not for general feedback or evaluation of entire teams.
-
-</thinking>
-
 # Dental Assistant Peer Evaluation Form - Help Guide
 ## Purpose
 This form is designed to help evaluate the performance of dental assistants in a clinical setting, focusing on their communication skills, technical abilities, and teamwork.

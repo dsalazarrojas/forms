@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information about events that need referrals to vendors. This form will help event planners gather essential details about each event, including the type of event, location, vendor, and other relevant information. The form's purpose is to streamline the referral process, making it easier for event planners to connect with potential vendors. By filling out this form, event planners can increase their chances of getting referrals from trusted vendors. To avoid duplication, event planners should only submit unique event referrals.
-</thinking>
-
 # Event Florist Referral Form - Help Guide
 ## Purpose
 This form is designed to help event planners find suitable vendors for their events by gathering essential details.

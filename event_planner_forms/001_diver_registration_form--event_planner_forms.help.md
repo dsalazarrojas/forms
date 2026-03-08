@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Diver Registration Form - Help Guide
 ## Purpose
 

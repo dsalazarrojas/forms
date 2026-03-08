@@ -1,8 +1,3 @@
-<thinking> 
-This form appears to be designed for collecting information related to diabetes analysis. It seems to be a comprehensive form that gathers contact information, medical history, observations, and follow-up details. Upon reviewing the YAML schema, I will create a help guide that covers the form's purpose, how to complete it, and a field-by-field explanation of each section.
-
-</thinking>
-
 # Diabetes Analysis Form - Help Guide
 ## Purpose
 The Diabetes Analysis Form is a tool used to collect and analyze data related to diabetes management. This form is designed to gather information about patients' contact details, medical history, observations, and follow-up requirements.

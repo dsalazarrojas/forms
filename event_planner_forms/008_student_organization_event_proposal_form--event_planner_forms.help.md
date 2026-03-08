@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for student organization event proposals, likely for academic or educational purposes. The form will gather details about the event, including its name, description, date, and time. The goal is to provide a structured way for students to propose and plan their events, potentially for approval and execution.
-</thinking>
-
 # Student Organization Event Proposal Form - Help Guide
 ## Purpose
 This form is designed to collect event proposal information from students. Use it to submit your event idea for review and approval.

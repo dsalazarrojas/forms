@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about charity events, including event details, financial data, and feedback from attendees. It's intended for event organizers to report on the success of their events, and it's likely that this form will be used by charity event staff or volunteers. 
-
-This form aims to gather comprehensive data about charity events, and its completion will help the organization understand the effectiveness of their fundraising efforts. However, please note that this form may not be the correct place to report confidential or sensitive information, and you should only input the required fields as per the guidelines provided.
-
-</thinking>
-
 # Charity Event Report Form - Help Guide
 
 ## Purpose

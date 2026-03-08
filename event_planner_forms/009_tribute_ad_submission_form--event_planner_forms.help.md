@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from event planners and organizers for a tribute or honorarium ad submission. The form is intended for use by event organizers who want to gather data from honorees or their representatives to display in a tribute ad. The form is not meant to be used by honorees themselves, as it does not collect any sensitive or personal information.
-</thinking>
-
 # Tribute Ad Submission Form - Help Guide
 ## Purpose
 The Tribute Ad Submission Form is a tool designed for event planners and organizers to collect information for a tribute or honorarium ad submission. It is meant to be used to gather data from honorees or their representatives and display it in a tribute ad.

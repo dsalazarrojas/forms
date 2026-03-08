@@ -1,17 +1,3 @@
-<thinking>
-
-The purpose of the "Workshop Registration On Equality Issues" form is to collect information from individuals interested in attending a workshop on equality issues. This form is designed to be completed by participants to provide details about their session choice, accessibility needs, and participant information. The form is created using AI-generated code and is intended for use in a workshop setting.
-
-To ensure the accuracy and effectiveness of the form, please review the following:
-
-* This form is not affiliated with, endorsed by, or derived from any form platform.
-* The form is released under CC BY 4.0 and can be used, modified, and sold freely, as long as credit is given.
-* The form is designed to be user-friendly and easy to complete, with clear labels and instructions.
-
-If you have any questions or need further clarification, please feel free to contact form@gic.mx.
-
-</thinking>
-
 # Workshop Registration On Equality Issues - Help Guide
 ## Purpose
 

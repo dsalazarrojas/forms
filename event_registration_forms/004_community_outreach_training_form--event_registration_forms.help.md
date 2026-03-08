@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect registration information for community outreach training sessions. The form will be used to gauge the registrant's interest and motivation for attending the training, as well as gather details about their previous experience and areas of interest. The form is intended to be completed by individuals who are interested in participating in the training, and the information collected will help the trainers prepare for the session and tailor it to the needs of the attendees.
-</thinking>
-
 # Community Outreach Training Form - Help Guide
 ## Purpose
 This form is used to register for community outreach training sessions and provide information about the registrant's background, interests, and needs.

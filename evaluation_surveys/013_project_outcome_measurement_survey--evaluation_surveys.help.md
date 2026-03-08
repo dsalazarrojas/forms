@@ -1,9 +1,3 @@
-<thinking>
-This form is used to measure the outcome of a project, assessing its likelihood of having a positive or negative impact, the type of outcome expected, and various other aspects such as resources used, project goal, main output, and expected changes in health, well-being, and productivity. It is designed to help project managers and stakeholders evaluate the effectiveness of a project in achieving its goals and objectives. 
-
-To avoid duplication of effort, please ensure that you are filling out this form for a project that has been completed or is still ongoing but nearing completion. If you are filling out this form for a project that is still in its initial stages, please wait until it has progressed further before submitting this form.
-</thinking>
-
 # Project Outcome Measurement Survey - Help Guide
 ## Purpose
 This form is used to measure the outcome of a project, assessing its likelihood of having a positive or negative impact, the type of outcome expected, and various other aspects such as resources used, project goal, main output, and expected changes in health, well-being, and productivity.

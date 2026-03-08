@@ -1,7 +1,3 @@
-<thinking>
-This form, "most_likely_to_survey", is used to collect information from participants about their likelihood to participate in surveys. The form is likely used for event registration or participant information collection. To avoid duplication, ensure this form is not filled out by the same participant multiple times. If a participant has already filled out this form, do not allow them to fill it out again.
-</thinking>
-
 # most_likely_to_survey - Help Guide
 ## Purpose
 The "most_likely_to_survey" form collects information from participants about their likelihood to participate in surveys. This form is used for event registration or participant information collection.

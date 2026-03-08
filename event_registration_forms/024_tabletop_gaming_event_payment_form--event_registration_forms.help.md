@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to gather payment information and event details for a tabletop gaming event. The purpose of this form is to collect attendee and payment information, track event registration and payment status, and provide a mechanism for refund processing in case of payment disputes. The form is divided into two main sections: Payment and Event Details. The payment section captures information about the payment method, amount, status, and refund options. The Event Details section captures information about the event, such as the event name, type, and date. The form aims to ensure accurate and transparent payment processing and event management.</thinking>
-
 # Tabletop Gaming Event Payment Form - Help Guide
 ## Purpose
 ## How To Complete This Form

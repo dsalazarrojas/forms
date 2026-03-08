@@ -1,9 +1,3 @@
-<thinking> 
-
-This help guide is for the "st_patricks_day_pub_crawl_sign_up_form" designed for event organizers to collect information from participants about the St. Patrick's Day Pub Crawl. The form aims to gather essential details, such as participant information, pub crawl participants, and agreements to terms and privacy policies. This form is not affiliated with, endorsed by, or derived from any form platform, but rather an original adaptation created using public survey topic metadata. 
-
-</thinking>
-
 # st_patricks_day_pub_crawl_sign_up_form - Help Guide
 ## Purpose
 This form is designed for event organizers to collect information from participants about the St. Patrick's Day Pub Crawl. It helps to gather essential details and ensure a smooth execution of the event.

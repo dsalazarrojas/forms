@@ -1,7 +1,3 @@
-<thinking>
-Internal note: This form is designed to collect information from attendees for the corporate open house event. The form will not be used for external purposes, and the data will be reviewed internally by the event organizers. To avoid duplication, please check if you've already registered for this event before submitting this form.
-</thinking>
-
 # Corporate Open House Booking Form - Help Guide
 
 ## Purpose

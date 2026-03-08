@@ -1,11 +1,3 @@
-<thinking>
-
-This help guide is intended to provide a clear understanding of the Panelist Dinner RSVP Form's purpose, how to complete it, and an explanation of each field. The form is used to collect information from panelists regarding their attendance and dietary needs for panelist dinner events. 
-
-The form has several pages with various fields, including select_one and select_multiple types for attendance and dietary needs, as well as text fields for guest details and special requests. The form also includes fields for contact information and email, which can be filled out if desired.
-
-</thinking>
-
 # Panelist Dinner RSVP Form - Help Guide
 ## Purpose
 The Panelist Dinner RSVP Form is used to collect information from panelists regarding their attendance and dietary needs for panelist dinner events.

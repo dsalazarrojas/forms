@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from practitioners (e.g., speakers, attendees, or exhibitors) to gather their feedback, preferences, and other relevant details for event planning and organization purposes. This form is likely used for events such as conferences, workshops, or meetups where the organizers need to know who is attending, their preferences, and any additional information that might be useful for the event's success.
-</thinking>
-
 # Best Practitioner Voting Form - Help Guide
 ## Purpose
 The "Best Practitioner Voting Form" is a tool for gathering information from practitioners participating in an event. This form helps the event organizers to collect essential details about the attendees, their preferences, and other relevant information.

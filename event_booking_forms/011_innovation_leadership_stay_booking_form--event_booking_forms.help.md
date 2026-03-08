@@ -1,9 +1,3 @@
-<thinking>
-
-The form is designed for users to book a stay at an innovation leadership program. This form will help users to provide their preferences and needs for the booking process. Please note that this form is for general purpose and is not meant for specific business logic or decision-making process. It is essential to provide accurate and clear information to make the booking process efficient and effective.
-
-</thinking>
-
 # Innovation Leadership Stay Booking Form - Help Guide
 ## Purpose
 This form is designed for users to book a stay at an innovation leadership program. Please fill out the form with your preferences and needs for the booking process.

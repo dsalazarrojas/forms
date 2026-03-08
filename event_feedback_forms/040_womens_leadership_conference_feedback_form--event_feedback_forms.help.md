@@ -1,7 +1,3 @@
-<thinking>
-We are creating a form to gather feedback from attendees of the Women's Leadership Conference. The form will help us understand the attendees' experiences, identify areas of improvement, and provide valuable insights to help us plan future events. Please ensure that this form is filled out only once per attendee, and not multiple times by the same person. This will help us prevent duplication of effort and ensure that we get a representative sample of feedback from our attendees.
-</thinking>
-
 # Womens Leadership Conference Feedback Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from attendees of the Women's Leadership Conference. This feedback will help us evaluate the event's success, identify areas for improvement, and plan future events that meet the needs and expectations of our attendees.

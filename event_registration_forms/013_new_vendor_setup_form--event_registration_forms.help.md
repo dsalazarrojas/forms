@@ -1,10 +1,3 @@
-<thinking>
-This form is used to set up a new vendor for the event registration process. It is intended to collect information about the vendor, including their name, contact email and phone, vendor type, products, and operating hours. This form helps event organizers to efficiently collect and verify vendor information before the event.
-
-Before filling out this form, please ensure that you have not already submitted the form for your company. If you are unsure, you can contact the event organizers to check.
-
-</thinking>
-
 # New Vendor Setup Form - Help Guide
 ## Purpose
 The New Vendor Setup Form is used to register a new vendor for the event. It is used to collect information about the vendor and their products and services.

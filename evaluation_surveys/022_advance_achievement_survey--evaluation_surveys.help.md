@@ -1,12 +1,3 @@
-<thinking>
-The "Advance Achievement Survey" form is designed to evaluate the effectiveness of various programs or courses in achieving their intended goals. It is intended for participants who have completed these programs or courses and provides feedback on their experience. The survey is used to identify areas of improvement and to help shape future program development. 
-
-Before proceeding, please ensure that you are completing this survey in relation to a specific program or course that you have participated in. If you have already completed this survey for the same program or course, your responses will not be registered again.
-
-Please note that your input will be used to improve the program or course and will be kept confidential.
-
-</thinking>
-
 # Advance Achievement Survey - Help Guide
 ## Purpose
 The Advance Achievement Survey is designed to gather feedback from participants about their experience with a specific program or course. Your input will help us understand what worked well and what can be improved to better serve future participants.

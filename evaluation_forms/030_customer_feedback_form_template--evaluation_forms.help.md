@@ -1,13 +1,3 @@
-<thinking>
-
-To determine whether this form should be used for customer feedback, the following conditions should be met:
-
-*   The purpose of the form is to collect feedback from customers about their experience with the company.
-*   The form should be used when a customer has had a specific interaction with the company, such as a customer service experience or a product inquiry.
-*   The form should not be used for duplicate feedback, such as if the customer has already provided feedback on the same issue.
-
-</thinking>
-
 # customer_feedback_form_template - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their experience with the company. It allows customers to provide information about themselves, their feedback, and their rating of the experience. This form should only be used when a customer has had a specific interaction with the company, such as a customer service experience or a product inquiry.

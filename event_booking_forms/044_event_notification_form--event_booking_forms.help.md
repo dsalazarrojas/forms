@@ -1,9 +1,3 @@
-<thinking>
-This guide will walk you through the process of completing the "Event Notification Form". The form is designed to collect information about upcoming events, allowing users to easily provide details about the event they wish to notify others about. This form is not intended for general event registration or calendar management. It is specifically focused on creating a simple notification for others to be aware of the event's existence and details. The form should only be used for events that have a clear start and end date, as well as a specific location and organizer contact information.
-
-It is essential to ensure that the correct event details are provided, and that the form is not used for non-event related purposes. If you're unsure about the form's purpose or have questions, please reach out to the event organizer or relevant personnel for clarification.
-</thinking>
-
 # Event Notification Form - Help Guide
 ## Purpose
 The "Event Notification Form" is a simple form designed to allow users to notify others about upcoming events. It collects basic information about the event, including its name, dates, location, and contact details for the organizer.

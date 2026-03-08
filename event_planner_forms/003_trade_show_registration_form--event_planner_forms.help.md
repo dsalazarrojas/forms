@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect information from attendees of trade shows, providing an opportunity for companies to register and showcase their presence at the event. The form is used to gather essential data about the attendees, including their personal details, company information, and specific preferences or requirements. This form is meant to be completed by both attendees and exhibitors to ensure accurate and comprehensive records for the event organizers.
-
-</thinking>
-
 # Trade Show Registration Form - Help Guide
 ## Purpose
 This form is designed to collect registration information from attendees and exhibitors of trade shows. Completing this form will help us provide a more personalized experience and better support your presence at the event.

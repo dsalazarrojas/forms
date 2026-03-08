@@ -1,6 +1,3 @@
-<thinking>
-To ensure the form is filled out correctly and accurately, please verify that the form title is indeed "Digital Marketing Training Registration Form" and that the form is not being duplicated. This form is intended to register attendees for a digital marketing training session. Each page is a separate section of the form that collects specific information from the attendee. The form does not require specific answers from the pages. However, it's assumed that all fields on each page must be filled in for the registration to be completed accurately.</thinking>
-
 # Digital Marketing Training Registration Form - Help Guide
 ## Purpose
 This guide will explain the process of filling out the "Digital Marketing Training Registration Form" accurately and completely.

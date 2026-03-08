@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users registering for a Zoom webinar. The form is designed to gather basic contact and company information, as well as details about the user's role in the webinar. The form is not currently required, so users who do not provide any information will still be able to submit the form. However, it's worth noting that providing this information will help us better understand who is attending the webinar and tailor our content and follow-up communication accordingly.
-</thinking>
-
 # Zoom Webinar Registration Form - Help Guide
 ## Purpose
 This form is used to register for a Zoom webinar. Please fill it out to let us know you're attending and to provide us with some basic information about yourself.

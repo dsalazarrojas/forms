@@ -1,34 +1,3 @@
-<thinking>
-This form appears to be a registration form for an event, possibly a holiday event or a school event, where users can input their personal details, preferences, and other relevant information. The form includes fields for name, email, phone number, signature, and other event-specific details such as event date, time, location, and gift preferences. The purpose of this form is to gather information from users for event planning and organization purposes.
-
-Before filling out this form, please note that some fields are optional, and you may skip them if not applicable. 
-
-The form can be completed as follows:
-
-1. Enter your **First name** and **Last name** in the respective fields.
-2. If you have a **Message** you'd like to share, enter it in the **Message** field.
-3. Enter your **Email** address in the **Email** field.
-4. Enter your **Phone number** in the **Phone** field.
-5. Sign your name in the **Holiday Card Signature** field.
-6. Select the **School** where you attend or have attended (if applicable).
-7. Choose the **Organization** you belong to or represent (if applicable).
-8. Select the **Date** and **Time** of the event (if applicable).
-9. Choose the **Event date** and **Event time** of the event (if applicable).
-10. Select the **Gift** you would like to receive or give (if applicable).
-11. Choose the **Event location** where the event will take place (if applicable).
-12. Enter a brief description of the event in the **Event description** field (if applicable).
-13. Select the type of **School** (Public, Private, or Charter) (if applicable).
-14. Select the **School grade** level (Elementary, Middle School, or High School) (if applicable).
-15. Enter a message for the **Gift message** (if applicable).
-16. Choose the **Event venue** (Theater, Museum, or Park) (if applicable).
-17. Select the **School name** (Elementary School, High School, or University) (if applicable).
-18. Enter a description of the event details in the **Event details** field (if applicable).
-19. Choose the **School location** (City, Town, or Country) (if applicable).
-20. Select the attendees of the event (Adult, Child, or Group) (if applicable).
-21. Enter the **School phone number** (if applicable).
-
-</thinking>
-
 # Holiday Card Signature Form - Help Guide
 
 ## Purpose

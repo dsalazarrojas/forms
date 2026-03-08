@@ -1,11 +1,3 @@
-<thinking>
-This help guide is intended to support event planners in using the Summer Camp Drop Off & Pick Up Form to collect relevant information from parents/guardians of children attending summer camps. It is crucial to ensure that this form is filled out accurately and completely to provide necessary details for camp organizers and ensure a smooth camp experience.
-The form is designed to be used for multiple purposes:
-* To collect summer camp registration information from parents/guardians.
-* To provide campers with necessary details such as drop off and pick up times.
-* To gather comments or additional information about the children.
-</thinking>
-
 # Summer Camp Drop Off & Pick Up Form - Help Guide
 ## Purpose
 The purpose of this form is to collect summer camp registration information from parents/guardians and provide details about drop off and pick up times for their children.

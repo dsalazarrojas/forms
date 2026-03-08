@@ -1,8 +1,3 @@
-<thinking>
-Internal reasoning block to determine form purpose and check for duplication:
-We are creating a "Digital Campaign Registration Form" for event management. The form is designed to collect relevant information from participants or attendees for events. This form is used to track and manage event details, including participant information, event dates and times, and budget allocation. To prevent duplication, we will check if a participant is already registered for the same event before allowing them to submit the form. If a participant is already registered, they will be notified and prompted to update their existing registration.
-</thinking>
-
 # Digital Campaign Registration Form - Help Guide
 ## Purpose
 The Digital Campaign Registration Form is designed to collect information from participants or attendees for event management. This form helps track and manage event details, including participant information, event dates and times, and budget allocation.

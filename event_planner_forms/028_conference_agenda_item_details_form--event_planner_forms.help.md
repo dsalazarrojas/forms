@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect details about an item in a conference agenda. It requires submitters to provide a set of essential information about the item, including its title, type, description, scheduled date and time, location, speakers, and other relevant details. The form also asks submitters to indicate their role within the conference and any specific requirements for the item.
 
 </thinking>

@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to register students for a "Winter Winds Clinic" program, a music education event. This guide will walk you through the process of filling out the form, ensuring you understand each field's purpose and requirements. Please note that this form is for general information purposes and is not a comprehensive guide for all possible use cases. If you need specific guidance on a particular situation or have questions about your own circumstances, please contact the relevant authorities.
-</thinking>
-
 # winter_winds_clinic_registration - Help Guide
 ## Purpose
 The winter_winds_clinic_registration form is designed to collect essential information from students interested in registering for the Winter Winds Clinic program. This guide will walk you through each field, making it easier to provide accurate and complete responses.

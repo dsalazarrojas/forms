@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to evaluate and self-assess nursing professionals in a comprehensive manner. It is meant to assess their core competencies, strengths, and development areas, as well as collect feedback and comments. It is likely used within a healthcare setting to evaluate the performance and growth of nursing staff. 
-
-The form can be completed by the nurse themselves or by their supervisor/evaluator. 
-
-</thinking>
-
 # Nursing Evaluation And Self Assessment - Help Guide
 ## Purpose
 The purpose of this form is to evaluate and self-assess nursing professionals' performance, strengths, and areas for improvement.

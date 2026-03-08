@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for registering attendees for the Valentine's Day event. The form is designed to collect information on the attendees' details, including their name, contact information, and event-specific details such as date, time, and type of event. The form also requests payment information and any additional event details. To avoid duplicate registrations, please ensure that each attendee provides their individual information.
-
-</thinking>
-
 # valentine_ball_online_registration_form - Help Guide
 ## Purpose
 This form is designed to register attendees for the Valentine's Day event. Please fill out the required information to complete your registration.

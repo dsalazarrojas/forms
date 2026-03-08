@@ -1,13 +1,3 @@
-<thinking>
-
-**Form Purpose:**
-
-The Vanderbilt Assessment Teacher Informant form is used to gather information from teachers about their students' behavior, social skills, and emotional regulation. This form helps identify strengths and challenges in students' social and behavioral development.
-
-This form may be used in conjunction with other assessment tools to inform educational planning and support services for students. Please ensure that you only complete this form for students who have been identified as requiring an assessment.
-
-</thinking>
-
 # vanderbilt_assessment_teacher_informant - Help Guide
 ## Purpose
 The Vanderbilt Assessment Teacher Informant form is used to gather information from teachers about students' behavior, social skills, and emotional regulation.

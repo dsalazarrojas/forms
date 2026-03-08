@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to register a medal order, allowing users to provide information about the medal and the order details such as payment method and payment note. Ensure that this form is only completed once for each medal order and that all relevant information is provided accurately to ensure efficient and accurate processing.</thinking>
-
 # medal_order_form - Help Guide
 ## Purpose
 This form is designed for registering medal orders. To fill out this form, follow the steps below to ensure accurate and efficient processing of your order.

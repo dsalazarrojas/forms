@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback from first responders who have participated in a training event. The purpose of this form is to gather information on their overall experience, the effectiveness of the training, and their satisfaction with the instructor's performance. This feedback is crucial to understand the strengths and weaknesses of the training program and make necessary improvements. Before proceeding, please ensure that you have not already submitted feedback on this training event. If you have, please do not submit another response, as this will be considered a duplicate. This form is best completed by first responders who have attended the training event in question.
-</thinking>
-
 # First Responder Training Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather feedback from first responders who have participated in a training event. Your feedback is crucial to help us improve the training program.

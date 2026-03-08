@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 I'll assume the YAML input schema for this form is intended to collect basic information for a "Thanksgiving Reservation Form" likely used by a catering or event planning business. This form likely aims to gather details about the date and time of the event, the number of guests attending, and possibly some contact information (name and phone number). The "reservation_date" field is a date field, which might be used to select the date of the event, while "reservation_time" is a time field for choosing the time of the event. The "number_guests" field is likely used to determine the number of people attending the event, providing a more accurate headcount for planning purposes. The "name" and "phone" fields are probably used to capture the name and contact number of the person making the reservation or the primary point of contact.
 
 # thanksgiving_reservation_form - Help Guide

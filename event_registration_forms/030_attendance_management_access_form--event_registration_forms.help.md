@@ -1,8 +1,3 @@
-<thinking>
-Internal reasoning block: The purpose of this form is to collect attendance information from employees for various events, ensuring that employees have the necessary access level and permissions to attend. The form is used to request access to events with varying levels of access, such as General Access, VIP Access, Speaker/Presenter, Staff/Volunteer, Admin, or Other. The form also asks about badge ID requirements, parking needs, guest attendance, and special requirements like dietary restrictions and accessibility needs. The form's goal is to streamline the attendance management process and ensure that employees have the correct access and permissions for the events they are attending. It's essential to complete this form accurately to avoid any access issues or conflicts during events. This form is primarily used for internal purposes and is not meant for external audiences. By filling out this form correctly, employees can ensure they have a smooth and secure experience at the event.
-
-</thinking>
-
 # Attendance Management Access Form - Help Guide
 
 ## Purpose

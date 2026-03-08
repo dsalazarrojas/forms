@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lash Artist Certification Evaluation Survey - Help Guide
 
 ## Purpose

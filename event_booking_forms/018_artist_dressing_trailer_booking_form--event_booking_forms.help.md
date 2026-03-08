@@ -1,13 +1,3 @@
-<thinking>
-
-The Artist Dressing Trailer Booking Form is used to collect information from artists and bands to book a trailer for an event or tour. This form is crucial for the logistics team to ensure that they have the necessary details to prepare and provide the trailer for the artist. By filling out this form, you will be providing essential information about yourself and your event/tour.
-
-To complete this form correctly, please make sure to provide accurate and complete answers to all the required fields. If you are unsure about any field, please contact the logistics team for guidance.
-
-Please note that this form is used to book a trailer for a specific event or tour date. If you have multiple events or tours, please submit separate forms for each one.
-
-</thinking>
-
 # Artist Dressing Trailer Booking Form - Help Guide
 ## Purpose
 

@@ -1,20 +1,3 @@
-<thinking>
-This form is used for setting up a new vendor for an event. The form is split into six pages, each with a specific set of fields related to vendor and event information. The form is required for every new vendor setup.
-
-To confirm, let's go through each field:
-
-- **Vendor Information** (page 1): This page is for entering basic vendor details.
-- **Contact Information** (page 2): Here, you can add contact information for the vendor, including their email and phone number.
-- **Booth Information** (page 3): Enter booth-related details such as booth size and type.
-- **Event Information** (page 4): Fill in event-specific information such as event dates and location.
-- **Payment Terms** (page 5): Enter payment terms and conditions for the event.
-- **Terms and Conditions** (page 6): Read and agree to the terms and conditions of the event.
-- **Agreement** (page 7): Select one of the two options to agree to the terms and conditions.
-- **Vendor Agreement** (page 8): Confirm the vendor's agreement to the terms and conditions.
-
-The form is divided into pages for organizational purposes, and each page is dedicated to a specific set of fields related to the topic. Please review each page to ensure all required fields are filled out before submission.
-</thinking>
-
 # new_vendor_setup_form - Help Guide
 ## Purpose
 This form is used for setting up a new vendor for an event.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users upload their rally videos and provide essential details about the event they are associated with. The form is a simple, one-page form that collects the following information: the title of the event, the date and time of the event, the location of the event, and the description and tags of the rally video. The form is meant to be used for event planners to efficiently collect information from users about upcoming events.
-</thinking>
-
 # Rally Video Upload Form - Help Guide
 ## Purpose
 The Rally Video Upload Form is a simple, one-page form designed to help users upload their rally videos and provide essential details about the event they are associated with.

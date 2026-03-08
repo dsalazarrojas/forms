@@ -1,9 +1,3 @@
-<thinking>
-
-This form is meant to be used by restaurant management to evaluate the performance of their employees on a monthly basis. It will likely be completed by the manager of the restaurant and will serve as a way to track and monitor employee performance over time. This form should not be filled out by the employees themselves, as it is meant to be a formal evaluation tool for the restaurant management.
-
-</thinking>
-
 # Monthly Restaurant Employee Evaluation Form - Help Guide
 ## Purpose
 The purpose of this form is to help restaurant management track and evaluate employee performance on a monthly basis.

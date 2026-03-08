@@ -1,8 +1,3 @@
-<thinking>
-This form is used to analyze potential hazards for a job task. It's used to document the identification and assessment of hazards that could affect an employee's safety and well-being on the job site, and to develop strategies to mitigate or eliminate these hazards. This form is part of a larger process to maintain a safe working environment. Please ensure that the information in this form is accurate and up-to-date to facilitate effective hazard analysis and mitigation.
-
-</thinking>
-
 # Job Hazard Analysis Form - Help Guide
 ## Purpose
 This form is designed to help analyze potential hazards for a job task. It is a crucial tool for identifying and assessing hazards that could pose a risk to an employee's safety and well-being on the job site.

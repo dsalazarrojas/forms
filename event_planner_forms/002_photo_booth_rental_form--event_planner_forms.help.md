@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used for its intended purpose and not duplicated. This form is meant to help event planners rent photo booth equipment. The form requires user information, event details, and other relevant data to facilitate the rental process. To prevent misuse, we should ensure that users understand its proper use and limitations.
-</thinking>
-
 # photo_booth_rental_form - Help Guide
 ## Purpose
 This form is designed to help event planners rent photo booth equipment for their events. It collects user information, event details, and other necessary data to facilitate the rental process.

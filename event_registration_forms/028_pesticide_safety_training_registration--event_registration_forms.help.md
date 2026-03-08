@@ -1,13 +1,3 @@
-<thinking>
-This form is intended for registering users for Pesticide Safety Training sessions. Users will be selecting the sessions they want to attend, providing their name and contact information, and acknowledging certain terms and conditions. The form is divided into two main sections: session selection and personal details. Session selection allows users to choose which session they want to attend, while personal details gather user's name, phone number, email, and other relevant information. The acknowledgement section is a note field where users confirm they have read and understood the terms and conditions.
-
-Please note that the form is designed to be filled out by users who have already been identified as needing pesticide safety training. The form is not intended for general public users. 
-
-Also, the form has multiple fields, but most of them are optional. Users can choose which fields they want to fill out.
-
-Before filling out the form, please make sure you have already been identified as needing pesticide safety training and that the form is for your intended use.
-</thinking>
-
 # Pesticide Safety Training Registration - Help Guide
 ## Purpose
 The purpose of this form is to register users for Pesticide Safety Training sessions. Please follow the steps below to complete the registration process.

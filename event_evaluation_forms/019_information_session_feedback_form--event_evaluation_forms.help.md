@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Information Session Feedback Form - Help Guide
 ## Purpose
 The Information Session Feedback Form is designed to gather feedback on the overall quality of the information session, including the speaker's performance, content relevance, and overall experience. This form helps us understand what we can do better and improve future sessions.

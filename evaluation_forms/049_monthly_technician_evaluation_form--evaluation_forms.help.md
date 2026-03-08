@@ -1,11 +1,3 @@
-<thinking>
-This form is used to evaluate the performance of technicians on a monthly basis. It is meant to assess whether or not a technician is doing their job correctly and provide feedback on areas for improvement. This evaluation form is typically completed by a manager or supervisor.
-
-Before filling out this form, please make sure to only evaluate one month's worth of work. This form is not intended to be used for evaluations that span multiple months.
-
-Please review the form carefully and make sure to complete all required fields. If you're unsure about any of the fields, please refer to this help guide for clarification.
-</thinking>
-
 # Monthly Technician Evaluation Form - Help Guide
 ## Purpose
 This form is used to evaluate the performance of technicians on a monthly basis. It helps managers and supervisors provide feedback and identify areas for improvement for their team members.

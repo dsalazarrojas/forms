@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to evaluate an individual's morning routine, gathering information about their sleep schedule, exercise frequency, alertness, and other factors that contribute to their overall morning productivity. The form aims to provide users with insights on how to improve their morning routine and overall well-being. To avoid duplication of effort, please ensure you have not already completed this form in the past.</thinking>
-
 # Morning Routine Evaluation Form - Help Guide
 
 ## Purpose

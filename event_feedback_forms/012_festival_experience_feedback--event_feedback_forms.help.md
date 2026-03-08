@@ -1,9 +1,3 @@
-<thinking>
-We need to ensure that we don't duplicate effort and are meeting the needs of our attendees. This form is meant to collect feedback from attendees about their experience at the festival. We want to know what they liked, what they didn't like, and any suggestions they may have for future events. This information will help us improve future events and better serve our attendees. 
-
-Please only complete this form if you have not already done so. Your feedback is valuable to us and will help us make improvements.
-</thinking>
-
 # Festival Experience Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from attendees about their experience at the festival. We value your input and use it to improve future events.

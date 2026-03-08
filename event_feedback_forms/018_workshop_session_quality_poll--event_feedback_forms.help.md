@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to gather feedback from workshop attendees on their experience during the session. It's essential to provide quality feedback to help improve future workshops. Please ensure you fill out this form accurately and thoroughly. If you're unsure about any field, you can always contact the session organizers for clarification.
-
-</thinking>
-
 # Workshop Session Quality Poll - Help Guide
 ## Purpose
 The Workshop Session Quality Poll is a form designed to collect feedback from attendees on their experience during the workshop. This feedback will help us improve the quality of future sessions.

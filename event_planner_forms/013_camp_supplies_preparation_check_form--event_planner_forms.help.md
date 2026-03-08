@@ -1,6 +1,3 @@
-<thinking>
-This form is used to collect information from campers and their parents/guardians to ensure that they are adequately prepared for a camp stay. The form is intended for camp staff to quickly verify that all necessary items are packed. The purpose of this form is to reduce misunderstandings and ensure a smooth camp experience. Please ensure that the form is completed accurately and thoroughly to avoid any issues during camp stay.</thinking>
-
 # Camp Supplies Preparation Check Form - Help Guide
 ## Purpose
 This form is used to collect information from campers and their parents/guardians to ensure that they are adequately prepared for a camp stay.

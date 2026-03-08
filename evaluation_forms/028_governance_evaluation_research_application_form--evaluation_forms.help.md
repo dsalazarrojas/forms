@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information from applicants regarding their project evaluation research applications. This form gathers details about the applicants' background, project specifics, and contact information, providing a comprehensive overview of their proposal. The form's design is based on the standard structure of evaluation research application forms, ensuring that the necessary information is presented clearly and concisely.
 
 ## governance_evaluation_research_application_form - Help Guide

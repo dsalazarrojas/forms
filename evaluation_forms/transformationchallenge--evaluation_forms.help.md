@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for participants of a transformation challenge, a program aimed at promoting health and wellness. The form is used to collect information from participants about their progress and experience with the challenge. The form will help us better understand how to improve the program and provide more effective support to participants in the future.
-
-Before filling out this form, please make sure you have completed the transformation challenge and have the necessary information about your progress ready. 
-
-To avoid duplicate submissions, please do not fill out this form if you have already done so.
-
-</thinking>
-
 # #transformationchallenge Evaluation - Help Guide
 ## Purpose
 The transformation challenge evaluation form is designed to gather information about your experience and progress with the challenge. This will help us to improve the program and provide better support to you and future participants.

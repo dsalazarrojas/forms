@@ -1,7 +1,3 @@
-<thinking>
-This form is used to report sports event officials, capturing relevant details about the event, such as the name of the official, their role, and the event's type, date, time, location, and any additional observations. This form aims to gather information that will help in creating a comprehensive record of sports events. It is designed to be completed by individuals involved in or observing sports events, likely coaches, referees, or volunteers. The form can be completed by anyone who needs to report on events, including event organizers or officials.
-</thinking>
-
 # sports_event_officials_report - Help Guide
 ## Purpose
 The purpose of this form is to gather information about sports events, allowing users to report details about the events they have attended or participated in.

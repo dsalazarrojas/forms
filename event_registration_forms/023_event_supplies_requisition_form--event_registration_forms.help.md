@@ -1,12 +1,3 @@
-<thinking>
-This form is an event supplies requisition form used for requesting supplies and resources to support events. 
-The form will collect information from users about the event, the supplies and resources needed, and any specific requirements or restrictions. 
-The form has three pages: page 1 is for general event information, page 2 is for supplies and resources needed, and page 3 is for any additional comments or notes. 
-This form is a text-based form, meaning each page is a free text field. 
-Before completing the form, ensure you have a clear understanding of the event and the supplies and resources required. 
-Ensure you only submit one form per event. 
-</thinking>
-
 # event_supplies_requisition_form - Help Guide
 ## Purpose
 The event supplies requisition form is used to request supplies and resources to support events. It helps event organizers and coordinators gather information about the event, the supplies needed, and any specific requirements or restrictions.

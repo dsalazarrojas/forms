@@ -1,13 +1,3 @@
-<thinking>
-
-We're creating a user-facing help guide for an "event_feedback_forms" category, specifically for the "Post Conference Survey" form. This form is designed to collect feedback from attendees after a conference. It's essential to understand the purpose and relevance of this form to provide an accurate and helpful guide for users.
-
-The form's purpose is to gather information about the attendee's experience at the conference, including their name, email, phone number, and feedback about the event. The form also collects ratings and comments about the event and its speakers. The feedback collected will help organizers evaluate the event's success and identify areas for improvement.
-
-To avoid duplication, this guide will cover the form's purpose and how to complete it, as well as a detailed field-by-field explanation to ensure users understand each question's relevance and required information.
-
-</thinking>
-
 # Post Conference Survey - Help Guide
 ## Purpose
 The Post Conference Survey is designed to collect feedback from attendees about their experience at the conference. This survey aims to help organizers evaluate the event's success and identify areas for improvement.

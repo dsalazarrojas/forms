@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from service designers who want to participate in a service design event. The form captures their basic contact information, service design details, event details, and event organization information. The form should only be filled out by service designers who have not already registered for the event.
-</thinking>
-
 # Service Design Registration Form - Help Guide
 ## Purpose
 This form is meant to collect registration information from service designers who want to participate in a service design event.

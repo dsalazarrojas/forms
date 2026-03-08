@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used by parents to register their child for a visit with Santa Claus. The form is designed to gather essential information about the child and their parent or guardian, including their name, contact details, visit date and time, and any special instructions or notes. This information is used by the Santa's team to prepare for the visit, communicate with the parent or guardian, and ensure that the visit is enjoyable and memorable for the child. 
-
-The form is not intended for general public access, and only authorized personnel are allowed to access its contents. 
-
-Please ensure that you are using this form for its intended purpose and that the child's details are accurate and up-to-date. 
-
-</thinking>
-
 # Santa Visit Registration Form - Help Guide
 ## Purpose
 The Santa Visit Registration Form is a tool used by parents to register their child for a visit with Santa Claus. This form helps the Santa's team to gather essential information about the child and their parent or guardian, ensuring a smooth and enjoyable experience for everyone involved.

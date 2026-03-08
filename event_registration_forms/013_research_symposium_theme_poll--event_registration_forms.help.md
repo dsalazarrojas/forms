@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather opinions on potential themes for a research symposium. The symposium organizers may use these suggestions to inform their decisions on the theme for the event. This form is not intended for participants who wish to register for the symposium, but rather for those who have already registered and want to provide their input on theme suggestions. To ensure a single set of responses from each participant, we recommend filling out this form only once. Please be concise and realistic with your suggestions, as they will be reviewed and potentially selected as the symposium's theme.
-</thinking>
-
 # Research Symposium Theme Poll - Help Guide
 
 ## Purpose

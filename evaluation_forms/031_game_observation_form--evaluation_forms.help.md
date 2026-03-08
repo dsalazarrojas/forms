@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather feedback on an athlete's performance, specifically their game observations. The purpose of this form is to assess an athlete's skills, identify areas of improvement, and provide recommendations for development. This form is typically used in sports development settings to support athlete growth and team management.
-
-When filling out this form, please ensure you are using it for its intended purpose and not duplicating work or submitting unnecessary information. This form should only be filled out once per game observation and should not be submitted for games that do not require assessment or observation.
-
-The information provided will be used to support the athlete's development and will not be shared publicly.
-
-</thinking>
-
 # Game Observation Form - Help Guide
 ## Purpose
 The Game Observation Form is used to gather feedback on an athlete's performance after a game or competition. It helps identify areas of improvement and provides recommendations for development.

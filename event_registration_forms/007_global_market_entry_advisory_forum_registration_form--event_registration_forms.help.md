@@ -1,7 +1,3 @@
-<thinking>
-This help guide aims to clarify the purpose and usage of the "Global Market Entry Advisory Forum Registration Form". The form is designed to gather information from participants who wish to register for a specific event. This form is not meant to be completed by non-participants or event organizers. It is essential to ensure that each participant fills out the form accurately and honestly, as this information will be used to facilitate the event's smooth operation and participant experience.
-</thinking>
-
 # Global Market Entry Advisory Forum Registration Form - Help Guide
 ## Purpose
 The Global Market Entry Advisory Forum Registration Form is designed to collect registration information from participants for an event. Please ensure you only register if you plan to attend the event.

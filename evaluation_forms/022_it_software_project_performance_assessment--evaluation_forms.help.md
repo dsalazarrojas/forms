@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to assess the performance of an IT software project, capturing key details about the project's scope, timeline, budget, team members, and outcomes. The purpose of this form is to provide a structured way to document and evaluate project performance, allowing project stakeholders to identify areas of success and areas for improvement. To avoid duplication of effort, please ensure that you have not already completed this form for this project.
-
-</thinking>
-
 # IT Software Project Performance Assessment - Help Guide
 ## Purpose
 This form is used to assess the performance of an IT software project, providing a structured way to document and evaluate project details.

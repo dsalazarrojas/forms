@@ -1,7 +1,3 @@
-<thinking>
-This is a form for registering Virtual Session Moderators. This form is used to collect information from users who want to participate in a virtual session as a moderator. It is essential to fill out the form accurately to ensure that the session runs smoothly. Please fill out the form only if you have the correct permissions and qualifications. If you're not sure, please contact your supervisor or the event organizer for clarification.
-</thinking>
-
 # Virtual Session Moderator Registration Form - Help Guide
 ## Purpose
 This form is for registering Virtual Session Moderators. It helps us to gather information about your qualifications, experience, and timezone settings to ensure that you're well-prepared to moderate our virtual sessions.

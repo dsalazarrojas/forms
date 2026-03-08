@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect participant information and contact details for a "Lie Exposure" event. The event may involve a game, competition, or other interactive activity where participants may be sharing personal and potentially sensitive information. This form is intended to ensure that all participants are properly registered and their details are accurately captured.
-</thinking>
-
 # Lie Exposure Sign In Form - Help Guide
 ## Purpose
 The purpose of this form is to collect participant information and contact details for a "Lie Exposure" event, which may involve sharing personal and sensitive information. This form helps ensure that all participants are properly registered and their details are accurately captured.

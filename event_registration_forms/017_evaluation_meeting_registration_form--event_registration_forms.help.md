@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Evaluation Meeting Registration Form is designed to gather information from participants about their expectations and needs for an evaluation meeting. This form ensures that all participants are on the same page and can provide valuable insights to facilitate a productive and effective meeting. The form is intended for meetings where participants need to provide their expectations, feedback, and any other relevant information to ensure a successful meeting outcome.
 
 </thinking>

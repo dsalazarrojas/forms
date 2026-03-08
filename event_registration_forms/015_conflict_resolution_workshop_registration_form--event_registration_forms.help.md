@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Conflict Resolution Workshop Registration Form - Help Guide
 
 ## Purpose

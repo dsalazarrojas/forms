@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for participants to register for a Corporate Responsibility Seminar. The goal is to collect information about the participant's contact and participation details. This form is meant for internal use, so please ensure you are registered for this seminar by an authorized representative before submitting the form. If you are not sure about your participation, please do not submit this form as duplicate registration can cause confusion and affect the seminar's overall planning.
-</thinking>
-
 # Corporate Responsibility Seminar Registration Form - Help Guide
 ## Purpose
 This form is for participants to register for the Corporate Responsibility Seminar.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect guest feedback about their experience at a hotel. The data collected will be used to identify areas of improvement for the hotel staff to enhance the overall quality of service and customer satisfaction. This form will not be used for any marketing or sales purposes.
-</thinking>
-
 # Hotel Feedback Form - Help Guide
 ## Purpose
 The Hotel Feedback Form is a tool to collect guest feedback about their experience at our hotel. It helps us identify areas of improvement for our staff to enhance the quality of service and customer satisfaction. Please take a moment to provide your honest feedback.

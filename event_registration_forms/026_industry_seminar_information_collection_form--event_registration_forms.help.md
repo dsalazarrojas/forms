@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to provide a clear and concise understanding of the Industry Seminar Information Collection Form. 
-This form is designed to collect relevant information about attendees and their preferences for the industry seminar. 
-The form is organized into several sections, each addressing a specific aspect of the seminar experience. 
-The fields and sections are designed to be straightforward and easy to navigate, ensuring that users can quickly and accurately provide the required information. 
-The form is not intended to be a duplicate of other forms or processes, and users should not have to fill out this form if they have already provided similar information in the past. 
-</thinking>
 # Industry Seminar Information Collection Form - Help Guide
 
 ## Purpose

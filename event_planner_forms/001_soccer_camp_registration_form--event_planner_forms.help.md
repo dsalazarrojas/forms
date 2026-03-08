@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for parents or guardians to register their child or player for a soccer camp. It is not a payment form, but rather a registration form to gather necessary information about the player and their emergency contacts. This form will be used to create a database of registered players and their details.
-</thinking>
-
 # Soccer Camp Registration Form - Help Guide
 ## Purpose
 The Soccer Camp Registration Form is a tool to help us gather information about your child or player's registration for the soccer camp. Please fill out this form to provide us with the necessary details.

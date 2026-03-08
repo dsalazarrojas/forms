@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning: This survey form is used to measure the impact of a specific consulting engagement on the client. It captures key information about the client, project details, and outcomes achieved. The form is designed to be completed by consultants or project leads to provide valuable insights into the effectiveness of their services. Before proceeding, review this form to ensure the following: (1) It is not a duplicate engagement, (2) the engagement aligns with your current workload, and (3) the data is accurate and up-to-date. If unsure about any aspect of the form, consult with your project lead or internal team.
-</thinking>
-
 # Consulting Impact Measurement Survey - Help Guide
 ## Purpose
 This form is designed to measure the impact of a consulting engagement on your client. It will help you capture key information about the client, project details, and outcomes achieved.

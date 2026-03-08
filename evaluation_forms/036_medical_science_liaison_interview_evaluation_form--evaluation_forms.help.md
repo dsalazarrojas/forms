@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Science Liaison Interview Evaluation Form - Help Guide
 ## Purpose
 This form is designed for evaluating the performance of a candidate during a medical science liaison interview. The evaluator will assess the candidate's knowledge, skills, and behavior, and provide feedback on their performance.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Networking Event Attendee Registration - Help Guide
 ## Purpose
 This form is used to register attendees for a networking event. It collects basic information such as name, contact details, interests, and preferences to ensure a smooth and enjoyable experience for all attendees. Please fill out the form with accurate and up-to-date information.

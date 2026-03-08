@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Soundscape Experience Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from participants after an event, focusing on their ratings, emotions experienced, suggestions, and comments about the event organization and facilitation. The form will help us understand what participants think about the soundscape experience and provide valuable insights to improve future events.

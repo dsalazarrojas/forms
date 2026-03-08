@@ -1,6 +1,3 @@
-<thinking> 
-This form is for registration of participants for a virtual running event. The form aims to collect demographic information, medical history, and other relevant details from participants. This form is designed to be completed by individual participants and is intended to be used for organizational purposes. Ensure that the form is filled out correctly as it is a required field for participation in the event.</thinking>
-
 # Virtual Running Event Registration Form - Help Guide
 ## Purpose
 This form is designed for registration of participants in a virtual running event. It will help us collect relevant information about each participant, including demographic details, medical history, and other important information.

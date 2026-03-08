@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from participants of women's wellness retreats. It's designed to gather opinions and suggestions on the event, including rating scales, open-ended feedback, and demographic information. This form aims to help the event organizers understand what attendees thought of the retreat, what they liked or disliked, and what they would suggest for future events. To ensure the form is completed accurately and relevantly, it's essential to review each field carefully and ensure it matches the specific event.
-
-</thinking>
-
 # Women's Wellness Retreat Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from attendees of women's wellness retreats. It includes various fields to collect opinions, ratings, and demographic information. Your input will help event organizers create future events that meet your needs and expectations.

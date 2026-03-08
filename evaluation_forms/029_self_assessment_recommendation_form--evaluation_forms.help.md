@@ -1,13 +1,3 @@
-<thinking>
-The form purpose is to gather feedback and recommendations from team members regarding their performance and potential areas of improvement.
-The form is designed for individuals to reflect on their own strengths and weaknesses, identify areas where they need support or development, and recommend opportunities for growth.
-The goal is to promote self-awareness, continuous learning, and improvement, ultimately contributing to team growth and effectiveness.
-This self-assessment recommendation form is a valuable tool for team members to:
-- Develop a clear understanding of their roles and responsibilities.
-- Identify areas where they need improvement or additional support.
-- Recommend development opportunities to support their growth.
-</thinking>
-
 # Self Assessment Recommendation Form - Help Guide
 ## Purpose
 The Self-Assessment Recommendation Form is a tool for team members to assess their own performance and recommend areas for growth and development.

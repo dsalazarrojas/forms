@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for users to register for the Educational Leadership Training program. Its purpose is to collect information from users about their personal and contact details, as well as their registration preferences. This form is likely used by staff or faculty members of an educational institution to track who has registered for the training, and to gather relevant information for planning and execution of the program.
-
-The form has six fields in total. Three of them are for personal and contact information, and the remaining three are for specific details related to the training program.
-
-</thinking>
-
 # Educational Leadership Training Registration Form - Help Guide
 ## Purpose
 The Educational Leadership Training Registration Form is a user registration form designed to collect information from users about their personal details, contact information, and preferences for the training program. This form helps the staff or faculty members of an educational institution to keep track of registered users and plan the training program effectively.

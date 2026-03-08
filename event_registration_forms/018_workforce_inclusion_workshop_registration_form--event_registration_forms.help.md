@@ -1,13 +1,3 @@
-<thinking>
-This help guide is intended to help users understand the purpose and usage of the Workforce Inclusion Workshop Registration Form. 
-
-The purpose of this form is to gather information from individuals registering for the workforce inclusion workshop, including their name, contact information, role, preferred workshop date and time, and any other relevant details.
-
-To ensure that each user can complete the form correctly and efficiently, the guide will explain each section of the form, including any specific requirements and available options.
-
-This guide will also aim to prevent duplication of effort by ensuring that users are aware of the most efficient way to fill out the form and provide them with any necessary information that may be unclear.
-</thinking>
-
 # Workforce Inclusion Workshop Registration Form - Help Guide
 ## Purpose
 The Workforce Inclusion Workshop Registration Form is designed to gather registration information from individuals attending the workforce inclusion workshop.

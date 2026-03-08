@@ -1,9 +1,3 @@
-<thinking>
-This form is used for evaluating the legal case outcome after it has been resolved.
-Evaluating the legal case outcome helps in understanding what went well and what did not go well, enabling improvement of case management processes.
-This form is not meant to be filled out for every case; only those cases that have a significant impact or outcome warrant evaluation.
-</thinking>
-
 # legal_case_outcome_evaluation_form - Help Guide
 ## Purpose
 This form is used to evaluate the outcome of a legal case after it has been resolved. This helps in identifying areas of improvement and ensuring that best practices are followed for future cases.

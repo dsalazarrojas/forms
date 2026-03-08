@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather feedback from art gallery visitors to help improve the overall experience of the gallery. It's intended to be completed by individuals who have visited the gallery, and it's essential for providing accurate and honest feedback. Please note that each field is designed to elicit specific information from the visitor, and it's crucial to provide as much detail as possible.
-
-To ensure the accuracy and completeness of the feedback, it's recommended that visitors answer the questions truthfully and thoroughly. The form is designed to be user-friendly, and the questions are crafted to be straightforward and easy to understand.
-
-Before starting, make sure to review the form carefully and take your time to provide the best possible feedback.
-
-</thinking>
-
 # Art Gallery Visitor Experience Report Form - Help Guide
 ## Purpose
 The Art Gallery Visitor Experience Report Form is designed to gather feedback from visitors to understand their overall experience, satisfaction, and preferences. It's used to improve the gallery's services, exhibitions, and facilities.

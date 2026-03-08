@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about professional development seminars and workshops. The purpose of this form is to assess how well the seminar was received, what the participants thought about the presentation materials, and what they liked or disliked about the seminar. This form should only be used for users who have attended a professional development seminar, so please ensure that you have attended such an event before submitting this form.
-</thinking>
 # Professional Development Feedback Survey - Help Guide
 
 ## Purpose

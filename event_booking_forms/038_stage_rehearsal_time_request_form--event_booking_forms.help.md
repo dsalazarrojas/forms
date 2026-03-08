@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by event organizers to request time slots for stage rehearsals. It is not intended for general event registration, so please do not use this form unless you have been specifically instructed to do so. This form should only be used to request time slots for stage rehearsals that have not been previously scheduled. Before starting this form, ensure that you have checked the schedule for any conflicts or previously requested time slots.
-</thinking>
-
 # Stage Rehearsal Time Request Form - Help Guide
 
 ## Purpose

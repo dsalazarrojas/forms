@@ -1,12 +1,3 @@
-<thinking>
-This form is for registering products for a regional product showcase event. The form is designed to gather information about the event and the products being showcased. The form has several fields that require different types of information, such as text inputs, dropdown menus, and terms of agreement.
-
-The form's purpose is to collect data from exhibitors and event organizers to facilitate the event's organization and execution. The form will be used to track event information, product details, and exhibitor contact information, as well as to gather terms of agreement for participants.
-
-To ensure the form is filled out correctly, please review the fields carefully and make sure to fill out all required fields.
-
-</thinking>
-
 # Regional Product Showcase Registration - Help Guide
 ## Purpose
 This form is designed to collect information from exhibitors and event organizers for a regional product showcase event.

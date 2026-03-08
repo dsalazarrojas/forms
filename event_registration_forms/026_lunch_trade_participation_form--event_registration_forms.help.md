@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather participant information for the lunch trade event, a social gathering where individuals can share a meal with others in a relaxed setting. It is intended to ensure that participants are aware of and agree to the terms of participation, including any dietary restrictions and other preferences. To prevent duplicate registrations, please check your email for a confirmation link before filling out this form.
-</thinking>
-
 # Lunch Trade Participation Form - Help Guide
 ## Purpose
 This form is used to register a participant for the lunch trade event. It will guide you through the necessary steps to provide your information and preferences for the event.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect relevant information from participants after they have completed a survey project. The form's purpose is to gather data about the project's completion, any participant feedback, and suggestions for future improvements. Before starting, please ensure you have not already completed this form for the same survey project. If you are unsure, check with the project administrator.
-</thinking>
-
 # Survey Analysis Project Discharge Form - Help Guide
 ## Purpose
 The Survey Analysis Project Discharge Form is a form used to collect information from participants after they have completed a survey project. This form helps in gathering feedback and data about the project's completion and potential areas of improvement.

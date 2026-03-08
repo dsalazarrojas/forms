@@ -1,7 +1,3 @@
-<thinking>
-This form is a tool for evaluating special interests, providing a framework for users to express their primary interests, engagement level, motivations, and other relevant details. It is not affiliated with, endorsed by, or derived from any specific form platform.
-</thinking>
-
 # Special Interest Evaluation - Help Guide
 ## Purpose
 This form is designed to help users evaluate their special interests by selecting their primary interests, engagement level, and motivations. The form also collects demographic information such as submitted date and time, IP address, and country.

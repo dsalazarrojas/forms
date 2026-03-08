@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information and register participants for a market analysis workshop. This form will likely be used by the workshop organizers or administrators to manage the registration process. Before proceeding, ensure you have permission to use this form and that you have the relevant context and information needed to complete it correctly. Review the form carefully to ensure you understand each field's purpose and what is required to be filled out accurately. 
-
-This form is designed for general use and may not have specific requirements for every field. If you are unsure about any field, you can refer to the provided explanations or seek clarification from the workshop administrators or organizers.
-</thinking>
-
 # market_analysis_workshop_registration_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information and register participants for a market analysis workshop.

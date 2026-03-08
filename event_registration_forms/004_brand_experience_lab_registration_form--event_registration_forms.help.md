@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Brand Experience Lab Registration Form - Help Guide
 
 This form is for attendees of the Brand Experience Lab event to register for the event. It is used to collect demographic information about the attendees and their preferences to better understand the audience and tailor the event experience to their needs. 

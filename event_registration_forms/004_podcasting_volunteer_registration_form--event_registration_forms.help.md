@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from potential volunteers for a podcasting event. The purpose of this form is to determine the type of volunteer role a person is interested in, their contact information, and details about the event they will be working on. 
-The form will be used to register volunteers for specific events, and the provided information will help event organizers manage volunteer tasks and communication. 
-Please ensure that you only register for events that you are genuinely interested in helping with. 
-If you have already registered for an event, do not duplicate your registration for the same event.
-</thinking>
-
 # Podcasting Volunteer Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential volunteers for a podcasting event.

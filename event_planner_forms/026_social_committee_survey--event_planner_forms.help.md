@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 The Social Committee Survey form is intended to help users provide information about upcoming events in a structured and organized manner. This form captures essential details such as event title, description, type, date, and location, which can be used to efficiently manage and communicate event planning activities. 
 
 It's crucial to fill this form out accurately and thoroughly to ensure that event planning goes smoothly and that all necessary information is captured. 

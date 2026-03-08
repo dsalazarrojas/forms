@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Participant Registration Form - Help Guide
 ## Purpose
 The Participant Registration Form is a document that captures essential details about a participant in an event. This form helps ensure that all participants are registered correctly and that their information is accurate. It's essential to fill out this form carefully and correctly to avoid any discrepancies in event records.

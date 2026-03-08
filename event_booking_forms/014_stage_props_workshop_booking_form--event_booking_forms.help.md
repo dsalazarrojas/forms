@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from participants for a Stage Props Workshop. The purpose of this form is to gather essential details such as participant contact information, booking and workshop dates and times, number of guests, and any additional information that may be relevant to the booking. This form is designed to be filled out by participants who wish to book a spot in the Stage Props Workshop. It is crucial to ensure that the form is completed accurately and thoroughly to avoid any confusion or miscommunication during the booking process. Please ensure that you have carefully reviewed the form and understood its purpose before proceeding.
-</thinking>
-
 # Stage Props Workshop Booking Form - Help Guide
 ## Purpose
 The Stage Props Workshop Booking Form is designed to collect essential information from participants for a Stage Props Workshop. This information includes contact details, booking and workshop dates and times, and any additional information relevant to the booking.

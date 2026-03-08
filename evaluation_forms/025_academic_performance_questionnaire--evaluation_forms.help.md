@@ -1,5 +1,3 @@
-<thinking>...the Academic Performance Questionnaire is used to evaluate a student's academic performance in a course. This form is typically completed by instructors or teaching assistants at the end of the course or academic term. The purpose of the form is to provide a detailed assessment of the student's strengths and areas for improvement, which can be used to inform future course planning and instruction. It is essential to complete this form accurately and thoroughly to ensure that the student receives a fair and comprehensive evaluation...</thinking>
-
 # Academic Performance Questionnaire - Help Guide
 
 ## Purpose

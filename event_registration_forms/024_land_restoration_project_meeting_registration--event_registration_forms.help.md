@@ -1,9 +1,3 @@
-<thinking>... internal reasoning block to ensure this form is being used correctly and not duplicated or misused ...
-
-This form is designed to collect user data for the Land Restoration Project meeting registration. The meeting aims to bring together conservation team members, NGO partners, and community members to discuss project updates, share knowledge, and plan future activities. To ensure accurate data collection and efficient meeting organization, it's essential to understand the form's purpose and how to fill it out correctly.
-
-</thinking>
-
 # Land Restoration Project Meeting Registration - Help Guide
 
 ## Purpose

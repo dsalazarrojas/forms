@@ -1,20 +1,3 @@
-<thinking>
-This form is used to collect information related to the delivery of sporting event tickets. The form is intended to gather details about the event, tickets, and delivery options. 
-
-The form is composed of multiple fields, each asking for specific information. The fields are categorized into different sections for clarity and ease of use. 
-
-The purpose of this form is to ensure that the sporting event ticket delivery process runs smoothly and accurately. By providing accurate and complete information, users can help facilitate the delivery of tickets to their customers. 
-
-Before filling out this form, please review the fields carefully and ensure that you understand the purpose and requirements of each field. 
-
-To avoid errors and delays in the ticket delivery process, please fill out the form accurately and thoroughly. If you are unsure about any field, please refer to this guide for clarification. 
-
-Please note that this form is not intended to be a comprehensive guide to the entire ticket delivery process, but rather a supporting tool to ensure that the process is completed efficiently and effectively. 
-
-The form is designed to be user-friendly and easy to navigate. However, if you encounter any issues or difficulties while filling out the form, please do not hesitate to reach out to our support team for assistance.
-
-</thinking>
-
 # Sporting Event Ticket Delivery Form - Help Guide
 ## Purpose
 The Sporting Event Ticket Delivery Form is used to collect information about sporting event tickets, including event details, ticket details, delivery options, and payment methods.

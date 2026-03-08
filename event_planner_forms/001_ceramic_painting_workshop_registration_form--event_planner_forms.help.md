@@ -1,12 +1,3 @@
-<thinking>
-To create a help guide for the Ceramic Painting Workshop Registration Form, let's break down the form's purpose and ensure it's relevant and non-duplication.
-
-The form's purpose is to collect information from participants who want to register for a ceramic painting workshop. It's essential to confirm that the form is not being used for other purposes, such as general contact forms or payment processing forms.
-
-Upon review, the form collects participant data (name, email, and phone number), workshop preferences (date and experience level), and other relevant details like materials needed and allergies/sensitivities. The form also includes a liability waiver agreement, which is a legal requirement for workshop participants.
-
-</thinking>
-
 # Ceramic Painting Workshop Registration Form - Help Guide
 ## Purpose
 The Ceramic Painting Workshop Registration Form is used to collect information from participants who want to register for a workshop on ceramic painting. Fill out this form to secure your spot and receive workshop details.

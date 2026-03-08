@@ -1,16 +1,3 @@
-<thinking>
-The form "theater-festival-form-braintree" is designed to collect information from participants in a theater festival. The form's primary purpose is to gather essential details about the individuals or groups that will be performing, such as their names, contact information, and performance requirements.
-
-Before proceeding, let's check if this form is intended for this use case:
-
-*   The form seems relevant to the context of a theater festival.
-*   The form does not seem to be designed for any other specific purpose that would make it irrelevant to this context.
-*   There are no apparent issues with form duplication or redundancy.
-
-If the form is indeed intended for this use case, we can proceed with the help guide. If there are any concerns or issues, please let me know and we can adjust accordingly.
-
-</thinking>
-
 # theater-festival-form-braintree - Help Guide
 ## Purpose
 The form is designed to collect participant information for the theater festival. Please fill it out to provide your details.

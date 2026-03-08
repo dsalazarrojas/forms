@@ -1,13 +1,3 @@
-<thinking>
-This help guide is intended to assist event organizers, workshop administrators, or anyone responsible for booking and organizing dance workshops in a studio or event space. It is designed to provide a clear and concise overview of the form's purpose, usage, and field explanations to facilitate smooth and accurate data entry.
-
-The form is part of a larger system for managing workshop bookings and schedules. Its primary purpose is to collect necessary information for booking and organizing dance workshops, including details about the workshop itself, the instructor, and the client's preferences.
-
-The form is designed to be completed by both the workshop administrators and the clients. Administrators will use the form to provide details about the workshop, such as the date, start and end times, duration, and description. Clients will use the form to book and confirm their attendance, provide their own details, and leave additional comments or notes.
-
-To avoid confusion and ensure accurate data entry, it is essential to understand each field's purpose and requirements. This help guide will walk you through each field explanation, providing clarity on the expected input and usage.
-</thinking>
-
 # Dance Workshop Schedule Booking Form - Help Guide
 ## Purpose
 This form is used to collect and organize essential information for booking and scheduling dance workshops. It covers details about the workshop, instructor, and client.

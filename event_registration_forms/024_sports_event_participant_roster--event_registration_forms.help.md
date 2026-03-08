@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for sports event staff to efficiently register participants for an event. Please review it to ensure you understand its purpose and content correctly.
-</thinking>
-
 # Sports Event Participant Roster - Help Guide
 ## Purpose
 The Sports Event Participant Roster form is used to record participant details for an event, including participant status, contact information, and other relevant details. This guide will walk you through the form's purpose, completion process, and each field's explanation to help you accurately complete it.

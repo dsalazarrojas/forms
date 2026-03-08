@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from potential public speakers club members. The form should be filled out by individuals interested in joining the public speakers club, providing details about their organization, contact person, and other relevant information. To avoid duplication, please ensure that you have not already completed this form in the past. If you have any doubts or questions, feel free to contact us.
-</thinking>
-
 # Public Speakers Club Membership Form - Help Guide
 ## Purpose
 This form is designed to collect information from interested individuals who wish to join the Public Speakers Club.

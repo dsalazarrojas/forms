@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals interested in attending a virtual webinar. The form will be used to gather attendee details, including their name and contact information, in order to facilitate the logistics and communication for the virtual event. This form will only be used to collect attendee information, and will not be used for any other purpose. To ensure accurate and relevant information is collected, it is recommended that the form is filled out by the individual intending to attend the virtual webinar. If this form is filled out by someone else on behalf of an individual, please ensure that the information provided is accurate and up-to-date.
-</thinking>
-
 # Virtual Webinar Registration Form - Help Guide
 ## Purpose
 The Virtual Webinar Registration Form is designed to collect information from individuals interested in attending a virtual webinar. This form helps us to gather attendee details, including their name and contact information, which is then used to facilitate the logistics and communication for the virtual event.

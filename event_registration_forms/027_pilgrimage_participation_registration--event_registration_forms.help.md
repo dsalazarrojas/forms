@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from users who are interested in participating in a pilgrims' trip. The form is used to register user participation and provide a way for organizers to manage user assignments and comments. The fields are divided into several sections, including contact information, trip planning, and comments. The form is designed to be completed by individuals who are interested in participating in a pilgrims' trip.
-
-</thinking>
-
 # Pilgrimage Participation Registration - Help Guide
 ## Purpose
 This form is designed for pilgrims to register their interest in participating in a trip. It captures essential information needed for trip planning and management.

@@ -1,7 +1,3 @@
-<thinking>
-The "Secret Santa Likes And Dislikes Form" is used to gather information about a participant's preferences for a Secret Santa gift exchange. This form is designed to help the gift organizer understand each participant's likes and dislikes, which will be used to select a suitable gift for them. It is recommended to fill out this form completely and accurately to ensure the gift organizer gets a good understanding of your preferences.
-</thinking>
-
 # Secret Santa Likes And Dislikes Form - Help Guide
 ## Purpose
 This form is used to share your preferences with the gift organizer to help them choose a suitable gift for you in the Secret Santa gift exchange.

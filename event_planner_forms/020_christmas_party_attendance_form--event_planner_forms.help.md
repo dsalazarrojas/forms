@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning block: This form is intended for guests attending a Christmas party organized by the company. It's used to gather information about each guest's preferences, dietary needs, and transportation requirements. The form also asks about their interests, participation in activities, and budget for Secret Santa gifts. This information helps the party organizers to better understand the guests' needs and preferences, ensuring a enjoyable and inclusive experience for all attendees.
-</thinking>
-
 # Christmas Party Attendance Form - Help Guide
 ## Purpose
 The Christmas Party Attendance Form is designed to collect information about your preferences and requirements for the company Christmas party. This will help us plan an enjoyable and inclusive event for all attendees.

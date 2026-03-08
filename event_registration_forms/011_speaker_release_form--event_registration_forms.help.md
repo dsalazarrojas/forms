@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Speaker Release Form - Help Guide
 ## Purpose
 This form is designed to collect information from event speakers, such as their name, contact details, and agreement to event terms and conditions. It is used for internal purposes to ensure that speakers understand and agree to the terms and conditions of the event.

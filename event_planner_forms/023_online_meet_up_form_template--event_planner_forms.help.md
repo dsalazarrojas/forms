@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of the "Online Meet Up Form Template" is to allow users to plan and organize online meetings, including meeting details, dates, times, locations, and attendee information. This form will guide users in completing each field to ensure accurate and comprehensive meeting information is provided. 
 
 Before proceeding, please note that this form is designed for general planning purposes and may not be intended for official or formal meetings. If you have any concerns or questions about the form's purpose, please consult with the meeting organizers or administrators.

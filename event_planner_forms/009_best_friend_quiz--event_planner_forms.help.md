@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a fun and engaging way to quiz yourself on how well you know your best friend. It covers a range of questions about your friend's preferences, habits, and characteristics, and provides a rating scale at the end to help you gauge how well you know them. The questions cover a variety of topics, including favorite colors, foods, music, hobbies, and more. The form is divided into questions about your friend, with each question providing a different insight into their personality and tastes. By completing this form, you'll be able to get a sense of how well you know your best friend, and even generate a fun report card to share with them.
-</thinking>
-
 # Best Friend Quiz - Help Guide
 ## Purpose
 The Best Friend Quiz is designed to help you better understand your best friend's personality, preferences, and habits. It's a fun and engaging way to get to know each other better.

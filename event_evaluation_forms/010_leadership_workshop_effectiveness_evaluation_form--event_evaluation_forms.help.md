@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to evaluate the effectiveness of the leadership workshop in terms of its relevance, usefulness, and impact on participants. It is designed to gather feedback on the content, organization, and overall experience of the workshop. This feedback will help organizers identify areas for improvement and make data-driven decisions for future workshops.
-
-To avoid duplication of effort, please complete the form only once for each leadership workshop you attend. Please note that your input is valuable and will contribute to the development of high-quality leadership workshops.
-
-</thinking>
-
 # Leadership Workshop Effectiveness Evaluation Form - Help Guide
 ## Purpose
 The Leadership Workshop Effectiveness Evaluation Form is designed to collect feedback from participants on the effectiveness of the leadership workshop they attended. This feedback will help organizers evaluate the workshop's content, organization, and overall experience.

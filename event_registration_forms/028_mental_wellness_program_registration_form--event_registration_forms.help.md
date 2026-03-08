@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information for registration into a mental wellness program. The form asks for a variety of details including type of mental wellness program, mental health professional providing the service, location, event date and time, contact information, and additional comments. This form is intended for individuals to register themselves or someone else into a mental wellness program.
-
-To ensure that this form is used correctly, please note that it's designed for individuals to register into one of the two mental wellness programs offered (Mental Wellness Program 1 or 2). If you are unsure which program to register into, please contact the mental health professional listed below for guidance.
-
-This form will be reviewed for accuracy and completeness before being processed. Please ensure that all required fields are filled and that your information is up-to-date and accurate.
-
-</thinking>
-
 # Mental Wellness Program Registration Form - Help Guide
 ## Purpose
 The Mental Wellness Program Registration Form is designed to collect information for registration into a mental wellness program.

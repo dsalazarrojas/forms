@@ -1,10 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly and that users understand its purpose. This form is for registering attendees for a Casual Dress Day event. It should be filled out by individuals who plan to attend the event and need to provide their information for attendance records, communication, and other event-related purposes. We should prevent duplicate registrations by checking if the user has already filled out the form.
-
-To do this, we can include fields for the registrant's name, email, team or department (optional), shirt size (if a shirt is provided), payment option (if applicable), dietary needs, consent to event photos, emergency contact details (if applicable), accessibility requirements, and additional notes. This form is designed to gather essential information for event planning and organization.
-
-Please review the form carefully and make sure to fill in all required fields. If you have any questions or concerns, feel free to reach out to the event organizers.</thinking>
-
 # Casual Dress Day Registration - Help Guide
 ## Purpose
 The Casual Dress Day Registration form is used to gather information for attendees of the event. Please fill out this form to ensure accurate attendance records and to receive updates and communications about the event.

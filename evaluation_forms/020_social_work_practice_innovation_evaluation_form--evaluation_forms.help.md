@@ -1,10 +1,3 @@
-<thinking>
-The internal reasoning behind this form is likely to evaluate the effectiveness of social work practices, focusing on innovation and improvement. This form is meant to assess the impact and quality of social work programs, considering factors such as program name, location, type, duration, funding source, outcomes, and ratings. This form is likely used to gather data for research, improvement, or evaluation purposes.
-
-It's essential to ensure that the form is filled out accurately and thoroughly, as the information provided will be used to inform future decisions and program development. To avoid duplication of effort, it's crucial to verify that the form is not being filled out for programs that have already been evaluated.
-
-</thinking>
-
 # social_work_practice_innovation_evaluation_form - Help Guide
 
 ## Purpose

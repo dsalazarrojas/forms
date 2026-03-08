@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to evaluate an individual's emotional intelligence, which is a crucial aspect of their mental well-being and social behavior. Emotional intelligence refers to the ability to recognize, understand, and manage one's emotions, as well as the emotions of others. The form assesses 24 different scores, each representing a specific aspect of emotional intelligence. These aspects include self-awareness, self-control, social awareness, relationship maintenance, positive emotions, trust, emotional regulation, empathy, open-mindedness, adaptability, emotional approach-avoidance motivation, impulse control, situational awareness, self-motivation, personal growth, positive attitude, stress tolerance, self-assertiveness, independence, self-actualization, achievement, intrinsic tenacity, resilience, and stress management. To fill out this form, users are asked to rate each score on a scale.
-
-</thinking>
-
 # Emotional Intelligence Test Template - Help Guide
 ## Purpose
 The Emotional Intelligence Test Template is designed to evaluate an individual's emotional intelligence by rating 24 different scores, each representing a specific aspect of emotional intelligence.

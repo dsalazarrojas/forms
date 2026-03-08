@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to gather referral information for DJs (Disc Jockeys), allowing users to submit referrals for other DJs. Each field in this form is designed to collect specific information about the DJ being referred. This form likely serves as a means to facilitate DJ referrals for various events, allowing the referral to provide details about the event, the referring DJ, and the referred DJ.
-To prevent duplication and ensure consistency in referrals, it's likely that this form should be filled out for each unique referral, and users should be informed of this requirement before proceeding.
-</thinking>
-
 # DJ Service Referral Form - Help Guide
 ## Purpose
 The DJ Service Referral Form is a tool for referring DJs to others. It helps collect information about the event, the referring DJ, and the referred DJ for efficient referrals.

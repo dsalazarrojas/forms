@@ -1,13 +1,3 @@
-<thinking>
-
-This form is a user-facing help guide for end-users to understand the purpose, completion process, and each field's meaning of the "Dog Training Class Reservation Form". The form is designed to collect information from users who want to register their dogs for a training class.
-
-The form's purpose is to collect essential details for the dog owner to reserve a spot in the desired training class. The form will be used by our organization to prepare for the class and ensure that everyone has a smooth and enjoyable experience. 
-
-The organization may have a specific set of rules or requirements that must be followed to ensure the integrity of the form. To prevent duplication, the organization may use the information collected from this form to track and manage the classes.
-
-</thinking>
-
 # Dog Training Class Reservation Form - Help Guide
 ## Purpose
 The purpose of this form is to register your dog for a training class. Please complete the form below to provide us with the necessary information.

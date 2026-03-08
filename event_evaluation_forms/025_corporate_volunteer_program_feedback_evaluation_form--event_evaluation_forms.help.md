@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to evaluate the effectiveness and quality of the corporate volunteer program. The form is designed to collect feedback from volunteer participants, helping us to understand their experiences and improve the program for future sessions. 
-
-Please complete this form only once for each corporate volunteer program session. 
-
-This form is part of an ongoing effort to evaluate the corporate volunteer program and is not a one-time evaluation. Feedback from previous sessions will be reviewed and used to refine the program for future improvements. 
-
-Is this evaluation relevant to you? Have you previously evaluated this corporate volunteer program session? If not, please proceed to complete this form.
-</thinking>
-
 # Corporate Volunteer Program Feedback Evaluation Form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from participants who have engaged with the corporate volunteer program. Your feedback is invaluable in helping us to refine the program for future sessions.

@@ -1,11 +1,3 @@
-<thinking>
-
-The Gift Progress Record Form is used to document and track progress on gifts, such as the total amount donated, the date and time the gift was made, and other relevant details. This form should only be used for recording gifts made by the organization, and not for other purposes such as reporting expenses or tracking other types of progress.
-
-Before filling out this form, please ensure you are only recording gifts made by the organization, and not duplicates. If you're unsure about the purpose or relevance of the form, please consult with your supervisor or the person responsible for tracking gifts.
-
-</thinking>
-
 # Gift Progress Record Form - Help Guide
 ## Purpose
 The Gift Progress Record Form is used to document and track progress on gifts, such as total amount donated, date and time gift was made, and other relevant details.

@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be designed for medical professionals to collect information on a patient's medical conditions. The form has a large number of fields related to medical conditions, suggesting that it may be used for evaluating or assessing a patient's medical status or for tracking changes in their conditions over time. 
-The form does not seem to have any obvious sections or groups, so it is likely meant to be completed by a single user. The large number of fields related to medical conditions also suggests that it may be used in a clinical setting.
-</thinking>
-
 # Daily Clinical Evaluation Form - Help Guide
 ## Purpose
 The Daily Clinical Evaluation Form is a tool for collecting and documenting a patient's medical conditions. It is designed to be completed by medical professionals to assess and track changes in a patient's medical status.

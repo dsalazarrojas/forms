@@ -1,5 +1,3 @@
-<thinking>As a seasoned form designer and technical writer, I'll review the provided YAML fields and create a comprehensive help guide for the user-facing "Barrel Racing Event Registration" form. This guide will cover the form's purpose, step-by-step instructions, and field-by-field explanations to ensure a smooth and successful registration process for riders.</thinking>
-
 # Barrel Racing Event Registration - Help Guide
 ## Purpose
 This form is designed to collect information from riders to register for the Barrel Racing Event. It collects personal and horse-related details, as well as preferences for event divisions, racing options, and other essential information to facilitate the registration process.

@@ -1,6 +1,3 @@
-<thinking>
-The form is designed to collect feedback from hiring managers on the candidate's performance during the interview, evaluation, or assessment process. This feedback is essential to help the candidate grow and improve, while also providing valuable insights for future reference. The form is not meant to be a comprehensive evaluation form, but rather a brief survey to gather specific information about the candidate's strengths and weaknesses. It's recommended that each hiring manager fills out this form only once for each candidate, and only when they have had a chance to meet with or assess the candidate. If you've already filled out a form for this candidate, please do not complete this form again.</thinking>
-
 # Hiring Manager Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from hiring managers on a candidate's performance during the interview or evaluation process. The form provides a quick and easy way for hiring managers to share their impressions and insights about each candidate.

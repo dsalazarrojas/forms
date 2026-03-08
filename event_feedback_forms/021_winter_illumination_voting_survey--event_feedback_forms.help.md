@@ -1,15 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather feedback from users about their experience at an event. It appears that the event is Winter Illumination, and this form is a survey designed to collect opinions and ratings from attendees. Each question on the form is intended to capture a specific aspect of the event, such as overall rating, favorite color, favorite character, event experience, and more. The form is not required to be filled out completely, and users can choose to answer any or all of the questions.
-
-The form is designed to be completed by attendees of the Winter Illumination event, and the information gathered will likely be used to improve the event in the future. The survey includes a mix of single-choice, multiple-choice, and free-text questions, allowing for both quantitative and qualitative feedback.
-
-The fields on this form do not appear to have any complex relationships or dependencies, so users can complete them independently of each other. However, it's possible that some questions may be more relevant to specific sections or demographics of the event.
-
-After reviewing the form, it seems that the questions are generally clear and straightforward, but some might be slightly ambiguous without further context. It's also worth noting that there might be some missing fields or questions that could be useful to gather additional feedback.
-
-</thinking>
-
 # Winter Illumination Voting Survey - Help Guide
 
 ## Purpose

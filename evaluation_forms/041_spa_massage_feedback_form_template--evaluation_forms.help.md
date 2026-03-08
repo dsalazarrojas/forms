@@ -1,8 +1,3 @@
-<thinking>
-This help guide will explain the purpose of the "Spa Massage Feedback Form Template" and guide users on how to complete it. This form is used to collect feedback from customers about their experience at the spa. It is intended to help the spa identify areas of improvement and provide better service to clients in the future. Please ensure you have read through the form carefully before providing feedback to ensure you address all relevant aspects of your experience.
-
-</thinking>
-
 # Spa Massage Feedback Form Template - Help Guide
 ## Purpose
 The "Spa Massage Feedback Form Template" is designed to collect your thoughts and opinions about your experience at the spa. Your feedback will help the spa staff to understand what you liked and disliked about your visit, and provide valuable insights to improve their services.

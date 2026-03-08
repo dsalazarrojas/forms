@@ -1,7 +1,3 @@
-<thinking>
-This form is part of the event planner's module, designed for registration and management of Valentine's Day Exchange Box events. It is not intended for duplicate registrations, so make sure to complete it only once per participant. To confirm, please note that this form is meant to gather information for one-time event registration, not for ongoing or continuous processes. If you're unsure, double-check the form's purpose and context in which it's being used.
-</thinking>
-
 # Valentine's Day Exchange Box Registration Form - Help Guide
 ## Purpose
 The Valentine's Day Exchange Box Registration Form is used to gather information for a single Valentine's Day event registration. It's meant to collect details from participants for the purpose of gift exchange and event management.

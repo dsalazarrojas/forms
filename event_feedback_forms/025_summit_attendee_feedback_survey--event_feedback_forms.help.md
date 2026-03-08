@@ -1,7 +1,3 @@
-<thinking>
-This form will be used to collect feedback from Summit attendees on various aspects of the event, including their overall satisfaction, session attendance, speaker performance, and suggestions for improvement. This will help event organizers gauge the success of the summit and identify areas for improvement for future events. Please note that this form is not mandatory, and attendees can choose not to fill it out if they don't have any feedback to provide.
-</thinking>
-
 # Summit Attendee Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from Summit attendees on their experience at the event. The feedback will help us improve future Summits.

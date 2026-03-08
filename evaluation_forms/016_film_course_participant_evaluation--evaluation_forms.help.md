@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Film Course Participant Evaluation - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-This form is likely a waiver form for a baseball simulator experience, designed to protect the facility and its operators from liability in case of injuries or damage. The form likely requires participants to provide personal information, emergency contact details, medical information, and acknowledgment of risks, release from liability, and final confirmation of understanding.
-
-To ensure a smooth and safe experience, it's essential to follow this guide carefully.
-
-</thinking>
-
 # Baseball Simulator Waiver Form - Help Guide
 ## Purpose
 

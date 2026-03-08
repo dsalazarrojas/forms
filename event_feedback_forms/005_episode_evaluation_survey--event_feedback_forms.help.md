@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to evaluate episodes in various contexts, such as media, sports, or events. It is likely used by event organizers, content creators, or production teams to gather feedback and ratings on episodes they publish or broadcast. This form should not be completed if you are trying to book an event, contact customer support, or make a purchase. Ensure you are filling out this form for the correct purpose, as it is intended to evaluate a specific episode and gather feedback.
-
-</thinking>
-
 # Episode Evaluation Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and ratings for episodes, providing an opportunity for the creators or owners of the episodes to understand their audience's opinions and preferences.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to provide a clear understanding of the Property Evaluation Form. It is likely used for evaluating properties for sale, lease, or ownership. Please ensure you're not already familiar with this form; if you are, please skip this section. If you're not sure, this guide will help you understand its purpose and how to complete it correctly. This guide will walk you through each field and help you fill out the form accurately and efficiently.
-</thinking>
-
 # Property Evaluation Form - Help Guide
 ## Purpose
 The Property Evaluation Form is used to collect data about properties, such as their location, type, size, use, condition, and other relevant details. This form is likely used for various purposes, including but not limited to:

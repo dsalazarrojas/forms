@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and requirements of the Tournament Media Coverage Evaluation Survey form. The form is designed to gather feedback on the media coverage of a tournament, providing an opportunity for users to evaluate the quality of the coverage, assess its reach, and suggest areas of improvement. It is not a requirement for all users to complete the form, but it is recommended to provide valuable insights for the organizers and participants of the tournament.
-
-The form is divided into several sections, each focusing on a specific aspect of the media coverage. The purpose of this guide is to help users navigate and understand the form's fields and requirements.
-
-</thinking>
-
 # Tournament Media Coverage Evaluation Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on the media coverage of a tournament, allowing users to provide their opinions on the quality, reach, and overall score of the coverage, as well as suggest areas for improvement.

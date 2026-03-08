@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for individuals to register their dogs for a canine competition. It gathers information about the handler and the dog, including contact and address details, competition type, and event selections. It also includes fields for medical and behavioral information, fees, and agreements. This is a comprehensive form that covers all aspects of the competition registration process.
-</thinking>
-
 # Canine Competition Entry Form - Help Guide
 ## Purpose
 This form is designed to collect information from handlers and their dogs for the canine competition. It includes sections for handler and dog details, competition type and event selections, and medical and behavioral information.

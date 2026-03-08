@@ -1,5 +1,3 @@
-<thinking>This form is for registering participants for remote work culture events. It collects basic information about the participants, event details, and event attendance. The purpose of the form is to gather necessary data for event planning and execution. This form is designed to be simple and easy to fill out. Please make sure to fill out the form completely and accurately to ensure that your registration is processed correctly.</thinking>
-
 # remote_work_culture_event_registration_form - Help Guide
 ## Purpose
 This form is designed to collect information from participants for remote work culture events. Please fill out the form completely and accurately to ensure that your registration is processed correctly.

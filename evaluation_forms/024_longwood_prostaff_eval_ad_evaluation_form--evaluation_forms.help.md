@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect user input for a product or service evaluation. This evaluation form likely helps to assess the quality and effectiveness of a particular Advertisement (AD) submitted by the user. The form may be used to provide feedback or ratings for the AD, with options for multiple categories (e.g., Advertising, Marketing, Sales) and criteria to evaluate the AD.
-
-Before filling out this form, please ensure you have not already submitted an evaluation for this AD, as duplicate submissions may not be necessary or desirable.
-
-</thinking>
-
 # longwood_prostaff_eval_ad_evaluation_form - Help Guide
 ## Purpose
 This form is designed to collect evaluation input from users to assess the quality and effectiveness of a submitted Advertisement (AD).

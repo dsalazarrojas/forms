@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for department staff to report issues and their resolutions within the department. It is designed to be a general-purpose form that can be used by multiple departments. The form is not affiliated with, endorsed by, or derived from any form platform, and its development was based on public survey topic metadata. The form's purpose is to provide a straightforward and easy-to-use interface for department staff to report and track issues and their outcomes.
-
-</thinking>
-
 # Department Report Form - Help Guide
 ## Purpose
 The Department Report Form is a general-purpose form used by department staff to report issues and their resolutions within the department.

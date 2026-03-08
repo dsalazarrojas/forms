@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to help us gauge interest for clean-up volunteer opportunities. Please only fill out the form if you have not already expressed interest in the past year. We will review each submission carefully to ensure we have accurate information and avoid duplicates. We appreciate your honesty and commitment to our clean-up volunteer efforts!
-
-</thinking>
-
 # Clean Up Volunteer Interest Form - Help Guide
 ## Purpose
 This form is for individuals who are interested in volunteering for clean-up efforts. If you are interested, please fill out this form accurately and honestly to help us get a better understanding of your availability, skills, and any physical limitations.

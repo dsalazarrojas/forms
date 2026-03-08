@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed for pastorevaluation, which likely refers to the evaluation process of a pastor's performance. The form appears to be a comprehensive evaluation tool that captures various aspects of a pastor's performance, including their overall evaluation criteria, specific criteria such as evaluation criteria 2-5, and other relevant details like assigned tools and output files. The purpose of this form is to gather information about a pastor's performance and possibly generate reports or output based on the collected data. However, the exact usage and output of the form's results are not explicitly mentioned in the provided YAML file. It is assumed that the form is used internally within an organization or for reporting purposes.
-
-To confirm that the form is being used correctly and not duplicated for other purposes, it would be helpful to have information on the form's intended users, such as administrators or evaluators, and the specific goals and procedures of the evaluation process.
-
-Before proceeding with the instructions on how to complete the form, please ensure that you have the necessary permissions and understand the form's purpose and intended use.
-
-</thinking>
-
 # Pastors Evaluation Form - Help Guide
 ## Purpose
 The Pastors Evaluation Form is designed to gather information about a pastor's performance. It is used to evaluate a pastor's effectiveness in their role and provide a basis for future improvement or recognition.

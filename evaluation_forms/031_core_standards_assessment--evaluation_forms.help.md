@@ -1,7 +1,3 @@
-<thinking>
-This form is for assessing student progress and evaluating whether they are meeting core standards in their subject area. The purpose of this form is to gather information about a student's current level of understanding and identify areas where they may need additional support or review. This form should only be used for students who are being assessed on their progress towards meeting core standards. Please check that you are using the correct form for the student's current grade level, subject area, and any other relevant criteria before completing this assessment. If you have already completed an assessment for this student, please do not duplicate the process.
-</thinking>
-
 # core_standards_assessment - Help Guide
 ## Purpose
 The core_standards_assessment form is used to evaluate student progress and determine if they are meeting core standards in their subject area. 

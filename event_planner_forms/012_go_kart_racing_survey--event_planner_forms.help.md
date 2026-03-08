@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback from go-kart racing customers to improve their overall experience at the facility. The survey is used to collect data on customers' experiences with the track, staff, and equipment, as well as their perceptions of safety, food and beverages, and pricing. This information will help the facility make informed decisions about how to improve the customer experience and make future improvements.
-</thinking>
-
 # Go Kart Racing Survey - Help Guide
 ## Purpose
 The Go Kart Racing Survey is designed to gather feedback from customers to improve their experience at the facility. It is a collection of questions that cover various aspects of their visit, from the overall experience to specific facilities such as safety, staff, and equipment.

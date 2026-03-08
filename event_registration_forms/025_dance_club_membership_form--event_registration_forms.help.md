@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in becoming a member of the dance club. The purpose of this form is to gather necessary details for membership registration, including contact and payment information, and to ensure that the individual is aware of the type of dance style they are interested in. This form is a standard part of the membership process and is used to create a new membership record. The fields included in this form are designed to be completed by the individual themselves, with some required fields to ensure that the necessary information is provided.
-</thinking>
-
 # Dance Club Membership Form - Help Guide
 
 ## Purpose

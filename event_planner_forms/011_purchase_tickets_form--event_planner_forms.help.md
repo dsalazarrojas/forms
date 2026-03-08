@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help users purchase tickets for events. It captures user information and event details. The goal is to allow users to select their name, the quantity of tickets they'd like to purchase, any gift registries they're associated with, the date and time of the event, the number of available tickets, and whether they'd like to purchase tickets. This form is likely to be used in a context where events are happening and users need to buy tickets. It's possible that the form will be used by event planners or administrators. It's worth noting that the form doesn't capture any redundant or unnecessary information, so it should be relatively short and easy to fill out.
-</thinking>
-
 # Purchase Tickets Form - Help Guide
 ## Purpose
 This form is designed to collect information from users who want to purchase tickets for an event. It captures essential details such as user name, ticket quantity, gift registries, event date and time, available tickets, and whether the user wants to purchase tickets.

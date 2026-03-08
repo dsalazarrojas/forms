@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about your experience with a yoga class. It is intended for students to provide feedback on their instructors, classes, and overall experience. Please make sure you have not already submitted this form. If you have submitted it in the past, there's no need to fill it out again.
-</thinking>
-
 # Yoga Evaluation Survey Form - Help Guide
 ## Purpose
 This form is used by yoga students to evaluate their experience with a class led by an instructor. Your feedback is valuable to the instructor and the studio, and will help them to improve their teaching and service.

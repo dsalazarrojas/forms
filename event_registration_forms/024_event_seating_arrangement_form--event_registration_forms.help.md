@@ -1,7 +1,3 @@
-<thinking>
-The event registration form is designed to be filled out by users to provide event organizers with detailed information about their event seating arrangements. This form should only be used for events such as weddings, conferences, and festivals, which require specific seating arrangements. The form's purpose is to ensure that event organizers can create effective seating plans for their attendees. 
-</thinking>
-
 # Event Seating Arrangement Form - Help Guide
 ## Purpose
 The Event Seating Arrangement Form is a tool for event organizers to collect information about their event's seating arrangements. This information helps them create efficient seating plans for attendees.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in attending a Resume Screening Workshop. The purpose of the form is to gather session preferences, contact details, and expectations from the registrants. This information will be used to tailor the workshop experience to the attendees' needs and preferences. Before starting, please make sure you have not already registered for this event to avoid duplication of effort. If you're unsure about the form or the event, please contact form@gic.mx for clarification.
-</thinking>
-
 # Resume Screening Workshop Registration - Help Guide
 ## Purpose
 This form is used to collect session preferences, contact details, and expectations from individuals interested in attending the Resume Screening Workshop.

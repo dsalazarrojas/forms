@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from participants for a restaurant management workshop. The form is likely to be used to gather data for workshop organization, participant tracking, and potential follow-up communication. To ensure relevance, the form should be completed by individuals interested in attending the workshop. Please note that this form was generated through AI and is not affiliated with any specific form platform. It's a unique adaptation of public survey metadata.
-</thinking>
-
 # restaurant_management_workshop_registration_form - Help Guide
 ## Purpose
 The restaurant management workshop registration form is designed to collect participant data, workshop preferences, and other relevant information for the workshop organizers.

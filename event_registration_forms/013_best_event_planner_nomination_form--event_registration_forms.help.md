@@ -1,7 +1,3 @@
-<thinking>
-We are designing a form for nominating individuals for the Best Event Planner Award. The form is intended to collect information about the nominee's contact details, event planning experience, and performance evaluation. The purpose of this form is to gather relevant data that will be used to evaluate and shortlist the nominees for the award. Please fill out the form accurately and thoroughly to provide a fair assessment of the nominee's qualifications. To avoid duplication, please ensure that you are not nominating individuals that have already been nominated in the past.
-</thinking>
-
 # Best Event Planner Nomination Form - Help Guide
 ## Purpose
 This form is designed to collect information about an individual's event planning experience and performance evaluation for the Best Event Planner Award.

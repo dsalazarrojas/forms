@@ -1,13 +1,3 @@
-<thinking>
-This is a form to register participants for a risk evaluation training session. The form is designed to gather information from participants, including their name, email, phone number, job title, organization, training session, date, and agreement to participate. This form is likely used in a professional or academic setting, such as a corporate training event or a research study. The form should only be used for this specific purpose and not for other types of events or registrations.
-
-Before proceeding with the form, please ensure that you are registering a participant for a risk evaluation training session. If not, please use a different form.
-
-Please note that this form requires a valid email address from the participant, which will be used for communication purposes.
-
-To avoid duplication, please do not register the same participant multiple times.
-</thinking>
-
 # risk_evaluation_framework_training_registration_form - Help Guide
 ## Purpose
 The form is used to register participants for a risk evaluation training session.

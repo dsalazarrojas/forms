@@ -1,15 +1,3 @@
-<thinking>
-This form is meant to collect information from attendees who wish to register and pay for an event, with an optional payment amount field. This form is likely used for events that have a pay-what-you-can model, where attendees can pay as much or as little as they'd like to attend. The form should be filled out by anyone who wants to register for the event and potentially contribute a payment. The form should only be completed on one page.
-
-This form has four fields:
-
-1.  attendee_information (page 1)
-2.  payment_amount (page 2)
-3.  payment_amount_hint (page 2)
-4.  payment_amount_hint_2 (page 2)
-
-</thinking>
-
 # pay-what-you-can-registration - Help Guide
 ## Purpose
 This form is designed to allow attendees to register for an event and optionally contribute a payment amount.

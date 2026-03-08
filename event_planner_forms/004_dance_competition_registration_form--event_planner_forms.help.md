@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from dancers for a dance competition. The purpose of this form is to gather relevant details about the dancers, including their name, contact information, dance style, and performance schedule. 
-To ensure accurate and efficient data collection, it's essential to follow the instructions below to complete this form correctly. 
-
-This form is a one-time registration form and should not be filled out multiple times for the same competition. Please do not submit duplicate registrations for the same dancer. If you have any questions or concerns, please reach out to the competition organizers for clarification. 
-
-Please note that all fields marked as "optional" can be left blank if not applicable. 
-
-</thinking>
 # Dance Competition Registration Form - Help Guide
 ## Purpose
 The Dance Competition Registration Form is designed to collect information from dancers participating in the dance competition. This form will help us to better understand your dance style, contact information, and performance schedule.

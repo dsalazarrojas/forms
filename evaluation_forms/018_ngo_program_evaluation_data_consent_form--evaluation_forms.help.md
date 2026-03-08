@@ -1,9 +1,3 @@
-<thinking> 
-
-This form is likely used for evaluating the performance and effectiveness of an NGO program. The data collected will be used to gather feedback, assess progress, and identify areas for improvement. This form is intended to be filled out by participants of the program, with the goal of understanding their experiences and perspectives on the program. To confirm the participant's identity and their understanding of how their data will be used, it's essential that this form is filled out carefully. The form will be used by the program staff or evaluators to gather insights into the program's performance and effectiveness, but it will not be duplicated for use in any other context without the participant's explicit permission. If the participant's data is to be shared with any other party or organization, it will be done in a way that maintains participant anonymity and confidentiality, as per the participant's consent given in this form. 
-
-</thinking>
-
 # NGO Program Evaluation Data Consent Form - Help Guide
 ## Purpose
 This form is used to gather information from participants in an NGO program evaluation. The data collected will help the program staff and evaluators to understand the program's performance and identify areas for improvement.

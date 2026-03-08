@@ -1,7 +1,3 @@
-<thinking>
-We're creating this help guide to ensure users understand the purpose and requirements of this form, while also avoiding duplication and ensuring relevance to the end user's needs.
-</thinking>
-
 # Digital Interactive Experience Survey - Help Guide
 ## Purpose
 This survey is designed to collect feedback and ratings from participants of digital interactive events such as webinars, workshops, conferences, and training sessions. The survey helps us understand the overall experience of the event, gather feedback, and identify areas for improvement.

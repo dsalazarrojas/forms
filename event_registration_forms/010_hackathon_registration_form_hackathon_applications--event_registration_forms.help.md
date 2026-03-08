@@ -1,11 +1,3 @@
-<thinking>
-
-To create a help guide for the hackathon registration form, we need to first understand the form's purpose and ensure it's being completed for a valid reason. This form is intended for hackathons, which are short, time-bound events that bring together developers, innovators, and problem solvers to create innovative solutions to problems or challenges. The form is used to register participants for these events, collecting necessary information for event organization and coordination.
-
-The form should not be used for other purposes, such as general contact or feedback forms, to avoid confusion and ensure accurate data collection.
-
-</thinking>
-
 # hackathon_registration_form_hackathon_applications - Help Guide
 ## Purpose
 The hackathon registration form is designed to collect information from participants for the hackathon event. This form is used to gather necessary details for event organization and coordination.

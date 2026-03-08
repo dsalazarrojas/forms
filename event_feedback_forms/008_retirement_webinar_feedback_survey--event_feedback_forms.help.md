@@ -1,7 +1,3 @@
-<thinking>
-This guide assumes that the form is intended to collect feedback from attendees of retirement webinars, which is a common practice in educational and corporate settings. However, to confirm the purpose and relevance of the form, it is essential to check with the stakeholders or the original designers of the form. If the form is a duplicate or not relevant to the intended use case, please refrain from proceeding further.
-</thinking>
-
 # Retirement Webinar Feedback Survey - Help Guide
 ## Purpose
 This guide is designed to walk you through the "Retirement Webinar Feedback Survey" form to help you provide constructive feedback on your recent webinar experience. Please follow the instructions carefully to ensure you complete the form accurately.

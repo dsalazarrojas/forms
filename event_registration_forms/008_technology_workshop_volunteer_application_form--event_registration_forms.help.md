@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users who are interested in volunteering for a technology workshop event. It is intended to gather general contact information, volunteer details, event information, and other relevant details to ensure that the event organizers have a complete understanding of the volunteer's qualifications and availability. This form is a crucial part of the event planning process, and the information collected here will be used to create a schedule and assign tasks to volunteers accordingly. To ensure that the information is accurate and up-to-date, users are encouraged to double-check their details before submission.
-</thinking>
-
 # Technology Workshop Volunteer Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from users who are interested in volunteering for a technology workshop event. It is intended to gather general contact information, volunteer details, event information, and other relevant details to ensure that the event organizers have a complete understanding of the volunteer's qualifications and availability.

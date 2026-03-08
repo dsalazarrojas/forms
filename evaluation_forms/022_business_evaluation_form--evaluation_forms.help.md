@@ -117,10 +117,6 @@ Provide overall rating of employee's performance.
 - Provide specific examples and reasons for your ratings.
 - Keep the comments and ratings professional and respectful.
 
-<thinking>
-To ensure the form is being used correctly, please note that this form is designed to be used by authorized personnel, such as managers or supervisors, to evaluate an employee's performance. The form is not intended to be used for other purposes. If you are not authorized to use this form, please do not proceed.
-</thinking>
-
 # Business Evaluation Form - Help Guide
 ## Purpose
 The Business Evaluation Form is designed to assess an employee's performance and provide feedback on their job performance, skills, and overall contributions to the company. The form helps evaluators to evaluate an employee's progress towards their job goals and identify areas for improvement.

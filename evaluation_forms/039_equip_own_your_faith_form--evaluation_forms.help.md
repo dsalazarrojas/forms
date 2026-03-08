@@ -1,5 +1,3 @@
-<thinking>...This form is designed to help individuals identify and reflect on their own faith, values, and growth plan. It is intended for those who want to assess their current beliefs and goals, and create a plan for personal development and growth. Before completing this form, please take a moment to review the purpose and instructions carefully to ensure it's relevant to your needs and goals. If you've already completed a similar form, please note that this is a distinct and separate exercise. Please fill out this form if you're interested in exploring and strengthening your faith and values...</thinking>
-
 # Equip Own Your Faith Form - Help Guide
 ## Purpose
 The Equip Own Your Faith Form is a self-assessment tool designed to help you evaluate your current faith and values. By completing this form, you'll be able to reflect on your spiritual foundation, identify areas for growth, and create a plan for personal development and spiritual growth.

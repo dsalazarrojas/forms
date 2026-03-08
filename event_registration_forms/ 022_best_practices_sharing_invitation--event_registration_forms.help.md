@@ -1,7 +1,3 @@
-<thinking>
-This form is for inviting others to share best practices, which are essential knowledge or techniques gained through experience that can be applied in various contexts. It's crucial to provide accurate personal information and ensure the invitation is properly addressed.
-</thinking>
-
 # Best Practices Sharing Invitation - Help Guide
 ## Purpose
 The purpose of this form is to invite others to share their best practices, which are valuable experiences, techniques, or knowledge gained through their work or personal projects. The form gathers information necessary for the invitation process, ensuring that the best practices are properly addressed and shared with the right people.

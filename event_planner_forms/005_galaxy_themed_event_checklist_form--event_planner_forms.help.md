@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect information about event planning details for a galaxy-themed event. The form was created using AI, and its purpose is to gather data on various aspects of event planning, such as event planning details, venue details, speaker details, event schedule, preparation progress, event budget, event team, and event notes. This form is not affiliated with any form platform and is released under a Creative Commons BY 4.0 license, allowing users to use, modify, and even sell forms derived from it while giving credit. The form is meant to be a helpful tool for event planners to gather necessary information and stay organized.
-
-</thinking>
-
 # galaxy_themed_event_checklist_form - Help Guide
 ## Purpose
 The galaxy-themed event checklist form is a tool for event planners to gather and organize various aspects of event planning.

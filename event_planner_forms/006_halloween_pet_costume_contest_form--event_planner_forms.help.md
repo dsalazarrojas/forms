@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a pet's Halloween costume contest entry, including the type of pet, its name, the owner's name, contact information (email and phone), age, the cost of the pet's costume, a category selection, entry fee, and a brief description of the costume. 
-This form will be used to collect data for an internal contest, so only relevant information is required. No information will be shared with external parties. To ensure accurate and consistent data, please follow the instructions below.
-</thinking>
-
 # Halloween Pet Costume Contest Form - Help Guide
 ## Purpose
 The Halloween Pet Costume Contest Form is designed to collect information for an internal contest. Please note that not all fields are required, but filling out all relevant fields will ensure that your entry is complete and accurate.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Secret Santa Wish List Form - Help Guide
 
 ## Purpose

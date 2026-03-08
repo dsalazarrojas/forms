@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to evaluate the experience and perceptions of attendees at church events. It collects information on the overall satisfaction, likelihood to recommend, and specific aspects of the event such as venue comfort, event schedule, content quality, and speaker quality. The form is intended for internal use by the church to gather feedback and suggestions for future events.
-The form is not intended for external use or distribution. It is a custom adaptation of a general event evaluation form created using AI.
-Please ensure that the form is not shared or copied without proper credit.
-Please fill out this form accurately and truthfully to provide valuable feedback for the church.
-</thinking>
-
 # Church Event Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback and suggestions from attendees at church events. It will help the church understand what worked well and what could be improved.

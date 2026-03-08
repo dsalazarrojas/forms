@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about a dog's health certificate, which is likely a document that verifies a dog's health status or vaccination history. The purpose of this form is to gather relevant details from the dog's owner and possibly the veterinarian, and to create a record of the dog's health condition. This form is likely used in the animal health or veterinary field.
-</thinking>
-
 # dog_health_certificate_form - Help Guide
 ## Purpose
 This form is designed to collect information about a dog's health certificate, which is typically a document that confirms a dog's health status or vaccination history.

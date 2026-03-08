@@ -1,10 +1,3 @@
-<thinking>
-This form is used for evaluating research and development projects. The purpose of this form is to gather information about the project's strengths, weaknesses, opportunities, and threats (SWOT) analysis, as well as the project rating and rating scale. The form is designed to be completed by project reporters and reviewers to provide a comprehensive evaluation of the project. This form is used to track progress and evaluate project performance over time.
-To avoid duplication of effort, please only complete this form if:
-- You have been assigned to review or report a project by a project manager or team lead.
-- You have relevant knowledge and experience with the project or related field.
-</thinking>
-
 # research_development_evaluation_form - Help Guide
 ## Purpose
 This form is used for evaluating research and development projects.

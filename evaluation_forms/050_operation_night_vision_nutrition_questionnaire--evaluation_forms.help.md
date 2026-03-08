@@ -1,7 +1,3 @@
-<thinking>
-The Operation Night Vision Nutrition Questionnaire is a health assessment form used to evaluate the nutritional status of individuals, particularly those with eye problems or other health concerns that require a tailored nutrition plan. This form is intended to gather information on personal details and habits that can affect eye health and overall well-being. Before starting, check that you're not duplicating this process for another purpose. Ensure you're completing this form as part of a legitimate evaluation or assessment process.
-</thinking>
-
 # Operation Night Vision Nutrition Questionnaire - Help Guide
 ## Purpose
 The Operation Night Vision Nutrition Questionnaire is designed to collect information about an individual's health status, habits, and medical history to provide a personalized nutrition plan for optimal eye health.

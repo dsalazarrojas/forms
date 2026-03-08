@@ -1,24 +1,3 @@
-<thinking>
-This form is for booking access to a performance seat. It is intended for end users to input event details such as event name, date, and seat type. It also includes fields for booking method, email address, phone number, notes, category, and description. The form does not seem to have any duplicate or unnecessary fields. It appears to be a simple form for booking performance seats with various input options.
-
-The form fields are as follows:
-- Event name: The name of the event
-- Event date: The date of the event
-- Seat type: The type of seat being booked
-- Seat number: The number of the seat being booked (optional)
-- Booking method: The method used to book the seat (Bank Transfer, Credit Card, PayPal)
-- Email address: The email address of the end user
-- Phone number: The phone number of the end user (optional)
-- Notes: Any additional notes or comments about the booking
-- Category: The category of the form (Event Registration Forms, Payment Forms, Booking Forms)
-- Description: A brief description of the form (optional)
-
-The form fields are mostly self-explaining, but a few fields might need further explanation:
-- Seat type: This field might be confusing if the user is not familiar with the seat types available. However, it is unlikely to cause any significant issues as most users will choose a seat type that matches their needs.
-- Category: This field is likely a categorization of the form for internal purposes and will not affect the user's ability to complete the form.
-- Description: This field is optional and can be left blank if the user does not wish to provide a description.
-</thinking>
-
 # performance_seat_booking_access_form - Help Guide
 ## Purpose
 This form is for booking access to a performance seat. It allows end users to input event details and other relevant information to complete the booking process.

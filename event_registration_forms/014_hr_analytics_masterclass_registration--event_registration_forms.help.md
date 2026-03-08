@@ -1,13 +1,3 @@
-<thinking>
-
-This form is a user-facing help guide for an HR Analytics Masterclass Registration form. It is intended to collect information from end users about their preferences and experience level for an HR Analytics Masterclass. The form will be used to gather data that will help inform the delivery of the masterclass, and the user input will be used to tailor the experience to their needs.
-
-The form is not a critical component of the system and does not impact the core functionality, but it is a necessary step in the process to ensure that users get the most out of the masterclass.
-
-Before filling out this form, ensure you have not submitted it previously. If you have filled out this form before, your submission will not be accepted.
-
-</thinking>
-
 # HR Analytics Masterclass Registration - Help Guide
 ## Purpose
 This form collects information about your preferences and experience level for the HR Analytics Masterclass. Please complete the form to help tailor your experience and get the most out of the masterclass.

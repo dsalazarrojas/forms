@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to guide users through a comprehensive checklist for setting up a holiday village display. The purpose of this form is to ensure that all necessary checks are completed before, during, and after the event to guarantee a safe and enjoyable experience for visitors. This form will help users track and document their progress, making it easier to review and verify that everything is in order. The checks listed in this form are crucial for maintaining a safe and well-organized event space.
-</thinking>
-
 # Holiday Village Display Setup Checklist - Help Guide
 
 ## Purpose

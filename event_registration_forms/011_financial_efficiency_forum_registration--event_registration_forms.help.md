@@ -1,8 +1,3 @@
-<thinking>
-The form "financial_efficiency_forum_registration" is used for user registration for the Financial Efficiency Forum. The primary purpose of this form is to gather essential information from users, including their details, interests, and preferences. This form will be used to create a profile for the user and provide them with access to relevant resources and discussions in the forum.
-Before filling out this form, please note that each field is labeled with the field name. It is essential to provide accurate information to ensure a smooth registration process.
-</thinking>
-
 # financial_efficiency_forum_registration - Help Guide
 ## Purpose
 This form is designed to collect user information for the Financial Efficiency Forum. Please fill out the form accurately to ensure you receive relevant resources and discussions in the forum.

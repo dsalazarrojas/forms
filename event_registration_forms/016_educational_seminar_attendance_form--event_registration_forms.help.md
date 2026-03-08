@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from users about their attendance to an educational seminar. The purpose of the form is to determine who will be attending the seminar and to gather some basic contact information from participants. The form should only be filled out by people who are actually attending the seminar. There is no indication that the form will be used for any other purpose. The following fields are included to collect information necessary for the event organizers to communicate with attendees and to track attendance.
-
-</thinking>
-
 # educationalSeminarAttendanceForm - Help Guide
 ## Purpose
 The educational seminar attendance form is used to collect information from attendees about their attendance to an educational seminar. This form is only for attendees.

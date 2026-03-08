@@ -1,7 +1,3 @@
-<thinking>
-We're creating a help guide for the Lighting Crew Registration form, which is used for registering lighting crew members' information and availability for various events. This form will help us track and manage our lighting crew's capabilities and assign them to specific tasks and events. To ensure we're collecting the right information, we'll need to make sure each field is filled out correctly and consistently. This guide will walk you through the purpose and usage of each field to help users fill out the form correctly.
-</thinking>
-
 # Lighting Crew Registration - Help Guide
 ## Purpose
 The Lighting Crew Registration form is used to collect and track lighting crew members' information, including their first and last name, address, contact details, experience level, equipment owned, roles, availability, and other relevant details. This form will help us assign crew members to specific tasks and events based on their capabilities and availability.

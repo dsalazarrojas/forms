@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals who wish to register as skaters for an event. This form is a mandatory requirement for anyone wishing to participate in the event. Please note that all fields marked as "required" should be completed accurately to avoid rejection. This form is not intended for staff, vendors, or other non-skater personnel, so please do not attempt to register using this form if you are not an individual. Also, please fill out the form in one session to avoid confusion. Please ensure that you have a valid email address and a phone number for emergency contact purposes. This form will not be accepted if the email address or phone number is incorrect/incomplete. Please ensure that you have a valid age as it is required to participate in the event.
-</thinking>
-
 # Skater Registration Form - Help Guide
 ## Purpose
 This form is intended for individuals to register as skaters for an event.

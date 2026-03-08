@@ -1,7 +1,3 @@
-<thinking>
-To provide a testimonial, a user must indicate whether the testimonial content is public or private. If the content is private, it will only be visible to the user and other users with whom they have a direct relationship. This form will help to collect testimonials from users with different statuses. A user can attach a file or link to a video or image to further describe their experience. This form is used for evaluating user feedback. The testimonial form should not be completed more than once per user. 
-</thinking>
-
 # Testimonial Form - Help Guide
 ## Purpose
 This form is used to collect user testimonials with different levels of privacy and status.

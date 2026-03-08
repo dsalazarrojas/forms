@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect RSVP (response) information from individuals who are interested in attending the Festival Press Mixer. This form will help to track the attendance and preferences of attendees, allowing the organizers to make necessary arrangements and preparations for the event. The form is designed to be completed by attendees who are interested in participating in the Festival Press Mixer. It is not intended for use by individuals who are not participating in the event.
-</thinking>
-
 # Festival Press Mixer RSVP Form - Help Guide
 
 ## Purpose

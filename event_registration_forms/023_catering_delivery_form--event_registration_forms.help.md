@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Catering Delivery Form - Help Guide
 
 ## Purpose

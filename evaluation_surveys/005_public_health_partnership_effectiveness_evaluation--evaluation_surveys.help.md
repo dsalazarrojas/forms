@@ -1,12 +1,3 @@
-<thinking> 
-This form is designed to evaluate the effectiveness of public health partnerships. The purpose of the form is to collect information on the level of collaboration, communication, and challenges faced by partners in a public health partnership. The form is intended to be completed by partners who have experience with public health partnerships. Please make sure to answer the questions accurately and honestly.
-
-If you have already completed a similar form for the same partnership, you can use the same information to save time. Please make sure that the information you provide is up-to-date and reflects the current state of the partnership.
-
-If you're not sure about any of the questions or options, please feel free to ask for help or clarification.
-
-</thinking>
-
 # Public Health Partnership Effectiveness Evaluation - Help Guide
 ## Purpose
 The purpose of this form is to evaluate the effectiveness of public health partnerships.

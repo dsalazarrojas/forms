@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Reception Entertainment Voting Form - Help Guide
 ## Purpose
 This form is used to collect feedback and ratings from event attendees after a reception. It will help us understand how our guests perceived the entertainment provided during the event. We recommend filling this out only if you have participated in this specific reception.

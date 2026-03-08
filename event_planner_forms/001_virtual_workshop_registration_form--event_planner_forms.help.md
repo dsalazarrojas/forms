@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form will only be used for Virtual Workshop registration and that end users understand its purpose. This form is intended to collect attendee information for virtual workshops. We should check if the form is being used for the correct context to avoid duplication of effort and confusion among users. Let's make sure it's being used as intended.
-</thinking>
-
 # Virtual Workshop Registration Form - Help Guide
 ## Purpose
 The Virtual Workshop Registration Form is designed to collect attendee information for virtual workshops. This form is used to register participants for online events where they can interact with the host or other attendees in real-time or on-demand. Please ensure this form is only used for virtual workshops to avoid confusion and duplication of effort.

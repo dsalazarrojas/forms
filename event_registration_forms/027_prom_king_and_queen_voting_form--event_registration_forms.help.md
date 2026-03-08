@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended for students to vote for the prom king and queen candidates. It is likely to be used in an educational institution such as a high school or university, perhaps during prom season. The form is designed to gather information from students, including their student ID, voting preferences for the king and queen candidates, name, email address, phone number, and a timestamped vote. The form is required to be completed with all fields.
 
 # Prom King And Queen Voting Form - Help Guide

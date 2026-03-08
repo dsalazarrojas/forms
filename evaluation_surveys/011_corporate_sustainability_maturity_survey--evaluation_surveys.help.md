@@ -1,10 +1,3 @@
-<thinking>
-We need to ensure that this survey is only completed by those who have a genuine interest in evaluating the corporate sustainability maturity and not by those who are looking to game the system. We also need to prevent non-duplication of effort by ensuring that users understand the purpose and scope of this survey.
-
-This form is designed for evaluating the corporate sustainability maturity of an organization. It consists of 10 pages, each with a specific section of questions.
-
-</thinking>
-
 # Corporate Sustainability Maturity Survey - Help Guide
 ## Purpose
 

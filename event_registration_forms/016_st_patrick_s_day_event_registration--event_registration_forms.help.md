@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to register participants for a St. Patrick's Day event. The form is used to collect event details, RSVP information, attendee details, payment info, and additional comments. This form is used for internal purposes only, and the information collected will be used to manage event registrations and communicate with participants. There is no duplication of effort, as this form is not intended to be used for multiple registrations or events.
-</thinking>
-
 # st_patricks_day_event_registration - Help Guide
 ## Purpose
 The st_patricks_day_event_registration form is used to register participants for a St. Patrick's Day event. The form collects event details, RSVP information, attendee details, payment info, and additional comments. This information is used to manage event registrations and communicate with participants.

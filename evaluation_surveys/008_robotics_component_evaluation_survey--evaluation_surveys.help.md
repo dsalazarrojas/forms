@@ -1,8 +1,3 @@
-<thinking>
-To confirm, I will create a user-facing help guide for the "Robotics Component Evaluation Survey" form.
-The purpose of this form is to collect evaluations of robotics components, which is a crucial step in the robotics development process. Evaluations can help identify strengths and weaknesses of each component, guiding further improvements. This form likely won't be filled out by a machine (as implied by the `evaluation_surveys` category), so let's make sure to keep the language user-friendly and concise.
-</thinking>
-
 # Robotics Component Evaluation Survey - Help Guide
 ## Purpose
 This form is designed to gather evaluations of robotics components, helping robotics development teams identify areas of improvement and optimize their products or services.

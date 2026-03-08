@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for event planners to report the status of their events after completion. This is a report form for internal use, used to track and monitor events that have already occurred or are in progress. 
-The form should not be used for events that have not started yet or are ongoing and not yet completed.
-The form is used for tracking and reporting event status to facilitate data collection and analysis for future event planning and management decisions.
-</thinking>
-
 # Event Completion Report Form - Help Guide
 ## Purpose
 

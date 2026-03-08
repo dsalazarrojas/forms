@@ -1,7 +1,3 @@
-<thinking>
-This form is used by event planners to request transportation services for stage performances. The form is typically used for events where a crew is needed for the stage or equipment needs to be transported to or from a remote location. The form is meant to be completed by the event planner or coordinator to provide information about the event, crew, and transportation requirements. Before submitting this form, please ensure that you have checked the event date and crew details carefully, as this information will be used to determine transportation availability and requirements. Also, ensure that you have not already submitted this form for the same event as this may cause unnecessary duplication of effort and may affect the transportation planning process.
-</thinking>
-
 # Stage Performance Transport Request Form - Help Guide
 ## Purpose
 This form is used to request transportation services for stage performances. Event planners and coordinators use this form to provide information about the event, crew, and transportation requirements.

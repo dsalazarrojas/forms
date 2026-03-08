@@ -1,10 +1,3 @@
-<thinking>
-We are developing this form to gather information from blended learning evaluation groups. Before filling out this form, please ensure that your group is eligible to register for the blended learning evaluation program. To confirm, please check that your group:
-- Meets the eligibility criteria (e.g., specific education or experience level, program duration).
-- Has the necessary resources and infrastructure in place to support blended learning.
-- Is not a duplicate registration (if you have already registered a group, do not re-register).
-</thinking>
-
 # Blended Learning Evaluation Group Registration Form - Help Guide
 ## Purpose
 This form is for registering your blended learning evaluation group for the evaluation program.

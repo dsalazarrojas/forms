@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a form used for collecting information from event organizers to ensure that all necessary items are packed for an event. The purpose of this form is to streamline the packing process and reduce last-minute rushes. The form is designed to be completed by event organizers, who will be able to fill out the form with the necessary details about the event, including a list of items to be packed, the status of each item (packed or not packed), any notes about the items, the date and time of the event, contact information for the organizer, and details about the items being packed, including quantity and description.
 
 </thinking>

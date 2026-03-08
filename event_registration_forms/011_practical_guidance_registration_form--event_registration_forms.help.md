@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Practical Guidance Registration Form - Help Guide
 ## Purpose
 The Practical Guidance Registration Form is designed to collect information about events and participants. It is intended to gather essential details to ensure smooth event execution and participant management.

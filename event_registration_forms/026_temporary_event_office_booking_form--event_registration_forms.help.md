@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect event registration information from users. It is likely intended for events held in office spaces, such as conference rooms or meeting rooms. The form may be used to book office space for events like meetings, workshops, or training sessions. It's possible that the form is a supplement to other office event planning processes, providing more detailed information about the event to office staff or facilities management.
-
-Before completing this form, ensure you have all necessary information and approvals in place. You may need to provide additional documentation or follow up with the submitter after submitting this form to confirm details. Please note that this form may have been designed to be used internally, so some fields might only be relevant to office staff or specific office policies.
-
-Before proceeding, please review this form carefully and ensure you understand the required fields. If you are unsure about any field, please reach out to the relevant office staff for clarification.
-</thinking>
-
 # Temporary Event Office Booking Form - Help Guide
 ## Purpose
 This form is designed to collect event registration information from users to book office spaces.

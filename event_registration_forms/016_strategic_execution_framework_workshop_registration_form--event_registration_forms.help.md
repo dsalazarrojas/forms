@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Strategic Execution Framework Workshop Registration Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Drumline And Majorette Registration - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from event registration form submissions, specifically for incentive programs. 
-To ensure accurate and relevant responses, it's crucial that each field is filled out correctly and completely. Please review each field carefully and only fill out the relevant fields. If you're unsure about any of these fields, please contact the relevant authorities for clarification.
-</thinking>
-
 # Incentive Program Registration - Help Guide
 ## Purpose
 The Incentive Program Registration form is used to collect information about incentive programs submitted for registration. This form helps us to track and process these submissions efficiently.

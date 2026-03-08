@@ -1,13 +1,3 @@
-<thinking>
-
-The "Mental Health Workshop Attendance Form" is used to register participants for a mental health workshop. This form collects relevant information about the participant, including their name, email, phone number, and mental health specialty. The form is also used to collect information about the workshop, such as its name, date, time, location, and event ID. This form is intended to be used by workshop organizers to track participant registration and attendance.
-
-To ensure that this form is being used correctly, please note that each field is required unless otherwise specified as optional. 
-
-Please ensure that the form is not used for any other purpose, as it contains sensitive information about mental health workshops. 
-
-</thinking>
-
 # Mental Health Workshop Attendance Form - Help Guide
 ## Purpose
 

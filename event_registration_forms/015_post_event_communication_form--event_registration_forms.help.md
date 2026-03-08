@@ -1,8 +1,3 @@
-<thinking>
-This form is likely being used to gather information and feedback after an event or meeting. The purpose of this form is to capture relevant details and participant experiences to improve future events. Before starting, please ensure you have not completed this form for the same event previously to avoid duplicates.
-
-</thinking>
-
 # Post Event Communication Form - Help Guide
 ## Purpose
 This form is designed to gather information and feedback after an event or meeting. It helps us understand the event's details and participant experiences, which will be used to improve future events.

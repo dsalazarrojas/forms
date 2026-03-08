@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Post Assessment Feedback Survey is an evaluation tool used to gather feedback from participants after an assessment event. It is essential to ensure that each participant understands and completes the form accurately to provide reliable and valuable feedback.
 
 To complete this form, participants should follow these steps:

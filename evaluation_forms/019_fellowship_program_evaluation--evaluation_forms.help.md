@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to evaluate the effectiveness and quality of a fellowship program. It is designed to gather feedback from participants and stakeholders to help improve the program in the future. 
-
-To ensure that this form is filled out accurately and effectively, it is essential to understand the purpose and requirements of each field. 
-
-Please note that this form has been designed with care to minimize duplication and ensure accurate data collection.
-
-</thinking>
-
 # Fellowship Program Evaluation - Help Guide
 ## Purpose
 This form is intended to gather feedback and evaluations from participants and stakeholders about the Fellowship Program. The information collected will be used to identify areas of improvement and make data-driven decisions to enhance the program.

@@ -1,12 +1,3 @@
-<thinking>
-This form is used to evaluate the performance of a Tech Team Lead annually. It is designed to assess their overall performance, team contribution, areas of focus, and other relevant aspects of their job. It's crucial to complete this form accurately and honestly to provide a fair evaluation. Please ensure that you are evaluating the correct period and that your evaluation is based on the actual performance of the Tech Team Lead during the evaluation cycle.
-
-This form should only be completed once per evaluation cycle. Repeating this form will overwrite any existing evaluation. Make sure to save your changes before submitting the form.
-
-Before starting, please review the options for each field carefully to ensure you are providing accurate and relevant information.
-
-</thinking>
-
 # Tech Team Lead Annual Evaluation Form - Help Guide
 ## Purpose
 This form is used to evaluate the performance of a Tech Team Lead annually.

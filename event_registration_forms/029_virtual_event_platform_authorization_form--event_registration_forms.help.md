@@ -1,13 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Virtual Event Platform Authorization Form", I need to consider the following:
-
-* The form is intended for virtual event registration, which means it's used for people to sign up for events that take place online.
-* The form likely requires participant information, such as name, email, phone number, address, date of birth, and other relevant details.
-* The form might also include fields for event-specific information, like event start and end dates.
-* I need to ensure that the form is clear and easy to understand for the end-user.
-
-</thinking>
-
 # Virtual Event Platform Authorization Form - Help Guide
 ## Purpose
 This form is designed to collect participant information and event details for virtual events. Please fill it out accurately and completely to ensure a smooth registration process.

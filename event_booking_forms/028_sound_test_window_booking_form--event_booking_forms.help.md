@@ -1,7 +1,3 @@
-<thinking>
-The Sound Test Window Booking Form is used to book a sound test window for a specific event. This form will guide you through the required fields to ensure accurate and efficient booking. To start, ensure you have the necessary permissions to access and book this form. Please note that this form is designed for internal use and is not intended for external sharing. 
-</thinking>
-
 # Sound Test Window Booking Form - Help Guide
 ## Purpose
 The Sound Test Window Booking Form is used to book a sound test window for a specific event. It is essential to fill out the required fields accurately and completely to ensure efficient booking and proper communication with the facility.

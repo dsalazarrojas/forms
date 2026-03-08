@@ -1,12 +1,3 @@
-<thinking>
-We're going to create a help guide that explains the purpose and usage of the Ticket Counter Operation Booking Form in a clear and concise manner. This form is used for booking and managing operations for ticket counters, which are likely used in various business or event settings. It seems like the form has a lot of fields, but we'll break it down step by step to make it easy to understand.
-
-To start, the form is used to book and manage operations for ticket counters. This form will likely be used by administrators or staff members to schedule and track ticket counter operations. The form might be used to assign tickets to specific counters, track the status of ticket counters, and record notes and comments about each operation.
-
-The form is divided into several sections, each with its own purpose. We'll break down each field and explain its purpose in the following sections.
-
-</thinking>
-
 # Ticket Counter Operation Booking Form - Help Guide
 ## Purpose
 The Ticket Counter Operation Booking Form is used to book and manage operations for ticket counters. This form is designed to help administrators or staff members schedule and track ticket counter operations.

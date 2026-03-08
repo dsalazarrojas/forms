@@ -1,8 +1,3 @@
-<thinking>
-This form is likely used by a team or organization to collect information about a specific event, such as an event title, dates, location, and relevant details about the judging panel involved. It's likely used for internal purposes, for example, by conference organizers, event coordinators, or festival committees.
-This form is not typically used for general audience purposes, so it's possible that it's intended for internal use only. To confirm, it's essential to verify that this form is not already in use for other purposes that might duplicate its functionality.
-</thinking>
-
 # Judging Panel Information Form - Help Guide
 ## Purpose
 The Judging Panel Information Form is used to collect and store information about a specific event. The form is intended for internal use.

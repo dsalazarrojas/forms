@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to assess an individual's leadership skills, style, and preferences. It aims to gather information about their self-perceived leadership abilities, work environment, and feedback preferences. 
-
-The form is composed of multiple pages with various fields, including text inputs, multiple-choice selections, and date/time inputs. It seems to be a comprehensive assessment tool for individuals in early education settings. However, to ensure the form's usability and accuracy, it's essential to verify that each field is correctly labeled and that the form's purpose is well-understood by the end-users.
-
-Before proceeding, please review the form's structure and ensure that it aligns with your specific use case or context. If you have any doubts or concerns, please contact form@gic.mx.
-
-</thinking>
-
 # Leadership Assessment For Early Education - Help Guide
 ## Purpose
 This form is designed to assess an individual's leadership skills, style, and preferences in an early education setting.

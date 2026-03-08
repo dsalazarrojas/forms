@@ -1,15 +1,4 @@
-## <thinking>
-To create a user-facing help guide for this Leadership Retreat Enrollment Form, we must first understand the purpose of the form. The form seems to be designed for participants to provide information about their participation in a leadership retreat. The form includes various fields to gather details such as participant info, event details, and contact information. It appears that the form is intended to be completed by individuals who are interested in attending or have already been registered for a leadership retreat. This form might be used by organizers or administrators to collect and manage participant data for the event.
-
-To confirm, let's review the form structure:
-- It has 8 fields in total.
-- Fields are split into 2 pages, but since this is a text-based guide, we'll focus on a single field per explanation.
-- Fields seem to be for collecting participant and event information.
-
-Given the provided YAML, the form appears to be a simple, one-page form. We'll assume the participant info is the main focus, but it's worth double-checking to ensure we cover all fields correctly.
-</thinking>
-
-# Leadership Retreat Enrollment Form - Help Guide
+## # Leadership Retreat Enrollment Form - Help Guide
 
 ## Purpose
 This form is designed to help leaders register for or provide information about their participation in a leadership retreat.

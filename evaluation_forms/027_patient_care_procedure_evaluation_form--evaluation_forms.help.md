@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to evaluate the quality and effectiveness of a patient care procedure. It's likely that this form will be completed by a healthcare professional to assess the procedure's quality, effectiveness, and overall satisfaction. The form is used to gather information about the procedure's performance, and the team involved in its execution. This evaluation is likely used to improve future procedures and ensure patient care is being provided with the highest quality and effectiveness possible. The fields in this form are meant to be completed by one person or a small team, and it's not clear whether this form is intended for individual or team completion. However, the form seems to capture relevant information for evaluating a procedure's quality and effectiveness.
-</thinking>
-
 # Patient Care Procedure Evaluation Form - Help Guide
 ## Purpose
 This form helps healthcare professionals evaluate the quality and effectiveness of patient care procedures.

@@ -1,9 +1,3 @@
-<thinking>
-This form is for registering a Double Dutch competition. It's essential to understand the specific requirements and procedures for this type of competition. 
-The form has several fields, but some are unnecessary or redundant. For example, the "event_details" field might be better labeled as "Competition Description" or "Event Description", and the "submission_details" field could be merged with "event_details" or labeled as "Competition Rules". However, these suggestions are minor and won't affect the overall functionality of the form.
-The "emergency_contact" fields might be considered sensitive information, so it's essential to ensure that these fields are filled out correctly and that the user understands their purpose.
-</thinking>
-
 # Double Dutch Competition Registration - Help Guide
 ## Purpose
 This form is designed for registering a Double Dutch competition. Please fill out the form with accurate and complete information to ensure successful registration.

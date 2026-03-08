@@ -1,14 +1,3 @@
-<thinking>
-The Form Purpose is to help the user evaluate and analyze the effectiveness of a fundraising event. This form is used to gather information about the event, including its name, date, location, and financial performance (donations and average donation amount). The user is also asked to provide feedback about the event, including whether it met its target goal and if the event was a success (yes/no). Additionally, the form includes space to take note of any lessons learned or observations from the event and to specify the version of the form being used.
-
-The form is used to track the progress and outcome of various fundraising events. The information gathered through this form will help in understanding what works and what doesn't, and to make improvements for future events.
-
-The form is designed to be used by individuals who have participated in or have been involved in the event, such as event organizers, volunteers, or attendees.
-
-This form should only be filled out for events that have already occurred.
-
-</thinking>
-
 # Fundraising Event Effectiveness Audit Form - Help Guide
 ## Purpose
 The Fundraising Event Effectiveness Audit Form is used to gather information about the success and effectiveness of a fundraising event.

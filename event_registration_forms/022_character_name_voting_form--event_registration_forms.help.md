@@ -1,7 +1,3 @@
-<thinking>
-The Character Name Voting Form is designed to collect votes for character names, allowing users to submit their preferences. To ensure data accuracy, it's essential to verify that this form is filled out correctly to avoid duplication of efforts. This form is intended to collect demographic information and feedback from users, and it's crucial to understand each field's purpose to ensure that the data is used for its intended purpose.
-</thinking>
-
 # Character Name Voting Form - Help Guide
 ## Purpose
 The Character Name Voting Form is a tool used to collect character name votes, enabling users to express their preferences and select their top choice. The collected data can be used to analyze demographics and understand user opinions.

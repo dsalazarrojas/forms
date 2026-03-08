@@ -1,20 +1,3 @@
-<thinking>
-
-The Civil Service Employee Self-Evaluation Form is designed to provide a systematic and objective way to assess the performance of civil service employees over a specific review period. This form helps to identify strengths and weaknesses, set goals for improvement, and facilitate growth and development. By using this form, employees can reflect on their performance, acknowledge areas where they need to improve, and demonstrate their ability to take ownership of their work.
-
-The form is also used to evaluate the employee's ability to:
-
-* Demonstrate knowledge of job duties and procedures
-* Deliver quality and accurate work
-* Show dependability and attendance
-* Cooperate with colleagues and contribute to teamwork
-* Achieve major accomplishments and overcome challenges
-* Set goals and priorities for the next review period
-
-Before completing this form, ensure that you have reviewed the performance standards and objectives for your role and department. This will help you provide accurate and meaningful self-assessments.
-
-</thinking>
-
 # Civil Service Employee Self-Evaluation Form - Help Guide
 ## Purpose
 This form is designed to help civil service employees evaluate their performance over a specific review period, providing a systematic and objective way to assess strengths and weaknesses, set goals for improvement, and facilitate growth and development.

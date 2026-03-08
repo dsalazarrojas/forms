@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from attendees who wish to check in to a trade show event. The form is intended to be filled out by the attendee, providing their details and emergency contact information. The purpose of this form is to streamline the check-in process and ensure that the event organizers have accurate and up-to-date information about the attendees.
-This form will be used by event organizers to collect relevant information from attendees, and it is crucial to fill it out accurately and completely.
-</thinking>
-
 # Trade Show Check In Form - Help Guide
 ## Purpose
 The Trade Show Check In Form is a tool used to collect information from attendees during a trade show event. It's essential to fill out this form accurately to ensure that event organizers have the necessary details to provide a smooth and enjoyable experience for you and other attendees.

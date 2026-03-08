@@ -1,9 +1,3 @@
-<thinking>
-To confirm the form's purpose and ensure it is correctly used, the following internal reasoning block should be checked before proceeding: 
-*   Is the form intended to provide a high-level overview of the financial situation of a specific event? 
-*   Are all required fields being properly filled out, as the absence of a required field could indicate a missing financial consideration? 
-</thinking>
-
 # Event Financial Overview - Help Guide
 
 ## Purpose

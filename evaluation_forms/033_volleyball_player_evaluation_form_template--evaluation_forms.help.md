@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this Volleyball Player Evaluation Form Template is to provide an objective evaluation of a volleyball player's skills and progress. The form is designed to gather information from coaches, trainers, or evaluators who need to assess a player's abilities in various aspects of the game. The form should only be used for internal purposes within a sports organization or team, and the evaluation should be conducted regularly to track and improve player performance.
-</thinking>
-
 # Volleyball Player Evaluation Form Template - Help Guide
 ## Purpose
 The Volleyball Player Evaluation Form Template is a tool for objective assessment of a player's skills and progress. It is meant to be used by coaches, trainers, or evaluators to evaluate a player's abilities in various aspects of the game.

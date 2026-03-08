@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to book an emergency contact desk meeting with a staff member of the organization. The form is meant to gather information about the meeting purpose, contact details, location, emergency type, and schedule. It's a straightforward form that requires some basic information from the customer. Before proceeding, please ensure that you are not duplicating an existing booking or meeting request. If you have any prior meetings or bookings with us, please refer to those instead of filling this form again.
-</thinking>
-
 # Emergency Contact Desk Booking Form - Help Guide
 ## Purpose
 The Emergency Contact Desk Booking Form is a simple form that allows customers to book a meeting with a staff member at the organization's emergency contact desk. This form collects basic information about the meeting purpose, contact details, and schedule to ensure that the staff member is prepared for the meeting.

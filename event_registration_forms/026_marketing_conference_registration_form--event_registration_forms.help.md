@@ -1,9 +1,3 @@
-<thinking>
-  This form is for end users to register for the Marketing Conference. It will collect the necessary information for them to create a successful event registration.
-  To avoid duplicate registrations, the form should only be filled out by the user once, and the data submitted should not be tampered with.
-  Please make sure to review and understand each field clearly to ensure accurate and complete information.
-</thinking>
-
 # Marketing Conference Registration Form - Help Guide
 ## Purpose
 This form is used to collect information from users registering for the Marketing Conference. Please fill out the form accurately to ensure a successful registration process.

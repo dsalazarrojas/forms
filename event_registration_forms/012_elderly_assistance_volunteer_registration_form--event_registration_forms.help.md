@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from volunteers who want to assist elderly individuals. The form is meant to be completed by individuals who are interested in offering their services to help seniors, such as providing transportation, assistance with daily tasks, or other forms of support. The form will be used to determine the volunteer's availability and preferences, which will help the organization to match them with suitable opportunities.
-
-To ensure that only relevant and accurate information is collected, it's essential to complete the form carefully and thoroughly. Please review the form fields below to understand what information is required and what options are available.
-
-</thinking>
-
 # Elderly Assistance Volunteer Registration Form - Help Guide
 ## Purpose
 This form is designed for volunteers who want to offer their assistance to elderly individuals. By completing this form, you will be helping to make a positive impact on the lives of seniors in need.

@@ -1,8 +1,3 @@
-<thinking>
-This form is used for assessing a staff member's knowledge and experiences within a hospitality industry setting. The purpose of this form is to gather information on various aspects of their job, including their role, work hours, certifications, and experiences with workplace incidents, discrimination, and harassment.
-To ensure that the form is completed accurately, please review the questions carefully and respond to each one truthfully.
-</thinking>
-
 # Hospitality Knowledge Assessment - Help Guide
 ## Purpose
 The Hospitality Knowledge Assessment form is designed to gather information about a staff member's experiences and knowledge within a hospitality industry setting. This form is used to assess their understanding of their role, work environment, and any incidents or issues they have encountered.

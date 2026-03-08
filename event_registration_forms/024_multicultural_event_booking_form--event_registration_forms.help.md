@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for a multicultural event booking system. The purpose of this form is to gather essential details about an event, including the event name, date, time, location, attendee name, email, and event type. This information will help organizers efficiently manage and promote events to a diverse audience.
-The form consists of eight fields, each with a specific purpose. Please ensure that you provide accurate and relevant information in each field to help us serve you better.
-</thinking>
-
 # Multicultural Event Booking Form - Help Guide
 ## Purpose
 This form is designed to collect information for a multicultural event booking system, ensuring efficient management and promotion of events to a diverse audience.

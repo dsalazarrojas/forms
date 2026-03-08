@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from festival attendees. The main goal is to understand their opinions on the event, its programming, and overall satisfaction. The form will help us identify areas of improvement for future events and provide a channel for attendees to express their preferences and suggestions. Before filling out this form, please note that it is a one-time form for this event. Your responses will be kept confidential and only used to help us improve future events. Please be as honest as possible, as your feedback is invaluable to us. If you have any questions or concerns, feel free to contact us.
-</thinking>
-
 # Event Festival Attendee Preferences Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from attendees to help us understand their opinions on the event and its programming. Your responses will help us identify areas of improvement for future events.

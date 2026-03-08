@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a teacher's lessons, providing a structured way to observe, record, and evaluate the quality of instruction. This form aims to reduce subjectivity and ensure consistency in evaluations. It should be used to observe a teacher's performance during a lesson, taking note of factors such as school type, grade level, lesson subject, topic, and duration. The form is not intended to be a one-time use tool but rather a recurring process to track teacher performance and provide feedback.
-</thinking>
-
 # Lesson Observation Form - Help Guide
 ## Purpose
 The Lesson Observation Form is a tool used to collect and evaluate information about a teacher's lessons.

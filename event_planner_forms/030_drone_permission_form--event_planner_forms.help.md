@@ -1,14 +1,3 @@
-<thinking>
-This form is used to obtain permission from the event planner to operate a drone in a specific event location. The purpose of this form is to ensure that the event planner is aware of and approves the use of drones within their event. This form is typically used for events such as concerts, festivals, or sports events where drone operations are planned. The form must be filled out by the event organizer or planner to provide details about the event and drone operations.
-
-Before filling out this form, please ensure that you have all necessary information and approvals in place. This form is intended for internal use within our organization and should not be shared publicly without prior permission.
-
-When filling out this form, please provide accurate and truthful information to ensure that the event planner is aware of all drone operations within their event. This form will be reviewed and approved by the event planner before any drone operations can begin.
-
-Please note that this form does not replace any other regulatory or legal requirements that must be met for drone operations. It is the event planner's responsibility to ensure that all relevant laws and regulations are followed.
-
-</thinking>
-
 # drone_permission_form - Help Guide
 ## Purpose
 The drone permission form is used by event planners to obtain permission to operate drones within their event. This form helps ensure that the event planner is aware of and approves drone operations, ensuring a safe and successful event.

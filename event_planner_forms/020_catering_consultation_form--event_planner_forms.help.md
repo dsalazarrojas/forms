@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from potential clients about their event planning needs, including personal details, event specifics, and catering preferences. The goal is to provide catering services tailored to their requirements. To ensure the most accurate response, please fill out this form carefully and completely. If you have any questions or concerns, feel free to reach out.
-</thinking>
-
 # Catering Consultation Form - Help Guide
 ## Purpose
 This form is designed to help our team understand your event planning needs so we can provide the best catering services for you.

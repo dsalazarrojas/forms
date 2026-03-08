@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect feedback and evaluation data from users regarding their experience with a product or service. The purpose of this form is to gather specific and detailed feedback that can be used for improvement purposes. Please ensure that you are providing your feedback in a constructive and honest manner. This form is not intended to collect duplicate feedback, so please only submit your evaluation once.
-
-</thinking>
-
 # PCJ Evaluation Feedback Form - Help Guide
 ## Purpose
 The PCJ Evaluation Feedback Form is designed to collect feedback from users about their experience with a product or service.

@@ -1,9 +1,3 @@
-<thinking>
-
-The form is designed to collect information from players registering for the Ultimate Frisbee League. This form will help us to process player registrations efficiently and ensure we have accurate information about each player. Please ensure to fill it out carefully and completely to help us better serve you and your team.
-
-</thinking>
-
 # Ultimate Frisbee League Registration Form - Help Guide
 ## Purpose
 This form is for registering players for the Ultimate Frisbee League. Please complete this form with accurate and complete information about yourself or your team.

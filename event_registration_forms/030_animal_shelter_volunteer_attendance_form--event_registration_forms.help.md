@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data on animal shelter volunteer attendance and activities. The form is to be filled out by volunteers after completing their shift and attending an event or working at the shelter. It will help the shelter staff to track attendance, hours worked, and activities completed. 
-</thinking>
-
 # Animal Shelter Volunteer Attendance Form - Help Guide
 ## Purpose
 This form is used to record and track the attendance and activities of volunteers at the animal shelter.

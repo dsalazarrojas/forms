@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Night Orientation Feedback Form - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect registration information for the "Dental Extractions Workshop" event. The form is intended for participants to select their preferred session and provide additional details such as name, email, phone number, and other relevant information.
-
-To avoid duplication, only one instance of this form will be accepted per person, and it's recommended that each participant fills out the form independently.
-
-This form will be used to track the registration information of the participants, including their session preferences, contact details, and other relevant information.
-
-</thinking>
-
 # Dental Extractions Workshop Registration - Help Guide
 ## Purpose
 The purpose of this form is to collect registration information for the "Dental Extractions Workshop" event.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # International Women's Day Panel Speaker Application Form - Help Guide
 ## Purpose
 The International Women's Day Panel Speaker Application Form is designed to collect information from potential speakers who want to participate in the International Women's Day event. The form helps us understand your experience, skills, and availability to determine whether you'd be a great fit for the event. Please fill out the form carefully, ensuring you answer all required fields.

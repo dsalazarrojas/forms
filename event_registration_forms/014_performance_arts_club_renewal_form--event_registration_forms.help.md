@@ -1,7 +1,3 @@
-<thinking>
-**This form is intended for club members to renew their Performance Arts Club membership. It captures essential information for the club's records, including member details, payment details, and event information. Please only complete this form if you are a valid club member or have a legitimate reason to renew your membership. Do not submit fake or duplicate entries.**
-</thinking>
-
 # Performance Arts Club Renewal Form - Help Guide
 ## Purpose
 This form is designed to help Performance Arts Club members renew their membership. It is essential to provide accurate and complete information to ensure a smooth membership renewal process.

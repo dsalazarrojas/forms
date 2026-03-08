@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Delivery Personnel Evaluation - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-
-To create a comprehensive user-facing help guide for the "Food Festival Attendance Form", I'll follow the provided instructions and structure. Here's the reasoning behind creating this guide:
-
-The purpose of this form is to gather information for event attendees at a food festival. It's a crucial tool for event organizers to track who's attending, their preferences, and other relevant details. This form will help ensure that the festival runs smoothly and that attendees have an enjoyable experience.
-
-Before filling out this form, please make sure you've read the instructions carefully, and if you're unsure about any field, refer to the field-by-field explanation below.
-
-</thinking>
-
 # Food Festival Attendance Form - Help Guide
 ## Purpose
 The Food Festival Attendance Form is designed to collect information from event attendees. Please fill out this form to ensure a smooth and enjoyable experience at the festival.

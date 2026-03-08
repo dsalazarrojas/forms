@@ -1,7 +1,3 @@
-<thinking>
-To provide feedback on the scientific conference, we need to determine if the form is being used for its intended purpose and if the user has access to the required information. This form is designed to collect information from conference attendees about their experience at the conference, including rating sessions, speakers, and overall satisfaction. The user should be able to access their email and other contact information, such as phone number, name, affiliation, and job title, if they wish to be contacted for further questions or clarification. The form should not be used for attendees who have not attended the conference.
-</thinking>
-
 # Scientific Conference Feedback Questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from conference attendees about their experience at the scientific conference. This will help us improve future conferences and provide better services to attendees.

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about an individual's risk perception, specifically their evaluation context, selected risk factors, risk level, and risk level categories. The form is likely used in a business or organizational setting to gauge employees' or stakeholders' perceptions of risk and their associated risk levels. It may be used for risk management, assessment, and analysis.
-Before filling out this form, please ensure that you have not already provided feedback on this form, as it may be used to track and monitor individual responses over time.
-</thinking>
-
 # Risk Perception Benchmark Survey - Help Guide
 
 ## Purpose

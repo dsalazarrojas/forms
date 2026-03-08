@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from clients about their events, including service details, billing address, payment method, service price, event date, event time, client name, client email, client phone number, event note, and billing note. This form is used to process client payments for DJ Services.
-
-This form is a crucial tool for our organization to manage client events and ensure accurate billing and payment processing. It is essential to complete this form accurately and thoroughly to prevent errors and miscommunication.
-
-Before proceeding, ensure you have all necessary information about the client's event, including their service requirements, payment method, and contact details. This form is designed to be completed by the client, but it may also be used internally by our team to update or modify existing information.
-</thinking>
-
 # DJ Services Billing Form - Help Guide
 ## Purpose
 The DJ Services Billing Form is a critical tool for processing client payments and managing event details. It is designed to gather essential information from clients about their events and services.

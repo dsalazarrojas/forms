@@ -1,36 +1,3 @@
-<thinking>
-The purpose of this form is to assess the operational discipline of a team or organization, 
-which is likely a measure of their adherence to established procedures and guidelines. 
-This form is meant to be completed by an individual with direct knowledge of the 
-operational activities and processes of the team or organization being evaluated. 
-Please make sure to carefully review the operational discipline assessment form only when 
-you have direct involvement or knowledge of the operations. 
-
-This form does not aim to be a comprehensive assessment tool. It is intended to 
-serve as a starting point for a more in-depth analysis or discussion. 
-Please use your best judgment when filling out this form.
-
-Before completing this form, please ensure that you have reviewed and understand the 
-guidelines and procedures that are being evaluated. This will help ensure that 
-you can provide accurate and informed responses. 
-
-Please keep in mind that this form is for your personal assessment and is not a 
-publicly visible document. The goal is not to assign blame or penalties but to 
-identify areas of improvement and promote a more disciplined operational environment. 
-
-This form may be subject to change as the guidelines and procedures evolve over 
-time. Please review and update your assessment accordingly.
-
-This form will likely not be used in isolation but as part of a regular operational 
-discipline assessment cycle. Please keep in mind that your assessment will be 
-compared to previous assessments and that any discrepancies will be discussed and 
-resolved collaboratively.
-
-Please do not fill this form if you do not have direct involvement or knowledge of 
-the operational activities and processes of the team or organization being 
-assessed.
-</thinking>
-
 # operational_discipline_assessment_survey - Help Guide
 ## Purpose
 The operational discipline assessment survey is designed to evaluate the level of adherence to guidelines and procedures within an organization. It's a self-assessment tool used to identify areas of improvement and promote a more disciplined operational environment.

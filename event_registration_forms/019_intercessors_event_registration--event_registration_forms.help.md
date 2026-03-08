@@ -1,5 +1,3 @@
-<thinking>As I review the provided YAML, I can see that the form, "intercessors_event_registration", is likely used for managing event registrations. It seems to collect information from attendees such as their session selections, volunteer interests, personal details like name and email, and agreement terms. To provide a clear and helpful guide for end-users, I will focus on explaining each field in a concise and practical manner.</thinking>
-
 # intercessors_event_registration - Help Guide
 ## Purpose
 This form is used to collect information from attendees for events, including session selections, volunteer interests, and personal details. It aims to efficiently manage event registrations and capture relevant data.

@@ -1,7 +1,3 @@
-<thinking>
-The Math Event Feedback Survey is designed to gather feedback from users regarding their experience with a math-related event. It helps us understand their perceptions and satisfaction with our math-based services. To fill out this form, please provide your honest feedback about the math event you attended. This form should take approximately 20-25 minutes to complete. Please ensure that all required fields are filled out accurately and thoroughly. You can skip optional fields if you feel they are not relevant to your experience.
-</thinking>
-
 # Math Event Feedback Survey - Help Guide
 ## Purpose
 The Math Event Feedback Survey is designed to gather feedback from users regarding their experience with a math-related event. It helps us understand their perceptions and satisfaction with our math-based services.

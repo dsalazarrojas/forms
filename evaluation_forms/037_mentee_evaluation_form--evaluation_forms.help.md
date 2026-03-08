@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to evaluate the progress and satisfaction of a mentee, typically at the end of a mentorship program or specific project. Please ensure that you are filling out the form for the correct mentee and that you have all necessary information before completing it.
-</thinking>
-
 # Mentee Evaluation Form - Help Guide
 ## Purpose
 The Mentee Evaluation Form is used to assess the progress and satisfaction of a mentee during a mentorship program or project.

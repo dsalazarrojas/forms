@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for registering public events, allowing users to provide event details, coordinator and sponsor information, and other relevant details. To use this form, the event coordinator should have already been added to the system. If you are the event coordinator, please ensure that you have access to this form and are logged in to the system before proceeding.
-
-</thinking>
-
 # Public Event Coordinator Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information about public events. It includes fields for event details, coordinator and sponsor information, and other relevant details.

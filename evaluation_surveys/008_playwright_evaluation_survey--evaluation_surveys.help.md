@@ -1,7 +1,3 @@
-<thinking>
-This form is a Playwright evaluation survey, used to assess the quality of a script. It is used by evaluators to provide feedback and ratings on the script, which will be used to evaluate its quality. This form is designed to be completed by evaluators who have reviewed the script and have some level of experience and training in evaluating scripts. The form asks for information about the script name, evaluator name, date, time, evaluation script (the option to select), evaluator role, feedback, whether the form has been completed, comments, evaluator experience, evaluator training, evaluator rating, evaluator comments, and completion time. This form is used for internal evaluation purposes, and the information collected will be used to improve the overall quality of scripts. The form should not be duplicated or filled out by non-evaluators.
-</thinking>
-
 # playwright_evaluation_survey - Help Guide
 ## Purpose
 This form is used to assess the quality of a script.

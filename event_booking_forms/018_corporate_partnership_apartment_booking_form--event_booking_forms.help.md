@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from corporate partners who want to book an apartment for an event or partnership-related activity. The form is used to gather details such as partner contact information, event preferences, and accommodation requirements. It's essential to fill out this form accurately to ensure that your partnership event or activity runs smoothly.
-
-Please note that this form is not intended for general public use. It's a corporate partnership form, so only authorized corporate partners should be filling it out.
-
-Before starting, please make sure you're filling this form as an authorized corporate partner.
-
-Please fill out this form completely and accurately to ensure efficient processing of your partnership event or activity.
-
-</thinking>
-
 # Corporate Partnership Apartment Booking Form - Help Guide
 ## Purpose
 This form is designed to collect information from corporate partners for partnership events or activities. It's essential to provide accurate and complete information to ensure a smooth processing of your partnership event or activity.

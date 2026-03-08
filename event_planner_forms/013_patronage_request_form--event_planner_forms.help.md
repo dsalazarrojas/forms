@@ -1,19 +1,3 @@
-<thinking>
-This form is used to collect information from the submitters and sponsors for patronage requests. The form requires the following information:
-- User Info (Page 1): This is the main page where the submitter and sponsor provide basic information about themselves and the event. The submitters are required to provide their name, email, and phone number.
-- Event Info (Page 2): This page requires the submitters to enter a description of the event, date, and other relevant information.
-- Sponsorship Info (Page 3): This page is optional and allows the submitters to enter additional information about the sponsor, such as the sponsor's name and email.
-- Submission (Page 4): This page allows submitters to select a date for their submission.
-- Submitter Info (Page 5): This page requires the submitters to enter additional information about themselves, such as their name, email, phone number, and agreement to terms and conditions.
-- Sponsor Info (Page 6): This page is optional and allows the submitters to enter additional information about the sponsor, such as their name and email.
-- Sponsorship Info (Page 7): This page is optional and allows the submitters to enter additional information about the sponsor, such as their name and email.
-- Submission (Page 8): This page allows submitters to select a date for their submission.
-- Submitter Agreement (Page 9): This page requires the submitters to agree to the terms and conditions of the submission.
-- Submitter Signature (Page 10): This page requires the submitters to sign the agreement.
-- Sponsor Agreement (Page 11): This page requires the sponsors to agree to the terms and conditions.
-- Sponsor Signature (Page 12): This page requires the sponsors to sign the agreement.
-</thinking>
-
 # patronage_request_form - Help Guide
 ## Purpose
 The patronage_request_form is used to collect information from submitters and sponsors for patronage requests.

@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect feedback about a "Best Surprise Group" event. The form purpose is to gather information about the experience of participants in the event, including their personal contact information, their evaluation of the event, and any additional details or comments they may have.
-
-To ensure that the feedback collected is accurate and helpful, this form is being used to prevent duplication of responses from the same participant.
-
-</thinking>
-
 # Best Surprise Group Survey - Help Guide
 ## Purpose
 The Best Surprise Group Survey is a form designed to collect feedback from participants about their experience in a "Best Surprise Group" event. This form will help us understand what worked well and what could be improved for future events.

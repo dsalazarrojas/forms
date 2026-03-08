@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to book a time slot for a wedding rehearsal, specifying details such as the couple's name, email, event date, start time, duration, and other relevant information. This form likely helps the organizers or coordinators to manage and keep track of wedding rehearsals, ensuring that all necessary details are captured accurately.
-
-The form is designed to gather data about the couple and their guests, including attendance and any messages or notes. It might be used by wedding planners, event coordinators, or other stakeholders involved in the wedding preparations.
-
-When filling out this form, please make sure to review the instructions carefully and ensure that all required fields are completed. If you have any questions or concerns, you can reach out to the form administrators for assistance.
-
-This form is not designed to be a general-purpose event booking form but rather a specific one tailored for weddings. Some fields might have specific requirements or implications due to the nature of the event.
-
-Please note that some fields are mandatory and others are optional. Required fields are marked as such in the form. If you're unsure about any field, please refer to the help section below for clarification.
-
-</thinking>
-
 # wedding_rehearsal_slot_booking_form - Help Guide
 ## Purpose
 The wedding_rehearsal_slot_booking_form is used to book a time slot for a wedding rehearsal. It collects information about the couple and their guests, ensuring all necessary details are captured accurately.

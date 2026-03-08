@@ -1,7 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "wellbeing_support_evaluation_survey" form, which is designed to evaluate the quality and impact of wellbeing support provided to students. This guide will cover the purpose of the form, how to complete it, and a field-by-field explanation of each section. The form is intended to gather feedback from students on their experience with wellbeing support services, aiming to improve the quality of these services. 
-</thinking>
-
 # wellbeing_support_evaluation_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from students on their experience with wellbeing support services. The purpose of this form is to evaluate the quality and impact of these services, helping us understand areas of improvement and ensure that students receive the best possible support.

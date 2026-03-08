@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by DJs, music enthusiasts, or music event organizers to submit song requests for consideration in a live music event or playlist. The form is not mandatory, and users can choose to submit songs for any time of day. However, users are encouraged to be realistic with their preferred play times, taking into account the event schedule and other submissions.
-</thinking>
-
 # Song Queue Submission Form - Help Guide
 
 ## Purpose

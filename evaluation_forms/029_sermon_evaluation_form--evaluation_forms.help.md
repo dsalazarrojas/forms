@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect feedback and evaluations from the audience after a sermon. It is designed to capture the overall impression, impact, and opinions of the sermon. This form is meant for internal evaluation and improvement of the sermon content and delivery. To ensure accurate and helpful responses, please answer each question truthfully. If you have any comments or questions, feel free to share them in the comments section. Please note that all fields are optional, but providing your email and phone number will help us to follow up with you if needed... </thinking>
-
 # Sermon Evaluation Form - Help Guide
 ## Purpose
 The Sermon Evaluation Form is designed to gather feedback and evaluations from the audience after a sermon. This form helps us to assess the content, delivery, and overall impact of the sermon.

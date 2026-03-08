@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # outdoor_recreation_expo_registration_form - Help Guide
 ## Purpose
 The outdoor recreation expo registration form is designed to collect information from participants about their preferred days, interests, and requirements for the event. This form helps us to better understand your needs and tailor the event to provide the best experience for you.

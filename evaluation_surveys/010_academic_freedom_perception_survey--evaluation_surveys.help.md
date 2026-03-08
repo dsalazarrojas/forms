@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gauge the perception of academic freedom among individuals affiliated with an institution. This form will help the respondent provide their honest opinions on various aspects of academic freedom, including their freedom to teach, research, publish, and express their views. The responses will be used to understand the institutional culture and environment that affects academic freedom. 
-
-To avoid duplication, please note that this form is intended for those who have a direct association with the institution in question.
-
-Please fill out the form carefully, and provide genuine answers to each question. Your input is valuable and will contribute to a better understanding of the topic.
-
-</thinking>
-
 # Academic Freedom Perception Survey - Help Guide
 ## Purpose
 This survey is designed to understand your perception of academic freedom within your institution.

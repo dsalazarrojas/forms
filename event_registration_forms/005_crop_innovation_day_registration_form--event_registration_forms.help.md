@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for registration purposes only, for attendees to provide their general information, session interests, special requirements, and contact details in order to participate in the Crop Innovation Day event. The form is designed to be completed by attendees to help them register for the event and provide necessary information for event organizers. This form is not intended for any other purpose.
-</thinking>
-
 # Crop Innovation Day Registration Form - Help Guide
 ## Purpose
 This guide is designed to help you complete the Crop Innovation Day Registration Form. Please read through the guide carefully to ensure you provide all the necessary information for a smooth registration process.

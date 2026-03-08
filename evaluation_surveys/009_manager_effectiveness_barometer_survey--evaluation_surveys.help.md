@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will review the form and its purpose to provide a clear and concise user-facing help guide. The form is the "Manager Effectiveness Barometer Survey" which seems to be a survey to evaluate the performance of a manager within a team or organization. The form is designed to collect feedback from team members on various aspects of the manager's performance, such as their leadership, communication, delegation, and problem-solving skills. The goal of this guide is to help users understand the purpose and process of completing this form.</thinking>
-
 # Manager Effectiveness Barometer Survey - Help Guide
 ## Purpose
 The Manager Effectiveness Barometer Survey is a form designed to collect feedback from team members on their experiences and perceptions of their manager's performance. This survey aims to evaluate the manager's leadership skills, communication style, delegation, problem-solving abilities, and other aspects that contribute to their effectiveness as a manager.

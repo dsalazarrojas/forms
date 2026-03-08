@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to gather information about a musician and their music-related activities. This form will likely be used by event organizers or administrators to collect data on musicians who are participating or recommended for events. It's essential to ensure this form is filled out accurately and honestly, as the data will be used to make informed decisions about event participation. Please note that this form is not affiliated with any specific form platforms, and it's an AI-generated original adaptation of public survey topic metadata.
-
-The internal logic of this form seems to be focused on gathering basic information about the musician, event details, and submission terms. The required fields should be carefully filled out to ensure the data is valid and complete. If you're unsure about any field or its relevance, please review the following guide carefully to ensure you complete the form accurately and effectively.
-</thinking>
-
 # Musician Recommendation Form - Help Guide
 ## Purpose
 The Musician Recommendation Form is designed to collect information about musicians and their music-related activities. Event organizers and administrators will use this form to gather data on musicians participating in or recommended for events.

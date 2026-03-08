@@ -1,10 +1,3 @@
-<thinking>
-This form is for individuals seeking employment as an event planner. The purpose of this form is to gather information about the applicant's background, experience, and qualifications. The form will ask for personal contact information, educational background, work history, and other relevant details.
-
-Please ensure that you are completing this form for the purpose it was intended, and not for any other purpose such as submitting fake or duplicate applications.
-
-</thinking>
-
 # Event Planner Employment Application - Help Guide
 ## Purpose
 This form is for individuals seeking employment as an event planner. It will help the hiring manager to get a better understanding of your background, experience, and qualifications.

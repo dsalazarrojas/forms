@@ -1,12 +1,3 @@
-<thinking>
-This help guide will help end users understand the Disaster Relief Volunteer Registration Form and its purpose, how to complete it, and what each field means.
-
-The form is designed to collect information from potential volunteers for disaster relief efforts. The form will be used to gather essential details such as contact information, availability, and volunteer preferences. By filling out this form, volunteers can help us better understand their needs and match them with suitable opportunities.
-
-Before starting, please ensure you have not filled out this form before. If you have already registered, please do not register again. This will help us avoid duplicate records and ensure accurate data.
-
-</thinking>
-
 # Disaster Relief Volunteer Registration Form - Help Guide
 
 ## Purpose

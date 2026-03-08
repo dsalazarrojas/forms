@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from participants and mentors for mentorship sessions. It gathers details such as participant and mentor contact information, session preferences, and session specifics like date, time, duration, and topic. This form aims to facilitate the registration process for mentorship sessions, ensuring all necessary details are captured efficiently.
-To ensure accuracy and avoid duplicates, please note that participants and mentors with the same name and email will not be registered multiple times.
-</thinking>
-
 # Mentorship Session Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information for mentorship sessions. Please provide accurate and complete details to help us prepare for the session.

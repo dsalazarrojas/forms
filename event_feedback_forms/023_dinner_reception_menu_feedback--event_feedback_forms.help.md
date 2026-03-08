@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect feedback from attendees on the menu and service provided at the dinner reception. The purpose of the form is to help event organizers understand what they are doing well and what they can improve on to provide better dining experiences in the future. 
-This form should only be filled out by attendees who have experienced the dinner reception.
-</thinking>
-
 # Dinner Reception Menu Feedback - Help Guide
 ## Purpose
 This form is used to gather feedback from attendees on the menu and service provided at the dinner reception. Your input will help us understand what we are doing well and what we can improve on to provide better dining experiences in the future.

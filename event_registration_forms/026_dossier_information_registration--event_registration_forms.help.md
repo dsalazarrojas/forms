@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a dossier registration process. It is used to register a client (individual or organization) and their participant(s) with relevant details such as form control name, description, client name, address, contact information, and participant details including name, address, phone number, and email. The form is not intended to be associated with any specific platform, but rather a generic solution generated using AI. It is released under the CC BY 4.0 license, allowing free modification and adaptation. The form's purpose is to ensure accurate and complete registration of client and participant information in a dossier system.
-</thinking>
-
 # Dossier Information Registration - Help Guide
 ## Purpose
 The Dossier Information Registration form is designed to collect essential details about a client and their participant(s) for a dossier registration process. The form helps gather information such as form control name, description, client contact information, and participant details like name, address, phone number, and email. This form is intended to be used as a starting point for a dossier registration process.

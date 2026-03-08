@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from participants in a Christmas story contest. The form will guide you through each section, helping you provide the necessary details for a complete entry.
-
-</thinking>
-
 # Christmas Story Contest - Help Guide
 ## Purpose
 

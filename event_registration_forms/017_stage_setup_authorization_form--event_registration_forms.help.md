@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning block: This guide is intended to help users understand the purpose and functionality of the Stage Setup Authorization Form. The form appears to be designed for planning and authorization of event set-ups, likely for meetings, conferences, or other events. The form allows users to select event details, required staff, dates, times, and assigned tools, among other options. It seems that users can select multiple events for the "Event Details" field, suggesting that this field is for event management or categorization. The form's "Stage Setup Status" field indicates that the status of the setup can be tracked, implying that this form is used for event setup planning and tracking. The form also includes fields for event planner notes, comments, and contact information, suggesting that it's used for event coordination and communication. To avoid duplication, users should ensure that all required fields are filled out and that the form is submitted correctly. If users encounter issues, they can refer to this guide for guidance.
-</thinking>
-
 # Stage Setup Authorization Form - Help Guide
 ## Purpose
 The Stage Setup Authorization Form is used for planning and authorization of event set-ups. It helps users manage event details, assign staff, and track setup status.

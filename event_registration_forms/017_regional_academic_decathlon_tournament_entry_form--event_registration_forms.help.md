@@ -1,8 +1,3 @@
-<thinking>
-This form is used for registering teams for the Regional Academic Decathlon Tournament. It's essential to ensure that team leaders correctly fill out the form to avoid any delays or errors in the registration process. Please make sure to fill out all required fields carefully and accurately. Note that some fields have specific formatting requirements, so pay attention to the field types (e.g., email, phone number, date). Before submitting the form, review your responses for completeness and correctness.
-
-</thinking>
-
 # Regional Academic Decathlon Tournament Entry Form - Help Guide
 ## Purpose
 The Regional Academic Decathlon Tournament Entry Form is used to register teams for the tournament. It collects information about the team, including school and team details, event dates and locations, and other essential details.

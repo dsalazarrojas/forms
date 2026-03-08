@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect basic personal information from users who want to participate in the "Win A Survival Kit Contest". This form will help us to verify the identity of our contestants and contact them in case of any updates or notifications related to the contest. To ensure that only eligible users can participate, we will check for non-duplication of entries and prevent users with already existing entries from submitting new ones.
-</thinking>
-
 # Win A Survival Kit Contest Entry Form - Help Guide
 ## Purpose
 The Win A Survival Kit Contest Entry Form is designed to collect personal information from participants in the "Win A Survival Kit Contest". This information will be used to verify the identity of contestants and facilitate communication with them throughout the contest.

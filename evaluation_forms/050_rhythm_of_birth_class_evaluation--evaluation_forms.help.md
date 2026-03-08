@@ -1,21 +1,3 @@
-<thinking>
-This form is for evaluating the Rhythm of Birth Class, which appears to be a program or class designed for learning and development. The purpose of this form is to gather information about the class's evaluation, including feedback on class content, instructor performance, and overall experience.
-
-When filling out this form, make sure to provide thoughtful and detailed responses to each question, as they will help instructors and administrators understand the effectiveness of the class and identify areas for improvement.
-
-Before you start filling out the form, please note that some fields are required, indicated by the asterisk (*) symbol. These fields are essential for a comprehensive evaluation.
-
-This form has multiple pages, but you can complete them in any order. Make sure to review each page carefully and answer all questions relevant to your experience in the class.
-
-Here is a detailed explanation of each field:
-
-## Purpose
-## How To Complete This Form
-## Field-by-Field Explanation
-## Tips
-
-</thinking>
-
 # Rhythm Of Birth Class Evaluation - Help Guide
 ## Purpose
 The Rhythm of Birth Class Evaluation form is designed to gather feedback from participants about their experience in the class. This form helps instructors and administrators understand what worked well and what didn't, allowing them to improve the class content and structure.

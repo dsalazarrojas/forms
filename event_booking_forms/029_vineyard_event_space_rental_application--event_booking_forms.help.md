@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information for events to be held at the vineyard. It is intended to be a straightforward application process for potential clients. Before filling out this form, please check if you have already submitted an application for a similar event. This form will help us understand your event needs and preferences. It is recommended to fill it out in one sitting to avoid missing any important information.
-</thinking>
-
 # Vineyard Event Space Rental Application - Help Guide
 ## Purpose
 The Vineyard Event Space Rental Application form is designed to collect essential information about events to be held at the vineyard. This form helps us understand your event needs, preferences, and requirements, ensuring a smooth and efficient planning process.

@@ -1,10 +1,3 @@
-<thinking>
-To be honest, this is a very long form! Before we start, I want to make sure I understand the purpose of this form. From the provided YAML, it seems that the form is intended for an event organizer to book a stage barrier for a festival or event. It requires details such as event organizer, barrier details, quantity, location, delivery date and time, type, size, confirmation, event date, event time, event type, event size, event setup, and other relevant details. Before we proceed, I'd like to confirm that this form is indeed for festival stage barrier bookings and not for something else.
-
-Please let me know if I'm correct or not.
-
-</thinking>
-
 # Festival Stage Barrier Booking Form - Help Guide
 ## Purpose
 The Festival Stage Barrier Booking Form is a digital form used by event organizers to book a stage barrier for their event. This form gathers essential details to process and fulfill the barrier booking request.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be filled out by individuals who are interested in attending or leading meetings in a virtual prayer room. The purpose of the form is to collect demographic information and meeting preferences so that organizers can better understand their attendees' needs and provide an optimal experience for all. It is essential to fill out this form accurately and thoroughly, as the information gathered will be used to create a comfortable and meaningful virtual space for prayer and discussion.
-</thinking>
-
 # Virtual Prayer Room Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals interested in attending or leading meetings in a virtual prayer room.

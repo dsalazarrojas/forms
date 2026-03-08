@@ -1,12 +1,3 @@
-<thinking> 
-This form is designed to gather information from potential coaches or team participants about their experience, qualifications, and availability for a team event or activity. The form is intended to help event organizers assess the qualifications and suitability of potential participants for the team, and to gather necessary information for team formation and logistics.
-
-This form does not require any specific qualifications or experience for submission, making it accessible to a wide range of individuals. However, the provided fields will help ensure that participants have relevant experience or qualifications that align with the team's requirements.
-
-Please note that while there may be some overlap between fields, each field's purpose is distinct and should be filled out with the most accurate and relevant information. 
-
-</thinking>
-
 # relay_team_expression_of_interest - Help Guide
 ## Purpose
 This form is used to gather information from potential coaches or team participants about their experience, qualifications, and availability for a team event or activity.

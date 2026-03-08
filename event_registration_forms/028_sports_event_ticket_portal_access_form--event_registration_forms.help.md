@@ -1,12 +1,3 @@
-<thinking>
-The form "sports-event-tickets-form" is designed to register users for a sports event. This form is intended to be completed by event attendees who wish to purchase tickets. The form is divided into several pages, each with its own set of fields. 
-
-The form is not designed for internal use, so it's unlikely that internal users will need to fill it out. 
-
-The form fields are self-explanatory and should be understandable to anyone familiar with sports events and ticket sales.
-
-</thinking>
-
 # sports-event-tickets-form - Help Guide
 ## Purpose
 The "sports-event-tickets-form" is a form used to register for a sports event and purchase tickets.

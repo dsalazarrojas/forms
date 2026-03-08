@@ -1,13 +1,3 @@
-<thinking>
-The quilt_intake_form is a comprehensive form designed to collect essential information from customers for their quilt-making needs. The form is intended for individuals planning to commission a custom-made quilt and is structured to guide them through the design, materials, and timeline preferences. It's essential to fill out this form accurately to ensure that the quilter understands the client's expectations and can deliver the best possible results.
-
-Before proceeding, please ensure that this form does not duplicate any previously submitted forms for the same project. If you've already filled out this form, please do not submit it again.
-
-This form is divided into sections, each catering to a specific aspect of the custom quilt-making process. It's crucial to fill out this form carefully, as it will help the quilter create a personalized and bespoke piece that meets the client's requirements.
-
-Please follow the instructions below to complete the form accurately.
-</thinking>
-
 # quilt_intake_form - Help Guide
 ## Purpose
 The quilt_intake_form is a comprehensive form designed to collect essential information from customers for their quilt-making needs.

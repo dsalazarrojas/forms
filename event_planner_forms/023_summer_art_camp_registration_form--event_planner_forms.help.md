@@ -1,18 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "summer_art_camp_registration_form" form, we must first understand the form's purpose and ensure that it's being filled out in the correct context.
-
-This form is likely for summer art camp registration purposes, allowing users to provide personal and creative information required to attend the camp. The form fields likely pertain to session selection, personal details, art preferences, and additional metadata for organizational purposes.
-
-Before diving into the form details, verify that the form's requirements and options align with the user's needs and camp context. Double-check that each field is correctly completed to avoid errors and missing essential information.
-
-For instance, a required phone_number field suggests that the user's contact information is needed for camp communication. Ensure the user has access to their phone and can fill out this field accurately. Similarly, the required email field likely serves as a primary contact method for the user; confirm that the user is using an active and correct email address.
-
-The form fields may require specific formatting, such as the date and time fields. Verify that the user understands the expected format for these fields, as incorrect input may cause validation errors.
-
-This guide is intended to provide clear, concise explanations for each form field, helping users complete the form accurately and confidently. Please review each field's label, type, and requirements to ensure a smooth, error-free form-filling experience.
-
-</thinking>
-
 # summer_art_camp_registration_form - Help Guide
 ## Purpose
 The "summer_art_camp_registration_form" is designed for users to register for a summer art camp. It collects personal and artistic information necessary for the camp experience.

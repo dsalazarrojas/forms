@@ -1,20 +1,3 @@
-<thinking>
-To ensure this form is correctly created, let's review the provided YAML fields to ensure all requirements are met.
-
-The form is for team registration, specifically for a bowling event. It appears to be a comprehensive form covering various aspects of the team's information and requirements. The fields are mainly text or select_one/select_multiple fields, which indicates a simple and user-friendly interface.
-
-Upon reviewing, I see that all fields are properly labeled, hinted, and have their type and options correctly defined. The required fields are mostly focused on team information, event details, and payment methods, which makes sense for an event registration form.
-
-One field that stands out is "special_requests", which is a free-text field for any special requirements. This might be a potential area for improvement, as it might be better served as a select_one field with specific options to ensure users understand what they can request.
-
-Another field that seems a bit vague is "average_score", which is not clearly defined. Is it for an approximate team score, or is it meant to be a specific average score? Clarifying the label or providing more context for this field might help users understand its purpose better.
-
-Lastly, the form seems to be missing a section for team member information, such as team member ages or contact information. While the "team_member_names" field is included, it might be more practical to have separate fields for each team member's name, age, and contact information for easier data management and organization.
-
-Overall, the form is well-structured, and the fields are mostly clear and concise. With a few adjustments, it could be even more effective and user-friendly for event planners and participants.
-
-</thinking>
-
 # Bowling Event Registration Form - Help Guide
 ## Purpose
 The Bowling Event Registration Form is a comprehensive form designed for teams to register for a bowling event. It collects essential information for event planners to manage teams, events, and payment details.

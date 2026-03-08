@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to be used for team member follow-up evaluations. The purpose of this form is to provide a structured and standardized way to gather feedback and performance data on team members. This form should only be used for team members who have already undergone a regular review, and the information entered will help to identify areas of improvement and create action plans for future growth and development.
-
-Before filling out this form, please ensure that you have completed a regular review for the team member and have a clear understanding of their performance and areas for improvement.
-
-</thinking>
-
 # Team Member Follow Up Evaluation - Help Guide
 ## Purpose
 This form is designed to gather feedback and performance data on team members after a regular review.

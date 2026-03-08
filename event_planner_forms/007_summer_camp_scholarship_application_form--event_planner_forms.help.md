@@ -1,7 +1,3 @@
-<thinking>
-This is a critical application form that requires a clear and concise help guide to ensure end users understand its purpose and usage.
-</thinking>
-
 # Summer Camp Scholarship Application Form - Help Guide
 ## Purpose
 

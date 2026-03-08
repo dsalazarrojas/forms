@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # innovation_in_preservation_forum_registration_form - Help Guide
 ## Purpose
 This form is for registering an event at the Innovation in Preservation Forum. The purpose of this form is to collect information from users to facilitate the registration process. Please ensure you have all necessary information before proceeding.

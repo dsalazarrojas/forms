@@ -1,5 +1,3 @@
-<thinking>Before creating this guide, let's break down the form's purpose and fields to ensure it's clear and concise. The form is for vendor registration for a charity fundraiser event, and it requires information such as business name, owner's name and contact details, booth size, setup requirements, and products or services offered. The form also includes fields for event information (event name, date, and location), documentation, and agreements, including insurance and acceptance of terms.</thinking>
-
 # Charity Fundraiser Vendor Registration - Help Guide
 ## Purpose
 This form is designed to gather information from vendors for a charity fundraiser event. Please provide accurate and complete information to ensure a smooth registration process.

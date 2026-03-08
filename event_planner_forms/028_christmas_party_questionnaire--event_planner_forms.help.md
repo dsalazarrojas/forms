@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I understand that the Christmas Party Questionnaire is intended to gather information from attendees to understand their preferences and needs for the party. This guide will help users complete the form accurately and ensure their responses are submitted correctly.</thinking>
-
 # Christmas Party Questionnaire - Help Guide
 ## Purpose
 The Christmas Party Questionnaire is designed to collect information about your preferences and needs for the Christmas party. This includes attendee information, party atmosphere, entertainment options, dietary restrictions, and logistics. Please answer the questions honestly to help us create a fun and enjoyable experience for all attendees.

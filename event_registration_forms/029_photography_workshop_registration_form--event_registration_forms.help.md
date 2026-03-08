@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used by participants to register for a photography workshop, providing their details, payment information, and other relevant data. The goal is to ensure that participants can easily and accurately submit their registration, and that the organization can manage workshop attendance and feedback effectively. To avoid duplicating or misrepresenting this information, please review the form carefully before submitting it and ensure you have all necessary details filled in correctly.
-
-</thinking>
-
 # photography_workshop_registration_form - Help Guide
 ## Purpose
 This form is designed for participants to register for a photography workshop. It gathers essential details such as name, email, phone number, and payment method to manage workshop attendance and feedback.

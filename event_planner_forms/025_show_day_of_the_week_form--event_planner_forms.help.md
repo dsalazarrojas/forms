@@ -1,10 +1,3 @@
-<thinking>
-**Purpose**
-The purpose of this form is to gather feedback about whether the event planner should display the day of the week for each event date.
-**Check for relevance and non-duplication**
-This form is used to collect data on whether the day of the week should be visible for each event date. There are multiple fields asking the same question, and it's essential to ensure that only the correct value is collected. The fields with the same label, "Day of the Week", are actually asking the same question but might be collecting different kinds of data (e.g., whether to show it or whether it's available). This guide will help ensure that the correct data is collected and that the correct field is filled in for each question.
-</thinking>
-
 # Show Day Of The Week Form - Help Guide
 ## Purpose
 The Show Day Of The Week Form is used to gather feedback about whether the event planner should display the day of the week for each event date.

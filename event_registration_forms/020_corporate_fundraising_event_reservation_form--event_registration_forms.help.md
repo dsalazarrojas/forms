@@ -1,9 +1,3 @@
-<thinking>...Internal reasoning block to check for relevance and non-duplication...
-
-This form is used for event registration for corporate fundraising events. The form should only be filled out for events where a corporate partner is organizing the fundraising activity. The form will ask for event details, attendee information, contact information, meal preferences, special requests, company details, payment information, and event questions.
-
-</thinking>
-
 # Corporate Fundraising Event Reservation Form - Help Guide
 ## Purpose
 This form is used to register for corporate fundraising events organized by a partner company. Fill out this form to reserve a spot and provide necessary information for event planning.

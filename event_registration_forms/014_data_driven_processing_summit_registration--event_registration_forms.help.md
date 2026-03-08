@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for the Data Driven Processing Summit registration process. The form is designed to collect attendee information, event details, and location specifics. The form should only be completed by individuals who are interested in attending the summit.
-
-The form should not be completed by robots or automated systems, as the information collected is for human attendees only. If you are an organization or a company, please do not complete this form multiple times with different information. 
-
-Please ensure that all fields are filled out accurately and completely, and that the information provided is true and up-to-date. 
-</thinking>
-
 # Data Driven Processing Summit Registration - Help Guide
 ## Purpose
 The Data Driven Processing Summit registration form is designed to collect attendee information, event details, and location specifics for the Data Driven Processing Summit.

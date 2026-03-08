@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a business card for a digital platform. It is designed to gather details about a person's company, job title, contact information, and other relevant details in a concise and structured manner. This form will likely be used for networking, professional purposes, or business outreach.
-
-The form is not affiliated with any specific form platforms, but it was created using public metadata from a survey topic, making it an original adaptation. As a result, it does not contain any proprietary content from other form platforms.
-
-To ensure this form meets your needs, please review the following sections to understand its purpose, how to complete it, and each field's explanation.
-
-</thinking>
-
 # Digital Business Card Registration - Help Guide
 ## Purpose
 The Digital Business Card Registration form is designed to collect essential information about a business card, making it a valuable tool for networking, professional outreach, and contact management.

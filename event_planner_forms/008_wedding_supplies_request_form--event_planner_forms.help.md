@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help event planners request supplies for a wedding event. The form is likely used by wedding coordinators or venue managers to gather information from couples planning a wedding. The purpose of this form is to gather essential details about the wedding, including the number of guests, wedding date and time, contact information, and special requests. 
-The form is not intended for couples to request supplies for other types of events. 
-</thinking>
-
 # wedding_supplies_request_form - Help Guide
 ## Purpose
 This form is for event planners to request supplies for a wedding event. It's used to gather essential details about the wedding, including the number of guests, wedding date and time, and contact information.

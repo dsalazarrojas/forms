@@ -1,5 +1,3 @@
-<thinking>This form is used for participant registration for an environmental workshop. This form is intended for participants to provide necessary information about themselves and their emergency contacts. This is not a duplicate form and should only be filled out once. This form will be used to gather information for the workshop administration and is required for participant participation.</thinking>
-
 # Environmental Workshop Waiver Form - Help Guide
 ## Purpose
 This form is used for participant registration for an environmental workshop. It is intended to gather necessary information about the participant and their emergency contacts.

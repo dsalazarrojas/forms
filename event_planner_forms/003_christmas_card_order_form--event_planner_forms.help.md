@@ -1,9 +1,3 @@
-<thinking>
-
-To avoid duplication, this form is designed for customers to order Christmas cards for their loved ones. This guide will walk you through the necessary steps to complete the form correctly. 
-
-</thinking>
-
 # Christmas Card Order Form - Help Guide
 ## Purpose
 This form is designed for customers to order Christmas cards for their loved ones. It collects information for customizing cards with name, message, and other personal details, as well as shipping and payment options.

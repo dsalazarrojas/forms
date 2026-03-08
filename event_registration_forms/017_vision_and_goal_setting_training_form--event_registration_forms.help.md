@@ -1,5 +1,3 @@
-<thinking>...this form seems to be designed for gathering information about participants in a training event, specifically for setting vision and goals. The fields appear to be focused on collecting participant and contact information, email and phone numbers, address, and other details related to the event. The select_one field for goals objectives seems to be for tracking whether the participant has set their goals. Participant and facilitator comments are also included for any further notes...</thinking>
-
 # Vision And Goal Setting Training Form - Help Guide
 ## Purpose
 

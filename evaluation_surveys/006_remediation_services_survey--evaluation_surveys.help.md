@@ -1,12 +1,3 @@
-<thinking> 
-This help guide will cover the purpose and usage of the Remediation Services Survey form. The form is designed to gather feedback from customers about the services provided by the organization, aiming to improve service quality and overall satisfaction. This form will help the organization understand the effectiveness of its services, identify areas for improvement, and gather suggestions for future enhancements.
-
-The survey contains multiple-choice and text fields that will help the user provide their feedback on service type, satisfaction, quality, value, and overall satisfaction. The user can also share their thoughts on service improvement and provide their contact details for follow-up purposes. 
-
-Please note that this form is intended for internal use and feedback provided by customers will be used to improve the services offered.
-
-</thinking>
-
 # Remediation Services Survey - Help Guide
 ## Purpose
 The Remediation Services Survey form is designed to gather feedback from customers on the services provided by the organization, aiming to enhance service quality and overall satisfaction.

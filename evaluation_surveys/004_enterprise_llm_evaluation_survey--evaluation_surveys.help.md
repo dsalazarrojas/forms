@@ -1,5 +1,3 @@
-<thinking>Enterprise LLM Evaluation Survey is intended to evaluate the adoption and implementation of Large Language Models (LLMs) in a particular enterprise or organization. This form is meant to collect information about the LLM's adoption and satisfaction, including the methods used for its implementation and its overall satisfaction. Please note that some questions are meant to be multiple-choice answers, and it is essential to select the correct options based on the information provided. To complete this form, please make sure to fill out all relevant fields and choose the correct options for each question.</thinking>
-
 # Enterprise LLM Evaluation Survey - Help Guide
 ## Purpose
 

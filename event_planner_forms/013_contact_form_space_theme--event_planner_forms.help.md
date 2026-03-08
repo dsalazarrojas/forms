@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Contact Form Space Theme - Help Guide
 
 ## Purpose

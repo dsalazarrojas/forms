@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form "Interest Registration For Product Launch" is designed to capture the interest and contact information of individuals who wish to register for a product launch event. This form is intended for internal use and will help the event organizers to gauge interest in the event. 
 
 The following is a guide to help users complete the form effectively.

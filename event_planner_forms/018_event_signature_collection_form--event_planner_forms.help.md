@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for collecting information related to an event, specifically the event planning status, event details, and attendee information. The form should only be filled out for events that do not already exist in the system (i.e., the "Yes" option in the "Event Planning Form" field is used to indicate that the event is being planned). This form is not intended to be filled out for events that have already been planned or are ongoing. It's also worth noting that the form is intended to be filled out by event planners, not attendees.
-</thinking>
-
 # Event Signature Collection Form - Help Guide
 ## Purpose
 The Event Signature Collection Form is used to collect information about events that do not already exist in the system. This form is used by event planners to provide details about events that are currently being planned or are in need of planning.

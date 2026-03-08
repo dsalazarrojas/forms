@@ -1,7 +1,3 @@
-<thinking>
-This form design is based on a simple webinar quiz template. To confirm, the form is intended for users to submit their answers and feedback about a webinar they attended. The form has four fields: Quiz Questions, Participant Information, Participant Phone, and Feedback. The purpose of this form is to collect data from webinar participants, likely for event organizers or hosts to review and analyze. Before filling out this form, please ensure that you have attended the webinar and have the necessary information ready. Also, note that all fields are optional, so feel free to fill in as much or as little information as you need. It's assumed that the form will be submitted by a single user, and the participant's information will be related to their own experience.
-</thinking>
-
 # Webinar Quiz Template - Help Guide
 
 ## Purpose

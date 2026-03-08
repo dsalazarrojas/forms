@@ -1,9 +1,3 @@
-<thinking>
-This form is for collecting the interests of users in various types of events. It is used to gather information about the types of events users are interested in, how often they attend events, their preferred time of the year for events, their thoughts on prophets, their preferred day of the week for events, and their availability in terms of day and time.
-The form is designed to be filled out by users who are interested in events, and the data collected will be used to tailor event suggestions and recommendations for the user. The form is not intended for use in any other context.
-The form has 9 fields, each of which asks a different question, and users must complete all fields to get the most accurate and personalized results.
-</thinking>
-
 # Event Interest Form - Help Guide
 ## Purpose
 The Event Interest Form is a tool used to collect information about your event interests and preferences. It helps us understand what types of events you enjoy, how often you attend them, and when and where you prefer them to take place.

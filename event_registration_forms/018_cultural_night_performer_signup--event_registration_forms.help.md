@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from performers and their contacts for the Cultural Night event. It's intended for performers who will be showcasing their talents during the event. The form is split into two main sections: performer information and contact information. The form is used to ensure that the event organizers have all the necessary details to coordinate the event smoothly. Please ensure that the information provided is accurate and up-to-date to avoid any conflicts or miscommunication.
-
-To prevent duplication, please check if a similar form has already been submitted before filling this one. If you're unsure or need help, you can contact the event organizers directly.
-</thinking>
-
 # Cultural Night Performer Signup - Help Guide
 ## Purpose
 This form is designed to collect information from performers and their contacts for the Cultural Night event.

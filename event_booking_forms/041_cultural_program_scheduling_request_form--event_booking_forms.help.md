@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect information about a cultural program scheduling request, likely for an organization or institution that hosts events. It's meant to gather data from users who want to inquire about or schedule a program. The form's purpose is to understand the specific needs and preferences of users, such as the program name, date, start and end times, location, description, event type, and any additional details they might want to share. This form does not have any specific requirements for the fields filled out, making it an open-ended inquiry. 
-
-The form might be used internally or externally, and its content could be reviewed and evaluated to better understand the demand for cultural programs and make informed decisions about their scheduling.
-
-Please ensure that the form is only used for its intended purpose and that the submitted information is accurate and relevant. 
-
-Duplicate submissions might be deleted or ignored, so please be mindful of submitting the same information multiple times. 
-
-If the form's fields are unclear or not relevant to your specific needs, please contact form@gic.mx for assistance.
-</thinking>
-
 # Cultural Program Scheduling Request Form - Help Guide
 ## Purpose
 The Cultural Program Scheduling Request Form is designed to collect information about cultural programs that users would like to schedule. This form helps us understand user's needs and preferences for such programs.

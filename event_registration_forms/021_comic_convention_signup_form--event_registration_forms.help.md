@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is clear and easy to understand for attendees who may not be familiar with conventions or comic conventions specifically. We should avoid jargon and technical terms that might confuse them. This form should cover the essential information required for attendees to provide, including name, contact info, badge name, ticket type, number of tickets, cosplay contest participation, interests and preferences, and payment methods. We should also make sure to highlight any important notes or hints that will help attendees understand the significance of each field. Finally, we should double-check that the form doesn't ask for any unnecessary info that would only add friction to the sign-up process.
-</thinking>
-
 # Comic Convention Signup Form - Help Guide
 ## Purpose
 This is the form for attendees to sign up for the comic convention, providing the necessary information for registration, badge printing, and accommodation needs.

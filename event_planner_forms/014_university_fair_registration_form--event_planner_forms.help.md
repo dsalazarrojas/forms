@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to collect information about upcoming university fairs and events, providing details such as event title, dates, organizer, and contact information. The form is designed to be completed by event organizers or planners to ensure accurate and consistent data collection. 
 
 Before filling out this form, please ensure that you have not already submitted this event information, to avoid duplication. 

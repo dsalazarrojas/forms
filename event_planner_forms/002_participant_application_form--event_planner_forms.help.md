@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for participants to provide their application information for a seminar or event. The form is used to collect data on participants' details, seminar preferences, and contact information. This form is likely used by event organizers or staff to manage participant registrations and ensure that each participant has a spot available for the seminar.
-
-To avoid duplicates and ensure relevance, the form should only be used for new participant applications. If a participant has already applied, they should not reapply.
-</thinking>
-
 # Participant Application Form - Help Guide
 ## Purpose
 

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather feedback from campers, parents, or staff members about their experience at the camp. The purpose of this form is to understand the overall satisfaction and quality of the camp experience, as well as identify areas for improvement. By providing this feedback, you are helping the camp administration to refine their programs and services to better meet the needs of their campers and staff. 
-
-Please ensure that you only complete the form once per session attended. If you have already completed this form, your previous response will be considered when evaluating the feedback.
-</thinking>
-
 # Camp Evaluation Form - Help Guide
 ## Purpose
 This form helps us understand your experience at the camp. Your feedback is essential in helping us improve our programs and services.

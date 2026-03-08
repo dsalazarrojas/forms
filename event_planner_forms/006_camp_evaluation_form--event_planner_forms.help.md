@@ -1,5 +1,3 @@
-<thinking>Form purpose: To evaluate the camp experience of participants after their camp session. This form aims to collect feedback on the overall satisfaction, activities, staff, facilities, and other aspects of the camp. This form is intended for participants who have attended the camp session and will be used to gather information for improvements. It's essential to complete this form accurately to provide valuable feedback.</thinking>
-
 # Camp Evaluation Form - Help Guide
 
 ## Purpose

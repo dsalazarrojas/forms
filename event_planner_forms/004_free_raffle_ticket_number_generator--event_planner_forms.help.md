@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to generate free raffle tickets for events or contests. The purpose of this form is to collect user input for generating raffle tickets with customizable options. The form is divided into several sections, each with specific fields to collect necessary information. 
-
-The form has a total of 7 fields: Generate Raffle, Raffle Title, Raffle Description, Ticket Quantity, Start Number, Ticket Numbers, and Download PDF. 
-
-The form is intended for end-users who want to generate free raffle tickets for their events or contests. 
-
-Before filling out the form, users should ensure they have all the necessary information required to complete it correctly. 
-
-</thinking>
-
 # free_raffle_ticket_number_generator - Help Guide
 ## Purpose
 The free raffle ticket generator form is designed to create free raffle tickets with customizable options for events or contests.

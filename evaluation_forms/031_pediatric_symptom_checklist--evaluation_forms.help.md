@@ -1,9 +1,3 @@
-<thinking>...<thinking>
-
-The Pediatric Symptom Checklist form is designed to collect detailed medical history information from parents or caregivers about their child's health. This information helps healthcare professionals identify potential symptoms, diagnose conditions, or monitor progress in the treatment of a child's health condition. To avoid duplication of effort, please fill out this form only if you have not done so recently or if your child's condition has changed.
-
-</thinking>
-
 # Pediatric Symptom Checklist - Help Guide
 ## Purpose
 The Pediatric Symptom Checklist form is used to collect medical history information about a child's health. This form helps healthcare professionals to assess the child's symptoms and provide necessary care.

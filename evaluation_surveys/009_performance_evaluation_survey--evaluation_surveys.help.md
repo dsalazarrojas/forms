@@ -1,12 +1,3 @@
-<thinking>
-This form is a performance evaluation survey that aims to gather feedback from employees on their performance and areas for improvement. The purpose of this form is to provide a structured way to collect data on employee performance and identify areas where they need to develop their skills.
-
-This form should only be used to evaluate employee performance in specific categories, such as evaluation surveys, training, or other categories. The form is designed to be completed by managers or evaluators who need to assess an employee's performance and provide feedback for development.
-
-Before filling out this form, please make sure that you are not duplicating efforts. If you have already completed this form for the same employee, please do not submit another one.
-
-</thinking>
-
 # Performance Evaluation Survey - Help Guide
 ## Purpose
 The Performance Evaluation Survey is a tool used to gather feedback on employee performance and identify areas for improvement. It is meant to be completed by managers or evaluators who need to assess an employee's performance and provide constructive feedback.

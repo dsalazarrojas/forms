@@ -1,13 +1,3 @@
-<thinking>
-
-The "Virtual Summer Camp Interest Survey" is used to gauge the interest of campers in attending virtual summer camp activities. It is meant to be completed by both the campers and their parents/guardians in order to get a well-rounded understanding of the individual's interests and preferences.
-
-This form will help the summer camp staff to better understand the needs and interests of the participants, and thus plan more enjoyable and engaging activities for them.
-
-The survey should not be completed by people with commercial or promotional purposes.
-
-</thinking>
-
 # Virtual Summer Camp Interest Survey - Help Guide
 ## Purpose
 

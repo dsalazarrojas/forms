@@ -1,5 +1,3 @@
-<thinking>...</thinking>
- 
 # Online Party RSVP Form - Help Guide
 ## Purpose
 This form is designed to collect information from guests who will be attending or are considering attending an online party. It provides an easy way for hosts to keep track of their guests' responses and make sure everyone has a great experience.

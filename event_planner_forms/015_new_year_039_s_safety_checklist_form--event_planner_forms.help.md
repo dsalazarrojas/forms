@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # New Year's Safety Checklist Form - Help Guide
 ## Purpose
 This form is designed for event planners to ensure that all necessary safety measures and protocols are in place for New Year's events, such as parties or gatherings. It helps to identify potential hazards and ensure that attendees are aware of emergency contact information and procedures.

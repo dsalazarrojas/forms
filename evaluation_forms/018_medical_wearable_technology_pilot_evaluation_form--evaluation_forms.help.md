@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather feedback and evaluations on the medical wearable technology pilot. The purpose of this form is to understand the usability, benefits, and challenges of the medical device. This form should only be filled out by participants who have used the device.
-
-Before filling out this form, please ensure that you are the correct participant and that you have not already filled out this form. This will help us prevent duplicate evaluations and ensure that we receive accurate and relevant feedback.
-</thinking>
-
 # medical_wearable_technology_pilot_evaluation_form - Help Guide
 ## Purpose
 This form is designed to gather feedback and evaluations on the medical wearable technology pilot.

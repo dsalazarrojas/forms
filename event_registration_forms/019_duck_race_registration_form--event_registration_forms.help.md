@@ -1,9 +1,3 @@
-<thinking>
-The form's purpose is to collect information from participants in a duck race event. This form is likely used for registration and tracking purposes, such as collecting demographic data, participant contact information, and preferences (e.g., t-shirt size and gift options). The form's fields seem to cover a wide range of information, including participant contact details, event dates, and participant preferences, which may be used for organizational and logistical purposes, such as sending reminders or sending gifts to participants.
-To complete this form, the participant will need to provide personal and demographic information, including name, contact email, phone number, emergency contact, age, participant relationship, and address. The participant will also need to provide information on their preferences, such as t-shirt size, gift options, and gift price.
-The following fields are required: Participant Age, Participant Relationship, Registration Date, Participant Gender, Participant State, Participant Zip, Participant Gift, Participant Gift Quantity, Participant Gift Price, and Participant T-Shirt Size.
-</thinking>
-
 # Duck Race Registration Form - Help Guide
 
 ## Purpose

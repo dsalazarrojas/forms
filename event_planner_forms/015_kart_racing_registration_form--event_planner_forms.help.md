@@ -1,11 +1,3 @@
-<thinking> 
-This form is intended for registration of kart racers for an event. 
-The purpose of this form is to collect necessary details from drivers for the event organization. 
-Each page of the form has a specific purpose and requires specific information. 
-The form is divided into several sections: Event Details, Driver Information, Vehicle Information, Payment Information, and Emergency Contacts. 
-Each section should be filled out according to the instructions provided.
-</thinking>
-
 # kart_racing_registration_form - Help Guide
 ## Purpose
 This form is for registering kart racers for an event. It collects necessary information from drivers, including event details, driver and vehicle information, payment details, and emergency contact information.

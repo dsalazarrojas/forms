@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information from potential volunteers who want to help out at the museum. It will likely be used to coordinate volunteer shifts and ensure that enough personnel are scheduled to manage various tasks and events. Volunteers may be able to sign up for specific shifts or be assigned to shifts based on their availability. This form should prevent duplicate registrations, ensuring each volunteer can only be registered once.
-
-The form may be used for different types of volunteers, such as event volunteers, exhibit volunteers, or administrative assistants. The volunteer's availability and role will help staff determine which shifts to schedule them for. This form is not intended for internal use, such as scheduling shifts for existing staff members.
-
-</thinking>
-
 # Museum Volunteer Registration Form - Help Guide
 ## Purpose
 The Museum Volunteer Registration Form is used to collect information from potential volunteers who want to help out at the museum. It will help staff coordinate volunteer shifts and ensure that enough volunteers are scheduled to manage various tasks and events.

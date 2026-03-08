@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback from sports fans on their experience at a venue, such as a stadium or arena, after an event has taken place. It aims to gather information on various aspects of the event, including the date and type of event, the venue's facilities and climate, the helpfulness of the staff, the availability of parking, the ticket price, and the fan's interest in attending the event again. This feedback will help event organizers and management to identify areas for improvement and make informed decisions to enhance the overall experience for fans. By submitting this form, you will be contributing to the improvement of future events.
-
-</thinking>
-
 # sports_fan_experience_at_venue_survey - Help Guide
 ## Purpose
 The sports_fan_experience_at_venue_survey form is designed to collect feedback from sports fans on their experience at a venue after an event. This feedback will help event organizers and management to identify areas for improvement and make informed decisions to enhance the overall experience for fans.

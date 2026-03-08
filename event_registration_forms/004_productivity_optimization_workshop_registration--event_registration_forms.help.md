@@ -1,9 +1,3 @@
-<thinking>
-
-This guide is for users who wish to register for a productivity optimization workshop. The purpose of this form is to collect information from potential attendees about their session preferences and contact information for registration purposes. This form is not intended to collect sensitive or personal data. Users are encouraged to carefully review the form before submitting it to ensure accurate and complete information.
-
-</thinking>
-
 # Productivity Optimization Workshop Registration - Help Guide
 
 ## Purpose

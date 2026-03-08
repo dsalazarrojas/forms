@@ -1,13 +1,3 @@
-<thinking>
-  This form is a template for ordering T-shirts for the state football championship event. It's designed to collect information on team name, color, and order details. 
-  This form is a crucial part of the ordering process, so please take a few moments to review each section and ensure accuracy. 
-  Before completing the form, ensure you have all the necessary information ready, such as team name, color, and contact details. 
-  The form includes fields for team name, team color, T-shirt size, order quantity, order color, order size, order date, order time, order notes, email address, phone number, and order confirmation. 
-  Each field is carefully designed to gather specific details, so please fill it out accordingly. 
-  If you need any clarification on any field, please refer to this help guide for assistance. 
-  If the form asks for information you're not sure about or can't provide, please contact the relevant person/team for support. 
-</thinking>
-
 # State Football Championship T Shirt Order Form - Help Guide
 ## Purpose
 This form is for ordering T-shirts for the state football championship event. It will ask you for team name, color, and other important order details.

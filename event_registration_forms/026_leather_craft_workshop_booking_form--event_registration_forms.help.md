@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from participants for a "Leather Craft Workshop" event. This form is likely used by event organizers to gather essential details about each participant before the workshop commences. The form might be used for pre-event preparations, such as assigning participants to specific tasks or providing personalized instructions for the event.
-</thinking>
-
 # Leather Craft Workshop Booking Form - Help Guide
 ## Purpose
 The Leather Craft Workshop Booking Form is used to collect participant's information for the Leather Craft Workshop event.

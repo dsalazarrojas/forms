@@ -1,11 +1,3 @@
-<thinking>
-This form is for registering volunteers for food security seminars. The purpose is to gather information from potential volunteers about the event they are interested in joining. The form should only be filled out by users who are interested in volunteering for this specific event and have the necessary permissions to do so.
-
-To check if the form is relevant and non-duplicating, the system would typically check if the user is logged in and if they have already registered for this event as a volunteer or if they are already on the volunteers list. 
-
-This form will be used to populate the "Volunteers" field in the event's database, with the user's selected options. The event type will be used to determine which team the volunteer is assigned to. This form will not be used to store any personal information of the users and will only store the information that is necessary for the event to operate smoothly.
-</thinking>
-
 # food_security_seminar_volunteer_form - Help Guide
 ## Purpose
 The food security seminar volunteer form is used to register volunteers for food security seminars. This form should be filled out by users who are interested in joining a food security seminar as a volunteer.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow parents or guardians to register their child for a sports program. It is intended for use by the sports organization to collect necessary information from participants. Please ensure that each participant's information is accurate and complete.
-</thinking>
-
 # Youth Sports Registration Form - Help Guide
 ## Purpose
 The Youth Sports Registration Form is a collection of fields that need to be filled out by parents or guardians to register their child for a sports program.

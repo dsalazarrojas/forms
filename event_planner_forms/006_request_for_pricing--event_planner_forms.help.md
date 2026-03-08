@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form's purpose and field explanations are clearly understood by the end-users. This form is intended for requesting pricing information from potential customers. The form is designed to gather essential details from the price requester, including their company name, contact information, and pricing requirements. Before proceeding, please confirm that you are submitting a legitimate request for pricing and that you haven't already sent a similar request. This will help us process your inquiry efficiently and accurately.
-</thinking>
-
 # Request for Pricing - Help Guide
 ## Purpose
 This form is designed to gather pricing information from potential customers. Please fill out the form below to provide us with the necessary details about your company and pricing requirements.

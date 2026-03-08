@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for artists to book and manage their bookings for remote art camps. The form is a multi-page form with various sections for different types of information. To ensure that the form is properly filled out, please review each field carefully and follow the instructions below.
-
-</thinking>
-
 # Remote Artist Camp Booking Form - Help Guide
 ## Purpose
 This form is a tool for artists to book and manage their bookings for remote art camps. It captures essential information about artist bookings, including dates, locations, and payment statuses.

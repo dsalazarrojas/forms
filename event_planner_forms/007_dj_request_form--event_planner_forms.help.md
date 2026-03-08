@@ -1,11 +1,3 @@
-<thinking>
-This help guide is intended to assist end users in understanding and completing the DJ Request Form. The form is used to request a specific type of event, such as a dance party or wedding, and to provide details about the event and the music preferences of the requesting user. The form ensures that the correct and relevant information is collected to facilitate the efficient processing and execution of the event.
-
-To avoid duplication and ensure accuracy, users are required to fill out the form completely and consistently. Incomplete or inconsistent forms may be rejected for processing.
-
-Please note that the field "Artist Request" and "Genre Request" are not required fields, and users may fill them out if they are relevant to their event.
-</thinking>
-
 # DJ Request Form - Help Guide
 ## Purpose
 The DJ Request Form is used to request a specific type of event and to provide details about the event and the music preferences of the requesting user.

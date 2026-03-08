@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for customers who want to order a Halloween-themed cookie decorating kit. The kit includes a variety of decorations, decorations materials, and instructions to create their own spooky treats. This form will guide users through the process of filling out the form, which is divided into two pages. On the first page, users will enter their contact information, choose a decoration theme and type, and provide details about their event. On the second page, they will select the shipping method and enter the shipping details.
-</thinking>
-
 # Halloween Cookie Decorating Kit Order Form - Help Guide
 
 ## Purpose

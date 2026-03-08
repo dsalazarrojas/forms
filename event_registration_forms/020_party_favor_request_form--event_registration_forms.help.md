@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users regarding party favor requests, such as whether they would like to request a party favor, the type of party favor they would like, and additional details about the event. To ensure accuracy and consistency, please review the following fields to make sure you're providing the correct information.
-</thinking>
-
 # Party Favor Request Form - Help Guide
 ## Purpose
 This form is used to collect party favor requests from users, including the type of favor they would like and any special messages or details they'd like to include.

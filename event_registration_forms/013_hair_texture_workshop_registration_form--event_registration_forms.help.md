@@ -1,12 +1,3 @@
-<thinking> 
-This form is designed to collect information for the Hair Texture Workshop event. It is intended for salon owners and managers to register their participants for the workshop. 
-
-This form will help you to collect participant details such as name, email, contact number, date, time, and other relevant information.
-
-Before you start, please make sure that the participant details you enter here are accurate and up-to-date so that they can receive important information about the workshop schedule and any updates.
-
-</thinking>
-
 # Hair Texture Workshop Registration Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for a "Work Secret Santa" gift-giving activity at the workplace. The form is likely used to create a fun and engaging activity among colleagues, where employees can anonymously sign up to be a "Secret Santa" participant or choose to be a recipient. 
-The form is designed to be completed by employees who want to participate in the "Work Secret Santa" activity, with the goal of exchanging gifts with their colleagues. Each field in the form is designed to collect essential information for the activity. The form's purpose and functionality are intended to be used in a team-building or employee engagement context.
-</thinking>
-
 # Work Secret Santa Form - Help Guide
 ## Purpose
 The Work Secret Santa Form is designed to collect information for a "Work Secret Santa" gift-giving activity. This activity allows employees to exchange anonymous gifts with their colleagues, promoting team-building and socializing.

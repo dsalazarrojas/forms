@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from attendees for the Engineering Lunch And Learn event. The purpose of this form is to gather contact details and meal preferences of the attendees. The form should only be filled out once per person. Please note that this form is not intended for duplicate or test submissions.
-</thinking>
-
 # Engineering Lunch And Learn Registration - Help Guide
 ## Purpose
 The "Engineering Lunch And Learn Registration" form is used to collect information from attendees for the Engineering Lunch And Learn event. This form is intended to gather basic contact details and meal preferences of the attendees.

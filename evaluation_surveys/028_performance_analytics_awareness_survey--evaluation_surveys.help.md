@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect data from users about their awareness and knowledge of performance analytics systems. The form will help assess how well users are aware of the different types of performance analytics systems, such as Qlik, Tableau, and Looker. This form is intended to be used for internal purposes, such as training and education, and not for external sharing or publication. It's a crucial form that will help us gauge the knowledge gap among our employees about performance analytics systems.
-Please note that the form is not intended to be a comprehensive survey, and it's not meant to cover all the aspects of performance analytics systems. The data collected from this form will help us understand our employees' level of awareness and knowledge, and inform our training and education strategies.
-Before filling out the form, make sure you have the necessary information at hand. This form is designed to be completed once.
-</thinking>
-
 # Performance Analytics Awareness Survey - Help Guide
 ## Purpose
 This survey aims to measure your awareness and understanding of performance analytics systems.

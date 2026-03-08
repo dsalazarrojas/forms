@@ -1,11 +1,3 @@
-<thinking>
-
-The "product_innovation_showcase_rsvp" form is a tool used to collect RSVPs (responses) from attendees to a product innovation showcase event. The form is designed to gather information about each attendee's event details, session interests, and other relevant information to provide a smooth and organized experience for both the attendees and the event organizers. This form is not intended to be used for other purposes, such as general contact forms or surveys.
-
-This form is part of a larger system, and the information collected will be used to manage event attendance, track RSVPs, and provide necessary details for event organizers and attendees. The fields in this form have been carefully designed to collect the necessary information for a successful event experience.
-
-</thinking>
-
 # product_innovation_showcase_rsvp - Help Guide
 ## Purpose
 This form is designed to collect RSVPs from attendees to a product innovation showcase event, gathering information about event details, session interests, and other relevant information.

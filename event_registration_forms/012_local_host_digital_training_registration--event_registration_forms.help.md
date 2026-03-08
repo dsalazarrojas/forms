@@ -1,5 +1,3 @@
-<thinking>...The purpose of the "local-host-digital-training-registration" form is to gather information from users interested in participating in local digital training sessions. This form is likely used to collect demographic information, contact details, and preferences of attendees. To ensure a smooth registration process, please review the instructions below. This form is not intended for use by internal personnel, and its completion should not duplicate existing information in the system. Please ensure that you are not registering under a duplicate account...</thinking>
-
 # local-host-digital-training-registration - Help Guide
 ## Purpose
 The "local-host-digital-training-registration" form is designed to collect information from attendees interested in participating in local digital training sessions. This form helps us understand your preferences and requirements for the training sessions.

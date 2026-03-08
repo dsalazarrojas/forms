@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to process holiday gift orders from customers, allowing them to purchase and send gifts to their loved ones. It captures relevant information for the gift, recipient, and payment details. 
-
-This form is designed to help gift givers create and process their orders in an efficient manner. 
-
-This form is not intended for non-holiday-related gift orders. Please ensure you are using this form for its intended purpose.
-
-</thinking>
-
 # Holiday Gift Order Form - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the holiday gift order form.

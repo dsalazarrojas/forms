@@ -1,7 +1,3 @@
-<thinking> 
-The form is designed to collect feedback from event attendees on their experience with the event. This includes general information, ratings, comments, contact details, and preferences for future events. The form aims to gather constructive feedback to help organizers improve the event experience for future attendees. This feedback will help us understand what worked well and what didn't, allowing us to refine our events to better meet your needs. Please make sure to fill out this form only once per event, so we can get the most accurate feedback. 
-</thinking>
-
 # Post Program Feedback Form Template - Help Guide
 ## Purpose
 This form is designed to collect feedback from event attendees on their experience with the event. Your input will help us understand what worked well and what didn't, allowing us to improve future events.

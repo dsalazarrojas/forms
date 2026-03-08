@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about an event decorator nomination. It is designed to collect details about the event planner, the nominee, their experience, and the event itself. The form should only be filled out for events that are still active or pending. This form will help identify potential event decorators and their eligibility to participate in events. Please ensure you only submit nominations for active or pending events and accurate information about the nominee and event details.
-</thinking>
-
 # Event Decorator Nomination Form - Help Guide
 ## Purpose
 The Event Decorator Nomination Form is designed to collect information about a potential event decorator to help identify them for participation in an event.

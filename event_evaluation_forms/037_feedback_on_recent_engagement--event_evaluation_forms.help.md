@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Feedback On Recent Engagement - Help Guide
 ## Purpose
 This form is intended to gather feedback from participants on a recent event or engagement. It allows you to provide a subjective assessment of the event's quality, suggest improvements, and offer comments.

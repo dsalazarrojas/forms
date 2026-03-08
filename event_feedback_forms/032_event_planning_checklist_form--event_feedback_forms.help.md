@@ -1,7 +1,3 @@
-<thinking>This form is designed to help staff and teams plan events more efficiently and effectively. The form serves as a checklist to ensure that all necessary tasks and details are covered during the planning process. This helps prevent oversights, saves time, and streamlines communication among team members. Before filling out this form, please ensure you have a good understanding of the event's purpose, scope, and requirements. If you're unsure, please reach out to your team lead or supervisor for guidance.
-
-</thinking>
-
 # Event Planning Checklist Form - Help Guide
 
 ## Purpose

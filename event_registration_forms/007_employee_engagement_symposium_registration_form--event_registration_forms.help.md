@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for employee registration for a symposium. The purpose of this form is to collect information from employees who wish to participate in the symposium. It is likely used by HR or event management teams to track employee registrations and demographics. 
-The form is designed to be comprehensive, covering various fields related to employee demographics, preferences, and availability. However, the exact fields and their purposes may not be clearly defined, suggesting that some fields might be redundant or unnecessary. 
-To complete this form, follow the instructions below.
-</thinking>
-
 # Employee Engagement Symposium Registration Form - Help Guide
 ## Purpose
 The Employee Engagement Symposium Registration Form is designed to collect information from employees who wish to participate in the symposium.

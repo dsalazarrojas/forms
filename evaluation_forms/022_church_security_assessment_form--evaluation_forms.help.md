@@ -1,6 +1,3 @@
-<thinking> 
-The form is designed to assess the security of a church or other place of worship. It asks the assessor to provide information about their role, the date of the assessment, the church's name, size, and security team status. The form also inquires about various security measures, such as access control systems, surveillance systems, emergency plans, and communication systems. Additionally, it asks about the church's relationship with local law enforcement and the overall security risk level. Lastly, it asks the assessor to provide priority improvements needed and recommendations for security improvements, as well as their availability of a budget for these improvements.</thinking>
-
 # Church Security Assessment Form - Help Guide
 
 ## Purpose

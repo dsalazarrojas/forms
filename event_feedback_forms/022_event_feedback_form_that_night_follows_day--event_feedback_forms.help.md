@@ -1,12 +1,3 @@
-<thinking>
-This form is intended for participants to provide feedback on events that take place the night after the form is submitted. The form is used to gauge the quality and effectiveness of events, helping organizers improve future events. This guide will walk you through the process of completing the form.
-
-The form is designed to be completed by participants who attended the event the night before. If you are not a participant, please do not fill out this form.
-
-Before starting, make sure you have not already submitted feedback for this event. Duplicate submissions may lead to data skewing and affect the accuracy of the results.
-
-</thinking>
-
 # Event Feedback Form That Night Follows Day - Help Guide
 ## Purpose
 This form is designed to collect feedback from participants on events held the night before. It will help event organizers evaluate and improve future events.

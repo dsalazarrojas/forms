@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect visitor feedback on a specific event, allowing us to gauge the visitor's experience and make data-driven decisions to improve future events. This form should only be filled out after an event has taken place and the visitor has had time to reflect on their experience. Please ensure that you're filling out this form truthfully and providing constructive feedback that will help us improve. If you're unsure about any question or have a suggestion, feel free to ask!
-</thinking>
-
 # Visitor Feedback Form - Help Guide
 ## Purpose
 The Visitor Feedback Form is used to collect feedback from visitors on a specific event. This form helps us understand your experience and gather suggestions for future improvements.

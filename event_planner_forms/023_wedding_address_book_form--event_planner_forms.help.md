@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about a couple's wedding address and contact details. This form should only be used for weddings that have been confirmed or are in the process of being planned. To ensure accuracy, please verify that you are completing this form for the correct couple and that all information is up-to-date. If the couple has already filled out a previous address book form, please do not complete this form again.
-</thinking>
-
 # Wedding Address Book Form - Help Guide
 ## Purpose
 The Wedding Address Book Form is a tool used by wedding planners to collect and store contact information and addresses of people involved in a wedding.

@@ -1,12 +1,3 @@
-<thinking>
-This form is meant to collect information about memorable events from users. It is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation created using only public survey topic metadata. The form is released under CC BY 4.0 and can be used, modified, and even sold with proper credit. The purpose of this form is to gather details about events, which can include conferences, concerts, or any other type of significant occurrence. The form is divided into sections that correspond to different aspects of an event, making it easier for users to provide accurate and comprehensive information.
-
-This form is designed to be user-friendly, with clear labels and concise explanations for each field. However, the "Form Title" field is optional, and users can choose to fill it in or leave it blank. The other fields are also optional, but they are essential for providing a complete description of the event.
-
-To avoid duplication and ensure accuracy, it is recommended to fill out the form only once for each event. If users need to fill out the form multiple times, they should make sure to use the correct information for each event.
-
-</thinking>
-
 # event_request_form_memorable_events - Help Guide
 ## Purpose
 The "event_request_form_memorable_events" is designed to collect information about memorable events. This includes events like conferences, concerts, or any other significant occurrence.

@@ -1,7 +1,3 @@
-<thinking>
-The internal purpose of this form is to collect data from users for a sports prediction competition. The form is used to gather information about the sports event, the sport name, the prediction type, and the participant's details. The form is used to collect data on multiple pages, each with a specific set of fields. This guide will walk the user through each page of the form and explain each field in detail.
-</thinking>
-
 # sports_prediction_competition_entry_form - Help Guide
 ## Purpose
 The sports prediction competition entry form is designed to collect data from users for a sports prediction competition. This form is used to gather information about the sports event, the sport name, the prediction type, and the participant's details.

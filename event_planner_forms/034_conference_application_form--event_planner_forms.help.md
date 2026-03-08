@@ -1,9 +1,3 @@
-<thinking>
-Form purpose is to collect information from applicants to assess eligibility for a conference.
-This form will be used internally to verify the accuracy and completeness of the application information.
-It is recommended to fill out the form only once, as any subsequent submissions will be considered duplicate applications.
-</thinking>
-
 # Conference Application Form - Help Guide
 ## Purpose
 The Conference Application Form is designed to collect essential information from applicants to assess their eligibility for a conference. This form will be used internally to verify the accuracy and completeness of the application information. It is recommended to fill out the form only once, as any subsequent submissions will be considered duplicate applications.

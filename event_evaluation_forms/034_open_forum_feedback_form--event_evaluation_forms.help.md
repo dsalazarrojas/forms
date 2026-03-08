@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # open_forum_feedback_form - Help Guide
 
 ## Purpose

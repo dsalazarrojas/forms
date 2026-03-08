@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed for customers to inquire about balloon services for various events, providing information on their event details, preferences, and requirements. This form is intended to gather necessary details to provide an accurate quote or proposal for the services. It is essential to fill out all required fields to ensure the best possible response.
-</thinking>
-
 # Balloon Inquiry Form - Help Guide
 ## Purpose
 The Balloon Inquiry Form is a comprehensive tool to gather information about your event and preferences for balloon services. This form will help us understand your needs and provide a detailed proposal for your event.

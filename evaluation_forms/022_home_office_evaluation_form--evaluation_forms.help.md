@@ -1,5 +1,3 @@
-<thinking>This form is designed for evaluation purposes, likely for internal company use, as it seems to have multiple pages and questions of varying types. Given the presence of date and time fields, it may be used for tracking employee work hours or scheduling purposes. The form appears to be focused on yes/no questions and date/time fields, possibly indicating it's used for assessing work schedules or workloads.</thinking>
-
 # Home Office Evaluation Form - Help Guide
 ## Purpose
 This form is designed for evaluation purposes, likely for internal company use. It helps to assess various aspects of office work schedules and workflows.

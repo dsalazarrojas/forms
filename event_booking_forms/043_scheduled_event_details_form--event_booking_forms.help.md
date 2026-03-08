@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To provide an accurate help guide for the "Scheduled Event Details Form", I will analyze the form's purpose and fields. 
 
 The "Scheduled Event Details Form" is used to collect information about an event, specifically its details such as start and end dates, times, locations, budgets, guests, speakers, and sponsors. 

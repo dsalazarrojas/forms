@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information for a fundraising gala event, likely for a charity or non-profit organization. The fields are likely used to gather details about attendees, payment methods, and other relevant event information. This form may be used for internal registration purposes, and the fields are designed to collect necessary data for event planning and execution. It's essential to review the form carefully to ensure accuracy and completeness of the data provided. 
-
-The form is divided into several sections, each collecting different types of information. Please review each field carefully to ensure you understand what information is being requested and how it will be used.
-</thinking>
-
 # Fundraising Gala Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from attendees and participants for a fundraising gala event. It helps the organizers understand who will be attending, how they will be paying, and other important details about the event.

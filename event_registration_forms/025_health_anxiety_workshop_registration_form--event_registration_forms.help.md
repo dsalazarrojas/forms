@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for registration to a health anxiety workshop, which is aimed at helping individuals manage and cope with health anxiety issues. It is essential to ensure that the correct information is provided to facilitate a smooth and effective workshop experience. Before proceeding, please review and understand the form's content carefully to avoid any misunderstandings or errors.
-</thinking>
-
 # Health Anxiety Workshop Registration Form - Help Guide
 ## Purpose
 This form is used for registering participants to the Health Anxiety Workshop. It collects essential information about the participant's healthcare forms, description, recognition, workshop cycle, time, date, outro, and assigned tool.

@@ -1,9 +1,3 @@
-<thinking>
-This guide will help you fill out the "health_insurance_evaluation_survey" form to provide valuable feedback on your health insurance experiences. Ensure you have a clear understanding of the form's purpose and requirements before proceeding. 
-
-This guide is intended for users who have experience with health insurance and would like to provide input on their experiences. If you have already completed the survey, please do not continue as your feedback will not be counted. 
-</thinking>
-
 # health_insurance_evaluation_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on your experiences with health insurance plans. Your input will help us improve the quality of health insurance services for our users.

@@ -1,12 +1,3 @@
-<thinking>
-
-... (Internal reasoning for the form purpose and non-duplication check)
-
-This form is intended to gather personal and contact information, as well as opinions of women to be surveyed for International Women's Day celebrations. The form has three sections: Personal Info, Opinions, and Contact Info. The Personal Info section is optional but Contact Info is required. The Opinions section is a multiple-choice question where respondents can select one or more options. This form is designed to gather a mix of demographic data and opinions, making it an essential part of the International Women's Day celebrations.
-
-
-</thinking>
-
 # International Womens Day Survey - Help Guide
 ## Purpose
 The International Women's Day Survey is designed to gather personal and contact information, as well as opinions of women, to be surveyed for International Women's Day celebrations.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for internal use within an organization to register and track details of internal training programs, including user and manager information, training specifics, and file uploads. It is crucial to understand that this form is not meant for external use and should only be filled out by authorized personnel within the organization.
-</thinking>
-
 # Internal Training Registration Intake Form - Help Guide
 
 ## Purpose

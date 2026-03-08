@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather feedback from customers who have purchased an item online or in a physical store. The purpose of this form is to allow customers to share their experience with their purchase, providing valuable insights that can be used to improve the shopping process and customer service. Before filling out this form, please ensure you have not already submitted similar feedback. This form should only be completed once for each purchase.
-
-</thinking>
-
 # Online Shopping Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers who have purchased an item online or in a physical store. The purpose of this form is to allow customers to share their experience with their purchase, providing valuable insights that can be used to improve the shopping process and customer service.

@@ -1,7 +1,3 @@
-<thinking>
-We have here a form used for registering participants to an event. The event types are "Pole Bending Event", "Event", "Event 1", "Event 2", and "Event 3". The event "Pole Bending Event" might be specific to a certain event type that requires participants with the ability to bend poles. The form also asks for participant type with options "Participant 1", "Participant 2", "Participant 3", "Participant 4", and "Participant 5". The form does not ask for payment method, but it is still required. This seems unusual. It would be helpful to know the logic or rules behind this.
-</thinking>
-
 # Pole Bending Event Registration - Help Guide
 ## Purpose
 

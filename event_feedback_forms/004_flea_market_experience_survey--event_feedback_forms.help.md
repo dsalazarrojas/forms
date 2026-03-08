@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Flea Market Experience Survey - Help Guide
 
 ## Purpose

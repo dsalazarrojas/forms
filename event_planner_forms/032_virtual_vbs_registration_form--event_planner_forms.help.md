@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for a form with such a large and complex layout, it's essential to break down the form's purpose, the step-by-step process of completing it, and a detailed explanation of each field. This guide should cater to users who may be unfamiliar with the form's design and functionality.
-
-Based on the provided YAML, this guide will aim to cover each field in a clear and concise manner, avoiding any assumptions about the form's purpose or internal business logic.
-
-</thinking>
-
 # Virtual VBS Registration Form - Help Guide
 
 ## Purpose

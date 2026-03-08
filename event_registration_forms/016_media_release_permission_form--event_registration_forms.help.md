@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's make sure we understand the purpose and requirements of this form. This Media Release Permission Form is likely intended to obtain consent from individuals or their parents/guardians for media-related activities, such as photo, video, or audio recordings. It's essential to clarify that this form is not a duplicate of other forms, and the fields are tailored to capture specific information for media release permissions.</thinking>
-
 # Media Release Permission Form - Help Guide
 ## Purpose
 The Media Release Permission Form is used to obtain consent for media-related activities, such as photo, video, or audio recordings. This form will be used to capture essential information from individuals or their parents/guardians.

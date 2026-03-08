@@ -1,8 +1,3 @@
-<thinking> 
-This form is used to register participants in a Math and Science Competition. The purpose of this form is to collect information about each participant, including their name, age, email address, school, and their area of interest. This form should only be used for registering participants in the Math and Science Competition, and not for any other purpose.
-
-</thinking>
-
 # Math And Science Competition Registration - Help Guide
 ## Purpose
 The Math and Science Competition Registration form is used to collect information about participants in the competition.

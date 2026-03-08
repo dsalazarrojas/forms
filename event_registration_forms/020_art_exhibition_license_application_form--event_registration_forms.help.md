@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals or organizations applying for a license to host an art exhibition. The form is composed of several sections, each covering a specific aspect of the application. The purpose of this form is to ensure that applicants provide accurate and complete information about themselves and their exhibition plans, which is essential for the event's compliance with local regulations and safety standards.
-</thinking>
-
 # Art Exhibition License Application Form - Help Guide
 ## Purpose
 This form is used to collect information from applicants for an art exhibition license. It is a crucial document that helps the event organizers and regulatory bodies ensure the event's compliance with local regulations and safety standards.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to enter their football pool information, including personal details, team selections, predicted scores, and other related data. Ensure that you're filling out the form for the correct purpose and not duplicating existing entries. If you're unsure, please review the form fields carefully before proceeding.
-</thinking>
-
 # Football Pool Entry Form - Help Guide
 ## Purpose
 This form allows users to enter their football pool information, including their personal details, team selections, and predicted scores for an event.

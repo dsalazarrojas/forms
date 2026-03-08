@@ -1,7 +1,3 @@
-<thinking>
-This help guide will cover the key aspects of completing the Nursing Leadership Roundtable Evaluation Form, ensuring that users understand its purpose, how to fill it out, and what each field represents.
-</thinking>
-
 # Nursing Leadership Roundtable Evaluation Form - Help Guide
 ## Purpose
 

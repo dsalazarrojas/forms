@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Corporate Optimization Planning Session Registration Form - Help Guide
 ## Purpose
 This form is designed to help attendees register for the Corporate Optimization Planning Session. It gathers information about the attendee's name, contact details, and event preferences.

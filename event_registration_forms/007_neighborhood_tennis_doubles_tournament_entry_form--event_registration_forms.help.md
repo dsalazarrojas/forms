@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Neighborhood Tennis Doubles Tournament Entry Form", we should first consider the form's purpose and the required information from the inputSchema. The form appears to be designed for teams to register for a neighborhood tennis doubles tournament. The team should provide basic information such as team name, participants, and their preferences. Additionally, the team may have a rating and be part of a league or tennis club.
-
-The form should guide the user through a clear and concise process of completing the form, explaining each field's purpose and what information is expected from the user.
-
-</thinking>
-
 # Neighborhood Tennis Doubles Tournament Entry Form - Help Guide
 ## Purpose
 The Neighborhood Tennis Doubles Tournament Entry Form is designed for teams to register for a neighborhood tennis doubles tournament. This form helps the tournament organizers collect necessary information about the team, including team name, participants, and their preferences. It also collects additional information such as team and participant details.

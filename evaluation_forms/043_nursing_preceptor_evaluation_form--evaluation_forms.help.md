@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather feedback on the performance of preceptors, who provide guidance and support to new nurses. The form asks evaluators to assess a preceptor's clinical performance, communication skills, support, and professional conduct, as well as their ability to provide a comfortable learning environment for new nurses. This feedback is essential for improving the quality of preceptor-new nurse relationships, enhancing the learning experience, and refining the skills of preceptors.
-
-To ensure that evaluators provide meaningful feedback, the form has been designed to be clear and concise, with fields that align with the essential competencies and qualities required of preceptors. Please take a few minutes to review each field carefully before providing your input.
-</thinking>
-
 # Nursing Preceptor Evaluation Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback on a preceptor's performance, communication skills, and ability to provide a comfortable learning environment for new nurses.

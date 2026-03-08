@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from participants about indoor activities, such as workshops, conferences, or events. The form gathers details about the participant, including their contact information, preferences, and availability. It also collects information about the event itself, including event details and any additional information that may be relevant. This form is likely used by event organizers to gather necessary information from participants before the event takes place.
-</thinking>
-
 # indoor_activity_registration_form - Help Guide
 ## Purpose
 This form is designed to collect participant information and event details for indoor activities.

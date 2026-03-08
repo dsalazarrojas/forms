@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback on the performance of individuals. The purpose of this form is to gather data that can be used to identify areas of improvement and provide constructive criticism. The form should only be used for this purpose and not for other reasons such as evaluation of personal opinions or feelings.
-
-The form is divided into multiple pages, each containing a specific set of fields. The Reviewee and Reviewer fields are likely intended to identify the individual being evaluated and the person providing the feedback. The Rating and Comment fields are designed to capture specific points of feedback. The Date and Time fields are for recording the date and time the feedback was provided. The E-mail and Phone fields may be included for future reference or for sending follow-up notifications. The Note field could be used for any other relevant information not captured by the other fields.
-
-</thinking>
-
 # Performance Feedback Quality Survey - Help Guide
 ## Purpose
 The Performance Feedback Quality Survey is a tool used to gather feedback on the performance of individuals. The feedback collected through this form will help identify areas of improvement and provide constructive criticism.

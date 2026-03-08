@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for registering users for a cultural society costume tournament. It is a general-purpose form and is not specific to any particular event or category. Therefore, it is likely used for any event registration. I will review the form fields and provide a user-facing help guide.
-</thinking>
-
 # cultural_society_costume_tournament_entry_form - Help Guide
 ## Purpose
 The cultural society costume tournament entry form is a general-purpose form designed to register users for various events hosted by the cultural society. This form is used to collect basic information from users to facilitate event registration.

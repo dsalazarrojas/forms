@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals or organizations interested in sponsoring public policy panels. The purpose of this form is to gather relevant details such as the organization's name, contact information, event type, and terms of sponsorship. 
-The form has 12 fields, each with specific requirements and guidelines to ensure accurate and complete information collection. 
-Please review the form carefully to ensure all required fields are filled out.
-</thinking>
-
 # public_policy_panel_sponsorship_form - Help Guide
 ## Purpose
 The "public_policy_panel_sponsorship_form" is designed to collect sponsorship information from individuals or organizations for public policy panels.

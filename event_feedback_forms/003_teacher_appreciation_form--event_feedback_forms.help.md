@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to be used by students to express their appreciation and gratitude to their teachers. It is not a formal evaluation or assessment tool, but rather a way for students to share their positive feelings and experiences with their teachers. This form should be completed by students who want to show their appreciation to their teachers, and not by anyone else.
-
-Before filling out this form, please make sure you are not duplicating a similar form that already exists within your school or organization. If you are unsure, please check with your teacher or administration to avoid any confusion.
-
-The goal of this form is to provide a simple and easy way for students to express their gratitude to their teachers. Please take a few minutes to fill out this form, and be as sincere and specific as possible in your answers.
-
-</thinking>
-
 # Teacher Appreciation Form - Help Guide
 ## Purpose
 The Teacher Appreciation Form is a tool for students to express their appreciation and gratitude to their teachers. It is a simple and easy way to let teachers know how much you value and admire them.

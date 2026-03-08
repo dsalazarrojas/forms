@@ -1,10 +1,3 @@
-<thinking>
-This form aims to collect information from users to register for paddleboard lessons. Its purpose is to gather the essential details needed to book a lesson with an instructor and schedule it according to their availability. This form's design is based on a standard layout to ensure data consistency and ease of use.
-
-Before proceeding, consider if you have previously submitted this form. If so, you might find it easier to review and update your previous entry instead of resubmitting. This guide will walk you through the form step by step, explaining each field's purpose and what information is expected from the user.
-
-</thinking>
-
 # Paddleboard Lesson Registration Form - Help Guide
 ## Purpose
 The Paddleboard Lesson Registration Form is a tool designed to help you book lessons with our instructor. By filling out this form, you will be able to specify your details, choose a time slot that suits you, and receive information about your selected lesson.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for booking a cultural conference panel. The purpose of this form is to gather information about the conference and the attendees' details, accessibility needs, and output preferences. The form is meant to be completed by attendees, speakers, or staff members to provide a smooth experience for everyone involved.
-</thinking>
-
 # Cultural Conference Panel Booking Form - Help Guide
 
 ## Purpose

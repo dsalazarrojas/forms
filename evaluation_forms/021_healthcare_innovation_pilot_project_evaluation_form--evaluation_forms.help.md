@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect feedback and evaluations from healthcare professionals on pilot projects, allowing for the assessment and improvement of these projects. This form will help evaluate the project's impact, challenges, and overall effectiveness. To ensure that the form is filled out correctly, please note that the project ID field is not required, but it is recommended to provide it for project identification purposes. The evaluation_date and evaluation_form_completion_date fields are date fields. Please ensure that they are in the correct format. The overall_rating and overall_rating_2 fields are number fields, please input a numerical value between 0 and 10. The overall_comments fields are free-text fields, please provide your comments and suggestions on the project. The submission_status and evaluation_form_status fields are select fields, please choose one of the given options. The overall_comments fields are free-text fields, please provide your thoughts and opinions on the project. The other fields are similar in nature, please input values according to your judgment and expertise. 
-</thinking>
-
 # Healthcare Innovation Pilot Project Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and evaluations on healthcare pilot projects. It allows healthcare professionals to assess the impact, challenges, and overall effectiveness of these projects.

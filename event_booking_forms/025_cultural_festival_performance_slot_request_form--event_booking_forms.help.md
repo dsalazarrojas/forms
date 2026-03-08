@@ -1,12 +1,3 @@
-<thinking>
-To determine the form purpose, we need to analyze the fields and options provided. The form is likely used for event organizers to request a performance spot during a cultural festival. The required fields are event_organizer, performance_name, preferred_time_slot, contact_email, contact_phone, performance_duration, and technical_needs. This suggests that the form is used for event organizers to provide information about themselves, their performance, and their technical needs.
-The required fields also indicate that the form is likely used by event organizers to apply for a performance spot, as opposed to being used by festival organizers to request performer information. This is further supported by the fact that preferred_time_slot, performance_duration, and technical_needs are all fields that would be relevant to an event organizer's needs rather than a festival organizer's needs.
-The fact that performance_format is a select_multiple field with two options ('Yes' and 'No') suggests that event organizers may be able to request multiple performance formats (e.g. dance, music, etc.), but the options are limited to 'Yes' and 'No', indicating that this field is likely being used to indicate whether the performance includes a specific format or not.
-The performance_duration field is a number field, indicating that event organizers will need to provide a numerical value for the duration of their performance.
-The contact_email and contact_phone fields are likely used to enable festival organizers to contact the event organizer if they need to discuss their application.
-</thinking>
-
-
 # Cultural Festival Performance Slot Request Form - Help Guide
 ## Purpose
 This form is used by event organizers to request a performance spot during a cultural festival. It allows them to provide information about themselves, their performance, and their technical needs.

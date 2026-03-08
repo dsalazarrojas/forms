@@ -1,5 +1,3 @@
-<thinking>Is this form meant to evaluate the skills and attitude of a physical therapist? It seems to be a comprehensive assessment form with multiple questions covering various aspects of a PT's performance. I will aim to create a user-friendly help guide that explains the form's purpose, completion steps, and each field's meaning in a clear and concise manner.</thinking>
-
 # Physical Therapist Evaluation Form - Help Guide
 
 ## Purpose

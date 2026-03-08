@@ -1,18 +1,3 @@
-<thinking>
-The purpose of the Festival Submission Communication Form is to collect information from artists and vendors who want to participate in the festival. This form is used to gather necessary details about the artist's or vendor's proposal, including their artist application, vendor proposal, performer info, artist media, and contact information. The form helps the festival organizers to evaluate and process the submissions efficiently and effectively.
-
-The form is designed to be completed by artists and vendors who want to participate in the festival. It is not intended for festival organizers or staff members.
-
-To complete this form, follow the steps below:
-
-1.  Fill in the Artist Application section with your art-related details.
-2.  Provide your vendor proposal, if applicable.
-3.  Enter your performer information in the Performer Info section.
-4.  Upload any relevant media files in the Artist Media section.
-5.  Fill in your contact information in the Contact Info section.
-
-</thinking>
-
 # Festival Submission Communication Form - Help Guide
 ## Purpose
 The Festival Submission Communication Form is a tool used by artists and vendors to submit their proposals and information to the festival organizers. This form helps the organizers to evaluate and process the submissions efficiently and effectively.

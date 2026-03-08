@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to gather feedback and insights from volunteers about their experience at a particular organization. The goal is to understand what motivated them to volunteer, their role during the event, the amount of time they contributed, and other aspects of their experience. The form is intended for use by volunteer supervisors and managers to gather quantitative and qualitative feedback from volunteers. It is likely used to assess the volunteer's satisfaction with the experience and identify areas for improvement for future events.
-
-The form consists of 18 questions, including multiple-choice questions, open-ended questions, and questions asking for a specific time or date. Each page of the form is designed to gather specific information about the volunteer's experience.
-
-To complete this form, the volunteer will need to answer questions about their motivation for volunteering, their role during the event, the amount of time they contributed, and other aspects of their experience. They will also be asked to provide feedback about their satisfaction with the experience and their willingness to volunteer again.
-
-The form is designed to be completed in several pages, each with its own set of questions. The questions are a mix of multiple-choice, open-ended, and date/time questions. The form is required to be completed in full, with most questions marked as "required".
-
-Please make sure to answer all questions truthfully and thoroughly. Your feedback is valuable to us and will help us improve future volunteer events.
-
-Please select the corresponding page numbers from the dropdown menu above to start the form.
-
-</thinking>
-
 # volunteer_experience_survey_evaluation_form - Help Guide
 ## Purpose
 This form is designed to gather feedback and insights from volunteers about their experience at a particular organization.

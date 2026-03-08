@@ -1,8 +1,3 @@
-<thinking>
-Internal reasoning block: This form is designed to collect event registration information for a nutrition workshop. The goal is to gather basic contact information (first name, last name, phone number, and email) as well as workshop-related details (workshop date, registration time, RSVP date, RSVP time, dietary restrictions, special requests, and comments). The form is meant to be user-friendly and accessible to ensure accurate and timely event planning. It is crucial to avoid duplication of records and ensure that the form is filled out correctly to achieve the intended purpose.
-
-</thinking>
-
 # nutrition_workshop_rsvp_form - Help Guide
 ## Purpose
 The purpose of this form is to collect event registration information for the nutrition workshop. Fill out this form to provide essential details about yourself and your participation in the workshop.

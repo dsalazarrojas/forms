@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from attendees for a Workforce Digital Literacy Workshop. The purpose of this form is to gather relevant details such as workshop name, attendee details (name, email, and phone number), workshop schedule (date, time, duration, and location), and any additional message. The form will be used to ensure that attendees are registered correctly and that the workshop organizers have all the necessary information to deliver a smooth and effective workshop experience. This form is not intended for duplicate registrations, and it is recommended that attendees fill out the form only once.
-
-</thinking>
-
 # Workforce Digital Literacy Workshop Registration Form - Help Guide
 ## Purpose
 

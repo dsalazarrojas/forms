@@ -1,9 +1,3 @@
-<thinking>
-
-This trade show product evaluation form is used to gather feedback and information from customers after a trade show. The form is intended to be filled out by customers who have attended a trade show where our products were displayed. The purpose of this form is to understand the customer's experience and perception of our products. The information gathered from this form will help us to improve our products and services for future trade shows.
-
-</thinking>
-
 # Trade Show Product Evaluation Form - Help Guide
 ## Purpose
 The Trade Show Product Evaluation Form is designed to collect feedback and information from customers after a trade show, helping us to improve our products and services for future events.

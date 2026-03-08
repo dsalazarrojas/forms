@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who have participated in skills training or maintenance. The form will be used to track the skills level of employees who require skills maintenance, allowing management to efficiently keep up-to-date records and track progress. It is not intended for general event registration or other purposes. Please ensure you are using this form for its intended use case before proceeding.
-</thinking>
-
 # skills_maintenance_registration_form - Help Guide
 ## Purpose
 The skills maintenance registration form is used to collect information from employees who require skills maintenance. This form helps management to track the skills level of employees and keep up-to-date records.

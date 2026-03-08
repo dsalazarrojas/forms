@@ -1,19 +1,3 @@
-<thinking>
-This form appears to be a poll for planning a Thanksgiving event, specifically for tracking who is drinking, their drink preferences, and collecting contact information. This form seems to be designed for a specific group or community, possibly a social group, club, or family gathering. It's likely used to ensure accurate headcount, track attendees' drink preferences, and maintain communication with the attendees. Before proceeding, let's confirm that this form is intended for a Thanksgiving celebration and not for other types of events.
-
-Given the provided form schema, the form is a multi-page form with various sections for different types of information. The pages include:
-
-*   Survey: This page is likely used to collect general information from attendees.
-*   Drinker: This page is used to identify individual drinkers and track their preferences.
-*   Drinkers Survey and Drinkers 0/1/2 (Liked drink): These pages are used to gather information about which drinks attendees like or dislike.
-*   Date and Time: These pages are used to collect the date and time of the event.
-*   Email and Phone: These pages are used for collecting contact information for communication.
-*   Note: This page is used for any additional notes or comments.
-
-Please confirm that this form is for a Thanksgiving celebration before proceeding.
-
-</thinking>
-
 # thanksgiving_drinking_poll - Help Guide
 ## Purpose
 

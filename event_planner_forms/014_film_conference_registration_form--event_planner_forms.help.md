@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the Film Conference Registration Form, let's analyze the provided YAML fields. The form is called "Film Conference Registration Form" and appears to be a general registration form for event planners. 
 
 The form consists of five fields: "Event Planner Forms", "delivery_quantity", "delivery_location", "contact_email", and "contact_phone". 

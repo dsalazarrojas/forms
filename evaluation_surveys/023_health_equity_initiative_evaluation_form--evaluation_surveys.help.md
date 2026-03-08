@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect feedback and evaluation from evaluators on the Health Equity Initiative. The purpose of this form is to gather information on the program's goals, outcomes, and criteria for evaluation. This form is meant to be completed by evaluators who have reviewed the program and are providing their feedback. 
-
-To ensure that this form is completed accurately and consistently, it's essential to understand each field's purpose and requirements. Before filling out this form, please review each section carefully.
-
-The form has two sections: Health Equity Assessment and Program Details. The Health Equity Assessment section includes questions about the program's goals and outcomes, while the Program Details section is used to provide more general information about the program. 
-
-Please note that this form is not meant for data collection, but rather for evaluators to provide their feedback and insights on the program. Therefore, please answer the questions honestly and provide as much detail as possible.
-
-This guide will walk you through each section of the form, explaining the purpose of each field and what information is required.
-
-</thinking>
-
 # Health Equity Initiative Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and evaluation from evaluators on the Health Equity Initiative program.

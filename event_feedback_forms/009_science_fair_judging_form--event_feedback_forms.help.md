@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To determine the form's purpose, I'll analyze the YAML fields. The form is designed for judges to evaluate science fair projects and provide feedback. The fields seem to be related to gathering information about the project, the judge, and the judging process. Specifically, the form asks for the judge's name and title, the student's ID and project number, the project category, and a score for the project. The form also allows the judge to provide comments and notes. The purpose of this form is to facilitate the evaluation and scoring of science fair projects.
 
 # Science Fair Judging Form - Help Guide

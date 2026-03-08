@@ -1,16 +1,3 @@
-<thinking>
-This is a help guide for the DJ Entertainment Form. This form is used to collect information from DJs about their performances. The purpose of this form is to gather relevant details about the DJ, their event, and their equipment requirements. 
-
-The form is divided into several sections, each covering different aspects of the DJ's performance. This includes contact information, event details, equipment, services offered, pricing, and terms and conditions. 
-
-This guide will explain each section and field in detail, to ensure that the user can complete the form accurately. 
-
-Please note that all fields are optional unless specified as required. 
-
-Please refer to the form layout for specific field names and labels.
-
-</thinking>
-
 # DJ Entertainment Form - Help Guide
 ## Purpose
 The DJ Entertainment Form is used to collect information from DJs about their performances. This form helps to gather details about the DJ, their event, and their equipment requirements.

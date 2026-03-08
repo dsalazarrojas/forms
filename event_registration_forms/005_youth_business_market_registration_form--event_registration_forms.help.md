@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect registration information from users for a specific youth business market event. It's crucial to ensure that only relevant and unique registrations are submitted to the event organizers. This form is meant for collecting information from business owners or representatives who want to participate in the youth business market event. Please make sure to submit only one registration per business entity. This guide is intended to help you complete the form correctly and efficiently.
-</thinking>
-
 # Youth Business Market Registration Form - Help Guide
 ## Purpose
 The Youth Business Market Registration Form is a tool for business owners or representatives to provide event registration information for a youth business market event.

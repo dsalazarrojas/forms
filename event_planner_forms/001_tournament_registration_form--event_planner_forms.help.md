@@ -1,22 +1,3 @@
-<thinking>
-
-Internal reasoning to determine the form purpose and check for relevance and non-duplication:
-This form is designed for collecting information from teams and players to register for a tournament. The form includes fields for tournament information, team information, player information, and contact details. The purpose of this form is to gather essential data for the tournament organizers to effectively manage the registration process. It is likely that this form will be used by tournament organizers, administrators, or coordinators to collect relevant details from teams and players before the tournament starts.
-
-Form Purpose: To register teams and players for a tournament.
-
-Form Type: Tournament Registration Form
-
-Form Fields:
-- **Tournament Information** (page 1): This section collects general information about the tournament.
-- **Team Information** (page 2): This section gathers details about the team, including team name and abbreviation.
-- **Player Information** (page 3): This section collects information about each player, including name, abbreviation, and contact details.
-- **Registration Details** (page 4): This section captures registration date and time, and other specific details.
-
-After reviewing the form fields, it appears that this form is a comprehensive registration form designed to collect all necessary information from teams and players. There are no fields that are redundant or unnecessary for a standard tournament registration process.
-
-</thinking>
-
 # Tournament Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to register teams and players for a tournament.

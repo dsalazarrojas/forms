@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather essential information from campers and their parents or guardians. The purpose of this form is to ensure accurate registration and preparation for a fun-filled camp experience. Please fill out this form carefully and accurately to help the camp staff provide the best possible experience for your camper. 
-
-Before starting, please note that this form requires the following sections to be completed: Camper and Parent/Guardian Information, Health and Emergency Contact, Session Selection, Payment, and Miscellaneous.
-
-</thinking>
-
 # Camp Fun Quest Registration Form - Help Guide
 ## Purpose
 The Camp Fun Quest Registration Form is used to collect vital information from campers and their parents or guardians to ensure a safe and enjoyable camp experience. Please complete this form to provide the necessary details for our staff to prepare and plan activities tailored to your camper's needs.

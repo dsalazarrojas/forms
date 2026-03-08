@@ -1,8 +1,3 @@
-<thinking>
-We're creating a form for registering a Digital Team Building Challenge, which is an event designed to foster teamwork and collaboration among team members. This form will help us gather essential information about the event organizer, team members, challenge type, and other relevant details.
-To confirm, this form is intended for event organizers to register their challenge, and the fields below will guide them through the registration process.
-</thinking>
-
 # Digital Team Building Challenge Registration - Help Guide
 
 ## Purpose

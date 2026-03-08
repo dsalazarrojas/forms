@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "online-wedding-payment-form" is to collect payment information from clients for wedding services. This form is used to track and manage payment records for wedding events. It is intended for event planners to collect necessary payment details, such as payment method, amount, dates, times, and other relevant information from clients.
-</thinking>
-
 # online-wedding-payment-form - Help Guide
 ## Purpose
 The "online-wedding-payment-form" is designed to collect payment information from clients for wedding services. This form helps event planners to efficiently track and manage payment records for wedding events.

@@ -1,8 +1,3 @@
-<thinking>
-This form is a Returnee Invitation Survey designed to collect feedback from users who have returned from an event. The purpose of this form is to understand the user's experience and gather valuable insights for future improvements. Please ensure that you are taking this survey only once and that you have not previously submitted feedback for this event.
-
-</thinking>
-
 # Returnee Invitation Survey - Help Guide
 ## Purpose
 This form is used to collect feedback from users who have attended an event. Your responses will help us understand what we do well and what we can improve for future events.

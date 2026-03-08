@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information about potential speakers and topics for events. It's intended to be used by event planners to collect ideas and suggestions from speakers who have a topic in mind. By filling out this form, speakers can provide details about themselves and their proposed topics, helping event planners to better understand potential speaker and topic availability. To ensure accuracy, we suggest that you fill out this form only once for each speaker and topic suggestion. Please note that duplicate submissions may cause confusion and delay the event planning process.
-
-</thinking>
-
 # Speaker And Topic Suggestions - Help Guide
 ## Purpose
 This form is designed to collect information from potential speakers and topics for events. It's meant to be used by event planners to gather ideas and suggestions from speakers who have a topic in mind.

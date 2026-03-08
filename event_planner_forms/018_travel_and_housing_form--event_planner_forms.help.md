@@ -1,7 +1,3 @@
-<thinking>
-We will need to create a form design and user guide for the "Travel And Housing Form" which is used to collect information about summer camps and their related travel and housing details. The form should be clear and concise, with each field explaining its purpose and requirements. This guide will ensure that users understand the form's purpose, how to complete it, and what each field means.
-</thinking>
-
 # Travel And Housing Form - Help Guide
 ## Purpose
 The Travel And Housing Form is a form used to collect information about summer camps, including travel details, dates, location, and housing requirements. This form is essential for event planners to gather necessary information from campers and their families.

@@ -1,10 +1,3 @@
-<thinking>
-This form is for registering an entry in a hedging match, which is a mechanism used by financial institutions to mitigate risk in a portfolio by using a derivative instrument. A hedging match allows users to specify the type of hedge, the underlying asset, and the timing of the match, providing transparency and risk management capabilities.
-The form will be used by risk management teams, compliance officers, and other stakeholders to ensure accurate and consistent data entry. The form's purpose is to ensure that all relevant information is captured correctly, reducing errors and discrepancies in reporting. 
-To avoid confusion, it's essential to ensure that each field is filled in correctly. Please ensure that the form is reviewed and approved by the relevant stakeholders before submission.
-Please review the form carefully and ensure that all fields are filled in accurately.
-</thinking>
-
 # hedging_match_entry_form - Help Guide
 ## Purpose
 The hedging match entry form is used to register an entry in a hedging match, a risk management tool used by financial institutions to mitigate risk in a portfolio by using a derivative instrument.

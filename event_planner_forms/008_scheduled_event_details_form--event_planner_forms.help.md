@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Scheduled Event Details Form - Help Guide
 
 ## Purpose

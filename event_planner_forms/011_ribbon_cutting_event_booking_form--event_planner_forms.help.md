@@ -1,7 +1,3 @@
-<thinking>
-This form is for booking a Ribbon Cutting event. It captures information about the event details, date, time, location, event name, number of guests, guest details, event host, phone number, and email. Before proceeding, ensure that the form is being used correctly and is not a duplicate. This guide will walk you through the required fields and how to fill them out effectively.
-</thinking>
-
 # ribbon_cutting_event_booking_form - Help Guide
 ## Purpose
 The "Ribbon Cutting" event booking form is a tool used to gather essential information for planning and hosting a successful event. It is designed to be completed by the event host or a designated representative to provide accurate and detailed information about the event.

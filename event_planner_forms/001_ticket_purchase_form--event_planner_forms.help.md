@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to purchase tickets for events. The form should only be used to collect the necessary information required for ticket purchase, which includes the customer's first name, last name, email, phone number, and consent to the terms and conditions. The address field is optional and not required for the form to be submitted. The form should not be used for any other purpose.
-</thinking>
-
 # Ticket Purchase Form - Help Guide
 ## Purpose
 This form is used to collect information for ticket purchase purposes only. It is essential to ensure that you have the necessary information to process your ticket purchase.

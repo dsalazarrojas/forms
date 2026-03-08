@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to schedule and manage partnership negotiation meetings. It captures essential information about the meeting, including the date, time, location, and agenda. The form also collects contact information for the meeting coordinator and partnership details. It's used by internal users to streamline the meeting reservation process, ensuring that all necessary details are captured in one place. This form is not meant to be used for other purposes; if you need to reserve a meeting for a different type of meeting or event, please use the corresponding form.
-</thinking>
-
 # Partnership Negotiation Meeting Reservation Form - Help Guide
 ## Purpose
 This form is used for scheduling and managing partnership negotiation meetings. It captures crucial information about the meeting, partnership details, and contact information for the meeting coordinator.

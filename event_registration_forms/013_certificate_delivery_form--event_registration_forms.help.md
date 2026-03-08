@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Certificate Delivery Form - Help Guide
 
 ## Purpose

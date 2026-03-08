@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a program evaluation survey, designed to collect feedback and data from program participants about their experience with a specific program. The purpose of this form is to gather information about the participant's role at the survey, their feedback, comments, and other relevant details. Before filling out this form, please ensure you are not duplicating the information already collected. The form is divided into two pages, where the first page asks for general information, and the second page is a continuation of the survey.
-
-</thinking>
-
 # program_evaluation_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and data from program participants to evaluate the effectiveness and efficiency of a program.

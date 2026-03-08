@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to capture information from customers about their order of game-themed t-shirts. It appears to be used for a specific internal or external purpose (e.g., event planning, marketing, or customer order management). Before filling out this form, please confirm that it's the correct form for your needs. 
-
-If you're unsure, you might consider reaching out to the form's administrator or the organization that created this form for more information.
-
-This form may have already been used to collect data for other individuals or events; be aware that your input may be visible to others or may be used to generate data for similar orders.
-
-Please fill out this form accurately and truthfully.
-
-</thinking>
-
 # Game T Shirt Order Form - Help Guide
 ## Purpose
 The Game T Shirt Order Form is used to gather information about your order of game-themed t-shirts.

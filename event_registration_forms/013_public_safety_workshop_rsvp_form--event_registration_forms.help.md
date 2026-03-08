@@ -1,13 +1,3 @@
-<thinking>
-**Form Purpose and Relevance Check**
-The Public Safety Workshop RSVP Form is designed to gather information from participants and emergency contacts for public safety workshops. This form ensures that workshop organizers can effectively coordinate and manage participant and emergency contact information in a centralized manner.
-The purpose of this form is to:
-- Collect participant and emergency contact information for public safety workshops
-- Allow participants and emergency contacts to be added or removed in a flexible and structured way
-- Enable quick identification of key information, such as participant names, workshop attendance status, and emergency contact details
-To prevent duplication and ensure accuracy, please verify that this form is being used for the intended purpose and not for other activities or events.
-</thinking>
-
 # Public Safety Workshop RSVP Form - Help Guide
 
 ## Purpose

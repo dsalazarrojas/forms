@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Security Service Evaluation Form - Help Guide
 
 ## Purpose

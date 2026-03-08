@@ -1,9 +1,3 @@
-<thinking> 
-This form is designed for evaluating the effectiveness and usability of the Wireless Temperature Monitoring System. The purpose of this form is to gather user feedback and information about their experience with the system. It is intended to be completed by users who have used the system and can provide valuable insights and suggestions for improvements.
-The form is not meant to be a comprehensive evaluation of the system, but rather a quick and efficient way to gather user input.
-Please ensure that you have used the Wireless Temperature Monitoring System before filling out this form.
-</thinking>
-
 # Wireless Temperature Monitoring System Evaluation Form - Help Guide
 
 ## Purpose

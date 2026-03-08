@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Green Building Standards Seminar Registration Form - Help Guide
 
 ## Purpose

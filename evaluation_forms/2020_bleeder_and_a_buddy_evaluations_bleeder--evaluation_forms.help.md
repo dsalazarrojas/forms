@@ -1,7 +1,3 @@
-<thinking>
-The form is used to collect feedback from participants in the 2020 Bleeder And A Buddy Evaluations Bleeder program. This feedback will help identify areas of improvement and provide valuable insights for the program organizers. Before filling out this form, please ensure you have not already submitted an evaluation. If you have, your evaluation will not be recorded again. Please provide honest and specific feedback to help us better understand your experience with the program.
-</thinking>
-
 # 2020 Bleeder And A Buddy Evaluations Bleeder - Help Guide
 ## Purpose
 This form is used to collect feedback from participants in the 2020 Bleeder And A Buddy Evaluations Bleeder program. The collected information will help us identify areas of improvement and better understand your experience with the program.

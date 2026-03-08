@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to place an order for a gift basket. The purpose of this form is to collect information about the gift basket, including the products included, any personal message to be included, gift card details, payment method, price, shipping method, and the recipient's information. This form is intended for use in a retail or business context where users want to send a gift to someone else.
-
-</thinking>
 # Gift Basket Order Form Template - Help Guide
 
 ## Purpose

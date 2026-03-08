@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Smart Lodging Technology Workshop Registration - Help Guide
 ## Purpose
 This form is designed for attendees to register for the Smart Lodging Technology Workshop. It captures necessary information to facilitate the event's organization and management. Please note that you should only register once for the event, and you will receive a confirmation email with the event details.

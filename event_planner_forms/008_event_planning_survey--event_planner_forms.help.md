@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Event Planning Survey - Help Guide
 ## Purpose
 This form is designed to gather information about an event, allowing you to collect details such as event name, guests, venue, dates, time, location, and description. The form is meant to be a simple and straightforward way to plan and organize events.

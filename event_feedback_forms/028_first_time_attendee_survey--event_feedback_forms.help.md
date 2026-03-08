@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # First Time Attendee Survey - Help Guide
 
 ## Purpose

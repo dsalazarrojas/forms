@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tournament Venue Experience Survey - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended for clients to provide their evaluation of a therapist's performance. The purpose is to collect their opinions and feedback on the quality of care they received. This form is likely part of a larger quality assurance process to ensure that therapists are meeting the expected standards of care.
-
-To avoid duplication of effort, please only fill out this form after you have seen a therapist and received care from them. This feedback will help us improve our services and provide better support for future clients.
-
-</thinking>
-
 # Therapist Evaluation Survey - Help Guide
 ## Purpose
 This form is designed to collect your feedback and evaluation of a therapist's performance. Please take a few minutes to answer the questions and provide your honest opinions to help us improve our services.

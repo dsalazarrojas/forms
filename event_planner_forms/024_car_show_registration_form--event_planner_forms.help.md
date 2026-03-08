@@ -1,15 +1,3 @@
-<thinking>
-
-This form is intended to collect information from individuals or organizations registering for a car show event. The purpose of this form is to gather necessary details from registrants, including their contact information, vehicle details, and participation preferences. This form should only be completed by individuals or organizations interested in attending the car show as exhibitors, spectators, vendors, sponsors, judges, volunteers, or media.
-
-Before starting the form, please note that:
-
-- All fields with a star (*) symbol are required fields.
-- Fields marked as optional are not mandatory but may be useful to provide additional context or information.
-- Some fields may have specific formatting or type requirements (e.g., email address, phone number).
-
-</thinking>
-
 # Car Show Registration Form - Help Guide
 ## Purpose
 The Car Show Registration Form is designed to gather information from registrants for the car show event. This includes details about the registrant themselves, their vehicle, and their participation preferences.

@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended for end-users to understand the purpose and usage of the "Event Survey" form. The form is used to collect information about an event, including its title, description, start and end dates and times, organizer's contact information, attendees, and ratings. The form is likely used for event planning, management, or evaluation purposes within an organization or community. It's assumed that the form is used to collect data that will be used for internal analysis and reporting, rather than for external or public sharing.
-
-To avoid duplication, this help guide should be reviewed and updated when any changes are made to the form's structure or content.
-
-</thinking>
-
 # Event Survey - Help Guide
 ## Purpose
 The Event Survey form is used to gather details about an event, including its title, dates, organizer's contact information, attendees, and ratings.

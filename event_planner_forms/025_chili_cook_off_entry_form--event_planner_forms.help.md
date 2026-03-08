@@ -1,6 +1,3 @@
-<thinking>
-This form is designed for teams and individuals to enter the Chili Cook Off competition. It is meant for teams to provide their name, contact information, and other relevant details for their entry. The form should be completed by the team lead or contact person. The purpose of this form is to ensure that teams can be properly coordinated with and their entries are valid for the competition. It's a one-time form to be filled out per team. The fields are designed to gather essential information about the team, such as team name, contact person, phone, email, category, number of servings, and other specific details. Each field is important for the team's entry to be considered valid for the competition. The form does not require special equipment or needs fields, as it is a general entry form and not a specific equipment request form. The "agree to Event Rules" field is a required field to ensure teams understand and agree to the event rules.</thinking>
-
 # Chili Cook Off Entry Form - Help Guide
 ## Purpose
 This form is for teams to enter the Chili Cook Off competition. Please fill out this form to provide your team's details for proper coordination and validation of your entry.

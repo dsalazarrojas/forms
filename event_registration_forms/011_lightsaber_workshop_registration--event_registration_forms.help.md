@@ -1,15 +1,3 @@
-<thinking> 
-We need to create a user-facing help guide for the "Lightsaber Workshop Registration" form. This form is used to register participants for a lightsaber workshop, which likely involves training and certification for lightsaber users. The form collects various information from the participants, including event organizers, participants, session details, and payment information. 
-
-The form is likely used by event organizers to gather all the necessary information for the workshop, and the participants to register for the session. 
-
-We will need to consider the following:
-
-* Ensuring that the form is easy to understand and complete
-* Explaining each field's purpose in a clear and concise manner
-* Highlighting any required fields
-
-</thinking>
 # Lightsaber Workshop Registration - Help Guide
 ## Purpose
 The Lightsaber Workshop Registration form is used to collect information from participants and event organizers for a lightsaber workshop. This form helps the organizers to gather necessary details for the session, such as participant information, session details, and payment information.

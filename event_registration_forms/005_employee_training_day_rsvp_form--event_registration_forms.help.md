@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information from employees about their participation in a training day. This form is meant to be completed by employees who are interested in attending a training session, and it will help the organizers of the training day to know how many people are coming and what their specific needs are. This form should only be completed by employees, not managers or other stakeholders. 
-
-Please note that this form is a simple text-based form, and it's meant to be filled out by employees who are already familiar with the training day topic. 
-
-The form is divided into four pages, each containing a single text field. The fields are meant to be completed by the employee in a sequential manner, from top to bottom.
-
-</thinking>
-
 # Employee Training Day RSVP Form - Help Guide
 ## Purpose
 This form is used to register and gather information from employees who are interested in attending a training session. It's a simple text-based form that should be completed by employees, not managers or other stakeholders.

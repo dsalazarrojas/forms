@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for booking events, specifically for a crowd control barrier system. It is used to track and manage events such as weddings, conferences, concerts, and other gatherings. The form is required for event organizers to provide information about their events in order to reserve a crowd control barrier. This information includes event name, start date, type, location, organizer contact details, and status of booking. This form is used to ensure that event organizers and crowd control users can effectively communicate and manage event bookings.
-</thinking>
-
 # crowd_control_barrier_booking_form - Help Guide
 ## Purpose
 This form is used to book and manage crowd control barrier events. It is a crucial tool for event organizers to provide necessary information about their events to the crowd control system.

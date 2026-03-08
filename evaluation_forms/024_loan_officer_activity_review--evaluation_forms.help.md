@@ -1,14 +1,3 @@
-<thinking>
-This form is used to evaluate the activities of a loan officer, including their performance, next steps, and other relevant details. The form is likely used to track and assess the progress and productivity of loan officers, providing an opportunity for managers to offer feedback and guidance. This form is likely used by loan officers, managers, or other stakeholders in the lending process.
-
-Before filling out this form, please ensure you have a clear understanding of the activities you are being asked to review and the context in which they took place. This form should not be completed multiple times for the same activity or review period.
-
-Please note that some fields are optional, allowing you to provide as much or as little information as necessary. However, ensure that you complete all required fields before submitting the form.
-
-If you're unsure about any field or its purpose, please refer to the field-by-field explanation below for more information.
-
-</thinking>
-
 # Loan Officer Activity Review - Help Guide
 
 ## Purpose

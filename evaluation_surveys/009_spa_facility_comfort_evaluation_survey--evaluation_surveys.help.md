@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback and ratings from users about a spa facility, specifically on its comfort and services offered. This feedback will help the spa management to evaluate and improve their facilities. Please note that this form is intended to be used by spa customers, who are expected to be regular visitors or have visited the spa in the past. To prevent duplication of effort, this form should not be used to collect feedback from non-customer individuals. 
-</thinking>
-
 # Spa Facility Comfort Evaluation Survey - Help Guide
 ## Purpose
 The Spa Facility Comfort Evaluation Survey is designed to collect feedback from users on their experience at the spa. The survey consists of 13 questions that cover various aspects of the spa's comfort and services. 

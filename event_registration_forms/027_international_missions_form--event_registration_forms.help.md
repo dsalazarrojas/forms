@@ -1,10 +1,3 @@
-<thinking>
-The form is designed for international missions, and it's meant to capture key information about the mission, such as whether it is an international mission, the name and contact details of the individual, and any additional notes. The purpose of this form is to provide a structured way to collect information about international missions, which can be used for administrative and operational purposes. This form is not intended for emergency or urgent situations, and it's meant for non-urgent, routine international mission requests. 
-
-The form has 7 fields, and users need to go through each field carefully to ensure they provide accurate information. 
-
-</thinking>
-
 # International Missions Form - Help Guide
 ## Purpose
 The International Missions Form is designed to capture information about international missions for administrative and operational purposes.

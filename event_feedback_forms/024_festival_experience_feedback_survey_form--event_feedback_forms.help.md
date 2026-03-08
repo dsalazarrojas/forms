@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # festival_experience_feedback_survey_form - Help Guide
 
 ## Purpose

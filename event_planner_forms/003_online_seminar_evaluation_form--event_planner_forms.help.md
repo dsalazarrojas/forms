@@ -1,5 +1,3 @@
-<thinking>...The form is designed to gather feedback from attendees about an online seminar they attended. This form will help the event planners to improve and refine their content, time management, and overall quality of the seminar. It's essential to complete this form thoroughly and accurately to provide constructive feedback. Before proceeding, please make sure you have not filled out this form before as this may lead to duplicate submissions.</thinking>
- 
 # Online Seminar Evaluation Form - Help Guide
 ## Purpose
 This Online Seminar Evaluation Form is designed for attendees to provide their feedback and ratings about the online seminar they attended. Your input will help the event planners improve the quality and content of future seminars.

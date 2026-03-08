@@ -1,5 +1,3 @@
-<thinking>... internal reasoning block not provided, focusing solely on form design and user guide generation ...</thinking>
-
 # Probation Period Form - Help Guide
 ## Purpose
 The Probation Period Form is designed to collect information regarding the start and end dates of a probation period, as well as any remarks or comments related to the process.

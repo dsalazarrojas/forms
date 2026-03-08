@@ -1,25 +1,3 @@
-<thinking>
-
-This form is designed to gather information from volunteers who want to participate in a festival event. It collects basic contact information, volunteer preferences, and availability. This form should only be filled out by individuals who are interested in volunteering and are not duplicates in the system.
-
-To check for duplicates, we will use a combination of first name, last name, and email address. This will ensure that only unique individuals can register as volunteers.
-
-The form is split into several sections, each with its own specific purpose:
-
-* First Name and Last Name: These are the basic contact details that we need to identify the volunteer.
-* Email: This is the email address we will use to contact the volunteer.
-* Volunteer Slots: This section asks the volunteer to select the time slots they are available to work.
-* Skills: This section asks the volunteer to select the skills they have that are relevant to the festival event.
-* Volunteer Area: This is the area where the volunteer would like to work.
-* Special Talents: This is an optional section where the volunteer can specify any special talents they have.
-* Contact Method: This section asks the volunteer how they would like to be contacted (phone, email, or social media).
-* Contact Information: This includes fields for phone number, email, address, and zip code.
-* Emergency Contact: This section asks the volunteer to provide contact information for a friend or family member in case of an emergency.
-* Confirm Contact Information: This section confirms that the contact information provided is accurate.
-* Terms and Conditions: This is a checkbox to confirm that the volunteer has read and agreed to the festival's terms and conditions.
-
-</thinking>
-
 # Festival Volunteer Registration Form - Help Guide
 
 ## Purpose

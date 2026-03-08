@@ -1,12 +1,3 @@
-<thinking>
-This form will be used to collect information for a product sampling event registration. The event is designed for product sampling purposes, and this form will help gather essential details from attendees. The fields in this form are meant to be completed by event attendees themselves. It is recommended to have a clear and precise understanding of each field's purpose to ensure accurate data collection. 
-
-Please note that the provided YAML fields do not include any sensitive or personally identifiable information (PII) fields that would typically require explicit consent from data subjects. This form is designed for informational purposes only and should not be used to collect any sensitive or personal data without the subject’s explicit consent. 
-
-Also, please be aware that the provided schema includes multiple pages but only one page has fields that require user input. The other "pages" are likely placeholders or unused fields in this specific schema.
-
-</thinking>
-
 # Product Sampling Event Registration - Help Guide
 
 ## Purpose

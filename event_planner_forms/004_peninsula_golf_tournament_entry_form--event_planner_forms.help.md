@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information from players who are interested in participating in the Peninsula Golf Tournament. The form will gather details such as player names, email addresses, tournament names, entry fees, entry dates, participant tee times, and whether they will be using a golf cart. This information is necessary for the event organizers to efficiently manage participant information and ensure a smooth execution of the tournament.
 
 # peninsula-golf-tournament-entry-form - Help Guide

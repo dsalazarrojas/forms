@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed to gather information about a healthcare professional's knowledge and confidence in providing Advanced Cardiac Life Support (ACLS) care. The purpose of this form is likely to evaluate the level of knowledge and confidence of ACLS team members, helping to identify areas where additional training is needed. It's essential to ensure that this information is not duplicated or outdated. The form is intended for self-assessment, so it's likely that the participant will be rating their own level of knowledge and confidence. This form should be reviewed by healthcare professionals familiar with ACLS care to confirm that the questions accurately reflect the desired goals and outcomes.
-
-</thinking>
 # Advanced Cardiac Life Support ACLS Survey - Help Guide
 ## Purpose
 The Advanced Cardiac Life Support (ACLS) survey is designed to evaluate the knowledge and confidence of healthcare professionals providing ACLS care. It assesses the level of expertise in ACLS practices and identifies areas where further training is needed to enhance team performance.

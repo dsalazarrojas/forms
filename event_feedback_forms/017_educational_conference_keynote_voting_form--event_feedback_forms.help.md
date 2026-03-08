@@ -1,7 +1,3 @@
-<thinking>
-Is this form intended for educational conference attendees to provide feedback on speakers and overall conference experience? Are there any specific requirements or restrictions for the speakers or sessions being evaluated? Are there any potential duplicates or redundancy in the form fields? 
-</thinking>
-
 # educational_conference_keynote_voting_form - Help Guide
 ## Purpose
 The educational conference keynote voting form is designed to gather feedback from attendees on the quality and performance of speakers at the conference. This form helps conference organizers to assess the effectiveness of their keynote speakers and overall conference experience.

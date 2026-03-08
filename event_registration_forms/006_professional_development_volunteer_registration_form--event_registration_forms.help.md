@@ -1,9 +1,3 @@
-<thinking>
-This form is for registering as a volunteer for a professional development workshop or training session. The form requires information about the individual's personal details, such as name, contact information, and availability. This information will be used by the organizers to manage the event and ensure that the volunteer is assigned to the most suitable workshop or training session.
-It is recommended that the form be completed by the individual registering as a volunteer, or by a person with authority on their behalf.
-The form will not be duplicated, as each individual's details are unique and will be used to track their progress and involvement with the event.
-</thinking>
-
 # professional_development_volunteer_registration_form - Help Guide
 ## Purpose
 This form is used to register as a volunteer for a professional development workshop or training session.

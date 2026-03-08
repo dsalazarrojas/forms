@@ -1,7 +1,3 @@
-<thinking>Internal reasoning to check for form purpose and relevance
-
-The internal audit conference registration form is used for attendees to provide their preferences and requirements for sessions during an internal audit conference. It is used to collect information about which sessions attendees want to attend and any specific requirements they have for each session. This form is likely used by conference organizers to plan and prepare for the conference. It does not appear to be a general purpose event registration form, as it has many fields related to session preferences and requirements, which suggests it is specific to this conference. It may be useful for conference organizers to use this form to tailor the conference schedule to attendees' preferences and ensure that everyone's requirements are met.</thinking>
-
 # internal audit conference registration - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to book event sanitation staff for events that require specific services. The event planner can fill in the form with details about the event, including date, location, and required services, to ensure that the right staff are booked for the event. Before filling the form, ensure that you have the necessary information and authorization to book staff for the event.
-</thinking>
-
 # Event Sanitation Staff Booking Form - Help Guide
 ## Purpose
 The Event Sanitation Staff Booking Form is a tool to help event planners book the right sanitation staff for events that require specific services. This form collects information about the event, including details about the staff needed, dates, and services required.

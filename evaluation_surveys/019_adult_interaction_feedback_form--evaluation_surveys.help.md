@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Adult Interaction Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from adults about their interactions with our service. The feedback will help us understand their experiences, identify areas for improvement, and refine our service to better meet their needs.

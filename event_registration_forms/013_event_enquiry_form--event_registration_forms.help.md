@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from users about an event they wish to attend, organize, or be a part of in the context of events like weddings, conferences, seminars, meetings, workshops, etc. The form helps to gather details about the event type, date, time, location, number of guests, additional event details, contact information, and any other relevant message. The form is meant to be a general event registration form, not specific to any particular type of event.
-
-To ensure that the form is not used for events already registered, it's essential to fill it out with accurate and up-to-date information about the event you wish to participate in or organize.
-</thinking>
-
 # Event Enquiry Form - Help Guide
 
 ## Purpose

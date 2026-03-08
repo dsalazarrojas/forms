@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Employee Initiative Evaluation Form is used to document and assess the effectiveness of a specific employee initiative or project in the organization. This form helps managers evaluate the progress, outcomes, and future plans of the initiative, providing valuable feedback for employees and the management team to improve future projects. To ensure accurate completion, this form should only be filled out by authorized personnel who have first-hand knowledge of the initiative's details.
 
 </thinking>

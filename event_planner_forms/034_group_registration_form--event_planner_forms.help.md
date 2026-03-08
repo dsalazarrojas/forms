@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for registering events, likely for a group or team, and collects information such as names, contact details, and event specifics. To ensure accuracy, please review the event details carefully before submitting this form. This form might be duplicated for other events, so be sure to double-check the event name to ensure you are registering for the correct event.
-</thinking>
-
 # Group Registration Form - Help Guide
 ## Purpose
 This form is for registering events for groups or teams. Please fill out the form carefully to provide the required information for the event.

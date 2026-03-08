@@ -1,5 +1,3 @@
-<thinking>Before filling out the Intervention Planning Form, please ensure that you are completing this form for a valid reason and that you are not duplicating a previously submitted form. This form is intended for individuals who need to provide information about a specific intervention. If you are unsure about the purpose of this form or if you have already submitted a similar form, please consult with your supervisor or administrator before proceeding. Additionally, please make sure to review and complete all fields accurately and thoroughly, as this information will be used to inform further actions.</thinking>
-
 # Intervention Planning Form - Help Guide
 ## Purpose
 The Intervention Planning Form is used to gather information about a specific intervention or action that you would like to take. This form helps us to better understand your needs and to provide effective support and resources.

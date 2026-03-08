@@ -1,7 +1,3 @@
-<thinking>
-This form is used by event planners to collect feedback and notes on the whiskey tasting experience. The form will help them gather information on the attendee's perception of the whiskey, including aroma, taste, appearance, color, body, nose, pallete, finish, and other attributes. The form is designed to be completed by the attendee after tasting the whiskey, providing a valuable resource for the planner to improve the selection and pairing of whiskeys for future events.
-</thinking>
-
 # Whiskey Tasting Form - Help Guide
 ## Purpose
 

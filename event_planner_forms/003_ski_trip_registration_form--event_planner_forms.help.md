@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture essential information from students who are planning to participate in a ski trip. The form is used to collect contact, personal, and medical information from students and their emergency contacts. This information will be used by the ski trip organizers to ensure that everyone's needs are met and that they can provide a safe and enjoyable experience for all participants.
-</thinking>
-
 # Ski Trip Registration Form - Help Guide
 ## Purpose
 The Ski Trip Registration Form is used to gather essential information from students who are participating in a ski trip. This includes contact, personal, and medical information, which will be used by the ski trip organizers to provide a safe and enjoyable experience for all participants.

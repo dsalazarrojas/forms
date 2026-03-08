@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # transportation_summit_block_confirmation - Help Guide
 
 ## Purpose

@@ -1,31 +1,3 @@
-<thinking>
-The Corporate Team Event Attendance Form is used to register attendees for corporate events. To ensure accurate data collection and efficient event management, please complete this form with the following information:
-* Company: This field is used to specify the company of the event.
-* Name: This field is used to input your name.
-* Email: This field is used to enter your email address for communication purposes.
-* Event: Please select the event you are attending from the provided options.
-* Attendees Count: This field is used to specify the number of attendees from your company.
-* Attendees Names: Please enter the names of the attendees you are bringing.
-* Attendees Company: Select the companies of the attendees.
-* Attendees Title: Please select the title for each attendee (Mr, Mrs, Ms).
-* Attendees Department: Enter the department of the attendees.
-* Attendees Job Title: Enter the job title of the attendees.
-* RSVP by: Please select the date by which you are RSVPing.
-* RSVP Time: Select the time by which you are RSVPing.
-* Message: This field is used to provide any additional information about your attendance.
-
-To avoid duplication, please only complete this form once per attendee. If you have any questions or concerns, feel free to contact us.
-
-Please note that the form is divided into pages. Each page will ask for specific information related to one or more fields. You will need to navigate through the pages to complete the form.
-
-Before proceeding, please make sure you have all the required information before starting the form.
-
-Please ensure you are selecting the correct event and providing accurate information to ensure proper communication and event planning.
-
-Before submitting the form, review your responses carefully to ensure they are accurate.
-
-</thinking>
-
 # Corporate Team Event Attendance Form - Help Guide
 ## Purpose
 

@@ -1,8 +1,3 @@
-<thinking>
-This form is likely used to request modifications to an exhibition stall. Exhibition stalling is a common practice in events such as trade shows, conferences, and events where vendors or exhibitors set up stalls to showcase their products or services. The form will help event organizers understand and respond to these requests in a timely and organized manner.
-This form will help event organizers and planners to gather necessary information from the exhibitors or vendors to modify their stall as per their requirement. The form will be used to identify the category of the event (e.g., trade show, conference), the description of the modification request, any additional files or documents that need to be attached with the request, the preferred date and time for the modification, the priority level of the modification, and any additional notes or comments that the exhibitor or vendor may want to include.
-</thinking>
-
 # exhibition_stall_modification_request_form - Help Guide
 ## Purpose
 This form is used to submit requests for modifications to an exhibition stall.

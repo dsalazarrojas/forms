@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Animal Welfare Performance Evaluation Survey - Help Guide
 
 ## Purpose

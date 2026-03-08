@@ -1,6 +1,3 @@
-<thinking>
-This form is a Halloween Restaurant Decoration Contest Form designed for restaurants to showcase their Halloween-themed decorations. It is meant for event planners, marketers, and others in the food industry to collect information about upcoming Halloween events. The form is a collection of 8 input fields across 8 pages, gathering details such as event name, location, date and time, description, uploaded image, and categories.
-</thinking>
 # Halloween Restaurant Decoration Contest Form - Help Guide
 ## Purpose
 This form is a submission form for restaurants to participate in a Halloween decoration contest. To enter, complete the form with the required information about your event.

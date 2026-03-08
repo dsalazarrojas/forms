@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to gather feedback from participants about their experience with the counseling event. It's crucial to collect this data so we can identify areas of improvement and make necessary adjustments to future events. To ensure that we receive valuable and accurate feedback, please note that:
-
-* Each form should be filled out by only one participant per event.
-* Please do not complete this form if you are not a participant of the event.
-* If you need help, do not hesitate to contact us.
-
-</thinking>
-
 # Counseling Event Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from participants about their experience with the counseling event. Your input will help us identify areas for improvement and make future events more valuable for all attendees.

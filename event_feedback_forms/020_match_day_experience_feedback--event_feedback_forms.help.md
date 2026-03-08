@@ -1,12 +1,3 @@
-<thinking>
-Internal reasoning block:
-- Form is for gathering feedback on the match day experience from participants.
-- Form fields are designed to collect specific data points that will help event organizers improve future match day events.
-- This form is not for general comments or suggestions, but rather for specific and actionable feedback.
-- There is no duplication of feedback collection, each submission is a new entry.
-- The goal is to provide a simple and easy-to-use interface for participants to share their thoughts.
-</thinking>
-
 # Match Day Experience Feedback - Help Guide
 ## Purpose
 This form is used to collect feedback from participants about their experience on the match day event. Your input is valuable in helping us improve future events.

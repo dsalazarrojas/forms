@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect feedback from students about their experiences and satisfaction with the current semester. This form is typically used to assess student feedback on a regular basis to identify areas for improvement and make data-driven decisions. To ensure that this form is being used effectively, please note that this form has two separate sections, each for two semesters, and each section has its own unique fields. Please complete the fields for both sections.
-
-Also, please make sure that you are providing feedback on the correct semester. 
-
-</thinking>
-
 # semester_feedback_form - Help Guide
 ## Purpose
 The semester_feedback_form is used to collect feedback from students about their experiences and satisfaction with the current semester.

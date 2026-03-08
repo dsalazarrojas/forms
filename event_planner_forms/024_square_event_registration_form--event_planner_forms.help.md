@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to handle event registration with Square, a payment gateway, allowing users to register events with their details. The form will be used by event planners to collect and manage event information and attendee data. This form should only be used for events that are relevant to Square's payment services and not for other purposes.
-
-</thinking>
-
 # Square Event Registration Form - Help Guide
 ## Purpose
 The Square Event Registration Form is a tool for event planners to register events with their details and collect attendee information. This form is specifically designed for events related to Square's payment services.

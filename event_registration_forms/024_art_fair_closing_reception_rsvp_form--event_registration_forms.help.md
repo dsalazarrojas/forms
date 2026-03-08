@@ -1,11 +1,3 @@
-<thinking>
-This form is used for guests to RSVP to the Art Fair Closing Reception. The purpose of the form is to gather information about the guests' intentions to attend, their preferences, and any special needs they may have. This is an internal form, used by the Art Fair organization to manage guest attendance and provide relevant services. 
-
-The form should only be filled out by guests who have been invited to the Art Fair Closing Reception.
-
-The form has 13 fields, but only 5 are required: guest_full_name, attendance_status, email_confirmation, rsvp_submission_date, and professional_role.
-</thinking>
-
 # Art Fair Closing Reception RSVP Form - Help Guide
 ## Purpose
 This form helps us gather important information about your attendance and preferences for the Art Fair Closing Reception. Please take a few minutes to fill it out and help us make your experience as wonderful as possible.

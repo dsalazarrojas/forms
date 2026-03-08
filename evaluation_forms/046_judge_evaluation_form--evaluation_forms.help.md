@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect feedback and evaluation from judges about their experiences and ratings of events. The form captures various aspects of the judge's evaluation, including their overall performance, score, and comments. It also tracks the status of the form submission and the evaluation process...</thinking>
-
 # Judge Evaluation Form - Help Guide
 ## Purpose
 The Judge Evaluation Form is a tool used to collect feedback and evaluation from judges about their experiences and ratings of events. This form helps to assess the performance of judges, track their progress, and evaluate their scores.

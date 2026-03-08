@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Best Hotel Nomination Form - Help Guide
 ## Purpose
 The Best Hotel Nomination Form is designed to help identify outstanding hotels that excel in providing exceptional guest experiences. This form is used to collect nominations for hotels that demonstrate leadership, innovation, or remarkable service. The information collected will be reviewed to select top-notch hotels that deserve recognition and accolades within the hospitality industry.

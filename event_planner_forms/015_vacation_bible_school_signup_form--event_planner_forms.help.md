@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vacation Bible School Signup Form - Help Guide
 ## Purpose
 This form is designed to collect information from parents to sign up their children for Vacation Bible School (VBS) programs. The form gathers essential details such as the parent's name, child's name, age group, contact information, preferred class day, and any additional notes.

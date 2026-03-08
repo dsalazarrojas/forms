@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from guests about their plans to attend a homecoming event. This form is designed to be completed by each guest, and it will help the event organizers to track RSVPs, gather contact information, and note any dietary restrictions. This form is not affiliated with, endorsed by, or derived from any form platform, and it is an original adaptation created using public survey topic metadata as inspiration.
-</thinking>
-
 # Homecoming Event RSVP Form - Help Guide
 ## Purpose
 The Homecoming Event RSVP Form is a tool for guests to register their attendance and provide necessary information for the event organizers.

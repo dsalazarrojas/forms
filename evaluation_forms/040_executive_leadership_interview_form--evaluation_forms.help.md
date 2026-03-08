@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for evaluating the performance of candidates during an executive leadership interview. The form helps the interviewers to rate the candidates' performance, provide a brief summary of their recommendation, and give feedback on their strengths and weaknesses. 
-
-The form is used by interviewers to collect information on candidate's performance, which can be used for future reference and to help in making informed decisions. 
-
-Please note that this form is for internal use only. 
-
-</thinking>
-
 # Executive Leadership Interview Form - Help Guide
 ## Purpose
 This form is used to evaluate the performance of candidates during an executive leadership interview.

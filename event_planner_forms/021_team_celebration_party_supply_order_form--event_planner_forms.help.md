@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help team members order party supplies for a team celebration. The purpose of this form is to collect the necessary information to ensure a successful and enjoyable party for the team. It is crucial to provide accurate and complete information to avoid any miscommunications or misunderstandings. To ensure the form is properly filled out, please review the fields below and follow the instructions carefully.
-</thinking>
-
 # Team Celebration Party Supply Order Form - Help Guide
 ## Purpose
 This form is used to order party supplies for a team celebration. Please fill out the form carefully to provide the necessary information for a successful and enjoyable event.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from event attendees for creative networking purposes. It's an original creation using AI, not affiliated with any form platform, and can be freely used, modified, and distributed. The form has three sections: "Event Details", "Attendee Details", and "Preferences". To ensure this form is being used appropriately, I'll need to verify that it's being used for its intended purpose.
-</thinking>
-
 # Creative Networking Registration - Help Guide
 ## Purpose
 This form is designed for creative professionals and event attendees to gather necessary information to facilitate creative networking opportunities.

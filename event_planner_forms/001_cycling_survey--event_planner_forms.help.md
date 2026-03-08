@@ -1,13 +1,3 @@
-<thinking>
-We will design a form that helps gather information about cycling habits and experiences from users. The form will be called "Cycling Survey" and will have various questions related to cycling habits, including experience level, terrain difficulty, ride frequency, ride length, ride type, and more. This form will be used to gather data for analysis and improvement of cycling-related services or products.
-
-This form will be user-friendly and easy to complete. The questions will be clear and concise, with options that are easy to understand. 
-
-We will not require any sensitive information, such as personal contact details or financial information. The form will be completed in a few minutes, and users will be able to submit their answers at their own pace.
-
-Let's get started!
-</thinking>
-
 # Cycling Survey - Help Guide
 ## Purpose
 The Cycling Survey is designed to gather information about your cycling habits and experiences. This data will help us understand your needs and preferences, which will be used to improve our services and products.

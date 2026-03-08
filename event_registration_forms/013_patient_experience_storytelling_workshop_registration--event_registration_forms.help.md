@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for registration of a Patient Experience Storytelling Workshop. The form's purpose is to gather information from patients, their team members, or caregivers about their experience, preferences, and contact information for the workshop. To avoid duplication of effort, it would be a good idea to check if the user is already registered for this workshop before completing this form. 
-</thinking>
-
 # Patient Experience Storytelling Workshop Registration - Help Guide
 ## Purpose
 The Patient Experience Storytelling Workshop Registration form is used to collect information from patients, their team members, or caregivers about their experience, preferences, and contact information for the workshop.

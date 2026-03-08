@@ -1,12 +1,3 @@
-<thinking>
-The Property Assessment Form is designed to gather information about a specific property, including its address, type, age, condition, features, value, status, and price. This form is intended for users to assess and document properties in a consistent and organized manner.
-
-When filling out this form, please ensure that you are providing accurate and thorough information about the property in question. If you are unsure about any section, you can skip it or seek clarification from the property owner or a relevant expert.
-
-Before proceeding, take a moment to review the form's structure and requirements to ensure you understand what information is expected of you.
-
-</thinking>
-
 # Property Assessment Form - Help Guide
 ## Purpose
 The Property Assessment Form is a tool used to collect and document information about a property's characteristics, features, and condition. This form is essential for ensuring that properties are assessed accurately and consistently.

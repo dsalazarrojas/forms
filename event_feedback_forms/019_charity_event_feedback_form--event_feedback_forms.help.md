@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather feedback from attendees on charity events. It is intended for charity event organizers, planners, and attendees to evaluate their experience. The form is meant to be used by event participants to rate their satisfaction with the event, provide constructive criticism, and express their willingness to attend future charity events.
-
-To complete this form, attendees will have to provide some personal information (Your Name and Email Address) and details about their attendance experience (Event Name, Event Date, Attendance Type, Overall Satisfaction, Venue Rating, Content Quality, Event Organization, Value for Money). They will also have the option to provide their feedback on specific areas of improvement, mention the highlight of the event, and provide any additional comments.
-
-The form is split into two main sections: the first one collects basic information about the attendee, such as their name and email address. The second part focuses on evaluating the event, rating its organization, content, and overall experience. 
-
-</thinking>
-
 # Charity Event Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from charity event attendees, helping organizers understand their experience and identify areas for improvement.

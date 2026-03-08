@@ -1,8 +1,3 @@
-<thinking>
-This form is used for the Easter Giveaway event registration, which is a form of event registration that allows users to register for a specific event. This form ensures that users are correctly registered for the event, and provides relevant event details such as the type of event they want to participate in and any other required information.
-To ensure non-duplication of registrations, the form will be reviewed manually by the event organizers. Please fill out the form completely and accurately to avoid delays in processing your application.
-</thinking>
-
 # easter giveaway form - Help Guide
 ## Purpose
 The Easter Giveaway form is used to register for the Easter event. Please fill out the form accurately and completely to ensure that you are registered for the event.

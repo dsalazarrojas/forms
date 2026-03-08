@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to be used for registering participants in a science fair event. It captures essential information about the participant, their project, and emergency contacts. The form is not meant for multiple participants to be registered in one submission, so please ensure each submission is for a single participant. 
-
-When filling out the form, the participant's school will be requested, but it will not be checked if the participant's school is already registered. This form is meant to handle single registrations only.
-</thinking>
-
 # Science Fair Participation Enrollment Form - Help Guide
 ## Purpose
 This form is used to register participants in the science fair event. It is a one-time submission per participant.

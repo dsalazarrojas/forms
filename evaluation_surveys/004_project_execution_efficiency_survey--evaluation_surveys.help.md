@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect feedback on the efficiency of a project's execution, allowing team members and stakeholders to evaluate how well a project has been carried out. The form includes questions about various aspects of project execution, including current status, approach, quality, and outcome. The purpose of this form is to gather data on what was done right or wrong in the project, and what can be improved for future projects.
-
-When answering this form, please be as specific as possible with your answers. If you're unsure about a particular question, feel free to provide any relevant information you have, even if it doesn't fit perfectly into one of the provided options.
-
-</thinking>
-
 # Project Execution Efficiency Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on the efficiency of a project's execution.

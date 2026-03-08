@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information about a referral for a wedding caterer. It will help the user to provide details about the event, such as the venue, event date and time, guest count, and contact information. The form is used for internal purposes and will not be shared with any external parties.
-
-Please note that the form is a standard form with no specific business logic applied to it. 
-
-</thinking>
-
 # wedding_caterer_referral_form - Help Guide
 ## Purpose
 This form is used to collect information about a referral for a wedding caterer. The goal is to gather details about the event and contact information of the person referring the event.

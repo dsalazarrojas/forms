@@ -1,7 +1,3 @@
-<thinking>
-This form is likely being used to collect information from event planners to create a Father's Day stall. This form will help the planners to submit their stall details, including their name, contact information, event date, event time, event address, event location, and a brief description. The form is likely being used by event organizers to gather necessary information for the event's Father's Day celebrations. This form does not seem to be a duplicate of any other form, and its fields are well-defined and clear in their purpose.
-</thinking>
-
 # Father's Day Stall Form - Help Guide
 
 ## Purpose

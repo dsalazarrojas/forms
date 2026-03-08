@@ -1,7 +1,3 @@
-<thinking>
-...checking that the form was created using public survey topic metadata and is not affiliated with any form platform...
-</thinking>
-
 # rfi_evaluation_template - Help Guide
 ## Purpose
 The rfi_evaluation_template is a form designed to collect information about a request for information (RFI) or a customer inquiry. It is intended to gather details on a product or service, the customer's interest, and the date of the evaluation.

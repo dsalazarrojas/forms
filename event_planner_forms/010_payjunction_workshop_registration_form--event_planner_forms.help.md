@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended for registering users to a workshop organized by PayJunction. The form should help users provide their basic contact information (name and email) and details about the workshop they are interested in. The form will likely be used by the workshop organizers to keep track of attendees.
-
-The fields are designed to collect general information about the attendees without asking for any sensitive or unnecessary details. The email field is required, assuming it's a way for the workshop organizers to follow up with attendees. The phone number, company, and workshop name fields are optional. The registration date field is also optional, likely used to filter or sort the attendees by the date of their registration.
-
-The event details field can be used for any relevant additional information about the event, which can be helpful for the organizers to keep in context.
-
-</thinking>
-
 # PayJunction Workshop Registration Form - Help Guide
 ## Purpose
 This form is designed for users to register for a workshop organized by PayJunction. It collects basic contact information and event details for the organizers to keep track of attendees.

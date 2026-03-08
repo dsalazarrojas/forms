@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Prom Ticket Form - Help Guide
 
 ## Purpose

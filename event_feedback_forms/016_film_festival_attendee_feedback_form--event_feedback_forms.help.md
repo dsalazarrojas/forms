@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather feedback from film festival attendees. The purpose of this form is to collect data on the attendees' satisfaction and experiences during the festival. The data collected will be used to improve future film festival events.
-
-Before starting, let's ensure that this form is relevant and not a duplicate. If you have already submitted a feedback form for the same event, please do not submit this form again. If you have any suggestions or complaints that are not addressed in this form, please contact the festival organizers directly.
-
-</thinking>
-
 # Film Festival Attendee Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from film festival attendees, allowing us to understand their experiences and satisfaction with the event. The collected data will be used to improve future film festival events.

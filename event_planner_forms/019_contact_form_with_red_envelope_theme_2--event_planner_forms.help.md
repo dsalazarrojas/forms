@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Contact Form With Red Envelope Theme 2 - Help Guide
 
 ## Purpose

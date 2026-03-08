@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather feedback from participants about corporate team building activities. It is intended to help the organization understand the effectiveness and enjoyment level of these activities. The form should be completed by participants who have attended a corporate team building activity. Please ensure that you are providing feedback for the correct activity and not duplicating a submission. If you are unsure, please contact the activity organizer or the relevant department.
-
-</thinking>
-
 # corporate_team_building_activity_evaluation_form - Help Guide
 ## Purpose
 This form is used to gather feedback from participants about corporate team building activities. It helps the organization understand what worked well and what didn't, and to improve future team building events.

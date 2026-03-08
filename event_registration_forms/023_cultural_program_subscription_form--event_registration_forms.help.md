@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from users regarding their subscription to a cultural program. The purpose of this form is to gather essential details about the user, including their name, contact information, subscription preferences, and event frequency. This form is likely used to track and manage subscriptions within a cultural or educational program. To ensure that this form is filled out correctly, please review the following instructions and field explanations carefully. 
-
-This form may be used in a variety of contexts, such as:
-- Registering users for cultural events or programs
-- Collecting demographic information for research or marketing purposes
-- Managing subscription preferences for ongoing events or services
-
-Before filling out the form, please make sure that you are not duplicating your subscription or registration with the same information. If you are unsure about which form to fill out or if you have already submitted a similar form, please contact the program administrators for clarification.
-</thinking>
-
 # Cultural Program Subscription Form - Help Guide
 ## Purpose
 The Cultural Program Subscription Form is designed to collect information from users about their subscription to a cultural program.

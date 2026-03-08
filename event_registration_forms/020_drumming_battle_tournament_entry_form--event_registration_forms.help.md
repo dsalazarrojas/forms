@@ -1,7 +1,3 @@
-<thinking>
-The form "drumming_battle_tournament_entry_form" is designed to collect information for event participants, either solo or group. It captures personal details such as name, age, and contact information, as well as team-related details like team name, size, and leader's phone number. The form also collects payment and participation status information. It is used for events and tournaments where participants can register as solo or with a team.
-</thinking>
-
 # drumming_battle_tournament_entry_form - Help Guide
 ## Purpose
 This guide will walk you through the drumming battle tournament entry form, which is used to collect information for solo or group participants in an event.

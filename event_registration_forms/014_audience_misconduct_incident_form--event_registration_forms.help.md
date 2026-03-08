@@ -1,12 +1,3 @@
-<thinking>
-The form is designed to collect information regarding incidents or misbehaviors exhibited by audience members that need immediate attention or response from event staff. This form ensures that staff members can report such incidents in a clear and concise manner, providing essential details for prompt action to be taken.
-
-To ensure the correct use and completion of this form, please note that this guide is intended to provide a clear explanation of the form's purpose and each field's function. If you have any questions or concerns, please consult with a staff member or supervisor for further clarification.
-
-The purpose of this guide is to help staff members understand how to complete the form accurately and effectively, and what information should be provided for each field.
-
-</thinking>
-
 # Audience Misconduct Incident Form - Help Guide
 
 ## Purpose

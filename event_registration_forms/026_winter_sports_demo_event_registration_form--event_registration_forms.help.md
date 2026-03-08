@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from participants for the Winter Sports Demo Event. It is intended for individuals who are interested in joining the event as participants. The form is part of the event registration process and is meant to collect necessary details from registrants to ensure a smooth and organized event experience. Please note that this form is not for event organizers or staff members. If you are not a participant, you should not be accessing this form. Also, please ensure that you are not duplicating your registration by checking if you have already registered for the event.
-</thinking>
-
 # Winter Sports Demo Event Registration Form - Help Guide
 ## Purpose
 The Winter Sports Demo Event Registration Form is a form designed to collect information from participants for the Winter Sports Demo Event. Please fill out this form to register for the event.

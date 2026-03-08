@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect RSVP information from attendees for a Startup Demo Brunch event. The purpose of this form is to gather essential details from attendees, including their name, contact information, and responses to specific questions. This form is intended to be completed by each attendee to help the event organizers manage the event effectively.
-</thinking>
-
 # Startup Demo Brunch RSVP Form - Help Guide
 ## Purpose
 This form is designed to collect RSVP information from attendees for a Startup Demo Brunch event.

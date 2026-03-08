@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Evaluation Rubric Survey - Help Guide**
 
 **Purpose:**

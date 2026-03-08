@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide will provide a clear and concise explanation of the "Thanksgiving Survey" form, its purpose, and how to complete it. The form's purpose is to collect customer feedback and opinions about products offered to them during the Thanksgiving season. To ensure that users understand the form's significance and importance, we will break down the form into its individual sections and explain each field in a straightforward and practical manner.
 
 # Thanksgiving Survey - Help Guide

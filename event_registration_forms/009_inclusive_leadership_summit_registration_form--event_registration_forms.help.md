@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering participants for the Inclusive Leadership Summit. The purpose of this form is to collect information about the participants, their contact details, and their preferences for the summit. It is essential to fill out this form accurately to ensure that the summit organizers can provide the best possible experience for the participants. Please make sure to fill out this form carefully and provide all the required information to avoid any delays or errors in the processing of your registration. This form should not be used for other purposes than registering for the Inclusive Leadership Summit.
-</thinking>
-
 # inclusive_leadership_summit_registration_form - Help Guide
 ## Purpose
 The Inclusive Leadership Summit Registration Form is used to gather information from participants to ensure a successful and inclusive event.

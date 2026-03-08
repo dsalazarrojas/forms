@@ -1,16 +1,3 @@
-<thinking>
-**Why is this form necessary?**
-
-This form is part of a system for managing events, volunteers, and participant information. It is used to register participants for a specific event, providing a structured way to collect relevant details such as event details, participant contact information, and confirmation of terms and conditions.
-
-**Non-duplication and relevance checks:**
-
-- The form is designed to be completed by event participants to confirm their attendance and provide necessary contact information.
-- The form's fields are specifically tailored to collect information relevant to event management, such as event details and participant status.
-- The form's design ensures that participants can confirm their understanding of event terms and conditions, reducing miscommunication and potential issues.
-
-</thinking>
-
 # Human Library Participation Agreement - Help Guide
 ## Purpose
 This form is designed to help event participants register for an event and confirm their understanding of the event terms and conditions.

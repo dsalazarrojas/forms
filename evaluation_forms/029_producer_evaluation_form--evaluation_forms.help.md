@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for evaluating the quality of a crop produced by a specific producer. The purpose of this form is to gather data on the producer's performance, including their name, the name of the crop they produced, the quality of the crop, and other relevant details. This form is likely used by agricultural or farming organizations to assess and improve their operations.
-
-To fill out this form, the user will need to navigate through each page and provide information for each field. This form has multiple pages, and each page has its own set of fields. The form requires minimal information, with most fields being optional. The goal is to make the process straightforward and user-friendly.
-
-</thinking>
-
 # producer_evaluation_form - Help Guide
 
 ## Purpose

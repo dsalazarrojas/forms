@@ -1,13 +1,3 @@
-<thinking> This form is designed to collect information from participants in a team building activity, including their personal details, emergency contact information, and risk acknowledgements. It is crucial to complete this form accurately to ensure that all necessary information is captured to ensure participant safety and emergency contact details are up to date.
-
-To determine the relevance of this form, let's consider the following:
-
-* The form is designed for team building activities, which are high-risk events that require proper emergency contact information and risk acknowledgements.
-* The form captures participant personal details, such as date of birth, to verify the participant's age and categorize them as adults or minors.
-* Emergency contact information is a crucial aspect of participant safety, and this form ensures that this information is accurately captured.
-
-This form appears to be a one-time use form and doesn't have any recurring fields that would cause it to be duplicated or redundant.</thinking>
-
 # Team Building Activity Waiver Form - Help Guide
 
 ## Purpose

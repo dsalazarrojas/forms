@@ -1,15 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information from guests who attended a funeral service or viewing to help the family of the deceased stay in touch and keep them informed about upcoming events and updates. This form is a way for the family to request contact information and special messages or memories from guests who were present during the funeral.
-
-This form will likely be used by the family of the deceased to gather information about their guests and stay connected with them after the funeral. The family will use this information to reach out to guests who have provided their contact information and to share updates and announcements with guests who have expressed interest in receiving them. This information will help the family build a network of support and keep their loved one's memory alive.
-
-To ensure the form is being used correctly, please note that the fields are designed to gather specific types of information. For example, the "Attended Funeral Service" and "Attended Viewing" fields are intended to capture the specific events that guests attended. The "Special Message or Memory of Deceased" field is for guests to share their thoughts and memories of the deceased, and the "How did you hear about the funeral?" field is for guests to share how they learned about the funeral.
-
-Before filling out this form, please ensure you have permission from the family to do so, as they will be using this information to contact you.
-
-</thinking>
-
 # Funeral Place Guest Book Request Form - Help Guide
 
 ## Purpose

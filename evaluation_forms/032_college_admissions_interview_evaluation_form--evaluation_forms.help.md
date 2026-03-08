@@ -1,7 +1,3 @@
-<thinking>
-Are you ready to start creating an evaluation form that assesses the fitment of applicants to your institution? This form is a crucial tool for evaluating the performance of interviewers and applicants during the college admissions process. The College Admissions Interview Evaluation Form is designed to gather valuable insights into the strengths and weaknesses of applicants, as well as the quality of interaction between the interviewer and the applicant. By using this form, interviewers can provide a comprehensive evaluation of each applicant, making informed decisions about their suitability for admission.
-</thinking>
-
 # College Admissions Interview Evaluation Form - Help Guide
 
 ## Purpose

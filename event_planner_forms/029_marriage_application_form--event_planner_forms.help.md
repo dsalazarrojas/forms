@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather information about a wedding event. It includes details such as the date and time of the wedding, the location and attire of both the ceremony and reception, and other related information.
-
-Before starting, ensure that the form is being filled out for a specific wedding event and not for any other purpose. This form is intended for wedding events only and is not intended for other types of events or purposes.
-
-Also, ensure that you are not duplicating the effort of filling out this form, as it is intended to be filled out once for each wedding event.
-
-</thinking>
-
 # Marriage Application Form - Help Guide
 ## Purpose
 This form is designed to gather information about a wedding event.

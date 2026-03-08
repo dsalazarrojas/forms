@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # procedures_review_feedback_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and ratings on procedures performed by staff or stakeholders. It allows reviewers to evaluate the overall impression of a procedure, provide suggestions for improvement, and rate the importance and frequency of the procedure. The form also collects information on the procedure ID, date, time spent on the procedure, rating, and other relevant details.

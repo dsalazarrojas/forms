@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for event registration and participation. It is used to gather details about the event, its type, location, and time, as well as the participant's contact information. The form should only be filled out for participants who have registered for the event and are willing to participate in a breakdown event. Please ensure that you are filling out this form for the correct event and purpose. If you are unsure, contact the event organizer for clarification.
-</thinking>
-
 # Unicorn Breakdown Participation Form - Help Guide
 ## Purpose
 This form is used to collect information for event registration and breakdown participation.

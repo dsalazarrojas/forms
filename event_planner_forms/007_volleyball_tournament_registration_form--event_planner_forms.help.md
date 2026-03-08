@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from teams participating in a volleyball tournament. The form is meant to be completed by team representatives to provide their team's details, including team name, size, type, and other relevant information. The form is likely used by tournament organizers to manage team registrations and keep track of team details. It's essential to complete the form accurately and thoroughly to ensure that the team's information is correct and up-to-date.
-</thinking>
-
 # volleyball_tournament_registration_form - Help Guide
 ## Purpose
 This form is used for teams to register and provide their information for a volleyball tournament.

@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I am excited to create a user-friendly help guide for this Speed Dating Template form. After carefully reviewing the provided YAML fields, I will craft a clear and concise guide that explains the form's purpose, how to complete it, and each field's meaning in simple and practical terms.</thinking>
-
 # Speed Dating Template - Help Guide
 ## Purpose
 The Speed Dating Template is designed to help event planners organize and manage speed dating events. This form is intended for participants to provide their information, preferences, and feedback about their experiences with potential meeting partners.

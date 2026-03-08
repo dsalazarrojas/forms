@@ -1,8 +1,3 @@
-<thinking>
-We need to create a help guide for the "Musical Trivia Template" form, which appears to be a form designed to collect information related to musical knowledge and preferences. The form consists of several fields, each with a unique label and type. To ensure that the form is completed correctly, we need to clarify the purpose and usage of each field. This guide will cover the purpose of the form, how to complete it, and a detailed explanation of each field.
-
-</thinking>
-
 # Musical Trivia Template - Help Guide
 ## Purpose
 The Musical Trivia Template is a form designed to collect information about musical knowledge and preferences. It is intended to be a fun and interactive way to quiz users on their musical knowledge, connect with others who share similar interests, and explore different musical genres.

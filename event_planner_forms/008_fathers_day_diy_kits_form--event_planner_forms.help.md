@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information from customers about their orders for Fathers Day DIY Kits. The form is designed to gather details such as customer contact information, order specifics, and shipping and payment preferences. It is required for customers to provide their first name, last name, email, phone number, order details, kit type, quantity, date of purchase, delivery date, delivery time, and special instructions. Optional fields include shipping method, shipping address, and payment method.
-
-To ensure accuracy and consistency, please note that some fields are required, while others are optional. This guide will explain each field's purpose to help customers complete the form correctly.
-</thinking>
-
 # Fathers Day DIY Kits Form - Help Guide
 ## Purpose
 This form collects information from customers about their orders for Fathers Day DIY Kits, including contact details, order specifics, and shipping and payment preferences.

@@ -1,7 +1,3 @@
-<thinking>
-The Event Time Selection Survey form is designed to collect feedback from attendees on the timing of events. The form is meant to be filled out by individuals who have attended or will attend events, and will help us understand how to better schedule and time our events in the future. It's essential to complete this form accurately and thoroughly to provide valuable feedback. Please note that some fields are not required, but filling them out can provide more details about your experience.
-</thinking>
-
 # Event Time Selection Survey - Help Guide
 ## Purpose
 

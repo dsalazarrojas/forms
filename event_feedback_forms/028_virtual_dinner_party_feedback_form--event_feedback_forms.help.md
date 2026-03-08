@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Virtual Dinner Party Feedback Form - Help Guide**
 
 **Purpose**

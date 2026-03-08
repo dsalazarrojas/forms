@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to evaluate the mental health and well-being of Army soldiers, gathering information about their demographic details, reasons for the evaluation, primary concerns, symptoms, and overall functioning. This data will help clinicians and healthcare providers assess the soldier's current mental health status and recommend appropriate treatments or interventions. 
-
-This form does not require any additional internal reasoning or duplication checks.
-
-</thinking>
-
 # Army Mental Health Evaluation Form - Help Guide
 ## Purpose
 The Army Mental Health Evaluation Form is designed to provide a comprehensive assessment of a soldier's mental health status, including demographic details, reasons for evaluation, primary concerns, symptoms, and overall functioning. This form helps clinicians and healthcare providers make informed decisions about treatment and intervention.

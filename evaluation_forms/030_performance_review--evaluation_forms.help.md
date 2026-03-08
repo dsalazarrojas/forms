@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to help managers and supervisors conduct a regular performance review of their employees. This form is meant to be a systematic way to evaluate an employee's work performance over a specific period. Please fill out this form only if you are a manager or supervisor looking to conduct a performance review, as it contains sensitive information about an employee's performance.
-
-To ensure the form is filled out correctly and accurately, please make sure to:
-- Only fill out this form as a manager or supervisor.
-- Make sure you have the necessary permissions or approvals before filling out this form.
-- Review the form carefully and fill out all required fields.
-- Use the correct dates for the review period.
-</thinking>
-
 # Performance Review - Help Guide
 ## Purpose
 The Performance Review form is designed to help managers and supervisors evaluate an employee's work performance over a specific period. It's meant to be a helpful tool to identify areas of improvement and provide feedback for growth and development.

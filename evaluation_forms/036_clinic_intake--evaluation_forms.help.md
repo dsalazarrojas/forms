@@ -1,9 +1,3 @@
-<thinking>
-The form "Clinic Intake" is used to collect information from clients about their personal details, allergies, and service goals. This form is part of the evaluation process to ensure the client's comfort and suitability for the services provided by the clinic.
-To prevent duplication of information, please ensure that you do not fill out this form if you have already been evaluated by us before.
-Please be honest and accurate when providing information, as this will help us provide the best possible services for you.
-</thinking>
-
 # Clinic Intake - Help Guide
 ## Purpose
 The Clinic Intake form is used to gather essential information from clients about their personal details, allergies, and service goals. This form is a crucial part of the evaluation process, ensuring the client's comfort and suitability for the services provided by the clinic.

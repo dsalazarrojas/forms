@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's clarify that this form is designed for booking a cultural immersion workshop, which is a program that allows participants to engage in a cultural experience with locals in a foreign country or region. This form is used to gather information from users who want to book a spot in this workshop. The form consists of multiple pages with various fields that need to be filled out. Please make sure you understand the purpose of this form and the required information before proceeding.</thinking>
-
 # Cultural Immersion Workshop Booking Form - Help Guide
 ## Purpose
 This form is designed to gather information from users who want to book a spot in a cultural immersion workshop. The purpose of this form is to ensure that the user's preferences and requirements are captured accurately, which helps the workshop organizers to tailor the experience to suit their needs.

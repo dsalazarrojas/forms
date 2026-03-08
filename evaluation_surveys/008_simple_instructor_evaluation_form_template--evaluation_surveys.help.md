@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and evaluations from students regarding a course or instructional experience. The form is meant to be completed by students who have taken a course or received instruction from a specific instructor or professor. The form will ask for general feedback and ratings on various aspects of the course or instruction, including the instructor, course materials, structure, and overall evaluation. This form is intended for internal use and does not require any sensitive or sensitive information from students. It is a survey form to improve the quality of courses and instructional experiences.
-</thinking>
-
 # <string> - Help Guide
 
 ## Purpose

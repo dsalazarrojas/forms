@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to capture information for the "Heart Health Seminar Registration" and is intended for attendees to provide their personal details, event preferences, and consent for further contact. It is essential to ensure that the form is filled out correctly to avoid duplication and ensure accurate registration. The form should only be completed once, and the information provided should be accurate and complete.</thinking>
-
 # Heart Health Seminar Registration - Help Guide
 ## Purpose
 The Heart Health Seminar Registration form is used to collect information from attendees for the "Heart Health Seminar". This includes event title, event category, attendee name, email address, phone number, date of birth, event date, and other relevant details.

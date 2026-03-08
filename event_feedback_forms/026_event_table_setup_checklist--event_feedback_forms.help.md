@@ -1,12 +1,3 @@
-<thinking>
-The Event Table Setup Checklist form appears to be a tool used to gather information about an event's setup details. To confirm, the form will ask about the presence of event planners, the number of event table details, event setup dates and times, setup locations, and event table setup responsibilities and tasks. It may also ask if the event table setup checklist is complete. 
-
-The form will likely be used by event organizers or coordinators to ensure that all necessary information is collected before the event starts. 
-
-Before completing this form, please ensure you are familiar with the event's specific requirements and have access to the necessary information. If you're unsure about any of the fields, double-check the event's documentation or consult with the event organizers.
-
-</thinking>
-
 # Event Table Setup Checklist - Help Guide
 ## Purpose
 This form helps event organizers ensure that all necessary information for the event table setup is collected and complete.

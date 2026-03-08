@@ -1,11 +1,3 @@
-<thinking>
-The internal reasoning for the form purpose is as follows:
-
-This form is used to collect general mountaineering camp applications from users. The form has a variety of fields that cater to different aspects of the application process, such as personal details (name, email, phone number), event planning (event date and time), mountaineering camp selection, and additional comments.
-
-This form is likely used for administrative tasks within the mountaineering camp organization, ensuring that all necessary information is collected and recorded for further processing.
-</thinking>
-
 # General Mountaineering Camp Application Form - Help Guide
 ## Purpose
 This form is used to collect general mountaineering camp applications from users. The form has a variety of fields that cater to different aspects of the application process, such as personal details, event planning, and mountaineering camp selection.

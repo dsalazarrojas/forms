@@ -1,7 +1,3 @@
-<thinking>
-We're creating a form for performance venue partnership applications. This form is intended for artists and venues interested in partnering for events or performances. The main goal of the form is to gather essential information from applicants and provide a way for the partnership coordinators to evaluate and manage these applications.
-</thinking>
-
 # Performance Venue Partnership Application Form - Help Guide
 ## Purpose
 The Performance Venue Partnership Application Form is designed to collect information from artists and venue partners who want to collaborate for events or performances. This guide will walk you through each field and how to fill out the form accurately.

@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of the "City Year Event Proposal Form" is to collect information about community engagement events, allowing organizers to propose new events for consideration. This form is intended for individuals or groups within the City Year organization, where they can submit detailed proposals with all relevant event information. 
-
-To avoid non-duplication and ensure consistency, users should carefully review the form before submitting it. Ensure that all required fields are completed accurately and thoroughly, and that each event proposal meets the City Year event planning guidelines and requirements.
-
-The "City Year Event Proposal Form" serves as a template for planning, reviewing, and implementing city-wide events, providing a structured approach for event organizers to submit and track their proposals.
-
-</thinking>
-
 # City Year Event Proposal Form - Help Guide
 ## Purpose
 The "City Year Event Proposal Form" is a tool for submitting community engagement events for consideration. It helps event organizers provide detailed proposals, including event title, description, target audience, date, time, venue, budget, and resource requirements.

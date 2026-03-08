@@ -1,11 +1,3 @@
-<thinking>
-**Checking for relevance and non-duplication**
-
-Granny Home Survey is a form designed to gather feedback and opinions from users regarding the construction and use of granny flats, a small additional dwelling unit often built on a property. The form is used to understand the user experience and gather insights on factors such as the quality of the flat, the investment and return on investment, and the complexity of the installation process.
-
-Before proceeding, please ensure that this form is relevant to your needs and hasn't been completed recently. If you've already completed this form, your feedback is likely already on record.
-</thinking>
-
 # Granny Home Survey - Help Guide
 ## Purpose
 The Granny Home Survey is a form designed to gather feedback and opinions from users regarding the construction and use of granny flats. This form will help us understand your experience with building and using a granny flat, including its quality, investment, and installation process.

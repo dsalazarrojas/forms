@@ -1,6 +1,3 @@
-<thinking>This form is intended for assessing candidates or individuals after an interview. It allows users to collect information about the candidate, their contact details, the interview details, their assessment, and any feedback they might have. The form is designed to be simple and easy to fill out, requiring only text responses for each field. The purpose of this form is to gather data that can be used for future reference or to evaluate the candidate's performance. It is not associated with any proprietary form platforms, and the design is inspired by public survey metadata, making it a unique adaptation. Please note that this form is released under a Creative Commons license, allowing for free use, modification, and even commercialization while attributing credit.</thinking>
-
-
 # Interview Assessment Form - Help Guide
 ## Purpose
 The form is used for assessing candidates after an interview.

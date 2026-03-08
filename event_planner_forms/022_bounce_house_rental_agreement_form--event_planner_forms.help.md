@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Bounce House Rental Agreement Form - Help Guide
 ## Purpose
 This form is a rental agreement for bounce houses and other inflatable play equipment. It is designed to gather information from renters to ensure a safe and successful event. The form is used to collect details about the event, including the date, location, and number of guests expected. It also includes sections for liability waiver and payment details.

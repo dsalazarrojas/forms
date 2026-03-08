@@ -1,8 +1,3 @@
-<thinking>
-This form is used for users to register their interest in attending a cultural festival. It collects information about the user's event preferences, participant details, contact information, and other relevant details. This form helps the festival organizers to get a clear picture of who is interested in attending the festival and what they are interested in. Please ensure that you fill in the form accurately to avoid any confusion or miscommunication during the festival planning process. 
-
-</thinking>
-
 # Cultural Festival Reservation Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from users about their interest in attending a cultural festival. It helps the festival organizers to get an overview of who is interested in attending and what they are interested in, ensuring a smooth and enjoyable experience for all participants.

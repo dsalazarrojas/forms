@@ -1,7 +1,3 @@
-<thinking>
-This form is used for evaluating and scoring participants in the karaoke contest. This guide is meant to ensure that users understand how to accurately and efficiently complete the form. Please note that this form is designed to collect scores and notes for multiple participants, and the field names may be repeated or similar. This guide will clarify the meaning and purpose of each field to prevent confusion.
-</thinking>
-
 # Karaoke Contest Judging Form - Help Guide
 ## Purpose
 This form is used to collect scores and notes for the karaoke contest participants. It is designed to be completed by judges who will evaluate and score participants based on their performances.

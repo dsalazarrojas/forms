@@ -1,14 +1,3 @@
-<thinking>
-This form is intended for general contact purposes, likely as a support or inquiry form on a website or other digital platform. It allows users to input their information for a response from a contact person or team. The fields are self-explanatory and include:
-- A first name, which can be optional for users who don't want to share their real name.
-- An email, which should be a valid email address for communication purposes.
-- A phone number, which can be optional but may aid in response if needed.
-- A company name, which is optional but can help identify the user's affiliation.
-- A message, which is a note field where users can provide more information about their inquiry.
-- A department selection, which allows users to choose who to contact within the organization.
-
-</thinking>
-
 # Fancy Envelope Contact Form - Help Guide
 ## Purpose
 This form is for users to submit general contact information or inquiries.

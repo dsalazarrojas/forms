@@ -1,8 +1,3 @@
-<thinking>
-This guide is being used to check for relevance and non-duplication.
-The form is intended to be used for medical professionals to record and track patient heart rate information. This information is likely to be used for further medical evaluation, diagnosis, and treatment. The form will help medical staff to gather accurate and complete data about patient heart rates, which will be helpful for patient care and treatment planning. I assume that this form will be used in a healthcare setting where medical professionals and patients need to record and track their heart rates, but further validation is required.
-</thinking>
-
 # Heart Rate - Help Guide
 ## Purpose
 The Heart Rate form is used for medical professionals to collect and record heart rate information from patients. This information is essential for further medical evaluation, diagnosis, and treatment planning.

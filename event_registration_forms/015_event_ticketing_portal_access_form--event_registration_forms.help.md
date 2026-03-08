@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect event registration information, including event organizer and attendee details, ticket type and quantity, and additional notes. 
-The form's main purpose is to create a streamlined process for users to access the event ticketing portal. 
-This form will be used by event organizers and attendees to provide information about the event and their preferences.
-</thinking>
-
 # event_ticketing_portal_access_form - Help Guide
 ## Purpose
 This form is designed to collect event registration information from event organizers and attendees. It helps to streamline the process of accessing the event ticketing portal.

@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a user-facing help guide that explains the purpose of the form, how to complete it, and what each field means. This form is for the "Preventive Medicine Innovation Summit Registration" and will help guide end-users through each field and provide tips for a smooth and error-free completion of the form.</thinking>
-
 # Preventive Medicine Innovation Summit Registration - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from participants in an e-sports tournament. The form is used to gather details about the participant, their registration, and payment information. It's essential to complete this form accurately to ensure a smooth and efficient registration process. Before filling out this form, please ensure you have all the necessary information ready. If you've already completed this form or have any duplicate records, you may need to revisit your previous submission and update it accordingly.
-</thinking>
-
 # e_sports_tournament_payment_form - Help Guide
 ## Purpose
 The e_sports_tournament_payment_form is used to collect participant information, registration details, and payment details for an e-sports tournament.

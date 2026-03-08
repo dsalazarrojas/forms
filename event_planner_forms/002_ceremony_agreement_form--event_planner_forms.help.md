@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from event organizers about the ceremony agreement for an event. This form is intended to capture details about the ceremony, including the event title, organizer's contact information, date, venue, estimated guest count, and payment terms. The purpose of this form is to establish a clear understanding between the event organizer and attendees about the event's logistics and financial expectations.
-</thinking>
-
 # Ceremony Agreement Form - Help Guide
 ## Purpose
 The Ceremony Agreement Form is a document that helps establish a clear understanding between the event organizer and attendees about the event's logistics and financial expectations.

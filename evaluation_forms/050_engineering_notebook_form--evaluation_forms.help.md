@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate the collection of meeting notes, ideas, sketches, team attendance, report, objectives, and reflections from engineers and other stakeholders in a meeting setting. The purpose of this form is to provide an overview of the meeting proceedings, identify key ideas, and capture any relevant documentation such as sketches and team attendance. It is a tool for the meeting attendees to share their thoughts, insights, and feedback in a clear and concise manner.
-</thinking>
-
 # Engineering Notebook Form - Help Guide
 
 ## Purpose

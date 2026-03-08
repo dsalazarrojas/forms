@@ -1,13 +1,3 @@
-<thinking>
-This form is for users who are interested in hosting a Halloween Trunk or Treat event for their community or organization. This form is designed to gather information from potential hosts to help them get started with planning their event. The form should only be used by people who are seriously interested in hosting an event, and not by those who are just browsing or looking for general information.
-
-To avoid duplication of efforts, please check if someone has already submitted an interest form for a similar event in the past. If you're unsure, please contact the event team for guidance.
-
-This form will be used to collect relevant details about the event, such as date, time, location, and contact information, so that the event team can get in touch with the host and provide support and resources for a successful event.
-
-Please make sure to fill out the form thoroughly and accurately, as this information will be used to coordinate and execute the event.
-</thinking>
-
 # Halloween Trunk Or Treat Event Interest Survey - Help Guide
 ## Purpose
 This form is for users who are interested in hosting a Halloween Trunk or Treat event for their community or organization. The form is designed to collect information from potential hosts to help them get started with planning their event.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # winter_event_inventory_request_form - Help Guide
 ## Purpose
 

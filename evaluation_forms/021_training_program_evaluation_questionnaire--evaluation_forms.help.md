@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for evaluating the effectiveness and quality of a training program. It is meant to collect feedback from participants on various aspects of the program, such as overall satisfaction, program rating, and areas for improvement. To determine if this form is being filled out correctly and not duplicated, it's essential to ensure that the form is being completed by the same person for each training program being evaluated. This form should not be filled out multiple times for the same program.
-</thinking>
-
 # Training Program Evaluation Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback on the effectiveness and quality of a training program. It consists of 15 questions that cover various aspects of the program, including overall satisfaction, program rating, and areas for improvement.

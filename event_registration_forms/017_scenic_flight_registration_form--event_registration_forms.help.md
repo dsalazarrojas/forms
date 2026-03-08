@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Scenic Flight Registration Form - Help Guide
 
 ## Purpose

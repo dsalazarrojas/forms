@@ -1,6 +1,3 @@
-<thinking>
-We will create a user-facing help guide that explains the purpose and requirements of the "Post Christmas Party Survey" form, which is part of the "event_feedback_forms" category. This form is designed to collect feedback and suggestions from participants about their experience at a Christmas party. To ensure that users understand the form's purpose and how to complete it effectively, we will clearly explain each field and its corresponding label. We will also verify that the form's fields are complete and do not overlap or duplicate any other fields.</thinking>
-
 # Post Christmas Party Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and suggestions from participants about their experience at a Christmas party.

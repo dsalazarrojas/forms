@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Christmas Cheer Program Application Form - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-  This form is primarily used for validating the email address of attendees who are attending a webinar. 
-  It is designed to ensure that the provided email is correctly formatted and does not contain any errors. 
-  The form will check the entered email against a pre-defined list of validation rules (options in the "Email Validation" field). 
-  This helps to prevent spam and ensures that attendees receive important information correctly.
-  Note: The form is not intended for registration purposes; it is meant for validation only.
-  To the best of my knowledge, there is no requirement for the form to be completed multiple times; a single validation is sufficient.
-</thinking>
-
 # Webinar Attendee Email Validation Form - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the Webinar Attendee Email Validation Form. The form is designed to validate the email address of attendees who are attending a webinar.

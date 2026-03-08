@@ -1,8 +1,3 @@
-<thinking>
-**Internal Note:** Before proceeding with this guide, double-check that the form purpose is to evaluate the effectiveness and satisfaction of the Buddy Program, and that it does not duplicate any existing forms or surveys in your organization.
-
-</thinking>
-
 # Buddy Program Evaluation - Help Guide
 ## Purpose
 This form is designed to gather feedback from participants and Buddies in the Buddy Program to assess the effectiveness and overall satisfaction of the program. Your input will help us identify areas of improvement and strengths of the program.

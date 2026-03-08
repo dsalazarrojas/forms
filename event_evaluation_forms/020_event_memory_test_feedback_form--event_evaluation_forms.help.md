@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to capture feedback on the event memory test, which is an evaluation tool used to gauge an individual's memory abilities. The form is used to collect data on the test's difficulty level, test format, test length, and other relevant factors. This form is likely to be used by administrators or researchers to assess the test's effectiveness and make improvements for future tests.
-
-Please ensure that you are not completing this form for a test that you have not taken, as this would be a duplicate evaluation. If you have already completed the form for this test, please do not complete it again. 
-
-</thinking>
-
 # Event Memory Test Feedback Form - Help Guide
 ## Purpose
 The Event Memory Test Feedback Form is designed to collect feedback on the event memory test, used to gauge an individual's memory abilities.

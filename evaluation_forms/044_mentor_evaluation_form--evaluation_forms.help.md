@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mentor Evaluation Form - Help Guide
 ## Purpose
 This form is used to evaluate the performance and effectiveness of a mentor in their role. The form is designed to collect feedback on the mentor's strengths, areas for improvement, and overall performance. 

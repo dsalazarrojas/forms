@@ -1,17 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for an "Employee Achievement Ceremony Registration" form. This form is likely used for employees to RSVP and provide information about their attendance at an Employee Achievement Ceremony. To ensure the form is completed accurately and effectively, the guide should clearly explain the form's purpose, the step-by-step process to complete it, and what each field represents. This will help reduce errors and ensure the form is filled out correctly.
-
-The form is likely used to gather information about an employee's attendance and relationship with the guest(s) they are attending the ceremony with. The "rsvp_status" and "rsvp_by" fields seem to relate to the employee's attendance status and how they will be RSVPing, while the "guest_name" and "guest_relationship" fields are likely used to provide more details about the guest(s) attending the ceremony. The "message" field is a free-text field for employees to share any additional comments or information about their attendance or guest.
-
-Before creating the guide, let's assume the following:
-
-* The form is used to register for an Employee Achievement Ceremony, which is likely a special event where employees receive awards or recognition for their achievements.
-* The event may have a limited capacity, so RSVPing is important to ensure accurate headcount.
-* Employees may be attending with guests, and the form should collect their names and relationships to the employee.
-
-With these assumptions, we can create a clear and concise help guide to assist employees in completing the form accurately and effectively.
-</thinking>
-
 # Employee Achievement Ceremony Registration - Help Guide
 ## Purpose
 The Employee Achievement Ceremony Registration form is used to RSVP and provide information about your attendance at the Employee Achievement Ceremony. Please fill out this form to help us plan the event accurately.

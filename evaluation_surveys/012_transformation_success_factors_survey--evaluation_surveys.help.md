@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a transformation project, including contact details, project status, start and end dates, and other relevant factors. This form is likely used by project management or team members to track and evaluate the progress of transformations within an organization.
-</thinking>
-
 # Transformation Success Factors Survey - Help Guide
 ## Purpose
 The Transformation Success Factors Survey is a form used to collect information about transformation projects, including contact details, project status, start and end dates, and other relevant factors.

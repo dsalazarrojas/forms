@@ -1,5 +1,3 @@
-<thinking>Before we dive into the form help guide, let's briefly discuss the form's purpose and relevance. This form is designed for capturing event planning quotes from clients. It's a crucial document for event planners to provide details about the event, including its location, date, start and end times, duration, and payment terms. The form also collects information about the event planner's contact details. By filling out this form, event planners can ensure that they have all the necessary information to provide accurate quotes to their clients. This form is intended to be used for events that have specific requirements such as location, date, start and end times, and payment terms. If the event requires any additional information not covered in this form, the "Event Booking Form Other" fields can be used to include it.</thinking>
-
 # Event Planning Quote Form Template - Help Guide
 ## Purpose
 The Event Planning Quote Form Template is a guide for event planners to provide accurate quotes to their clients. It captures essential information about the event, payment terms, and event planner's contact details.

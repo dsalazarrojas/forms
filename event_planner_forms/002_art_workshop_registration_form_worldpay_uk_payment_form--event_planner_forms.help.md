@@ -1,16 +1,3 @@
-<thinking>
-This form is used to register participants for an art workshop. The form gathers information about the participant, including their name, email address, phone number, selected workshop, preferred workshop date, experience level, age group, number of attendees, special requests or accommodations, dietary requirements, registration fee amount, payment method, terms of agreement, and how they heard about the workshop. This form is designed to collect all necessary information for a smooth and efficient registration process. 
-
-To avoid duplication, please ensure that you have checked for any existing forms with the same purpose and similar requirements before filling this form. 
-
-Please note that this form is intended for individual registration. If multiple participants are registering together, please fill out this form for each participant separately. 
-
-This form is not designed for group or bulk registrations. 
-
-Please ensure that you fill out this form accurately and completely to ensure a successful registration process.
-
-</thinking>
-
 # Art Workshop Registration Form WorldPay UK Payment Form - Help Guide
 
 ## Purpose

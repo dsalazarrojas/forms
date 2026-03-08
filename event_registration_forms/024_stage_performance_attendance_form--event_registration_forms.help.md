@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about stage performances, allowing users to register their attendance for specific events, performances, and other relevant details. To ensure accurate and consistent data collection, please ensure you only submit this form once per event. Please do not submit multiple forms for the same event unless you have made significant changes to your attendance or performance selections.
-</thinking>
-
 # Stage Performance Attendance Form - Help Guide
 ## Purpose
 This form helps event organizers track attendance and performance details for stage events. It collects information about the event, performance, and attendee's status (attendance and submitted date/time).

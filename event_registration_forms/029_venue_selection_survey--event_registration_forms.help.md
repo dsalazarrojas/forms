@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to gather information about events, specifically regarding the selection of venues. The form has several fields that cover various aspects of the venue, such as whether an event will be held, its date, start and end times, name, address, capacity, and rating. 
-
-The main purpose of the form is to collect event details so that they can be used for planning and organization.
-
-There should be no duplication of effort in filling out the form, as it is a one-time data collection form.
-
-This form is intended to be filled out by individuals responsible for planning and organizing events.
-
-</thinking>
-
 # venue_selection_survey - Help Guide
 ## Purpose
 This form is designed to collect information about events, specifically regarding the selection of venues. It helps in planning and organization of events.

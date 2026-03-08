@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to register attendees for the Smart Access Control Workshop, a training event for professionals in the access control industry. The form collects relevant information about the attendees, including their name, role, preferred start and end dates, topic interest, assigned tool, and email address. This form is intended to facilitate the registration process for the workshop and ensure that all necessary information is collected from attendees. To prevent duplicate submissions, this form is not intended to be filled out multiple times. 
-
-</thinking>
-
 # Smart Access Control Workshop Registration - Help Guide
 ## Purpose
 The purpose of this form is to collect registration information from attendees for the Smart Access Control Workshop.

@@ -1,26 +1,3 @@
-<thinking>
-The goal of this form is to assist users in booking voice dubbing sessions. To achieve this, it collects necessary information from the users regarding the session details, date and time, type of session, dubber details, and submission. 
-
-The internal reasoning block checks for the form's purpose and non-duplication. The form has the following fields:
-- session_details: 
-    - This field is for users to input any additional details regarding their session.
-    - This field is not required, allowing users to proceed with the submission even without inputting any extra details.
-- Select Date Time: 
-    - Users are provided with a dropdown menu to select a date and time for their session.
-    - This field is not required, implying users may choose not to select a specific date and time or select a different date and time not provided in the options.
-- Session Type: 
-    - Users can choose between Single Session and Multiple Sessions in the dropdown menu.
-    - This field is not required, allowing users to proceed with the submission even without selecting a session type.
-- Dubber Details: 
-    - This field is a text input for users to provide more details about their dubber.
-    - This field is not required, allowing users to proceed with the submission even without inputting any extra details.
-- Submit:
-    - This field is for users to initiate their session booking submission.
-    - This field is not required, implying users may choose not to submit the session.
-
-The form is designed to be flexible, allowing users to input or skip fields based on their preferences.
-</thinking>
-
 # Voice Dubbing Session Booking Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help event planners collect information about party planning details in a structured and organized manner. The form is intended to guide planners in gathering essential information such as guest list, date, time, location, and other party-related details. The purpose of this form is to ensure that all the necessary elements are considered and planned for a successful event.
-</thinking>
-
 # Party Planning Checklist - Help Guide
 ## Purpose
 This form is designed to gather information about party planning details to ensure a successful event.

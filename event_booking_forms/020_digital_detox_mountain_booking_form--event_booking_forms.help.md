@@ -1,5 +1,3 @@
-<thinking>...the form "digital_detox_mountain_booking_form" is used to book a mountain accommodation in a Digital Detox program. It is crucial to ensure that the form is filled in accurately to ensure correct booking status and accommodation availability. Before proceeding, please ensure that you have checked the availability of the accommodation and confirmed the booking details with the program administrators. If you are unsure about any of the form fields, do not hesitate to ask for assistance...</thinking>
-
 # digital_detox_mountain_booking_form - Help Guide
 ## Purpose
 This form is used to book a mountain accommodation in a Digital Detox program. It is essential to provide accurate information to ensure the correct booking status and accommodation availability.

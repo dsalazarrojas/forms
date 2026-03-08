@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to perform a Risk Reward Analysis, a method for evaluating potential risks and rewards associated with a project. This form is used to gather information about the risks and benefits of a project, and to help project managers and stakeholders make informed decisions about resource allocation and project prioritization.
-
-Before using this form, please make sure you have a clear understanding of the project's goals and objectives. This form is not intended for duplicate or redundant entry of information. Each field should be filled out once for each project.
-
-</thinking>
-
 # Risk Reward Analysis Form - Help Guide
 ## Purpose
 The Risk Reward Analysis Form is a tool used to evaluate potential risks and rewards associated with a project. It helps project managers and stakeholders make informed decisions about resource allocation and project prioritization.

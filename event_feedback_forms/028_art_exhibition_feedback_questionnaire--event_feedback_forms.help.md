@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from visitors about their experience at the art exhibition. This feedback will help us understand how to improve the overall visitor experience and make necessary adjustments to our exhibition spaces.
-Before starting, let's make sure you're not submitting feedback for this form multiple times. If you've already provided feedback, please do not fill out this form again.
-This form is designed to be completed in a few steps, and each field is labeled with a clear explanation of what it's for.
-Please take a few minutes to fill out the form, and don't hesitate to provide any feedback you think will help us improve.
-</thinking>
-
 # Art Exhibition Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback from visitors about their experience at the art exhibition. Your input will help us understand what we're doing well and where we can improve.

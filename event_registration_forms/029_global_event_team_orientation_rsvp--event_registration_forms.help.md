@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Global Event Team Orientation RSVP - Help Guide
 ## Purpose
 This form is used to register event team members for a global event team orientation. The form is designed to collect information about the team members' details, roles, session preferences, special requirements, attendance, and other relevant information.

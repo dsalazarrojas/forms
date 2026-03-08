@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from participants for the Colorado Mountain Club Trekking event. The form gathers personal details, emergency contact information, trek selection, and payment details. It's essential to fill out the form accurately to ensure that the participant's experience is safe and enjoyable. Please note that this form is not for duplicate or multiple registrations; each participant must fill out a separate form. Please make sure to fill out the form according to your actual needs and circumstances.
-
-</thinking>
-
 # Colorado Mountain Club Trekking Registration Form WorldPayUS Payment Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information for the Colorado Mountain Club Trekking event participant's registration.

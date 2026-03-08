@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback and evaluations from users about science centers. This form is likely used by science center staff to gauge user satisfaction and identify areas for improvement. Before starting, ensure you have filled out the form completely and accurately, as this will help the science center team make informed decisions. This form should only be completed once per visit/event. If you have already completed this form, please do not submit it again.</thinking>
-
 # science_center_evaluation_form - Help Guide
 ## Purpose
 The science center evaluation form is designed to gather feedback and evaluations from users about their experience at the science center. This form helps the science center staff to understand what they are doing well and what areas need improvement.

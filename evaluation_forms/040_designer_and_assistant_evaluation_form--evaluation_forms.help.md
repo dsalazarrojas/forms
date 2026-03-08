@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback on the performance and behavior of designers and their assistants. This form aims to identify areas of improvement and ensure that both designers and assistants are meeting the expected standards. It is essential to complete this form honestly and thoroughly, as the feedback collected will directly impact the development and growth of both designers and their assistants. Please note that this form should only be completed once per individual, and any duplicate submissions may cause confusion and inaccuracies in the feedback analysis process.
-</thinking>
-
 # Designer And Assistant Evaluation Form - Help Guide
 
 ## Purpose

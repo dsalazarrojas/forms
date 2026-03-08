@@ -1,9 +1,3 @@
-<thinking>
-  This form is intended for nominating online series for an award in the online series category. 
-  It collects contact information, series details, quality and impact assessment, and justification for the nomination. 
-  Please ensure that the series you are nominating has not been previously nominated for this award to avoid duplication of effort.
-</thinking>
-
 # Best Online Series Nomination Form - Help Guide
 
 ## Purpose

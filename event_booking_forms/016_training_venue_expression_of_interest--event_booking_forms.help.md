@@ -1,9 +1,3 @@
-<thinking>
-This form is for users to express their interest in booking a training venue. The form is intended for users to provide detailed information about the venue they are interested in booking. It's crucial that the user fills in all required fields accurately and thoroughly to ensure a successful booking process. Please note that this form may be used in conjunction with other forms or systems to prevent duplicate bookings or ensure consistency in the data provided.
-
-To ensure a smooth and efficient booking process, please fill in the form accurately and completely. If you have any questions or concerns, please reach out to the contact person listed below.
-</thinking>
-
 # Training Venue Expression Of Interest - Help Guide
 ## Purpose
 This form is designed to gather information from potential clients about their interest in booking a training venue. It helps us understand their needs and preferences, which we will use to provide a tailored and suitable venue for their events.

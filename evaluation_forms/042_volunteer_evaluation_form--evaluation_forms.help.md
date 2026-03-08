@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a comprehensive user-facing help guide for the Volunteer Evaluation Form. This guide will cover the form's purpose, how to complete it, and a field-by-field explanation of each section. Please note that the form is designed to be a generic evaluation form, and its purpose is to collect feedback and evaluations from volunteers. The form consists of 17 text fields, each asking different questions related to the volunteer's experience.</thinking>
-
 # Volunteer Evaluation Form - Help Guide
 ## Purpose
 The Volunteer Evaluation Form is designed to collect feedback and evaluations from volunteers about their experiences. This form helps us understand their needs, concerns, and suggestions for improvement. Please complete this form to provide us with your honest feedback.

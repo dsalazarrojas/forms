@@ -1,10 +1,3 @@
-<thinking>
-We need to create a help guide for a form called "sustainable_food_systems_workshop_registration_form". This form is likely used for users to register for a workshop or seminar on sustainable food systems. The form has multiple sections and fields to gather information from users. We can assume that the form is used for internal purposes and the fields are designed to collect relevant data.
-
-To create the help guide, we will follow the instructions to the letter. We will use Markdown structure and focus on providing clear and concise explanations for each field.
-
-</thinking>
-
 # sustainable_food_systems_workshop_registration_form - Help Guide
 ## Purpose
 The sustainable food systems workshop registration form is designed to collect information from users interested in attending the workshop. This form helps us understand your interests and needs, which enables us to provide a better experience for you and other participants.

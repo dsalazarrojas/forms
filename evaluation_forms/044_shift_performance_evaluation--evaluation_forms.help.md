@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Shift Performance Evaluation - Help Guide
 ## Purpose
 This form is used to evaluate the performance of employees on a shift. It helps supervisors and team leaders assess an employee's productivity, efficiency, and quality of work during a specific shift. The form captures important information such as employee ID, shift date, supervisor ID, performance rating, feedback, action items, notes, and email address.

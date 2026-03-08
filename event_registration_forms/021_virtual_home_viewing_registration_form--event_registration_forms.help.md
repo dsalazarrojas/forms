@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect registration information from potential buyers for virtual home viewing sessions. This form is used to gather details about the buyer, their preferred viewing date and time, preferred viewing method, and other relevant information that will help us better understand their needs and preferences.
 
 To ensure accurate and relevant information is collected, please review the form fields below.

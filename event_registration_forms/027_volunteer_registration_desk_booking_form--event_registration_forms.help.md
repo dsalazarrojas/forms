@@ -1,5 +1,3 @@
-<thinking>This form, titled "Volunteer Registration Desk Booking Form," is designed for volunteers and staff members to register for events. The form gathers essential information for event organizers to manage volunteer assignments, track attendance, and communicate with registered individuals. This form should only be used for event registration and not for general contact or inquiry purposes. Please ensure you have an existing account to log in before proceeding. Also, be aware that this form may not be available in all languages, and some fields may not be translated correctly. Please fill out the form accurately to ensure smooth event organization and communication.</thinking>
-
 # volunteer_registration_desk_booking_form - Help Guide
 ## Purpose
 The "volunteer_registration_desk_booking_form" is a form designed to collect information from volunteers and staff members for event registration and management purposes.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to provide a clear and concise explanation of the Campus Scheduling Form. The form is a crucial tool for campus organizations to request space and amenities for their events. It ensures that all necessary information is collected in order to efficiently process and approve event requests. To prevent duplication and overlapping events, it's essential to fill out the form carefully and accurately. This guide will walk you through each field of the form to make sure you complete it correctly and effectively.
-</thinking>
-
 # Campus Scheduling Form - Help Guide
 ## Purpose
 The Campus Scheduling Form is designed for campus organizations to schedule events, requesting space and amenities as needed. By filling out this form, you will be able to specify event details, requirements, and preferences.

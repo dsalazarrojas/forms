@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # sports_t_shirt_order_form - Help Guide
 ## Purpose
 The sports t-shirt order form is a tool for sports teams to collect information about their merchandise orders. It is intended for teams to provide the necessary details for ordering sports t-shirts. 

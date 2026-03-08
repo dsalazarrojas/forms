@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # RSVP Communication Form - Help Guide
 ## Purpose
 The RSVP Communication Form is used to gather information from guests about their plans to attend an event. This form helps event organizers communicate with guests and track responses in a centralized way.

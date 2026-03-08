@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect attendee registration information for a content creation masterclass. It gathers personal details, learning objectives, and preferences for the event. The form is meant to be filled out by individuals interested in attending the masterclass, who will be asked to provide their contact information, preferences, and payment details.
-</thinking>
-
 # Content Creation Masterclass Registration Form - Help Guide
 
 ## Purpose

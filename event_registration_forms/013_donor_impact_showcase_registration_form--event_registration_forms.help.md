@@ -1,10 +1,3 @@
-<thinking> 
-This form is designed to collect information about a donor's impact, likely for a charity or non-profit organization. The purpose of this form is to gather details about an event where a donor's contribution had a significant impact. The form is meant to be completed by the donor or their representative.
-
-To avoid duplication, the form is not intended for recurring events or events that have already been registered. The form should only be used for new, unique events where the donor's impact is significant.
-
-</thinking>
-
 # Donor Impact Showcase Registration Form - Help Guide
 ## Purpose
 The Donor Impact Showcase Registration Form is designed to collect details about events where a donor's contribution has had a significant impact. This information will be used to showcase the positive effects of the donor's generosity.

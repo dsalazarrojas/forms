@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The FSC Evaluation Survey is a tool used to gather information and feedback from users. It is meant to be completed by users who have used the FSC system to evaluate their experience and provide suggestions for improvement.
 
 ## Purpose

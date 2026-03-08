@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from attendees of the Drought Awareness Workshop. The purpose of this form is to understand their overall experience and gain insights on how to improve future workshops. It is expected that users will have a good understanding of the workshop structure and content before taking this form. This form should not be completed by users who have not attended the workshop.
-</thinking>
-
 # Drought Awareness Workshop Feedback - Help Guide
 ## Purpose
 This guide is designed to help you complete the Drought Awareness Workshop feedback form. Please refer to it to understand what each field is asking you to do.

@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my task is to create a user-facing help guide for the Pajama Party Registration form. To start, I'll review the form's purpose and fields to ensure I provide a clear and concise explanation. The form appears to be for registering events, specifically Pajama Parties, which likely involves students, teachers, or parents. The form seems to be collecting details about the event, attendee information, event preferences, and logistical details such as time, date, venue, and contact information. I'll focus on explaining each field in a way that's easy to understand, avoiding any unsupported business logic.</thinking>
-
 # Pajama Party Registration - Help Guide
 ## Purpose
 This form is used to register for a Pajama Party event. It collects essential details about the event, including event details, attendee information, and logistical arrangements. Please complete the form to ensure a smooth and enjoyable experience for all attendees.

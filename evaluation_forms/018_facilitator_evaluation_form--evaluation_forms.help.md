@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # facilitator_evaluation_form - Help Guide
 ## Purpose
 The facilitator_evaluation_form is a tool used to evaluate the performance and behavior of facilitators in courses, training sessions, or other events. It assesses their support, communication skills, time management, and overall rating. Evaluators provide feedback in the form of ratings and comments, helping facilitators identify areas for improvement and growth.

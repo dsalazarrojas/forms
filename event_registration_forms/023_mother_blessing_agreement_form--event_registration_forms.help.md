@@ -1,7 +1,3 @@
-<thinking>
-The Mother Blessing Agreement Form is designed to collect information about an event participant's consent and agreement to certain terms and conditions related to the event. This form is meant for participants to acknowledge their understanding and acceptance of the event's rules, expectations, and potential risks involved. Before proceeding, please ensure that this form meets the specific needs of your event and participants. You may want to review and modify the form to align with your event's unique requirements and ensure compliance with relevant laws and regulations.
-</thinking>
-
 # Mother Blessing Agreement Form - Help Guide
 
 ## Purpose

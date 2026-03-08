@@ -1,7 +1,3 @@
-<thinking>
-  This form is used to book a dance workshop by providing personal details and schedule preferences. It's meant to be filled out by individuals interested in attending a dance workshop and needs to be completed accurately to ensure a smooth booking process. Please ensure that the fields are filled out correctly to avoid any issues with your booking. 
-</thinking>
-
 # Dance Workshop Schedule Booking Form - Help Guide
 ## Purpose
 The Dance Workshop Schedule Booking Form is used to book a dance workshop by providing personal details and schedule preferences. It is essential to fill out this form accurately to ensure a smooth booking process.

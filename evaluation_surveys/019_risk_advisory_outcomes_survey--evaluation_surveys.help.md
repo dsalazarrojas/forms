@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect and track data on the outcomes of a risk advisory, specifically the risk level, impact score, and risk frequency. This form is used to ensure that risks are assessed and documented accurately, and to provide a clear picture of the current risk landscape.
-To avoid duplication of efforts, please ensure that you only submit one form per risk advisory.
-Please ensure that you have read and understood the instructions and the form before proceeding.
-</thinking>
-
 # Risk Advisory Outcomes Survey - Help Guide
 ## Purpose
 This form is used to collect and track data on the outcomes of a risk advisory.

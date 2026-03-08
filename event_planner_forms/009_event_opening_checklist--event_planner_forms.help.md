@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to serve as a checklist for planning and organizing events. The fields cover essential details for event planning, including date and time information, venue, and other relevant event-specific fields. It's intended to help event planners and organizers collect and review necessary information before an event commences. 
-This form is meant to be an example of a basic event planning form. The actual requirements and structure may vary depending on the specific event type and needs.
-</thinking>
-
 # Event Opening Checklist - Help Guide
 ## Purpose
 The Event Opening Checklist is a form used to collect and review information for event planning and organization. This guide will walk you through each field to help you fill out the form accurately.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information for charity event supplies orders, including order details, event details, supplies needed, logistics, and contact information. It's intended for charity event organizers to provide accurate and efficient ordering processes. The form ensures that all required fields are collected to prevent any misunderstandings or delays in supply delivery. 
-
-</thinking>
-
 # Charity Event Supplies Order Form - Help Guide
 ## Purpose
 The Charity Event Supplies Order Form is designed to collect information for charity event supplies orders, ensuring efficient and accurate ordering processes.

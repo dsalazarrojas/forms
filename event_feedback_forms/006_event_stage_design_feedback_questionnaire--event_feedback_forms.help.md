@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # event_stage_design_feedback_questionnaire - Help Guide
 ## Purpose
 The event_stage_design_feedback_questionnaire form is designed to collect feedback from event organizers regarding the design of their event stages. This form is intended to gather information about the event stage's layout, functionality, and overall design.

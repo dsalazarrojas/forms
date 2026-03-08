@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Summer Camp Cancellation Form", we need to consider the purpose of the form, how to complete it, and what each field means. The form is designed to collect information from campers or their representatives about the cancellation of a summer camp. This form is likely used by a summer camp organization to gather reasons for cancellation, dates, and other relevant details.
-
-The form appears to be a simple, one-page form with seven fields: title, cancellation reason, cancellation date, cancellation time, parent signature, staff signature, and submit button. The form is not required to be completed in any specific order, but it may be best to fill out the required fields first to avoid any issues with submitting the form.
-
-Given the fields, it seems that the form is not intended for staff use, but rather for campers or their representatives. This could be a form for emergency contact information in case of cancellation due to inclement weather or other unforeseen circumstances.
-
-</thinking>
-
 # Summer Camp Cancellation Form - Help Guide
 ## Purpose
 The Summer Camp Cancellation Form is used by summer campers or their representatives to notify the summer camp organization about cancellation of their registration. This form is used to gather relevant information for processing the cancellation and ensure a smooth transition of services.

@@ -1,10 +1,3 @@
-<thinking>
-# The purpose of this form is to gather feedback on attendees' experiences at a networking event. This feedback will be used to evaluate the event's success and identify areas for improvement.
-We've designed this form to be brief and easy to complete, with options for attendees to express their opinions on various aspects of the event. Please ensure that you're providing feedback on events you've recently attended to help us better understand your experiences.
-Please note that some fields in this form are optional, and you're welcome to provide as much or as little information as you're comfortable with.
-To ensure accurate and helpful feedback, please answer the questions as honestly and thoroughly as possible.
-</thinking>
-
 # Networking Event Feedback Survey Form - Help Guide
 ## Purpose
 This form is designed to gather your opinions on your recent attendance at a networking event.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to register for a school supply giveaway program. It is designed to collect information from students or their parents/guardians to process their registration. It is not intended for commercial use or as a replacement for any official school registration process. This form should only be used for this specific purpose and its completion is not mandatory. Please ensure that each registration is unique and not duplicated.
-</thinking>
-
 # School Supply Giveaway Registration Form - Help Guide
 ## Purpose
 The School Supply Giveaway Registration Form is designed to collect information from students or their parents/guardians for the school supply giveaway program.

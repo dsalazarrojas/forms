@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, I've reviewed the provided YAML fields to ensure I understand the form's purpose and requirements. This form is for registering event signage printing partners, and it's likely used by organizations or businesses that provide printing services for events. The form collects information such as services offered, email address, phone number, category, description, website, and social media links. I've also checked the form for any potential duplication or redundancy and found that the fields are well-structured and serve a specific purpose. The required fields are marked as such in the YAML, indicating their importance in the registration process. I'll create a clear and concise help guide that will assist end-users in completing the form accurately.</thinking>
-
 # Event Signage Printing Partner Registration Form - Help Guide
 
 ## Purpose

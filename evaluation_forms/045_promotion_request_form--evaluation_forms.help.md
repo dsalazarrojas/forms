@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to request a promotion for an employee. The form is designed to gather relevant information about the employee, their manager, and the promotion request details. 
-
-This form is intended for internal use within the organization, and it is expected that the user has some basic understanding of the promotion process within the organization. 
-
-Before filling out this form, please ensure that you have a clear understanding of the promotion process and that this form is not a duplicate request. This form should only be filled out for a new promotion request.
-
-</thinking>
-
 # Promotion Request Form - Help Guide
 
 ## Purpose

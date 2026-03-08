@@ -1,7 +1,3 @@
-<thinking>
-This guide will help ensure the Item Collection Survey form is properly completed by users. Before proceeding, please confirm this guide applies to your specific use case and that you are not duplicating effort by completing this form for an item that has already been collected. This guide is intended to be used in conjunction with the event registration process and is only meant to be used for new item collections.
-</thinking>
-
 # Item Collection Survey - Help Guide
 
 ## Purpose

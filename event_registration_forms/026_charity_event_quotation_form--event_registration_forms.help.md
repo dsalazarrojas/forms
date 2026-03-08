@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information about a charity event quotation, including the event details, costs, and payment terms. This form is used to help event organizers gather the necessary information to create a quotation for a charity event.
-</thinking>
-
 # Charity Event Quotation Form - Help Guide
 ## Purpose
 This form is designed to collect all necessary information to create a quotation for a charity event. Please fill out all required fields to ensure a complete and accurate quotation.

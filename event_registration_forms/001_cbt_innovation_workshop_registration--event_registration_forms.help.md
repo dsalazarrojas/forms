@@ -1,11 +1,3 @@
-<thinking>
-The form purpose is for users to register for the CBT Innovation Workshop. This guide is to ensure users understand how to complete the form correctly and what information each field requires. 
-The form is designed for users who are interested in attending the workshop, and it is expected that users are familiar with Cognitive Behavioral Therapy. 
-The form includes fields for personal details, workshop preferences, and payment information. 
-Please note that some fields are required, and users should ensure they have the necessary information before proceeding with the registration. 
-This guide will walk users through the form fields, ensuring they understand what is required and what information is optional. 
-</thinking>
-
 # CBT Innovation Workshop Registration - Help Guide
 
 ## Purpose

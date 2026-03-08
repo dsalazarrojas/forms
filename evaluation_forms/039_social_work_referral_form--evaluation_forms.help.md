@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information for social work referrals. The form is designed to gather details about students, including their names, IDs, and referral reasons. It also aims to capture information on the status of referrals, assigned tools, and the teacher's involvement in the process. This form is likely used in educational settings to facilitate effective communication and collaboration among students, teachers, and social workers.
-
-Before proceeding, please ensure you have the necessary information and approvals to complete this form accurately. To avoid duplication of efforts, please check if a referral for the same student has already been submitted. If you're unsure, it's best to contact the relevant authorities or check the system's database for existing referrals.
-
-</thinking>
-
 # social_work_referral_form - Help Guide
 ## Purpose
 

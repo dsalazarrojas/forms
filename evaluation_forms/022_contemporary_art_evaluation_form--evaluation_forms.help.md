@@ -1,7 +1,3 @@
-<thinking>
-This form is used to evaluate the artistic value and technical skill of a piece of contemporary art. It is essential that the evaluator accurately assesses the artwork's merit, skill level, and provides recommendations for its potential display or purchase. The form ensures that the artwork's details and the evaluator's opinions are documented accurately and consistently.
-</thinking>
-
 # Contemporary Art Evaluation Form - Help Guide
 ## Purpose
 The Contemporary Art Evaluation Form is a tool used to assess the artistic value, technical skill, and overall quality of a piece of contemporary art. It helps the evaluator to provide a comprehensive and accurate evaluation of the artwork, ensuring that all relevant details are captured and documented.

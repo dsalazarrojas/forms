@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for users who want to provide feedback on their experience with adult programs or courses. The goal of this form is to help assess the return on investment (ROI) of the program, by evaluating the benefits and value gained from participation. This survey aims to gather anonymous feedback from respondents, but requires some personal identifiable information to provide a more accurate picture of the program's effectiveness.
-</thinking>
-
 # Adult Return On Investment Survey - Help Guide
 ## Purpose
 This form is designed to help us evaluate the effectiveness of adult programs and courses. Your input will help us assess the return on investment (ROI) and identify areas for improvement.

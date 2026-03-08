@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I need to understand that this form is used for Secret Santa gift planning and gift value tracking, likely in an office setting or holiday party context.
-
-Before generating the help guide, I'll assume that the form is used to collect information about the Secret Santa gift recipient, the value of the gift, and the card or monetary value of the gift, if any.
-
-The goal is to make the form easily accessible and understandable to users who may not be familiar with this specific type of form.
-
-</thinking>
-
 # Secret Santa Form - Help Guide
 ## Purpose
 This form helps you plan and track your Secret Santa gifts. Fill it out to specify who you would like to gift, how much you'd like to spend, and if you'd like to include a card or a monetary value for your gift.

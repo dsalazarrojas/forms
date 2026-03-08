@@ -1,8 +1,3 @@
-<thinking>
-Form purpose: This form is used to book slots for esports events. The form is likely used by event staff to coordinate and manage the schedule of streamers and games across different platforms. The form's fields should be filled out accordingly to ensure accurate and efficient event planning.
-Before creating this help guide, I assume that all the fields are correct and relevant to the form's purpose. If not, please let me know!
-</thinking>
-
 # esports_event_stream_slot_booking - Help Guide
 ## Purpose
 This form is used to book slots for esports events. The form is used by event staff to coordinate and manage the schedule of streamers and games across different platforms.

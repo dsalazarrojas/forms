@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Post Program Feedback Form - Help Guide
 
 ## Purpose

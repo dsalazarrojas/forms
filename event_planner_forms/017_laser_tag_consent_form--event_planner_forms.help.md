@@ -1,7 +1,3 @@
-<thinking>
-This help guide is to be used for a form that likely deals with user consent for events or tags in an event planning system. It's possible that the form is used for tracking and managing various settings and configurations for events.
-</thinking>
-
 # Laser Tag Consent Form - Help Guide
 ## Purpose
 The Laser Tag Consent Form is used to manage user consent for events or tags in an event planning system. It allows event planners to track and customize various settings and configurations for events.

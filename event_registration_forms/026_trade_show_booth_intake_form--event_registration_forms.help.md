@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather essential information from event organizers and attendees for trade show booths. It's used to register booths for trade shows, ensuring that event organizers have accurate and complete information about the booths and attendees. This form might be used multiple times for different trade shows or events.
-</thinking>
-
 # Trade Show Booth Intake Form - Help Guide
 
 ## Purpose

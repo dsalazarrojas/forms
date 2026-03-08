@@ -1,6 +1,3 @@
-<thinking>
-This form is used to collect feedback and evaluation of a seminar, specifically designed for participants to provide their honest opinion on the seminar's content, instructor, overall effectiveness, organization, presentation, and other aspects of the event. The form is intended for use by seminar organizers, trainers, or facilitators who need to assess the effectiveness of the seminar, gather feedback from participants, and identify areas for improvement. This form is a template, allowing users to tailor it to their specific needs.
-</thinking>
 # seminar_evaluation_form_template - Help Guide
 ## Purpose
 This form is used to collect feedback and evaluation of a seminar, specifically designed for participants to provide their honest opinion on the seminar's content, instructor, overall effectiveness, organization, presentation, and other aspects of the event.

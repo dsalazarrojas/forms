@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Conference Speaker Request Form - Help Guide
 ## Purpose
 The Conference Speaker Request Form is used to request a speaker for a conference or event. This form provides essential information to the speaker and the event organizers, ensuring a smooth and successful event experience.

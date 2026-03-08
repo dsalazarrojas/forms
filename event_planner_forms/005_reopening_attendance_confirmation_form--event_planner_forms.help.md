@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help attendees confirm their attendance and preferences for events. It is intended for event organizers to gather information about the number of attendees who can participate in person, virtually, or through other means. The form is not meant for real-time attendance tracking or registration. It is meant to be filled out by attendees before or after the event to provide their preferences for attending in person, virtually, or through other means.
-</thinking>
-
 # Reopening Attendance Confirmation Form - Help Guide
 
 ## Purpose

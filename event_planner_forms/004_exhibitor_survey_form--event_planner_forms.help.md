@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to collect information from exhibitors about their experience and feedback on a specific event. The form will be used to gather data on exhibitor demographics, event type, and their willingness to attend future events. The form will be used to improve the event planning process and tailor future events based on exhibitor feedback.
-</thinking>
-
 # Exhibitor Survey Form - Help Guide
 ## Purpose
 The Exhibitor Survey Form is a collection of questions designed to gather information from exhibitors about their experience with the event. The information collected will help the event organizers to improve future events and tailor them to the needs and preferences of the exhibitors.

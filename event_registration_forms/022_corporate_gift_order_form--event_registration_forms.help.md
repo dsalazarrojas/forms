@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for corporate gift ordering, likely for a company's employee appreciation or client gift-giving process. The form collects information for a gift selection, recipient details, and any additional notes or messages. It's possible that this form is intended for internal use within a company, such as an HR department or corporate events team. I am assuming the form is not intended for public use, as there is no mention of privacy or security measures to be taken. I am also assuming that the form's structure and content are specific to the company's gift-giving process.
-</thinking>
-
 # corporate_gift_order_form - Help Guide
 ## Purpose
 The corporate gift order form is designed to collect information for corporate gifts and other items. It is used to select a gift, specify recipient details, and provide additional notes or messages.

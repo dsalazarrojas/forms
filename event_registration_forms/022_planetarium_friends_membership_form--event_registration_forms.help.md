@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from users who are interested in joining the Planetarium Friends membership program. The form is divided into three pages and requires no information from the user. The purpose of this form is to gather demographic and interest-based information from users who wish to become part of the Planetarium Friends community. The form is not intended for use in high-stakes or sensitive applications, as it does not ask for any sensitive or personal information.
-
-</thinking>
-
 # Planetarium Friends Membership Form - Help Guide
 
 ## Purpose

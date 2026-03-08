@@ -1,17 +1,3 @@
-<thinking>
-I understand that the provided YAML defines a form with 14 fields across four pages. The form is for booking technical rehearsals for a film festival. I will provide a concise and practical help guide for end-users to understand the form's purpose, how to complete it, and what each field means. I will not invent business logic and will base my explanation on the provided fields.
-
-Before creating the help guide, I would like to verify that the form is not a duplication of any internal processes or forms. If this form is intended for external users, it's likely that this form is for scheduling technical run-throughs for a film festival, and I assume it's for the event organizers, crew members, or technical teams involved in the event. The form should be used to collect necessary information for the smooth execution of the technical rehearsals. 
-
-This is an overview of the form's structure:
-- **Main Page**: This page is an introduction to the form, and it might not contain any fields.
-- **Film Details**: This page is for providing the essential information about the film to be rehearsed, such as its title, description, and director.
-- **Contact**: This page is for providing contact information for the crew member handling the technical run-through, including phone number and email.
-- **Film Details**: This page is for providing more detailed information about the film, such as the start and end time of the technical run-through.
-- **Technical Run-through**: This page is for specifying the crew member and any additional note.
-
-</thinking>
-
 # Film Festival Technical Rehearsal Booking Form - Help Guide
 ## Purpose
 This form is for booking technical run-throughs for a film festival. It's a tool for scheduling and coordinating the technical aspects of the event. You will need to complete this form to ensure a smooth and efficient technical rehearsal process.

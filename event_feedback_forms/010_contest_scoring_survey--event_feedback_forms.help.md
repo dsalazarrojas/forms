@@ -1,7 +1,3 @@
-<thinking>
-To ensure that the form is being used correctly and to help prevent duplication, it is essential to understand the purpose and requirements of the "Contest Scoring Survey". This form is designed for judges to score and provide feedback on contestants who participated in events such as art, photography, writing, music, dance, speech, innovation, and sports competitions. The form requires the judge's personal details, such as their name and ID, as well as information about the contest, including its name, date, and category. Additionally, the form asks the judge to score various aspects of the contest, including the technical skill, creativity, presentation, originality, and overall impression of the contestants. The form also requires the judge to specify which scoring criteria were applied and to provide any areas for improvement and additional comments. Finally, the form asks the judge to provide a recommendation for the contestant's advancement.
-</thinking>
-
 # Contest Scoring Survey - Help Guide
 ## Purpose
 The "Contest Scoring Survey" is a form designed for judges to score and provide feedback on contestants who participated in events such as art, photography, writing, music, dance, speech, innovation, and sports competitions.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registering users for a Fitness Equipment Repair Workshop. The purpose of this form is to gather information from users about their preferences and details regarding the workshop, such as session preferences, equipment issues, attendee details, preferred workshop date and time, equipment model, workshop type, workshop location, comments, and additional notes from the workshop facilitator. It is essential to ensure that all required fields are completed accurately and thoroughly to guarantee a smooth and productive experience for everyone involved.
-</thinking>
-
 # Fitness Equipment Repair Workshop Registration - Help Guide
 
 ## Purpose

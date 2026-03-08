@@ -1,12 +1,3 @@
-<thinking>
-The form "submit_your_location_for_holiday_carols" is designed to collect information about a location from users. The purpose of this form is to gather details about a specific location that users would like to submit for a holiday carols event. This form is intended for users who want to share their location with the event organizers. The form is not affiliated with, endorsed by, or derived from any form platform, and it is an original adaptation created using AI.
-
-To ensure that users provide accurate and relevant information, we will check for duplication of submitted locations to prevent multiple submissions from the same location. This will help event organizers to focus on unique locations and avoid unnecessary work.
-
-Please note that this form is designed to collect only text-based information, and users are free to provide any additional information they deem necessary to complement their location submission. The form is released under CC BY 4.0, allowing users to use, modify, and even sell forms derived from it, just give credit.
-
-</thinking>
-
 # submit_your_location_for_holiday_carols - Help Guide
 ## Purpose
 This form is designed to collect information about a location that users would like to submit for a holiday carols event.

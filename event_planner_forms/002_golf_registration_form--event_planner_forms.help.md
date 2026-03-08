@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect contact information, team details, and event information from users registering for a golf event. This form is intended for event organizers to easily collect necessary data from participants. 
-
-This form has multiple pages, each focusing on different aspects of registration. 
-
-The form is designed for golf event organizers to streamline the registration process, ensuring that all necessary information is collected from participants before the event.
-
-</thinking>
-
 # Golf Registration Form - Help Guide
 ## Purpose
 The Golf Registration Form is used to collect contact information, team details, and event information from users registering for a golf event.

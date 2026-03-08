@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Event Sponsorship Form - Help Guide
 ## Purpose
 This form is used to capture information about potential event sponsors. Sponsors will be listed on event promotional materials and may have exclusive recognition at the event.

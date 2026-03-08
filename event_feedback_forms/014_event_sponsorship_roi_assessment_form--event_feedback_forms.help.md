@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to assess the return on investment (ROI) of an event sponsored by an organization. This form helps in evaluating the success of the event in terms of whether it was profitable for the sponsor, and what areas may need improvement. It ensures that the event was beneficial for both the sponsor and the organization hosting the event.
- 
-The form is required for all sponsored events to be completed by the event organizer. Duplicate submissions are not allowed.
- 
-The form data is used to track event sponsorship ROI performance.
- 
-Please note that the form must be submitted once the event is closed to ensure accurate data.
-</thinking>
- 
 # event_sponsorship_roi_assessment_form - Help Guide
 ## Purpose
 

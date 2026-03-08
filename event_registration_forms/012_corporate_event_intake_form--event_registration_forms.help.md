@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Corporate Event Intake Form - Help Guide
 ## Purpose
 The Corporate Event Intake Form is a tool used to collect detailed information about corporate events, conferences, and meetings from event planners and organizers. This form helps to gather essential details such as event title, date, time, location, and attendees to ensure that the event runs smoothly and efficiently. 

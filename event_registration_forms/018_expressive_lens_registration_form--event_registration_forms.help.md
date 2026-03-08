@@ -1,16 +1,3 @@
-<thinking>
-
-To create this help guide, I'll first extract the form's purpose and key fields from the provided YAML. The purpose is to register participants for an event, and the key fields include participant details (name, email, phone), lens preferences, participant consent, course and workshop details (name, date, start time, location, capacity, price, length), and other additional information such as program details and participant notes.
-
-Here's the extracted information in a more human-readable format:
-
-* Participant details: The participant's name, email, and phone number.
-* Lens preferences: The participant's preferred lens(es) to attend.
-* Participant consent: The participant's consent to attend the event.
-* Course and workshop details: The name, date, start time, location, capacity, price, and length of the course or workshop.
-
-</thinking>
-
 # expressive_lens_registration_form - Help Guide
 ## Purpose
 This form is used to register participants for an event, including courses and workshops.

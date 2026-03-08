@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information on the evaluation of disease prevention projects. It assesses the project's objectives, outcomes, and challenges, as well as its cost-effectiveness and any recommendations for future projects. This form is a tool for project managers and evaluators to gather valuable insights and feedback on the success of disease prevention initiatives.
-</thinking>
-
 # Disease Prevention Project Evaluation - Help Guide
 ## Purpose
 

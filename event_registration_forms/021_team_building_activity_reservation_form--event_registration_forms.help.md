@@ -1,17 +1,3 @@
-<thinking> 
-The "Team Building Activity Reservation Form" is a form used to collect information from participants and event organizers for team building activities. This form is designed to be completed by event organizers to reserve team building activities and gather necessary details from participants. The form will help event organizers to track and manage team building activities efficiently.
-
-To complete this form, follow these steps:
-
-1. **Participant Information**: Provide information about the participant, including their name, email, phone number, and any notes about the participant.
-2. **Event Information**: Enter details about the event, including the event date, time, location, and duration.
-3. **Activity Information**: Select the type of activity (Team Building, Outdoor Adventure, or Wellness) and enter the name of the activity.
-4. **Participant Preferences**: Choose the participant's availability (Morning, Afternoon, or Evening).
-5. **Contact Information**: Enter the participant's contact information, including their name, email, and phone number.
-6. **Submit**: Click the submit button to save the information and submit the form.
-
-</thinking>
-
 # Team Building Activity Reservation Form - Help Guide
 ## Purpose
 The "Team Building Activity Reservation Form" is used to collect information from participants and event organizers for team building activities.

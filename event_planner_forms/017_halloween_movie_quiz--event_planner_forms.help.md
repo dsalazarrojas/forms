@@ -1,13 +1,3 @@
-<thinking>
-The form purpose is to collect user input for a Halloween movie quiz, likely used to gauge user knowledge of horror movies.
-The form is designed to be completed by users who have seen or are familiar with various horror movies.
-The form will likely be used by event planners to collect responses for a quiz or game event.
-The form will be completed by users in an online or offline environment.
-The form will be used to collect user responses to various horror movie questions.
-The form fields are designed to be clear and concise.
-Each field label is explained below.
-</thinking>
-
 # Halloween Movie Quiz - Help Guide
 ## Purpose
 The Halloween Movie Quiz form is designed to test your knowledge of horror movies. Answer the questions to the best of your ability, and have fun!

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from festival stallholders about their experience at the event. The form will help us gather insights on the overall satisfaction with the event, the performance of the stallholders, and their interest in participating in future events. Before starting, let's ensure this is not a duplicate task, and the form is indeed relevant for you, the festival stallholder.
-</thinking>
-
 # Festival Stallholder Feedback Survey - Help Guide
 ## Purpose
 The Festival Stallholder Feedback Survey is designed to gather your thoughts and opinions about your experience at the festival. Your feedback will help us improve future events and make them more enjoyable for everyone.

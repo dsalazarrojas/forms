@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a user-facing help guide for the Easter Brunch Order Form that explains the form's purpose, how to complete it, and what each field means. This guide will help ensure that end-users understand the form's requirements and can fill it out accurately and efficiently.</thinking>
-
 # Easter Brunch Order Form - Help Guide
 
 ## Purpose

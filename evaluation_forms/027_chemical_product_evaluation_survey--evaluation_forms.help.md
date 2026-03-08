@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users about a chemical product, aiming to assess its effectiveness, ease of use, safety, packaging quality, value for money, consistency, shelf life, and overall satisfaction. The form will be used to collect data from respondents across various industries, including manufacturing, laboratory research, healthcare, education, agriculture, and construction. The form is not affiliated with any form platform and was created using public survey metadata as inspiration.
-
-To prevent duplication, the form will only collect data from respondents who have not filled the form before. This form is released under CC BY 4.0 and can be used, modified, and even sold by anyone, as long as credit is given.
-
-The form is divided into sections that will guide respondents through the evaluation process. Each section will cover a specific aspect of the product, making it easy to complete and providing clear instructions for each field.
-
-</thinking>
-
 # Chemical Product Evaluation Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about a chemical product, evaluating its various aspects such as effectiveness, ease of use, safety, packaging quality, value for money, consistency, shelf life, and overall satisfaction.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Expo Decorator Registration Form is used to register events that will be decorated by vendors. This form is used internally to collect information about upcoming events that require decorator services. The purpose of this form is to streamline the registration process and ensure that all necessary information is collected in a standardized format.
 
 # Expo Decorator Registration Form - Help Guide

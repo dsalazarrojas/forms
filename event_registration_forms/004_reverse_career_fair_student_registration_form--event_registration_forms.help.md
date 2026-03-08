@@ -1,9 +1,3 @@
-<thinking>
-The reverse career fair student registration form is a collection of student information and career interests that will be presented to attendees of the reverse career fair. The form is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation created using AI. The form is released under the CC BY 4.0 license, allowing users to use, modify, and sell derived forms, as long as credit is given.
-The form is intended to be completed by students to provide a comprehensive overview of their skills, education background, career interests, and other relevant information. The goal is to facilitate effective interaction between students and career fair attendees.
-The form does not aim to be a comprehensive resume but rather a concise representation of a student's profile.
-</thinking>
-
 # reverse_career_fair_student_registration_form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from students to be presented at the reverse career fair, allowing students to showcase their skills, interests, and background to potential employers and attendees.

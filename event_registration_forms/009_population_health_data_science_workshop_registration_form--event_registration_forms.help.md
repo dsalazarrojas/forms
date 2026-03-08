@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form purpose is clear and non-duplication is prevented. This form is meant for registering attendees for a Population Health Data Science Workshop, and it is likely to be used multiple times to register multiple attendees. We should ensure that each registration is unique and accurate.
-</thinking>
-
 # Population Health Data Science Workshop Registration Form - Help Guide
 ## Purpose
 This form is designed to collect registration information from attendees for the Population Health Data Science Workshop. It is essential to provide accurate and unique data for each attendee.

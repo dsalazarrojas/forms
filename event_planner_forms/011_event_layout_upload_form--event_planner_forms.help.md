@@ -1,11 +1,3 @@
-<thinking>This form is intended to be a tool for users to upload event layouts for various events. It is meant to be used for event planners to upload event layouts, and the process should be straightforward and user-friendly. The form fields are organized in a way that allows users to select event type, upload event layout files, enter event details, and other relevant information. Please ensure that you are using this form for its intended purpose and not for any other purpose.
-
-Before proceeding, please review each field to understand its purpose and required information. If you're unsure about any field, feel free to contact your event planner for guidance.
-
-Please note that some fields are optional, but providing all the necessary information will help in processing your event layout upload efficiently and effectively.
-
-</thinking>
-
 # Event Layout Upload Form - Help Guide
 
 ## Purpose

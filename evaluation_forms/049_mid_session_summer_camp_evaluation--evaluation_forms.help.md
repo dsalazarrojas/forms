@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mid Session Summer Camp Evaluation - Help Guide
 
 ## Purpose

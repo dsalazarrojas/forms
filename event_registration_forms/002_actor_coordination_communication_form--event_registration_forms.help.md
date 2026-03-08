@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be for coordinating communication between actors and production teams in the context of a film or theatrical production. The form aims to gather essential information from actors to ensure smooth collaboration and production processes. The fields cover various aspects, including production title, actor's name, role assigned, contact details, transportation requirements, dietary restrictions, costume fittings, script version, upcoming conflicts or availability changes, and emergency contact information. It seems that the form is designed for actors to provide their input and update their status to the production team, facilitating effective communication and reducing potential miscommunications or errors. This form does not appear to be a duplicate of other forms, and its purpose seems to be focused on ensuring the actor's involvement in the production process.
-
-</thinking>
-
 # Actor Coordination Communication Form - Help Guide
 ## Purpose
 The Actor Coordination Communication Form is designed to facilitate communication between actors and production teams in a film or theatrical production. It collects essential information to ensure a smooth production process, including production title, contact details, transportation needs, and other relevant updates.

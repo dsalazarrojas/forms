@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Baby Shower Invitation Form - Help Guide
 ## Purpose
 This form is used to collect information for a baby shower celebration, specifically for the host to plan and invite guests. Please ensure you have the necessary permissions and approvals before sharing this form with others.

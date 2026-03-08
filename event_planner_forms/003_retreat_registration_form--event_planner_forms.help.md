@@ -1,13 +1,3 @@
-<thinking>
-
-To create an effective help guide for the "Retreat Registration Form", I will analyze the form's purpose and functionality. The form is designed to collect participant information, event details, payment method, payment details, retreat details, and terms of agreement for a retreat registration process. It's essential to ensure that the form is filled out correctly to avoid any issues during the event planning process.
-
-To complete this form, users should start by filling out the "Participant Information" page with the required details. They will then move on to the "Event Details" page, where they will provide additional event-related information. The "Payment Method" page requires selecting one or more payment methods, and the "Payment Details" page asks for further payment-related information. The "Retreat Details" page is for providing retreat-specific information. The "Notes" page is optional and can be used for any additional comments or remarks. Finally, the "Agree to Terms" page is a required acknowledgement of the terms and conditions of the retreat.
-
-The form's fields have specific labels and types, which need to be understood to ensure correct completion. For instance, "Participant Information" is a text field where participants can fill out their details, while "Payment Method" is a select multiple field where they can choose one or more payment methods. 
-
-</thinking>
-
 # Retreat Registration Form - Help Guide
 ## Purpose
 The "Retreat Registration Form" is a crucial document for the retreat planning process. It collects essential participant and event information, including payment details and terms of agreement.

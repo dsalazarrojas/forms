@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Process Of Interview Quality Of Life Questionnaire - Help Guide
 
 ## Purpose

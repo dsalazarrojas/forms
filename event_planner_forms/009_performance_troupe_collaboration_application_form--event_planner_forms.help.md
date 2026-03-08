@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to capture information from potential collaboration partners about their performance troupe, including their event name, date, contact information, and specific details about their troupe, such as style, video and audio presence, number of dancers, and image and dancer bios. The form is meant to be completed by a contact person from the troupe, and it will be used to help internal stakeholders evaluate and potentially collaborate with the troupe.
-To prevent duplication, we will be checking for existing applications from the same troupe before accepting new applications. This will ensure that we only accept and process new applications from troupes that have not already applied.
-</thinking>
-
 # Performance Troupe Collaboration Application Form - Help Guide
 ## Purpose
 The Performance Troupe Collaboration Application Form is designed to gather information from performance troupes that are interested in collaborating with our organization. This form will help us evaluate and potentially collaborate with new troupes.

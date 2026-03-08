@@ -1,11 +1,3 @@
-<thinking>
-This form is for participants in the Christmas Card Design Contest, which is an event where designers submit their creative and original Christmas card designs. The form helps collect information from contestants, including their contact details, design submission, and agreement to contest terms and rules. 
-
-This form is likely to be used by designers interested in showcasing their holiday-themed artwork and potentially winning prizes or recognition. It may also be used by the contest organizers to manage submissions, contact participants, and promote the contest winners. 
-
-Please ensure this form is not used to duplicate or plagiarize existing work, and confirm that all submissions are original and created by the participant. 
-</thinking>
-
 # Christmas Card Design Contest Form - Help Guide
 ## Purpose
 The Christmas Card Design Contest Form is designed to collect information from contestants who want to participate in the contest. It helps us to manage submissions, contact participants, and promote contest winners.

@@ -1,33 +1,3 @@
-<thinking>
-This form is used to request time off for a dancer during a dance competition. The form allows dancers, their parents or guardians, or studio staff to submit a request for time off, specifying the competition date, start time, and rehearsal date and time. The form also asks for the dancer's name, dance style, competition level, and other relevant details. The purpose of this form is to communicate with the event organizers and ensure that the competition runs smoothly while accommodating the dancers' needs.
-
-To complete this form, users will be asked to provide the following information:
-- dance competition time off form 
-- dance competition time off request 
-- competition date 
-- start time 
-- dance competition name 
-- rehearsal date 
-- rehearsal time 
-- rehearsal start time 
-- studio 
-- Dancer's Name 
-- Dance Style 
-- Competition Level 
-- Time-Off Request 
-- email 
-- phone 
-- Dancer's Contact 
-- Event Name 
-- Dancer's Email 
-- Dancer's Phone 
-- Studio Email 
-- Studio Phone 
-- Dancer's Address
-
-The following fields will be explained in detail below.
-</thinking>
-
 # Dance Competition Time Off Form - Help Guide
 ## Purpose
 The Dance Competition Time Off Form is a tool used to request time off for dancers during a dance competition.

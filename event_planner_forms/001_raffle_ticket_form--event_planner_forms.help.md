@@ -1,24 +1,3 @@
-<thinking>
-We are creating a form to collect information for a raffle event. This form will be used to manage the process of creating and managing raffles for events. The purpose of this form is to ensure that all relevant information is collected from participants and winners in a standardized and organized manner. 
-
-This form has the following fields that need to be filled:
-  - User email for communication purposes
-  - User phone number for further contact if needed
-  - Ticket quantity for the raffle event
-  - Select winner from a list of options
-  - Winner name if applicable
-  - Ticket price for the event
-  - Type of raffle event
-  - Winner email for notification
-  - Payment method and processor for transaction management
-  - Raffle date and time
-
-Please ensure that all fields are filled out correctly to ensure accurate and complete raffle event management. Note that some fields are optional and only need to be filled out if applicable. 
-
-Please ensure that the form is completed accurately and correctly to avoid any issues with the raffle event.
-
-</thinking>
-
 # Raffle Ticket Form - Help Guide
 ## Purpose
 The Raffle Ticket Form is a tool used to collect information for a raffle event. This form will help manage the process of creating and running a raffle event, ensuring all necessary details are collected from participants and winners.

@@ -1,11 +1,3 @@
-<thinking>... Internal reasoning to determine the form purpose and ensure relevance and non-duplication...
-
-The purpose of this form is to facilitate the registration and subscription process for cultural programs, allowing users to provide necessary information about their organization, program details, and payment preferences. This form helps to streamline the subscription process, ensuring that all required fields are completed accurately and efficiently.
-
-To avoid duplication of effort, this form should be used only for users who are interested in subscribing to a cultural program. If a user has already completed a similar form for the same program, they should not be required to do so again.
-
-... </thinking>
-
 # Cultural Program Membership Subscription Form - Help Guide
 ## Purpose
 The cultural program membership subscription form is designed to facilitate the registration and subscription process for cultural programs. This form collects necessary information about your organization, program details, and payment preferences to help us process your subscription efficiently.

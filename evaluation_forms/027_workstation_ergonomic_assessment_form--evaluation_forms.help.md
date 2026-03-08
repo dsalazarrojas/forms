@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to assess the ergonomics of a workstation, which is a critical part of a computer user's environment. The form is designed to collect information about the workstation's layout, user's position, and potential ergonomic issues. This information will help identify areas for improvement to promote healthy and comfortable working conditions.
-
-</thinking>
-
 # Workstation Ergonomic Assessment Form - Help Guide
 ## Purpose
 The Workstation Ergonomic Assessment Form is designed to evaluate the ergonomic comfort and safety of a workstation. It is used to collect information about the workstation's layout, user's position, and potential ergonomic issues.

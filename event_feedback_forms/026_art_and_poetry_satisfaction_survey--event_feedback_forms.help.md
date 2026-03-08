@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide that explains the purpose, completion process, and field-by-field explanation of the "Art And Poetry Satisfaction Survey" form. To begin, let's understand that this form is designed to collect feedback from event attendees about their experience with the art and poetry presentations at an event. It is likely that this form will be used to identify areas of improvement for future events and to provide insights for event planners. Given that the form contains multiple sections, we can assume that attendees will be able to navigate through it easily, and the fields are self-explanatory. However, I will make sure to include clear explanations for each field to ensure that users know what to expect.</thinking>
-
 # Art And Poetry Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from attendees about their experience with the art and poetry presentations at the event. It is used to identify areas of improvement and provide insights for future events.

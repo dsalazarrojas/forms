@@ -1,11 +1,3 @@
-<thinking>
-The "Theater Performance Feedback Form" is designed to gather feedback from theater attendees about their experiences with a particular performance. This form is typically used by event organizers or administrators to gauge audience satisfaction and identify areas for improvement.
-
-To avoid duplication of effort, please review the form carefully before starting to ensure you have not already submitted feedback for the same event.
-
-The purpose of this form is to provide a structured way for attendees to express their thoughts and opinions about the performance they attended. The feedback collected through this form will help event organizers and theater staff to refine and enhance future events to better meet the needs and expectations of their audiences.
-</thinking>
-
 # Theater Performance Feedback Form - Help Guide
 ## Purpose
 The "Theater Performance Feedback Form" is a tool designed to help event organizers and theater staff gather feedback from attendees about their experiences with a particular performance. This form is used to gauge audience satisfaction and identify areas for improvement for future events.

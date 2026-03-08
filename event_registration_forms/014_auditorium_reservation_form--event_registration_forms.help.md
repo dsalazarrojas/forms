@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for reserving an auditorium for an event. We need to know the purpose of the reservation, details about the event, and specifics about the setup and audio-visual needs. Please fill out this form to provide all required information, but feel free to skip optional questions.
-
-</thinking>
-
 # Auditorium Reservation Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about an event being held in our auditorium. This information will help us understand your requirements so we can provide the best possible service.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for registering healthcare services improvement workshops. The form should only be used by authorized personnel to collect data on workshop details, participant information, and registration settings. Please ensure that you have the necessary permissions to access this form before proceeding. If you are not sure about the form's purpose or your role in accessing it, please contact your supervisor or the relevant department.
-</thinking>
-
 # Healthcare Service Improvement Workshop Registration - Help Guide
 ## Purpose
 The "Healthcare Service Improvement Workshop Registration" form is used to collect and organize information about upcoming healthcare service improvement workshops. This information includes workshop details, participant information, and registration settings.

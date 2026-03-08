@@ -1,7 +1,4 @@
-> <thinking>
-This form is intended to gather contact information and camper details for an event planner application. It collects general contact information, camper attributes such as first name, last name, age, diet, allergies, and medical conditions. The form also includes options for selecting multiple campers and submitting the form. Note that the form seems to be designed for multiple use cases such as selecting multiple campers and having additional camper info for multiple instances, but the field labels and names might be slightly ambiguous due to the duplicate naming conventions.
-</thinking>
-# Packing List Form - Help Guide
+> # Packing List Form - Help Guide
 ## Purpose
 This form is used to gather contact information and camper details for an event planner application. It is intended for use cases where multiple campers may be involved, and the form allows for the selection of multiple campers and additional camper information.
 

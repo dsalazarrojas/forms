@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Global Brand Collaboration Registration Form - Help Guide
 ### Purpose
 

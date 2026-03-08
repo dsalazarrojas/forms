@@ -1,10 +1,3 @@
-<thinking>
-This form is used to evaluate the accessibility of a hospital facility. The purpose of this form is to assess the level of accessibility of a hospital facility based on the provided criteria. This form is typically used by evaluators to provide feedback on the accessibility of a hospital facility, and to rate its level of accessibility. This form is designed to gather information about the facility's accessibility features, location, and other relevant details.
-
-The form has 17 fields that need to be filled out. To ensure accuracy and completeness, please read each field's explanation carefully before proceeding.
-
-</thinking>
-
 # Hospital Accessibility Design Evaluation Form - Help Guide
 ## Purpose
 The purpose of this form is to evaluate the accessibility of a hospital facility. 

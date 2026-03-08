@@ -1,9 +1,3 @@
-<thinking>
-This form's purpose is to collect demographic information from users in the context of a Ctl U leasing survey. This form is intended to gather basic personal and business information from users, specifically their first and last name, date of birth, and company name. 
-This form appears to be designed for an internal evaluation or research purpose within the Ctl U organization. It does not have any obvious connection to any external form platforms, making it a unique adaptation.
-To ensure relevance, this form only includes essential fields. There are no duplicate fields that could confuse users. 
-</thinking>
-
 # Ctl U Leasing Survey - Help Guide
 ## Purpose
 The Ctl U Leasing Survey form is designed to collect basic demographic information from users.

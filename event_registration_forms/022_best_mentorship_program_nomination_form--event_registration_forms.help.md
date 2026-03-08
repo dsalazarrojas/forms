@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect nominations for the Best Mentorship Program award. It will be used to collect information about the nominated programs from the nominator's perspective. Please ensure that only relevant and up-to-date information is provided, as the form will be used to evaluate the nominated program. 
-Before completing this form, check that:
-- The nominated program is not being re-nominated for the same award in the same year.
-</thinking>
-
 # Best Mentorship Program Nomination Form - Help Guide
 ## Purpose
 The Best Mentorship Program Nomination Form is designed to collect relevant information about a mentorship program that you would like to nominate for the award. Please provide detailed answers to help the evaluation committee assess the program's qualities and impact.

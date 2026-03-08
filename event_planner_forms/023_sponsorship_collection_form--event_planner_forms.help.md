@@ -1,11 +1,3 @@
-<thinking>
-
-This form is likely used by event planners to collect information about sponsors. The purpose of this form is to gather data about the sponsorship details, such as the sponsor's name, contact information, and relationship with the event. This form might be used for event organizers to record and manage sponsorship information for their events.
-
-To ensure this form is filled out correctly, the event planner should review the form fields carefully and provide clear explanations for each field.
-
-</thinking>
-
 # sponsorship_collection_form - Help Guide
 
 ## Purpose

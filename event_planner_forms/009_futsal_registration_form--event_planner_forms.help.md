@@ -1,18 +1,3 @@
-<thinking>
-To determine the purpose and required fields of this form, let's analyze the provided YAML fields:
-
-* The form is titled "Futsal Registration Form" and has several pages with different fields.
-* Each field has a label, type, and options. The types include text, select_one, email, text, number, and number.
-* Some fields have hints, which are not being used.
-* There are fields for team name, team type, team lead, team lead email, team lead phone, team address, team city, team state, team postal code, league ID, and tournament ID.
-
-Based on this information, the form appears to be for registering a Futsal team. The team lead email, phone, and address fields suggest that the team may be traveling to participate in an event. The league ID and tournament ID fields suggest that the team may also be participating in a specific league or tournament.
-
-Considering the fields, it's likely that the purpose of this form is for teams to register for Futsal events such as leagues or tournaments.
-
-To avoid duplication and improve user experience, we should focus on the most important fields and provide clear explanations for each field.
-</thinking>
-
 # Futsal Registration Form - Help Guide
 ## Purpose
 The Futsal Registration Form is for teams to register for Futsal events such as leagues or tournaments.

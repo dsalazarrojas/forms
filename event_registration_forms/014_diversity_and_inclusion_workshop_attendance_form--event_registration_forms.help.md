@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Diversity and Inclusion Workshop Attendance Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from participants attending the Diversity and Inclusion Workshop. This form will help the workshop organizers understand who is attending, their background and preferences, and any special accommodations they may need.

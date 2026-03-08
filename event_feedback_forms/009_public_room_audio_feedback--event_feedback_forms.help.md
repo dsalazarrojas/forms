@@ -1,7 +1,3 @@
-<thinking>
-The "public_room_audio_feedback" form is used to collect feedback from event attendees on the sound quality during the event. This feedback will help the event organizers to improve the sound quality for future events. This form should only be filled out by individuals who attended the event, and not by external stakeholders such as Event Staff, Audience, or Venue Team members. 
-</thinking>
-
 # public_room_audio_feedback - Help Guide
 ## Purpose
 This form is designed to gather feedback from event attendees on the public room audio quality during the event. Your responses will help us improve the sound quality for future events.

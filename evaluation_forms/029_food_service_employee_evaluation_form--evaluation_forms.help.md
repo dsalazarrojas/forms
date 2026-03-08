@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Food Service Employee Evaluation Form - Help Guide
 ## Purpose
 This form is used to evaluate the performance of food service employees. It collects feedback and ratings on various aspects of their work, including their overall performance, departmental performance, and evaluation status. The form is used to provide a comprehensive assessment of an employee's strengths and weaknesses, and to identify areas for improvement.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a student's progress in learning to drive, specifically their skills and areas for improvement. The purpose of this form is to provide instructors with a structured way to evaluate and provide feedback on a student's driving abilities. The form will likely be used by instructors to assess student progress and identify areas where students need more practice or attention.
-</thinking>
-
 # Student Driver Progress Report Form - Help Guide
 ## Purpose
 This form is intended to be completed by instructors to report on a student's progress in learning to drive. It provides a structured format for evaluating and providing feedback on a student's driving skills and identifying areas for improvement.

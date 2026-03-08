@@ -1,21 +1,3 @@
-<thinking>
-This form is intended to collect information from sports clubs that want to participate in a vendor booth registration process. The form is designed to gather essential details about the vendor, their booth requirements, and payment information. 
-
-This form is meant to be completed by sports clubs that are interested in registering for a vendor booth at an event. It is not intended for event organizers or other stakeholders. 
-
-The form is divided into several sections that cover the vendor's details, their booth requirements, and payment information. 
-
-This form is meant to be completed once per vendor. 
-
-Please note that some fields are optional, and the vendor can choose to provide only the necessary information. 
-
-Before filling out the form, please ensure that you are authorized to represent the sports club. 
-
-The vendor will need to fill out the form accurately and completely to ensure that they are properly registered and their booth is set up correctly. 
-
-This form is only for sports clubs, and other types of vendors are not eligible. 
-</thinking>
-
 # Sports Club Vendor Booth Registration Form - Help Guide
 ## Purpose
 This form is designed to collect registration information from sports clubs that want to participate in a vendor booth at an event. It helps the event organizers to understand the club's requirements and ensure that they are properly registered.

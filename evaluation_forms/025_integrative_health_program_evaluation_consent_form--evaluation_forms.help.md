@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Integrative Health Program Evaluation Consent Form - Help Guide
 
 ## Purpose

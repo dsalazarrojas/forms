@@ -1,8 +1,3 @@
-<thinking>
-To avoid duplication and ensure relevance, let's confirm that the form is meant for booking merchandise stalls for specific events. The form should be completed by vendors or event organizers to provide information about the event, stall details, and payment information. This form will help streamline the process of managing merchandise stalls for events.
-
-</thinking>
-
 # Merchandise Stall Booking Form - Help Guide
 ## Purpose
 The Merchandise Stall Booking Form is designed for vendors or event organizers to book and manage merchandise stalls for specific events. This form helps gather essential details about the event, stall, and payment information in a structured and organized manner.

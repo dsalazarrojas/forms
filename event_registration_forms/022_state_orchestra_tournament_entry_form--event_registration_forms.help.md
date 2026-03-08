@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # state_orchestra_tournament_entry_form - Help Guide
 ## Purpose
 The state_orchestra_tournament_entry_form is used to collect information about a school's orchestra program for an event registration.

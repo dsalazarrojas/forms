@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Virtual Academic Panel Participation Consent Form - Help Guide
 
 ## Purpose

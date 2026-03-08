@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about Halloween events and registrations. It captures details such as attendee names, event dates and times, contact information, and event type (e.g., party, trick-or-treat, costume contest). The event type field is a select-one field, while the event type options field is a select-multiple field to allow users to choose multiple event types. The attendees field is a note field where users can input a list of attendees separated by commas. This form ensures that all required fields are filled out to ensure accurate event registration.
-
-This help guide is intended to clarify the form's purpose, requirements, and field descriptions to make it easier for users to complete the form correctly.</thinking>
-
 # halloween_registration_form - Help Guide
 ## Purpose
 This form is for registering and organizing Halloween events.

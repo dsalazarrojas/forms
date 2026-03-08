@@ -1,7 +1,3 @@
-<thinking>
-  Before diving into the help guide, let's briefly discuss the purpose and design principles of the Summer Camp Arrival Form. The form is designed to collect information from parents or guardians about their camper's arrival time, pick-up location, and emergency contact details. This form will help the camp staff to coordinate and manage camper arrivals and departures efficiently. Please ensure that you only fill out this form once for each camper, and if you have any previous submissions, please review and update your previous form instead of submitting a new one.
-</thinking>
-
 # Summer Camp Arrival Form - Help Guide
 ## Purpose
 The Summer Camp Arrival Form is used to collect essential information from parents or guardians about their camper's arrival time, pick-up location, and emergency contact details. This information is crucial for the camp staff to manage camper arrivals and departures smoothly and ensure the camper's safety.

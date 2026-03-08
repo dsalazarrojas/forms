@@ -1,12 +1,4 @@
-<figure><thinking>
-
-This form is designed for potential event sponsors to register their interest in sponsoring cultural diplomacy events. It collects information about the event organizer, sponsor, and event details. The form ensures that both the event organizer and sponsor are aware of their respective roles, responsibilities, and expectations.
-
-This guide will help users understand how to complete the form accurately and ensure all required fields are filled in.
-
-</thinking>
-
-# Cultural Diplomacy Event Sponsorship Form - Help Guide
+<figure># Cultural Diplomacy Event Sponsorship Form - Help Guide
 ## Purpose
 The purpose of this form is to register a cultural diplomacy event sponsorship, ensuring a clear understanding of event details and sponsorship terms. Please complete this form if you are interested in sponsoring a cultural diplomacy event.
 

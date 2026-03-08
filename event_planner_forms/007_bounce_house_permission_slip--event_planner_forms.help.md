@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to obtain permission from parents or guardians for their child to participate in bounce house activities at an event. This form is a standard requirement to ensure the child's safety and to have on-file contact information in case of an emergency. This form is a one-time submission, and it's recommended that parents or guardians provide accurate and up-to-date information to ensure their child's well-being.
 
 ## Purpose

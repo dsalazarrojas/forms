@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Maternal Workshop Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from participants who have attended the Maternal Workshop. The purpose of the survey is to gather information on their experience, satisfaction, and suggestions for improvement. This feedback will help us refine and enhance future workshops to better meet the needs of our participants.

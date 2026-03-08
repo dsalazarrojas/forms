@@ -1,5 +1,3 @@
-<thinking>...this form is intended to assess the verbal language skills of an individual, gathering information about their native language, test language, score, time taken, date, and other relevant details. To ensure accurate results, please ensure you are completing the form for the correct individual and that you are not duplicating entries. If you are unsure about any of the fields, please refer to the field explanations below...</thinking>
-
 # Verbal Language Assessment Form - Help Guide
 ## Purpose
 The Verbal Language Assessment Form is designed to collect information about an individual's verbal language skills. It includes fields for user input, demographic details, and scoring.

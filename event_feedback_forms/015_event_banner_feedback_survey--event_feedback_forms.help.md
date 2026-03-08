@@ -1,7 +1,3 @@
-<thinking>
-Event Banner Feedback Survey: This form is designed to gather feedback from event attendees on the event banner displayed during the event. The goal is to collect information about the banner's location, content, and overall effectiveness. This feedback will help us understand what attendees think about the banner and identify areas for improvement. Please ensure you fill out this form only once for each feedback session. If you have already submitted feedback for this event, kindly do not resubmit.
-</thinking>
-
 # Event Banner Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from event attendees on the event banner displayed during the event.

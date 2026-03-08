@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Home Care Service Internal Evaluation Questionnaire - Help Guide
 ## Purpose
 This form is designed to help us evaluate the Home Care Service, ensuring that it meets our internal standards for quality and effectiveness. Please take a few minutes to complete this form to provide valuable feedback and insights about your experience with our service.

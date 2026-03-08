@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback and ratings from participants on various aspects of the summer camp experience, such as program quality, fellow campers, counselors, food, facilities, and overall value. This form is designed to be completed by parents or guardians of campers, allowing them to provide their opinions and ratings on their child's experience at the camp.
-
-Before proceeding, please ensure that you are filling out this form for the correct purpose and that you have all the necessary information to complete it accurately. If you have already completed a similar form for the same summer camp, please do not duplicate your effort and instead, refer to your previous submission.
-
-Please note that this form is for general feedback and ratings, and any comments or ratings provided will be reviewed by the camp administrators to help improve and evaluate the summer camp program.
-
-</thinking>
-
 # summer_camp_evaluation_form - Help Guide
 ## Purpose
 The summer camp evaluation form is designed to gather feedback and ratings from parents or guardians on their child's experience at the summer camp. This feedback is essential for the camp administrators to evaluate and improve the program.

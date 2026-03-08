@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that the form "sustainability_summit_attendee_registration" is only used for its intended purpose and not duplicated. This form is designed to collect information from attendees of the sustainability summit, including general information, contact details, activity interests, dietary needs, policy consent, email preferences, and policy declarations. We should check that the form is not used for other purposes or duplicated in other forms to maintain data consistency and prevent confusion.
-
-</thinking>
-
 # sustainability_summit_attendee_registration - Help Guide
 ## Purpose
 The "sustainability_summit_attendee_registration" form is designed to collect information from attendees of the sustainability summit. This form will be used to track attendee details, interests, and preferences.

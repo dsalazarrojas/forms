@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for a gift wrapping event registration. The purpose of this form is to gather details about the participant, including their contact information, event details, and gift list. This form is not intended for internal use within the organization and should only be used for external participant registration.
-This form will collect data from participants and will be used to create a registration record for each participant. It is not intended to be used for internal administrative tasks, such as staff registration or internal event planning.
-</thinking>
-
 # Gift Wrapping Event Registration - Help Guide
 ## Purpose
 The Gift Wrapping Event Registration form is used to collect information from participants to create a registration record for a gift wrapping event. This form is used to gather details about the participant, including their contact information and event details.

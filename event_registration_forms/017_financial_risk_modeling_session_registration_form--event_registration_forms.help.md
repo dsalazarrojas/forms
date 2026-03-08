@@ -1,6 +1,3 @@
-<thinking> 
-This is a form for registering users for a financial risk modeling session. The form is used to gather information about the user, the session details, and other related data. The form is designed to collect data in a structured format, which will help in efficient organization and processing of the data. It is essential to ensure that the form is filled out correctly to avoid any discrepancies or errors in the data.</thinking>
-
 # Financial Risk Modeling Session Registration Form - Help Guide
 ## Purpose
 This form is designed to register users for a financial risk modeling session. It is used to gather information about the user, the session details, and other related data.

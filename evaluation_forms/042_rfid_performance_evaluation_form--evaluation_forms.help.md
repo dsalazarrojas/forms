@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # rfid_performance_evaluation_form - Help Guide
 ## Purpose
 The `rfid_performance_evaluation_form` is used to evaluate and document the performance of RFID systems, including whether RFID tests were conducted and the results of metrics and observations made during these tests.

@@ -1,8 +1,3 @@
-<thinking>
-This form is used to gather information about the user's understanding of various concepts related to dates and times. This form is likely part of a training or educational program to help users learn about the basics of time and date calculation.
-The form is not used for any other purpose other than this educational program. There is no other form with the same name in the current system.
-</thinking>
-
 # New Year Quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge about dates and times. It consists of 12 questions that cover various aspects of time and date calculation.

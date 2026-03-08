@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to create a Secret Santa event. The purpose of this form is to collect information about an event where participants will exchange gifts. The event will have a start and end date, as well as a start and end time. The event will also have a location and a participant limit. This form will help the event host collect all the necessary information to plan and execute the event.
-</thinking>
 # Secret Santa Questionnaire - Help Guide
 ## Purpose
 The Secret Santa Questionnaire is a form designed to collect information about an event where participants will exchange gifts. This form will help the event host gather the necessary details to plan and execute the event.

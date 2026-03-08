@@ -1,13 +1,3 @@
-<thinking>
-# Internal Reasoning Block
-
-This guide should be reviewed for relevance and non-duplication purposes.
-The form is designed to gather information from corporate employees about their well-being and health-related needs for booking and payment purposes.
-The form's purpose should be clearly stated to ensure end-users understand how and why they are being asked to provide information.
-The form should not require end-users to read through every page to understand the main purpose.
-This guide will serve as an entrypoint to the form and its fields.
-</thinking>
-
 # Corporate Wellness Stay Booking Form - Help Guide
 ## Purpose
 This form is designed to help corporate employees book wellness events and manage related payments. By providing the required information, you will be able to book your spot in a wellness event and make payment arrangements.

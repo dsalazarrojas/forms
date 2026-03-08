@@ -1,12 +1,3 @@
-<thinking>
-This form is a Baseball Sponsorship Form Template, used for teams to collect information from potential sponsors. The purpose of this form is to help teams gather relevant information from sponsors about their business, contact details, and sponsorship preferences. This form is designed to be filled out by sponsors, and the information collected will be used by the team to process the sponsorship and communicate with the sponsor throughout the season. 
-
-This form should only be used for Baseball sponsorship, and it's recommended to review the terms and conditions before filling out the form. 
-
-Before starting, please make sure you are a representative of the company or organization filling out this form.
-
-</thinking>
-
 # Baseball Sponsorship Form Template - Help Guide
 ## Purpose
 The Baseball Sponsorship Form is a tool for teams to collect information from potential sponsors. It's essential to fill out this form accurately and completely to ensure that the team can process your sponsorship and communicate effectively throughout the season.

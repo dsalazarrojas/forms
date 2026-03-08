@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about a wedding event's details, including the date, time, location, and music preferences of the couple getting married. The form will be used to create a personalized playlist for the wedding event. The form is not affiliated with any form platform and is an original creation. 
-
-This form is intended for couples planning their wedding event. Please ensure the form's data is accurate and up-to-date before submitting it to the wedding DJ. 
-
-Before starting, please note that this form has multiple pages, and each page is explained below. 
-
-</thinking>
-
 # Wedding DJ Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about a wedding event's details and create a personalized playlist for the couple.

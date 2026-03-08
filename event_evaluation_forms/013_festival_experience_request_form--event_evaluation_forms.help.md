@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from festival-goers about their experience at a festival. The form is used to collect feedback, comments, and other relevant details about the festival. Please only fill out this form if you attended the festival. If you're not sure if this form is for you, please check with the festival organizers to confirm.
-</thinking>
-
 # Festival Experience Request Form - Help Guide
 ## Purpose
 The Festival Experience Request Form is designed to collect feedback and comments from festival-goers about their experience at the festival. Please take a few minutes to fill out this form to help us understand your thoughts and suggestions.

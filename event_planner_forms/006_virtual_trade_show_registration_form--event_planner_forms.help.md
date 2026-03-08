@@ -1,7 +1,3 @@
-<thinking>
-The form is intended for users to register for a virtual trade show. This is likely a one-time event, and the form will be used to collect information from attendees. The goal is to gather contact and event-specific details from users. The form is likely to be used in conjunction with other tools and systems, so it's essential to understand how to complete it correctly.
-</thinking>
-
 # Virtual Trade Show Registration Form - Help Guide
 ## Purpose
 This form is designed for users to register for a virtual trade show. Please fill out the form with your information and event-specific details to help us prepare for the event.

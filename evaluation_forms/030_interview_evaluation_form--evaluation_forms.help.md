@@ -1,5 +1,3 @@
-<thinking>What is the purpose of the Interview Evaluation Form, and how can we ensure that it is used correctly? The form is designed to collect feedback and evaluation data from interviewers after conducting an interview with a candidate. It is essential to use it in a way that captures accurate and unbiased information. This form should be completed for each interview, and the information collected will help in making informed decisions about the candidate. To avoid duplication, please ensure that a new form is not created for the same candidate without a valid reason. If you are unsure about any part of this process, please consult with your supervisor or the relevant team leader.</thinking>
-
 # Interview Evaluation Form - Help Guide
 ## Purpose
 The Interview Evaluation Form is a tool used to collect feedback and evaluation data from interviewers after conducting an interview with a candidate. This information will help in making informed decisions about the candidate.

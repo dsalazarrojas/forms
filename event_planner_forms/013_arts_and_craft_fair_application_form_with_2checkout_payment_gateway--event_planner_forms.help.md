@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from vendors interested in participating in an Arts and Craft Fair. The form requires applicants to provide their personal details, business and product description, booth selection, and other relevant information. This form is designed to be completed by vendors who want to showcase their products or services at the fair, and it will guide them through the process of submitting their application. Please ensure that this form is used only for the intended purpose and is not duplicated or used for other events.
-</thinking>
-
 # Arts And Craft Fair Application Form With 2Checkout Payment Gateway - Help Guide
 ## Purpose
 The form is used to collect information from vendors interested in participating in an Arts and Craft Fair. Vendors will be asked to provide personal details, business and product description, booth selection, and other relevant information. Once completed, the form will direct you to the 2Checkout payment page for secure payment processing.

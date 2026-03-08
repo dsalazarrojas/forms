@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be designed for online contest applications, collecting information from potential applicants to participate in an online contest. The form is structured into multiple sections, each with a specific set of fields. However, upon further inspection, I notice that most fields are optional, and there are no clear instructions on how to complete the form or what information is expected from the applicant. This form seems to be designed for a more automated or technical audience rather than a human user. To make it more user-friendly, it's essential to clarify the purpose and requirements of each field. I'll assume that the form is intended for online contest applications and aim to make it more accessible for end-users.
-
-</thinking>
-
 # online_contest_application_form - Help Guide
 ## Purpose
 This form is designed for potential applicants to provide information about themselves and their application for an online contest. It collects details about the contest information, applicant information, contact details, social media, submission information, terms and conditions, and confirmation of submission.

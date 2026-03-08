@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We are creating this help guide for the "Reunion Registration Form" to ensure that users understand the purpose and functionality of the form. This form is designed to collect information from individuals attending a reunion, which will help organizers and other attendees connect with each other. 
 
 The form is divided into several pages, each containing a set of fields. The following guide will walk you through each page and field, explaining what to expect and how to complete it.

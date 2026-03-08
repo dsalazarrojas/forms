@@ -1,13 +1,3 @@
-<thinking>
-The form is designed to assess the capability index of a workforce by collecting various types of information from employees and their managers. This form should only be filled out by employees and their direct managers. It seems that this form is intended to evaluate multiple aspects of the workforce, possibly for performance assessment, development, or improvement purposes.
-
-Please note that this form has a large number of fields, which might be unnecessary for most use cases. It appears to be a survey-style form with many questions about employees and their managers, likely for the purpose of gathering feedback and opinions. Some of the fields seem to be duplicates or variations of the same type, which could be optimized.
-
-It's also worth noting that some fields are labeled as "Employee Survey", "Manager Survey", and "Comments" but do not specify the context or purpose of these fields. This ambiguity might lead to confusion for the end-users. However, based on the structure and the options provided, it seems that these fields are meant to gather feedback and opinions from employees and their managers.
-
-Before proceeding, please ensure that you have read and understood the purpose and intended use of this form. This will help you to complete it accurately and effectively.
-</thinking>
-
 # Workforce Capability Index Survey - Help Guide
 ## Purpose
 The Workforce Capability Index Survey is designed to assess the capabilities and performance of the workforce. It collects information from employees and their direct managers to help improve the overall performance and development of the team.

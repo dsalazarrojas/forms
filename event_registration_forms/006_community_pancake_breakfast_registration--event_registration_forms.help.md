@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from individuals and families registering for the community pancake breakfast event. It's intended for adults and children to attend, with a focus on collecting contact and payment details for event registration. The form is likely used by community organizers to track attendee information and manage event logistics.
-
-</thinking>
-
 # Community Pancake Breakfast Registration - Help Guide
 ## Purpose
 The Community Pancake Breakfast Registration form is used to collect information from attendees and their families for the event. This guide is designed to walk you through each field and provide guidance on completing it accurately.

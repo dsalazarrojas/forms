@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Referee Online Session Registration - Help Guide
 ## Purpose
 The Referee Online Session Registration form is designed to collect information from users to manage online referee sessions. This form is used to create or update sessions for various events. 

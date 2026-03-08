@@ -1,12 +1,3 @@
-<thinking>
-To ensure that the form is completed accurately and efficiently, let's review the form's purpose and fields. This Hospital Ethics Committee Workshop Evaluation Form is designed to gather feedback and evaluation from attendees after the workshop. The form aims to assess the quality and effectiveness of the workshop, including its purpose, organization, and overall impression. 
-
-The form consists of multiple fields, including:
-* Workshop name and date, which helps track the specific workshop being evaluated.
-* Evaluation scales and comments, which allow attendees to rate the workshop's quality and provide their thoughts.
-* Submitter information, such as their name, department, contact, and job title, which ensures accountability and helps in following up with the submitter.
-</thinking>
-
 # Hospital Ethics Committee Workshop Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback and evaluation from attendees after a hospital ethics committee workshop. It aims to assess the quality and effectiveness of the workshop, including its purpose, organization, and overall impression.

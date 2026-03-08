@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information from teachers and parents/guardians for school field trips. 
-It's likely used by school administrators or staff members to streamline the registration process, ensuring that all required information is collected efficiently. 
-Please ensure that this form is being used for its intended purpose and that the collected data is properly stored and protected.
-</thinking>
-
 # School Field Trip Registration Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from teachers and parents/guardians for school field trips. It's an important tool for school administrators or staff members to collect data efficiently.

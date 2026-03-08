@@ -1,5 +1,3 @@
-<thinking>Store Tasting Report Form is used to document events hosted by stores in your area. This form is meant to be completed by store managers to report on the events they hosted, including the date and name of the event, date and store name, and a brief customer feedback summary. This form ensures that all relevant information is recorded accurately and consistently.</thinking>
-
 # Store Tasting Report Form - Help Guide
 
 ## Purpose

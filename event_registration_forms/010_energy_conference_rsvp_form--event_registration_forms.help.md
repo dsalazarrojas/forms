@@ -1,7 +1,3 @@
-<thinking>
-This form is used to allow attendees to RSVP for the Energy Conference. The form is designed to collect basic contact information, session interests, and other relevant details to ensure a smooth registration process. Please ensure that you complete the form only once, and do not duplicate or reuse your registration.
-</thinking>
-
 # Energy Conference RSVP Form - Help Guide
 ## Purpose
 This form is designed to collect attendee information and preferences for the Energy Conference. It's essential to complete this form accurately to ensure that you receive all relevant updates and information about the event.

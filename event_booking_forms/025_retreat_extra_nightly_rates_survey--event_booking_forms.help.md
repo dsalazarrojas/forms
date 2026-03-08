@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is for collecting event and booking information for retreats. It is designed to be filled out by users to help retreat organizers understand their guests' preferences and needs. Please make sure you have a legitimate reason for filling out this form and that you have not filled out this form before.
 
 </thinking>

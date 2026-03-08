@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from potential judges for a competition. It's intended for individuals who want to apply to judge an event. This form should only be filled out once by each potential judge. Please do not submit multiple applications.
-</thinking>
-
 # Judging Application For Competition - Help Guide
 ## Purpose
 

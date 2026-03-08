@@ -1,7 +1,3 @@
-<thinking>
-This form's purpose is to collect session participation guidelines from participants for an event. These guidelines are essential to ensure a safe and enjoyable experience for all attendees. This form should only be completed once per session. Before filling out this form, review the session guidelines carefully, and make sure to understand the rules and consequences associated with the event and its participation. If you're unsure about any section, please contact the event organizers.
-</thinking>
-
 # Session Participation Guidelines - Help Guide
 
 ## Purpose

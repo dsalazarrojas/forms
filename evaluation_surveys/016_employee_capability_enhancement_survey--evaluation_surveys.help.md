@@ -1,12 +1,3 @@
-<thinking>
-To create an effective help guide for this form, we'll need to consider the purpose of the form, how to complete it, and what each field means. The form appears to be designed to gather employee feedback on their current role, job satisfaction, department, skills level, growth opportunities, availability, satisfaction with growth, contact information, date, and additional select and note fields.
-
-The form's purpose seems to be to collect data on employee perceptions and experiences in the workplace, possibly for HR or management purposes.
-
-Before proceeding, let's confirm that there's no duplication of effort here and that this form is not a subset of another form.
-
-</thinking>
-
 # Employee Capability Enhancement Survey - Help Guide
 ## Purpose
 The Employee Capability Enhancement Survey is designed to gather feedback from employees on various aspects of their work experience. It helps to collect data on employee perceptions and experiences, which can inform HR or management decisions to improve the work environment.

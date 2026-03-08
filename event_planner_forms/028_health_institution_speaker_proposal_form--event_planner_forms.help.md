@@ -1,7 +1,3 @@
-<thinking>
-We're creating this help guide to assist healthcare professionals in filling out the Speaker Proposal Form. This form will help us gather information from speakers who are proposing to talk at our health institution events. Please note that not all fields are required, and you can skip or fill out any of them as needed. Before starting, ensure that you have not submitted a similar proposal recently, as we may not accept duplicate proposals. This form is designed to be completed by speakers who wish to be considered for an event at our institution. Please answer the questions accurately and provide clear descriptions to increase your chances of being selected.
-</thinking>
-
 # Health Institution Speaker Proposal Form - Help Guide
 ## Purpose
 The Speaker Proposal Form is a tool used to gather information from speakers who wish to be considered for an event at our health institution. This form will help us understand your proposal, including your title, abstract, topics, experience, and event details.

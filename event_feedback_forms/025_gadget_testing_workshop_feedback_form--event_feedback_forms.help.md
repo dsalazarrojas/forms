@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback from participants of a Gadget Testing Workshop, a training event designed to test and gather information about gadgets. This form will be used internally to evaluate the effectiveness of the workshop and its organizers. Before filling out this form, ensure that you have participated in the workshop and are providing genuine, constructive feedback. If you have already provided feedback on this workshop, it would be best to skip this form as we do not need duplicate feedback. Please answer these questions truthfully, and feel free to elaborate on your responses if you'd like.
-</thinking>
-
 # Gadget Testing Workshop Feedback Form - Help Guide
 ## Purpose
 

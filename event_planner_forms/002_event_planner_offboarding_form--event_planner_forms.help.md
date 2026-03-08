@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to aid event planners in the offboarding process, helping them gather necessary information from event attendees, project managers, and other stakeholders. The form can be used to collect feedback, track progress, and document the offboarding process. It's essential to ensure that the form is completed accurately and thoroughly to maintain the integrity of the offboarding process.
-
-Before filling out this form, please note that some fields are required, which means they must be filled out to submit the form. Required fields are marked with a asterisk (*) after the label.
-
-</thinking>
-
 # Event Planner Offboarding Form - Help Guide
 ## Purpose
 The Event Planner Offboarding Form is a tool for event planners to collect information from event attendees, project managers, and other stakeholders during the offboarding process. This form helps event planners track progress, gather feedback, and document the offboarding process.

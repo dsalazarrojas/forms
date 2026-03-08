@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to schedule movie nights, and it's intended for event planners to input details about upcoming movie nights. The form includes fields for date, start and end times, event name, location, event duration, number of attendees, movie title, description, movie rating, family-friendliness, contact information, and notes. It also includes fields for recurring events, such as recurrence frequency and time, and recurrence start and end dates. This form is likely used by event planners to coordinate and schedule movie nights for their audience or community.
-</thinking>
-
 # Movie Night Scheduling Form - Help Guide
 ## Purpose
 This form is designed to help event planners schedule movie nights by collecting relevant details about the event.

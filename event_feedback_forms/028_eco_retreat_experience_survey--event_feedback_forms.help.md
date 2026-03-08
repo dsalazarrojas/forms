@@ -1,5 +1,3 @@
-<thinking>...The form is intended to collect feedback from participants of an event called "Eco Retreat". It's designed to gauge their overall experience, covering various aspects such as event details, food quality, and ratings. This information will help event organizers improve the event and tailor it to the preferences of future participants. To provide a comprehensive review, please ensure you're completing the form based on your actual participation in the Eco Retreat. Please do not submit feedback for an event you did not attend or provide redundant information.</thinking>
-
 # Eco Retreat Experience Survey - Help Guide
 ## Purpose
 The Eco Retreat Experience Survey is designed to gather feedback from participants about their experience at the Eco Retreat event. Your responses will help us understand what worked well and what didn't, allowing us to refine the event for future participants.

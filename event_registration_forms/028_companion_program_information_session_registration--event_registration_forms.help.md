@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Companion Program Information Session Registration - Help Guide
 ## Purpose
 The Companion Program Information Session Registration form is designed to collect information from potential participants, volunteers, or attendees about their interest in the Companion Program. This form helps us understand their needs, preferences, and motivations for attending the session. The collected data will be used to tailor the session content, format, and communication to meet the needs of our audience.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for instructors and staff to collect feedback from students after a fitness class. It is used to assess the quality of the class, instructor performance, and overall experience. This form should not be completed by instructors or staff, as it is intended to capture student feedback. Please ensure that each form is completed by a unique student and not duplicated or submitted multiple times by the same student.
-</thinking>
-
 # Fitness Class Evaluation Form - Help Guide
 ## Purpose
 

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information for the registration of events related to healthy sexuality topics, such as workshops, sessions, or other events. The purpose of this form is to gather essential details about the event, including its title, date, time, location, and other relevant information. This form will be used by event organizers to collect data about participants, including their contact information, dietary restrictions, and other relevant details.
-
-Before starting the form, please make sure that the event is not already registered in our system to avoid duplication of efforts.
-
-</thinking>
-
 # healthy_sexuality_event_registration - Help Guide
 ## Purpose
 This form is designed to collect information for the registration of events related to healthy sexuality topics.

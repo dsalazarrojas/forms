@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used for users to schedule an appointment for a drama class. The purpose of this form is to gather information from users about the class they want to attend, the schedule they are available for, and the teacher they would like to work with. The form asks for user information, appointment information, class information, and other relevant details such as teacher and workshop information.
 
 </thinking>

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for event planners to request a bounce house rental for their events. The form collects information about the event, including the type, date, start and end times, location, and preferences for the bounce house and services. This form is used to determine if the company has the necessary resources to fulfill the request, such as a generator or specific bounce house models. The form is designed to be completed by event planners in advance of the event date. The information collected is used to create a booking and quote for the requested services.
-</thinking>
-
 # Bounce House Request Form - Help Guide
 ## Purpose
 The Bounce House Request Form is designed for event planners to submit requests for bounce house rentals. This form helps our team quickly gather the necessary information to determine if we can fulfill your request and create a quote for the services.

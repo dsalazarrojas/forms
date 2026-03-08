@@ -1,7 +1,3 @@
-<thinking>
-This guide assumes that you are filling out a Vip Ticket Payment Form. The form is intended for processing ticket payment information for VIP events. This form may be used to collect payment details and other relevant information from attendees of VIP events. Before starting to fill out the form, please ensure that you have not already done so for the same event. If you have filled out the form previously, you may be able to access your saved data and skip this form. Please proceed with caution and accuracy when filling out the form.
-</thinking>
-
 # vip_ticket_payment_form - Help Guide
 ## Purpose
 This guide helps you complete the Vip Ticket Payment Form, which is used to process ticket payment information for VIP events.

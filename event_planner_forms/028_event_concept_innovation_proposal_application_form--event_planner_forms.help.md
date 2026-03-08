@@ -1,7 +1,3 @@
-<thinking>
-To be honest, it seems like this form is for creating a new event concept proposal. However, I am not sure I fully understand the business logic behind this form. Can you please provide more context about this form's purpose and how it's supposed to help end users? I will make my best effort based on the provided YAML fields to create a help guide that is concrete, concise, and practical.
-</thinking>
-
 # event-concept-innovation-proposal-application-form - Help Guide
 ## Purpose
 The Event Concept Innovation Proposal Application Form is designed to help users submit a new event concept proposal to your organization. This form collects information about the event, including its concept, category, title, description, and logistics.

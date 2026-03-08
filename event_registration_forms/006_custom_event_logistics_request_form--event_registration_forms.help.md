@@ -1,7 +1,3 @@
-<thinking>
-This help guide is designed to assist event planners and organizers in completing the "Custom Event Logistics Request Form" accurately. The form is intended to gather essential information regarding the logistics of an event, including contact details of the event planner, event specifics, vendor information, participant details, and other relevant event-related data. This form should only be filled out for genuine events requiring such detailed information. 
-</thinking>
-
 # Custom Event Logistics Request Form - Help Guide
 ## Purpose
 The Custom Event Logistics Request Form is a comprehensive form used to collect essential information for events. This form aims to gather details about the event planner, event specifics, vendor information, participants, and other crucial event-related data.

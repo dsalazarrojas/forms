@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's confirm that the form is for an "event_planner_forms" category and its title is "Santa Quiz". This form likely aims to gather information or responses related to Santa Claus, and its fields will help users provide their answers or preferences. I'll ensure that each field explanation is based on the provided YAML structure.</thinking>
-
 # Santa Quiz - Help Guide
 ## Purpose
 The Santa Quiz form is designed to gather information about your thoughts and opinions regarding Santa Claus. It's an entertaining way to engage with the public during the holiday season.

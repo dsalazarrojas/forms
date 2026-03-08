@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for a betting pool event. This form is designed to gather personal and event-specific details from attendees, including their full name, contact information, and preferences. The form is used to streamline the registration process for the event.
-</thinking>
-
 # Betting Pool Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from attendees for a betting pool event. Please fill out the form accurately and completely to ensure that your registration is processed efficiently.

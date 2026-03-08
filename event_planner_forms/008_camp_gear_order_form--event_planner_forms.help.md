@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a user-facing help guide for the Camp Gear Order Form to help end users understand its purpose, how to complete it, and what each field means. This guide will be concise, practical, and based on the provided YAML fields. I'll aim to explain each field label in a way that's clear and accurate, without inventing unsupported business logic.</thinking>
-
 # Camp Gear Order Form - Help Guide
 ## Purpose
 The Camp Gear Order Form is designed to help you order camping gear for your next adventure. This form collects information about you, your shipping address, and your gear preferences to ensure your order is processed efficiently and accurately.

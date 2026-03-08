@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for this concert VIP seating reservation form, we'll need to clarify its purpose, explain how to complete it, and break down each field in a clear and concise manner.
-
-The purpose of this form is to allow users to reserve a premium VIP experience for a concert event, choosing from various packages and options to customize their experience. The form will guide users through selecting their preferred package, providing guest information, and finalizing their payment and reservation details.
-
-</thinking>
-
 # Concert VIP Seating Reservation Form - Help Guide
 ## Purpose
 

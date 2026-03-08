@@ -1,9 +1,4 @@
 >
-<thinking>
-The purpose of this form is to collect contact information from users for various purposes such as event registration, newsletter signup, service inquiry, or general information. This form is designed to be user-friendly and intuitive, guiding users through the process of providing their contact details. It is essential to ensure that the form is completed accurately and thoroughly, as it will be used to contact the user in the future. It is not intended to be a one-time submission and may be used for ongoing communication.
-To prevent duplicate submissions, we suggest that users clear their browser cache and cookies or use a private browsing session before filling out the form.
-</thinking>
-
 # Contact Details Form - Help Guide
 ## Purpose
 The Contact Details Form is used to collect and store contact information from users for various purposes such as event registration, newsletter signup, service inquiry, or general information.

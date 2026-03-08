@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from volunteers for a festival event. It's intended for people who want to help out at the event in some capacity. The form has a mix of personal information, event details, and logistical preferences. 
-
-This form will likely be used by event organizers to gather necessary information from volunteers, so it's likely that the form will be used by event staff or event planners rather than regular event attendees. It's possible that the form will be used for other purposes as well, but this is the most logical use case.
-
-The form has 22 fields, but many of them are for organizational purposes and might not be necessary for most volunteers to fill out.
-</thinking>
-
 # Festival Volunteer Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from volunteers for a festival event. Event organizers and planners will use this form to gather essential details about volunteers, including their availability, skills, and preferences.

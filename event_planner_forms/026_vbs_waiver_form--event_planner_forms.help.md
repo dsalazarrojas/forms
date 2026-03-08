@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from users for various waiver forms. The purpose of this form is to gather relevant data from users to ensure a smooth and safe experience for all attendees. It's essential to fill out this form accurately and thoroughly to avoid any potential issues. Please note that some fields are required, while others are optional. Be sure to check the "How To Complete This Form" section for further instructions.
-</thinking>
-
 # vbs-waiver-form - Help Guide
 ## Purpose
 The vbs-waiver-form is used to collect information from users for various waiver forms.

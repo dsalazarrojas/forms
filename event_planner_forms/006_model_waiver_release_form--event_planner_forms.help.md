@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # model-waiver-and-release-form - Help Guide
 
 ## Purpose

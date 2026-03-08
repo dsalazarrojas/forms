@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Internal Check: This form was created using AI, please validate and confirm if it meets the company's requirements before publishing. This form was created using a public survey topic metadata as inspiration and is not affiliated with or endorsed by any form platform.**
 
 </thinking>

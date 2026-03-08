@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to register customers for curbside service, which is a service where a representative will come to a customer's home or business to provide assistance. This form is likely to be used by customers who are unable to visit a physical location or need support with a specific issue. The form will collect basic contact information and event details, such as the date and time of the event. The form's fields will be used to determine the best course of action for the customer's curbside service request. It's likely that this form will be used by customers who are unable to visit a physical location or need support with a specific issue. This form will not be used for general customer support or service requests. It is a specific form for customers who need assistance with their curbside service.</thinking>
-
 # Curbside Service Registration - Help Guide
 ## Purpose
 The Curbside Service Registration form is used to register customers for curbside service, where a representative will visit a customer's home or business to provide assistance. This service is ideal for customers who are unable to visit a physical location or need support with a specific issue.

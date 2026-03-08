@@ -1,7 +1,3 @@
-<thinking>
-This form, "Camp Registration Form PayPal Checkout," is used by parents or guardians to register their child(ren) for a camp session. It gathers information on the camper's details, parent/guardian's information, camp session selection, and billing details. This form is likely used by camp administrators or coordinators to gather necessary data for processing and preparing for the camp. It is essential to fill it out accurately and thoroughly to ensure correct processing of the registration. Please ensure that you have filled out the form with the correct information before submitting it.
-</thinking>
-
 # Camp Registration Form PayPal Checkout - Help Guide
 ## Purpose
 The Camp Registration Form PayPal Checkout is used to collect information from parents or guardians to register their child(ren) for a camp session.

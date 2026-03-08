@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to capture details of Girl Scout events, including event titles, dates, locations, numbers of attendees, risk assessment scores, and safety measures taken. The form has multiple sections, one for each event, allowing you to record up to 3 events. Each section is similar, with fields for title, date, location, number of scouts and leaders attended, risk assessment score, safety measures taken, and comments.
-
-The form is likely used by Girl Scout event organizers to evaluate and document their events, and may be used for planning and improvement purposes.
-
-Before filling out the form, please ensure that you are familiar with the events you are reporting on, and that the information you enter is accurate and up-to-date.
-
-</thinking>
-
 # Girl Scout Event Evaluation Form - Help Guide
 ## Purpose
 The Girl Scout Event Evaluation Form is designed to help event organizers evaluate and document Girl Scout events.

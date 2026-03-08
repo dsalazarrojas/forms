@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the subject's personality traits, preferences, and behaviors. The form is designed to be a tool for evaluation and understanding of individual characteristics. This form is a unique creation and not affiliated with any specific form platform, and its use, modification, and distribution are encouraged under the Creative Commons BY 4.0 license.
-</thinking>
-
 # personality_questionnaire_template - Help Guide
 ## Purpose
 This form is a personality questionnaire designed to assess the respondent's traits, preferences, and behaviors. It consists of a series of questions that aim to understand their approach to new experiences, handling of unexpected challenges, motivations, values, and preferred activities.

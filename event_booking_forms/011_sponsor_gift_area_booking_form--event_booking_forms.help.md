@@ -1,10 +1,3 @@
-<thinking>
-This form is likely intended for a corporate event or function where sponsors can book a gift area, which could be for displaying gifts or other items for guests to view or interact with. The form likely requires the sponsor's information, gift details, and other relevant booking information.
-
-Form submission might trigger internal notifications or actions, and the form's fields should provide clear and concise information to the end-user to facilitate efficient submission.
-
-Please ensure this form is not duplicated by other users. Each submission should be unique, and the form might not be intended for mass bookings. 
-</thinking>
 # Sponsor Gift Area Booking Form - Help Guide
 ## Purpose
 This form is designed to collect booking information for a sponsor's gift area at an event. The form helps the sponsor to provide details about their gift and the recipient in a clear and organized manner.

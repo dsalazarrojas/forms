@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Executive Coaching Program Insight Survey - Help Guide
 ## Purpose
 This form is part of the Executive Coaching Program, designed to collect valuable insights from participants to improve the program's effectiveness. The information gathered will help the program's administrators to tailor the program to meet the needs of its participants better.

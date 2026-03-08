@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information for a physical therapy evaluation. 
-The form's purpose is to assess the patient's health status, evaluate their physical therapy progress, and record any relevant comments or observations. This form can be used by physical therapists or healthcare professionals to conduct thorough evaluations, track patient progress, and make data-driven decisions.
-
-Form fields are organized into several sections, each focusing on a specific aspect of the patient's information. Before filling out the form, please ensure that you have all necessary information and documentation, as some fields are optional but still require valid responses.
-
-To complete this form, follow the steps below:
-
-</thinking>
 # Physical Therapy Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect information for a physical therapy evaluation, which is used to assess the patient's health status, evaluate their physical therapy progress, and record any relevant comments or observations.

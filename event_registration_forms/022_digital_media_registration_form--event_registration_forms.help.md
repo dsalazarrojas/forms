@@ -1,14 +1,3 @@
-<thinking>
-  This form is intended to gather information about participants in digital media events, 
-  specifically event details, contact information, and participant agreements. It is used 
-  to register participants for digital events, ensuring that they have provided the 
-  necessary information and have agreed to participate. This form is likely used in 
-  conjunction with other forms to gather event-specific information and track participant 
-  progress. Please review each field carefully to ensure that you understand its purpose 
-  and how to complete it accurately. Note that some fields may be optional, but ensure 
-  that you complete all required fields to register a participant successfully.
-  </thinking>
-
 # digital_media_registration_form - Help Guide
 ## Purpose
 This form is used to register participants for digital media events. It collects event details, contact information, and participant agreements.

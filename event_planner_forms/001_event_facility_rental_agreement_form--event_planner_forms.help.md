@@ -1,7 +1,3 @@
-<thinking>
-This form is for creating an event facility rental agreement, which outlines the terms and conditions for renting a facility for an event. It is likely intended for event planners and facility managers to collaborate on event details. This form should help prevent duplicated or incomplete event rental agreements by ensuring that all necessary information is captured correctly.
-</thinking>
-
 # Event Facility Rental Agreement Form - Help Guide
 ## Purpose
 The Event Facility Rental Agreement Form is a crucial document that outlines the terms and conditions for renting a facility for an event. It ensures that both the event planner and facility manager have a clear understanding of the event details, reducing misunderstandings and errors.

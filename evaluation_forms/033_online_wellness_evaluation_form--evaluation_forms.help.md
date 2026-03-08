@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about an individual's online wellness evaluation. The purpose of this form is to gather data on a person's medical history, current medications, lifestyle habits, wellness goals, concerns, and other relevant information. This form is intended for internal use within an organization, and the data collected will be used to support the individual's wellness plan. Before starting, please ensure you have not already completed this form. If you have any questions or concerns, please reach out to the relevant department for support.
-</thinking>
-
 # online_wellness_evaluation_form - Help Guide
 ## Purpose
 This form is designed to collect information about an individual's online wellness evaluation.

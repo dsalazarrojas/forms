@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to filter sports events based on date-related criteria. The form is intended to be used by event organizers and participants to select specific date ranges for events in the sports domain. The form's purpose is to provide a simple and efficient way to filter events by start date, end date, or date range. 
-
-To complete this form, follow these steps:
-
-1.  The form is divided into pages, but since there are only four fields, we will focus on each field separately.
-2.  Each field is labeled and explained in detail below.
-
-</thinking>
-
 # Sports Events Date Filter - Help Guide
 ## Purpose
 The Sports Events Date Filter form is designed to help event organizers and participants filter sports events based on date-related criteria, making it easier to find specific events within a certain date range or on specific dates.

@@ -1,19 +1,4 @@
-> <thinking>
-The purpose of this form is to collect relevant information from individuals or teams seeking access to a season pass. The form is designed to gather contact details, season pass type, and payment information to facilitate the application process. To ensure accurate completion, review the form fields carefully and fill in the required and optional fields as needed.
-
-To complete this form:
-
-1. Review each field carefully to ensure you've included all necessary information.
-2. Enter the Application Form with your details and attach any required attachments (Application Form Attachment 1-4).
-3. Choose your season pass type and select 'Yes' for Team Pass if you're applying on behalf of a team.
-4. Enter your contact details and confirm them.
-5. Choose your payment method and enter the payment details.
-6. Attach payment receipts as needed.
-7. Review and agree to any applicable agreements.
-
-</thinking>
-
-# Season Pass Access Form - Help Guide
+> # Season Pass Access Form - Help Guide
 ## Purpose
 
 The purpose of this form is to collect relevant information from individuals or teams seeking access to a season pass.

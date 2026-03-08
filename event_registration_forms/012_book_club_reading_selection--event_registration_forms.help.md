@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed for members of a book club to submit their suggestions for future reads. The purpose of this form is to gather information about the book selection process, allowing the club to collectively decide on the next book to read. This form ensures that each book suggestion is thoroughly considered, with all relevant details such as title, author, and publication year, making it easier for the club members to make an informed decision. 
-
-The form should only be filled out once per book suggestion. If a member has previously submitted a suggestion for the same book, it will not be accepted as a new submission.
-
-</thinking>
-
 # Book Club Reading Selection - Help Guide
 ## Purpose
 The form is designed for members to submit book suggestions for future reads.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Silent Journey Feedback Form - Help Guide
 
 ## Purpose

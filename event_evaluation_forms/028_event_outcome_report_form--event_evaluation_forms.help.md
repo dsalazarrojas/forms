@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Event Outcome Report Form - Help Guide
 
 ## Purpose

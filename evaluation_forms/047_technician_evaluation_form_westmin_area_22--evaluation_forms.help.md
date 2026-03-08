@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is being completed for its intended purpose and not duplicated or submitted with irrelevant information. This form is designed to evaluate the performance of a technician who provided service in Westmin Area 22. To complete this form, please follow the steps and explanations provided below.
-</thinking>
-
 # Technician Evaluation Form Westmin Area 22 - Help Guide
 ## Purpose
 The purpose of this form is to assess the performance of the technician who provided service in Westmin Area 22. Your feedback will help us evaluate their skills, attitude, and overall quality of service.

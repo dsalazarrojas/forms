@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect party details and contact information from event planners and organizers for events such as parties, conferences, or corporate events. It should be completed by the party host or planner who will be in charge of the event. This form is not required, but it will help the event team to better understand the event requirements and provide better support.
-</thinking>
-
 # Party Order Form - Help Guide
 ## Purpose
 The Party Order Form is used to collect party details and contact information from event planners and organizers for events such as parties, conferences, or corporate events.

@@ -1,6 +1,3 @@
-<thinking>
-This form is used for conference booking requests. It's designed to collect information about the conference event, its attendees, and the hosting organization's details. This guide will walk you through how to fill out the form correctly. Please ensure you're filling out the form for a new event, as this form is not meant for recurring or duplicate events.</thinking>
-
 # Conference Booking Request Form - Help Guide
 
 ## Purpose

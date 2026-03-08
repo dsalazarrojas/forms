@@ -1,7 +1,3 @@
-<thinking>
-Internal Note: This form is for evaluating employee performance, focusing on various aspects of an employee's work, including department affiliation, job title, project involvement, performance metrics, work quality, and leadership skills. Before filling out this form, please review the employee's performance record and ensure you are not duplicating evaluation efforts.
-</thinking>
-
 # Employee Evaluation Form - Help Guide
 ## Purpose
 This form is designed to provide an objective evaluation of an employee's performance and work quality. It assesses their strengths and areas for improvement, helping to guide future development and growth.

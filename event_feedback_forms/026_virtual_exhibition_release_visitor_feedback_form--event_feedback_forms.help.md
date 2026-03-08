@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the "Virtual Exhibition Release Visitor Feedback Form", I will first analyze the provided YAML fields and create a brief internal reasoning block to explain the form purpose and checks for relevance and non-duplication.
 
 Internal reasoning block:

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback and evaluations from end-users on an online self-care course, capturing information on the course name, instructor, and various aspects of the course, including its outcomes, evaluation, and suggestions for improvement. This form is likely used by instructors or course administrators to collect data that informs future course development and improvement decisions.
-</thinking>
-
 # online_selfcare_course_evaluation_form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback and evaluations from end-users on an online self-care course.

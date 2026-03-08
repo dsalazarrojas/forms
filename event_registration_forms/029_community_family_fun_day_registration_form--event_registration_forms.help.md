@@ -1,7 +1,3 @@
-<thinking>
-The Community Family Fun Day Registration Form is used to collect information from participants and their families to plan and execute the event efficiently. This form helps us understand who's attending, their preferences, and any special needs. Please make sure to fill out the form accurately and completely.
-</thinking>
-
 # Community Family Fun Day Registration Form - Help Guide
 ## Purpose
 The Community Family Fun Day Registration Form is designed to collect necessary information from participants and their families to ensure a successful and enjoyable event. This guide will walk you through each section of the form to help you complete it easily.

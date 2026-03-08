@@ -1,8 +1,4 @@
-# <thinking>
-To ensure the form's purpose and relevance, I will review the form's metadata and structure. The provided YAML fields indicate that this form is designed to collect visitor registration information. The "visitor_name", "last_name", "email", "visit_date", "visit_time", "contact_person", "purpose_of_visit", and "notes" fields are all intended for data collection. However, some fields have a lower priority in the form schema, which may suggest they are not required for the overall form's purpose. This guide will provide an in-depth explanation of the form's purpose, how to complete it, and a field-by-field breakdown of each field.
-</thinking>
-
-# Visitor Register Form - Help Guide
+# # Visitor Register Form - Help Guide
 ## Purpose
 The Visitor Register Form is a tool used to collect registration information from visitors when they arrive at a facility. It's designed to gather basic details about each visitor and their purpose of visit. The form helps to create a record of each visit, which can be used for various administrative and analytical purposes.
 

@@ -1,11 +1,3 @@
-<thinking> 
-
-This form, "Transparency Audit Conference Registration", is a tool for attendees to register for events or conferences, such as the Transparency Audit Conference. The purpose of the form is to collect information about the attendees, their preferences, and their attendance modes. It is designed to be completed by the end-users for internal organizational purposes.
-
-The form has several fields, each of which is explained below. Before proceeding, it is essential to note that the form is divided into two main sections: attendee information and session preferences. The attendee information section includes fields for the attendee's name, email, phone number, and notes. The session preferences section is where attendees can choose which sessions they would like to attend. 
-
-</thinking>
-
 # Transparency Audit Conference Registration - Help Guide
 
 ## Purpose

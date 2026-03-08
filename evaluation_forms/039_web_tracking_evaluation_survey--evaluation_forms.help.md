@@ -1,20 +1,3 @@
-<thinking>
-This form is likely used for evaluating web tracking technologies and the user experience of a website. The form is designed to collect information about the user's experience with various tracking technologies. The purpose of the form is to gather feedback and ratings from users. I assume this form is part of a larger study or research project, possibly for a company or organization that wants to improve their website's user experience.
-
-To confirm, the form has the following fields:
-
-* First name (text input)
-* Email (email input)
-* Company (text input)
-* Website (text input)
-* Which of the following tracking technologies have you used? (select multiple options)
-* Rating for this survey (note field, likely for a numerical rating)
-* Feedback (text input)
-
-I'm assuming the select_multiple field "Which of the following tracking technologies have you used?" is asking the user about their experience with specific tracking technologies, and the user can select multiple options. I'm also assuming the note field "Rating for this survey" is for the user to provide a numerical rating for the survey itself, not for a specific feature or technology.
-
-Please let me know if this is correct or if I need to make any adjustments.</thinking>
-
 # Web Tracking Evaluation Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and ratings from users about their experience with web tracking technologies. It is intended to help the website's owner or administrator improve the user experience.

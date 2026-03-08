@@ -1,20 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback and evaluations from students who have taken a healthcare course. The purpose of this form is to gather information about the course's effectiveness, quality, and instructor performance. This form will help the course administrators understand the strengths and weaknesses of the course, identify areas for improvement, and provide valuable insights to improve future course offerings.
-
-The form consists of 6 fields:
-
-1. **Course Name** (text): Please enter the name of the course you took.
-2. **Course Format** (select one): Choose the format of the course, which was in person, online, or hybrid.
-3. **Course Duration** (number): If you know, please enter the duration of the course in hours or weeks.
-4. **Instructor Name** (text): Please enter the name of the course instructor.
-5. **Course Rating** (number): Rate the course out of 5, with 1 being the lowest and 5 being the highest.
-6. **Feedback** (text): Share any additional comments or suggestions you have about the course.
-
-Before starting, make sure you have all the necessary information about the course you took. This form is intended for individual students, so please provide feedback based on your personal experience.
-
-</thinking>
-
 # Healthcare Course Evaluation Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and evaluations from students who have taken a healthcare course. The purpose of this form is to gather information about the course's effectiveness, quality, and instructor performance.

@@ -1,6 +1,3 @@
-<thinking>
-This form is meant to help freshers (new students) submit plays for an event such as a drama festival or performance. The form likely aims to collect information from students about a play they wish to submit, including details about the play, the student submitting it, and the submission process. It seems to be a one-time submission form and does not need to be filled out multiple times. The fields seem to cover a range of information including the play's title, description, genre, language, rating, and submission details. I will create a help guide that explains each field and how to complete this form.</thinking>
-
 # Freshers’ Fest Play Submission Form - Help Guide
 ## Purpose
 The Freshers’ Fest Play Submission Form is a one-time submission form for new students to submit their plays for an event. Please fill out this form to provide necessary information about your play and your details for submission.

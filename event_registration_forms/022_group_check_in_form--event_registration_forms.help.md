@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Group Check In Form - Help Guide
 
 ## Purpose

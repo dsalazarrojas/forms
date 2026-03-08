@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to collect information about event setup and configuration, including event fields, date, time, location, and contact details. The form will help ensure that users complete the necessary steps for a well-planned and organized event.
-</thinking>
-
 # Event Table Setup Checklist - Help Guide
 ## Purpose
 This form is designed to help you set up a comprehensive event table with all the necessary details. This includes fields, date, time, location, and contact information to ensure a smooth and organized event.

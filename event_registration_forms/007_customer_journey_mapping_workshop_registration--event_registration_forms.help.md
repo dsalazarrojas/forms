@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from customers for a workshop registration related to customer journey mapping. The purpose of this form is to collect attendee details, including name, email, and company, which will be used to manage the workshop registration process. Before filling out this form, please ensure that you have not previously registered for this workshop, as duplicate registrations may be deleted. This form will help us understand your interest in customer journey mapping and tailor our workshop content to your needs.
-</thinking>
-
 # Customer Journey Mapping Workshop Registration - Help Guide
 
 ## Purpose

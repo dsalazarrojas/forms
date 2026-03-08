@@ -1,7 +1,3 @@
-<thinking>
-The form "Finishing Tips And Checklist" is designed to collect information and preferences for a specific event or activity. This guide will walk you through the purpose of the form, how to complete it, and an explanation of each field to ensure you get the most out of the form.
-</thinking>
-
 # Finishing Tips And Checklist - Help Guide
 ## Purpose
 The "Finishing Tips And Checklist" form is intended to gather essential information about events, activities, or tasks. It consists of three main sections: "Finishing Tips", "Checklist", and "Event Details". By providing accurate and relevant input, you'll be able to generate a comprehensive report that will help you complete tasks and events efficiently.

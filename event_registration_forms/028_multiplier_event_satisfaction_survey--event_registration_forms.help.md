@@ -1,16 +1,3 @@
-<thinking>
-The Multiplier Event Satisfaction Survey is designed to collect feedback from attendees of online events organized by the event multiplier team. This form allows attendees to express their opinions and suggestions on the organization, content, and overall experience of the event. It is not a required form for attendees, but rather an optional way for them to provide their feedback, which will be used to improve future events.
-
-The form is structured to gather information on the following topics:
-- The online event's organization and structure
-- The quality and quantity of content presented during the event
-- The overall experience of the attendee
-- Suggestions for improvement
-- Contact information (email and phone number, if provided)
-
-Please ensure that the feedback provided is accurate and relevant to the specific event in question.
-</thinking>
-
 # Multiplier Event Satisfaction Survey - Help Guide
 ## Purpose
 This guide will walk you through the steps to complete the Multiplier Event Satisfaction Survey.

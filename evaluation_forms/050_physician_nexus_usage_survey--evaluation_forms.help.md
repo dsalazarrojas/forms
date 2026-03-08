@@ -1,21 +1,3 @@
-<thinking>
-This form is designed to collect feedback and usage information from physicians who use Nexus, a medical software platform. The form is intended to help the development team understand how often physicians use Nexus, how many patients they see per week, and their overall satisfaction with the platform. The questions are designed to be simple and concise, allowing physicians to provide valuable insights without requiring extensive effort. This form is meant to be filled out by physicians who use Nexus, and the information collected will help improve the platform for future users.
-
-Please note that this form is not intended to be a comprehensive user survey, but rather a brief and focused assessment of physician usage. The form is divided into several fields, each with a specific purpose:
-
-*   First name and last name are collected to understand the user's identity.
-*   Job title is collected to understand the user's role in the healthcare industry.
-*   Department is collected to understand the user's workplace or affiliation.
-*   Date joined is collected to understand when the user started using Nexus.
-*   Role is collected to understand the user's level of involvement with Nexus.
-*   Survey questions are collected to gather feedback on Nexus usage frequency, patient load, and feature requests.
-*   Comments are collected to gather additional feedback or suggestions.
-*   Email and phone number are collected to confirm user contact information.
-*   Email and phone number verification fields are collected to confirm user contact information.
-
-The form is designed to be easy to fill out and requires minimal effort from the user. Each field is explained in this help guide to ensure that the user understands the purpose and requirements of each field.
-</thinking>
-
 # physician_nexus_usage_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and usage information from physicians who use Nexus, a medical software platform. The form is intended to help the development team understand how often physicians use Nexus, how many patients they see per week, and their overall satisfaction with the platform.

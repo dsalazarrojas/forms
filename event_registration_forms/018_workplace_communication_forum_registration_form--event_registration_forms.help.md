@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect registration information from users for a workplace communication forum. This form is used to gather contact and personal details from participants, along with their role and department within the organization. The form is designed to be completed by individuals who wish to attend the forum. It's essential to ensure that only unique, up-to-date information is submitted to avoid duplication.
-
-The following guide will walk you through the process of completing this form:
-
-</thinking>
-
 # Workplace Communication Forum Registration Form - Help Guide
 ## Purpose
 This form is used to register for the workplace communication forum. Please fill in your details accurately to ensure you receive updates and information about the event.

@@ -1,7 +1,3 @@
-<thinking>... internal reasoning: The form is used to collect feedback from training participants about their experience and rating of a training session. This form is intended to help improve the quality of future sessions. The form should only be filled out by the participants of the session being feedbacked. 
-
-</thinking>
-
 # Training Feedback Form - Help Guide
 ## Purpose
 The Training Feedback Form is used to collect feedback from participants on their experience and rating of a training session. This form is meant to help improve the quality of future sessions.

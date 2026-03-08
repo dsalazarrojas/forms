@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The "Event Crew Rest Area Booking Form" is used for booking a rest area for events or conferences. It is a straightforward form designed to collect essential information from event planners and organizers. This form is intended to be completed by the event crew, and the information collected will be used to provide the necessary support and services during the event. Please ensure that the correct information is provided, as it will directly impact the event's success. If you have any doubts or uncertainties, refer to the "Tips" section at the end of this guide.
 
 # Event Crew Rest Area Booking Form - Help Guide

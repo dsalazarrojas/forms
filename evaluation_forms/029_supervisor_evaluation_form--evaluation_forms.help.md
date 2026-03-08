@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is for a supervisor to evaluate an employee's performance, providing feedback on their progress, strengths, and areas for improvement. This form aims to facilitate a structured and systematic review process to ensure that evaluations are comprehensive and fair.
-
-Before starting, please make sure you have reviewed the employee's performance data in the system and that the evaluation is not a duplicate.
-
-</thinking>
-
 # Supervisor Evaluation Form - Help Guide
 ## Purpose
 The Supervisor Evaluation Form is designed to help supervisors evaluate employee performance, providing a structured and systematic review process.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the "Quality Technology Exchange Registration Form", I will follow the specified structure and guidelines.
 
 # Quality Technology Exchange Registration Form - Help Guide

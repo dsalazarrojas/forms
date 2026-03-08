@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals or companies seeking sustainable production certification. The purpose of this form is to gather necessary details for the certification process, such as production process, contact information, and certification status. It is essential to fill out this form accurately to ensure a smooth and efficient certification process.
-
-Before completing the form, please note that:
-
-* This form is not meant for production companies that do not require sustainable production certification.
-* The certification process is not a guarantee, and additional information may be required to facilitate the process.
-
-The form consists of 10 fields, each with specific labels and hints to guide the user through the completion process. Each field is labeled with a brief description, a corresponding hint, and a required/optional status.</thinking>
-
 # Sustainable Production Certification Registration Form - Help Guide
 ## Purpose
 The Sustainable Production Certification Registration Form is designed to collect information from individuals or companies seeking sustainable production certification. The form is used to gather necessary details for the certification process, ensuring a smooth and efficient evaluation.

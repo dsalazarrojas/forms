@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a form designed for registering attendees for a Workforce Development Week event. The form should help users understand its purpose, how to complete it, and what each field means.
-</thinking>
-
 # Workforce Development Week Registration Form - Help Guide
 ## Purpose
 This form is used to register attendees for the Workforce Development Week event. It collects information about each attendee, including their personal details, event participation, and registration method. 

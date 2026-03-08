@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide is intended for individuals who are filling out the Christmas Present Form for a loved one. The form is designed to gather information about the recipient and their preferences to help create a personalized and enjoyable Christmas gift experience. The guide will walk you through each section of the form, explaining the purpose and required information for each field.
 
 # Christmas Present Form - Help Guide

@@ -1,5 +1,3 @@
-<thinking>Parent Feedback Form is used to collect feedback from parents and guardians, and it is designed to be completed for each individual child. The form has multiple pages that ask for different information such as First name, Last name, Email, Feedback, and more. Each field is marked as required or optional, and some fields have specific types like date, time, select one, and select multiple. To prevent data duplication, this form is designed to be used for each child individually. Please ensure to complete the form for each child separately.</thinking>
-
 # Parent Feedback Form - Help Guide
 ## Purpose
 The Parent Feedback Form is used to collect feedback from parents and guardians for each child.

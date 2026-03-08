@@ -1,13 +1,3 @@
-<thinking>
-
-This form, "public_event_participation_waiver_form", is designed to collect information from event participants to ensure their safety and well-being during public events. It is essential to complete this form to provide the necessary details required for a smooth and safe event experience. 
-
-The form collects personal and event-specific information, including participant's name, contact information, medical history, and emergency contact information. It also includes a waiver section where participants are required to read and understand the terms and conditions, event rules, and permission for data sharing. 
-
-It is crucial to fill out this form accurately to avoid any potential issues or misunderstandings during the event.
-
-</thinking>
-
 # public_event_participation_waiver_form - Help Guide
 ## Purpose
 This form is designed to collect information from event participants for their safety and well-being during events.

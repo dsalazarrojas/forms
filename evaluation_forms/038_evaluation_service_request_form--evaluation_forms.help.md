@@ -1,12 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the Evaluation Service Request Form, I'll analyze the provided YAML fields and ensure that the guide is concrete, concise, and practical.
-
-**Internal reasoning:**
-This form is designed to collect essential information from businesses seeking an evaluation service. The evaluation service is likely for quality, safety, and security assessments. The form asks for business contact information, preferred date and time, assigned tools, category selection, multiple location selection, and additional notes. The fields are organized to gather all necessary details for a smooth evaluation process.
-
-</thinking>
-
 # Evaluation Service Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from businesses seeking an evaluation service, primarily for quality, safety, and security assessments. It helps us understand your needs and preferences for the evaluation process.

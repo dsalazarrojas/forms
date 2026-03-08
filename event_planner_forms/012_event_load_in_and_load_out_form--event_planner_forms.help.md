@@ -1,5 +1,3 @@
-<thinking>From a quick scan of the provided YAML, it appears that this form is designed to collect information related to events, specifically the load-in and load-out processes. This form likely serves as a data collection tool for event planners and coordinators to organize and record events, including load-in and load-out dates, times, locations, and supplies. The form seems to cater to a specific business need, possibly within an event planning or logistics domain.</thinking>
-
 # Event Load In And Load Out Form - Help Guide
 
 ## Purpose

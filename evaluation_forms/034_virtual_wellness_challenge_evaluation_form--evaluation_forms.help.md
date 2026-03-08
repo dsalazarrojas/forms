@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and evaluation data from participants in a Virtual Wellness Challenge. This form is designed to gather insights on the participant's experience, overall satisfaction, and any suggestions for improvement. This form will likely be used by the wellness program team to inform future program development and delivery.
- 
-Before completing this form, please ensure that you have not already submitted an evaluation for the same challenge. Duplicates will be automatically removed from the analysis.
-</thinking>
-
 # Virtual Wellness Challenge Evaluation Form - Help Guide
 ## Purpose
 The Virtual Wellness Challenge Evaluation Form is designed to collect feedback and evaluation data from participants in a Virtual Wellness Challenge.

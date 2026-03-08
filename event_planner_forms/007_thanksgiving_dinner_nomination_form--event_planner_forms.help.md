@@ -1,9 +1,3 @@
-<thinking>
-This guide is for users who want to fill out the Thanksgiving Dinner Nomination Form. Please only fill this form if you need to submit a nomination for a Thanksgiving dinner event. Do not submit multiple nominations for the same event. The form has 12 fields and requires the following information: 
-- Name, email address, phone number, event date, event time, nomination details, supporting families, community contributions, holiday promotions, comments (optional), and the tool assigned to the event. 
-
-</thinking>
-
 # Thanksgiving Dinner Nomination Form - Help Guide
 ## Purpose
 This form is used to submit nominations for a Thanksgiving dinner event. Please fill out the form completely and accurately to ensure your nomination is successfully received.

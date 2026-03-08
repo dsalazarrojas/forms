@@ -1,9 +1,3 @@
-<thinking>
-
-The form is for creating a race finish line arch rental order form, which is a form for event organizers to book a finish line arch for their races. The form is used to gather information about the event, including details about the race, the finish line arch, and other relevant event information. The purpose of the form is to ensure that the finish line arch is properly prepared and set up for the event.
-
-</thinking>
-
 # Race Finish Line Arch Rental Order Form - Help Guide
 
 ## Purpose

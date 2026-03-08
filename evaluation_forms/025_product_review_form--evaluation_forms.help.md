@@ -1,9 +1,3 @@
-<thinking>
-
-The form appears to be a generic product review form, likely used for customers to provide feedback on products they have purchased or interacted with. This form might be used by various product teams or customer support to collect and analyze user feedback. Before proceeding, ensure this form isn't being used in a context where it's already being handled by another system or team, and make sure to communicate with relevant stakeholders to avoid duplication of efforts.
-
-</thinking>
-
 # Product Review Form - Help Guide
 ## Purpose
 This form is designed to collect user feedback on products, allowing customers to provide their opinions and ratings on products they have interacted with. This data will be used by product teams to improve and refine their products.

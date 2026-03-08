@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Feedback On Proposed Agenda - Help Guide
 
 ## Purpose

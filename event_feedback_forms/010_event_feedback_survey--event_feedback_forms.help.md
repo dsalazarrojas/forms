@@ -1,26 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from event attendees on their overall satisfaction and experience with the event. The purpose of this form is to help event organizers understand the attendees' perceptions and opinions on various aspects of the event, such as the venue, speakers, and overall experience. This feedback will help event organizers to improve future events and provide better experiences for attendees.
-
-The form is structured into several sections, each focusing on a specific aspect of the event. The sections include overall satisfaction, venue rating, speaker rating, overall suggestions, additional feedback, attendee information, event information, and overall satisfaction score. 
-
-This form requires the following information:
-
-- Event name
-- Event date
-- Event start time
-- Event venue
-- Event speaker
-- Event type
-- Overall satisfaction score
-- Overall satisfaction average
-- Venue satisfaction
-- Speaker satisfaction
-
-This form is intended to be completed by event attendees, and their feedback will be used to improve future events.
-
-</thinking>
-
 # Event Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from event attendees on their overall satisfaction and experience with the event.

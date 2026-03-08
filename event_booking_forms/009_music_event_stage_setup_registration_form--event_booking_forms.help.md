@@ -1,8 +1,3 @@
-<thinking> 
-The Music Event Stage Setup Registration Form is designed to collect information for the performance stage setup at a music event. Before filling this form, please ensure that you've been properly authorized to access and use the event spaces. Additionally, ensure that you've read and understood the event's terms and conditions, including any specific requirements for the stage setup. This form should not be submitted by anyone who has already registered for the same event, as each submission is considered a separate registration. Please fill in the form accurately and thoroughly, and ensure that you've provided all necessary information. This form is intended for event organizers and performers to collaborate on stage setup details. 
-
-</thinking>
-
 # Music Event Stage Setup Registration Form - Help Guide
 
 ## Purpose

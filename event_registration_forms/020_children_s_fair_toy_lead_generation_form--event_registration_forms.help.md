@@ -1,8 +1,3 @@
-<thinking>
-This form is for parents and guardians to register for the Children's Fair, providing information about their family, shopping behavior, and interests. This form helps the fair organizers understand the target audience and tailor the event to their needs. The form is divided into sections for family information, toy interests, and other relevant categories. 
-The form does not duplicate or collect unnecessary information that could be used for spam or other non-relevant purposes. It also ensures that parents and guardians can easily navigate and understand what information is being requested. The form is designed to be user-friendly and clear, reducing the likelihood of errors or misunderstandings.
-</thinking>
-
 # Children's Fair Toy Lead Generation Form - Help Guide
 ## Purpose
 This form is designed to collect information from parents and guardians about their interests and shopping behavior to help the Children's Fair better serve their needs and interests.

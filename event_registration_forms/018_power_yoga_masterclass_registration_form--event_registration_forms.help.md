@@ -1,5 +1,3 @@
-<thinking>This form is designed for participants to register themselves for a "Power Yoga Masterclass". The purpose of this form is to collect demographic information and registration details from participants. This form is not intended for multiple registrations or batch processing.</thinking>
-
 # Power Yoga Masterclass Registration Form - Help Guide
 ## Purpose
 This form is designed to gather information from individuals who wish to participate in the Power Yoga Masterclass. To ensure accurate and efficient processing, please fill out this form with your personal and event details.

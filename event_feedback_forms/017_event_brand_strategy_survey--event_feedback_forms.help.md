@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "event_brand_strategy_survey" form, we need to understand the form's purpose and the fields it contains. Based on the provided YAML fields, the form is designed to gather feedback on the event branding strategy.
-
-The form is likely used in a marketing or event management context, where users provide their opinions on the effectiveness of the event branding. The form might be used by event organizers or marketing teams to get insights on how to improve future events.
-
-The form has 12 fields, each with a specific label and type. Some fields are text inputs, while others are select_one or select_multiple options. This guide will explain each field in detail to help users complete the form accurately.
-
-</thinking>
-
 # event_brand_strategy_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on the event branding strategy. It will help event organizers or marketing teams to better understand how to improve future events.

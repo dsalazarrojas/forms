@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 The form is designed to collect information from users on their political preferences and education level.
 
 This form is intended to gather data for internal analysis and decision-making purposes. The fields are carefully crafted to ensure that users can easily provide their input without feeling overwhelmed or biased. The form is part of a larger process that aims to understand user behavior and preferences.

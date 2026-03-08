@@ -1,7 +1,3 @@
-<thinking>
-This form is used to register attendees for an online seminar. The form is designed to collect basic information from attendees, including details about the seminar, attendee details such as name, email, and phone number, and any additional notes they may have. The form is intended for event planners to collect information from attendees in an efficient and organized manner. Before filling out the form, please ensure that you are registering for the correct seminar and that your information is accurate and up-to-date.
-</thinking>
-
 # online_seminar_registration_form - Help Guide
 ## Purpose
 The online seminar registration form is used to collect information from attendees for an online seminar. This form is designed to be filled out by attendees to register for the seminar and provide event planners with the necessary details to follow up with them.

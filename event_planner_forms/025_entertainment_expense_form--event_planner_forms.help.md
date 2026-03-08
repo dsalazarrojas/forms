@@ -1,7 +1,3 @@
-<thinking>
-This form is used to report entertainment expenses submitted by employees. The form is designed to collect event details, expense date, expense amount, employee name, employee ID, expense type, expense description, submitted by, approved by, and reason for rejection. This form is typically used by employees to submit their entertainment expenses for reimbursement. Before completing this form, please ensure you have all the necessary information and documents required for submission. Please also ensure that you are not duplicating an expense that has already been submitted.
-</thinking>
-
 # Entertainment Expense Form - Help Guide
 ## Purpose
 The Entertainment Expense Form is used by employees to report entertainment expenses such as meals, events, or other expenses incurred during work-related events.

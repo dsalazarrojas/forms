@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for evaluating a sample course, allowing users to provide feedback on its quality, relevance, and overall satisfaction. It's crucial to fill it out accurately, as it will help instructors and administrators make data-driven decisions about course content and delivery. Please ensure that you're providing honest and constructive feedback, and avoid duplicating your responses if you've already evaluated this course in the past. 
-</thinking>
-
 # Sample Course Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback on the "Sample Course" from students, providing a structured way to express opinions on its content, relevance, and overall satisfaction.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Decision Analysis Feedback Form - Help Guide
 ## Purpose
 The Decision Analysis Feedback Form is designed to collect feedback on the effectiveness and clarity of a particular decision-making process. This form helps to evaluate and improve the decision-making process by gathering data on its effectiveness, clarity, and areas for improvement.

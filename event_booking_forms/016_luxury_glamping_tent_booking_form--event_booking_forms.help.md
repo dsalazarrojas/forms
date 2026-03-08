@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to help users book a luxury glamping experience. A glamping site is a type of accommodation that combines luxury amenities with the outdoors, such as luxury tents, RV's, cabins, or yurts. The purpose of this form is to gather information from guests so that the site can prepare for their stay and provide a personalized experience.
-
-The form is divided into two main parts: guest information and booking details. This ensures that the site has all the necessary information to accommodate the guest's needs and preferences.
-
-This form is not intended to be used for other purposes than booking a luxury glamping experience. 
-</thinking>
-
 # Luxury Glamping Tent Booking Form - Help Guide
 ## Purpose
 The Luxury Glamping Tent Booking Form is used to gather information from guests to book a luxury glamping experience. The form helps the site prepare for the guest's stay and ensures they have a personalized experience.

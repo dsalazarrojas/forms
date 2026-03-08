@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # inspirational_discussion_form - Help Guide
 ## Purpose
 This form is designed to gather information about inspirational discussions, conversations, and topics that participants have found impactful or thought-provoking. The form helps us understand the depth and breadth of these inspirational topics, which can be used to foster further growth and understanding among individuals.

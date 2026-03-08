@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information from participants and their guardians, including participant details, event details, and participant notes. This form should be filled out by participants who want to register for an event, such as a lemonade stand event. 
-The form should be filled out by each participant, not duplicated. If a participant has the same name as a guardian, please create a new registration form for each participant. 
-Please fill out this form carefully and completely, as the information will be used to contact you and your participant with important event information. 
-Ensure you provide accurate contact information for both the participant and their guardian if applicable. 
-</thinking>
-
 # Lemonade Stand Registration Form - Help Guide
 ## Purpose
 The Lemonade Stand Registration Form is a tool for participants to register for a lemonade stand event. This form collects important information from participants, including their details and those of their guardians.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect registration information from attendees for the veterinary data analytics webinar. This form should only be used for individuals who are interested in attending the webinar. Ensure this form is not submitted by individuals who are not intending to attend, as it will be used to plan and prepare for the webinar and allocate resources accordingly.
-</thinking>
-
 # veterinary_data_analytics_webinar_registration - Help Guide
 ## Purpose
 This form is used to collect registration details from attendees for the veterinary data analytics webinar. Complete this form to secure your spot and provide essential information to help us tailor the webinar to your needs.

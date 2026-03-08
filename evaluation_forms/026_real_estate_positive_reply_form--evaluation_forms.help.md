@@ -1,12 +1,3 @@
-<thinking>
-The internal reasoning block: 
-
-This form is intended to gather feedback and ratings from clients who have interacted with real estate agents. The purpose of the form is to collect information on the client's positive experience, their rating of the service provided, what the agent did well, areas of improvement, and contact details. The form is not mandatory, but rather an optional way for clients to provide feedback and help agents improve their service. 
-
-This guide is designed to walk the client through the form in a step-by-step manner, explaining each field and its purpose in a clear and concise way.
-
-</thinking>
-
 # real_estate_positive_reply_form - Help Guide
 ## Purpose
 This form is used to gather feedback and ratings from clients who have had a positive experience with a real estate agent. The information collected will help agents identify what they did well and how to improve their service.

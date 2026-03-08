@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used as a progress check-in for mentees, typically used by mentors or coaches to evaluate the progress of a mentee towards specific goals. It's meant to be filled out by the mentee themselves, although in some cases, it may be completed by the mentor/coach. The form is used to assess progress on multiple goals, track progress dates and times, and provide additional feedback and comments. This form is likely to be used in a mentoring or coaching context where regular progress check-ins are necessary to track and discuss progress. It's possible that this form might be used as part of a larger workflow or process, such as a mentoring program or coaching cycle.
-</thinking>
-
 # Mentee Progress Check In - Help Guide
 ## Purpose
 The Mentee Progress Check In form is used to track and assess progress on specific goals, provide progress dates and times, and offer feedback and comments for the mentee. This form is a crucial tool for mentors or coaches to evaluate progress, identify areas for improvement, and guide the mentee towards achieving their goals.

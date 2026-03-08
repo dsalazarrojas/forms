@@ -1,13 +1,4 @@
 ```
-<thinking>
-This form is used to collect feedback on the performance of team members in a department. The purpose of this form is to provide an objective evaluation of team members' leadership abilities, focusing on their effectiveness in leading their team to achieve goals and objectives. The feedback provided will help in identifying areas of improvement and provide opportunities for growth and development of team members.
-
-Before you start, please ensure that you are filling out this form for the correct purpose. If you have already filled out this form for the same team member, please do not submit this form again.
-
-This form is designed to be completed by a single team member or supervisor, and the feedback should be based on their personal experience and observations.
-
-</thinking>
-
 # Dietary Leadership Feedback Form - Help Guide
 ## Purpose
 This form is used to collect feedback on the performance of team members in a department. The feedback provided will help in identifying areas of improvement and provide opportunities for growth and development of team members.

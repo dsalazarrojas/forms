@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide that provides a clear and concise explanation of the Hunter Education Registration Form. The form is designed to collect information from hunters for event registration purposes, and it requires several fields to be filled out in order to successfully submit the form. The form has 25 fields in total, but not all of them are required, and some have specific instructions and hints to ensure that users understand what information to provide. I will review each field and provide a clear explanation of what each field means and what users should do in order to complete the form successfully.</thinking>
-
 # Hunter Education Registration Form - Help Guide
 ## Purpose
 The Hunter Education Registration Form is designed to collect information from hunters for event registration purposes. This form is used to gather essential details about the hunter's identification, event participation, and contact information. Completing this form accurately and thoroughly will ensure that the hunter's registration is processed correctly and efficiently.

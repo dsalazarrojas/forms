@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Send Group Messages Form - Help Guide
 ## Purpose
 The Send Group Messages Form is used to send messages to a group of people, allowing you to communicate with a selected group of recipients.

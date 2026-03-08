@@ -1,7 +1,3 @@
-<thinking>
-This form is a registration form for church youth events, designed to gather essential information from youth participants, their parents or guardians, and the event organizers. The form aims to ensure accurate and efficient planning and execution of the event. Before completing this form, please ensure you have the necessary permissions from parents or guardians if you're registering a minor. Also, please note that this form is not meant to be duplicated; each registration is unique, and your responses will help tailor the event to your needs. Now, let's walk through the form fields and their explanations.
-</thinking>
-
 # Church Youth Meeting Registration Form - Help Guide
 ## Purpose
 The Church Youth Meeting Registration Form is designed to collect necessary information from youth participants to ensure a well-planned and executed event.

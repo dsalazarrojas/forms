@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be used for event planners to book a first aid team for on-site events. The on-site first aid team provides medical support for events with specific staffing needs. The form is used to collect essential information for booking the right team size and medical equipment for the event. Please ensure that you fill out the form correctly to ensure that the on-site first aid team is adequately prepared for your event. This form is not intended for general inquiries or non-mandatory events. Please only fill out this form if your event is in need of on-site medical support. If your event does not require on-site medical support, please do not fill out this form.
-
-</thinking>
-
 # On Site First Aid Team Booking Form - Help Guide
 ## Purpose
 This form is used for event planners to book a first aid team for on-site events, ensuring that the medical team is adequately prepared for your event.

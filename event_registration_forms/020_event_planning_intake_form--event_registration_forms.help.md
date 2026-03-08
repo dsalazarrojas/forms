@@ -1,5 +1,3 @@
-<thinking>...this form is used by event planners to collect essential information about an event. It is crucial to fill this form accurately to ensure that the event is well-planned and executed. Before proceeding, please ensure that you have all the necessary information and that you are filling out the form for the correct event type. Also, note that some fields are optional, and the required fields are marked as such in the form... </thinking>
-
 # event_planning_intake_form - Help Guide
 ## Purpose
 This form is designed for event planners to collect and record essential details about an event.

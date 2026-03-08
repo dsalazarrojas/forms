@@ -1,7 +1,3 @@
-<thinking>
-The form "Vendor Leadership Reception Feedback" is designed to collect feedback from attendees on the leadership reception event, which is an opportunity for attendees to provide their thoughts and experiences on the event. This form is intended to gather feedback on the event's organization, content, and overall quality, which will help the event organizers improve future events. Please ensure that you only complete this form if you attended the event and have relevant feedback to share.
-</thinking>
-
 # Vendor Leadership Reception Feedback - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from attendees on the leadership reception event.

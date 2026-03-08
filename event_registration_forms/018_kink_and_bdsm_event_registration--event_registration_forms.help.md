@@ -1,7 +1,3 @@
-<thinking>
-This form is for participants to register for a Kink and BDSM event. It is designed to collect information about the participant and the event they are registering for. The form will help event organizers and hosts to better understand the participant's preferences, needs, and boundaries.
-</thinking>
-
 # Kink And BDSM Event Registration - Help Guide
 ## Purpose
 This form is intended for participants to register for a Kink and BDSM event. It collects information about the participant and the event they are registering for.

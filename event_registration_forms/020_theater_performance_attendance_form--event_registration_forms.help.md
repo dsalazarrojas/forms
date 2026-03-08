@@ -1,11 +1,3 @@
-<thinking>... internal reasoning: The "Theater Performance Attendance Form" is intended to collect information about event attendance for theater performances. This form is likely used to record the number of people who attended a performance, possibly for administrative or marketing purposes. The form may be completed by a representative of the theater company or a staff member.
-
-To fill out this form, a user would typically need to have access to the form and a basic understanding of the options provided. They should be able to select the correct performance ID from the dropdown list, which is likely a reference to a specific show or event. If they are filling out the form for multiple performances, they may have to select the correct option for each performance.
-
-Each field in the form is likely to serve a specific purpose. The "attendance_date" field is used to record the date of the performance, the "number_of_people" field is used to record the number of people who attended the performance, the "performance_id" field is used to select which performance the user is recording, the "theater_company" field is used to select which theater company was involved in the performance, the "notes" field is used to record any additional comments or remarks, the "email" field is used to record the contact email of the person filling out the form, and the "phone" field is used to record the contact phone number of the person filling out the form.
-
-The user may need to be aware that some fields are optional and others are required. The form may have specific rules around which fields must be filled out in order to complete the form successfully...)</thinking>
-
 # Theater Performance Attendance Form - Help Guide
 ## Purpose
 The "Theater Performance Attendance Form" is used to record attendance information for theater performances. This form helps track the number of people who attended a specific show and provides additional details such as the date of the performance, the theater company involved, and any notes or remarks.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Summer Camp Detailed Registration Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I've reviewed the provided YAML fields and have created a comprehensive help guide for the "Community Storytelling Sponsorship Form" to ensure end-users understand its purpose, how to complete it, and what each field means. This guide will help users navigate the form with ease and clarity.</thinking>
-
 # Community Storytelling Sponsorship Form - Help Guide
 ## Purpose
 The Community Storytelling Sponsorship Form is designed to collect information from potential sponsors to support community storytelling events. This form helps us understand your interests, goals, and preferences for sponsorship opportunities, enabling us to tailor our events to your needs and provide a mutually beneficial partnership.

@@ -1,9 +1,3 @@
-<thinking>
-  This form is used to record and document community service activity attendance for participants. It captures information about the event name, date, participant details, roles, hours contributed, and any additional comments or observations.
-  This form aims to provide accurate and comprehensive attendance records, allowing for efficient tracking and analysis of community service activities.
-  The form should not be filled out if the participant is not a volunteer or attendee of the activity.
-</thinking>
-
 # Community Service Activity Attendance Form - Help Guide
 ## Purpose
 This form is used to record and document community service activity attendance for participants.

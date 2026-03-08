@@ -1,18 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect feedback from tournament coordinators about their experiences with the tournament organization. The goal is to gather information on what worked well, what could be improved, and any areas of concern. This will help the organization refine their processes and provide better service in the future.
-
-To complete this form, follow these steps:
-
-1. Fill in the "Tournament Name" field with the title of the tournament you were involved with.
-2. Enter the name of the staff member who coordinated your event.
-3. Provide any important suggestions or criticisms of the tournament under "What important things should we change about the tournament?".
-4. Share minor suggestions or criticisms under "What minor things should we change about the tournament?".
-5. Rate your experience with our communication during the tournament under "How would you rate our communication during the tournament?".
-6. Leave any other comments or thoughts about the tournament under "Any other comments about the tournament?". 
-
-</thinking>
-
 # Tournament Coordinator Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from tournament coordinators about their experience with the tournament organization.

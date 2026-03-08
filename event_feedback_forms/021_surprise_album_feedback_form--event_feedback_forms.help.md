@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We are creating this guide to help users understand the purpose and usage of the "surprise_album_feedback_form". This form is designed to collect feedback from users about surprise albums, and it is essential that we get accurate and complete information from them. This guide will walk you through each field and its intended use, ensuring that users understand the form's purpose and can complete it accurately.
 
 # surprise_album_feedback_form - Help Guide

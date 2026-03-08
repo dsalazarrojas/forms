@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from attendees and participants for the Regional Accommodation Tech Hub event. This form is likely used to gather contact and other essential details from attendees, as well as information about their accommodation preferences and participant information. To ensure that this form is completed correctly, please verify that you are not duplicating any existing entries or registrations for the same event or category. If you have already submitted or registered for this event or a similar event in the past, please do not proceed with this form. 
-</thinking>
-
 # Regional Accommodation Tech Hub Registration - Help Guide
 ## Purpose
 This form is for attendees and participants of the Regional Accommodation Tech Hub event. It's used to collect necessary information for event organization and facilitation.

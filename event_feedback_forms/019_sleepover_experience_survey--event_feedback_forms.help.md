@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback from users about their experience with a sleepover event. It's designed to gather information about the event's details, such as date, start and end time, location, and overall experience. The form should only be filled out by users who have attended the sleepover event and are willing to provide their honest feedback. To avoid duplication, please only fill out this form once per event.
-</thinking>
-
 # Sleepover Experience Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about their experience with a sleepover event. It gathers information about the event's details, overall experience, and areas for improvement.

@@ -1,10 +1,3 @@
-<thinking>
-The purpose of the "Professional Development Attendance Form" is to allow event attendees to provide their information and feedback about their attendance to a workshop or session. This form likely serves as a registration and feedback mechanism for professionals to participate in events, conferences, or training sessions.
-
-To avoid duplication, ensure that you are not already registered for this event and that the session has not been completed.
-
-</thinking>
-
 # Professional Development Attendance Form - Help Guide
 ## Purpose
 This form is designed to collect information from professionals who have attended a workshop or session. It helps us understand their attendance and gather feedback on the event.

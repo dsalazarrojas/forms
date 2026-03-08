@@ -1,13 +1,3 @@
-<thinking>
-We need to ensure that the Youth Baseball Evaluation Form is used correctly and consistently. This guide will help evaluators understand its purpose and how to fill it out accurately. It's essential to follow this guide carefully to avoid confusion and ensure the form is completed without errors.
-
-The form is used to evaluate a player's skills in different areas of baseball, such as batting, fielding, throwing, and running. It's meant to provide an objective and comprehensive assessment of the player's abilities. The form should only be completed by authorized evaluators who have a good understanding of the player's skills and abilities.
-
-To ensure consistency, each field should only be filled out once. If the form is completed multiple times for the same player, it's essential to review the previous evaluations to avoid duplication of effort and ensure that any changes are accurate and justified.
-
-This guide will walk you through each field and provide clear instructions on how to fill it out correctly.
-</thinking>
-
 # Youth Baseball Evaluation Form - Help Guide
 ## Purpose
 The Youth Baseball Evaluation Form is designed to assess a player's skills in different areas of baseball. It helps evaluators provide an objective and comprehensive evaluation of the player's abilities, which can inform coaching decisions, team selections, and development plans.

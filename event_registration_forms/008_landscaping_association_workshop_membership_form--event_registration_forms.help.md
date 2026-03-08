@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for individuals who are interested in joining the Landscaping Association Workshop. The purpose of this form is to collect information from individuals who wish to become members of the association, including their workshop sign-ups, contact information, and attendance details. This form is used for internal tracking and management purposes, and the information collected will not be shared with third parties. Please note that this form is not intended for public use, so please do not share your login credentials with others. Before starting, please make sure you have read and understand the terms and conditions of the association.
-</thinking>
-
 # Landscaping Association Workshop Membership Form - Help Guide
 ## Purpose
 This form is designed to collect information for individuals who wish to join the Landscaping Association Workshop. The information collected will be used for internal tracking and management purposes.

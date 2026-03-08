@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from individuals interested in participating in a hot sauce contest. The purpose of the contest is to identify the best hot sauce recipes from a set of applicants. To avoid duplication of effort, we will only consider applications from unique and original hot sauce recipes. The form will be reviewed for completeness before considering any application.
-</thinking>
-
 # Hot Sauce Contest Application Form - Help Guide
 ## Purpose
 The Hot Sauce Contest Application Form is used to collect information from individuals interested in participating in the hot sauce contest. The form is designed to gather details about you and your hot sauce recipe, which will be used to identify the best recipe for the contest.

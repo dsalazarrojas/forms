@@ -1,15 +1,3 @@
-<thinking>
-
-We're creating a help guide for the Event Stage Design Feedback Questionnaire. This form aims to collect feedback from users on various aspects of an event's stage design. Before creating this guide, let's ensure we understand the form's purpose and relevance. The form's title, "Event Stage Design Feedback Questionnaire," suggests it's used for gathering feedback on the event stage design. This form likely serves as a tool for event organizers, designers, or attendees to evaluate the stage's layout, features, and overall design.
-
-To confirm, let's check the form fields. The form has eight fields, each with a label, type, and sometimes options. The fields are: Stage Design Feedback, Stage Layout, Stage Features, Overall Experience, Suggestions, Stage Design Feedback, Overall Satisfaction, Event Stage Designer, and Event Stager. These fields suggest the form will ask users about the stage's design, layout, features, overall experience, and satisfaction with the event stage design team.
-
-Upon reviewing the fields, there are some fields that seem to have similar labels or purposes (e.g., Stage Design Feedback and Stage Design Feedback). In this case, we might consider merging or rephrasing these fields to avoid confusion. 
-
-The form's fields seem to be focused on evaluating the event stage design from different angles, including layout, features, and overall satisfaction. This form is likely used for post-event evaluation or to gather feedback from users.
-
-</thinking>
-
 # Event Stage Design Feedback Questionnaire - Help Guide
 ## Purpose
 The Event Stage Design Feedback Questionnaire is a form designed to gather feedback on the event stage design from attendees, organizers, or event stage designers. It evaluates the stage's layout, features, and overall experience, helping event organizers and designers improve future events.

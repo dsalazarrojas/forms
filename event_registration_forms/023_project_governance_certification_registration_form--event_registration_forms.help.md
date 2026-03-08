@@ -1,7 +1,3 @@
-<thinking>
-I will create a user-facing help guide for the "Project Governance Certification Registration Form" based on the provided YAML fields. I will ensure that the form's purpose, completion process, and field explanations are clear and concise for end-users. I will also follow the required Markdown structure and include a "Tips" section for any additional guidance.
-
-</thinking>
 # Project Governance Certification Registration Form - Help Guide
 ## Purpose
 This form is for registering project certification information for project participants. It helps project teams ensure that all team members with certification have the required documents and training.

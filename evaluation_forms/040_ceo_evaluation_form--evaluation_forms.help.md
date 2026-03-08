@@ -1,11 +1,3 @@
-<thinking>
-
-Before proceeding with the CEO Performance Evaluation Form, please ensure that:
-- This form will be used by the Board of Directors for evaluating the CEO's performance, ensuring confidentiality of the evaluation results.
-- You have not completed this form previously, so please review the entire form carefully to avoid duplicating previous evaluations.
-
-</thinking>
-
 # CEO Performance Evaluation Form - Help Guide
 ## Purpose
 The CEO Performance Evaluation Form is a tool used by the Board of Directors to assess the Chief Executive Officer's (CEO) performance, focusing on various aspects of their role and responsibilities. The form is designed to provide an objective evaluation, ensuring that the CEO's performance is measured fairly and comprehensively.

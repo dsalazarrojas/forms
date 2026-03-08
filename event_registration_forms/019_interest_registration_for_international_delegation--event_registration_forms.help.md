@@ -1,10 +1,3 @@
-<thinking>
-This form is used to register an international delegation for an event. The purpose of this form is to collect information from participants, including their name, email, contact number, country, organization, delegation type, languages spoken, and reasons for their participation. This form will help the event organizers understand who is attending and what they are expecting from the event.
-
-The form is designed to be completed by each participant registering for the international delegation. The information collected will be used to communicate with the participants and ensure a smooth experience for all attendees.
-
-</thinking>
-
 # Interest Registration For International Delegation - Help Guide
 ## Purpose
 This form is used to register an international delegation for an event. The information collected will help the event organizers understand who is attending and what they are expecting from the event.

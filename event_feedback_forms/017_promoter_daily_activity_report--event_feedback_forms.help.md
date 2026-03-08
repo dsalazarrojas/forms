@@ -1,20 +1,3 @@
-<thinking>
-This form is a critical component of our event management system, collecting feedback and insights from promoters about their daily activities related to events. It helps us understand promoter behavior, event effectiveness, and areas for improvement. This information is essential for making data-driven decisions and ensuring a smooth and successful event execution.
-
-Before proceeding, please ensure you have a clear understanding of what this form is used for and what information it collects. This form is not a duplicate of any other form in the system, and your input will help us refine our processes and services.
-
-To complete this form, you will need to provide detailed information about the promoter's daily activities, including the event type, activity type, location, details, duration, and any other relevant notes. This form is designed to be completed by the promoters themselves, so please be as accurate and honest as possible in your responses.
-
-The information collected will help us:
-
-* Understand promoter behavior and preferences
-* Identify areas for improvement in our services
-* Refine our event planning and execution processes
-
-Please answer all questions truthfully and completely, and do not leave any fields blank unless explicitly allowed.
-
-</thinking>
-
 # promoter_daily_activity_report - Help Guide
 ## Purpose
 This form is designed to collect information about your daily activities related to events, helping us improve our services and event management system.

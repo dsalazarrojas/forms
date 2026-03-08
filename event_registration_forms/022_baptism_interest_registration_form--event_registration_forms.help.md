@@ -1,14 +1,3 @@
-<thinking>
-The Baptism Interest Registration Form is designed to collect information from individuals who are interested in being baptized. This form helps the church understand who is interested in baptism and what their needs and concerns are, so that we can provide them with the necessary support and resources.
-The form is not meant to be a commitment, but rather an expression of interest. The information collected will be used to connect people with a pastor or other trained staff member for further discussion.
-This form is for people who are exploring baptism for themselves. If a family member or someone else is filling it out for another person, it's recommended to use this form with their permission.
-
-To complete this form, simply follow the instructions in each section. Please make sure to fill out every field that is marked as required, as it's essential for us to understand your situation.
-
-The form is divided into two sections: contact information and baptism interest. The contact information section collects your registration date, first and last name, email address, phone number, date of birth, interest level in baptism, and other relevant details. The baptism interest section asks more specific questions about your background, reasons for interest in baptism, decision stage, church attendance, and other relevant information.
-
-</thinking>
-
 # Baptism Interest Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals interested in being baptized to understand their needs and concerns.

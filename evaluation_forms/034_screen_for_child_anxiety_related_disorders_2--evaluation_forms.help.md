@@ -1,7 +1,3 @@
-<thinking>
-We're creating a help guide for the "Screen For Child Anxiety Related Disorders 2" form, which is designed to identify potential anxiety-related disorders in children. This form is used to gather information about a child's behavior and symptoms to assess their anxiety levels.
-</thinking>
-
 # Screen For Child Anxiety Related Disorders 2 - Help Guide
 ## Purpose
 

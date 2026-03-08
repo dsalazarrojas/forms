@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is for registering attendees for the Material Innovation Workshop. To ensure accurate and efficient registration, please complete the form carefully. Note that some fields are optional, marked as such. If you have any questions or concerns, feel free to contact us.
 
 # Material Innovation Workshop Registration - Help Guide

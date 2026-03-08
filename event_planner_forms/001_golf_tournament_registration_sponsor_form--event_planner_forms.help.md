@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information for a golf tournament event, specifically for participant and sponsor registration. It appears to be a straightforward form for collecting contact and demographic information from both participants and sponsors. Upon reviewing the YAML, I noticed that the form is split into multiple pages, each with a unique ID and name, and contains various input fields such as "prophets registration form", sponsor registration form", sponsor info", participant info", sponsor email", participant email", participant phone number", and sponsor phone number". Some fields are required, while others are optional. 
-
-It's essential to ensure that the form is completed accurately and consistently to avoid any potential issues or discrepancies. This guide will help users understand the purpose and requirements of each field to ensure a smooth and hassle-free experience.
-
-</thinking>
-
 # Golf Tournament Registration & Sponsor Form - Help Guide
 ## Purpose
 The Golf Tournament Registration & Sponsor Form is a tool for collecting contact and demographic information from participants and sponsors of a golf tournament event. This form is essential for event organizers to gather the necessary details to manage the event efficiently.

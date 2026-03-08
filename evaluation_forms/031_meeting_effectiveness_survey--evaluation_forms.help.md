@@ -1,5 +1,3 @@
-<thinking>...to ensure the meeting effectiveness survey is completed correctly and efficiently, we must first consider what kind of data we're collecting and why we're collecting it. This form is designed to gauge the effectiveness of a meeting, and we're looking for feedback that's relevant and actionable. Before proceeding, we want to confirm that this form is not a duplicate submission for the same meeting, to prevent redundant data entry and ensure we capture diverse perspectives. If you've already submitted feedback for this meeting, please don't submit again. Now, let's move on to the help guide for the meeting effectiveness survey.</thinking>
-
 # Meeting Effectiveness Survey - Help Guide
 ## Purpose
 The Meeting Effectiveness Survey is designed to gather feedback on the effectiveness of a meeting. This survey aims to collect information on the relevance and usefulness of the meeting, as well as gather demographic information to help tailor future meetings to the attendees' needs.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to evaluate the Public Sector Leadership Program, a program aimed at developing leadership skills in public sector employees. This form helps participants and evaluators provide feedback and comments about their experience in the program. It is essential to complete this form accurately and thoroughly to ensure that the program can improve and better serve its participants. To ensure that your feedback is valid and not duplicated, please fill out the form completely and truthfully. If you have any questions or concerns, please contact the program administrators.
-</thinking>
-
 # public_sector_leadership_program_evaluation_form - Help Guide
 ## Purpose
 This form is designed to evaluate the Public Sector Leadership Program, a program aimed at developing leadership skills in public sector employees. It is used to gather feedback from participants and evaluators about their experience in the program.

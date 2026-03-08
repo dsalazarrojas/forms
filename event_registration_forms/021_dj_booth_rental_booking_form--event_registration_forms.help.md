@@ -1,7 +1,3 @@
-<thinking>
-This form is a user-facing help guide for the "DJ Booth Rental Booking Form", which is intended to collect information from users interested in renting a DJ booth for an event. The form is designed to gather details about the event, such as the name, date, and start time, as well as personal contact information, payment method, and payment amount. Before proceeding, please note that this form is not a real booking system, but rather a help guide for end-users to understand the form's purpose and how to complete it correctly.
-</thinking>
-
 # DJ Booth Rental Booking Form - Help Guide
 ## Purpose
 The "DJ Booth Rental Booking Form" is a user-facing form designed to collect information from users interested in renting a DJ booth for an event. This form is not a real booking system, but rather a tool to gather necessary details for event organizers to facilitate the booking process.

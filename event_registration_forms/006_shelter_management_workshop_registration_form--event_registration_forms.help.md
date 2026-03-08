@@ -1,5 +1,3 @@
-<thinking>... I am generating a form based on the provided YAML structure. I will ensure that the output is user-friendly, concise, and easy to follow. I'll aim for clarity in each field-by-field explanation and will try to avoid inventing unsupported business logic. I will use the YAML structure to provide accurate label explanations. I will also include a brief internal reasoning block to discuss the form's purpose and potential for non-duplication of effort or irrelevant responses. ...</thinking>
-
 # shelter_management_workshop_registration_form - Help Guide
 ## Purpose
 This form is designed to gather information from participants to register for a shelter management workshop. The goal is to collect relevant details about the participant, including session preferences and logistics information.

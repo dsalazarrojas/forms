@@ -1,10 +1,3 @@
-<thinking>
-
-Internal reasoning:
-This form is designed to gather registration information for nonprofit events. The form includes fields for general information about the event (title, date, address, etc.) and fields for donor information (name, email, phone number, etc.). The form also includes payment and attendee details. To use this form, please ensure you have all necessary permissions and follow your organization's guidelines for event registration and donor management.
-
-</thinking>
-
 # Nonprofit Event Registration Form - Help Guide
 ## Purpose
 The Nonprofit Event Registration Form is designed to gather essential information from registrants and donors for nonprofit events. This form helps event organizers to collect and record details about events, attendees, and donations.

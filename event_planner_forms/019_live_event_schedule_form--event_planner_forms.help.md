@@ -1,12 +1,3 @@
-<thinking>
-This form has been generated using a machine learning model that analyzes public survey topics to create an original adaptation. The goal of this guide is to help users understand the purpose and usage of the form.
-
-The form is called "Live Event Schedule Form" and is designed to collect information about live events. The form is not affiliated with or endorsed by any specific platform, but rather an original creation based on public survey topic metadata.
-
-The form has 10 fields, but none of them are required. This form is intended to be used by event organizers to schedule live events, and each field will be explained below.
-
-</thinking>
-
 # Live Event Schedule Form - Help Guide
 ## Purpose
 This form is designed to collect information about live events. Event organizers can use this form to schedule and manage their events more efficiently.

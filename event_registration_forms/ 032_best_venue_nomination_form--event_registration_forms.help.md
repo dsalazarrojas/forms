@@ -1,12 +1,3 @@
-<thinking>
-The form is intended to capture information from users for the purpose of nominating a venue for an event. This form will collect data on the user's personal information, such as their name, email, and phone number, as well as details about the event they are nominating, including the date and primary selection type (attendee, exhibitor, or speaker). Users will also be able to provide additional details and comments about the nomination. The form is designed to ensure that the user has agreed to the terms and conditions of the nomination and provides estimated value and preferred time if applicable. By collecting this information, event planners can effectively manage venue nominations and ensure that all necessary details are captured.
-
-The form is not intended for duplicate nominations and users are expected to enter only one nomination per submission.
-
-The form will be completed by the end user to nominate a venue for an event, ensuring that all relevant details are captured and submitted correctly.
-
-</thinking>
-
 # Best Venue Nomination Form - Help Guide
 ## Purpose
 The Best Venue Nomination Form is designed to collect information from users to nominate a venue for an event. This form will help event planners manage nominations and ensure that all necessary details are captured.

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a series of evaluations for a hospital emergency system, designed to assess its effectiveness in handling emergencies. It seems to be focused on rating scales and date inputs, possibly for tracking patient satisfaction, response times, and other performance metrics. I'll provide a clear and concise guide to help users understand the form's purpose and how to complete it.
-</thinking>
-
 # Hospital Emergency System Effectiveness Evaluation - Help Guide
 ## Purpose
 This form is designed to assess the effectiveness of a hospital's emergency system in handling critical situations. It contains rating scales and date inputs to gather information on patient satisfaction, response times, and other performance metrics.

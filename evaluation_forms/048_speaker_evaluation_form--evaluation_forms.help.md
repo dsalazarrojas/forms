@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from attendees or viewers about a speaker's performance. The form will help to evaluate the speaker's overall presentation quality, communication style, relevance, organization, and helpfulness. This form will help to identify areas of improvement for the speaker and provide valuable insights for future presentations. This form should not be used to provide generic feedback, please make sure to fill it out thoughtfully and accurately.
-</thinking>
-
 # Speaker Evaluation Form - Help Guide
 ## Purpose
 The Speaker Evaluation Form is designed to collect feedback from attendees or viewers about a speaker's performance. The form helps to evaluate the speaker's overall presentation quality, communication style, relevance, organization, and helpfulness.

@@ -1,5 +1,3 @@
-<thinking>As a conversational feedback form, we want to ensure our customers and users have a smooth and satisfactory experience interacting with our team. This form will gather information to help us understand where we excel and where we need improvement. Please note that this form is for feedback purposes only and will not be used for any other reason. We will review each submission carefully to understand your concerns and appreciate your input in helping us improve our service. Please make sure to fill out the form thoroughly, and if you have any issues or concerns not covered here, you can always reach out to our team for assistance.</thinking>
-
 # Conversations Feedback Form - Help Guide
 ## Purpose
 The Conversations Feedback Form is designed to gather feedback from customers and users about their experiences with our team. This form will help us understand how we can improve our service to better meet your needs.

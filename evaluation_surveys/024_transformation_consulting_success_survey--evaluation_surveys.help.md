@@ -1,17 +1,3 @@
-<thinking>
-
-This form is a crucial tool for evaluating the success of a transformation consulting project. To ensure that this form is completed accurately, please read the following guidance carefully.
-
-**Purpose of the Form**
-
-The "Transformation Consulting Success Survey" is designed to assess the overall performance of a transformation consulting project. This form will help us understand the effectiveness of our consulting efforts, identify areas for improvement, and inform future projects.
-
-**Before Proceeding**
-
-Before filling out this form, please note that it is essential to provide honest and detailed answers to each question. Your feedback is invaluable in helping us refine our consulting services.
-
-</thinking>
-
 # Transformation Consulting Success Survey - Help Guide
 ## Purpose
 The "Transformation Consulting Success Survey" is designed to assess the overall performance of a transformation consulting project, helping us understand the effectiveness of our consulting efforts, identify areas for improvement, and inform future projects.

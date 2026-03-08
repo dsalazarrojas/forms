@@ -1,10 +1,3 @@
-<thinking> 
-This form is used to gather information about a person's health and wellness. It is intended to be completed by the person themselves, and its purpose is to collect data on their physical and mental health status, as well as their habits and lifestyle choices. This form is likely used in a healthcare setting to assess the overall health and well-being of the individual. Please note that this form is not intended for emergency or urgent situations, and should not be used as a substitute for medical diagnosis or treatment.
-
-Before completing this form, please make sure you have not already completed a similar form. This will help ensure that your answers are accurate and up-to-date. 
-
-</thinking>
-
 # Healthy_Human_Evaluation_Form - Help Guide
 ## Purpose
 The Healthy Human Evaluation Form is used to gather information about a person's health and wellness. It is a collection of questions that help assess physical and mental health status, habits, and lifestyle choices.

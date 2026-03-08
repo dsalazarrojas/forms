@@ -1,11 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and usage of the Retreat Form. This form is designed to collect information about an event, including staff attendance, event details, and other relevant data. Before proceeding, please ensure that you have a clear understanding of the event and the purpose of this form. It's essential to fill out the form accurately and consistently, as any errors or inconsistencies may cause issues with event planning and organization.
-
-This guide covers the Retreat Form, a comprehensive tool used to collect essential information about events. It's designed to ensure that all necessary details are captured, making it an indispensable aid for event planning and organization.
-
-Please refer to this guide for a detailed explanation of each field and how to complete it correctly.
-</thinking>
-
 # Retreat Form - Help Guide
 ## Purpose
 The Retreat Form is a comprehensive tool designed to collect information about events, including staff attendance, event details, and other relevant data. This form helps ensure that all necessary details are captured, making it an essential aid for event planning and organization.

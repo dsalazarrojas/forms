@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information from couples planning to get married, with the goal of preparing them for their future life together. The form is meant to be used by the marriage preparation course administrators to collect data about the couples taking the course. The form will be used to create a database of couples participating in the course and track their progress and outcomes.
-
-To ensure that each couple's data is recorded correctly, the form should be completed by the couple themselves, and not by a third-party. This will help prevent duplication and incorrect information from being recorded.
-
-The form is designed to be completed by couples planning to get married, and it is essential that the form is filled out accurately and completely to ensure that the information is used correctly by the course administrators.
-
-</thinking>
-
 # Marriage Preparation Course Registration Form - Help Guide
 ## Purpose
 The Marriage Preparation Course Registration Form is a tool used by the marriage preparation course administrators to collect data about couples participating in the course.

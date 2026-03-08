@@ -1,5 +1,3 @@
-<thinking>International Women's Day Quiz - a form designed to raise awareness about women's rights and issues, and gauge user's knowledge and attitudes towards gender equality. To ensure relevance, please note that this form is for general informational purposes only and not intended for official use.</thinking>
-
 # International Womens Day Quiz - Help Guide
 ## Purpose
 This form is designed to raise awareness about women's rights and issues, and gauge users' knowledge and attitudes towards gender equality. It is meant to be a general informational tool, not for official use.

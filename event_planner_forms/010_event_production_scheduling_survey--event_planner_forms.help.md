@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from event planners on their production schedule and resource requirements. This form should only be filled out by event planners to help the event production team prepare for upcoming events.
-</thinking>
-
 # Event Production Scheduling Survey - Help Guide
 ## Purpose
 This form is used to collect information from event planners on their production schedules and resource needs for upcoming events. It helps the event production team plan and prepare for the events.

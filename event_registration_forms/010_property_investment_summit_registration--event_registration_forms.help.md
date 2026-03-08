@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather registration information from potential attendees of the Property Investment Summit. The fields are designed to collect basic contact information and preferences for the event. The form will likely be used by event organizers to track attendee demographics and interests. To avoid duplication, the form should not be filled out multiple times. Please review the form carefully to ensure accuracy.
-</thinking>
-
 # Property Investment Summit Registration - Help Guide
 ## Purpose
 This form is designed to register attendees for the Property Investment Summit. Please fill out the form accurately to ensure your attendance is properly recorded.

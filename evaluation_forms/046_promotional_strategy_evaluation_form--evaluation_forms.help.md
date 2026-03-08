@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # promotional_strategy_evaluation_form - Help Guide
 
 ## Purpose

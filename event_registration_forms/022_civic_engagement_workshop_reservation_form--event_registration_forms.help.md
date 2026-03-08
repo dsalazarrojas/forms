@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to help collect relevant information from attendees for the Civic Engagement Workshop, including attendee name, email address, organizational affiliation, session choice, dietary requirements, accessibility needs, emergency contact information, consent for photography, payment status, and submission date. 
-
-The purpose of this form is to register attendees for the workshop and collect necessary details for the event organizers. 
-</thinking>
-
 # Civic Engagement Workshop Reservation Form - Help Guide
 ## Purpose
 This form is used to register attendees for the Civic Engagement Workshop and collect relevant details for the event organizers.

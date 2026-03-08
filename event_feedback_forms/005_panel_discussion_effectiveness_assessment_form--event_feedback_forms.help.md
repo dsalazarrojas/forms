@@ -1,10 +1,3 @@
-<thinking>
-The form "Panel Discussion Effectiveness Assessment Form" is designed to gather feedback from participants on the effectiveness of a panel discussion session. The purpose of this form is to assess how well the panelists presented, engaged, and overall, how useful and informative the session was. This form is likely to be used by organizers or moderators of panel discussion sessions to evaluate the effectiveness of their events and identify areas for improvement. 
-
-Please make sure to answer the questions truthfully, providing as much detail as possible to help the organizers improve future events.
-
-</thinking>
-
 # Panel Discussion Effectiveness Assessment Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from participants on the effectiveness of a panel discussion session. It will help the organizers or moderators of the session to evaluate its overall effectiveness and identify areas for improvement.

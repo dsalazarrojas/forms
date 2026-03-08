@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-This help guide is for the "Free Movie Ticket" form, which allows users to create and manage movie-related events. The form is used by event organizers to provide free movie tickets to attendees. The purpose of this form is to gather information about the movie event, including the event details, ticket availability, and other relevant information.
+> This help guide is for the "Free Movie Ticket" form, which allows users to create and manage movie-related events. The form is used by event organizers to provide free movie tickets to attendees. The purpose of this form is to gather information about the movie event, including the event details, ticket availability, and other relevant information.
 
 Before proceeding, please ensure that you are using this form for its intended purpose and that you have not already created a similar event. Duplicate events may cause confusion among attendees and event organizers.
 

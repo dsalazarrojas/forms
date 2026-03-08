@@ -1,10 +1,3 @@
-<thinking>
-The form "Teacher-Student Interaction Feedback Evaluation Form" is designed to collect feedback from students about their interactions with teachers. The purpose of this form is to help teachers evaluate their performance and identify areas for improvement. This form is intended to be completed by students after an interaction with a teacher, and its fields cover various aspects of the interaction, including the teacher's rating, response, and helpfulness. 
-
-The form is likely to be used in educational settings, such as schools or universities, and its results can provide valuable insights for teachers to improve their teaching methods and student outcomes. To ensure that the form is completed accurately and thoroughly, it is essential to understand each field's purpose and how to complete it properly.
-
-</thinking>
-
 # Teacher-Student Interaction Feedback Evaluation Form - Help Guide
 ## Purpose
 The Teacher-Student Interaction Feedback Evaluation Form is designed to gather feedback from students on their interactions with teachers. This feedback is used to help teachers evaluate their performance and identify areas for improvement.

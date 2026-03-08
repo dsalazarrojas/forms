@@ -1,7 +1,3 @@
-<thinking>
-This form is for requesting a guest pass, which is a temporary pass that allows a student to bring a guest to an event or meeting. The purpose of this form is to provide essential information about the student and their guest, which will be used to process the request. This form is intended for students who are registered at the institution, and the request must be made by the student themselves. Before filling out the form, please ensure that the student is aware of and complies with the rules and regulations of the institution.
-</thinking>
-
 # Guest Pass Request Form - Help Guide
 ## Purpose
 The Guest Pass Request Form is a simple form used by students to request a guest pass for an event or meeting at the institution. To complete this form, follow the steps outlined in this guide.

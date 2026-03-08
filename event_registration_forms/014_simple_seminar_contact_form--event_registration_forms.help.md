@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Simple Seminar Contact Form - Help Guide
 ## Purpose
 

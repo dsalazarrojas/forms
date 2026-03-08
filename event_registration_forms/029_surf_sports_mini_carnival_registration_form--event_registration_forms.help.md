@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to collect user registrations for events organized by Surf Sports, including competitions, showcases, and other events. To prevent duplicate registrations, we'll be checking the event field to ensure users are registering for the correct event.
-This form should only be used for events specifically organized by Surf Sports. If you're interested in participating in events not associated with Surf Sports, please contact us for assistance.
-Before starting the form, please make sure to select the correct event you wish to register for. This will help prevent confusion and errors during the registration process.
-</thinking>
-
 # Surf Sports Mini Carnival Registration Form - Help Guide
 ## Purpose
 The Surf Sports Mini Carnival Registration Form is designed to collect user registrations for events organized by Surf Sports. This form will help us track attendance and ensure a smooth event execution.

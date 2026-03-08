@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for wedding emcees (masters of ceremonies) to provide details about their services, rates, and schedule for an event. The form collects information about the couple's name and contact details, the emcee's name, contact, and services provided, as well as payment and contract details. The form is required for all fields with a "required" property equal to true.
-</thinking>
-
 # Wedding EMCEE Contract Form - Help Guide
 ## Purpose
 The Wedding EMCEE Contract Form is used to collect information from the wedding emcee about their services, rates, and schedule for an event. This form is a crucial part of the contract between the couple and the emcee, ensuring a clear understanding of the terms of service.

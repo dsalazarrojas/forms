@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Election Night Watch Party Registration - Help Guide
 
 ## Purpose

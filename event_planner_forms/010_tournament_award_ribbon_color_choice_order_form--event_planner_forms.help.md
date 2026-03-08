@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture information from event planners about the tournament award ribbon color choices, payment details, and other related information. The form likely exists to streamline the process of ordering award ribbons for a tournament and to ensure accurate payment and communication details are collected. The form should not be used for other purposes, and users should not duplicate or reorder the same form unnecessarily.
-
-</thinking>
 # Tournament Award Ribbon Color Choice Order Form - Help Guide
 ## Purpose
 

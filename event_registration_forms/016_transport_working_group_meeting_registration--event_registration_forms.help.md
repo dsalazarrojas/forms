@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from attendees for the Transport Working Group Meeting. This form is used to gather preferences and details for the session, as well as to track whether attendees will submit and review the session content. The form is divided into several sections, each with its own set of questions or fields. The purpose of this form is to ensure that attendees have a clear understanding of the session's schedule, preferences, and requirements.
-</thinking>
-
 # Transport Working Group Meeting Registration - Help Guide
 
 ## Purpose

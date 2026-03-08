@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect evaluations and feedback from participants and stakeholders on research studies. Its purpose is to gather information on the effectiveness of a research study, including participant feedback, participant demographics, and ratings of the research instrument and institution. This form should only be completed by participants or stakeholders who have been part of the research study.
-
-To ensure that you complete the form correctly, please make sure that you have been part of the research study and that your feedback is sincere and accurate. If you are a participant, please answer the questions honestly and thoroughly. If you are a stakeholder, please provide feedback on the research instrument and institution.
-
-Please note that some of the fields are required, indicated by the "(Required)" label. Completing the form without filling in the required fields will result in errors. If you are unsure about any of the fields, please contact the form administrator for clarification.
-
-</thinking>
-
 # Research Study Evaluation Form - Help Guide
 ## Purpose
 The Research Study Evaluation Form is designed to collect evaluations and feedback from participants and stakeholders on research studies. It gathers information on the effectiveness of a research study, including participant feedback, participant demographics, and ratings of the research instrument and institution.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for evaluating the participation in corporate training programs, gathering feedback and suggestions from participants, and collecting details about the training program. The form is intended to be filled out by participants after attending a training session. This form will help in understanding the overall satisfaction of participants, their experience with the trainer, and areas for improvement in the training program. Please make sure that the fields are filled out accurately and completely.
-</thinking>
-
 # corporate_training_program_participation_evaluation_form - Help Guide
 ## Purpose
 This form is designed to gather feedback and suggestions from participants after they have attended a corporate training program. It helps us understand their overall satisfaction, experience with the trainer, and areas for improvement in the training program.

@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to be used by students to submit proposals for events sponsored by their student organizations. To ensure that each proposal is reviewed and approved before the event takes place, it's essential that students fill out this form accurately and completely. Please make sure to review the entire form carefully before submitting it to avoid any errors or omissions. This will not only save time for the review process but also ensure that your event is approved without any issues.</thinking>
-
 # Student Organization Event Proposal Form - Help Guide
 ## Purpose
 The purpose of this form is to provide a platform for students to submit proposals for events sponsored by their student organizations. This form helps to gather essential information about the event, including the title, date and time, location, and other relevant details.

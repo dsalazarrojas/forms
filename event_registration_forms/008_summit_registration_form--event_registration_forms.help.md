@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for registering users for a summit event. The form collects basic contact information and preferences for the user. This form will not be used for any other purpose. Please ensure that users complete this form accurately and truthfully to ensure a smooth experience for all involved. Note that this form is designed to be completed by one person per registration, and any multiple registrations from the same person may be subject to review or rejection. If you're unsure about any of the fields, please don't hesitate to ask for clarification.
-</thinking>
 # summit_registration_form - Help Guide
 ## Purpose
 The summit_registration_form is used to register users for a summit event. It collects basic contact information and preferences for the user, allowing them to select which track(s) they are interested in attending.

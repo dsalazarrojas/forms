@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplicate evaluations, this form is designed to be filled out after completing a thorough evaluation of an app. Please only fill out this form if you have a genuine experience with the app. The form is meant to gather feedback from actual users to help developers improve their app.
-</thinking>
-
 # App Evaluation Form - Help Guide
 ## Purpose
 The App Evaluation Form is designed to collect feedback from users on their experience with a particular app. This form will help developers understand what works and what doesn't, and make necessary improvements.

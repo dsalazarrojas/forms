@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from event organizers and attendees for a global health summit. This form is used to record and track event details, including event organizers' and attendees' contact information, event dates and times, and other relevant details. 
-The form is intended to be used by both the event organizers and attendees to provide accurate and complete information for the summit. 
-This form is not intended to be used for other purposes, such as marketing or promotional activities.
-
-</thinking>
-
 # global_health_summit_reservation_form - Help Guide
 ## Purpose
 The global health summit reservation form is used to collect event details and contact information from event organizers and attendees.

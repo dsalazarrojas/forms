@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a vehicle's evaluation, including its condition, year, mileage, price, color, fuel type, owner's information, and more. This form is likely used for inventory management or sales purposes within a company or organization. The purpose of this form is to gather specific details about each vehicle to facilitate accurate and efficient evaluation and decision-making processes. 
-
-Before proceeding, please ensure that you are filling out this form for a vehicle that you have a legitimate interest in, as this form does not appear to be intended for general public use.
-
-</thinking>
-
 # vehicle-evaluation-form - Help Guide
 ## Purpose
 The vehicle-evaluation-form is a collection of fields that gather information about a vehicle's characteristics, owner's information, and evaluation status. 

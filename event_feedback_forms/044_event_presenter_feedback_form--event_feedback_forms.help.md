@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from event presenters, ensuring that they can provide input on their experience and suggestions for improvement. This form should only be completed by the event presenter and should not be duplicated. Please ensure that only the event presenter fills out this form.
-</thinking>
-
 # Event Presenter Feedback Form - Help Guide
 ## Purpose
 The Event Presenter Feedback Form is a crucial tool for gathering feedback from event presenters, allowing us to understand their experiences and perspectives. This form will help us identify areas of improvement and make necessary adjustments to future events.

@@ -1,8 +1,3 @@
-<thinking>
-  This form is used to evaluate the effectiveness and experience of the emergency evacuation drill. The form captures the number of participants, date and time of the drill, the facilitator's experience and comments, and any suggestions for improvement. This form is meant to provide a snapshot of the drill's outcome, which will help the organization to refine its emergency response and evacuation procedures.
-  Before proceeding, please ensure that you have not completed this form for the same drill previously. Duplicates can skew the analysis and make it difficult to track progress.
-</thinking>
-
 # emergency_evacuation_drill_evaluation_form - Help Guide
 ## Purpose
 The emergency_evacuation_drill_evaluation_form is used to collect feedback and evaluation data for emergency evacuation drills. This form is essential for understanding the effectiveness of the drill and identifying areas for improvement.

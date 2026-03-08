@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect feedback from attendees to evaluate the performance of a keynote speaker at an event. The form is intended to be completed by people who have attended the presentation and want to provide their honest opinion on various aspects of the speaker's performance. The form is not affiliated with any form platforms, and it was created using only public survey topic metadata as inspiration.
-
-This guide is intended to help users complete the form accurately and effectively. Please note that the form is divided into the following sections: Speaker Information, Presentation Evaluation, Relevance and Engagement, and General Feedback.
-
-Please ensure that you have a clear understanding of the purpose and scope of the form before proceeding with the completion.
-</thinking>
-
 # Keynote Speaker Evaluation Form - Help Guide
 ## Purpose
 The Keynote Speaker Evaluation Form is a tool used to gather feedback from attendees on the performance of the keynote speaker at an event. It is essential to fill out this form accurately and honestly to help the speaker and organizers improve their future performances.

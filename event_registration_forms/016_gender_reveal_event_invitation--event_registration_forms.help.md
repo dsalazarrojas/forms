@@ -1,20 +1,3 @@
-<thinking>
-This form appears to be a registration form for a gender reveal event. The purpose of this form is to collect information from guests attending a gender reveal event, which is likely a celebration where the sex of a baby is announced to family and friends.
-
-To complete this form, follow these steps:
-
-1.  Enter the guest's name in the "prophets" field.
-2.  Select the date of the event from the calendar provided.
-3.  Choose the time of the day and month for the event.
-4.  Enter the location of the event.
-5.  Provide a brief description of the event in the "Event Details" field.
-6.  Choose how they will attend the event by selecting one or more of the provided options in the "RSVP" field.
-7.  Enter a message for the host or hostess if desired.
-8.  Indicate the gender of the baby by selecting "Male" or "Female".
-9.  Choose preferred colors for the event, such as "Blue", "Pink", or "Green".
-
-</thinking>
-
 # gender_reveal_event_invitation - Help Guide
 ## Purpose
 This form is designed to collect information from guests attending a gender reveal event.

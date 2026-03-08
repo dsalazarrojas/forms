@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to facilitate the Skyview Estates community's compliance with its Covenants, Conditions, and Restrictions (CCRs). The form is designed to ensure that homeowners are aware of and adhere to the community's rules and regulations. The form's sections cover various aspects of property maintenance, including landscaping, exterior paint and siding, parking, trash and recycling bin storage, signage, and fence condition. The form also allows homeowners to report any non-compliant areas and describe their plans to rectify them. Additionally, it prompts homeowners to confirm their need for Architectural Review Committee (ARC) approval for structural changes, painting, or major landscaping projects. By completing this form, homeowners demonstrate their commitment to maintaining their property in compliance with the community's rules and regulations.
-
-Before proceeding, ensure that this form has not been previously used. If a property change request has been submitted and approved by the ARC, this form should not be completed.
-
-Please make sure to review each field carefully and provide accurate information to avoid delays in the processing of this request.
-
-</thinking>
-
 # Skyview Estates CCR Compliance Plan - Help Guide
 ## Purpose
 The purpose of this form is to facilitate the Skyview Estates community's compliance with its Covenants, Conditions, and Restrictions (CCRs).

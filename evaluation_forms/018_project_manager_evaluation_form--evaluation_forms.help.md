@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to evaluate the performance and effectiveness of a project manager. The purpose of this form is to gather feedback from team members or stakeholders about the project manager's leadership, communication, and overall performance. The evaluation form is typically used for internal purposes within an organization to identify areas of improvement and provide guidance for future project management.
-
-To ensure accurate and relevant feedback, it's essential to fill out this form carefully and thoughtfully.
-
-This guide will walk you through the form's purpose, how to complete it, and what each field means.
-
-</thinking>
-
 # Project Manager Evaluation Form - Help Guide
 ## Purpose
 The Project Manager Evaluation Form is designed to gather feedback from team members or stakeholders about a project manager's performance. It's used to evaluate their leadership, communication, and overall effectiveness.

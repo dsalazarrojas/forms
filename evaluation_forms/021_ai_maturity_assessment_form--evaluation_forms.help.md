@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to help assess the maturity of AI within an organization. It is intended to be filled out by an assessor, who will evaluate the current state of AI capabilities and practices within a specific business unit or department. The form consists of 9 questions, each addressing a different aspect of AI maturity, and an optional text field for the assessor to provide additional comments.
 
 </thinking>

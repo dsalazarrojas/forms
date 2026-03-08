@@ -1,6 +1,3 @@
-<thinking>
-This form is designed for customers to provide feedback on their experience with a particular event. The form should be completed by customers who have attended an event and want to share their thoughts, ratings, and any photos they took during the event. This form will help the event organizers to gather valuable insights and improve future events. Please ensure that this form is submitted only once per event. If you have already filled this form for the same event, your submission will not be recorded.</thinking>
-
 # Messages And Souvenir Feedback - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from customers about their experience with a particular event. This information will help the event organizers to understand how customers perceived the event and identify areas for improvement.

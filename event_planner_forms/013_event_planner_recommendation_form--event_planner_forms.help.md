@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users about the type of event planner they are looking for. This form is likely used for internal purposes, such as assigning event planners to customers or clients. The purpose of this form is to gather relevant details about the event planner, including their name, contact email, and phone number. This form may be used for various types of events, such as weddings, corporate functions, or festivals.
-</thinking>
-
 # Event Planner Recommendation Form - Help Guide
 ## Purpose
 This form is used to collect information from users about the type of event planner they need for their event. This information is used to ensure that the right person is assigned to handle the event planning process.

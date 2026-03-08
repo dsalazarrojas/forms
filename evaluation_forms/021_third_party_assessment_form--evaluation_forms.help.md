@@ -1,7 +1,3 @@
-<thinking>
-A Third Party Assessment Form is used to collect evaluations and feedback from third parties about an individual's performance in a specific initiative or project. This form helps to provide an unbiased and objective assessment of an individual's strengths and weaknesses, and to identify areas for improvement. It is typically used by team members, colleagues, or superiors to evaluate an individual's performance. This form should only be completed by individuals who have had interactions with the person being assessed. If you have already provided feedback on this individual through this form, you should not complete this form again. If you have any questions or concerns, please contact [insert contact information].
-</thinking>
-
 # Third Party Assessment Form - Help Guide
 ## Purpose
 This form collects evaluations and feedback from third parties about an individual's performance in a specific initiative or project.

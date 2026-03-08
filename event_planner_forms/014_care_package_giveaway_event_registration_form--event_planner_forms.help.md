@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to capture information from individuals interested in volunteering for a care package giveaway event. The purpose of the form is to collect data on potential volunteers' demographics, preferences, and abilities to ensure a smooth and effective volunteer experience. This includes capturing contact information, event preferences, skills and interests, and any necessary waivers and releases. The form will be used to determine which volunteers to select for the event, and to communicate with selected volunteers about their involvement.
-
-Before filling out the form, please ensure you are registering as an individual or representative of an organization. If you are registering on behalf of a team, please list all team members in the 'Volunteer Names' field. The form is not intended to be completed for multiple people at once.
-
-The form is not meant for organizations to register themselves, as this will be done separately through a different process.
-</thinking>
-
 # Care Package Giveaway Event Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential volunteers for a care package giveaway event.

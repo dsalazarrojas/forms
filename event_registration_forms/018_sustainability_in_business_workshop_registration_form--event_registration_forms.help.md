@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from users who wish to register for a sustainability workshop. The form's main goal is to capture relevant details about the users' interests and preferences to facilitate a smooth and effective workshop experience. The fields are designed to collect essential information, such as workshop selection, personal and organization details, and workshop attendance preferences.
-</thinking>
-
 # Sustainability In Business Workshop Registration Form - Help Guide
 
 ## Purpose

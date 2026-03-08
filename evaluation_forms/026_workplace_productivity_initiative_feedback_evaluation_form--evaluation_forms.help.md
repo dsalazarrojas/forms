@@ -1,7 +1,3 @@
-<thinking>
-The Workplace Productivity Initiative Feedback Evaluation Form is designed to collect information and feedback from users about the success or failure of the Workplace Productivity Initiative. This form is meant to be a regular check-in to gauge the effectiveness of the initiative and help identify areas for improvement. Before filling out this form, please ensure that you are providing accurate and honest feedback. To avoid duplication, please review the form carefully and only answer the questions that apply to you.
-</thinking>
-
 # Workplace Productivity Initiative Feedback Evaluation Form - Help Guide
 ## Purpose
 This form is used to collect feedback and evaluate the success of the Workplace Productivity Initiative. It helps identify areas that need improvement and provides a clear picture of the program's impact.

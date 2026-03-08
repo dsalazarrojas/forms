@@ -1,9 +1,3 @@
-<thinking>
-  The form "Submission Portal For Winners" is designed to collect information from individuals who have won a submission-based competition or contest. The form is meant to be a straightforward and easy-to-use interface for users to provide their entry details and confirm their submission status.
-  Before attempting to complete this form, please ensure that you are a valid winner of a submission-based competition or contest. This form is not intended for general use and may not be relevant to your specific situation if you have not won a submission-based competition or contest.
-  If you have won a submission-based competition or contest, please make sure you are not duplicating your entry, as this form is intended to collect information from unique submissions only.
-</thinking>
-
 # Submission Portal For Winners - Help Guide
 ## Purpose
 The "Submission Portal For Winners" form is designed to collect information from individuals who have won a submission-based competition or contest. This form is meant to be a straightforward and easy-to-use interface for winners to provide their entry details and confirm their submission status.

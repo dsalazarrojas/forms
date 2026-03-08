@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for exhibition application purposes, where artists can submit their work for consideration. The form is used to collect relevant information about the artist, their art pieces, and the exhibition event. The goal is to ensure that all necessary details are provided to facilitate a smooth and successful exhibition process. Before filling out this form, please check if you have already submitted it or if you have a similar exhibition application pending, to avoid duplication of effort.
-</thinking>
-
 # Exhibition Application Form - Help Guide
 ## Purpose
 The Exhibition Application Form is a document that collects information about an artist and their exhibition event. It serves as a means to facilitate a smooth and successful exhibition process.

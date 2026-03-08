@@ -1,7 +1,3 @@
-<thinking>
-This form is used to register partnerships with external partners for nail brand meetings, appointments, and events. It will collect information about the partner's details, meeting preferences, and follow up status. Please ensure that you are filling out this form for a specific partnership and meeting. If you're unsure about the form's purpose or have any questions, please reach out to your team for clarification. This form is not intended to be duplicated or filled out for internal meetings or non-partnership meetings.
-</thinking>
-
 # nail_brand_partnership_meeting_appointment_form - Help Guide
 ## Purpose
 This form is used to register partnerships with external partners for nail brand meetings, appointments, and events.

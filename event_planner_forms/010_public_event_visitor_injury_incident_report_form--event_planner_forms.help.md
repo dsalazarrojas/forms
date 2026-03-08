@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # public_event_visitor_injury_incident_report_form - Help Guide
 
 ## Purpose

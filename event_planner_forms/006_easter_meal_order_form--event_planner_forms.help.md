@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to be filled out by customers to place an order for their Easter meal. The form includes several fields to gather relevant information such as the customer's meal preference, contact information, and special requests. This form should not be used for any other purpose as it contains sensitive information such as phone numbers and email addresses.
-
-Please note that this form is only for ordering Easter meals and is not for any other type of order or purpose.
-</thinking>
-
 # Easter Meal Order Form - Help Guide
 ## Purpose
 The Easter Meal Order Form is used to order an Easter meal for a specific date. Customers will be asked to select their meal preference, contact information, and other details to facilitate the order.

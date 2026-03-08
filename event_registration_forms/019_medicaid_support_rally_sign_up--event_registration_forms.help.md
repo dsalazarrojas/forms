@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # medicaid-support-rally-sign-up - Help Guide
 ## Purpose
 This form is for registering participants in a Medicaid support rally. It collects basic information about the participants, including their event registration status, participation preferences, logistics needs, and contact details. This form is designed to be completed by individuals who want to join the rally and participate in Medicaid-related activities.

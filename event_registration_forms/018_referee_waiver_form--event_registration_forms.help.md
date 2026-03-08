@@ -1,7 +1,3 @@
-<thinking>
-This is a form to collect information from referees to ensure they are eligible to referee matches. The form is intended to gather personal information, medical history, and referee qualifications. This information will help us to verify the referee's status and ensure that they are adequately prepared for their matches.
-</thinking>
-
 # Referee Waiver Form - Help Guide
 ## Purpose
 The Referee Waiver Form is designed to collect necessary information from referees to verify their qualifications and status. This information will be used to ensure that referees are adequately prepared for their matches.

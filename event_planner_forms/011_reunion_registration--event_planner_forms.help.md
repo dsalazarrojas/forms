@@ -1,5 +1,3 @@
-<thinking> This form is for collecting information about upcoming reunions. It is primarily used to gather details about the event, including its date, time, location, and type. The form should only be filled out if you are attending or hosting a school or family reunion. If the reunion is not one of these types, please select "Other" as the type. The form will ask for details such as the reunion name, number of guests, contact information, and any additional notes. If the reunion is taking place at a school, please provide the school name and class as well. If the reunion is a family gathering, include your family name and relationships. Please fill out the form completely, but be sure to fill out each field accurately and truthfully. </thinking>
-
 # Reunion Registration - Help Guide
 
 ## Purpose

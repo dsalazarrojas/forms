@@ -1,13 +1,3 @@
-<thinking>
-This form is for conducting a design review, allowing the reviewer to provide feedback and assessment on a design project. The form's purpose is to gather opinions on the project's quality, identifying areas of improvement, and suggesting recommendations for future developments. This form is likely to be used by design teams or project stakeholders to collect and document feedback from reviewers, ensuring consistent and objective evaluation across different projects. Please note that this form might be used in conjunction with other forms or assessment tools, so be sure to review your organization's specific use case before completing this form.
-
-To ensure that the form is filled out correctly and not duplicated, please make sure to follow the guidelines below:
-- Each form should be filled out by one reviewer at a time.
-- Reviewers should provide their honest and constructive feedback, avoiding any conflicts of interest.
-- Reviewers should not fill out the same form twice for the same project, as this might affect the overall feedback consistency.
-
-Please review the guidelines below to understand each field's purpose and correct usage.</thinking>
-
 # Design Review Form - Help Guide
 ## Purpose
 

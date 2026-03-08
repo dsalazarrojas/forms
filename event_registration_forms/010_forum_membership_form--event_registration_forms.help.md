@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Forum Membership Form - Help Guide
 
 ## Purpose

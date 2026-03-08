@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # semi_structured_interview_guide - Help Guide
 
 ## Purpose

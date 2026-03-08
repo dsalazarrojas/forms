@@ -1,10 +1,3 @@
-<thinking>
-This form is a critical part of the event registration process, ensuring that the vendor's signage is properly ordered and displayed during the tournament. The purpose of this form is to collect detailed information from vendors about their signage requirements, including their contact information, order details, and signature verification. This form will help event organizers and vendors streamline the ordering process and reduce errors.
-
-Before proceeding, ensure that you're not duplicating an existing order or that the event has not already been closed. This form is intended for use by authorized personnel and vendors.
-
-</thinking>
-
 # Tournament Vendor Signage Order Form - Help Guide
 ## Purpose
 This form is used by vendors to provide detailed information about their signage requirements for the tournament.

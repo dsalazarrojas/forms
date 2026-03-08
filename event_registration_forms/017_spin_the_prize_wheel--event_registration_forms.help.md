@@ -1,13 +1,3 @@
-<thinking>
-
-The Spin the Prize Wheel form is designed to collect user feedback and preferences for event registration. It appears to be a general form used for collecting contact information and preferences, but without further details, it's unclear what specific event or context this form is associated with. To avoid duplication, it's essential to verify that this form is not already being used for a similar purpose within the organization. 
-
-The form has 18 fields, including user details, contact information, and preferences for spinning the prize wheel. It seems to be an event registration form, but the specific event is not specified. The form has a mix of text, select_one, select_multiple, and email fields. 
-
-To complete this form, users should follow the instructions below.
-
-</thinking>
-
 # spin_the_prize_wheel - Help Guide
 ## Purpose
 The Spin the Prize Wheel form is used to collect contact information and preferences for an event registration. It helps us understand who is interested in attending the event and what they would like to spin the prize wheel.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used to evaluate the performance of individuals in health professions. The purpose of this form is to gather information on the candidate's skills, strengths, and areas for improvement. This form is likely to be used by reviewers or evaluators to assess the candidate's performance based on specific criteria such as communication, professionalism, problem-solving, and time management. The fields in this form should be filled out by the reviewer to provide a comprehensive evaluation of the candidate. This form is likely to be used for internal or external evaluations and should be completed by a single reviewer. The form does not seem to be intended for public submission by candidates. 
-</thinking>
-
 # Health Professions Scholarship Evaluation - Help Guide
 
 ## Purpose

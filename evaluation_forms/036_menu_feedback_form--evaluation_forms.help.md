@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from customers about their experience at a restaurant. The purpose of this form is to collect information on how customers perceive the menu and overall service experience. To avoid duplication of effort, we will review responses on a case-by-case basis and only contact customers who are willing to be contacted.
-</thinking>
-
 # Menu Feedback Form - Help Guide
 ## Purpose
 The Menu Feedback Form is designed to gather information from customers about their experience with your menu and service. Your feedback is invaluable in helping us improve our menu and service.

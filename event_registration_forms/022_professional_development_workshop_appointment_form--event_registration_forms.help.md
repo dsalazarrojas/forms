@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # professional_development_workshop_appointment_form - Help Guide
 
 ## Purpose

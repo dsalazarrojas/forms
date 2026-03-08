@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Client Evaluation Of Company Services - Help Guide
 
 ## Purpose

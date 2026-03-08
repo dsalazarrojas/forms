@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form "Vendor Sponsorship Options" is intended for vendors to register as a sponsor for an event. This form is part of the event registration process and allows vendors to provide necessary information about their participation. The form is used to collect information from various fields to determine the vendor's sponsorship level, type, and contact details. It is essential to have accurate and complete information to facilitate effective communication and collaboration with vendors. Please note that this form is designed for internal use and not for external vendors; if you are an external vendor, please contact the event organizers for more information.
 
 # Vendor Sponsorship Options - Help Guide

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Thanksgiving DIY Kits Pre Order Form - Help Guide
 ## Purpose
 This form is designed to help customers pre-order a customized Thanksgiving DIY kit tailored to their preferences. It collects information about the customer's name, contact details, and order specifics such as turkey size, number of guests, and special requests.

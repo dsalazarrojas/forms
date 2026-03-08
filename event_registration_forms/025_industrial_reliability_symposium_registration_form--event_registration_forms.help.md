@@ -1,11 +1,3 @@
-<thinking> 
-**This is the internal reasoning block to check for form purpose and avoid duplication**
-
-*   Form purpose: This form is designed for registering attendees to the Industrial Reliability Symposium. It collects information from attendees to provide them with the necessary details about the event, including event details, payment methods, and attendee information.
-*   Duplication check: We should check if the user is already registered for this event to prevent duplication of data.
-
-</thinking>
-
 # industrial_reliability_symposium_registration_form - Help Guide
 
 ## Purpose

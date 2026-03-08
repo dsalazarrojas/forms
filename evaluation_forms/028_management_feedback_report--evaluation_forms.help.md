@@ -1,7 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a user-facing help guide for the Management Feedback Report form. To begin with, let's clarify the purpose and scope of this form. The Management Feedback Report form is designed for collecting feedback from staff members about their manager's performance. This form aims to gather information about the manager's behavior, communication, time management, and other areas of concern. The form will help managers identify their strengths and weaknesses, allowing them to adjust their management style to better support their team members. This form is intended for use within a work environment, where staff members can provide honest feedback to their managers.
-
-</thinking>
-
 # Management Feedback Report - Help Guide
 ## Purpose
 The Management Feedback Report form is designed to collect feedback from staff members about their manager's performance. This feedback will help managers understand their strengths and weaknesses, enabling them to improve their management style and better support their team.

@@ -1,11 +1,3 @@
-<thinking>
-This help guide will provide instructions on how to complete the "In Person Vacation Bible School Registration Form" for end users. 
-
-The purpose of this form is to collect necessary information from participants and their emergency contacts, which includes personal details, contact information, and emergency contact information. It is crucial to ensure that the form is completed accurately and thoroughly to avoid any potential issues or delays in processing the participant's registration. Please review the form carefully and fill out the required fields. 
-
-This form is designed to collect information from participants and emergency contacts for the purpose of registration. Please ensure that you have the necessary permissions and consents before filling out this form.
-</thinking>
-
 # In Person Vacation Bible School Registration Form - Help Guide
 
 ## Purpose

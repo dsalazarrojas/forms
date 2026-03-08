@@ -1,11 +1,3 @@
-<thinking>
-The event registration forms are typically used to collect information about an event that occurred during a specific time frame. To confirm whether the current form is relevant for you to complete, please consider the following:
-* Is the form being used to register an event that took place within the last week or so?
-* Are you trying to report an event that happened on or around the date indicated in the event_bracelet_pickup_date field?
-* If you answer "yes" to either of the above questions, this form might be relevant for your use case.
-To avoid any confusion or duplication of effort, please note that this form is intended for registering events that are not part of a recurring event series. If you're trying to register a recurring event, please look for the corresponding recurring event registration form.
-</thinking>
-
 # Event Bracelet Pickup Registration - Help Guide
 
 ## Purpose

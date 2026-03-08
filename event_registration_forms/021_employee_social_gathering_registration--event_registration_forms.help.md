@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from employees regarding their attendance, event details, and other relevant information. The purpose of this form is to facilitate effective communication and planning for social gatherings among employees. Before filling out this form, please ensure that you have the necessary approvals and permissions to register for events. Note that duplicate registrations will not be accepted. The following guide will walk you through each field of the form to help you fill it out correctly.
-</thinking>
-
 # Employee Social Gathering Registration - Help Guide
 
 ## Purpose

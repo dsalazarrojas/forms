@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # employee_learning_and_growth_week_registration - Help Guide
 
 ## Purpose

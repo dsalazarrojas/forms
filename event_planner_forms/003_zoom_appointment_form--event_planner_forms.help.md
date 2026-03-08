@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a Zoom appointment, including event details, client information, and payment-related data. It is intended for end-users to input their event details, client information, and payment preferences. This form is likely used in a business or professional setting where appointments are scheduled and payments are processed. The form has a mix of required and optional fields, ensuring that essential information is captured while allowing for additional context to be provided. The form fields are organized into a logical structure, with sections for event details, client information, and payment settings.
-</thinking>
-
 # Zoom Appointment Form - Help Guide
 ## Purpose
 The Zoom Appointment Form is a tool for scheduling and managing appointments, capturing essential details and payment information for each session.

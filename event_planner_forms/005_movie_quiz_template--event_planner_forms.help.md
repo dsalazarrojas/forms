@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to create a movie quiz template for various purposes such as assessing knowledge, entertainment, or education. It's likely used in a school setting or for personal entertainment.
-The form is intended to help users create a quiz with multiple options for the type of quiz (Multiple Choice, True/False, Fill-in-the-blank), the type of answers (Multiple choice, True/False, Fill-in-the-blank), and the format of the answers (Multiple choice, True/False, Fill-in-the-blank). The form also asks for the correct answers, the quiz name, and a brief description. It's possible that this form is used in a school or academic setting to assess student knowledge or understanding of a movie-related topic.
-</thinking>
-
 # Movie Quiz Template - Help Guide
 ## Purpose
 This form is used to create a movie quiz template with various options for the type of quiz, answer format, and other settings.

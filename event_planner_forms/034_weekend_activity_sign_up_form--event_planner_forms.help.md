@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Weekend Activity Sign Up Form - Help Guide
 ## Purpose
 This form is designed to collect information about weekend activities, including the type of event, details about the event, and contact information for the event organizer and attendees. This form helps the event planner to efficiently collect and manage sign-ups for weekend events.

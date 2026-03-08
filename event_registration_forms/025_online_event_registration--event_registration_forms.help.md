@@ -1,9 +1,3 @@
-<thinking>
-The online event registration form is used to collect event details, attendee information, and payment data for an event. It is essential to ensure that all required fields are filled in correctly to avoid any issues with the event registration process. Please review each field carefully and fill it out according to your needs.
-
-Please note that the form is designed to be flexible and can be adapted to different types of events. However, if you are unsure about any specific field, please contact the event organizer for clarification.
-</thinking>
-
 # Online Event Registration - Help Guide
 ## Purpose
 The online event registration form is used to gather information about an event and its attendees. This includes event details, attendee contact information, and payment data. Completing this form helps event organizers manage their events efficiently and ensures that all necessary information is collected.

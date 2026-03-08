@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to gather information about a philanthropic innovation from a contact person. The purpose of this form is to collect data about a specific program or initiative, including its title, description, and contact information. This form is not intended to be used for general feedback or complaints, but rather to provide a structured way to gather specific data for the evaluation process.
-
-The following guide explains each field in the form to help the user complete it accurately.
-
-</thinking>
-
 # Philanthropic Innovation Insight Survey - Help Guide
 ## Purpose
 This form is designed to collect data about a specific philanthropic innovation from its contact person.

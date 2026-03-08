@@ -1,16 +1,3 @@
-<thinking>
-This form is intended for registrants to provide information about themselves and their trading goals. The purpose of this form is to gather data on potential participants' background, experience, and investment strategies. This form will help us understand the registrant's preferences and requirements, which will enable us to tailor our Prop Trading Intensive program to their needs. By providing this information, registrants can help us to create a more personalized and effective experience for them.
-
-This form does not duplicate any existing forms, as it is a unique registration form for our Prop Trading Intensive program.
-
-Before completing this form, registrants are advised to review the provided instructions carefully and answer each question accurately and thoroughly.
-
-Please note that some fields may be optional, but providing accurate and complete information will help us to better understand the registrant's needs and goals.
-
-The following instructions and explanations are provided to help registrants complete this form correctly and efficiently.
-
-</thinking>
-
 # Prop Trading Intensive Registration - Help Guide
 ## Purpose
 The Prop Trading Intensive Registration form is a comprehensive registration form designed to gather information about potential participants' background, experience, and investment strategies. This form is essential to help us tailor our Prop Trading Intensive program to their specific needs and preferences.

@@ -1,6 +1,3 @@
-<thinking> 
-The form is intended for users to register for a fantasy baseball league, providing necessary information for league management and organization. This guide helps ensure users understand what is required and expected of them, reducing potential errors or confusion. By filling out this form, users will create a complete profile that helps the league administrator manage and run the league successfully. This guide will walk through each field in a clear and concise manner, making it easy for users to understand the purpose of each field and what is expected of them.</thinking>
-
 # Baseball Fantasy League Registration - Help Guide
 ## Purpose
 The purpose of this form is to gather necessary information from users to create a profile for the fantasy baseball league. This includes personal details, draft preferences, and payment information. By filling out this form, users will be able to join the league and participate in the fantasy baseball experience.

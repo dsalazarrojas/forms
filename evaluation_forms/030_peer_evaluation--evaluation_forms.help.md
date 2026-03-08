@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect peer evaluations from evaluators, which is an essential process in evaluating and providing feedback on a project, product, or service. This form is designed to be completed by peers who will provide their opinions and ratings on the subject of evaluation. 
 
 Please note that this form is a general template and you may need to modify it according to your specific use case. This form is not intended for production use without proper customization and validation.

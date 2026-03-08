@@ -1,10 +1,3 @@
-<thinking>
-This is a form to gather feedback and input from users. The form is used for voting on colors for events. The form has a few different sections, each asking for specific information. The user will be asked to select or input information in each section. 
-The form is not for creating new events, it's for voting on the colors of existing events. The form does not have any fields that require the user to add new events. 
-The form does not require the user to log in. 
-Please make sure to fill out all the required fields.
-</thinking>
-
 # event_color_voting - Help Guide
 ## Purpose
 This form is used to gather feedback and input from users on the colors of events.

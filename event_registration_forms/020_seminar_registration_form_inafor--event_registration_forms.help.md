@@ -1,12 +1,3 @@
-<thinking>
-This help guide is to ensure that users understand the purpose and requirements of the Seminar Registration Form INAFOR. It is essential to review this guide carefully before filling out the form.
-
-The form is designed to gather information for seminar registrations, which can include workshops, conferences, events, meetings, and webinars. The form requires accurate and relevant information to facilitate smooth seminar planning and logistics.
-
-Before filling out the form, please ensure you have all the required information and review the form carefully to avoid duplication and errors.
-
-</thinking>
-
 # Seminar Registration Form INAFOR - Help Guide
 ## Purpose
 The Seminar Registration Form INAFOR is used to register for seminars such as workshops, conferences, events, meetings, and webinars. The form helps gather essential information to facilitate seminar planning and logistics.

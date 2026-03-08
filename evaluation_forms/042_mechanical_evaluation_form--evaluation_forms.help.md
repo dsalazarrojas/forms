@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mechanical Evaluation Form - Help Guide
 
 ## Purpose

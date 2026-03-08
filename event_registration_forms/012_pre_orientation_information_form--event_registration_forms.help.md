@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pre-Orientation Information Form - Help Guide
 ## Purpose
 The Pre-Orientation Information Form is designed to collect essential information from students and employees for registration purposes. Please fill out this form to provide accurate and relevant details about yourself.

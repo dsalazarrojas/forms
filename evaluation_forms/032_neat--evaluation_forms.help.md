@@ -1,11 +1,3 @@
-<thinking>
-
-This form, "Neat", is a collection of questions designed to gather various types of information from users. The form is used for evaluation purposes and is not intended for completion by non-users or non-authorized individuals. 
-
-To ensure accurate completion and prevent duplication, please ensure you are accessing this form within the intended context and purpose.
-
-</thinking>
-
 # Neat - Help Guide
 ## Purpose
 The "Neat" form is used to collect information for evaluation purposes.

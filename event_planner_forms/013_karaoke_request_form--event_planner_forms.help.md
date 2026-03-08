@@ -1,8 +1,3 @@
-<thinking>
-The "karaoke_request_form" is used to collect information about songs requested for a karaoke event or session. The form is divided into two main sections: Song Requests and Song Selection Details. The Song Requests section is a text field where users can input their song requests. The Song Selection Details section includes a range of fields that provide more specific information about each song, including song name, artist, length, format, and priority level. The form also includes fields for requesting by operator or patron, and a date field for noting any additional information. The form does not require any specific fields to be completed, but users are free to input as much or as little information as they need. The fields are not redundant, and users can input new information without affecting the existing data.
-
-</thinking>
-
 # karaoke_request_form - Help Guide
 ## Purpose
 

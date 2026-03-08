@@ -1,7 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the Art Festival Registration Form. This form collects information from participants to facilitate their registration and participation in the art festival. The goal is to provide a clear and concise guide for participants to complete the form accurately and efficiently.
-</thinking>
-
 # Art Festival Registration Form - Help Guide
 ## Purpose
 This guide will walk you through the Art Festival Registration Form, which collects essential information from participants to facilitate their registration and participation in the festival.

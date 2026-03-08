@@ -1,5 +1,3 @@
-<thinking>Are you sure you want to create a help guide for a form that doesn't seem to have any actual functionality or required fields? The form appears to be just a simple text input form with no actual questions or options. I'm guessing this might be a placeholder or a template for a future form. If that's the case, I'll do my best to provide a guide that's helpful and concise.</thinking>
-
 # Retirement Party RSVP Form - Help Guide
 ## Purpose
 This guide is for the Retirement Party RSVP Form, which is used to collect information about your attendance and preferences for a retirement party.

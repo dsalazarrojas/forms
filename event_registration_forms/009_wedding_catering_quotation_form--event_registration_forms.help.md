@@ -1,12 +1,3 @@
-<thinking>
-This help guide is created to assist users in understanding the purpose and functionality of the Wedding Categorization Form. The form is used to collect information about a wedding event, allowing users to provide details about the wedding catering quotation. This guide will walk the user through the necessary steps to complete the form, explaining each field's purpose and expected input.
-
-The form is designed to gather information from users about their wedding event, including details about the catering options, guest count, dietary restrictions, and other special requests. This information is crucial for the wedding planners to provide accurate quotes and cater to the user's needs.
-
-Before proceeding, ensure that you are filling out the form for the correct wedding event and not duplicating an already existing one. This guide will help you navigate the form effectively.
-
-</thinking>
-
 # Wedding Categorization Form - Help Guide
 ## Purpose
 The Wedding Categorization Form is used to collect information about a wedding event, allowing users to provide details about the wedding catering quotation.

@@ -1,7 +1,3 @@
-<thinking>
-This guide will help end-users complete the "Secret Santa Form For Adults" with ease.
-</thinking>
-
 # Secret Santa Form For Adults - Help Guide
 ## Purpose
 This form is designed to collect information from participants in a Secret Santa gift exchange. It helps to identify the participants, their preferences, and the event details.

@@ -1,18 +1,3 @@
-<thinking>
-This form is intended to gather information from users to confirm their attendance to a session. The session attendance confirmation form is a simple, multi-page form that captures details about the user's session, including the date they attended, any notes they have about the session, and confirmation of their attendance. The form does not require users to provide any personal details unless they choose to do so.
-
-To complete this form, users will be presented with a series of fields that ask for the following information:
-* Session attended: Users are presented with a dropdown menu to select which session they attended.
-* Date attended: Users enter the date they attended the session in the mm/dd/yyyy format.
-* Notes: Users can enter any additional comments about their session.
-* Confirmed: Users select whether they are confirmed or not confirmed about their attendance.
-* Email: Users can provide a contact email if they choose to.
-* Phone: Users can provide a contact phone number if they choose to.
-* Session attendance confirmation: This is a note field where users can enter any relevant information about their session attendance.
-
-This form is best filled out by users who have attended a session and are confirming their attendance. If users are unsure about how to fill out this form, they can ask their session administrator or supervisor for guidance.
-</thinking>
-
 # Session Attendance Confirmation - Help Guide
 ## Purpose
 The Session Attendance Confirmation form is used to record and confirm attendees' attendance to a session.

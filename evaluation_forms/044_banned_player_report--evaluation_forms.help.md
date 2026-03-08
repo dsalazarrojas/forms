@@ -1,5 +1,3 @@
-<thinking>...To avoid duplication of work, please ensure this report is only used for players who have been banned from our platform. If you're submitting a report for a different purpose, kindly use the appropriate form. Also, please fill in all required fields and ensure your report is as detailed as possible. Note that the form has multiple pages with a total of 24 fields. Please review each field carefully and provide accurate information to help us process your report effectively...</thinking>
-
 # Banned Player Report - Help Guide
 ## Purpose
 This form is designed to report a player who has been banned from our platform. Please fill out this form to report a player who has committed a rule violation or other misconduct.

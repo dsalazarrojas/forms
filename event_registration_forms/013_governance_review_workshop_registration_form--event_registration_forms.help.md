@@ -1,12 +1,3 @@
-<thinking>
-This form is used for registering participants for a governance review workshop. 
-The form has four pages: 
-*   The first page collects participant information. 
-*   The second page asks participants about their interest in attending the workshop. 
-*   The third page collects the workshop date. 
-*   The fourth page requires the participant to enter their name. 
-</thinking>
-
 # governance_review_workshop_registration_form - Help Guide
 ## Purpose
 This form is for registering participants for a governance review workshop.

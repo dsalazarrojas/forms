@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # event_evaluation_survey_template - Help Guide
 
 ## Purpose

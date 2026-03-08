@@ -1,10 +1,3 @@
-<thinking>
-This is a form to be used for registering participants in a kayaking event. It includes fields for the event name, participant information, emergency contact details, medical conditions, and participant agreement to participate. The form is designed to collect information from participants and event organizers to ensure a safe and enjoyable experience for all.
-
-Before proceeding, please make sure to review the form carefully to ensure all required information is provided.
-
-</thinking>
-
 # Kayaking Waiver Form - Help Guide
 ## Purpose
 This form is intended for participants to register for a kayaking event. It is essential to fill out the form accurately and truthfully to ensure a safe and successful event.

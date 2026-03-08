@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users who have taken a course, allowing them to share their overall satisfaction and opinions about the course content, organization, and effectiveness. The survey aims to provide a comprehensive understanding of the course's strengths and areas for improvement, which can be used to refine future course development.
-
-Before proceeding with the survey, please ensure that you have not already provided feedback on this course. Your responses will help course creators understand their offering better.
-
-</thinking>
-
 # course_evaluation_survey_template - Help Guide
 ## Purpose
 The course evaluation survey template is designed to collect feedback from course participants to improve future course development and content quality.

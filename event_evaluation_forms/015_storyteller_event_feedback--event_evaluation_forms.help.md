@@ -1,11 +1,3 @@
-<thinking>...thinking>
-
-To ensure that this form is completed accurately and effectively, we must first understand its purpose. The "Storyteller Event Feedback" form is designed to gather feedback from attendees on events organized by our organization. This form is meant to help us evaluate the success and effectiveness of our events, identify areas for improvement, and better serve our attendees in the future.
-
-The form consists of multiple pages with various fields that cater to different aspects of event evaluation. Please review each field carefully to ensure you provide accurate and relevant feedback.
-
-</thinking>
-
 # Storyteller Event Feedback - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **video_on_demand_access_form - Help Guide**
 
 ## Purpose

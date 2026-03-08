@@ -1,8 +1,3 @@
-<thinking>
-This help guide is for the Event Decor Payment Form, which allows customers to register and pay for event decorations. To ensure this guide is relevant and does not duplicate existing documentation, please check that the form is properly configured to capture all required information for event decoration payment processing. The form's purpose is to collect payment information and other relevant details from customers for event decoration services.
-
-</thinking>
-
 # Event Decor Payment Form - Help Guide
 ## Purpose
 The Event Decor Payment Form is designed for customers to register and pay for event decoration services. Fill out this form to ensure timely and accurate payment processing.

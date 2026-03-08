@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from users about the visual effects used in events and projects. This feedback is essential for identifying areas of improvement and refining the visual effects for future events and projects.
-
-Before proceeding, ensure that you are filling this form for a specific event and project that you have relevant experience with. If you've already provided feedback for a similar event or project, your feedback may be redundant and not recorded.
-
-This form guides you through the process of providing detailed feedback on visual effects used in events and projects. Please read the following instructions and explanations carefully to get the most out of this form.
-</thinking>
-
 # Visual Effects Feedback Form - Help Guide
 ## Purpose
 The Visual Effects Feedback Form is designed to collect feedback on visual effects used in events and projects. This feedback is crucial for improving the visual effects and making future events and projects more engaging and effective.

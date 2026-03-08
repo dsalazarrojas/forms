@@ -1,8 +1,3 @@
-<thinking>
-**Internal Reasoning:**
-This form is designed for community event organizers to request sponsorship from the organization. The form captures essential information from the event organizer to facilitate communication and sponsorship arrangement. This form should not be used for other purposes. Ensure you only use this form to request sponsorship for your community event.
-</thinking>
-
 # Community Event Sponsorship Request Form - Help Guide
 
 ## Purpose

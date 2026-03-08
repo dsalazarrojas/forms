@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning for this form is to ensure that participants provide accurate and relevant information to register for the Global Conversation. This form is not affiliated with, endorsed by, or derived from any form platform, but rather an AI-generated form created using public survey topic metadata. 
-</thinking>
-
 # Global Conversation Registration - Help Guide
 ## Purpose
 The Global Conversation Registration form is used to collect information from participants, including their details, time zone, preferred language, participant status, and any additional information they may want to provide. This form helps us understand the participant's preferences and needs for the event.

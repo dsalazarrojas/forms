@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Evaluation Survey Form - Help Guide
 
 ## Purpose

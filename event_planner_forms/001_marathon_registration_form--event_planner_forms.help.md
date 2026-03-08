@@ -1,9 +1,3 @@
-<thinking>
-Internal reasoning block to check that this form is relevant and not duplicated:
-
-This is a form for registering participants in a marathon event, likely for an organizer or administrator to collect relevant details about each participant before the event. The form has a mix of mandatory and optional fields, covering basic information (name, email, emergency contact), medical and participant information (medical history, participant category), event specifics (event info, registration time), and additional details (age, participant availability). The form seems to be a comprehensive and structured way to collect participant details, making it less likely to be duplicated in a similar context.
-</thinking>
-
 # Marathon Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from participants registering for a marathon event. It is intended for event organizers or administrators to gather relevant details about each participant.

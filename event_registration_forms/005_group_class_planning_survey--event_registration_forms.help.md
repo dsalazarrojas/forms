@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for planning group classes, allowing users to provide input on various aspects of the class, including group preferences, class type, location, time, duration, frequency, start time, instructor details, and class start date and time. This form is designed to gather data to support the planning and organization of group classes.
-
-Before proceeding, it's essential to understand the specific requirements and constraints for each field to ensure accurate and relevant input.
-
-</thinking>
-
 # group_class_planning_survey - Help Guide
 ## Purpose
 This form is used to collect information for planning group classes. It's crucial to complete this form accurately to ensure the best possible outcome for your class.

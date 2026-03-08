@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from event staff members for events. It is meant to be completed by event staff to provide their availability, role preferences, event details, and other relevant information. The form helps event organizers to efficiently manage staff assignments and ensure that staff members are properly assigned to events based on their availability and preferences. It is essential to complete this form accurately to ensure that staff are properly assigned and that events run smoothly. Note that some fields are required while others are optional. Please ensure you complete all required fields before submitting the form.
-</thinking>
-
 # Event Staffing Application & Availability Form - Help Guide
 ## Purpose
 The Event Staffing Application & Availability Form is designed to collect information from event staff members to assign them to events based on their availability and preferences.

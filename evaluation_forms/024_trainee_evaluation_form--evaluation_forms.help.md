@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my internal reasoning is as follows:</thinking>
-
 The purpose of this form is to evaluate a trainee's performance across various categories, providing an objective assessment of their skills and abilities. This form is likely used in an academic or professional setting, such as in a school, university, or corporate environment, to gather feedback from trainers, instructors, or mentors on a trainee's progress. The form is designed to be easy to use and complete, with multiple-choice questions and text fields for providing feedback. This form has been generated using AI algorithms and public metadata, making it a neutral and unbiased tool for assessment.
 
 # Trainee Evaluation Form - Help Guide

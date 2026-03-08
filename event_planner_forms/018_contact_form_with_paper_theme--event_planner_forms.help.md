@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect event planning information from users, allowing them to request event planning services or inquire about specific events. It is intended for users to provide personal contact details and event specifics to help planners provide relevant information and services. Please use this form to submit a new event inquiry or update existing information. 
-</thinking>
-
 # Contact Form With Paper Theme - Help Guide
 ## Purpose
 This form is used to collect event planning information from users, including contact details and event specifics.

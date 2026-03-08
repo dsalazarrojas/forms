@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for event registration with the purpose of gathering information from sponsors about their products and booths. Sponsors can register for one or multiple events, and the form is designed to collect details about their products, booth information, and event participation status.
-</thinking>
-
 # Sponsor Product Display Registration Form - Help Guide
 ## Purpose
 This form is designed for event registration with the purpose of gathering information from sponsors about their products and booths. Sponsors can register for one or multiple events.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect registration information for the Employee Life Balance Awareness Program. 
-It is not intended for duplicate registrations or for use by non-employees. 
-The form is composed of multiple pages, each with a specific set of questions or fields. 
-The fields are designed to collect basic contact information, availability, and responses to wellness initiatives. 
-The form is not intended for use with sensitive or confidential information. 
-Please review the fields carefully to ensure you provide accurate and complete information.
-</thinking>
-
 # Employee Life Balance Awareness Program Registration Form - Help Guide
 ## Purpose
 The Employee Life Balance Awareness Program Registration Form is designed to collect registration information for the Employee Life Balance Awareness Program.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about group registrations for events, allowing organizers to manage event details, contact information, and participant requirements. 
-
-It's crucial to have this form in place to ensure accurate and comprehensive event planning. However, please note that this form is a general template and may need modifications according to the specific needs of your event. Ensure that you review the fields carefully and understand their purpose before proceeding.
-
-</thinking>
-
 # Group History Day Registration - Help Guide
 ## Purpose
 The Group History Day Registration form is used to collect and manage group information for events. This form helps event organizers gather necessary details about the groups attending their event.

@@ -1,10 +1,3 @@
-<thinking>
-This form is for booking a tour at a heritage mansion. It collects visitor details, tour preferences, and contact information. The form is intended for visitors who have already been to the mansion, and it's designed to accommodate a specific set of visitors with different preferences and requirements. To avoid duplicating bookings, the form will not allow submissions that conflict with existing tours. 
-
-This form is part of a larger system for managing bookings and tours for the heritage mansion. The form's main goal is to gather visitor information and confirm or reject their requested tour dates and times.
-
-</thinking>
-
 # Heritage Mansion Tour Booking Form - Help Guide
 ## Purpose
 This form is used to book a tour for the heritage mansion. It will collect visitor details and preferences, and confirm or reject requested tour dates and times.

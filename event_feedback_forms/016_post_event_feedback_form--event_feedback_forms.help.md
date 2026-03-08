@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback from attendees after an event. The purpose of this form is to gather information about the attendee's thoughts, opinions, and experiences. This form will be used by event organizers to improve future events based on attendee feedback. Before filling out this form, please make sure you haven't already submitted feedback for the same event, as this form is intended to capture unique responses from each attendee.
-
-Please note that this form has multiple pages, and you will be navigated through each page sequentially. You can submit your feedback by completing all pages and pressing the submit button at the end.
-</thinking>
-
 # post event feedback form - Help Guide
 ## Purpose
 The post event feedback form is designed to collect feedback from attendees after an event, allowing event organizers to improve future events based on attendee comments.

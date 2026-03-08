@@ -1,10 +1,3 @@
-<thinking>
-To create a helpful guide for end-users, let's first consider the purpose of this form. The Freshman Welcome Registration Form is designed to collect information from students, specifically freshmen, to help the university or institution understand their needs and preferences. This form likely serves as an initial point of contact for students to introduce themselves and provide essential details about their background, academic and personal interests, and any special needs or requirements they may have. The form is also used to track student attendance at events and gather feedback. By using this form, students can ensure that their voice is heard and their needs are taken into account, and the institution can tailor its support services to better cater to their needs.
-
-Before filling out this form, please ensure that you have not already filled out this form. Filling out this form multiple times can cause confusion and may result in incorrect data being associated with your account.
-
-</thinking>
-
 # Freshman Welcome Registration Form - Help Guide
 ## Purpose
 The Freshman Welcome Registration Form is used to collect information from new students to help the institution understand their needs and preferences.

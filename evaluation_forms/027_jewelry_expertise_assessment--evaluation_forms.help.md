@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the expertise level of individuals in the field of jewelry. The form will likely be used to gauge the user's knowledge, experience, and certifications in jewelry. The fields on this form cover various aspects of jewelry expertise, including knowledge, expertise level, experience, and certifications.
-</thinking>
-
 # Jewelry Expertise Assessment - Help Guide
 ## Purpose
 This form is designed to assess the expertise level of individuals in the field of jewelry. It will help determine their knowledge, experience, and certifications in this field.

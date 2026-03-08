@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Community Play Audition Communication Form - Help Guide
 ## Purpose
 This form is for actors to provide their information and availability for an audition. You will be asked for personal details, audition preferences, and scheduling information.

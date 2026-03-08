@@ -1,10 +1,3 @@
-<thinking>
-This form will be used by event planners to request sponsorship for events. 
-This guide will be used by end users who are not familiar with the form, so it will likely be used by event planners who are not familiar with the form. 
-The form is not intended for general public use, so it is likely that event planners and sponsors will be using this form multiple times.
-The form will be used to gather information about the events and sponsors, which will be used by the organization to make decisions about event sponsorship.
-</thinking>
-
 # Sponsorship Request Form - Help Guide
 ## Purpose
 This form is designed to help event planners request sponsorship for their events. It is intended to be used by event planners to gather information about their events and the sponsorship requirements.

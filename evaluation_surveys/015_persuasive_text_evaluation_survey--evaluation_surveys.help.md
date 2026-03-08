@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about the user's evaluation of a persuasive text, specifically to assess their understanding and opinions about the text's content, structure, and overall effectiveness. This form is intended to be used by researchers, content creators, or evaluators to gather data and insights that can inform the development and improvement of persuasive texts.
-</thinking>
-
 # Persuasive Text Evaluation Survey - Help Guide
 ## Purpose
 This form is designed to collect information about the user's evaluation of a persuasive text.

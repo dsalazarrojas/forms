@@ -1,8 +1,3 @@
-<thinking>
-This form is likely designed for customers to evaluate their experience at a restaurant, providing feedback on various aspects of their visit. The form could be used by restaurant management or owners to gather insights and identify areas of improvement.
-It is likely that this form is used for one-time evaluations, and it does not seem to have any duplicate or unnecessary fields.
-</thinking>
-
 # Restaurant Evaluation Form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from customers about their experience at a restaurant. This feedback will help the restaurant management or owners to identify areas for improvement and provide better services to their customers.

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form purpose is clear and relevant. This is a general reunion registration form for event planners to collect information about upcoming events. The form should not be used for other types of events or purposes. We should double-check that the fields and labels are clear and concise and accurately reflect the form's purpose.
-</thinking>
-
 # General Reunion Registration Form - Help Guide
 ## Purpose
 The General Reunion Registration Form is designed for event planners to collect information about upcoming reunions. This form helps to gather details about the event name, date, time, location, and attendees. Fill out this form to provide necessary information for planning and execution of a successful reunion.

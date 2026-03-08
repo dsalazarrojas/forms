@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # event_planning_consultation_form - Help Guide
 ## Purpose
 This form is designed to collect event planning details for consultation purposes. It's meant to gather information about an event, including its title, location, date and time, venue, description, type, and contact person and contact information. This form is used to facilitate communication and collaboration among event planners and stakeholders.

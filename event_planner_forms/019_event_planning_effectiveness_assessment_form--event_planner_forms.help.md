@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback on the effectiveness of an event planning process from the perspective of event planners. It assesses different aspects of the event planning process, including communication, team compliance, event team effectiveness, and overall experience. The form aims to evaluate the overall effectiveness and satisfaction of the event planning process.
-</thinking>
-
 # Event Planning Effectiveness Assessment Form - Help Guide
 ## Purpose
 This form is used to gauge the effectiveness of the event planning process and gather feedback on various aspects of event planning. It helps event planners understand areas for improvement and areas of strength in their planning process.

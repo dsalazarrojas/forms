@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from attendees of a coffee chat event. It is meant to be a brief and straightforward way to collect information about the event's overall quality, venue, staff, and networking opportunities. The goal is to identify areas of improvement and suggestions for future events. It is intended for the event organizers to use to make informed decisions about future events.
-</thinking>
-
 # Coffee Chat Event Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from attendees of a coffee chat event. It is a brief and straightforward way to collect information about the event's overall quality, venue, staff, and networking opportunities.

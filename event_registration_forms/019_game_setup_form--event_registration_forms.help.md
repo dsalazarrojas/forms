@@ -1,7 +1,3 @@
-<thinking>
-The form is used to collect information for game setup purposes, such as setting up game sessions, selecting players, game mode, schedule matches, game rules, event organizer, and community club. This form is likely used for event registration or game management tasks. To avoid duplication of effort, ensure that you are not filling out this form if you have already registered or set up a game session. 
-</thinking>
-
 # Game Setup Form - Help Guide
 ## Purpose
 The Game Setup Form is used to collect information for game setup purposes, such as setting up game sessions, selecting players, game mode, schedule matches, game rules, event organizer, and community club.

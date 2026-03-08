@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for dance association's annual tournament entry. It's intended to gather essential details such as participant's name, team name, event name, and categories they would like to compete in. The form also captures contact and medical information for emergency purposes. This form should be used only for participants who are registering for the annual tournament.
-
-</thinking>
-
 # dance_association_annual_tournament_entry_form - Help Guide
 ## Purpose
 This form is used for dance association's annual tournament entry. It's meant to gather essential details for participants and their teams.

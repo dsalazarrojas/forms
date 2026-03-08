@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect information about event tickets from users. It's crucial to provide clear guidance to ensure accurate and complete data collection. Before proceeding, let's validate that this form aligns with your actual needs. If you're looking for a form to gather event tickets, this is the right place to start. 
-
-</thinking>
-
 # win-event-tickets - Help Guide
 ## Purpose
 This form is designed to collect information about event tickets from users, helping event organizers to gather essential details about attendee preferences and requirements.

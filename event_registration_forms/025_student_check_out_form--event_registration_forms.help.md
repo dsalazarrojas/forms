@@ -1,6 +1,3 @@
-<thinking>
-This form is used to record the check-out of a student from an event. It captures essential details about the student and the event they attended. The form is used to track attendance and provide accurate records for future reference. It's crucial to fill out the form accurately to ensure correct information is captured. Please ensure you're completing the form for the correct student and event. Note that some fields are not required, but providing accurate information will help with efficient processing.</thinking>
-
 # Student Check Out Form - Help Guide
 ## Purpose
 This form is used to record the check-out of a student from an event, capturing essential details for accurate records and tracking attendance.

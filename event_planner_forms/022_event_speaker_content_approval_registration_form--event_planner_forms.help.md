@@ -1,23 +1,3 @@
-<thinking>
-This form is intended to collect and approve registration information for event speakers. Event organizers and administrators will use this form to review and manage speaker data before the event.
-
-To complete this form, you will need to provide the following information:
-- Speaker Details: Enter the speaker's name, title, and contact information.
-- Event Details: Enter the event name, date, and time.
-- Content Upload: You can upload relevant content related to the event or speaker.
-- Session Details: Enter any additional details about the speaker's session.
-- Event Speaker Details: This section is for event organizers to review and approve speaker data.
-
-The following fields require specific information:
-- Speaker Agreement: You must confirm that you agree to the event terms.
-- Session Agreement: You must confirm that you agree to the session terms.
-- Speaker Image and Session Image: You can upload images related to the speaker or session.
-- Content Upload URL: If you have a URL for the uploaded content, you can enter it here.
-- Speaker Video: Enter any video-related information for the speaker.
-- Session Image: Enter any image-related information for the session.
-- Other Agreement: You can specify any other agreements or terms that apply to the speaker or session.
-</thinking>
-
 # Event Speaker Content Approval Registration Form - Help Guide
 ## Purpose
 This form is used to collect and approve speaker registration information for events. Event organizers and administrators will use this form to review and manage speaker data before the event.

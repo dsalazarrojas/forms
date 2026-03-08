@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information from guests about their attendance status and any other relevant details for an engagement party. It is a way to track RSVPs and responses from invited individuals.
-
-This form is meant to be used by guests, not event planners. The form is a simple way to collect RSVPs and responses without requiring much effort from the users. The form fields cover the basics of guest information, event details, and RSVP tracking.
-
-Before proceeding, ensure that the user is the correct recipient for the form and is indeed attending the event or not. This form does not need to be filled out multiple times. If you're having trouble with this form, please ask a colleague or a supervisor for assistance.
-
-</thinking>
-
 # engagement_party_rsvp_form - Help Guide
 ## Purpose
 The engagement party RSVP form is used to track guest attendance and responses for an engagement party. It helps event planners gather necessary information from invited guests.

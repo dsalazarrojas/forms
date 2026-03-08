@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # fitness_performance_training_evaluation_form - Help Guide
 
 ## Purpose

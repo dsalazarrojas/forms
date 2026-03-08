@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to report incidents involving festival vendors, which may occur during the festival. These incidents can include disputes between vendors, vendor complaints, or other issues that affect the festival experience. The purpose of this form is to document and track these incidents, so that the festival organizers can address and resolve them in a timely and effective manner. By completing this form, you will be providing valuable information that helps us to identify potential areas for improvement and to ensure a safe and enjoyable experience for all festival attendees and vendors.
-
-</thinking>
-
 # Festival Vendor Dispute Incident Report Form - Help Guide
 ## Purpose
 The purpose of this form is to report incidents involving festival vendors that may occur during the festival. These incidents may include disputes between vendors, vendor complaints, or other issues that affect the festival experience.

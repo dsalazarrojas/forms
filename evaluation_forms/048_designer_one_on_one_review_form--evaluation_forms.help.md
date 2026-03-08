@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to facilitate the review process between designers and reviewers, ensuring that feedback is provided in a structured and organized manner. This form is designed to be completed by the reviewer, providing them with an opportunity to provide their assessment of the design and offer comments or suggestions for improvement.
-To ensure that each designer receives a comprehensive review and to prevent duplication of effort, it's essential to complete this form accurately and thoroughly. Please note that this form has multiple sections, each addressing different aspects of the design review process.
-</thinking>
-
 # Designer One On One Review Form - Help Guide
 
 ## Purpose

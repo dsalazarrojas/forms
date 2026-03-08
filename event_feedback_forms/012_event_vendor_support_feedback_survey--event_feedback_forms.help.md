@@ -1,9 +1,3 @@
-<thinking>
-The form "event_vendor_support_feedback_survey" is used to collect feedback from event planners about the support provided by vendors. This form is designed to help improve the quality of support services offered to event planners.
-The form is split into multiple pages, each asking a different set of questions to gather feedback on the vendor's performance.
-The form should not be used to resubmit feedback for the same event.
-</thinking>
-
 # event_vendor_support_feedback_survey - Help Guide
 
 ## Purpose

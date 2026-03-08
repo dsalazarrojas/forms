@@ -1,8 +1,3 @@
-<thinking>
-  This help guide is intended to explain the stage rigging crew booking form, which is a critical component of the event planning process. It captures essential information about events, including details about event type, labor hours, equipment count, date, and other key aspects.
-  Before proceeding, we should ensure that the form is not duplicated or redundant. In cases where the form is completed multiple times, please ensure that the information is up-to-date and accurate. The form is primarily used for event planning purposes and should be filled out carefully to avoid errors.
-</thinking>
-
 # stage_rigging_crew_booking_form - Help Guide
 ## Purpose
 The stage rigging crew booking form is a crucial tool for event planners to collect and store information about events, crew sizes, and other essential details.

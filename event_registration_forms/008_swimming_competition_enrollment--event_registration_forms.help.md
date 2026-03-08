@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to collect information about swimmers registering for a swimming competition. The fields are designed to gather basic details about the swimmer, their event type, and event-specific information. The purpose of this form is to efficiently and accurately capture the necessary data for the competition.
-
-The swimmer information page (page 1) collects basic details about the swimmer, including their name, email, phone number, and age. The event type and team size fields allow swimmers to choose their type of competition and the size of their team, respectively. The event date and time fields require the swimmer to input their event date and start time. The event location field is for swimmers to input the venue where their event will take place. Lastly, the event note field is optional and allows swimmers to include any additional notes about their event.
-
-The form does not require swimmers to fill out every field, but all fields with a label of "Event Date" and "Event Time" are required. If a swimmer's event type is not one of the three listed options, they will not be able to proceed with the enrollment process.
-
-</thinking>
-
 # Swimming Competition Enrollment - Help Guide
 ## Purpose
 The purpose of this form is to register for a swimming competition. It is intended for swimmers to provide their basic information, event type, and event details to ensure a smooth and organized competition.

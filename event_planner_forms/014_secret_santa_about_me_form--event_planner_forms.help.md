@@ -1,10 +1,3 @@
-<thinking>
-This is a Secret Santa gift exchange form designed to gather information about each participant, including their preferences, interests, and demographics. This form is intended to help facilitate a fun and meaningful Secret Santa gift exchange experience. To avoid any duplication of efforts or confusion, please ensure that you only fill out this form once, as this information will be used to generate a personalized gift for each participant.
-
-The Secret Santa About Me Form consists of 25 questions that cover various aspects of your life, from your favorite hobbies and interests to your personal preferences and demographics. The form is divided into several sections, each focusing on a different aspect of your life. Please answer these questions honestly and to the best of your ability.
-
-</thinking>
-
 # Secret Santa About Me Form - Help Guide
 ## Purpose
 The Secret Santa About Me Form is a tool used to gather information about each participant in a Secret Santa gift exchange. This information will be used to generate personalized gifts for each participant based on their preferences and interests.

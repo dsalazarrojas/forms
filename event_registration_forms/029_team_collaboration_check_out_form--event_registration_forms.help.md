@@ -1,5 +1,3 @@
-<thinking>... internal reasoning: This form is intended to facilitate the process of team collaboration checkout, which involves checking out team members and resources for a project. The form is designed to gather information about the project title, team members, equipment needed, and resources required for the project. This form should only be filled out by authorized team members and should not be used for any other purpose. This form will be used internally within the organization, hence the need for it to be accurate and clear in its purpose and content. The form fields should be self-explanatory and easy to understand for both the users and the people processing the form. ...</thinking>
-
 # Team Collaboration Check Out Form - Help Guide
 ## Purpose
 This form is used to facilitate team collaboration checkout, allowing team members to check out team members and resources for a project. It helps the organization to keep track of project-related information and ensure that all necessary resources are checked out and accounted for.

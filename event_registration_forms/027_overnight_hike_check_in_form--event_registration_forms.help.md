@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect registration information from participants for an overnight hike event. It is expected to be filled out by the participant or their emergency contact. The form's purpose is to capture essential details about the event and the participant's involvement in it. It is likely to be used by event organizers or administrators to track and manage participant registrations.
-</thinking>
-
 # Overnight Hike Check In Form - Help Guide
 ## Purpose
 This form is designed to collect registration information from participants for an overnight hike event. It is expected to be filled out by the participant or their emergency contact.

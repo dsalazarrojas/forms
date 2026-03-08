@@ -1,9 +1,3 @@
-<thinking>
-
-This help guide is intended to assist users in completing the "Epic Feedback Survey" form, which is used to collect feedback from event attendees. The purpose of this form is to gather information on their experiences during the event, including their overall satisfaction and areas of improvement. To ensure accurate completion, users should review each field carefully and answer accordingly.
-
-</thinking>
-
 # Epic Feedback Survey - Help Guide
 ## Purpose
 The Epic Feedback Survey form is designed to collect feedback from event attendees. Please answer the questions honestly, and provide as much detail as possible to help us improve future events.

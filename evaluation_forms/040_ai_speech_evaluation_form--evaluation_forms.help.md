@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from evaluators on the quality and performance of a given speech, specifically focusing on its clarity, engagement, structure, vocal technique and pacing, content quality, and overall recommendation. 
-Each field in this form is designed to capture a particular aspect of the speaker's performance, allowing for in-depth evaluation and assessment.
-To avoid duplication of effort, evaluators must fill out this form only once per speech.
-</thinking>
-
 # AI Speech Evaluation Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from evaluators on the quality and performance of a given speech, specifically focusing on its clarity, engagement, structure, vocal technique and pacing, content quality, and overall recommendation.

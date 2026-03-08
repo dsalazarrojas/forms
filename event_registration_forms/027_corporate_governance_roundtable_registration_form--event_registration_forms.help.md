@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who want to participate in a Corporate Governance Roundtable. The form will be used to identify the participant's title, company, job function, and registration details. The form will not collect any sensitive data and is intended for informational purposes only.
-
-The fields in this form are designed to ensure accurate and comprehensive participant information, while minimizing the risk of duplication or misplacement. This form is intended for use by authorized personnel only.
-
-The form will not be shared or published without explicit permission from the participant. Any concerns about data collection, privacy, or form usage should be directed to the relevant authorities.
-
-Please review the following guide to understand how to complete this form accurately and efficiently.
-</thinking>
-
 # Corporate Governance Roundtable Registration Form - Help Guide
 ## Purpose
 The Corporate Governance Roundtable Registration Form is a tool used to collect participant information for the Corporate Governance Roundtable. The form is designed to gather details about the participant's title, company, job function, and registration information.

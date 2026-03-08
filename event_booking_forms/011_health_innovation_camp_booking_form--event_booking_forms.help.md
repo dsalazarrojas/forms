@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for booking a health innovation camp, allowing users to provide their details and preferences for the event. The form is not strictly a booking form, as it does not appear to be asking for specific booking dates or times, but rather seems to be asking for general information about the user. To ensure the form is used correctly, please review the fields carefully and fill out the required fields (those marked as required in the form schema). If you are not sure about any field or option, please ask your event organizer for clarification. Please note that the form has a very large number of options, which may indicate that it's intended for a specific use case or event type. If you are booking for a different type of event or have other purposes, please ensure you are using the correct options or contact your event organizer.
-</thinking>
-
 # Health Innovation Camp Booking Form - Help Guide
 ## Purpose
 This form is designed to collect information for the Health Innovation Camp, allowing users to provide their booking details and preferences.

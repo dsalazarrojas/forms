@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for event planners to create and manage appointments with clients, including scheduling meetings, seminars, conferences, and other events. It captures important details about the event, such as the date and time, event type, location, and attendees. The form also allows planners to store notes and add attendees' email addresses.
-
-</thinking>
-
 # Event Planner Appointment Form - Help Guide
 ## Purpose
 This form is for event planners to schedule appointments with clients, including meetings, seminars, conferences, and other events.

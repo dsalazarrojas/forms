@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to place orders for t-shirts with specific customization options. It is intended for end users to fill out the form with their order details. This form should only be used for orders related to events or specific occasions, as some fields may not be relevant in other contexts.
-</thinking>
-
 # PayJunction T Shirt Order Form - Help Guide
 ## Purpose
 The PayJunction T Shirt Order Form is a form designed for customers to place orders for t-shirts with specific customization options.

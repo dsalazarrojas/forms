@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback from attendees of a healthcare conference, aiming to capture their ratings and suggestions for the speakers, content, and overall experience. Before completing this form, please ensure you have attended the conference and are providing genuine feedback. This form will only be visible to authorized personnel, so your responses will remain confidential. Please answer the questions as honestly as possible, and do not duplicate previous feedback. If you have suggestions or comments for improving the conference, please provide them in the corresponding text fields. Note that some fields are optional, but providing feedback on all sections will help us better understand your experience. If you have any doubts or need clarification on a particular field, feel free to contact us.
-</thinking>
-
 # Healthcare Conference Attendee Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from conference attendees to help us improve future events.

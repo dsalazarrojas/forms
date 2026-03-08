@@ -1,7 +1,3 @@
-<thinking>
-The Barista Evaluation Form is a crucial tool used to assess the performance and progress of baristas in a coffee shop setting. It provides a structured approach to evaluating their strengths and weaknesses, helping managers to identify areas of improvement and recognize exceptional skills. The form is designed to gather data that will aid in making informed decisions on training and development opportunities for baristas.
-</thinking>
-
 # Barista Evaluation Form - Help Guide
 ## Purpose
 This form is used to evaluate the performance of baristas in a coffee shop, assessing their skills and knowledge in various areas, including technical proficiency, workflow and operations, customer service, and teamwork.

@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will first review the form's purpose and ensure that it's aligned with the provided YAML data. This form appears to be a competition feedback form, designed to collect information from participants about their experiences and opinions on various aspects of the competition. The form seems to be designed to gather quantitative and qualitative feedback, allowing organizers to evaluate and improve the competition for future events.</thinking>
-
 # Competition Feedback Form - Help Guide
 
 ## Purpose

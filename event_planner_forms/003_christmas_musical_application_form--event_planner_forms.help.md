@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals interested in joining a Christmas musical event. The form fields cover various aspects of the application process, including applicant details, performance experience, and availability for rehearsals. The required fields ensure that the event planners have a clear understanding of the applicant's contact information and role interest. There should be no duplication of entries, as this form is used for new applications. This form is meant for Christmas musical event planning purposes only.
-</thinking>
-
 # Christmas Musical Application Form - Help Guide
 
 ## Purpose

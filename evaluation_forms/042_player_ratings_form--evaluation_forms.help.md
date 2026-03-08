@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Player Ratings Form - Help Guide
 
 ## Purpose

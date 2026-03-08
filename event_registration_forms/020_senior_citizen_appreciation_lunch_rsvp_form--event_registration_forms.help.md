@@ -1,8 +1,3 @@
-<thinking>
-This form is a simple RSVP form for the Senior Citizen Appreciation Lunch event. The purpose of this form is to collect the names and contact information of senior citizens who are interested in attending the event. The form is used by event organizers to keep track of attendees and send reminders or updates about the event. It's essential to fill out this form accurately to ensure that you receive updates and information about the event. Please note that this form is a one-time registration form, and you will only be registered for this event. 
-
-</thinking>
-
 # senior_citizen_appreciation_lunch_rsvp_form - Help Guide
 ## Purpose
 The purpose of this form is to register for the Senior Citizen Appreciation Lunch event.

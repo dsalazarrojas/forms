@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to collect information from users who want to sign up for a meal train, a volunteer program where individuals can receive meals from other volunteers. The purpose of this form is to gather essential details from users about their meal preferences and contact information. This form is likely used by organizations or individuals managing the meal train program, and its completion will help them understand who needs meals and what types of meals are required.
 
 # Meal Train Sign Up Form - Help Guide

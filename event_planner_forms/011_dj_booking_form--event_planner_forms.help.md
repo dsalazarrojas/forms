@@ -1,11 +1,3 @@
-<thinking>
-
-The DJ Booking Form is a critical component of the event planning process. As an Event Planner, you play a crucial role in booking a DJ for various events within the organization. This form helps to centralize and streamline the booking process, making it easier for you to manage events and their corresponding DJs. To ensure accurate information exchange and minimize errors, it is essential to fill out this form thoroughly and accurately.
-
-This form is intended to be used by Event Planners and other authorized personnel for booking DJs for various events. If a similar form has been used for the same event previously, please do not resubmit the form; instead, update the existing entry with any new information or changes.
-
-</thinking>
-
 # DJ Booking Form - Help Guide
 
 ## Purpose

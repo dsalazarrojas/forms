@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect feedback from customers about their experiences with event-related holiday rush management. The purpose of this form is to gather information about the customer's event name, date, time, location, contact details, and any feedback they may have. This information will help improve future event management processes. 
-
-When filling out this form, please ensure you only provide feedback for a specific event. If you've submitted feedback for the same event already, please do not resubmit, as this may cause duplication and skew the data used for future improvements.
-
-</thinking>
-
 # Holiday Rush Management Feedback Form - Help Guide
 ## Purpose
 

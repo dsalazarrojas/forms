@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to gather feedback from conference attendees on their overall experience and opinions on the event. Its purpose is to improve future conference experiences and ensure that attendees feel valued and heard. It's essential to complete this form as thoroughly and honestly as possible to provide useful feedback. Please note that your responses are anonymous and will help shape the future of conferences in the industry. Before starting, ensure that you haven't already submitted similar feedback on this conference, and if you're not an attendee, please don't fill out the form.</thinking>
-
 # conference_evaluation_survey_template - Help Guide
 ## Purpose
 The conference evaluation survey is designed to gather feedback from attendees to help organizers improve future conference experiences.

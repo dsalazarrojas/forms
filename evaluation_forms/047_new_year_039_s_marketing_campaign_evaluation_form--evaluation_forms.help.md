@@ -1,7 +1,3 @@
-<thinking>
-The form is intended for evaluating the success or failure of a marketing campaign that took place during the New Year's season. The purpose of this form is to gather information about the campaign's objective, budget, results, marketing channels used, target audience, evaluation method, time period, and time spent. This information will help in understanding what worked well and what didn't in the campaign, enabling future improvements. It is essential to fill this form only once per campaign. Please ensure that the form is filled out completely and accurately to get a clear understanding of the campaign's performance. If a field is not applicable, please select "Not Applicable" as the answer.
-</thinking>
-
 # New Year's Marketing Campaign Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather information about the performance of your New Year's marketing campaign. Please complete it thoroughly to help us understand what worked well and what areas need improvement.

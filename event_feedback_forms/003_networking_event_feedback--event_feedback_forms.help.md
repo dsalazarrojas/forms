@@ -1,7 +1,3 @@
-<thinking>
-This form was created to collect feedback from attendees of networking events. The purpose of this form is to gather information about the attendees' experiences, connections made, and outcomes achieved during the event. This form will help event organizers understand how to improve future events and better serve their attendees.
-</thinking>
-
 # Networking Event Feedback - Help Guide
 ## Purpose
 This form is designed to gather feedback from attendees of networking events. The goal is to collect information about their experiences, connections made, and outcomes achieved during the event. This feedback will help event organizers understand how to improve future events and better serve their attendees.

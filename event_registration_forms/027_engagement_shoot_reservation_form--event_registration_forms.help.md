@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to capture information related to an engagement shoot reservation for a photography session. The purpose of this form is to gather details from the client and session information in a structured and organized manner. The form is designed to be completed by the client, providing them with a clear and concise way to submit their reservation request. The fields in this form are meant to collect essential information about the client and session details, such as client contact information, session dates and times, and photographer details.
-</thinking>
-
 # Engagement Shoot Reservation Form - Help Guide
 ## Purpose
 The Engagement Shoot Reservation Form is a tool used to collect information from clients for an engagement shoot reservation. This form is designed to be completed by the client and helps the photographer gather essential details about the client and session.

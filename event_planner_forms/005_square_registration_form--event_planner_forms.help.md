@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # square_registration_form - Help Guide
 ## Purpose
 The Square Registration Form is designed to collect information from patients and healthcare providers for registration purposes. This form is used to gather essential details about the patient, including contact information and date of birth.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to help participants register for a virtual contest. It captures the details of the contest, including the title, description, start and end times, and the contact information of the contest organizer.
-
-Before creating a new instance of this form, consider the following:
-- Is this the correct form for the intended purpose? If not, choose a different form.
-- Has this form already been created and populated with the necessary data? If so, please do not create another instance of this form.
-
-</thinking>
-
 # Virtual Contest Registration Form - Help Guide
 ## Purpose
 The Virtual Contest Registration Form is a tool designed to collect details about a virtual contest, including its title, description, start and end times, and the contact information of the contest organizer.

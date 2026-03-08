@@ -1,11 +1,3 @@
-<thinking>
-This form is for registering for the Payroll Insight Workshop. The form will be used to collect attendee information for the workshop. The form is designed to be completed by attendees who wish to participate in the workshop. The purpose of the form is to gather relevant details about the attendees, such as their session preferences, personal information, and contact details. This information will be used to manage the workshop registration process and ensure that attendees have a successful and enjoyable experience.
-
-Before completing the form, please ensure that you are registered for the workshop. If you have already registered, please do not submit this form again.
-
-Please note that some fields are optional, but it is still important to complete all required fields to ensure that your registration is processed correctly.
-</thinking>
-
 # Payroll Insight Workshop Registration - Help Guide
 
 ## Purpose

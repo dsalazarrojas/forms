@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for event organizers to book a time slot on a festival stage. 
-The form is designed to collect information about the event, including the event name, start and end times, stage selection, date, and any notes. 
-The form will be used to manage bookings and ensure that the stage is utilized efficiently. 
-</thinking>
-
 # festival_stage_time_booking_form - Help Guide
 ## Purpose
 This form is designed to collect information from event organizers to book time slots on a festival stage. It will help event organizers provide details about their event, ensuring efficient stage utilization.

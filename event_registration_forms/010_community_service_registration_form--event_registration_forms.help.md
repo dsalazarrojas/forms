@@ -1,8 +1,3 @@
-<thinking>
-We should ensure that this form is used for its intended purpose and not duplicated. This form is used to collect information from individuals who wish to participate in community service programs. Each field is carefully crafted to ensure that we receive necessary details for a smooth experience. Please review the following guide to ensure proper completion.
-
-</thinking>
-
 # Community Service Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from individuals who wish to participate in community service programs. The form will be used to confirm their registration and ensure they can join the activities they've chosen.

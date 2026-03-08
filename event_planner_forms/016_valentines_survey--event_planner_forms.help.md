@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # valentines_survey - Help Guide
 
 ## Purpose

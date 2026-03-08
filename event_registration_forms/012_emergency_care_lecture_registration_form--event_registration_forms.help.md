@@ -1,7 +1,3 @@
-<thinking>
-To prevent duplicate submissions and ensure accurate emergency care lecture registration, please do not attempt to register for an event more than once. This form is intended for individuals seeking to register for an emergency care lecture, and it requires accurate and complete information to process payments and confirm submissions correctly. Please ensure that the provided details are correct to avoid any discrepancies in your registration status.
-</thinking>
-
 # emergency_care_lecture_registration_form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to gather feedback from tourists who have attended a specific event at the attraction. The purpose of this form is to understand the tourist's experience and gather information on what they liked or disliked about the event, how they would rate their experience, and suggestions for improvement. This form will help the attraction management to identify areas of improvement and provide better services to their visitors.
 
 # Tourist Attraction Feedback Questionnaire - Help Guide

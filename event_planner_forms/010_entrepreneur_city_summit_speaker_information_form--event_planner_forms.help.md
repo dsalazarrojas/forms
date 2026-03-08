@@ -1,14 +1,3 @@
-<thinking>
-The purpose of the Entrepreneur City Summit Speaker Information Form is to collect detailed information about speakers participating in the event. This form will be used to create a comprehensive profile for each speaker, which includes speaker details, bio, presentation topic, and social links. It's essential that this form is filled out accurately, as it will be used to create a professional representation of each speaker on the event's website and marketing materials.
-
-Before filling out this form, please make sure you haven't already provided speaker information in the past. If you're unsure, please contact the event organizer to verify your speaker information.
-
-This form should only be filled out by authorized speakers and their representatives. If you're a speaker or their representative, please ensure that you have the necessary permissions and approvals to fill out this form on their behalf.
-
-If you're having trouble filling out this form, please don't hesitate to reach out to the event team for assistance.
-
-</thinking>
-
 # Entrepreneur City Summit Speaker Information Form - Help Guide
 ## Purpose
 The Entrepreneur City Summit Speaker Information Form is used to collect and store speaker information for the event.

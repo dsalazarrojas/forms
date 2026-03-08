@@ -1,10 +1,3 @@
-<thinking>
-This form is for students to register themselves for the Youth Initiative Program. The purpose of the form is to collect necessary information from students to place them into the right track or activity. This helps us ensure that students are matched with the right mentors and resources to help them grow and develop. Before filling out this form, please make sure you only need to register for this program once. If you have already registered, you will not need to fill out this form again.
-
-Please note that all fields are optional, and you may leave any field blank if you do not have the necessary information or if it is not applicable to your situation. However, please make sure to complete at least one field on each page to allow our system to save your progress.
-
-</thinking>
-
 # Youth Initiative Program Application Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from students to register themselves for the Youth Initiative Program.

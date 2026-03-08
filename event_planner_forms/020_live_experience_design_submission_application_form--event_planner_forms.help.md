@@ -1,7 +1,3 @@
-<thinking>
-This form is for the submission of events for live experience design projects. It is crucial that the event submission form is completed accurately and thoroughly to ensure that the project lead and their team are contacted for further evaluation and follow-up. Please note that the event type is a required field and must be selected from the options provided. Ensure that the event submission form is filled out completely and correctly before submitting it.
-</thinking>
-
 # Live Experience Design Submission Application Form - Help Guide
 
 ## Purpose

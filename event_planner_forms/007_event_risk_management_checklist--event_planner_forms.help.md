@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, I first review the form to understand its purpose and relevance. The form is designed to collect information on event risk management, which suggests it's used for evaluating potential risks associated with events. Upon reviewing the form schema, I see that it asks for risk level, type, potential hazard, control measures, and risk summaries. It appears to be a straightforward form for identifying and summarizing event risks. The fields provided are mostly free-text or multiple-choice questions, allowing users to report their findings in a clear and concise manner.</thinking>
-
 # Event Risk Management Checklist - Help Guide
 ## Purpose
 The Event Risk Management Checklist is designed to help you identify and document the risks associated with events. This form helps you gather information on the risk level, type, and measures taken to mitigate potential hazards.

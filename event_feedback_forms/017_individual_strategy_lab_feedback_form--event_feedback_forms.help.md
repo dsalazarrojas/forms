@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Individual Strategy Lab Feedback Form - Help Guide
 
 ## Purpose

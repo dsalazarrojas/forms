@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for users to book an eco-friendly accommodation. The purpose of this form is to collect information necessary for booking an eco apartment stay. Before filling out this form, please make sure you have all the required information handy. This form is not intended for non-relevant use cases, such as booking a hotel room or a non-eco friendly accommodation.
-
-</thinking>
-
 # Eco Apartment Stay Booking Form - Help Guide
 ## Purpose
 This form is for booking an eco apartment stay. Please provide your booking details and the information about the accommodation you want to book.

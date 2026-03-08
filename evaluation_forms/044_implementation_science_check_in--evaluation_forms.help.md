@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Implementation Science Check In - Help Guide
 
 ## Purpose

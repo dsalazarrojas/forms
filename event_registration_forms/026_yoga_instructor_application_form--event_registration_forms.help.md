@@ -1,7 +1,3 @@
-<thinking>
-The form is designed for yoga instructors to register their interest in working as a part-time instructor at a studio. The purpose of this form is to gather necessary information about the applicant, including their contact details, availability, and emergency contact information. To ensure accurate and efficient submission, each field has a specific label and type that will help in the classification and sorting of applicants. This form is not intended for any other type of user.
-</thinking>
-
 # yoga_instructor_application_form - Help Guide
 ## Purpose
 This guide is designed to walk through the process of completing the yoga instructor application form.

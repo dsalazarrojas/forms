@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and requirements of the Educational Workshop Stay Booking Form. The form is designed to collect information from organizers and participants about upcoming workshops, including details about the workshop name, dates, time, participant count, accommodation preferences, and payment information. The form is likely used by educational institutions or organizations to manage workshop bookings and communicate with participants.
-
-Before proceeding, please ensure that you are filling out the correct form and that you have all the necessary information ready. If you are not an organizer or participant, please do not fill out this form.
-
-This guide will walk you through each section of the form, explaining what each field is for and what information is required.
-
-</thinking>
-
 # Educational Workshop Stay Booking Form - Help Guide
 
 ## Purpose

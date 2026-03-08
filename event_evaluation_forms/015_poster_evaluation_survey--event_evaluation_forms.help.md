@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Poster Evaluation Survey is a tool used to gather feedback from users about a presentation or poster. The goal is to evaluate how clear and effective the communication of the content is and whether the overall presentation is well-structured and engaging. This form is designed to collect data about the rating of the presentation and gather comments for improvement.
 
 # Poster Evaluation Survey - Help Guide

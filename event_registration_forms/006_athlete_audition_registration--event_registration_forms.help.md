@@ -1,18 +1,3 @@
-<thinking>
-You'll be completing this form to register for an athlete audition. To ensure a smooth and accurate registration process, please make sure to:
-  - Only register if you're actually available for the audition. You won't need to do this if you've already registered or are not interested in the audition.
-  - Select the correct audition date and venue to avoid any scheduling conflicts.
-  - Enter your athlete's correct and complete information to help us provide the best experience possible.
-
-This form will ask for your preferred audition date, the venue where you'll be auditioning, your athlete's profile information, contact details, and any relevant medical or safety information. Please ensure that you're providing accurate and up-to-date information, especially if you're under 18. If your athlete is under 18, please make sure to provide a parent or guardian's name and contact information.
-
-Please note that you'll need to agree to the terms of the Audition Waiver and Release, and select a registration fee payment method.
-
-Before starting, make sure you have the necessary information handy, such as your athlete's birth date, contact details, and medical conditions.
-
-You can complete this form on your own, but it's recommended that you review the terms of the Audition Waiver and Release on our website to be fully informed.
-</thinking>
-
 # Athlete Audition Registration - Help Guide
 ## Purpose
 To register for an athlete audition.

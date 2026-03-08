@@ -1,5 +1,3 @@
-<thinking>...checking if the form is correctly configured for production and not a duplicate... verifying that the form is intended for a specific audience (parents registering their children for a camp)... </thinking>
-
 # Space Camp Accommodation Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-We've added a new form called "evening_of_elegance_guest_survey" to help us gather feedback from our event attendees. This form is designed to collect feedback on specific aspects of the event, such as event satisfaction and food and beverage service. We're interested in gathering as much information as possible, so we've kept the form open-ended and flexible. Please make sure to fill out this form carefully and completely, as your feedback is invaluable to us.
-
-</thinking>
-
 # evening_of_elegance_guest_survey - Help Guide
 ## Purpose
 The evening_of_elegance_guest_survey form is designed to collect feedback from event attendees on their experience during the event. This form helps us understand what worked well and what could be improved for future events.

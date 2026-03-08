@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for users to register their dogs for a dog show event. The form captures essential information about the dog and its owner, including details about the dog's breed, weight, and show type, as well as the owner's contact information and payment method. The form is used by dog owners to provide accurate and complete information to the show organizers, which helps ensure a smooth and efficient registration process.
-To avoid duplication, please ensure that you are using this form for the intended purpose and that you are not submitting multiple entries for the same dog.
-</thinking>
-
 # Dog Show Entry Form - Help Guide
 ## Purpose
 The Dog Show Entry Form is a crucial document for dog owners to register their pets for a dog show event. It helps the event organizers gather essential information about each dog and its owner, ensuring a smooth and efficient registration process.

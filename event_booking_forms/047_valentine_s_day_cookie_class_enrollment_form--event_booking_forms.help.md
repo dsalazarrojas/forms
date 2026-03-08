@@ -1,9 +1,3 @@
-<thinking>
-The form is designed for participants to enroll into a Valentine's Day cookie class. The purpose of this form is to collect information from participants and bakers about their personal details, allergies, acceptance of terms, and other relevant information. This form will ensure that both participants and bakers have a clear understanding of what to expect from the class.
-
-To avoid duplication, please ensure that you are using this form for the correct event and purpose. If you have already enrolled in a similar event, please do not attempt to enroll again.
-</thinking>
-
 # valentines_day_cookie_class_enrollment_form - Help Guide
 ## Purpose
 This form is designed for participants to enroll in a Valentine's Day cookie class, a fun baking event where participants will learn how to bake delicious cookies for loved ones.

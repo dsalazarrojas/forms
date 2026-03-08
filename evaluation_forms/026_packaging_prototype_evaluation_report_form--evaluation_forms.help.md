@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Packaging Prototype Evaluation Report Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from users on their experience with the packaging prototype. It assesses their overall impression, design, functionality, usability, and user experience. The form aims to collect data on the prototype's strengths and weaknesses, which will help in refining and improving the product.

@@ -1,9 +1,3 @@
-<thinking>
-
-The Professional Event Registration Form is designed to collect relevant information from event attendees, providing event planners with necessary details to manage events efficiently. This form ensures that event planners can track event participation, manage attendee expectations, and make informed decisions about event logistics. The form's design is based on public survey topic metadata, ensuring that it remains free from proprietary content. By using this form, event planners can streamline their event management processes and improve overall event experience.
-
-</thinking>
-
 # Professional Event Registration Form - Help Guide
 ## Purpose
 The Professional Event Registration Form is a comprehensive tool designed to collect essential information from event attendees. Its purpose is to provide event planners with a structured framework to gather and process data, making it easier to manage events efficiently.

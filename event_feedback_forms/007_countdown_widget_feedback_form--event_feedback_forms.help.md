@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Countdown Widget Feedback Form - Help Guide
 
 ## Purpose

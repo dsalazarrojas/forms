@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from attendees and organizers on the trade show floor layout, overall experience, and other aspects of events. This form should only be used for events of type "Trade Show". This helps us understand the effectiveness of the trade show layout design and make data-driven decisions for future events.
-
-We will only ask you to fill out this form if you have attended a trade show or been involved as an organizer. If you're unsure if you qualify, please contact us.
-
-This form should not be filled out by anyone who has not attended a trade show or been involved as an organizer.
-
-</thinking>
 # Trade Show Floor Layout Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback from trade show attendees and organizers on their experience with the trade show floor layout, overall satisfaction, and other aspects of the event.

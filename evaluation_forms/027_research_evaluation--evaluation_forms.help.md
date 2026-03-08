@@ -1,39 +1,3 @@
-<thinking>
-
-This form is designed to evaluate the research process and outcome of an evaluation or study. It is used by evaluators to provide feedback on various aspects of the research, including its purpose, methodology, findings, and overall quality.
-
-This form is intended for evaluators who have experience with research evaluations. The form is divided into multiple sections, each focusing on a different aspect of the research. The sections include:
-
-* Business purpose: The purpose of the study or evaluation.
-* Course purpose: The purpose of the course or evaluation.
-* Research selection: The quality of the research, rated as Good, Poor, or Average.
-* Topic understanding: The clarity and understanding of the research topic, rated as Clear, Confusing, Neutral, Good, Poor, or Average.
-* Technology usage: The usage of technology in the research, rated as Very Satisfied, Somewhat Satisfied, Neither Satisfied Nor Dissatisfied, Somewhat Dissatisfied, or Very Dissatisfied.
-* Media usage: The usage of media in the research, rated as Very Satisfied, Somewhat Satisfied, Neither Satisfied Nor Dissatisfied, Somewhat Dissatisfied, or Very Dissatisfied.
-* Findings evidence: Additional comments on the findings and evidence.
-* Grammar rules: Additional comments on the grammar and language use.
-* Evaluator comments: Comments from the evaluator on the research process.
-* Form completion: The completeness and accuracy of the form.
-* Evaluator experience: The experience of the evaluator with the research process.
-* Form relevance: The relevance of the form to the research purpose.
-* Form usefulness: The usefulness of the form to the research process.
-* Evaluator relevance: The relevance of the evaluator's comments to the research purpose.
-* Evaluator usefulness: The usefulness of the evaluator's comments to the research process.
-* Form completion time: The time it took to complete the form.
-* Form completion comments: Additional comments on the form completion process.
-* Form total points: The total score of the research evaluation.
-* Form total: The overall score of the research evaluation.
-* Form score: The score of the research evaluation.
-* Form average score: The average score of the research evaluation.
-* Form completion rate: The rate of completion of the form.
-* Evaluator comments 2: Additional comments from the evaluator.
-* Form satisfaction score: The overall satisfaction with the research evaluation process.
-* Form satisfaction rate: The overall satisfaction rate with the research evaluation process.
-
-The form should only be completed by evaluators who have experience with research evaluations and have a good understanding of the research process.
-
-</thinking>
-
 # Research Evaluation - Help Guide
 ## Purpose
 The Research Evaluation form is designed to assess the quality and effectiveness of a research process or study. It helps evaluators provide feedback on various aspects of the research, including its purpose, methodology, findings, and overall quality.

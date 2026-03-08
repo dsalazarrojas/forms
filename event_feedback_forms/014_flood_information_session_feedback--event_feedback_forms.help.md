@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Flood Information Session Feedback form is designed to collect feedback from attendees after a flood information session. This form helps us understand how well we've done in providing the right information and assistance to the attendees. Please fill out this form only once per event, and only if you attended the event. If you have already filled out this form, your response will not be counted.
 
 </thinking>

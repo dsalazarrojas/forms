@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from users to evaluate teams. The team evaluation form is designed to gather feedback on team members' performance, which will be used to identify areas of improvement and provide constructive feedback. This form is only to be completed by team members, and not by the team lead or admin. The team lead or admin will use the collected data to create an evaluation report for each team member.
-</thinking>
-
 # team_evaluation_form - Help Guide
 ## Purpose
 The team_evaluation_form is used to gather feedback on team members' performance and identify areas of improvement.

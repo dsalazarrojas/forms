@@ -1,9 +1,3 @@
-<thinking>
-
-The form "Care Coordination Program Effectiveness Evaluation Form" is designed to assess the effectiveness of a care coordination program by gathering information on its goals, outcomes, and challenges. This form is intended to be filled out by program stakeholders, such as program managers, clinicians, and coordinators, to provide a comprehensive evaluation of the program's performance. The information gathered will be used to identify areas of improvement and provide actionable suggestions for enhancing the program's effectiveness.
-
-</thinking>
-
 # Care Coordination Program Effectiveness Evaluation Form - Help Guide
 ## Purpose
 The purpose of this form is to evaluate the effectiveness of the care coordination program. It is designed to be completed by program stakeholders, such as program managers, clinicians, and coordinators, to provide a comprehensive evaluation of the program's performance.

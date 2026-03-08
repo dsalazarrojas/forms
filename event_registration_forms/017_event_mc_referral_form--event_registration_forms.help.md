@@ -1,11 +1,3 @@
-<thinking>
-This guide helps ensure that users understand the purpose and usage of the Event MC Referral Form. The form serves as a centralized platform for event coordinators, MCs, and other stakeholders to collect and store essential information about events, referrals, and associated tasks. It is crucial to complete this form accurately and thoroughly to facilitate smooth event planning and coordination.
-
-The form is designed to be completed by event coordinators, who will need to input details about upcoming events, including the event name, date, and time. Referral information is also collected, which includes the referral name, position, phone number, and email. Additionally, the form gathers information about the event MC, covering their name, phone number, email, and position. Event status and assigned tools are also captured. Ensuring that all these fields are filled in correctly and thoroughly will help streamline event planning and coordination processes.
-
-Before proceeding, verify that you have all necessary information and that it is not a duplicate event.
-</thinking>
-
 # Event MC Referral Form - Help Guide
 ## Purpose
 This guide will walk you through completing the Event MC Referral Form, a vital tool for event planners and coordinators to gather necessary information about events.

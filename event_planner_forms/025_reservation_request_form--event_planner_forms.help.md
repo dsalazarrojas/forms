@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for customers to submit a reservation request to an event planner. The form will ask for details about the guest, reservation details, and contact information. The event planner can then use this information to plan and prepare for the reservation. This form is likely to be used in a hospitality or tourism context.
-</thinking>
-
 # reservation_request_form - Help Guide
 ## Purpose
 The reservation_request_form is used to submit a reservation request to an event planner. This form collects information about the guest, reservation details, and contact information to help the event planner prepare for the reservation.

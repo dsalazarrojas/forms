@@ -1,10 +1,3 @@
-<thinking>
-This form is a registration form for the Student Research Publishing Workshop. The purpose of this form is to gather information from students who wish to participate in the workshop. The form collects contact information, research paper details, and workshop participation status. 
-
-The form consists of multiple sections and fields, each with specific instructions and explanations. This guide will help you complete the form correctly and efficiently.
-
-</thinking>
-
 # Student Research Publishing Workshop Registration Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information from students for participation in the Student Research Publishing Workshop.

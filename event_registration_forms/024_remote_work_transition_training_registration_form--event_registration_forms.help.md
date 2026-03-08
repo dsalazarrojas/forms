@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from employees about their remote work transition training. The form will help the training team to track the progress of employees who are undergoing remote work transition training. This form is not a replacement for the company's official training program, but rather a supplement to help the training team to better understand the needs of employees. 
-The form will be used to collect the following information: employee name, manager name, email, company, position, date of training session, training session type, training status, training location, and training date. 
-This form is intended to be completed by employees who are undergoing remote work transition training. It is not a form for managers or other stakeholders to use. 
-
-</thinking>
 # Remote Work Transition Training Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from employees who are undergoing remote work transition training. The form will help the training team to track the progress of employees and better understand their needs.

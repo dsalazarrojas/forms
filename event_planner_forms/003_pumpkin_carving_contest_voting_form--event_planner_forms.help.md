@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for end users to participate in a Pumpkin Carving Contest. Users will be asked to vote for a pumpkin by inputting their name, a score for the pumpkin's creativity, and comments if they wish. Judges can also input their scores and comments for each pumpkin. The form has two main categories: voter input and judge input. This ensures that end users understand how to navigate the form properly and what information to provide.
-</thinking>
-
 # Pumpkin Carving Contest Voting Form - Help Guide
 ## Purpose
 This form is designed to collect votes and comments from end users for pumpkins in the Pumpkin Carving Contest. It guides users through inputting their name, a score for the pumpkin's creativity, and any comments they may have for the pumpkin. The form also allows judges to input their scores and comments for each pumpkin.

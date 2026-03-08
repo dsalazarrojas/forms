@@ -1,34 +1,3 @@
-<thinking>
-This form is designed to help project managers and evaluators create an evaluation plan for a project. The purpose of this form is to gather information about a project's title, lead, description, start and end dates, start and end times, location, team, status, evidence base, goal, expected outcome, evaluation frequency, evaluation method, evaluation cycle frequency, evaluation cycle start and end dates, evaluation method description, and evidence base citation, reference, and description. This form is meant to be a comprehensive and structured guide for project evaluation, and all fields are essential for a thorough evaluation.
-
-To complete this form, follow these steps:
-
-1. Provide a title for the project.
-2. Enter the name of the project lead.
-3. Write a brief description of the project.
-4. Enter the project's start and end dates (if applicable).
-5. Enter the project's start and end times (if applicable).
-6. Enter the project location.
-7. List the project team members.
-8. Enter the current project status.
-9. Describe the evidence base used for the evaluation.
-10. Enter the project goal.
-11. Specify the expected outcome of the project.
-12. Choose the frequency of evaluation (required).
-13. Select the evaluation method(s) to be used.
-14. Indicate the frequency of the evaluation cycle (if applicable).
-15. Enter the start and end dates of the evaluation cycle (if applicable).
-16. Provide a description of the evaluation method.
-17. Enter the frequency of the evaluation cycle (if applicable).
-18. Enter the citation and reference for the evidence base (if applicable).
-19. Describe the evidence base.
-
-Note: This form is a guide for project evaluation and should be filled out according to the specific needs and requirements of the project.
-
-Please note that some fields are not required for all projects.
-
-</thinking>
-
 # Evidence Based Practice Project Evaluation Plan - Help Guide
 ## Purpose
 This form is a tool to help project managers and evaluators create a comprehensive evaluation plan for a project.

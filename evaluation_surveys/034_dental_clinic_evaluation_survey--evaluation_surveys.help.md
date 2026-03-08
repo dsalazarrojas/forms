@@ -1,8 +1,3 @@
-<thinking>
-This guide will help you complete the dental clinic evaluation survey form. 
-The purpose of this form is to gather your feedback and experiences about your visit to a dental clinic. The form is designed to collect information about the services provided by the clinic, your overall experience, location, and other related aspects. Please ensure you only complete this form if you have recently visited a dental clinic. Otherwise, please do not submit this form.
-</thinking>
-
 # dental_clinic_evaluation_survey - Help Guide
 ## Purpose
 The dental clinic evaluation survey form is designed to collect feedback from patients about their experiences and expectations from their visit to a dental clinic. This information will help the clinic to improve their services and better serve their patients in the future.

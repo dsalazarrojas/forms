@@ -1,20 +1,3 @@
-<thinking>
-This form is designed to gather information from creative producers who are interested in applying for a fellowship program. The purpose of this form is to collect personal and professional details from applicants, including their contact information, artistic vision, background, work samples, experience, education, and any relevant fellowships they have been a part of. This form will likely be used by selection committees to review and assess applicants. To ensure accurate and relevant responses, users should answer each question truthfully and provide concrete examples when asked to do so. This form is designed to be completed by one individual at a time.
-
-Form fields should not be duplicated or left blank; users should fill out each field to the best of their ability. If a field is marked as optional, users are still encouraged to provide information if it's relevant to their application.
-
-The following fields should be filled out by the applicant:
-
-* **Applicant Info** (text)
-* **Contact Info** (text)
-* **Artistic Vision** (text)
-* **Background** (text)
-* **Work Samples** (text)
-* **Experience** (text)
-* **Education** (text)
-* **Fellowships** (select multiple): Choose any relevant fellowships you have been part of
-</thinking>
-
 # Creative Producer Fellowship Application Form - Help Guide
 ## Purpose
 This form is designed for creative producers who wish to apply for a fellowship program.

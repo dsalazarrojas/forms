@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to gather information from an individual to recommend an event for an orchestra leader. The form is probably meant to collect data about the event such as the date and time, musician involved, music director, and other relevant details. There might be a need to verify if the user filling out the form is the actual orchestra leader, but this is not explicitly stated in the YAML. It would be helpful to add a field to confirm the user's status as the orchestra leader.
-</thinking>
-
 # orchestra_leader_recommendation_form - Help Guide
 
 ## Purpose

@@ -1,15 +1,3 @@
-<thinking>
-
-To provide an optimal user-facing help guide, I need to understand the form's purpose and ensure it's being used correctly. The form is for "post_event_feedback_survey" and seems to be focused on gathering feedback from users after an event. This form has multiple sections, including fields for event ID, date, feedback level, and various questions. To confirm, I will:
-
-1. Check for any duplicate or unnecessary fields.
-2. Determine the primary purpose of each field.
-3. Identify fields that might be confusing or unclear.
-
-Upon reviewing the provided YAML, I see that the form is quite lengthy and might be overwhelming. However, I will focus on explaining each field clearly and concisely.
-
-</thinking>
-
 # post_event_feedback_survey - Help Guide
 ## Purpose
 The **Post Event Feedback Survey** form is designed to collect feedback from users after an event. This feedback will help us understand your experience and identify areas for improvement.

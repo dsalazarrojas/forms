@@ -1,6 +1,3 @@
-<thinking>
-The goal of this form is to collect registration information from attendees and presenters for the "Thai Medical Humanities Conference." The form will serve as a central hub for collecting and managing attendee and presenter data. By using this form, the event organizers can easily access and review registration submissions, and ensure that all necessary information is collected for a successful and well-organized conference. This form should be used by attendees and presenters who want to participate in the conference. It is essential to complete all required fields accurately and truthfully, as this information will be used for various purposes, such as conference communication and logistics. Please review the form carefully to ensure you provide the correct information.</thinking>
-
 # ประก Medical Humanities Conference Registration - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information for the Workforce Efficiency Analysis Workshop registration. This form is intended for individuals who are interested in attending or registering participants for the workshop. The information collected will be used to prepare for the workshop, including managing participant expectations and logistics.
-
-Before proceeding, it's essential to ensure that the form is not duplicated or submitted with incorrect information, as this may cause confusion or errors in the workshop planning process.
-
-</thinking>
-
 # workforce_efficiency_analysis_workshop_registration_form - Help Guide
 ## Purpose
 This form is designed to collect information for the Workforce Efficiency Analysis Workshop registration. It gathers details about the participants and the workshop logistics to ensure a smooth and well-organized event.

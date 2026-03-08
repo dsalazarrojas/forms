@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for capturing participant information and waiver details for events. It is crucial to ensure that all required fields are completed correctly. Please note that if you're using this form for a specific event, you may need to adjust the options accordingly. This guide will walk you through each field's purpose.
-
-</thinking>
-
 # Participation Waiver And Release Form - Help Guide
 ## Purpose
 This form captures participant details and waiver information for events. It's essential to fill it out correctly to ensure accurate records.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information from event planners and sound and lighting providers to facilitate referrals for events that require sound and lighting services. The goal of this form is to gather relevant details about an event, its location, and the requirements for sound and lighting services, which can be used to match the best possible solution for the event planner's needs. The form will help to streamline the process of referral and improve the quality of referrals.
-
-This form is not intended for collecting sensitive or personal information. It is meant for public use, so please do not input any personal identifiable data that may violate privacy.
-
-To ensure accurate referrals, please fill in the form as accurately as possible.
-
-</thinking>
-
 # Event Sound And Lighting Referral Form - Help Guide
 ## Purpose
 The form is designed to collect event details and sound and lighting requirements to provide referrals to suitable sound and lighting services.

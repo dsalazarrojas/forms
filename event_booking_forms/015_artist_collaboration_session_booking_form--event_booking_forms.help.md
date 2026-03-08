@@ -1,7 +1,3 @@
-<thinking>
-We are creating a help guide for the Artist Collaboration Session Booking Form, a crucial tool for artists to book sessions for collaboration. This form is used to gather essential information from artists seeking collaboration, ensuring that both parties have a clear understanding of each other's expectations and requirements. It's essential to fill out the form accurately to avoid misunderstandings and missed opportunities. Please take a few minutes to review the help guide carefully to ensure you provide the correct information. If you have any questions or concerns, feel free to reach out to us.
-</thinking>
-
 # Artist Collaboration Session Booking Form - Help Guide
 ## Purpose
 The Artist Collaboration Session Booking Form is designed to help artists book sessions for collaboration. It gathers necessary information from artists seeking collaboration, ensuring a smooth and productive session.

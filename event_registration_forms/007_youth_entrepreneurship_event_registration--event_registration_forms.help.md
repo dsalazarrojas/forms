@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Youth Entrepreneurship Event Registration - Help Guide
 
 ## Purpose

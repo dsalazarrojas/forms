@@ -1,5 +1,3 @@
-<thinking>...The "finance_policy_adoption_survey" form is used to gauge the effectiveness and adoption of financial policies within an organization. This form helps gather information on employee understanding, policy implementation, challenges, adoption, and other relevant factors. It is essential to complete this form accurately to gather reliable data. The form is not intended to be a comprehensive or definitive assessment, but rather a starting point for further investigation and improvement. Ensure you answer questions based on your personal experience and knowledge. Duplicate or repetitive answers may lead to inaccurate results. Please answer honestly and thoroughly...</thinking>
-
 # finance_policy_adoption_survey - Help Guide
 ## Purpose
 This form is designed to gather information on the effectiveness and adoption of financial policies within an organization.

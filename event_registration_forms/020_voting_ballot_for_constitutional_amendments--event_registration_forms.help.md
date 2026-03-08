@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to be used for capturing information related to voting methods for constitutional amendments within an organization. The form is designed to collect data on the different methods of voting used for each constitutional amendment, as well as other relevant details such as the event location.
-
-Before proceeding, please ensure that this form is being used for its intended purpose and not for any other reason. This form is not intended to be used for other purposes such as collecting general event information or voting results.
-
-Additionally, please note that some fields are marked as "required" and others are not. Ensure that you fill in all required fields as they are essential for the purpose of this form.
-
-</thinking>
-
 # Voting Ballot For Constitutional Amendments - Help Guide
 ## Purpose
 This form is designed to capture voting information related to constitutional amendments within an organization. It is to be used to record the voting methods used for each amendment.

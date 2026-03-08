@@ -1,18 +1,3 @@
-<thinking>
-As an expert form designer and technical writer, I will create a user-facing help guide for the "cultural_event_scrapbook_submission" form.
-
-This form is designed to collect feedback and information about cultural events, allowing event organizers, attendees, or participants to share their experiences, thoughts, and reflections. The form is intended to help event organizers gather valuable insights to improve future events. The purpose of this form is to:
-
-* Gather feedback on the event's title, date, location, and description
-* Collect stories, photos, and reflections from attendees
-* Identify areas of improvement for future events
-
-The form is not intended to be a comprehensive survey, but rather a lightweight and user-friendly way to gather feedback and stories from attendees.
-
-Before filling out this form, please note that some fields are marked as required, which means they must be filled out to submit the form.
-
-</thinking>
-
 # cultural_event_scrapbook_submission - Help Guide
 ## Purpose
 The cultural_event_scrapbook_submission form is designed to collect feedback and information about cultural events. It helps event organizers gather valuable insights to improve future events.

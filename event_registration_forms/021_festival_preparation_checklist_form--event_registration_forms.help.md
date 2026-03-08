@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## festival_preparation_checklist_form - Help Guide
 ## Purpose
 The festival preparation checklist form is designed to gather information about a festival's infrastructure and requirements. This form will be used by festival organizers to document and prepare for the event.

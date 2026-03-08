@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from event attendees on their overall experience, providing insights to hosts and organizers to improve future events. The form is meant to be completed by attendees who have participated in a gathering, such as a birthday party, housewarming, casual get-together, BBQ, or game night. 
-
-To ensure accurate and useful feedback, the form asks for specific details about the event, including the date it took place, the type of event, and the overall rating of the experience. This information will help hosts tailor future events to better suit their guests' expectations.
-
-The form also gathers opinions on various aspects of the event, such as the venue, food, drinks, atmosphere, music, and entertainment. This feedback will enable hosts to identify areas for improvement and make informed decisions about future events.
-
-The form's questions are designed to be straightforward and easy to understand, with options for each question provided to guide the respondent. Please complete this form to help hosts create more enjoyable and successful events.
-
-</thinking>
-
 # Casual Gathering Feedback Form - Help Guide
 ## Purpose
 The Casual Gathering Feedback Form is designed to collect feedback from event attendees to help hosts and organizers improve future events.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a poetry reading event. The form has 25 fields that cater to different aspects of event registration. The purpose of this form is to ensure that all necessary details are collected for a successful event. Please ensure you complete this form accurately and thoroughly. 
-</thinking>
-
 # Poetry Reading Registration Form - Help Guide
 ## Purpose
 The Poetry Reading Registration Form is used to collect information from attendees and performers for a poetry reading event. This form ensures that all necessary details are collected for a successful event.

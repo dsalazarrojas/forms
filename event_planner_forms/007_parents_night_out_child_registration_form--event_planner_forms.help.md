@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from parents for the "Parents Night Out" event. The purpose of this form is to ensure that the event organizers have the necessary information to accommodate each child's needs. This form should only be completed once for each child. Please ensure that all required fields are filled in, and optional fields provide additional context for the event planners. 
-
-This form will be used to collect information from parents about their children, including their name, age, contact details, and event details.
-
-</thinking>
-
 # Parents Night Out Child Registration Form - Help Guide
 
 ## Purpose

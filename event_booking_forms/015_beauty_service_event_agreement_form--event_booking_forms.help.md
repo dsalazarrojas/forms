@@ -1,5 +1,3 @@
-<thinking> The "Beauty Service Event Agreement Form" is a document that outlines the terms and conditions of a service event between the client and the service provider. It ensures that both parties are on the same page regarding the event details, services, financial agreements, and other important factors. This form should only be used for service events where the client has agreed to the terms and conditions outlined in this document. To avoid duplication, ensure that you are not using this form for other purposes. </thinking>
-
 # Beauty Service Event Agreement Form - Help Guide
 ## Purpose
 The "Beauty Service Event Agreement Form" is a document that helps ensure a successful service event between the client and the service provider.

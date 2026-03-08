@@ -1,13 +1,3 @@
-<thinking>
-The form purpose is to collect information from reviewers about their experience and expertise in evaluating open educational resources (OER). It's essential to ensure that the reviewers possess the necessary qualifications and skills to provide accurate and valuable evaluations. Before filling out this form, please review the following criteria to determine if this is the right tool for you:
-- Are you an experienced evaluator or educator with expertise in the relevant subject area?
-- Have you evaluated OERs before and have a track record of providing valuable feedback?
-- Are you familiar with the evaluation process and can provide constructive comments?
-If you've answered yes to these questions, proceed with filling out the form. If not, you might want to consider whether you're the right fit for this role.
-
-This form is meant to be a one-time submission, and once you've completed it, you'll receive a confirmation email with further instructions. Please fill it out accurately and thoroughly, as it will be used to determine your qualifications and suitability for evaluating OERs. Note that this form is not intended for duplicate submissions; if you've already been approved as an OER reviewer, you won't need to fill it out again.
-</thinking>
-
 # Open Educational Resource Reviewer Application Form - Help Guide
 ## Purpose
 The Open Educational Resource Reviewer Application Form is designed to collect information from potential reviewers about their experience, expertise, and qualifications to evaluate open educational resources (OER). This form helps us ensure that reviewers possess the necessary skills and knowledge to provide valuable feedback on OERs.

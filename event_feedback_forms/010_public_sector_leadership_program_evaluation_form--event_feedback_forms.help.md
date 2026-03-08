@@ -1,12 +1,3 @@
-<thinking> 
-To ensure that the form is used correctly and consistently, it's essential to have a clear understanding of its purpose, requirements, and how to fill it out correctly. 
-The Public Sector Leadership Program Evaluation Form is designed to gather feedback from participants about their experience with the Public Sector Leadership Program. 
-This form is not intended for internal use only. It's meant to be filled out by participants after attending a leadership training or seminar. 
-The form should only be completed by one person, and it's essential to ensure that the participant understands the questions and answers them honestly. 
-Each field in this form has a specific purpose, and it's crucial to answer them based on the provided options. 
-Before completing the form, please review the following explanations to ensure you fill it out correctly. 
-</thinking>
-
 # Public Sector Leadership Program Evaluation Form - Help Guide
 ## Purpose
 The Public Sector Leadership Program Evaluation Form is designed to gather feedback from participants about their experience with the Public Sector Leadership Program. This form helps us understand what works well and what areas need improvement, allowing us to make the program more effective and beneficial for future participants.

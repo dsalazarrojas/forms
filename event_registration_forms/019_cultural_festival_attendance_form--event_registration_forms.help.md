@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from attendees of a cultural festival. This form is used to gather user information, contact details, event attendance, and other relevant data to ensure a smooth and enjoyable experience for all participants. Please note that the form is not affiliated with any specific form platform, and its creation was guided by public metadata about survey topics in the cultural and festival industry. Before proceeding, please confirm that the form is not a duplicate of any form you may have filled out in the past or one you are currently filling out.
-</thinking>
-
 # Cultural Festival Attendance Form - Help Guide
 ## Purpose
 The Cultural Festival Attendance Form is designed to collect essential information from attendees of a cultural festival. This form helps us understand your preferences, medical conditions, and emergency contact details, ensuring that we can provide an enjoyable and safe experience for all.

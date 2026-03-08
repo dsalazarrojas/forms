@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect registration information from potential participants in the Christmas Grocery Package Program. The form is intended to provide a comprehensive understanding of the household's needs, dietary requirements, and delivery preferences. It is crucial that each field be filled out accurately to ensure the proper allocation of resources and services. To avoid duplication or errors, it is essential to read and understand the instructions carefully before proceeding.
-</thinking>
 # Christmas Grocery Package Registration Form - Help Guide
 ## Purpose
 The Christmas Grocery Package Registration Form is designed to collect registration information from potential participants in the Christmas Grocery Package Program. This form helps us understand your household's needs, dietary requirements, and delivery preferences, enabling us to provide the right services and resources to support you.

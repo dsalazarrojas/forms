@@ -1,9 +1,3 @@
-<thinking>
-This form is used for participants to register for a Reentry Simulation, a program aimed at helping individuals who have experienced incarceration return to their communities. The purpose of this form is to gather basic contact information and preferences for the participant's simulation experience.
-This form is part of the event_registration_forms category and is titled "Reentry Simulation Participant Registration". Each participant is expected to fill out this form once and truthfully provide their information, and their responses will be used to tailor the simulation experience to their needs.
-To prevent duplication of efforts and ensure accurate tracking of participants, this form checks for duplicates and prevents the submission of already registered participants.
-</thinking>
-
 # Reentry Simulation Participant Registration - Help Guide
 ## Purpose
 The Reentry Simulation Participant Registration form is used to collect contact information and simulation preferences from individuals who have experienced incarceration. This form helps us tailor the simulation experience to their needs and ensures they have a positive and productive engagement.

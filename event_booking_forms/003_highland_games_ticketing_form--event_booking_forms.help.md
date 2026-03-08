@@ -1,5 +1,3 @@
-<thinking>...the form purpose is to collect information from users to facilitate the ticketing process for the Highland Games event. It is expected that users will provide accurate and complete information to ensure successful ticketing. The form fields are designed to cater to different user types and demographics. This guide will walk users through each field and how to fill it correctly...</thinking>
-
 # Highland Games Ticketing Form - Help Guide
 ## Purpose
 The Highland Games Ticketing Form is designed to collect information from users to facilitate the ticketing process for the event. This includes gathering essential details for ticket allocation and distribution. Providing accurate and complete information will ensure a smooth and successful ticketing experience.

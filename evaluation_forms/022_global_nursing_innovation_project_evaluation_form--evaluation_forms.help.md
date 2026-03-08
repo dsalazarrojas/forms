@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Global Nursing Innovation Project Evaluation Form - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information from guests who are attending or not attending a Thanksgiving dinner. It's used to collect their name, contact information, and RSVP status. This form is meant to be completed by guests, not event organizers.
-
-Before proceeding, please ensure that you have a basic understanding of the fields and their purposes. Reviewing this guide will help you understand each field's requirements and what to expect.
-
-</thinking>
-
 # Thanksgiving Dinner RSVP - Help Guide
 ## Purpose
 This form is for guests to RSVP to a Thanksgiving dinner event. It is used to collect information about the guests and their attendance status.

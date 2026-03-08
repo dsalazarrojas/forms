@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # First Responder Warrior Registration - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Shooting Waiver Form - Help Guide
 ## Purpose
 The Shooting Waiver Form is used to collect information from participants, such as their contact details, medical conditions, and insurance information, to ensure their safety and well-being during shooting events. This form is required for all participants, and its completion helps us to identify any potential risks or restrictions that may impact their ability to participate.

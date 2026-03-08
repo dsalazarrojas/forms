@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about workshops, including their titles, organizers, dates, locations, accessibility needs, and allergies. This form is designed to be completed by event organizers to provide attendees with necessary information about the workshop's accessibility features and potential allergens. This form should only be completed by authorized event organizers.
-</thinking>
-
 # workshop-accessibility-and-allergy-survey - Help Guide
 ## Purpose
 This form is used to collect information about workshops, including their titles, organizers, dates, locations, accessibility needs, and allergies. This form helps event organizers provide attendees with essential information about the workshop's accessibility features and potential allergens.

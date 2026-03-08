@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect data on users' awareness of foreign conflicts. The purpose of this form is to gather information on how individuals perceive and understand foreign conflicts, including their sources of information, level of awareness, and how they gather information about conflicts. This form will help to identify patterns and trends in how people perceive foreign conflicts, which can be useful for researchers, policymakers, and organizations interested in this topic.
-
-</thinking>
-
 # Foreign Conflict Awareness Survey - Help Guide
 ## Purpose
 This form is designed to collect data on your awareness of foreign conflicts. Your responses will help identify patterns and trends in how people perceive foreign conflicts, which can be useful for researchers, policymakers, and organizations interested in this topic.

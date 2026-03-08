@@ -1,8 +1,3 @@
-<thinking>
-This form is used for evaluating the effectiveness of the safety orientation training provided to employees, which is an essential part of maintaining a safe and healthy work environment. The form is to be filled out by the employee after completing the safety orientation training session. It's crucial that this form is not filled out for any other purpose. Please ensure you have the necessary information and permissions before proceeding.
-
-</thinking>
-
 # Safety Orientation Training Feedback Form - Help Guide
 ## Purpose
 This form is used to evaluate the effectiveness of the safety orientation training provided to employees. It helps ensure that employees have received the necessary information to maintain a safe and healthy work environment.

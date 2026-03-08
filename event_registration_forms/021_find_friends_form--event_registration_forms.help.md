@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about an individual's personal details, specifically their first name, last name, email address, and phone number, to facilitate finding them in a database or system. This form is intended for general use and may be used in various contexts, such as customer support, marketing, or internal tracking purposes.
-
-To prevent duplication, it's essential to review the form fields carefully before submitting the form. The form will only collect the provided fields, and any missing or incomplete information may lead to errors or failed submissions.
-
-It's crucial to ensure that the email address entered is a valid email address to avoid errors in the system.
-
-</thinking>
-
 # find_friends_form - Help Guide
 ## Purpose
 

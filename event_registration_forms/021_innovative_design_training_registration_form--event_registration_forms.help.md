@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from participants for the innovative design training session. The form is divided into various sections, each covering a specific aspect of the participant's registration. 
-
-The form is intended for participants who wish to register for the training session and provide relevant details such as participant information, contact preferences, payment information, and preferences regarding the training session. 
-
-This form is designed to be easy to fill out and should be completed in the following steps.
-
-This form is used for registration purposes only and is not intended for internal use. 
-
-Please do not submit duplicate registrations, only submit this form once.
-</thinking>
-
 # Innovative Design Training Registration Form - Help Guide
 ## Purpose
 The Innovative Design Training Registration Form is used to collect information from participants for the innovative design training session. This form covers various aspects of the participant's registration, including participant information, contact details, payment information, and preferences.

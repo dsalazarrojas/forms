@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from students for the order of graduation caps and gowns. It is divided into three pages: the first page asks for basic contact information, the second page asks for graduation attire information, and the third page asks for additional details. 
-The form is intended to be filled out by students to provide their details for ordering their graduation cap and gown. It is not affiliated with, endorsed by, or derived from any form platform. The form is an original adaptation created using AI and public metadata. It is released under CC BY 4.0 and can be used, modified, and even sold, as long as credit is given.
-</thinking>
-
 # Graduation Cap And Gown Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from students for ordering their graduation cap and gown. It helps to ensure accurate and timely ordering of caps and gowns.

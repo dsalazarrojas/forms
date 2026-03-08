@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to help employees, managers, and other stakeholders conduct a needs analysis for employee training needs. The purpose of this form is to gather information about an employee's tasks, job performance, and potential training needs. This form will help in identifying areas where an employee may require additional support or training to perform their job tasks effectively. 
-
-To prevent duplication, please ensure that you have reviewed the current training plans and procedures before filling out this form. If you have already submitted a similar form for the same employee, please do not submit this form.
-
-</thinking>
-
 # Training Need Analysis Form Engro - Help Guide
 ## Purpose
 The Training Need Analysis Form Engro is a tool used to gather information about an employee's tasks, job performance, and potential training needs. This form will help in identifying areas where an employee may require additional support or training to perform their job tasks effectively.

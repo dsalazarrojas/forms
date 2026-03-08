@@ -1,7 +1,3 @@
-<thinking>
-This help guide is designed to assist users in completing the renewable energy campus booking form. The form is intended to collect information on renewable energy-related topics, likely for research, educational, or administrative purposes. It is not affiliated with or endorsed by any specific platform, but rather an original adaptation created using AI-generated metadata. The form is released under a Creative Commons BY 4.0 license, allowing users to use, modify, and even sell forms derived from it, as long as they give credit.
-</thinking>
-
 # renewable_energy_campus_booking_form - Help Guide
 ## Purpose
 The renewable energy campus booking form is a tool designed to collect data on renewable energy-related topics. It is intended to be used for research, education, or administrative purposes.

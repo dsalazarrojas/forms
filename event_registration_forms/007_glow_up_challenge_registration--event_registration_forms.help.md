@@ -1,7 +1,3 @@
-<thinking>
-This form's purpose is to register participants for the "Glow Up Challenge" event. It's likely a survey or data collection form used for event management. I will now create a user-facing help guide for this form.
-</thinking>
-
 # Glow Up Challenge Registration - Help Guide
 ## Purpose
 The "Glow Up Challenge Registration" form is designed to collect participant information for the Glow Up Challenge event. Please complete this form to register yourself and/or your team (if applicable) for the event.

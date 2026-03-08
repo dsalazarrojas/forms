@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from users registering for the HR Process Innovation Workshop. The purpose of this form is to gather session preferences, attendee details, and workshop details from registrants. This form is not intended for general user feedback or other unrelated purposes. Please ensure you have a clear understanding of the workshop and its relevance to your role or interests before proceeding with the registration process.
-
-This guide will walk you through each step of the registration process, including a field-by-field explanation to help you complete the form accurately and effectively.
-</thinking>
-
 # HR Process Innovation Workshop Registration - Help Guide
 
 ## Purpose

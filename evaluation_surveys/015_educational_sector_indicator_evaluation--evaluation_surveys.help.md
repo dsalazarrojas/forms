@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect evaluations of the educational sector, with a focus on indicators and metrics that measure the quality and effectiveness of institutions within that sector. The purpose of this form is to assess the performance of institutions in the educational sector, taking into account various factors such as sector identification, institution details, and indicator metrics. This form is likely used by administrators or evaluators to gather information and make informed decisions about the educational sector.
-
-Given the provided YAML structure, this form appears to collect a range of information about institutions within the educational sector, including sector and institution identifiers, details about the institution and its indicators, and timestamps for submission and update.
-
-</thinking>
-
 # Educational Sector Indicator Evaluation - Help Guide
 ## Purpose
 The purpose of this form is to collect evaluations of the educational sector, focusing on indicators and metrics to measure the quality and effectiveness of institutions within that sector. This form is used to assess the performance of institutions in the educational sector.

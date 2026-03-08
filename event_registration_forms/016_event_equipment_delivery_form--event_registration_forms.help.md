@@ -1,10 +1,3 @@
-<thinking>
-# This form is designed to collect information about equipment delivery for an event.
-The form is used by event planners to submit a request for equipment delivery. 
-The form collects information about the equipment request, delivery method, delivery date, equipment status, and other relevant details.
-This form is used to track and manage equipment delivery requests in a centralized manner.
-</thinking>
-
 # event_equipment_delivery_form - Help Guide
 ## Purpose
 The event_equipment_delivery_form is used to submit a request for equipment delivery for an event.

@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to register attendees for the Startup Growth Consulting Summit. The form is meant for individuals who are interested in attending the summit to learn about the latest developments and trends in the startup world. It is a one-page form that asks for basic information and allows users to select their interests, which will help event organizers tailor the content of the summit to their needs.
-
-To complete this form, start by providing your name, which is optional but will help the organizers get an idea about who you are. Then, provide your email address, which will be used to communicate with you regarding the summit. If you have a phone number, you can provide it so that the organizers can reach out to you if needed. The form also asks for your interests, which are categorized as Consulting, Startups, Event Planning, Business, Marketing, Finance, Product Design, Technology, Healthcare, and Creative. Please select all the fields that apply to you. The last two fields, Time and Date, are not currently required but are provided for future use. Consent is also an optional field where you can provide a note if you need to express anything.
-
-The form is designed to be simple and easy to complete, and the fields are all clearly labeled. However, if you have any difficulty or need further clarification, please don't hesitate to contact us.
-
-</thinking>
-
 # Startup Growth Consulting Summit Registration - Help Guide
 ## Purpose
 The purpose of this form is to register attendees for the Startup Growth Consulting Summit, a one-day conference for professionals in the startup world.

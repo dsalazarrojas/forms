@@ -1,7 +1,3 @@
-<thinking>
-This form, "phone_interaction_assessment_form", is designed to gather feedback and assessment information about phone interactions between customers and customer service representatives (CSRs). It's likely used to evaluate the effectiveness of CSRs and identify areas for improvement in phone communication. This form may be used by customer service teams to track customer interactions and provide better support. To complete this form, follow the instructions below.
-</thinking>
-
 # phone_interaction_assessment_form - Help Guide
 ## Purpose
 The phone_interaction_assessment_form is used to gather feedback and assessment information about phone interactions between customers and customer service representatives (CSRs). It helps customer service teams evaluate the effectiveness of CSRs and identify areas for improvement in phone communication.

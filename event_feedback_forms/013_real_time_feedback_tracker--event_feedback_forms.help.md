@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect real-time feedback from users about a specific event. It is intended to gather information about their experience, satisfaction, and potential suggestions or ratings. Please ensure that you are providing feedback that is relevant to this specific event and not duplicating feedback for the same or similar events. This form is a one-time input for each event and will not be used for ongoing, continuous feedback.
-
-</thinking>
-
 # Real Time Feedback Tracker - Help Guide
 ## Purpose
 This form is designed to collect real-time feedback from users about a specific event. It is intended to gather information about their experience, satisfaction, and potential suggestions or ratings.

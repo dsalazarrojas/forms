@@ -1,6 +1,3 @@
-<thinking>
-  This guide explains the free movie ticket form used for users to input information about a movie they wish to attend. This form is intended to be a template for users to provide details about the movie, which can be later used by event planners to plan and organize movie events. It is essential to fill out the form accurately to ensure that the event planner has the necessary information to make the event a success.
-</thinking>
 # Free Movie Ticket - Help Guide
 ## Purpose
 This form is used to provide details about a movie event, including the date, time, movie title, theater, genre, description, director, and starring actor. The form helps event planners to plan and organize movie events accurately.

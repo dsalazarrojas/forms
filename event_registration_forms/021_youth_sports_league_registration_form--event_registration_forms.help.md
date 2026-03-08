@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from youth sports league participants for registration purposes. The form will likely be used to gather data on each participant's personal details, payment information, and team affiliation. It's essential to ensure that the form is completed accurately and thoroughly to avoid errors and ensure that the necessary information is captured.
-</thinking>
-
 # Youth Sports League Registration Form - Help Guide
 ## Purpose
 The Youth Sports League Registration Form is designed to collect essential information from participants in a youth sports league, including their name, contact details, payment method and amount, team details, and fee-related information. This guide will walk you through each field of the form to help you complete it accurately.

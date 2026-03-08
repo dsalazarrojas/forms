@@ -1,15 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information on the performance of a team in a match, including the date, time, location, team name, team score, player name, player position, player performance, and overall evaluation of the match. The form is part of a larger evaluation process to help identify areas for improvement and make data-driven decisions.
-
-To determine if a team meets the required fields, we check if any of the fields have been removed or modified. If so, the form will not be submitted successfully.
-
-This form is part of a larger system that aims to collect data for multiple matches, making it crucial that the form is filled out accurately and consistently.
-
-This guide is to ensure that the end-users understand how to fill out the form correctly and what each field represents.
-
-</thinking>
-
 # Match Performance Evaluation - Help Guide
 ## Purpose
 The Match Performance Evaluation form is designed to collect data on the performance of a team in a match. It includes fields for match details, team and player information, and evaluation of the match.

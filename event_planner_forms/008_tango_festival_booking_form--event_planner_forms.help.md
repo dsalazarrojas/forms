@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users book a spot at a tango festival. The form collects personal information, dance categories preferences, availability, payment details, and contact email. The form does not require any payment information, and the "Availability" field is used to schedule the booking. The "Additional Notes" field allows users to provide any further information that might be helpful for the festival organizers.
-</thinking>
-
 # Tango Festival Booking Form - Help Guide
 ## Purpose
 This form is designed to help users book a spot at the Tango Festival. It will collect necessary information for festival organizers to schedule and manage bookings.

@@ -1,7 +1,3 @@
-<thinking>
-This guide helps users understand the Virtual MUN Registration Form. It is meant for registering participants in a Virtual Model United Nations (MUN) event. This form gathers information from participants about their personal and professional background, committee preferences, contact details, and emergency contacts. Ensure all provided information is accurate and relevant. This guide aims to help participants complete the form efficiently. Please ensure you are eligible to participate in Virtual MUN events before completing this form.
-</thinking>
-
 # Virtual MUN Registration Form - Help Guide
 ## Purpose
 The Virtual MUN Registration Form is used to gather participant information for a Virtual MUN event. This includes personal details, committee preferences, and contact information.

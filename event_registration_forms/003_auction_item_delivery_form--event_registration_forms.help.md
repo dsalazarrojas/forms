@@ -1,10 +1,3 @@
-<thinking>
-  The purpose of this form is to collect information required for the delivery of auction items to purchasers. 
-  This form ensures that we have accurate contact information, shipping details, and preferred delivery preferences of the purchaser. 
-  It also helps us understand the specifics of the item being delivered and ensures that any necessary arrangements are made for smooth delivery. 
-  Before filling out this form, ensure that all necessary information is accurate and complete, and that the preferred delivery date is feasible.
-</thinking>
-
 # Auction Item Delivery Form - Help Guide
 ## Purpose
 

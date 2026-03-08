@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for booking meetings and gathering relevant information from users. Its purpose is to collect data that will be used to organize and manage meetings. Before filling out this form, please ensure you have not already created a meeting request for the same date and time.
-
-</thinking>
-
 # Speed Meeting Booking Form - Help Guide
 ## Purpose
 The Speed Meeting Booking Form is designed to collect information from users to book and manage meetings.

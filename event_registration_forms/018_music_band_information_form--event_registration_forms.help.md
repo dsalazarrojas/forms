@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Music Band Information Form - Help Guide
 
 ## Purpose

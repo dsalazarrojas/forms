@@ -1,12 +1,3 @@
-<thinking>**Purpose**
-This form is used to collect votes for the Home Office Innovation Award. The form is designed to gather information from employees about which innovation projects they believe deserve recognition and reward. This form is typically used for internal purposes, such as identifying and recognizing innovative projects within the company.
-
-Before proceeding, please ensure that you have reviewed the company's policies and guidelines on innovation award submissions. This form should only be submitted by authorized employees of the company.
-
-To avoid any confusion or duplication of efforts, please verify that you have not submitted this form previously, and that the project you are voting for is not currently being considered for the award.
-
-</thinking>
-
 # home_office_innovation_award_voting - Help Guide
 ## How To Complete This Form
 To complete this form, follow these steps:

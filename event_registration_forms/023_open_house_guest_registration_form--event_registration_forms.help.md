@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to capture guest information for an open house event. It's crucial to ensure that the form is filled out correctly to avoid any issues with guest attendance and event organization. Please verify that you are registering for the correct event and that you have filled out all required fields. This form should not be used for any other purpose other than registering for an open house event. 
-
-</thinking>
-
 # Open House Guest Registration Form - Help Guide
 
 ## Purpose

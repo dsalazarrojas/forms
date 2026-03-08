@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect demographic information and contact details from female participants who wish to be part of a women's fellowship program. The program aims to provide a supportive community for women to network, learn, and grow together. The form is designed to be simple and straightforward, ensuring that users can easily provide the necessary information without feeling overwhelmed or confused.
-</thinking>
-
 # Women's Fellowship Registration Form - Help Guide
 ## Purpose
 This form is used to collect registration information from female participants who want to be part of a women's fellowship program. The program provides a supportive community for women to network, learn, and grow together.

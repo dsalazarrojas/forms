@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback and review information on products, likely for the purpose of product development, improvement, or market analysis. To ensure accurate and relevant data collection, it's essential to carefully review and complete the form. Please note that this form is for general product impact review and not for other purposes such as customer support or sales inquiries. Ensure that the form is completed accurately and not duplicated or submitted multiple times for the same product.
-</thinking>
-
 # Product Impact Review Application Form - Help Guide
 ## Purpose
 This form is designed to collect feedback on products, providing valuable insights for product development, improvement, or market analysis.

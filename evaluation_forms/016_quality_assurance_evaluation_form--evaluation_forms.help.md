@@ -1,12 +1,3 @@
-<thinking>
-The form purpose is to collect quality assurance evaluations. The purpose of this form is to gather information about the overall quality of a product or service. The evaluations provided will be used to track and improve the quality standards.
-
-This form is intended to be completed on the user's first day of work, and is used to ensure that the user has a good understanding of the company's quality standards and procedures. It will help the user to identify any potential issues or areas for improvement.
-
-Before starting the form, please ensure that you have not completed it in the past 30 days. If you have already completed this form, your previous evaluation will be overwritten.
-
-</thinking>
-
 # quality_assurance_evaluation_form - Help Guide
 ## Purpose
 The quality assurance evaluation form is a document used to assess the overall quality of a product or service. It is intended to gather information about the user's understanding of the company's quality standards and procedures, and to identify any potential areas for improvement.

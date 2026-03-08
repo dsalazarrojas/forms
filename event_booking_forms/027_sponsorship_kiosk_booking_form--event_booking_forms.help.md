@@ -1,7 +1,3 @@
-<thinking>
-This form is used to book a sponsorship kiosk for an event. The form has multiple pages, but the main purpose is to collect information from the user about the organization booking the kiosk, their preferred location, date and time, agreement, and any additional terms and conditions. To prevent duplication, we should check if the user has already booked a kiosk before proceeding with the booking.
-</thinking>
-
 # Sponsorship Kiosk Booking Form - Help Guide
 ## Purpose
 The Sponsorship Kiosk Booking Form is used to book a sponsorship kiosk for an event. Please fill out the form accurately and thoroughly to ensure your booking is successfully processed.

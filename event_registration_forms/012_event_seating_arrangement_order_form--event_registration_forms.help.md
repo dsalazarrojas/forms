@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to capture essential information from event attendees regarding their seating preferences, special requests, contact information, dietary restrictions, and other event-specific requirements. It is intended to help event organizers efficiently arrange seating and cater to the needs of their guests. This form should only be used for event registration purposes, and its completion is optional but recommended to ensure accurate and timely seating arrangements.
-
-When filling out this form, please note that the information provided will be used to create seating arrangements and provide catering services tailored to your preferences. If you have any questions or concerns, feel free to contact us.
-</thinking>
-
 # Event Seating Arrangement Order Form - Help Guide
 ## Purpose
 This form is used to provide information on your seating preferences, special requests, contact information, and other event-specific requirements. It is intended to help event organizers create accurate and timely seating arrangements and provide catering services tailored to your needs.

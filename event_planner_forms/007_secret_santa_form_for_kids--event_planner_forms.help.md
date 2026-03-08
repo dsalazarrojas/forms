@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be completed by children to express their gift preferences and needs for the Secret Santa gift exchange. The form asks the child to input their name, email address, their preferred activity for the holiday season, any special requests they might have, and their budget for a gift. This is not a form for adults. 
-</thinking>
-
 # Secret Santa Form For Kids - Help Guide
 ## Purpose
 This form is for kids to let their parents or guardians know their holiday preferences so they can choose a great gift.

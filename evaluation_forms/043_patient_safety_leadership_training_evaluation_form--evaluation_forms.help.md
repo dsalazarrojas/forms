@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed for evaluating the effectiveness and satisfaction of patient safety leadership training sessions. It will help trainees and trainers assess the quality and engagement of the training, provide feedback on areas of improvement, and rate the overall experience. This form is intended for trainees to be completed after attending a training session, and it is crucial to ensure that the form is filled out thoroughly and accurately to provide valuable feedback to the training team.
-
-Before proceeding, please ensure that you are filling out this form for the correct training session and that all required fields are completed.
-
-Please note that some fields are marked as optional, but filling out all required fields will help provide more comprehensive feedback and ensure that your evaluation is taken seriously.
-
-</thinking>
-
 # Patient Safety Leadership Training Evaluation Form - Help Guide
 ## Purpose
 

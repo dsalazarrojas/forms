@@ -1,7 +1,3 @@
-<thinking>
-The form "inspector_qualification_assessment" is used to evaluate an inspector's qualifications for a particular role. This form is intended to gather information about the inspector's performance cycles, training plans, and other relevant details. The evaluation is a crucial process to determine the inspector's level of expertise and suitability for the position. This form is designed to be completed by the inspector being assessed, and their answers will be reviewed and evaluated by the relevant authorities. It's essential to complete the form accurately and thoroughly to provide a fair and unbiased assessment.
-</thinking>
-
 # inspector_qualification_assessment - Help Guide
 ## Purpose
 The inspector_qualification_assessment form is used to evaluate an inspector's qualifications for a specific role. The evaluation process helps to determine the inspector's level of expertise and suitability for the position.

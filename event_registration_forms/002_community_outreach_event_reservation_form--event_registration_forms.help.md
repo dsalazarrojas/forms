@@ -1,7 +1,3 @@
-<thinking>
-This form is used for community outreach events to gather information about upcoming events that will be held in the space. This form helps to ensure that event organizers and attendees have a smooth experience. The form is divided into several sections to make it easier to complete and submit. Please review the form carefully before filling it out, and ensure that you do not submit the same event multiple times. If you are unsure about any field or requirement, contact us for clarification.
-</thinking>
-
 # Community Outreach Event Reservation Form - Help Guide
 ## Purpose
 This form is used to register and manage community outreach events in the space. It provides information about the event, including details about the event type, date, time, and attendees, as well as the contact information of the event organizer.

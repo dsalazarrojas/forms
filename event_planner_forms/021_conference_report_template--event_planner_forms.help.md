@@ -1,9 +1,3 @@
-<thinking>
-The form "Conference Report Template" is designed to gather information about a conference's overall experience, including its title, date, location, and attendees' feedback. This template helps event organizers or managers assess the conference's success, identify areas for improvement, and make informed decisions for future events.
-The form is divided into several sections, each focusing on a specific aspect of the conference. The sections are designed to be completed by the report author, providing a detailed account of their experience and opinions about the conference.
-To avoid duplication, the form should only be filled out once by the report author, and it's recommended to save the completed form for reference and evaluation purposes.
-</thinking>
-
 # Conference Report Template - Help Guide
 ## Purpose
 The Conference Report Template is a comprehensive form designed to gather information about a conference's overall experience. Its purpose is to help event organizers or managers assess the conference's success, identify areas for improvement, and make informed decisions for future events.

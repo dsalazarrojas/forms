@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for the Holiday Brunch event registration. It is likely used to manage the event's guest list, table reservations, and payment details. 
-The form is composed of multiple pages with different sections. To determine the relevance and importance of this form, we assume it is used to plan and organize a large-scale event like a corporate or social gathering. 
-This form is not likely used for personal or small-scale events, as it is designed to handle a larger number of guests and reservations.
-</thinking>
-
 # Holiday Brunch Table Booking Form - Help Guide
 ## Purpose
 The Holiday Brunch Table Booking Form is designed to collect information for the Holiday Brunch event registration. This form will help you provide your guest's details, table reservations, and payment information for the event.

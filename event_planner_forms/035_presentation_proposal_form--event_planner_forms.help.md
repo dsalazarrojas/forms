@@ -1,5 +1,3 @@
-<thinking>As you're reading this guide, please note that this form is used to collect information for presentation proposals. This form is meant to gather details about speakers, presentations, and events. It's likely used in an academic or professional setting where presentations are being organized. Ensure you've reviewed the form carefully before proceeding to avoid any potential issues.</thinking>
-
 # Presentation Proposal Form - Help Guide
 ## Purpose
 The Presentation Proposal Form is designed to collect all necessary information for a presentation, including speaker details, presentation details, event information, and submission status. This form is used to ensure that all relevant information is provided for the presentation.

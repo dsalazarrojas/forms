@@ -1,9 +1,3 @@
-<thinking>...
-
-This form is designed to collect evaluations about the decision support process. It's intended for evaluators to provide feedback on the support process used, the level of support provided, and their overall experience with the process. This form is not to be filled out multiple times by the same user; it's meant for one-time evaluations.
-
-</thinking>
-
 # decision_support_evaluation_form - Help Guide
 ## Purpose
 The decision support evaluation form is designed to collect evaluations about the decision support process. Evaluators use this form to provide feedback on the support process used, the level of support provided, and their overall experience with the process.

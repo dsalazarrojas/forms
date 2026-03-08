@@ -1,8 +1,3 @@
-<thinking> 
-The form is used for athletes to submit a leave request. This form should only be completed by athletes who have a legitimate reason for absence from training or competition. The purpose of this form is to gather information about the athlete's leave request, including their personal details, leave category, dates, and any relevant details such as events and locations. The form will be reviewed by administrators to determine the approval status of the leave request. If the form is submitted incorrectly or with incomplete information, it may affect the approval status and processing time.
-
-</thinking>
-
 # Athlete Participation Leave Form - Help Guide
 ## Purpose
 The Athlete Participation Leave Form is a form used for athletes to request absence from training or competition. To complete this form, please follow the instructions below.

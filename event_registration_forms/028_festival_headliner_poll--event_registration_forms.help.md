@@ -1,7 +1,3 @@
-<thinking>
-To create a help guide for the Festival Headliner Poll form, we need to understand its purpose and the type of information it aims to collect. The form is designed to gather user preferences for headliners at a festival, likely to determine which performers are the most popular among attendees.
-</thinking>
-
 # Festival Headliner Poll - Help Guide
 ## Purpose
 The Festival Headliner Poll is a form used to collect information about users' favorite festival headliners. It is designed to help event organizers understand which headliners are the most popular among festival attendees and plan accordingly.

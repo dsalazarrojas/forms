@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from food vendors interested in participating in the Food Festival. It requires vendors to provide their event name, dates, and contact details, as well as specific details about their vendor type, booth dimensions, and payment status. This form should only be used for vendors who are interested in booking a booth at the festival. Please make sure you have the necessary permissions to create a vendor account before using this form. 
-</thinking>
-
 # Food Festival Vendor Booking Form - Help Guide
 ## Purpose
 This form is for booking a vendor space at the Food Festival.

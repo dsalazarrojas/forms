@@ -1,8 +1,3 @@
-<thinking> 
-We have received your request to create a user-facing help guide for the "Announcement Request Form". Before we proceed, could you please confirm that this form is intended for employees to submit requests for company-wide announcements, such as company news, policy updates, event announcements, and other important events. Also, please ensure that you have reviewed the form fields to avoid duplication and redundancy. If you have any specific requirements or constraints, please let me know so I can tailor the help guide accordingly.
-
-</thinking>
-
 # Announcement Request Form - Help Guide
 
 ## Purpose

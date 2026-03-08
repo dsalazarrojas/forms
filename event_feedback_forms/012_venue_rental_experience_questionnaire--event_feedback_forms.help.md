@@ -1,12 +1,3 @@
-<thinking>
-This guide is intended to provide an overview of the "venue_rental_experience_questionnaire" form. Please note that this form is used to collect feedback from customers about their rental experience with a venue. It is a crucial tool to help us understand our customers' perception of our services and identify areas for improvement.
-
-To ensure that this guide is not duplicated or irrelevant, it is essential to have a clear understanding of its purpose and the fields it contains. If you're unsure about any part of this process or have further questions, please reach out to the designated contact person.
-
-This guide will walk you through each field of the form, explaining what it means and how to complete it.
-
-</thinking>
-
 # venue_rental_experience_questionnaire - Help Guide
 ## Purpose
 The "venue_rental_experience_questionnaire" form is used to collect feedback from customers about their rental experience with a venue. It helps us understand customer perception of our services and identify areas for improvement.

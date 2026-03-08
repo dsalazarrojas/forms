@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information for an event photography contract. The form is likely used by event organizers or managers to collect data from clients and photographers for events such as weddings, parties, or corporate events. To ensure relevance and non-duplication, please confirm that you have not created a similar form in the past or are not aware of any other forms with identical or similar functionality.
-</thinking>
-
 # event_photography_contract - Help Guide
 ## Purpose
 The event_photography_contract form is designed to collect necessary information for an event photography contract. This form helps event organizers or managers gather essential details from clients and photographers to facilitate smooth event execution and communication.

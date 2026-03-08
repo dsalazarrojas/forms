@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering sponsors for the Networking Breakfast. The purpose of this form is to gather information from sponsors about their participation in the event. The form is used to collect package choice, sponsor details, contact person, email, phone number, confirmation of sponsor, and confirmation of email. It is designed for end-users to provide accurate and complete information to ensure smooth event execution.
-</thinking>
-
 # Networking Breakfast Sponsor Registration - Help Guide
 ## Purpose
 This form is used to register sponsors for the Networking Breakfast event. It is essential to provide accurate and complete information to ensure a smooth event execution.

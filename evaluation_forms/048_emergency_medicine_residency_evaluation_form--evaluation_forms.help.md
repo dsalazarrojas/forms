@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from medical residents and professionals about their experiences and opinions on emergency medicine residency evaluations. This form is designed to be a free-formatted tool, allowing users to provide their input in a flexible and unstructured manner.
-
-To prevent duplication and ensure relevance, it is recommended that this form be used for a specific purpose, such as evaluating the success of an evaluation or gathering feedback from medical professionals on the use of the form. 
-
-Before filling out this form, please review the sections below for guidance on how to complete it effectively.
-
-</thinking>
-
 # Emergency Medicine Residency Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect information from medical residents and professionals on their experiences and opinions on emergency medicine residency evaluations.

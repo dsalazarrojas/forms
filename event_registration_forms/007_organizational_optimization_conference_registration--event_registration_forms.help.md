@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Organizational Optimization Conference Registration - Help Guide
 
 ## Purpose

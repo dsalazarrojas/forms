@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Dance Rehearsal Communication Form - Help Guide
 
 ## Purpose

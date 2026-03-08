@@ -1,6 +1,3 @@
-<thinking>
-The form purpose is to gauge attendees' satisfaction with a tech conference. The internal reasoning behind this form is to collect feedback on the overall satisfaction, speaker quality, and material quality. This form is not intended for duplicate entries, so it is recommended that attendees fill it out only once during the conference. If an attendee has already filled out this form, they will not be able to fill it out again.
-</thinking>
 # Tech Conference Attendee Satisfaction Poll - Help Guide
 ## Purpose
 The Tech Conference Attendee Satisfaction Poll is a survey designed to collect feedback from attendees on their overall experience at the conference.

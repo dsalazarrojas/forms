@@ -1,7 +1,3 @@
-<thinking>
-We are creating a user-facing help guide for the "Trivia Night Sign Up Form". This form is designed to collect information from participants who want to sign up for a trivia night event. The form's purpose is to gather the necessary details from each participant, such as their name, email, phone number, address, and any additional notes they may have. It also asks for the participant's trivia level, which could be used to determine the difficulty level of questions they can answer. The form is meant to be completed by each participant before the event. To avoid duplication, the form can be made to validate the participant's email address before submitting, which will prevent multiple entries from the same email. The internal logic should be able to handle multiple submissions from different teams, as participants can be part of multiple teams. The form can also be modified to add extra validation for team participation, ensuring that each participant belongs to only one team. 
-</thinking>
-
 # Trivia Night Sign Up Form - Help Guide
 ## Purpose
 This form is a Trivia Night Sign Up Form designed to collect participant information for an event.

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be for registration for a Trick or Treat event, likely at a drive-thru location. The form collects various details such as first and last names, email address, phone number, T-Shirt size, number of trick or treaters, costume, and assigned tools or personnel. It also includes fields for event details like date, start and end times, location, and event description. The presence of fields for event notes and trick or treat notes suggests that there might be some additional information or instructions that need to be captured for the event.
-</thinking>
-
 # Trick Or Treat Drive Thru Registration Form - Help Guide
 
 ## Purpose

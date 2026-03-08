@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is used for its intended purpose: registering a participant for a stranger session. The form should not be used for other purposes, such as registering a participant for a regular session or for general user registration. This form is designed for specific use cases and should only be completed by participants or their representatives.
-</thinking>
-
 # Stranger Session Registration - Help Guide
 ## Purpose
 This form is intended for registering participants for a stranger session. It is designed to collect necessary information for the session's organization and management.

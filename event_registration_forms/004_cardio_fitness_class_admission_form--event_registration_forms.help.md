@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cardio Fitness Class Admission Form - Help Guide
 
 ## Purpose

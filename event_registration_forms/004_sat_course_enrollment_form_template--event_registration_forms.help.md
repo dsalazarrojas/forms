@@ -1,12 +1,3 @@
-<thinking>
-This form is a template for students to register for a course. This is a general-purpose help guide to assist end users in completing the form.
-
-To ensure this form serves its intended purpose, please confirm that:
-
-- The SAT course is relevant to the user's interests (not a mass registration).
-- This is not a duplicate registration request (the user has not already submitted a form).
-</thinking>
-
 # sat_course_enrollment_form_template - Help Guide
 ## Purpose
 This form is designed for students to register for an SAT course. Please fill it out carefully to provide accurate and detailed information.

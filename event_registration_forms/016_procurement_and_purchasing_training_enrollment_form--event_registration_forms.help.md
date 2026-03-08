@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Procurement And Purchasing Training Enrollment Form - Help Guide
 
 ## Purpose

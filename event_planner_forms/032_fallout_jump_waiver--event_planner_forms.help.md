@@ -1,9 +1,3 @@
-<thinking>
-The Fallout Jump Waiver form is used to document the submission of an event or activity that involves jump-related risks. It's essential for the person participating in the activity to acknowledge and accept the risks involved in the jump. The form is used for internal purposes, primarily for event planning and risk management.
-To ensure consistency and accuracy, it's crucial that this form is filled out correctly. Please make sure to review the form fields carefully before proceeding.
-This guide is intended to be used in conjunction with the form's internal documentation and should not be used for any other purpose.
-</thinking>
-
 # Fallout Jump Waiver - Help Guide
 ## Purpose
 The Fallout Jump Waiver form is used to document and manage jump-related events and activities. It's crucial for participants to acknowledge and accept the risks involved.

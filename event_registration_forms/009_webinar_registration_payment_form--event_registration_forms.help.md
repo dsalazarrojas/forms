@@ -1,13 +1,3 @@
-<thinking>
-
-**Internal Reasoning:**
-
-This form is intended for users to register for a webinar and provide payment details for the event. The form is designed to be completed in two stages: providing webinar registration information and selecting a payment method. We want to ensure that users understand the purpose and fields of the form to avoid any confusion or errors.
-
-Before proceeding, please confirm that the form is relevant to your needs and not a duplicate of another form. If you have any questions or concerns, please reach out to our support team.
-
-</thinking>
-
 # webinar-registration-payment-form - Help Guide
 ## Purpose
 The webinar-registration-payment-form is a two-page form designed for users to register for a webinar and provide payment details. This form helps us gather necessary information for the event and ensures a smooth registration process.

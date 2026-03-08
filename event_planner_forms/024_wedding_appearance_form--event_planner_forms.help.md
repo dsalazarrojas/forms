@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information about a wedding appearance event. It's essential to understand that a wedding appearance form is a unique type of event that requires specific details to be entered in order to proceed with the planning process. Before starting, please make sure this form is not a duplicate of any previously completed wedding appearance form, as each event has its distinct characteristics. The form aims to gather essential details such as event name, dates, time, expected guests, and number of events. Ensure that each field is filled accurately and according to your actual requirements to avoid any discrepancies.
-</thinking>
 # Wedding Appearance Form - Help Guide
 ## Purpose
 The Wedding Appearance Form is a crucial document that helps planners and organizers gather necessary information for a wedding appearance event. It is designed to ensure accuracy and precision in the planning process.

@@ -1,5 +1,3 @@
-<thinking>...This form is used for registering and authorizing individuals to participate in an influencer contest. It's essential to have a clear and straightforward process for users to fill in their information accurately. To ensure accuracy, it would be best to validate that the user has filled in all the required fields. The goal is to get a complete profile for each user that can be associated with the contest.</thinking>
-
 # Influencer Contest Authorization Form - Help Guide
 ## Purpose
 This form is used to collect necessary information from individuals who want to participate in our influencer contest.

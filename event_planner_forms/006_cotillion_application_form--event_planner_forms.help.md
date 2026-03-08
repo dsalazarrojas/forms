@@ -1,5 +1,3 @@
-<thinking>...this form is for creating an event planner application. This form is for users to provide information about an event they are hosting or attending. The fields include general information about the event, such as its date and time, as well as more specific details, like the number of guests and the dance style of the event. Some fields are optional, like the event host's contact information. This form likely exists to collect information from clients or guests for an event planner service.</thinking>
-
 # Cotillion Application Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Technician Evaluation Form - Help Guide
 ## Purpose
 The Technician Evaluation Form is a tool used to evaluate the performance of a technician after a job has been completed. This form helps assess the quality of the work, communication skills, and overall experience with the technician.

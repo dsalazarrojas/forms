@@ -1,11 +1,3 @@
-<thinking>
-The "Promoter Application Form" is a tool used by event organizers to create and submit applications for events in the system. This form helps event organizers provide essential information about their events, including details about the event name, contact information, event dates and time, venue, promotion goals, and more.
-
-To prevent duplication and ensure the correct use of this form, please note that:
-- Only event organizers with a valid account in the system should fill out this form.
-- Ensure that all fields are correctly filled and valid data is provided to avoid any application issues.
-</thinking>
-
 # Promoter Application Form - Help Guide
 ## Purpose
 The Promoter Application Form is a tool for event organizers to submit applications for events in the system, providing essential information about their events.

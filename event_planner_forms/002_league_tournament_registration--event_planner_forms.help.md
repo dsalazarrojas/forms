@@ -1,5 +1,3 @@
-<thinking>This form is a League Tournament Registration form, designed for sports enthusiasts to register their teams for a variety of tournaments. This form is intended for teams participating in different sports like soccer, baseball, football, and volleyball, with different age groups and divisions. Before starting, let's ensure this form is the correct one for your needs. If you're looking for a different type of form, please let us know and we'll provide you with the correct guidance. Please note that some fields are not required, so feel free to fill out as much or as little information as needed. We'll review each field below for more information on how to complete them accurately.</thinking>
-
 # League Tournament Registration - Help Guide
 ## Purpose
 This form is designed for sports teams to register for tournaments in different sports and age groups.

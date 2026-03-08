@@ -1,7 +1,3 @@
-<thinking>
-This is a form for gathering information about yoga retreat participants, likely for logistical and risk management purposes. It asks for contact information, medical history, and emergency contacts. Please ensure that you're not already registered in the system before completing this form, as duplicate registrations might cause issues with our retreat planning and emergency response processes.
-</thinking>
-
 # Yoga Retreat Participant Profile - Help Guide
 ## Purpose
 The Yoga Retreat Participant Profile form is designed to collect essential information about yoga retreat participants. This information will be used to provide a safe and enjoyable experience for all participants and to ensure that any medical emergencies are handled efficiently.

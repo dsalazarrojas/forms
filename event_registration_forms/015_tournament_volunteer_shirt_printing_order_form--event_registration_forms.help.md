@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from tournament volunteers to order their shirts. The form is not intended for volunteers to register for the tournament itself, but rather for them to request their shirts after participating in the event. The field labels and options may seem self-explanatory, but it's best to clarify that each field is optional, and users can leave fields blank if not applicable. The form is meant to be filled out by volunteers who have already registered for the tournament but need to order their shirts.
-
-Please note that some of the fields, such as Event Name, can be confusing if not understood in the context of the tournament. In this case, it's best to assume that the event name refers to the specific event the volunteer participated in.
-</thinking>
-
 # Tournament Volunteer Shirt Printing Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from tournament volunteers to order their shirts after participating in the event. It's not meant for registration, but rather for shirt ordering purposes only.

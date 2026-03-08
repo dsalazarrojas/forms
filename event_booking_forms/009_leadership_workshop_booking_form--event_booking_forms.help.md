@@ -1,8 +1,3 @@
-<thinking> 
-This form is for booking a leadership workshop. The purpose of this form is to collect information about the workshop and its participants. The form is used by workshop organizers to gather necessary details for the event. This form will help ensure that all required information is collected accurately and consistently. 
-
-</thinking>
-
 # Leadership Workshop Booking Form - Help Guide
 ## Purpose
 The Leadership Workshop Booking Form is used to collect information about workshops and their participants. This form helps workshop organizers gather all necessary details for the event.

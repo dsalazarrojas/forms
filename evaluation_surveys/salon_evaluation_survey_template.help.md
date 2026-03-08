@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather feedback from salon customers on their experience with the salon services and overall satisfaction. It is meant to be a simple, user-friendly survey that allows customers to express their opinions and suggestions for improvement. The purpose of this form is to help the salon understand what customers like and dislike about their services, which will inform future changes and improvements.
-
-Before filling out this form, please ensure that you haven't already provided feedback on this topic. If you have previously responded to a similar survey, your input will not be collected again.
-
-To complete this form, follow the instructions below.
-
-</thinking>
-
 # Salon Evaluation Survey Template - Help Guide
 ## Purpose
 This survey aims to gather feedback on your experience with our salon services and overall satisfaction.

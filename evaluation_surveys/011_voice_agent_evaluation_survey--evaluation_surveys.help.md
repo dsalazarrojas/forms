@@ -1,18 +1,3 @@
-<thinking>
-This guide explains the Voice Agent Evaluation Survey form, which is a tool to gather feedback from customers or end-users on their experiences with a voice agent. This survey is designed to evaluate the performance, effectiveness, and communication style of the voice agent, as well as overall experience and areas for improvement.
-
-The purpose of this form is to collect ratings and feedback to help the voice agent improve its performance and provide better customer service.
-
-This guide is intended to help end-users understand the form's purpose, structure, and requirements, ensuring that they can fill it out accurately and provide valuable feedback.
-
-The guide will cover the following sections: 
-
-- Purpose
-- How To Complete This Form
-- Field-by-Field Explanation
-- Tips
-
-</thinking>
 # Voice Agent Evaluation Survey - Help Guide
 ## Purpose
 The Voice Agent Evaluation Survey is a form designed to gather feedback from customers or end-users on their experiences with a voice agent. The survey assesses the performance, effectiveness, and communication style of the voice agent, aiming to improve customer service.

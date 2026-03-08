@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a film from the user, specifically for the Rooftop Films organization. The purpose of this form is to gather details about a film, including its title, URL, year of release, type (feature or short), and format (e.g., digital, Blu-ray, DVD). The form is intended for users who want to submit information about a film for consideration by Rooftop Films.
-</thinking>
-
 # Rooftop Films Submission Form - Help Guide
 ## Purpose
 This form is used to submit information about a film for consideration by Rooftop Films.

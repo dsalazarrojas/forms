@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather information from users who are interested in participating in a group cultural exchange program. The form asks for details about the participants, their preferences, and travel information. To complete this form, please follow the instructions below.
-
-</thinking>
-
 # Group Cultural Exchange Booking Form - Help Guide
 ## Purpose
 The Group Cultural Exchange Booking Form is a tool for users to provide information about themselves and their travel preferences in order to participate in a group cultural exchange program.

@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to register participants for a skill-building session, a type of workshop or training event. Its purpose is to collect information about the participants, the session topic, and any additional details that may be relevant to the event. This form is likely to be used by event organizers or administrators to collect registration information from attendees. The form should only be used for registering a single participant at a time. If you are registering multiple participants, you will need to fill out this form multiple times.</thinking>
-
 # skill_building_session_registration_form - Help Guide
 ## Purpose
 This form is used to register a participant for a skill-building session.

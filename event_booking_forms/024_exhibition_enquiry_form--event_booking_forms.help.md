@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Exhibition Enquiry Form - Help Guide
 ## Purpose
 This form is used to collect visitor contact information and event booking inquiries for the exhibition.

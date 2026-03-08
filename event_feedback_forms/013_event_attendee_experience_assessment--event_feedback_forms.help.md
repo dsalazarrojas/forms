@@ -1,18 +1,3 @@
-<thinking>
-This help guide is designed to assist users in understanding the purpose and functionality of the "Event Attendee Experience Assessment" form. The form is intended to collect feedback and experiences from attendees of events, allowing organizers to gauge the effectiveness and quality of the event. This form is not meant to be a comprehensive survey, but rather a concise tool to gather essential information.
-
-The form is divided into several sections, each designed to collect specific information about the event. 
-
-The form is used to:
-- Gather feedback from attendees about their experience at the event.
-- Assess the satisfaction of attendees with the event.
-- Collect improvement ideas for future events.
-- Collect contact information from attendees for follow-up purposes.
-- Record event details, such as date and time.
-
-Before filling out the form, please ensure that you have all necessary information and permissions to provide accurate responses. If you are unsure about any of the fields, please refer to the field-by-field explanation below.
-</thinking>
-
 # Event Attendee Experience Assessment - Help Guide
 ## Purpose
 This form is designed to gather feedback and experiences from attendees of events, allowing organizers to improve future events.

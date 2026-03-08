@@ -1,5 +1,3 @@
-<thinking>...checking for relevance and non-duplication...</thinking>
-
 # Visual Arts Evaluation Form - Help Guide
 ## Purpose
 

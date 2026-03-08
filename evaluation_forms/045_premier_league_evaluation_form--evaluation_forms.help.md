@@ -1,15 +1,3 @@
-<thinking> 
-This form is for evaluating players participating in the Premier League. The purpose of this form is to allow coaches, scouts, and analysts to assess the performance of players in a specific game or series of games. The form can be used by players, coaches, and analysts to record their evaluations of a player's skills, strategy, and overall performance. To complete this form, follow the instructions below. 
-
-This form has five fields. Please answer each question to the best of your ability and according to your observations. 
-
-If you've already completed an evaluation for the same player, please make sure to update your previous evaluation. This will help track changes in a player's performance over time. 
-
-Please note that this form does not include any sensitive or confidential information. Your responses will be used solely for the purpose of evaluating the player's performance and providing feedback for improvement. 
-
-Before you start, make sure to review the form fields below to understand what each one means.
-</thinking>
-
 # Premier League Evaluation Form - Help Guide
 
 ## Purpose

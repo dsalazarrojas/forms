@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect registration information for a hackathon focused on sustainability in travel. This is not a form created by a specific company or organization. The form's purpose is to collect data from attendees, ensuring they can participate and contribute to the event. I'm assuming that the form was created using AI, but this doesn't necessarily mean it's a generic form. The structure is likely based on a public survey topic metadata for "Travel Sustainability Hackathon Registration Form". This form has several pages that ask for different types of information, which will be explained in the help guide below.
-</thinking>
-
 # Travel Sustainability Hackathon Registration Form - Help Guide
 ## Purpose
 This form is designed to collect registration information from attendees of the Travel Sustainability Hackathon. By filling out this form, you will be able to participate in the event and contribute your ideas and expertise to the sustainability in travel discussion.

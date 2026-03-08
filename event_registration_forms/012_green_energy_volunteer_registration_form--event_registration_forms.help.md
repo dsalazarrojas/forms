@@ -1,9 +1,3 @@
-<thinking>
-
-The "green_energy_volunteer_registration_form" is a multi-page form designed to collect information from users who want to register as volunteers for the Green Energy program. The form is intended to gather details about the user's availability, experience, and skills to ensure they are a good fit for the program. The form has 25 fields across 25 pages, each with a specific type and requirement status. To ensure accurate and relevant registration, the form should only be filled out by individuals who are genuinely interested in becoming volunteers for the Green Energy program.
-
-</thinking>
-
 # green_energy_volunteer_registration_form - Help Guide
 ## Purpose
 This help guide is designed to assist users in completing the green_energy_volunteer_registration_form accurately and efficiently.

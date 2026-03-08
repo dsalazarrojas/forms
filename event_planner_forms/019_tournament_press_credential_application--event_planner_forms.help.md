@@ -1,36 +1,3 @@
-<thinking>
-To confirm that the form purpose and fields are correctly represented in the provided YAML, let's review the fields and their labels.
-
-The form is titled "Tournament Press Credential Application" and seems to be related to press accreditation for a tournament. 
-
-The fields include:
-- First name
-- Last name
-- Email
-- Phone number
-- Role (select multiple options: Journalist, Photographer, Broadcaster, Other)
-- Organization
-- Contact name
-- Contact email
-- Contact phone number
-- Reason for press visit
-- Press credential requested
-- Media requirements
-- Media type (select one: Photo, Video, Audio, Social Media)
-- Media details
-- Start date
-- End date
-- Credential issue date
-- Accreditation status (select one: Pending, Approved, Declined, Expired)
-- Notes
-- Press ID
-
-The purpose of the form is likely to obtain press accreditation for the tournament and gather information about the press personnel visiting the event.
-
-The form seems to be well-structured and covers various aspects of press accreditation.
-
-</thinking>
-
 # Tournament Press Credential Application - Help Guide
 ## Purpose
 The purpose of this form is to obtain press accreditation for the tournament. It gathers information about the press personnel visiting the event and their requirements.

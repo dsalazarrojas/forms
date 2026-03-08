@@ -1,14 +1,3 @@
-<thinking>
-Form purpose:
-This form is intended to collect information from attendees for the Esthetician Trade Show. The primary goal is to gather details about the attendees' booth preferences, payment information, and other relevant aspects related to their participation in the event.
-
-Relevance:
-The form is relevant to the Esthetician Trade Show, a platform for professionals and students in the esthetician industry to network, learn, and showcase their products or services.
-
-Non-duplication:
-The form is designed to be a unique and comprehensive registration process, avoiding duplication of information or overlap with other forms.
-
-</thinking>
 # Esthetician Trade Show Registration Form - Help Guide
 ## Purpose
 This form is used to collect information from attendees for the Esthetician Trade Show. The purpose of this form is to gather essential details about attendees' participation in the event.

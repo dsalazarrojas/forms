@@ -1,25 +1,3 @@
-<thinking>
-This form is designed for event planners to collect information for concert ticket registrations with 2Checkout integration. It's intended for internal use within the organization, ensuring that the required details are accurately captured for processing payments and generating receipts.
-
-The form should not be duplicated for other purposes or events, as it's optimized for concert ticket registrations specifically.
-
-To avoid any potential confusion or misinterpretation, the following fields are clearly defined:
-
-*   **organizer_name**: This field is to capture the name of the person registering the tickets.
-*   **contact_email**: This field is for the email used for payment and receipt purposes.
-*   **tickets_requested**: This field is for counting the number of tickets to process.
-*   **package_type**: This field is to select the ticket package type (Standard, VIP, or Early bird).
-*   **payment_processor**: This field is for 2Checkout integration details, which is optional.
-*   **billing_name**: This field is for the name that appears on the credit card bill.
-*   **billing_email**: This field is for the email used for transaction receipts.
-*   **invoice_reference**: This field is for an internal reference for accounting purposes.
-*   **special_instructions**: This field is for any venue or delivery notes.
-*   **confirmation_note**: This field is for read-only instructions about payment processing time.
-
-This form is designed to be straightforward and user-friendly, ensuring that the required details are captured efficiently. Please ensure to review the instructions carefully before submission.
-
-</thinking>
-
 # Concert Ticket Registration Form With 2Checkout - Help Guide
 ## Purpose
 

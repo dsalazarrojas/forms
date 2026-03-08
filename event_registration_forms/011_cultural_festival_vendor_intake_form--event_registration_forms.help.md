@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for vendors who want to register their cultural festival presence, including information about themselves, their products, and their social media links. This form is designed to gather all necessary information to facilitate a smooth and successful event experience for both the vendors and the festival organizers. 
-
-The following form is a one-page intake form that requires some personal and product information, as well as some optional social media links and other details. Please note that while most fields are optional, some are required to ensure accurate and complete registration.
-
-</thinking>
-
 # Cultural Festival Vendor Intake Form - Help Guide
 ## Purpose
 The Cultural Festival Vendor Intake Form is designed to gather information from vendors who want to participate in the cultural festival. This form aims to provide festival organizers with the necessary details to promote the vendors and their products effectively.

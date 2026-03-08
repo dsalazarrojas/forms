@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to confirm the participant's t-shirt order for an event. This form is used to collect specific information about the participant, including their ID, shirt size, quantity, color preferences, name, email, and phone number. It's essential to fill out the form accurately to ensure that your order is processed correctly and that you receive the right size and color t-shirt. Please take a few minutes to review each field carefully to avoid any errors.
-</thinking>
-
 # Event T Shirt Order Confirmation - Help Guide
 ## Purpose
 This form is used to confirm and validate the participant's t-shirt order for an event. It's essential to complete this form accurately to ensure that your order is processed correctly and that you receive the right size and color t-shirt.

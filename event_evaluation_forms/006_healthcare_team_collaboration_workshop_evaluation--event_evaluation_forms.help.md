@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for evaluating the quality and effectiveness of a healthcare team collaboration workshop. It is meant to gather feedback from participants on various aspects of the workshop, including the quality of the workshop, collaboration among team members, and overall satisfaction. The form is designed to collect data that will help in assessing the success and areas of improvement for future workshops. It is recommended to use this form for workshops that have already taken place and are intended to be evaluated. This is a standard form and should not be modified or altered without prior approval. Please ensure that you have completed the workshop evaluation form for the specific workshop you are referring to. If you are not sure, please refer back to the workshop's original documentation or contact the organizer.</thinking>
-
 # Healthcare Team Collaboration Workshop Evaluation - Help Guide
 
 ## Purpose

@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information related to draft GCs (General Correspondence) reporting, which is a critical process in various organizational or business settings. Before proceeding, please verify that you are the intended user and that the information being reported is not a duplicate of an existing submission. Please ensure that you are submitting accurate and relevant information, as this form will be used to track and document draft GCs for further review and processing. If you have any questions or concerns, please don't hesitate to reach out to the relevant authorities or administrators.
-</thinking>
 # Draft GCs Reporting Form - Help Guide
 
 ## Purpose

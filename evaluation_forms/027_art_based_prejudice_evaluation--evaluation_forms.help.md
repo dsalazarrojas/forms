@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be a subjective evaluation form designed to assess an individual's personal reaction and perception of an artwork, particularly in regards to prejudice and stereotypes. It is likely used to gather data on how an artwork can influence or reflect one's own biases and perspectives. The form is organized into several sections, each focusing on a different aspect of the evaluation. For example, the first section collects demographic information about the participant, while subsequent sections delve into the artwork's emotional impact, perceived stereotypes, and artist's intent.
-
-This form likely aims to promote awareness and reflection on prejudice and stereotypes, and may be used in educational, research, or cultural contexts. To ensure accurate results, it is essential that participants fill out the form with genuine and thoughtful responses.
-
-Please note that this form is not designed to be completed by non-consenting participants, as it deals with personal and sensitive topics. Ensure that all participants are aware of the form's purpose and provide their informed consent before proceeding.</thinking>
-
 # Art Based Prejudice Evaluation - Help Guide
 ## Purpose
 The Art Based Prejudice Evaluation form is designed to assess an individual's reaction to and perception of an artwork, specifically in relation to prejudice and stereotypes.

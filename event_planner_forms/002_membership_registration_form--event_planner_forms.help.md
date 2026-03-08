@@ -1,9 +1,3 @@
-<thinking>... (this is an internal review block to ensure the form is correctly understood and its purpose is clear)
-
-To avoid duplication and ensure that users understand the purpose and requirements of the Membership Registration Form, let's clarify its purpose: this form is designed to collect basic membership information from individuals who want to register for membership in an event or a community. The form is meant to collect the user's first name, last name, email address, and phone number.
-
-</thinking>
-
 # Membership Registration Form - Help Guide
 ## Purpose
 The Membership Registration Form is designed to collect basic information from individuals who want to register for membership in an event or a community.

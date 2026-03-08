@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from wedding attendees, including their names, contact information, and RSVP status. The form is likely used to track attendance and gather details for wedding planning and organization purposes. It's assumed that the form is being used in an internal wedding planning process, and the collected data will be used to update the wedding guest list and track RSVPs.
-
-</thinking>
-
 # Wedding Attendance - Help Guide
 ## Purpose
 The Wedding Attendance form is used to collect information from wedding attendees, including their names, contact information, and RSVP status.

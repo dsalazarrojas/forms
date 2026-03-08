@@ -1,9 +1,3 @@
-<thinking>
-To determine the purpose of this form, we can infer that it's used to collect information related to the evaluation of dental employees. The form is likely used by managers or supervisors to assess the performance of dental employees, providing a systematic way to gather data on their skills, strengths, and areas for improvement. This form is probably used in a work environment where employee evaluations are a regular occurrence.
-The form has multiple pages, which suggests that it's designed to collect various types of information, such as general information about the employee, specific details about the employee's work, and evaluation scales to rate their performance. The presence of fields like "Recommended Treatment" and "Evaluation Scale" suggests that the form is used to provide feedback and suggestions for improvement.
-Given the structure of the form, it's unlikely that it's intended for internal use only, as it seems to be designed for users who are not familiar with the form's purpose or fields. Therefore, it's essential to provide clear explanations for each field to ensure users understand what's expected of them.
-</thinking>
-
 # dental_employee_evaluation_form - Help Guide
 ## Purpose
 This form is designed to collect information related to the evaluation of dental employees. It's intended to provide a systematic way to gather data on their skills, strengths, and areas for improvement. The form is likely used by managers or supervisors to assess employee performance.

@@ -1,6 +1,3 @@
-<thinking>
-This form is for gathering feedback from attendees of an open house event hosted by a real estate agent. The purpose of this form is to collect information about the attendees' experiences and opinions about the open house, which will help the real estate agent improve future events and provide better service to potential clients. To ensure the form is filled out correctly, attendees should answer the questions as truthfully and thoroughly as possible. Please review the form carefully before submitting it, and make sure to fill it out in its entirety. The form is a critical part of providing feedback to the real estate agent, and your responses will help them make informed decisions about future events and improve their services.</thinking>
-
 # Open House Check Out Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from attendees of an open house event hosted by a real estate agent. The feedback will be used to improve future events and provide better service to potential clients.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is a tool for event planners to provide notice to their attendees, stakeholders, and venues in the event of an event cancellation. It's a straightforward way to keep everyone informed and up-to-date about changes to the event schedule. This form is not affiliated with any form platforms, but an original adaptation created using AI.
-
-It's essential to use this form to minimize misunderstandings and miscommunications that can arise when events are cancelled, postponed, or rescheduled. This form helps ensure that all relevant parties receive the necessary information to adjust their plans accordingly.
-
-Before proceeding, ensure that you have the necessary information and approvals to complete this form accurately and promptly.
-
-</thinking>
-
 # event-cancellation-notice - Help Guide
 ## Purpose
 The "event-cancellation-notice" form is designed to provide notice to attendees, stakeholders, and venues in the event of an event cancellation, postponement, or rescheduling.

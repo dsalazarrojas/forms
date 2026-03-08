@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information from participants who want to register for the Resilience Building training program. The form is meant to gather essential details about each participant, including their workshop preferences, name, contact information, and dates of participation. This information will be used to facilitate a smooth and personalized experience for each participant.
 
 ## Resilience Building Training Registration Form - Help Guide

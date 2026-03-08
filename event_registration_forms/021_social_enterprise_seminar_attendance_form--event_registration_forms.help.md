@@ -1,7 +1,3 @@
-<thinking>
-This form is used to record attendance information for a social enterprise seminar. The form is intended to be completed by attendees to confirm their participation in the event. Each field is designed to capture specific details about the attendee, such as contact information, seminar registration, and event details. Please ensure that you are using this form for its intended purpose and not duplicating your attendance in other forms. If you are unsure about the form's purpose or have questions, please reach out to the event organizers.
-</thinking>
-
 # Social Enterprise Seminar Attendance Form - Help Guide
 ## Purpose
 This form is used to record attendance information for a social enterprise seminar.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from coordinators for a corporate conference. The fields in this form are intended to gather essential details for the conference's planning and execution. It is essential to fill out this form accurately to ensure that the conference organizers receive the necessary information to manage the event smoothly.
-
-</thinking>
-
 # Corporate Conference Coordinator Registration - Help Guide
 ## Purpose
 This form is intended for corporate conference coordinators to provide their details, which will be used to manage the conference's logistics and communication.

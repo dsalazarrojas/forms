@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for Kickball Waiver Form, a document that players must complete before participating in a kickball game. The purpose of this form is to gather essential information from players, including their contact details and waiver consent. This form is intended for players to provide their personal data and consent for participation in the kickball game.
-</thinking>
-
 # Kickball Waiver Form - Help Guide
 ## Purpose
 The Kickball Waiver Form is used to collect player information and waiver consent for participation in a kickball game. It is essential for us to have this information to ensure a safe and enjoyable experience for all players.

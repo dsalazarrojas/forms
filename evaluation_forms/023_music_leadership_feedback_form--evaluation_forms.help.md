@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from students, peers, or superiors on the leadership qualities and effectiveness of music leaders, such as directors, instructors, or conductors. This form helps to evaluate the music leader's ability to inspire confidence, foster creativity, develop skills, and exhibit clear and concise communication, a strong sense of organization, and positive leadership. This feedback will help the music leader improve their leadership skills and provide a more effective and inspiring musical experience for students.
-Before you start, please note that some fields are optional and some are required. This form is designed to be completed by one person at a time, so please provide feedback based on your personal experience and interaction with the music leader.
-</thinking>
-
 # Music Leadership Feedback Form - Help Guide
 ## Purpose
 

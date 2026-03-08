@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a registration form for an event, likely used for attendees, speakers, or sponsors to provide information and complete a payment transaction.
-</thinking>
-
 # Event Registration Form With Sofort Payment Method - Help Guide
 
 ## Purpose

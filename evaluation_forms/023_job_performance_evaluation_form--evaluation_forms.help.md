@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide is for users to evaluate the performance of employees on their job, providing a structured template to assess and document their work. This form is designed to be used by HR managers, supervisors, and team leaders to gather feedback and ratings on an employee's performance during a specific period. The form should not be used for duplicate evaluations, as this can lead to confusion and inaccuracies in performance tracking.
 
 <markdown>

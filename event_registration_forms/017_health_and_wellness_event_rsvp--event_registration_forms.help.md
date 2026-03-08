@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect RSVP information for a health and wellness event. 
-It is meant to be a simple and straightforward way to gather essential details from attendees. 
-The form includes fields for event date, guest name, email, dietary restrictions, preferred language, RSVP type, and special notes. 
-Please ensure that the fields are completed accurately and thoroughly to provide the best experience for the event organizers.
-</thinking>
-
 # Health And Wellness Event RSVP - Help Guide
 ## Purpose
 This form is designed to collect RSVP information from guests attending a health and wellness event. It helps event organizers gather essential details, ensuring a smooth and enjoyable experience for all attendees.

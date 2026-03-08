@@ -1,7 +1,3 @@
-<thinking>
-Please note that this form is used for registering for the Sponsor Briefing Breakfast event. It is designed to collect information from sponsors about their event name, details, and dietary preferences. This form is only necessary for sponsors who are attending the event. The event date is also included in the form for reference purposes.
-</thinking>
-
 # Sponsor Briefing Breakfast RSVP Form - Help Guide
 ## Purpose
 The Sponsor Briefing Breakfast RSVP Form is used to register sponsors who are attending the event.

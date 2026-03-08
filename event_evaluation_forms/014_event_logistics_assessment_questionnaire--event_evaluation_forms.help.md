@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect event logistics information for assessments and evaluations. This form is likely used by event organizers or coordinators to document and evaluate key details about an event, such as its title, start and end dates, location, number of attendees, budget, type, status, venue description, communication plan, and evaluation criteria. This form may be used for internal purposes within an organization or for external reporting. 
-
-Before completing this form, please ensure you have all the necessary information ready to provide accurate and complete responses.
-
-</thinking>
-
 # Event Logistics Assessment Questionnaire - Help Guide
 ## Purpose
 This form is used to collect and document event logistics information for assessments and evaluations.

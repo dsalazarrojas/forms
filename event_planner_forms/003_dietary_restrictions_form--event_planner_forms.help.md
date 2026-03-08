@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect information about an individual's dietary restrictions and preferences. This includes allergies, food restrictions, and meal preferences. The form is designed to be used in various settings, such as restaurants, food establishments, or healthcare facilities, to ensure that the individual's dietary needs are met. 
-
-This form will be used in conjunction with other form data to analyze and generate reports on dietary patterns and preferences. The form does not collect any sensitive or personal data that could be considered sensitive or protected.
-
-To avoid duplication of efforts, this form is designed to be filled out once per individual, and the data will be stored and referenced for future use.
-</thinking>
-
 # Dietary Restrictions Form - Help Guide
 ## Purpose
 

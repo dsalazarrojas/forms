@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's make sure you're in the right context and that you're not duplicating effort. This form is intended for the Thrivers Society Digital Consultation Template, and it's meant to help us better understand your needs and preferences. Please ensure that you're using this template for its intended purpose and that you're not filling it out if you've already completed a similar form. If you have any questions or concerns, feel free to reach out to us for assistance.</thinking>
-
 # Thrivers Society Digital Consultation Template - Help Guide
 ## Purpose
 The Thrivers Society Digital Consultation Template is a tool designed to gather information from clients to provide them with better digital consultation services. This form will help us understand your specific needs and preferences, allowing us to tailor our support to your requirements.

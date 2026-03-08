@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to evaluate the effectiveness of the virtual health awareness program. It gathers information about the participant's background, session attendance, outcomes, satisfaction, and future programs. The form is optional and does not require any specific answers. It will be useful for program organizers to understand the program's strengths, weaknesses, and areas for improvement.
-</thinking>
-
 # Virtual Health Awareness Program Evaluation - Help Guide
 ## Purpose
 This form is intended to gather feedback from participants about their experience with the virtual health awareness program. It will help program organizers understand the program's effectiveness and identify areas for improvement.

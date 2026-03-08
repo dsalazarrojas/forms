@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information for telescope reservation requests. The form is intended for observers and users who want to reserve a telescope for specific dates and times. It is essential to fill out this form accurately to ensure that the observatory can process the request correctly. Before submitting the form, make sure to review it carefully and ensure that all required fields are filled in.
-
-The form is used to collect information for telescope reservations, and it is crucial to understand that the observatory has limited resources and scheduling constraints. Completing the form correctly will help the observatory manage these limitations and ensure that the requested resources are available.
-
-To complete this form, the user is required to fill in the following fields: Observatory Name, Start Date, End Date, Observer Name, Reservation Time, Equipment Preferences, Telescope Schedule, Reservation Details, School Name (if applicable), Contact Email, Contact Phone, and Assigned Telescope. Each field has a specific purpose, and the user must understand the intent behind each field to complete the form correctly.
-</thinking>
-
 # Telescope Reservation Request - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to register for church events, such as festivals, camps, retreats, and other activities. The form collects participant information, event preferences, and contact details. To ensure accurate and relevant data collection, the form should only be used for specific events, and users should not register for events they are not attending. This guide will walk through each field and its purpose to help users complete the form correctly.
-</thinking>
-
 # Church Event Registration Form - Help Guide
 
 ## Purpose

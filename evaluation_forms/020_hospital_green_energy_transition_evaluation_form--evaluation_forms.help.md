@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a comprehensive tool for evaluating a hospital's transition to green energy. The purpose of this form is to help hospitals assess their current state of sustainability and identify areas for improvement. The form should only be filled out once every 2-3 years to avoid duplication of effort. If you have already filled this form out in the past, please review your previous responses and update any changes. If this is a new evaluation, please answer each section with as much detail as possible.
-</thinking>
-
 # Hospital Green Energy Transition Evaluation Form - Help Guide
 ## Purpose
 The Hospital Green Energy Transition Evaluation Form is a tool designed to help hospitals assess their progress towards a more sustainable future. This form will guide you through a comprehensive evaluation of your hospital's current state of sustainability, identifying areas for improvement and providing a baseline for future progress.

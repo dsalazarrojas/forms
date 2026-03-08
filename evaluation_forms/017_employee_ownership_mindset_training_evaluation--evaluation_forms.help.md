@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to gauge the effectiveness of the Employee Ownership Mindset Training Evaluation, which likely assesses participants' perceptions and experiences with the training program. This form might be used by trainers, training coordinators, or other relevant personnel to gather feedback and insights that can inform improvements to the training program. Before starting, ensure you have not previously completed this form or similar ones, as the purpose is to collect new, unique feedback.</thinking>
-
 # Employee Ownership Mindset Training Evaluation - Help Guide
 ## Purpose
 The Employee Ownership Mindset Training Evaluation form is designed to collect feedback on the effectiveness of the training program. Your responses will help us understand your experiences and perceptions, which will inform improvements to the training.

@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback and evaluations on various aspects of a process, such as workflows, collaboration, communication, and potential areas for improvement. It appears to be a multi-page form, with each page covering a different section of the process. The form seems to be designed for internal use, likely within an organization, and may be used to gauge the effectiveness of the process, identify bottlenecks, and gather suggestions for enhancements.
-
-It's worth noting that the form is quite general and doesn't seem to have any specific business logic or proprietary elements. However, this form may not be suitable for very large-scale or complex processes.
-
-</thinking>
-
 # Process Effectiveness Evaluation Survey - Help Guide
 ## Purpose
 This survey is designed to evaluate the effectiveness of a process. It has 10 sections, each covering a different aspect of the process.

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to evaluate the effectiveness of coaching sessions, specifically assessing the coach's performance and areas for improvement. The form is used by observers (trainers, supervisors, or peers) to evaluate the coaching skills and techniques demonstrated by coaches, identifying strengths and weaknesses to help them grow professionally. By completing this form, observers can provide constructive feedback, suggest areas for improvement, and help coaches develop into more effective coaching practitioners.
-
-Before starting, please verify that:
-- The coaching session has occurred.
-- You are familiar with the coach being observed and have the necessary context (e.g., session objectives).
-- You have a clear understanding of the form fields and their purpose.
-
-Please complete the form with accurate and honest feedback, using the provided options as a guide. If a particular aspect of the session was not observed or rated, simply leave the field blank.
-</thinking>
-
 # Coaching Observation Form - Help Guide
 ## Purpose
 The Coaching Observation Form is designed to evaluate the performance of coaches during sessions, identifying strengths and areas for improvement. It helps coaches grow professionally by providing constructive feedback and suggestions for development.

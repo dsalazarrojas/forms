@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect user input for a focus group appointment, likely for a meeting, training, or event where users can provide their information, select a time slot, and provide feedback or any additional comments. The fields are designed to be minimal and user-friendly. This form is likely part of a larger application or system for managing appointments and events. Please ensure you are filling out this form for the correct purpose and within the context of your account or organization.
-</thinking>
-
 # focus_group_appointment_form - Help Guide
 ## Purpose
 This form is designed to collect user information and preferences for a focus group appointment. It is intended to be completed by users who wish to participate in a meeting or event.

@@ -1,13 +1,3 @@
-<thinking>
-To evaluate the relevance and reliability of a source, the "Evaluation Of Relevance And Reliability" form collects information from the source owner or manager to help make informed decisions. This form is part of the evaluation process, and it is crucial to fill it out thoroughly and accurately to avoid duplication of efforts.
-
-The form is divided into several sections, each focusing on a specific aspect of the source's evaluation. The first part collects general information about the source, while the second part provides more specific ratings and comments. It is essential to fill out the form in a way that clearly communicates your assessment of the source's relevance and reliability.
-
-The form's fields are designed to gather comprehensive data about the source's quality, making it easier to identify its strengths and weaknesses. By filling out the form accurately and completely, you will ensure that your evaluation is comprehensive and reliable.
-
-Please ensure that you fill out the form once for each source, avoiding duplication of efforts. If you need to update a source, you can do so by revisiting the form and making changes as needed.
-</thinking>
-
 # Evaluation Of Relevance And Reliability - Help Guide
 ## Purpose
 The purpose of this form is to help evaluate the relevance and reliability of a source.

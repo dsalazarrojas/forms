@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help customers understand the purpose and requirements of the Christmas DIY Kits Pre Order Form. The form is designed to collect essential information from customers before processing their pre-orders, ensuring accurate shipping and delivery of the DIY kits. By following this guide, customers will be able to navigate the form efficiently and provide the necessary details for their order. 
-</thinking>
-
 # Christmas DIY Kits Pre Order Form - Help Guide
 ## Purpose
 The Christmas DIY Kits Pre Order Form is designed for customers to pre-order their DIY kits for the holiday season. The form collects essential information to ensure accurate shipping and delivery of the kits.

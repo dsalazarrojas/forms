@@ -1,12 +1,3 @@
-<thinking>
-We need to ensure that the form is properly understood by end-users, and that we're not missing any important information. The form is for registering a team for a cultural folk dance tournament. The purpose of this form is to gather essential details about the team, including team name, team category, team leader's contact information, number of participants, dance style, entry date and time, team description, registration and confirmation status, number of entries, team dance styles, and team dance form.
-
-To avoid duplication, we should check if a team is already registered and display a message to users if they try to register the same team again.
-
-Before we start, we need to make sure that all fields are properly filled in and that the team category and dance style are consistent.
-
-</thinking>
-
 # Cultural Folk Dance Tournament Entry Form - Help Guide
 ## Purpose
 This form is for registering a team for a cultural folk dance tournament. It is essential to fill out all required fields to ensure that your team's registration is complete and accurate.

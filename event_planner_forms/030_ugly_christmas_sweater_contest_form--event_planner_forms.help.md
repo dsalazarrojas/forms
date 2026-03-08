@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect user input for an "Ugly Christmas Sweater Contest". The form likely exists within a web or mobile application, allowing users to participate in or vote on the contest by selecting categories and voting for their favorite participants. This form is intended to gather information on the user's preferences for different categories (e.g., "Ugly Sweater", "Best Use of Lights", etc.) and allow them to cast their vote for the best participant in each category. The form is likely used during the holiday season, specifically around Christmas.
-</thinking>
-
 # Ugly Christmas Sweater Contest Form - Help Guide
 ## Purpose
 The Ugly Christmas Sweater Contest Form is used to collect user input for a festive holiday contest. It allows users to participate in the contest by selecting categories and voting for their favorite participants.

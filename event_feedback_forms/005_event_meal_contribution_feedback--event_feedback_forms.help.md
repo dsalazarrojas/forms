@@ -1,14 +1,3 @@
-<thinking>
-This form is likely used by organizers or volunteers at events to collect feedback from individuals who were fed at the event. The feedback will likely include ratings of the quality of the meal, the quantity of guests they fed, and other details like the date and time of the event. This form might also collect future meal contribution interests and other relevant information. It should be filled out by the person who was fed after the event, and the form's purpose is likely to help the organizers or volunteers improve their service.
-
-The form is designed to collect information from the person who was fed, including their ratings of the quality of the meal, the quantity of guests they fed, and other details like the date and time of the event. This form is likely to help the organizers or volunteers improve their service and make better decisions in the future.
-
-To ensure that the feedback is accurate and helpful, the form should only be filled out by the person who was actually fed at the event, and not by anyone else.
-
-Please note that the form is not meant to be filled out by people who were not fed at the event.
-
-</thinking>
-
 # Event Meal Contribution Feedback - Help Guide
 
 ## Purpose

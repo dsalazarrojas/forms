@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nonprofit Nominee Evaluation Survey - Help Guide
 
 ## Purpose

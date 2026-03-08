@@ -1,6 +1,3 @@
-<thinking>
-We're checking if the form purpose is clear and the fields are well-defined. The form is meant to collect scheduling setup and customer notification information. Each field is designed to collect relevant information from the customer. Let's review the form schema to ensure it makes sense and is easy to understand for end-users. We'll provide a clear and concise help guide that explains the form's purpose, how to complete it, and what each field means.</thinking>
-
 # scheduling_setup_and_customer_notification_form - Help Guide
 ## Purpose
 This form is designed to collect customer information and schedule setup details for a specific event or appointment. It includes fields for customer contact information, appointment preferences, and scheduling details.

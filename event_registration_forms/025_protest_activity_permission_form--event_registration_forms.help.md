@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals participating in protest activities, such as marches, rallies, and other forms of demonstrations. The form aims to gather data on the participant's involvement in the protest, including their level of participation, emergency contact information, and agreement to terms. This form is intended for internal use within an organization or group, and the information collected will help them better understand and respond to the needs of their members or participants.
-</thinking>
-
 # Protest Activity Permission Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from individuals participating in protest activities, including marches, rallies, and other forms of demonstrations.

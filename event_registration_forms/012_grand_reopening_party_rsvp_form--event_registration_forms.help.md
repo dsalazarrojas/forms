@@ -1,18 +1,3 @@
-<thinking>
-
-This is a form for registering guests for a Grand Reopening Party. The form is designed to gather information about each guest, including their name, contact information, and preferences for food and drinks. The form is used to help the party host plan the event and ensure that all guests have the necessary information to RSVP and make any special requests.
-
-The form is intended to be completed by each guest individually, and their responses will be shared with the party host. The form includes fields for:
-
-* Guest information (name, email, phone number)
-* RSVP information (date, time, attending status)
-* Party preferences (food and drink options)
-* Additional comments and special requests
-
-This form is only intended for guests who are registering for the Grand Reopening Party. If you have already submitted a response, please do not complete this form again.
-
-</thinking>
-
 # Grand Reopening Party RSVP Form - Help Guide
 ## Purpose
 

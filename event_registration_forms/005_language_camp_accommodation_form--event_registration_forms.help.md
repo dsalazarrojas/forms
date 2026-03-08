@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from participants attending a language camp, which includes details about the participant's accommodation preferences, arrival and departure dates, type of participant, and contact information.
-
-To ensure consistency and accuracy in the responses, we'll be checking for duplication and relevance before processing the form.
-
-</thinking>
-
 # Language Camp Accommodation Form - Help Guide
 ## Purpose
 This form is designed to collect information from participants attending a language camp, which includes details about their accommodation preferences, arrival and departure dates, type of participant, and contact information.

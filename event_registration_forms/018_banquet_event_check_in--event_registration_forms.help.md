@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Banquet Event Check In - Help Guide
 
 ## Purpose

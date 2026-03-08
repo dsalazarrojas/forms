@@ -1,9 +1,3 @@
-<thinking>
-This form is for registering attendees for an outdoor fitness meetup. It's designed to gather information about the attendee's preferences and details for the event. The purpose of this form is to ensure that the attendee has the necessary information for a smooth and enjoyable experience at the meetup.
-The form is used by event organizers and administrators to collect data that will help them plan and execute the event accordingly.
-Before proceeding, ensure that you have the required permissions and clearance to access the form's submitted data.
-</thinking>
-
 # Outdoor Fitness Meetup Registration Form - Help Guide
 ## Purpose
 The Outdoor Fitness Meetup Registration Form is designed for registering attendees for an outdoor fitness meetup. It gathers information about the attendee's preferences and details for the event to ensure a smooth and enjoyable experience.

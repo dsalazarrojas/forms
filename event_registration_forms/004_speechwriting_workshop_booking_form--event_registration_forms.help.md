@@ -1,25 +1,3 @@
-<thinking>
-
-This form is used for end-users to book and register for a workshop on speechwriting. It captures essential information such as name, contact details, language preference, and workshop-specific details like date, time, and duration. The form is required to be filled out by the end-user to ensure that we have accurate and complete information for workshop organization and execution.
-
-The form is used to collect data for:
-
-- First Name
-- Last Name
-- Email
-- Phone
-- Date of Birth
-- Preferred Language
-- Workshop ID
-- Workshop Date
-- Workshop Time
-- Workshop Duration
-- Comments
-
-The form requires the following fields to be filled out: Email, Preferred Language, Workshop ID, Workshop Date, Workshop Time, and Workshop Duration.
-
-</thinking>
-
 # Speechwriting Workshop Booking Form - Help Guide
 ## Purpose
 The Speechwriting Workshop Booking Form is used to register for a workshop on speechwriting. It is required to be filled out by end-users to provide essential information for workshop organization and execution.

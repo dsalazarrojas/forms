@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Temporary Accommodation Request Form - Help Guide
 
 ## Purpose

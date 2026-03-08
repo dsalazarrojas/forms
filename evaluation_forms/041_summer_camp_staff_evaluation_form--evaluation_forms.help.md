@@ -1,8 +1,3 @@
-<thinking>
-This form is a staff evaluation form for summer camp staff members. Its purpose is to collect feedback and evaluation data on a camper's performance during the camp session. The form should only be completed by authorized personnel and not by the camp staff themselves. This ensures that the camper's experience is evaluated objectively and in a constructive manner.
-
-</thinking>
-
 # summer_camp_staff_evaluation_form - Help Guide
 ## Purpose
 This form is used by authorized personnel to evaluate a camper's performance during a summer camp session.

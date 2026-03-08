@@ -1,7 +1,3 @@
-<thinking>
-The Karaoke Registration Form is used to gather information from registrants about their participation in a Karaoke event. The form will be used to capture the required details of each registrant, such as their name, email, phone number (optional), event date, and event time. This form should only be used for events specifically designed for Karaoke and not for other purposes. Please ensure that you are using this form for the correct event type to avoid confusion.
-</thinking>
-
 # Karaoke Registration Form - Help Guide
 ## Purpose
 The Karaoke Registration Form is designed to collect information from registrants for a Karaoke event. It is essential to complete this form accurately to ensure that the event organizers have the necessary details for event management.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about signage requirements for events. The purpose of this form is to gather details about upcoming events that need signage. It is not intended for internal use, but for external event organizers and participants. Please ensure that all fields are accurate and up-to-date before submitting the form.
-</thinking>
-
 # Signage Requisition Form - Help Guide
 ## Purpose
 The Signage Requisition Form is a tool used to collect information about events that need signage. The form helps event organizers and participants request signage support from the internal signage team.

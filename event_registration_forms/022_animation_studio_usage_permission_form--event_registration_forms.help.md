@@ -1,7 +1,3 @@
-<thinking>
-We will create a help guide for the Animation Studio Usage Permission Form, which is used to obtain usage permissions from clients for animations produced by the studio. This form will help clients to specify their intended use, how they want to be credited, and other permissions related to usage and distribution. The form is divided into several sections for easier understanding and completion.
-</thinking>
-
 # Animation Studio Usage Permission Form - Help Guide
 ## Purpose
 The Animation Studio Usage Permission Form is used to obtain usage permissions from clients for animations produced by the studio. This form helps to ensure that both parties have a clear understanding of how the animation will be used and by whom.

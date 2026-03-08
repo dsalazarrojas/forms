@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Visitor Liability Waiver - Help Guide
 ## Purpose
 This form is used to collect information from visitors who will be on-site at a business or organization. The form is used to gather general contact information, visitor type, visit details, and emergency contact information.

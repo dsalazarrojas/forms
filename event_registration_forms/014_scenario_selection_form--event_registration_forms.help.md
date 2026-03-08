@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide for the "scenario_selection_form" form.</thinking>
-
 # scenario_selection_form - Help Guide
 ## Purpose
 The "scenario_selection_form" is a form used to collect information from users. It is designed to gather data for events and scenarios, and is intended for use in various contexts, such as event planning and scenario development.

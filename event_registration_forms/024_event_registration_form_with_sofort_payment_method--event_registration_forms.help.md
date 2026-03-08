@@ -1,5 +1,3 @@
-<thinking>As the form designer and technical writer, I will ensure that the help guide is clear, concise, and practical for the end users to understand the purpose and usage of the form.</thinking>
-
 # Event Registration Form With Sofort Payment Method - Help Guide
 ## Purpose
 This form is designed to collect information for event registration, including participant details and payment method preferences. It is intended for participants to register for an event and choose their preferred payment method, such as Sofort, PayPal, or Stripe. This form helps event organizers to efficiently collect the required information for event management.

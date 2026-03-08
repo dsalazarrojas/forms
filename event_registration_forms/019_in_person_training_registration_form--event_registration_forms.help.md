@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## In Person Training Registration Form - Help Guide
 ## Purpose
 The In Person Training Registration Form is used to collect information from participants who will be attending an in-person training session. This form helps us to track the details of the attendees and their preferences for the training session, such as participating in the session, providing their name, contact details, and any notes they may have.

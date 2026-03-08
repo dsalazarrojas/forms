@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture feedback from patrons after attending a virtual event. It's intended to help us understand their experience and identify areas for improvement. Please ensure you only complete this form if you have attended the virtual event. If you have any technical issues or concerns, please don't hesitate to reach out to us. We'll use this feedback to refine our event planning and delivery.
-</thinking>
-
 # Virtual Event Patron Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from patrons after attending a virtual event. The information provided will help us understand your experience and identify areas for improvement.

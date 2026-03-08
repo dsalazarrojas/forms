@@ -1,13 +1,3 @@
-<thinking>
-
-This form appears to be designed for equine massage evaluations, where the purpose is to gather information from the owner about the equine massage session. The fields seem to be a mix of text fields for notes and a select_one field for the evaluation outcome. The form likely serves as a means to document the session, gather feedback from the owner, and potentially schedule follow-up actions or appointments.
-
-The form fields seem to be focused on capturing the essential information for equine massage evaluations, such as the owner's consent, name, and evaluation notes, as well as the outcome of the session. The follow-up fields may be used to schedule additional sessions or appointments if necessary.
-
-To confirm, the purpose and structure of this form appear to be focused on equine massage evaluations, which is consistent with the "evaluation_forms" category.
-
-</thinking>
-
 # Equine Massage Evaluation Form - Help Guide
 ## Purpose
 This form is designed to capture information from equine massage owners about their session. It includes fields to gather feedback, document the session, and potentially schedule follow-up actions or appointments.

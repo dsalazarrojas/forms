@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed for retail employees to register for the Retail Operations Efficiency Course, a training program that aims to improve their operational skills and knowledge. The purpose of this form is to collect relevant information from users to facilitate the registration process.
 
 To ensure that each user has a seamless experience, this form should only be used for its intended purpose. Duplicate submissions are discouraged and may lead to errors in course enrollment and attendance.

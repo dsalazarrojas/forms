@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from forensic nursing professionals for continuing education purposes, likely for certification or professional development. This form will help track individual progress and completion of required courses and training. It's essential to ensure that the information provided is accurate and up-to-date to avoid duplication of efforts. Before proceeding, please review the form carefully to fill in all required fields correctly.
-</thinking>
-
 # Forensic Nursing Continuing Education - Help Guide
 ## Purpose
 This form is designed to collect information from forensic nursing professionals for continuing education purposes. It's intended to track individual progress and completion of required courses and training.

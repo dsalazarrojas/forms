@@ -1,11 +1,3 @@
-<thinking>
-**Purpose:** 
-This form is designed to help you conduct a SWOT (Strengths, Weaknesses, Opportunities, Threats) analysis for your food resource. A SWOT analysis is a framework used to identify the key factors that can impact your food resource, including internal (strengths and weaknesses) and external (opportunities and threats) factors. This analysis will help you identify areas of improvement and potential areas of growth for your food resource.
-
-**Non-duplication check**: Ensure that you are not already aware of the internal and external factors affecting your food resource. This form will help you gather and systematize your knowledge, so make sure you are ready to think critically about your food resource's current situation.
-
-</thinking>
-
 # Food Resource SWOT Analysis - Help Guide
 ## Purpose
 The Food Resource SWOT Analysis form is a tool for identifying and analyzing the key factors that can impact your food resource. It's used to assess the current situation, opportunities, and potential threats of your food resource.

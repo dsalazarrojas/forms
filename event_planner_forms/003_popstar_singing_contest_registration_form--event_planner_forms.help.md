@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a Popstar Singing Contest, a competition that likely takes place in the music industry. To verify, the form title "Popstar Singing Contest Registration Form" and the field types such as "Contestant Name", "Song Title", and "Song File" hint at the context. The fields provided cover basic contestant information, song details, and event scheduling, suggesting this form is for contestants or artists to register for the competition. No proprietary data collection platforms are mentioned, and the form is AI-generated using only public survey topic metadata, indicating this is an original form creation. The CC BY 4.0 license allows for free use, modification, and even commercial use as long as credit is given. 
-
-</thinking>
 # Popstar Singing Contest Registration Form - Help Guide
 
 ## Purpose

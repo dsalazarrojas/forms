@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect feedback from employees on the end-of-year party organized by the company. The form will help the party planning committee understand what kind of party theme, music, and food options employees would enjoy the most, as well as gather information on the event location, date and time, and any additional feedback or comments employees may have. It is essential to fill out this form to ensure the party is enjoyable for all employees and to identify areas for improvement. Please note that you will only be able to access this form if you are an authorized user and the form will not be duplicated or shared with unauthorized users.</thinking>
-
 # end_of_year_party_feedback_form - Help Guide
 
 ## Purpose

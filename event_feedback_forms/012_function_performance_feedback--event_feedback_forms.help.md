@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Function Performance Feedback - Help Guide
 ## Purpose
 This form is intended for users to provide feedback on the performance of functions provided by our organization. It is used to collect feedback on how well we meet the needs and expectations of our customers. By filling out this form, users can help us identify areas for improvement and provide input on how we can better serve them.

@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information from participants for the Glow Themed Camp, ensuring that each participant's experience is enjoyable and safe. To avoid duplication, please check with the camp organizers if you've already registered for the same event or a similar event within the past 3 months. If you're a returning participant, please fill out as much information as possible to help us update your previous records. Please note that some fields are not required but are optional and may help us personalize your experience.
-
-</thinking>
-
 # Glow Themed Camp Registration Form - Help Guide
 ## Purpose
 This form is designed to collect participant information and preferences for the Glow Themed Camp.

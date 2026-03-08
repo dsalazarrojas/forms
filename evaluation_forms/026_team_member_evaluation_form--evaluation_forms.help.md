@@ -1,9 +1,3 @@
-<thinking>...thinking>
-
-This form is a crucial tool for team evaluation and performance assessment. The purpose of this form is to gather feedback from evaluators on team members' performance, providing a structured and objective evaluation process. The form is designed to collect information from both the evaluator and the team member being evaluated, ensuring that both parties have a chance to express their opinions and comments. This form is typically used in a team setting where team members need to be evaluated on their performance, contributions, and overall fit within the team. By using this form, team leaders and managers can make informed decisions about promotions, training, and development opportunities.
-
-</thinking>
-
 # Team Member Evaluation Form - Help Guide
 ## Purpose
 The Team Member Evaluation Form is a tool used to gather feedback from evaluators on team members' performance, providing a structured and objective evaluation process. This form helps team leaders and managers make informed decisions about team members' growth and development.

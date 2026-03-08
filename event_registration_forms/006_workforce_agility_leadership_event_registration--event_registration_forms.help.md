@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in attending a specific event. The form allows users to select whether they will attend the event ("Yes" or "No"), and if they will attend with attendees ("Yes" or "No"). Users can also indicate their session interests ("Yes" or "No") and preferences ("Yes" or "No"). The form includes fields for user's name, email, phone number, date of birth, session preferences, and note. It also asks for session name, date, time, location, event name, event date, event time, and event location. 
-The form is intended for event organizers to collect data on attendees' preferences, interests, and attendance plans. The purpose of the form is to help event organizers prepare for the event by gathering relevant information from potential attendees. 
-Please make sure to review the form carefully before submitting to ensure all required fields are filled in.
-</thinking>
-
 # Workforce Agility Leadership Event Registration - Help Guide
 ## Purpose
 This form is designed to collect information from individuals interested in attending an event organized by Workforce Agility Leadership. It is intended for event organizers to gather relevant information on attendees' preferences, interests, and attendance plans.

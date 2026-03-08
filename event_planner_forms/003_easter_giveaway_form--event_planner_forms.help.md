@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect user information and preferences for an Easter giveaway event. The purpose of this form is to allow users to submit their contact details and choose their preferred gifts. This information will be used to manage the giveaway event logistics. It's essential to note that this form is not designed for general user data collection; it's specific to this event. Please ensure that the form is only shared with relevant audiences to prevent unnecessary user duplication.
-
-Before filling out this form, please check that you haven't already submitted information for this event. Duplicate submissions may lead to unnecessary processing and potential confusion.
-
-Please fill out this form carefully, as your input will be used to personalize the gift-giving experience.
-
-</thinking>
-
 # easter giveaway form - Help Guide
 ## Purpose
 This form is designed to collect user contact details and gift preferences for the Easter giveaway event. It's essential to submit accurate and relevant information to ensure a smooth and enjoyable experience for both you and our team.

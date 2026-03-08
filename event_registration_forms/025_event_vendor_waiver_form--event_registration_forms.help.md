@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from event vendors to obtain their waiver. The waiver is a legal document that protects the event organizers and their participants from potential liability. It is essential for event vendors to complete this form to ensure they are aware of and agree to the terms of the waiver. This form should not be completed by event participants, but rather by event vendors themselves. Please make sure to fill out this form carefully and accurately to avoid any issues.
-</thinking>
-
 # Event Vendor Waiver Form - Help Guide
 
 ## Purpose

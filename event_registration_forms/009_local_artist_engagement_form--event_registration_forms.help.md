@@ -1,7 +1,3 @@
-<thinking>
-This form is for local artists to register their engagement with our organization. This form allows artists to provide us with their contact information and event details. The purpose of this form is to ensure that we have accurate and up-to-date information about the artists and their upcoming events. This is important for communication and logistical purposes. 
-</thinking>
-
 # Local Artist Engagement Form - Help Guide
 ## Purpose
 The Local Artist Engagement Form is a document that helps us stay in touch with local artists and keep track of their upcoming events.

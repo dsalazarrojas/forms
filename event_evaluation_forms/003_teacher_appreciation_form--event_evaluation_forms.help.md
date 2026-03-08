@@ -1,7 +1,3 @@
-<thinking>
-This form is for expressing appreciation and evaluation of a teacher by students. The form asks for the teacher's name, title, and date, as well as specific details about the appreciation, such as the reason for the appreciation and the method of appreciation. The form also includes spaces for a message to the teacher and a message to the student. This form is used to capture feedback and appreciation from students, likely for the purpose of teacher appreciation, recognition, or evaluation purposes.
-</thinking>
-
 # teacher_appreciation_form - Help Guide
 ## Purpose
 This form is used to express appreciation and evaluation of a teacher, allowing students to provide feedback and recognition for the teacher's work.

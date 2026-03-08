@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Car Show Entry Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from attendees for a reunion event. It is intended for individuals who are interested in attending or registering their interest to attend the event. This form is used to gather details about the attendee, including their contact information, payment method, and event preferences. This is the main form used for registration. 
-
-</thinking>
-
 # Reunion Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from attendees for the reunion event. It includes fields for user contact information, event details, and payment methods.

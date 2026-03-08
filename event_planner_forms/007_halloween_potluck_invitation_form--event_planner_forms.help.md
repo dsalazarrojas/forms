@@ -1,9 +1,3 @@
-<thinking>...Internal reasoning for the form purpose and completion instructions...
-
-The form is designed to gather information from users regarding a Halloween potluck event. It is intended to be completed by individuals who will be attending the event and are willing to bring a dish to share. The form will be used to determine who is attending, what dishes to expect, and the date and time of the potluck. To complete the form, users will be asked to provide their contact information, RSVP status, the information about the dish they plan to bring, and the date and time they can attend. This guide will help users navigate the form efficiently and accurately.
-
-</thinking>
-
 # Halloween Potluck Invitation Form - Help Guide
 ## Purpose
 The Halloween Potluck Invitation Form is designed to gather information from attendees regarding a Halloween-themed potluck event. Please use this form to RSVP and share what dish you plan to bring.

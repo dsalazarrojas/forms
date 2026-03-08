@@ -1,5 +1,3 @@
-<thinking>Form purpose: This form is designed to collect feedback and interest from Chamber of Commerce members and stakeholders regarding the type of events they would like to see hosted by the Chamber. The goal is to understand their preferences for event frequency, format, and content to inform the Chamber's event planning and programming decisions. This form is intended for current Chamber members and is not a membership application or any other type of form. It is meant to be completed by those with a genuine interest in events hosted by the Chamber and who wish to provide valuable feedback to inform future events.</thinking>
-
 # Chamber Of Commerce Event Interest Poll - Help Guide
 ## Purpose
 This form collects feedback and interest from Chamber of Commerce members and stakeholders to inform event planning and programming decisions.

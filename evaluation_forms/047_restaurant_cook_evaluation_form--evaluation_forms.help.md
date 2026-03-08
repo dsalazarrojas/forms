@@ -1,6 +1,3 @@
-<thinking> 
-This form is likely used by restaurant management or quality control teams to evaluate the performance of their cooks. It assesses various aspects of a cook's work, such as food quality, service, and overall performance. The form is likely part of a larger quality control process used to identify strengths and weaknesses of each cook, providing valuable feedback for growth and improvement. This form's design suggests that the evaluation process is comprehensive, covering multiple aspects of a cook's performance, and allows for a detailed analysis of their skills and work habits. It's worth noting that the form seems to be focused on evaluating the cook's performance, but it also includes a few questions that might be better suited for evaluating the restaurant itself, such as the "Quality of Equipment" or "Quality of Management". It's possible that these fields are meant to be filled in by a different team or department within the restaurant. To be more accurate, it would be best to review the form with the intended users and stakeholders to confirm its purpose and usage. </thinking>
-
 # Restaurant Cook Evaluation Form - Help Guide
 ## Purpose
 This form is used by restaurant management or quality control teams to evaluate the performance of their cooks, assessing various aspects of their work.

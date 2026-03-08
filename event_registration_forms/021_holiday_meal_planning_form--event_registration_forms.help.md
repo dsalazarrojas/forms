@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to help users provide input on meal preferences, dietary restrictions, number of guests, and date of event for holiday meal planning. This form will guide users on how to input their information accurately to get the most out of their meal planning experience.
-</thinking>
-
 # holiday_meal_planning_form - Help Guide
 ## Purpose
 The holiday meal planning form is designed to gather information from users on their meal preferences, dietary restrictions, number of guests, and date of event. This information will be used to help plan and prepare the perfect holiday meal for the user.

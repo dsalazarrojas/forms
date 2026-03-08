@@ -1,5 +1,3 @@
-<thinking>Is this form used to evaluate the wellbeing and job satisfaction of the healthcare workforce? It appears to be designed to collect data on various aspects of job satisfaction, stress, and wellbeing, such as emotional and physical stress, team collaboration, leadership support, and work-life balance. This form is likely used to identify areas of improvement for employee wellbeing and job satisfaction. It's essential to ensure that the form is filled out honestly and thoroughly to provide accurate data. Please note that some fields seem to be duplicates (e.g., job satisfaction and job satisfaction 2), and it would be best to clarify which one to use or remove the duplicates.</thinking>
-
 # Healthcare Workforce Wellbeing Evaluation Form - Help Guide
 ## Purpose
 This form is designed to help evaluate the wellbeing and job satisfaction of the healthcare workforce. It asks questions about various aspects of work-related stress, collaboration, leadership support, and life satisfaction.

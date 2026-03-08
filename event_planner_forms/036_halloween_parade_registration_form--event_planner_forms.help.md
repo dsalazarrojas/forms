@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to support users in completing the Halloween Parade Registration Form. Before starting, ensure you understand the form's purpose and the information it requires. Please note that this form might be used for various purposes such as planning and coordination of events, participant registration, and tracking contact information. This form might be used by multiple teams or departments within the organization. If you have already submitted a form for the same event or participant, please do not resubmit. This will help us avoid duplicates and ensure that your information is accurately represented.
-</thinking>
-
 # Halloween Parade Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from participants and event organizers for the Halloween Parade. It helps us to plan and coordinate the event, keep in touch with participants, and ensure a smooth experience for all involved.

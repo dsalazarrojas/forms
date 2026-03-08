@@ -1,15 +1,3 @@
-<thinking>
-This form is intended for late entries or additions to existing skating competitions. It allows event organizers to collect necessary information from participants or their representatives, including details about the participant, their event, and contact information. To be eligible for late entry, the participant's age must be within the allowed range, and there are specific requirements for the event type and grade categories.
-
-The form is designed to be completed by participants or their representatives, but it can also be used by event organizers to enter participants on behalf of them.
-
-Note: This form is not intended for regular participant registrations, but rather for late entries or changes to existing registrations.
-
-Before proceeding, please ensure you are eligible for late entry and have reviewed the event rules and requirements.
-
-Also, please note that by completing this form, you are authorizing the participant to be entered into the competition.
-</thinking>
-
 # Skating Competition Late Entry Form - Help Guide
 ## Purpose
 The Skating Competition Late Entry Form is designed to allow participants or their representatives to enter or make changes to existing entries for a skating competition. It gathers necessary information for the event organizers, including participant details, event information, and contact information.

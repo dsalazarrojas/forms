@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to gather information from family members attending a reunion and allow them to order a personalized T-shirt with their chosen shirt size, color, and design. The form might also be used to collect contact information and additional details about the attendees. This form should be filled out by each family member attending the reunion to place their order. It's best to fill out one form per family member to ensure accurate and individualized orders.
-</thinking>
-
 # Family Reunion T Shirt Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from family members attending a family reunion to order personalized T-shirts. Each family member should fill out this form to place their order.

@@ -1,7 +1,3 @@
-<thinking>
-The Talent Hunt Form is a crucial tool used by event planners to gather information from potential candidates for available job openings. The form helps event planners to quickly and effectively collect necessary details from applicants. To ensure the best possible match between talent and events, it is essential to understand each field's purpose and requirements clearly.
-</thinking>
-
 # Talent Hunt Form - Help Guide
 ## Purpose
 The Talent Hunt Form is designed to collect information from potential candidates for available job openings. Event planners use this form to gather vital details from applicants that help them find the best-suited talent for their events.

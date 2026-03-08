@@ -1,7 +1,3 @@
-<thinking>
-The School Bus Driver Evaluation Form is used to evaluate the performance of school bus drivers. This form helps school administrators assess the driver's ability to safely transport students, manage traffic, and maintain a clean and organized vehicle. It also evaluates the driver's attitude, communication skills, and overall performance. This form is not a duplicate of other evaluation forms, but rather a specific assessment tool tailored to school bus drivers. It is intended to be completed by a supervisor or another authorized personnel, and is used to guide their assessment of the driver's performance. 
-
-</thinking>
 # School Bus Driver Evaluation Form - Help Guide
 ## Purpose
 The School Bus Driver Evaluation Form is used to assess the performance of school bus drivers in a specific period of time, evaluating their safety, management, and overall performance.

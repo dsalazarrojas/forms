@@ -1,12 +1,3 @@
-<thinking>
-This form is used for evaluating the performance of the Executive Director. Please make sure to understand the purpose and scope of this form before proceeding.
-
-To confirm, this form is for evaluating a specific Executive Director, and not for a general review of the team or department.
-
-If you have already evaluated this Executive Director in the past, please do not fill out this form again. Duplicate evaluations will not be processed.
-
-</thinking>
-
 # Executive Director Evaluation Form - Help Guide
 ## Purpose
 The Executive Director Evaluation Form is used to assess the performance of the Executive Director. This form provides a structured way to collect feedback and ratings from the Department Head or other relevant stakeholders.

@@ -1,12 +1,3 @@
-<thinking>
-We will first identify the purpose of the form, which is for registration on the Livestock Disease Prevention Forum. This form is likely used to collect information from users who want to participate in or attend an event related to livestock disease prevention, such as conferences, webinars, or workshops. The form is designed to collect basic contact information and preferences from users.
-
-Next, we will review the form fields and provide a detailed explanation for each one to ensure that end-users understand what is expected from them. This will help prevent errors and ensure that users complete the form accurately. We will also check for any potential issues such as form duplication or relevance to the event.
-
-After reviewing the form fields, we will create a concise and practical help guide to assist end-users in completing the form.
-
-</thinking>
-
 # Livestock Disease Prevention Forum Registration Form - Help Guide
 ## Purpose
 

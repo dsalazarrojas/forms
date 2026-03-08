@@ -1,11 +1,3 @@
-<thinking>
-
-This form will help reviewers assess the performance of their colleagues or team members, providing a comprehensive 360-degree view of their strengths, areas for improvement, and support needs. It is recommended that reviewers are familiar with the individual being reviewed and have a working relationship with them. Reviewers should not complete this form if they lack direct knowledge of the reviewee's work.
-
-To prevent any potential duplication of effort, please check that the 360 Degree Review Form has not been completed for the same reviewee within the past 6 months.
-
-</thinking>
-
 # 360 Degree Review Form - Help Guide
 ## Purpose
 The 360 Degree Review Form is a tool used to collect feedback from reviewers who have worked with or observed the performance of the reviewee. This form provides a comprehensive evaluation of the reviewee's overall performance, strengths, and areas for improvement.

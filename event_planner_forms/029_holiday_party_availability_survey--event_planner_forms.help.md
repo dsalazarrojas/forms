@@ -1,7 +1,3 @@
-<thinking>
-The form is intended for employees to provide their availability to attend a holiday party. It asks for the party date, party time, if they will attend, and any constraints or notes they may have. This information will be used to plan the party and ensure that the correct number of staff are attending. Please ensure that you fill this out accurately so that we can make the best decisions for the event.
-</thinking>
-
 # Holiday Party Availability Survey - Help Guide
 ## Purpose
 This form is used to help us plan the holiday party by gathering information about your availability to attend. Please fill out this form to let us know if you can join us and if so, what time you can come.

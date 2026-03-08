@@ -1,7 +1,3 @@
-<thinking>
-We will be using this form to create participant information for an event. The form is part of an event registration system and will be used by organizers to collect basic details about participants. To ensure that each participant's details are correctly and efficiently processed, please complete this form accurately and thoroughly.
-</thinking>
-
 # Participant Preamble Form - Help Guide
 ## Purpose
 This form is used to collect basic information for event participants. Please fill out the form completely, and make sure to enter the correct details for each participant.

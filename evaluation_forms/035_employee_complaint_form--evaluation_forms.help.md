@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to document and track employee complaints, providing a structured way for employees to report issues or incidents within the organization. The purpose of this form is to gather information and facilitate the resolution of complaints in a fair and efficient manner. Before proceeding, please ensure that you have not already submitted a complaint regarding the same issue, as duplicates may be deleted. This form should only be completed for new and unique complaints.
-
-</thinking>
-
 # Employee Complaint Form - Help Guide
 ## Purpose
 This form is used to document and track employee complaints, providing a structured way for employees to report issues or incidents within the organization.

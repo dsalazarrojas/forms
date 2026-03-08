@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to verify that a presentation meets the standards for a conference. The standards include having a slide format following the guidelines, having a speaker bio within a word limit, ensuring that the content is appropriate for the audience, and meeting other technical requirements. This form should be completed by presenters to confirm their compliance with these standards.
-</thinking>
-
 # Conference Presentation Standards Verification Form - Help Guide
 
 ## Purpose

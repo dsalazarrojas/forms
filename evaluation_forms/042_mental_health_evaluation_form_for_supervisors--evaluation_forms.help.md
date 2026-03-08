@@ -1,12 +1,3 @@
-<thinking>
-A mental health evaluation form for supervisors is a crucial tool for organizations to assess and support the well-being of their employees. This form helps supervisors identify potential mental health issues and provide resources and guidance to address them. To use this form, supervisors should first ensure that it is being used in accordance with company policies and procedures, and that all necessary data is accurate and up-to-date. It's also essential to review existing records to prevent duplication of effort and ensure consistency.
-
-This form is designed for supervisors to evaluate employees' mental health and create a plan for their recovery. The form is divided into several sections, each containing questions or prompts to gather information and create an action plan.
-
-Before filling out the form, it's recommended to review the purpose and context of the evaluation. This will help ensure that the information collected is accurate and relevant to the employee's situation.
-
-</thinking>
-
 # mental_health_evaluation_form_for_supervisors - Help Guide
 
 ## Purpose

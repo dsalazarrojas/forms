@@ -1,8 +1,3 @@
-<thinking>
-We are creating this form to collect information from workshop participants to gauge their experience and provide feedback on the workshop they attended. This form will help us evaluate the quality of our workshops and identify areas for improvement. To ensure accurate and relevant data, please complete this form honestly and thoroughly. If you have already completed this form, please do not submit duplicate responses.
-
-</thinking>
-
 # Workshop Participation Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback and information from workshop participants after the event. Please answer the questions to the best of your ability to help us evaluate the effectiveness of our workshops and provide valuable insights for future improvements.

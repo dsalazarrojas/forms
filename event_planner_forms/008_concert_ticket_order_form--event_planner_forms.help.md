@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information from customers for concert ticket orders. The form will collect buyer details, ticket preferences, and payment information. This form is likely to be used by concert organizers or ticketing services to process orders efficiently and ensure accurate communication with customers.
-
-Before creating this form, ensure that it's not being duplicated or used for purposes other than concert ticket orders. This form should only be used for the intended use case to maintain data accuracy and prevent potential miscommunication.
-
-</thinking>
-
 # Concert Ticket Order Form - Help Guide
 ## Purpose
 This form is used to collect information for concert ticket orders from customers. It's essential to fill out the form accurately to ensure efficient processing and delivery of tickets.

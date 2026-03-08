@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly and that the player information is accurate. The form is intended for players who wish to participate in a basketball tryout. This guide will help the player understand what information is required and how to fill out the form accurately. Please make sure to review each field carefully and answer truthfully. If you have any questions, please contact the tryout administrators.
-</thinking>
-
 # Basketball Tryout Registration Form - Help Guide
 ## Purpose
 The Basketball Tryout Registration Form is a mandatory form for players wishing to participate in the tryout. It is used to gather information about the player, including their contact information, medical conditions, and basketball experience.

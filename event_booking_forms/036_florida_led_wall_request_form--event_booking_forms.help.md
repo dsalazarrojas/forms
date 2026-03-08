@@ -1,11 +1,3 @@
-<thinking>
-This form, "florida_led_wall_request_form", is a tool for event organizers to submit requests for LED wall displays for their events. To ensure that the form is filled out correctly, we will first need to check that the form is not already filled out with the same event details. This will prevent multiple submissions of the same event. 
-
-The purpose of the form is to collect event-related information such as the type of event, date and time, number of guests, location, contact name, email, phone number, event description, LED wall details, color scheme, screen resolution, screen size, and any special requests. The form will then be reviewed by the assigned staff to ensure that the event details are correct. 
-
-The form will only be filled out once the event details are confirmed. This will be used as a record of the event details and as a reference point for the assigned staff to contact the event organizers.
-</thinking>
-
 # florida_led_wall_request_form - Help Guide
 ## Purpose
 This form is for event organizers to submit requests for LED wall displays for their events.

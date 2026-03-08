@@ -1,6 +1,3 @@
-<thinking> 
-This form is meant to collect information from users about their hackathon ideas. The idea is to provide a platform for users to submit their ideas for the corporate culture hackathon. The form will be used internally to gather relevant information about the hackathon and the ideas being submitted. This form should only be filled out by people who are actually submitting a hackathon idea. This form is not for internal use only. Please note that this form has no required fields, so users can fill it out at their discretion.</thinking>
-
 # Corporate Culture Hackathon Application Form - Help Guide
 ## Purpose
 This form is for submitting hackathon ideas to the corporate culture hackathon. Please fill it out if you have a great idea to share.

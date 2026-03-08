@@ -1,7 +1,3 @@
-<thinking>
-This form is for registered trade fair exhibitors to RSVP to a mixer event hosted by the trade fair organization. It's not necessary to fill out this form if you have not already registered as a trade fair exhibitor. If you have already filled out this form and are now filling it out again, please make sure to update your previous response.
-</thinking>
-
 # Trade Fair Exhibitor Mixer RSVP Form - Help Guide
 ## Purpose
 This form is intended for trade fair exhibitors to RSVP to the mixer event hosted by the trade fair organization.

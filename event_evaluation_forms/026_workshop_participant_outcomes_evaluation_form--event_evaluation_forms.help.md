@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended for evaluating the outcomes of workshops, gathering feedback and suggestions for improvement from participants, and understanding their overall experience. This form is likely used in educational or training settings to assess the effectiveness of a workshop or session. The form captures participant ratings, suggestions, and feedback through a series of questions that are designed to provide qualitative and quantitative data.
-
-Please note that this form does not seem to be strictly required, so it's likely a voluntary assessment of the workshop.
-
-</thinking>
-
 # workshop_participant_outcomes_evaluation_form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback and outcomes from workshop participants to improve future workshop planning and execution.

@@ -1,15 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for the "Best Online Service Nomination Form", we need to consider the following:
-
-- The form is designed to collect information from users about their experiences with online services, with the goal of identifying exceptional services that deserve recognition. 
-- The form asks users to provide details about themselves, such as their name and email address, which will be used for confirmation purposes. 
-- The form is divided into several sections, each asking about different aspects of the service: name, website URL, category, usage duration and frequency, overall satisfaction, ease of use, reliability, customer support, value for money, standout features, nomination reason, suggestions for improvement, and would recommend. 
-- This guide should be concise, easy to understand, and provide clear instructions on how to complete the form without leaving out any necessary information. 
-- Each section should have a brief description of what to expect in that section, making it clear what kind of answers are expected and in what format. 
-
-The user guide will be based on the provided YAML fields.
-</thinking>
-
 # Best Online Service Nomination Form - Help Guide
 ## Purpose
 This form is designed to collect information from users about their experiences with online services. By filling out this form, you will help identify exceptional services that deserve recognition.

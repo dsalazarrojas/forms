@@ -1,9 +1,3 @@
-<thinking>
-
-To confirm, the purpose of this form is to gather feedback from participants on their experience with the Club Feroviar Conference. The form aims to collect information on various aspects of the conference, including participant demographics, overall satisfaction, content and sessions, organization and logistics, networking, and areas for improvement. The data collected will help organizers refine and improve future conferences. It's essential to ensure that the form is completed accurately and thoroughly, as the feedback will be used to inform decisions that impact attendees and the conference itself.
-
-</thinking>
-
 # Club Feroviar Conference Feedback - Help Guide
 ## Purpose
 The Club Feroviar Conference Feedback form is designed to gather your thoughts and opinions on your experience with the conference. Your input will help us improve future events.

@@ -1,5 +1,3 @@
-<thinking>As we continue to improve our processes and ensure accurate and reliable data, we need to assess the properties we're dealing with. This form is designed to collect relevant information about a property and its current evaluation status. It's essential that all fields are filled in accurately to maintain the integrity of our database.</thinking>
-
 # Kahlo Home Evaluation Form - Help Guide
 ## Purpose
 The Kahlo Home Evaluation Form is a tool for collecting information about properties and their evaluation status. It helps us to better understand the state of properties, track progress, and make informed decisions.

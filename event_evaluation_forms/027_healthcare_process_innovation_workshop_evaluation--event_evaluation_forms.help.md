@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather feedback and evaluations from participants of a Healthcare Process Innovation Workshop. The form will help us understand how you experienced the workshop, what you liked or disliked, and what you would recommend to others. This form is intended to be completed by participants after the workshop, and it's meant to be a quick and easy way to provide feedback.
-
-To avoid duplication, please note that this form is only meant to be completed by participants of the workshop, and not by organizers or staff members. If you're not a participant, please don't complete this form.
-
-Please ensure that you have completed the workshop before starting this form, as it will be asking questions about your experience during the workshop.</thinking>
-
 # Healthcare Process Innovation Workshop Evaluation - Help Guide
 ## Purpose
 This form is designed to gather feedback and evaluations from participants of a Healthcare Process Innovation Workshop.

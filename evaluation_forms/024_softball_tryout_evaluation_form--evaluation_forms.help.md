@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help coaches and evaluators assess the skills and performance of players during tryouts for the softball team. It is used to collect information about the player, the skills they displayed during the tryout, and any comments or notes from the evaluator. This form will likely be used by the team's scouting staff to help make decisions on which players to invite to the team.
-</thinking>
-
 # Softball Tryout Evaluation Form - Help Guide
 ## Purpose
 The Softball Tryout Evaluation Form is designed to collect information about each player's skills and performance during the tryout session.

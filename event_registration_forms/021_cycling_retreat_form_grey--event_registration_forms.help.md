@@ -1,13 +1,3 @@
-<thinking>**Internal reasoning block for form purpose and non-duplication check**
-
-The purpose of this form is to collect registration information from participants for a cycling retreat. It is crucial to ensure that all necessary details are provided to facilitate a smooth and enjoyable experience for all attendees. Before proceeding, please verify that you have not already registered for this event to avoid duplication of effort.
-
-To prevent duplication, we recommend checking your email or phone records for any previous correspondence regarding this event. If you are unsure, you can also reach out to the event organizer for clarification.
-
-Assuming you are a new participant or have confirmed your attendance, please follow the instructions below to complete the form.
-
-</thinking>
-
 # cycling_retreat_form_grey - Help Guide
 ## Purpose
 The Cycling Retreat Form is designed to gather information from participants for a smooth and enjoyable experience. Please fill out this form to provide necessary details about your registration.

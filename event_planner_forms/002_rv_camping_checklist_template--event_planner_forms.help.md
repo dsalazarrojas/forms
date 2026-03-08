@@ -1,9 +1,3 @@
-<thinking>
-
-This form is likely used for planning a camping trip, gathering information for campers and their emergency contacts, and providing a comprehensive list of camping activities and equipment. It might be used by park rangers, campsite administrators, or other organizations responsible for managing camping facilities. The form is probably not meant to be completed by the campers themselves, but rather by the administrators to keep track of the details of the campers, the campsite, and the emergency contacts.
-
-</thinking>
-
 # Rv Camping Checklist Template - Help Guide
 ## Purpose
 This form is designed to collect essential information about campers, their guests, and their emergency contacts for efficient management and planning of camping facilities.

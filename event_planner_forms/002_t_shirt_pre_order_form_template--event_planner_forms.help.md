@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # T Shirt Pre Order Form Template - Help Guide
 ## Purpose
 This form is for users to pre-order T-shirts with custom options such as size, color, and design. The form gathers customer information, order details, and payment method. It is intended to streamline the T-shirt ordering process for customers.

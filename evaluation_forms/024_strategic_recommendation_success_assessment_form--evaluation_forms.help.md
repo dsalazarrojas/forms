@@ -1,5 +1,3 @@
-<thinking>...Internal reasoning: This form is designed to assess the success of a project, gathering information on expected and actual outcomes, project manager's comments, and recommendations for improvement. The fields are mostly optional, but provide valuable data for evaluating project success. The form can be used by project managers to provide feedback on projects and help improve future projects. By filling out this form, project managers can provide transparent and unbiased assessment of the project outcome, which can be useful for future decision-making. The fields are self-explanatory, and the instructions are clear and concise...</thinking>
-
 # Strategic Recommendation Success Assessment Form - Help Guide
 ## Purpose
 This form is designed to assess the success of a project by gathering information on expected and actual outcomes, project manager's comments, and recommendations for improvement.

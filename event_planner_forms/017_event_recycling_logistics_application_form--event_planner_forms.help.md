@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from event organizers to facilitate event recycling logistics. This form should be completed by event organizers to provide details about their events, such as event name, date, location, size, and the types of recyclable materials and recycling services needed. This information will help the event logistics team to plan and provide necessary recycling services for the event.
-To avoid confusion, please ensure that you are filling out this form for a specific event and that you have all the necessary information required to complete the form.
-</thinking>
-
 # Event Recycling Logistics Application Form - Help Guide
 ## Purpose
 This form is used to gather information about an event to provide efficient and effective recycling services. Please fill out this form with the details about your event to ensure that our team can properly plan and execute the logistics.

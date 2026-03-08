@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used for recreational activity check-out purposes. It is used to collect information from participants and staff members involved in the activity. The form is split into several pages, each with a unique ID. The form is required for participant verification and staff confirmation.
-
-The purpose of this form is to ensure accurate and efficient management of recreational activities, including participant tracking and staff coordination. It is used by staff members to record and verify participant information, including participant name, email, and signature. The form also allows staff to track equipment usage and maintenance.
-
-This form is not a duplicate of other existing forms. It is a custom-designed form for specific recreational activity management.
-
-</thinking>
-
 # recreational_activity_check_out_form - Help Guide
 ## Purpose
 The recreational activity check-out form is used to collect and verify participant and staff information for recreational activities.

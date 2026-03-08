@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Tropical Event Registration - Help Guide**
 ======================================
 

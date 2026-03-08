@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide is designed to assist users in completing the Participant Feedback Form effectively. To ensure clarity, we will review the purpose and requirements of this form before proceeding with the field-by-field explanations.
 
 This form is intended to gather feedback from participants about their experiences, providing valuable insights for improvement. It is essential to complete the form accurately, as any duplication or misinterpretation may lead to incorrect assumptions.

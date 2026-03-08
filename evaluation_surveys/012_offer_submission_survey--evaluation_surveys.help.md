@@ -1,9 +1,3 @@
-<thinking>
-This form is meant to be used for evaluating and providing feedback on a submitted proposal or offer. This form is likely used within an organization to assess the quality and suitability of submitted proposals or offers, and to provide guidance on areas of improvement. It is possible that this form is used in conjunction with other evaluation tools or processes, but this guide will cover the general use case of completing this form for evaluation and feedback purposes.
-Before completing this form, please ensure that you are evaluating a proposal or offer that has been submitted to you. This form is not intended for other purposes, such as creating new proposals or offers.
-If you have already submitted feedback on this proposal or offer through this form or otherwise, please do not submit additional feedback using this form. Duplicate feedback can be confusing and may hinder the progress of the proposal or offer.
-</thinking>
-
 # Offer Submission Survey - Help Guide
 ## Purpose
 This form is designed to help evaluators provide structured feedback on submitted proposals or offers. The goal is to collect data on the quality and suitability of the proposals or offers, which will be used to guide future submissions and improve the proposal or offer process.

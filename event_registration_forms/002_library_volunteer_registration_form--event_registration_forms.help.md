@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from volunteers who wish to help out at the library. This form is used to register volunteers for various shifts at the library, and the data collected will be used to schedule volunteers for their preferred shifts. To ensure accurate data collection, please fill out this form carefully and thoroughly. Note that some fields are required, and you must fill them out before proceeding.
-</thinking>
-
 # Library Volunteer Registration Form - Help Guide
 ## Purpose
 The Library Volunteer Registration Form is used to register volunteers for various shifts at the library. This form collects personal and schedule-related information from volunteers to ensure accurate scheduling.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the safety and compliance of machine guarding systems in various industries. It's crucial to evaluate and address potential hazards and ensure that machinery is properly guarded to prevent accidents and injuries. This form will guide users through a comprehensive checklist to review and verify the presence and condition of machine guarding systems, including electrical components, installation standards, lockout/tagout systems, guard systems, guard components, guard systems design, safety interlocks, safety signs, and electrical components. This form should not be used as a substitute for official safety protocols or industry standards. It is essential to consult with safety experts and relevant authorities for specific guidance and compliance. 
-</thinking>
-
 # Machine Guarding Checklist - Help Guide
 ## Purpose
 The Machine Guarding Checklist is a tool used to evaluate and document the safety and compliance of machine guarding systems in various industries. It helps users identify potential hazards and ensures that machinery is properly guarded to prevent accidents and injuries.

@@ -1,7 +1,3 @@
-<thinking>
-To ensure relevance, we need to verify that the form is for nominating a festival organizer who has demonstrated exceptional leadership and dedication to their work. This form should only be used for individuals who have a minimum of 5 years of experience in festival organization. We also need to prevent duplication of nominations for the same nominee, and ensure that only one nomination per individual is accepted. If the form is filled out incorrectly, it may be rejected and not considered for evaluation.
-</thinking>
-
 # Best Festival Organizer Nomination Form - Help Guide
 ## Purpose
 The Best Festival Organizer Nomination Form is designed to recognize and reward individuals who have demonstrated outstanding leadership and dedication to their work in festival organization. This form is only intended for nominations of individuals with a minimum of 5 years of experience in festival organization.

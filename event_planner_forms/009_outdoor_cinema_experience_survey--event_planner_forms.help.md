@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to collect user feedback and experiences related to an outdoor cinema event. It gathers information on the user's basic contact details, their experience at the outdoor cinema, how they rated the event, and any additional feedback they may have. This form is intended for event organizers to gain insights and improve future outdoor cinema experiences.
-The form does not duplicate any existing forms in the market, and its creation was based solely on publicly available information about outdoor cinemas and event planning.
-</thinking>
-
 # Outdoor Cinema Experience Survey - Help Guide
 ## Purpose
 This survey is designed to collect your feedback and experiences about the outdoor cinema event you attended. Your input will help us improve future outdoor cinema experiences.

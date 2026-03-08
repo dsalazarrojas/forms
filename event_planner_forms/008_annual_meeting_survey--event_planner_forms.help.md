@@ -1,9 +1,3 @@
-<thinking>
-This form is a survey designed to gauge attendees' opinions and feedback on the annual meeting's organization and content. It aims to gather information on attendees' overall satisfaction, engagement, and perceived value gained from the meeting. By analyzing this data, organizers can identify areas of strength and improvement for future events.
-The form is intended for attendees to provide honest feedback, and their responses will be kept confidential. It is not affiliated with, endorsed by, or derived from any form platform.
-This guide will walk you through each field of the survey, explaining what each question aims to achieve and how to provide accurate and helpful responses.
-</thinking>
-
 # Annual Meeting Survey - Help Guide
 ## Purpose
 This form is a survey designed to gather feedback from attendees on the annual meeting's organization and content. Your responses will help the organizers improve future events.

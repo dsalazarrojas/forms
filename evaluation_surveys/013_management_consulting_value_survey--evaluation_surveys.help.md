@@ -1,7 +1,3 @@
-<thinking>
-The Management Consulting Value Survey form is used to collect feedback from clients on the effectiveness and value of management consulting projects. This form will help us understand what we're doing well and where we can improve. Please ensure that you have relevant experience with our management consulting projects before taking this survey.
-</thinking>
-
 # Management Consulting Value Survey - Help Guide
 
 ## Purpose

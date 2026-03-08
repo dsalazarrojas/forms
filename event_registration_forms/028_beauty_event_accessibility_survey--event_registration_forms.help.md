@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback on the accessibility of beauty events for attendees. It's meant to gather information about the physical and sensory accessibility of events, communication, staff support, and overall attendee experience. The goal is to identify areas of improvement and provide suggestions for future events.
-
-</thinking>
-
 # Beauty Event Accessibility Survey - Help Guide
 ## Purpose
 The Beauty Event Accessibility Survey is a form designed to help event organizers and planners improve the accessibility of their beauty events. By providing feedback, attendees can help ensure that future events are more inclusive and accessible for everyone.

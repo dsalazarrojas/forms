@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to gather feedback from attendees of a literary festival. The purpose of this form is to collect data on the attendees' experiences and opinions about the authors who read at the festival. It will help the festival organizers understand what attendees liked and disliked, what they thought of the authors' performances, and what they would recommend.
-
-To ensure accuracy, please review the form carefully and make sure all necessary information is provided. If you need to fill in multiple entries for the same festival, please make sure to submit each entry separately. This will prevent any confusion with duplicate submissions.
-
-When filling out this form, please keep the following best practices in mind:
-- Be as specific as possible in your answers.
-- Provide detailed comments where possible.
-- Make sure to provide the correct email address and phone number (if provided).
-</thinking>
-
 # literary_festival_author_reading_voting_form - Help Guide
 ## Purpose
 This form is designed to collect feedback from attendees about the authors who read at the literary festival. It aims to gather information on their experiences, opinions, and ratings of the authors' performances.

@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-## Pickleball Survey - Help Guide
+> ## Pickleball Survey - Help Guide
 ## Purpose
 
 This Pickleball Survey is a tool used to gather information about your pickleball experience and preferences. This information will help us better understand the demographics and playing habits of our community and create a more personalized experience for you.

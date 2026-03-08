@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect event setup information from users. The purpose of this form is to gather essential details about an event, including its name, date, location, and other relevant specifics. This form should only be filled out once for each event. If you are registering an event that is a repeat of a previously registered event, please contact the support team to determine the correct procedure. Please ensure that all required fields are filled out to avoid any issues with event registration.
-</thinking>
-
 # Stage Setup Intake Form - Help Guide
 ## Purpose
 The Stage Setup Intake Form is designed to collect event setup information from users to ensure accurate and efficient event registration.

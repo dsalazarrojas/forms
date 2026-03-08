@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Emergency Medical Simulation Evaluation Form - Help Guide
 ## Purpose
 The Emergency Medical Simulation Evaluation Form is designed to assess the effectiveness of emergency medical simulation training programs. This form helps evaluators evaluate the overall performance of participants and identify areas for improvement.

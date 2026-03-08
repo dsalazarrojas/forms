@@ -1,28 +1,3 @@
-<thinking>
-To create a comprehensive and user-friendly help guide for the "Photobooth Events Booking Form", let's first analyze the form's purpose and potential issues. This form appears to be designed for event organizers to book photobooth services for their events. The form likely requires information about the event such as the event name, start and end dates, start and end times, photobooth type, photo servers, photo resolution, photo printing options, photo upload, photobooth location, number of photo servers, photobooth equipment price, other equipment price, event organizer's contact information, and client contact information.
-
-The form also seems to have some redundant fields, such as "Event Organizer Phone" and "Event Organizer Phone 2" which might be better replaced with a single field for the event organizer's contact phone number.
-
-To avoid duplication, the following fields could be marked as read-only and filled automatically with data from the user's previous form submissions or other relevant sources, if available:
-
-* event_organizer_name
-
-The following fields could be merged or removed for brevity:
-
-* event_date (likely a duplicate of start and end dates)
-
-The following fields could be merged or combined for user convenience:
-
-* photo_servers and photo_servers_count
-
-The following fields could be made required or optional based on the photobooth type selected:
-
-* photo_servers (dependent on photobooth type)
-* photo_servers_count (dependent on photobooth type)
-* photobooth_equipment_price and other_equipment_price (dependent on photobooth type)
-
-</thinking>
-
 # Photobooth Events Booking Form - Help Guide
 ## Purpose
 The Photobooth Events Booking Form is designed for event organizers to book photobooth services for their events. This form collects necessary information to provide a comprehensive and customized photobooth experience.

@@ -1,11 +1,3 @@
-<thinking>
-
-To prevent duplication, this form will be used to collect feedback from audience members who have attended a film festival screening. This feedback will help us assess and improve the quality of our screenings.
-
-The form has been designed to gather information on the audience's experience and opinion on the films shown. It consists of multiple fields that cover different aspects of the event.
-
-</thinking>
-
 # film-festival-screening-audience-feedback-assessment-form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from audience members who have attended a film festival screening. This feedback will help us evaluate the quality of our screenings and identify areas for improvement.

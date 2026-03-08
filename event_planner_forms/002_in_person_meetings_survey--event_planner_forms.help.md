@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to report on their in-person meeting experiences. It collects information on meeting frequency, duration, location, and attendance. The form is designed to be completed by meeting attendees, allowing them to share their insights and feedback on the meetings they participate in.
-</thinking>
-
 # In Person Meetings Survey - Help Guide
 ## Purpose
 The In Person Meetings Survey is a tool for gathering feedback and insights on in-person meetings. It helps attendees provide information on meeting frequency, duration, location, and attendance, which can be used to improve future meetings and events.

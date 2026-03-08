@@ -1,11 +1,3 @@
-<thinking>... This is a form for students to sign in and provide attendance information for a class. The form includes fields for sign-in information, class details, and health and wellness check. It is meant for students to accurately report their attendance status and provide any necessary information about their health and wellness. 
-
-Please ensure to only complete this form if you are a student in the class, and that the information you provide is accurate and up-to-date. This form is not intended for staff or instructors. 
-
-Please note that some fields are optional and you are free to provide or not provide information, depending on your circumstances. However, please make sure to answer all required fields (marked as "true" in the required field) to ensure accurate processing. If you are unsure or have questions, please reach out to the relevant support team or instructor. 
-
-... </thinking>
-
 # Class Attendance Sign In Form - Help Guide
 ## Purpose
 This form is used for students to report their attendance and provide necessary details to the class instructor or staff.

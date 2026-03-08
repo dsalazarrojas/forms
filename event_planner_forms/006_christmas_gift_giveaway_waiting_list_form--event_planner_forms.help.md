@@ -1,7 +1,3 @@
-<thinking>
-The form is used to collect information from individuals who wish to be on a Christmas gift giveaway waiting list. The purpose of this form is to gather data about participants' eligibility, household information, and gift preferences. This information will be used to determine eligibility and create a waiting list for the giveaway. The form will be reviewed internally to ensure that participants meet the eligibility criteria, and those who do not will be notified that they are not eligible.
-</thinking>
-
 # Christmas Gift Giveaway Waiting List Form - Help Guide
 ## Purpose
 This form is used to collect information from individuals who wish to be on a Christmas gift giveaway waiting list. The information collected will be reviewed internally to determine eligibility and create a waiting list.

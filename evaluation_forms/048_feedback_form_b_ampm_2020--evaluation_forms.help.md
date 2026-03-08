@@ -1,7 +1,3 @@
-<thinking>
-This form is used for collecting feedback from users about the B&amp;M 2020 project. The form is designed to gather information about the user's experience with the project, including their rating, comments, and contact information. It is essential to provide accurate and helpful feedback to ensure the project's success. Please ensure that you are providing feedback for this specific project and not duplicating an existing feedback.
-</thinking>
-
 # feedback_form_bampm_2020 - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about the B&amp;M 2020 project.

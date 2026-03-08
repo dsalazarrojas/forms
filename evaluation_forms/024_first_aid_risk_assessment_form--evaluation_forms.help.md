@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information about a facility's first aid supplies, training, knowledge, environment, access, risk factors, and control measures. The purpose of this form is to assess the risk level of a facility and identify areas that need improvement. The form is not affiliated with any form platform and is an original adaptation of a survey topic. It is released under CC BY 4.0 license, allowing users to use, modify, and even sell forms derived from it while giving credit.
-
-Form fields are organized into several categories to make it easier for users to provide accurate and relevant information. The form includes multiple-choice questions and text fields to accommodate different types of information. Some fields are marked as required, indicating that they must be filled in for the form to be considered complete.
-
-The following guide will help users understand the purpose and fields of the First Aid Risk Assessment Form.
-</thinking>
-
 # First Aid Risk Assessment Form - Help Guide
 ## Purpose
 

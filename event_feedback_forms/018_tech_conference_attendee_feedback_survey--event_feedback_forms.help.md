@@ -1,15 +1,3 @@
-<thinking>Internal reasoning to check for duplication or relevance:
-
-* The purpose of this form is to gather feedback from attendees of a tech conference.
-* The form is designed to collect various types of feedback, including ratings, session preferences, and contact information.
-* Each field is categorized into sections that make sense, such as conference information, session preferences, and contact details.
-* Some fields are required for the form to be completed, while others are optional.
-* The form also asks for follow-up contact information, allowing the conference organizers to reach out to attendees for future events.
-
-The form is intended for attendees of a tech conference, and the fields are designed to collect feedback and suggestions for future events.
-
-</thinking>
-
 # Tech Conference Attendee Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from attendees of a tech conference. Your input will help us improve future events and provide a better experience for all attendees.
