@@ -1,5 +1,3 @@
-<thinking>What is the purpose of this form? This form is used to collect information from customers to place an order for a school T shirt. It is likely used by school administrators or marketing teams to gather order requests from students, teachers, or staff. This form is probably used to determine the customer's preferences for T shirt size and color. The form is likely to be used in conjunction with other forms that collect order details and payment information. To ensure relevance, the form is likely used during a specific campaign or event, such as a school festival or fundraiser. Non-duplication of effort is ensured by using the form in a controlled environment, such as a school office or website, and by ensuring that the form is not used for duplicate or redundant requests.</thinking>
-
 # School T Shirt Order Form - Help Guide
 ## Purpose
 The School T Shirt Order Form is used to collect information from customers to place an order for a school T shirt. The form is used to gather details on the customer's preferences for T shirt size and color.

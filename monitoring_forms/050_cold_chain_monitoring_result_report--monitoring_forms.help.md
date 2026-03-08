@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to collect data on the monitoring results of cold chain equipment, ensuring that the products stored within it remain within a specified temperature range. This form is used to report on the condition of the facility, temperature monitoring, alarms, corrective actions taken, equipment status, and other relevant observations. The data collected will be used for quality control and to ensure that the products are stored under optimal conditions.
-
-Before proceeding, please confirm that:
-
-*   The form is being used for its intended purpose and that the collected data is accurate.
-*   The data is not already collected in another form.
-
-</thinking>
-
 # Cold Chain Monitoring Result Report - Help Guide
 ## Purpose
 The Cold Chain Monitoring Result Report is used to collect data on the monitoring results of cold chain equipment to ensure that products are stored under optimal conditions.

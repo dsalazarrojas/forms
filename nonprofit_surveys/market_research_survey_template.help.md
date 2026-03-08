@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather insights from the public on their perception and opinions about a nonprofit organization's work in the community. The survey aims to inform strategic planning and help the organization better understand what aspects of their work are most important to the public and what areas need improvement.
-
-To ensure that the form is not filled out multiple times, a unique identifier or timestamp could be used to track responses.
-
-</thinking>
-
 # market_research_survey_template - Help Guide
 ## Purpose
 This form is designed to gather insights from the public on their perception and opinions about a nonprofit organization's work in the community. The survey aims to inform strategic planning and help the organization better understand what aspects of their work are most important to the public and what areas need improvement.

@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information about patients undergoing health treatments, such as medication regimens, medical histories, and treatment plans. The form is designed to be a general-purpose tool for healthcare professionals to monitor patient progress and provide personalized care. The form's fields are meant to be filled out by patients or their representatives, and the collected data will be used to inform treatment decisions and monitor patient outcomes. This form is not intended for clinical trials or research purposes.
-
-Before filling out this form, please ensure that you are providing accurate and detailed information about the patient's medical history, treatment regimens, and concerns. If you have any doubts or questions about the form, please reach out to the designated contact: form@gic.mx.
-
-</thinking>
-
 # Health Treatment Monitoring Form - Help Guide
 ## Purpose
 This form is designed to collect information about patients undergoing health treatments. Its purpose is to gather data on patient progress, treatment plans, and medication adherence.

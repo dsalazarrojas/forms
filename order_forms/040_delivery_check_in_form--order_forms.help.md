@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information about a delivery, including the delivery date, time, and details about the driver and delivery location. It is intended to be completed by the delivery driver or a person representing the delivery service. The purpose of this form is to ensure accurate and up-to-date delivery information is recorded.
-
-When creating this form, the following considerations were made:
-
-*   The form is divided into two pages, allowing users to complete one page at a time, if necessary.
-*   All fields are optional, allowing users to input as much or as little information as necessary.
-*   The form is designed to be completed by drivers or representatives of the delivery service.
-
-</thinking>
-
 # Delivery Check In Form - Help Guide
 ## Purpose
 The Delivery Check In Form is a document used to record delivery information, providing a standardized way to collect and store data about delivery events.

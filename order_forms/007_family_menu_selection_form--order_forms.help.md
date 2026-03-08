@@ -1,6 +1,3 @@
-<thinking>
-The purpose of the "Family Menu Selection Form" is to gather information about family members and their dietary restrictions, preferred dishes, and other relevant details for an event. This form is likely used by event planners or coordinators to collect input from family members and create a comprehensive list of menu items that cater to each person's needs. It is essential to fill out this form accurately and thoroughly to ensure that each family member has a satisfactory experience.
-</thinking>
 # Family Menu Selection Form - Help Guide
 ## Purpose
 The "Family Menu Selection Form" is used to gather information about family members and their needs for an event. This information helps event planners create an inclusive menu that caters to each family member's dietary restrictions, preferences, and other requirements.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Bakery Order Form - Help Guide
 ## Purpose
 The Bakery Order Form is a simple form designed to collect customer information, order details, and preferences for placing an order with a bakery. This form is intended to gather essential information to ensure accurate and efficient order processing.

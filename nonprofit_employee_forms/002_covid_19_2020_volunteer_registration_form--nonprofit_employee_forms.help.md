@@ -1,13 +1,3 @@
-<thinking>
-**Checking for Relevance and Non-Duplication**
-
-This form is designed to gather information from individuals interested in volunteering with the organization in response to the COVID-19 pandemic. The form collects personal information, volunteer interest, and medical background to ensure that volunteers are properly placed and informed about the necessary safety protocols.
-
-Before we begin, note that this form is intended for individuals interested in volunteering with the organization. If you're not interested in volunteering, you may not need to fill out this form.
-
-Additionally, if you have already registered or filled out a similar form for the same purpose, you may not need to complete this form again. Please check with the organization's administrators to confirm.
-</thinking>
-
 # COVID 19 2020 Volunteer Registration Form - Help Guide
 ## Purpose
 

@@ -1,8 +1,3 @@
-<thinking>
-The form "public_space_maintenance_payment_form" is used to record and manage maintenance requests and payments for public spaces, such as parks, playgrounds, or other community areas. This form is intended to gather information from customers (or users) about their maintenance requests, including the type of service needed, the date and time of the service, and the payment details. 
-
-</thinking>
-
 # public_space_maintenance_payment_form - Help Guide
 ## Purpose
 This form is used to collect and manage maintenance requests and payments for public spaces.

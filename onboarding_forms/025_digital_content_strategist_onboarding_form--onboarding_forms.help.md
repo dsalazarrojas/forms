@@ -1,7 +1,3 @@
-<thinking>
-To prevent duplication and ensure the form is filled out correctly, please note that this form is intended for Digital Content Strategists who are new to the organization. It is meant to gather information about their onboarding process, readiness for the role, and other relevant details. This information will be used to create a baseline understanding of their skills and fit for the position.
-</thinking>
-
 # Digital Content Strategist Onboarding Form - Help Guide
 ## Purpose
 The Digital Content Strategist Onboarding Form is a mandatory form for new Digital Content Strategists to provide essential information about their onboarding process, readiness for the role, and other relevant details.

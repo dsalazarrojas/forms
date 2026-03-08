@@ -1,6 +1,3 @@
-<thinking>
-This form is used to collect order details for tobacco products. The form is designed to be completed by customers to provide their order information, including product selection, payment method, shipping address, contact person, order notes, total amount, order status, and payment status. The form should only be completed once an order has been confirmed or is pending. This form is not intended to be used for duplicate or test orders. Please ensure that you are using the correct form for your specific use case. </thinking>
-
 # tobacco_order_form - Help Guide
 ## Purpose
 The tobacco_order_form is used to collect order details for tobacco products.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information for the order fulfillment process, ensuring that orders are processed efficiently and accurately. The form will be used by customer service representatives to gather details about the customer's order, including their order status, delivery date, and any specific instructions or notes. To avoid duplication of effort, please ensure that you are not submitting multiple forms for the same order. If you are unsure about the purpose or content of the form, please review the relevant business process documentation.
-
-</thinking>
-
 # Order Fulfillment Process Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information for the order fulfillment process. It will help customer service representatives gather necessary details about the customer's order, ensuring that orders are processed efficiently and accurately.

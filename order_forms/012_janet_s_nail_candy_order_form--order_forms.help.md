@@ -1,7 +1,3 @@
-<thinking>
-To confirm that the form purpose is correct and not redundant, let's review the provided YAML. The form appears to be an order form for a product called "Janet's Nail Candy." The form has several fields that suggest it is used to collect information from customers to process an order, including customer information, shipping address, product order, payment information, shipping method, payment method, total cost, notes, and confirmation of the order. This seems to be a straightforward order form for an online or in-person store. There doesn't appear to be any redundancy or incorrectness in the form's purpose.
-</thinking>
-
 # janets_nail_candy_order_form - Help Guide
 ## Purpose
 The janets_nail_candy_order_form is an order form for customers to provide their details and confirm their orders at Janet's Nail Candy store.

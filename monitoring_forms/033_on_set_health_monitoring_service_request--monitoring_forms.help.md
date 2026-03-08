@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request on-set health monitoring services, which are typically required for production or equipment monitoring. Before starting, ensure this form is not a duplicate of any existing request, or the form is for a different purpose (e.g., production monitoring vs. equipment monitoring). If you're unsure, please check with the production team or your supervisor for clarification.
-</thinking>
-
 # on_set_health_monitoring_service_request - Help Guide
 ## Purpose
 This form is used to request on-set health monitoring services for production or equipment monitoring.

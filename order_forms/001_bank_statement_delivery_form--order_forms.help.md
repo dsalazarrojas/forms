@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly to avoid duplicate requests. To achieve this, we should include a brief explanation of the form's purpose and a check to prevent users from submitting the form multiple times. This form is intended to be used by customers to request delivery of their bank statements. We should verify that the user understands the importance of filling out the form accurately and avoiding duplicate requests. This way, we can ensure that our customers' requests are processed correctly and efficiently.
-</thinking>
-
 # Bank Statement Delivery Form - Help Guide
 ## Purpose
 The "Bank Statement Delivery Form" is used by customers to request delivery of their bank statements. It is an essential tool to provide customers with the necessary information to access their financial history.

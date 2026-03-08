@@ -1,15 +1,3 @@
-<thinking>
-
-This form is intended to be a comprehensive order form for hospice medical equipment, designed to gather essential information for the order, delivery, and status of the equipment. 
-
-To confirm, this form is meant to be used by healthcare professionals or authorized staff members to order medical equipment for hospice patients, ensuring that the relevant details are accurately captured to expedite the order, delivery, and follow-up processes. The form's fields should cover all necessary information, including patient data, equipment type, delivery schedules, and contact details. 
-
-Please note that this form is meant to be used for ordering medical equipment, which can include oxygen, CPAP machines, BiPAP machines, nebulizers, and other related equipment. It's essential to ensure that the correct equipment type is selected accurately. 
-
-Before proceeding, please double-check the form's fields to ensure that the data is up-to-date and accurate, and that there are no duplicates or missing information.
-
-</thinking>
-
 # Hospice Medical Equipment Order Form - Help Guide
 
 ## Purpose

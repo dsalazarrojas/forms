@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information necessary for a successful checkout process. This includes shipping information, customer details, and payment preferences. The form is designed to guide users through the necessary fields in a logical and structured way, reducing errors and promoting clarity. To avoid duplication, this form is meant for single-user input.
-
-</thinking>
-
 # Checkout Form - Help Guide
 ## Purpose
 This form is used to collect the necessary information for a successful checkout process. It's divided into sections that correspond to specific parts of the checkout process: shipping details, customer information, and payment preferences.

@@ -1,11 +1,3 @@
-<thinking>
-This form appears to be for merchant services application, likely for businesses or organizations seeking services from a merchant. The form requires various types of information, including contact and merchant details, services selection, and submission data. 
-- The form has 22 fields, including text, email, select_one, select_multiple, date, time, note, and select_multiple options.
-- Some fields are required while others are optional.
-- The form might be used for merchant registration, application, or request for services.
-- It is essential to review each field's type and requirement to ensure accurate completion.
-</thinking>
-
 # Merchant Services Application Form - Help Guide
 ## Purpose
 This form is designed for merchant services application. It captures essential details about the merchant, their contact information, services requested, and submission data.

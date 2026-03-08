@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the Humanitarian Expeditions Application Form. This form is designed to collect information from participants who are interested in humanitarian expeditions. The form is intended to gather essential details such as participant name, expedition date and time, purpose of participation, contact email, contact phone, assigned tool, notes, submitted by, and submission date and time. To complete this form, the participant must provide their name, select an appropriate assignment of tool, specify their purpose of participation, and provide contact information. The form is primarily used to collect information for expedition planning and management purposes.</thinking>
-
 # Humanitarian Expeditions Application Form - Help Guide
 ## Purpose
 This form is designed to gather information from participants interested in humanitarian expeditions. It is used for expedition planning and management purposes.

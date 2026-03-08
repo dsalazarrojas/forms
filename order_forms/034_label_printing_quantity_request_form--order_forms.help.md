@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for requesting label printing services. The purpose of this form is to allow users to submit a request for label printing, specifying the type of label they require (label1, label2, or label3), the quantity of labels needed, a deadline for delivery, and any artwork files that are relevant to the label design. This form is not intended for production purposes, but rather for testing and development. It's recommended that users only complete this form if they are sure of the quantity and deadline of their label printing request.
-</thinking>
-
 # Label Printing Quantity Request Form - Help Guide
 ## Purpose
 The "Label Printing Quantity Request Form" is used to request label printing services. It is intended for testing and development purposes only.

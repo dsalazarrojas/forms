@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture the necessary information for a model release consent from a photographer to a model, which includes details such as model contact information, photographer contact information, dates, and agreement status. This form will help ensure that all required information is collected and documented accurately. This form does not copy, extract, or use proprietary content from any other form platforms, and it is released under the Creative Commons Attribution 4.0 license. This form is free to use, modify, and even sell, as long as the original source is credited.
-</thinking>
-
 # Portfolio Model Release Consent Form - Help Guide
 ## Purpose
 This form is designed to collect the necessary information for a model release consent from a photographer to a model.

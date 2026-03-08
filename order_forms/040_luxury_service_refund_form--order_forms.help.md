@@ -1,5 +1,3 @@
-<thinking>Form purpose: This form is designed to facilitate the process of requesting a refund for a luxury service. The form captures essential information about the order, including the order details, the type of service ordered, the reason for refund, and the refund amount. This form is intended for customers who wish to initiate a refund process for their luxury service purchase. Ensure you have already checked with the customer service team that the form is not duplicated and the order exists before proceeding. If you are not sure, check with the customer service team before filling out this form.</thinking>
-
 # Luxury Service Refund Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>... This form was designed to facilitate the transfer of patient information between healthcare professionals, ensuring continuity of care and accurate treatment. The form captures vital patient data, medical history, and other relevant details for a seamless transition. To avoid duplication of effort and ensure accuracy, please verify that this form is not already available in your institution or that you are filling it out for a new patient. If you have already submitted a similar form, please update the existing record instead of creating a new one... </thinking>
-
 # Patient Handover Form - Help Guide
 ## Purpose
 The Patient Handover Form is designed to gather essential information about a patient for transfer between healthcare professionals. This form helps ensure that the patient's condition, treatment, and medical history are accurately handed over for the best possible care.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture order information from customers for a disposable menu order service. The form will be used to collect details such as customer comments, payment method, order date and time, address, and other relevant information. This form is crucial for the business to process and fulfill orders efficiently.
-</thinking>
-
 # Disposable Menu Order Form - Help Guide
 ## Purpose
 This form is for customers to submit their order information for the disposable menu service. It includes fields for menu items, special instructions, payment method, order date and time, and customer details such as address, city, state, zip, and country.

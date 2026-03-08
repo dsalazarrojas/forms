@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect information and approval on marker orders and layouts. The form will likely be used by someone with administrative privileges, and the purpose is to ensure that the marker orders are properly approved before proceeding with further actions. It is essential to review and understand the form carefully to avoid errors and ensure accurate data entry.
-
-When completing the form, please be aware that some fields are mandatory, and you may need to provide additional information or make selections in a specific way. The field-by-field explanation below will guide you through each step.
-
-</thinking>
-
 # Marker Order And Layout Approval Form - Help Guide
 
 ## Purpose

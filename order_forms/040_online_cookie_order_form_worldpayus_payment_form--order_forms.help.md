@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be filled out by customers or users to place an order for cookies. It's meant to be a simple form that gathers information such as name, email, quantity, cookie type, and payment method. The form is part of a larger system for managing cookie orders, likely within an e-commerce platform or online business. It's likely that the order status field is used by the business to track the progress of the order from "New" (initial order submission) to "Shipped" or "Cancelled" if necessary.
-</thinking>
-
 # Online Cookie Order Form WorldPayUS Payment Form - Help Guide
 ## Purpose
 The Online Cookie Order Form WorldPayUS Payment Form is designed to gather information from customers for placing cookie orders. This guide will walk you through how to fill out the form and what each field is used for.

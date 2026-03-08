@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to allow users to order a display rack for a fitness studio, providing essential details for delivery and management. The form is designed to be filled out by users who are interested in acquiring a display rack for their studio, and it should not be used to create multiple orders for the same user without explicit intent or approval from the form creator. Please ensure that this form is used for its intended purpose to avoid any confusion or duplication of efforts.
-</thinking>
-
 # Fitness Studio Display Rack Order Form - Help Guide
 ## Purpose
 This form is designed for users to provide details for ordering a display rack for their fitness studio. It collects essential information for delivery and management of the order.

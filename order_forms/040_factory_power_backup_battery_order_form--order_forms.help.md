@@ -1,10 +1,3 @@
-<thinking>
-This help guide will provide a clear and concise explanation of the "Factory Power Backup Battery Order Form" to assist end users in filling out the form correctly. The form is used for ordering power backup batteries from a factory. The purpose of the form is to gather necessary information for the order, including contact details, order specifications, and payment method. The form is divided into multiple sections, each containing specific fields that require accurate and complete information for a successful order submission.
-
-This guide will walk through each field and explain its purpose and requirements to ensure end users understand what is required from them. Please follow this guide carefully to avoid any issues with your order submission.
-
-</thinking>
-
 # Factory Power Backup Battery Order Form - Help Guide
 ## Purpose
 The "Factory Power Backup Battery Order Form" is used for ordering power backup batteries from a factory. This form requires accurate and complete information to process your order correctly.

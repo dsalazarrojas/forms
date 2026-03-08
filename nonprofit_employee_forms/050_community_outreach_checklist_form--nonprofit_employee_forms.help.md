@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to gather information about community outreach activities and events for tracking, evaluation, and reporting purposes. It should only be used for non-profit employee outreach activities and events. Please ensure that this form is not used for other purposes to maintain consistency and avoid duplication of efforts.</thinking>
-
 # Community Outreach Checklist Form - Help Guide
 ## Purpose
 The Community Outreach Checklist Form is a tool used to document and track non-profit employee outreach activities and events. It helps to gather information about the activity, such as the outreach lead, date, location, and primary objective.

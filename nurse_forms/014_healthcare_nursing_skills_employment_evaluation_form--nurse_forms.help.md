@@ -1,5 +1,3 @@
-<thinking>This form is intended to collect information about a nurse's employment status, including their years of experience, job title, medical school graduation date, and other relevant details. This form will help in assessing the employment status of nurses in the healthcare industry. The purpose of this form is to provide a structured way to collect and review information about nurse's employment history, which can be useful for various administrative purposes, such as credentialing, evaluation, and planning.</thinking>
-
 # Healthcare Nursing Skills Employment Evaluation Form - Help Guide
 ## Purpose
 This form is used to collect and evaluate a nurse's employment status and experience in the healthcare industry.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers to create a custom vehicle wrap design. The goal is to provide a clear and concise guide for customers to follow when filling out the form. Please ensure that this form is not being used for other purposes and that the information provided is accurate and up-to-date.
-</thinking>
-
 # Vehicle Wrap Design Order Form - Help Guide
 ## Purpose
 The Vehicle Wrap Design Order Form is used to gather essential details from customers to create a custom vehicle wrap design. This form will ask for information about the vehicle, design specifications, and contact details to ensure a smooth and successful design process.

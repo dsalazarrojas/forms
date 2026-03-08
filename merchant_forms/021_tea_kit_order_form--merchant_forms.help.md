@@ -1,7 +1,3 @@
-<thinking>
-Please note that this form is designed to help users order their chosen tea kits from a hypothetical business that specializes in creating tea kits for various customers. The form will collect general information about the customer, their tea kit preferences, shipping options, payment information, and a review of their order. It's essential to ensure that customers complete all the required fields accurately to provide the best possible experience. This form is not affiliated with any specific form creation platform and is a custom-built form for internal use. It's released under the Creative Commons 4.0 license, allowing users to freely use, modify, and even sell forms derived from it while giving credit.
-</thinking>
-
 # Tea Kit Order Form - Help Guide
 ## Purpose
 This form is designed to help customers order their chosen tea kits from our business. It collects necessary information to process and fulfill orders accurately and efficiently.

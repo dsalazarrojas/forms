@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from potential applicants for the Environmental Justice Education Project. The form is intended to be used by individuals or organizations who want to apply for a project that aims to educate the public about environmental justice issues. The form is not a mandatory requirement for all applicants, but rather a tool to help the project team assess and track applications.
-</thinking>
-
 # Environmental Justice Education Project Application Form - Help Guide
 ## Purpose
 This form is used to gather information from potential applicants for the Environmental Justice Education Project. It is an optional form that helps the project team assess and track applications.

@@ -1,5 +1,3 @@
-<thinking>HR File Completion Form is a document used to track an employee's personnel file completion status. This form captures information about an employee's details, emergency contacts, uploaded documents, and other relevant information. It's typically completed by an employee and their manager as part of an employee's onboarding process. To fill this form out, you'll need to gather relevant documents and signatures, and ensure that all required fields are filled out accurately. Ensure that you understand the purpose and use case of this form before filling it out.</thinking>
-
 # hr_file_completion_form - Help Guide
 
 ## Purpose

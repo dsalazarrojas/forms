@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Bakery Products Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers for ordering bakery products. It captures customer details, product selections, and order preferences, allowing you to efficiently process and fulfill orders.

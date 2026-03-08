@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be used for a return and refund process questionnaire, which is a form used to track and process returns and refunds for orders. It is likely used by customer service teams or administrators to record information about returns and refunds in a standardized and consistent manner. This form should only be used once the return process has begun and should not be used for initial order placement.
-
-To avoid duplication of effort, users should only access this form after the return and refund process has started and should not be used to create a new return and refund request. This form is for tracking and updating existing return and refund information.</thinking>
-
 # Return And Refund Process Questionnaire - Help Guide
 ## Purpose
 The Return And Refund Process Questionnaire is a form used to track and process returns and refunds for orders. It is intended for use by customer service teams or administrators to record information about returns and refunds in a standardized and consistent manner.

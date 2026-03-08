@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information for customers who wish to purchase fitness equipment through the Afterpay program, which allows for payment installments. This form will be used by the customer to specify their details, select the equipment they want to buy, and choose their preferred payment plan. The information collected will be used for delivery and payment processing. It is crucial to ensure the customer provides accurate contact and delivery information to avoid any issues with delivery or communication. Please double-check that the form is completed correctly before proceeding.
-</thinking>
-
 # Afterpay Fitness Equipment Order Form - Help Guide
 ## Purpose
 The Afterpay Fitness Equipment Order Form is a tool for customers to purchase fitness equipment through the Afterpay program. This form collects customer details, equipment selections, and payment plan preferences to facilitate smooth delivery and payment processing.

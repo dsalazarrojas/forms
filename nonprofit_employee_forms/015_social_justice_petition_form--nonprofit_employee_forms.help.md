@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Social Justice Petition Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals who want to express their support for a social justice issue. The goal is to allow people to sign in and share their stance on the issue, and to provide a message for why they support it.

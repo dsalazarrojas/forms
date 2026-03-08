@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's review the form's purpose and ensure it's a good fit for your needs. This Community Program Leadership Award Nomination Form is likely meant to identify and recognize outstanding individuals within the community for their leadership qualities and contributions. It's essential to confirm that this form is the correct tool for your use case, and that you're not duplicating efforts or creating unnecessary paperwork. If you're unsure, please reach out to your internal stakeholders for clarification.</thinking>
-
 # Community Program Leadership Award Nomination Form - Help Guide
 ## Purpose
 The Community Program Leadership Award Nomination Form is designed to collect information from community members and leaders about outstanding individuals who have made a significant impact within the community. This form helps identify and recognize individuals who have demonstrated exceptional leadership qualities and contributions.

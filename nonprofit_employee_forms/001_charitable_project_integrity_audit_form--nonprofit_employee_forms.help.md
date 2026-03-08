@@ -1,5 +1,3 @@
-<thinking>Before creating a user-facing help guide, I need to ensure that I understand the form's purpose and the context in which it will be used. This form appears to be designed for charitable project integrity audits, which are crucial for maintaining transparency and accountability within non-profit organizations. The purpose of this form is to gather information from auditors, project managers, and other relevant stakeholders to assess a charitable project's compliance with regulations, financial accuracy, and documentation status. This guide will explain the form's purpose, provide step-by-step instructions on how to complete it, and break down each field into a concise and practical explanation.</thinking>
-
 # Charitable Project Integrity Audit Form - Help Guide
 ## Purpose
 The Charitable Project Integrity Audit Form is designed to assess a charitable project's compliance with regulations, financial accuracy, and documentation status. It will help auditors and project managers identify areas of improvement and ensure that projects are running smoothly and efficiently.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for printing Athlete Welcome Packets. It includes fields for client and order information, packet specifications, delivery details, shipping and billing information, and order submission. The form is designed to be completed by the client (team or organization) to provide their specific requirements for the printing of the Athlete Welcome Packets. Please ensure that you have all necessary information before completing this form, as it will be used to produce the packets exactly as specified. This form should be used to order only Athlete Welcome Packets and not other types of printing jobs.
-</thinking>
-
 # Athlete Welcome Packet Printing Order Form - Help Guide
 ## Purpose
 The Athlete Welcome Packet Printing Order Form is a form designed to collect information for printing Athlete Welcome Packets. This form should be used by clients (teams or organizations) to specify their requirements for the printing and delivery of the packets.

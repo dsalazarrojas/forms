@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to monitor the effectiveness of a medical professional in their work environment. It's aimed at tracking performance indicators, monitoring frequency, and gathering feedback to identify areas for improvement. 
-The fields in this form are intended to collect information from multiple sources, including the medical professional's name, their performance indicators, monitoring frequency, and feedback frequency. This form is meant to be used by administrators or HR personnel to evaluate and improve the performance of medical professionals in a healthcare setting.
-This form is a part of a larger system for monitoring and improving the performance of medical professionals. It's essential to understand the purpose and fields of this form to ensure accurate and effective completion.
-The information collected from this form will be used to:
-- Track performance indicators to identify areas of improvement
-- Monitor frequency to determine the effectiveness of improvement plans
-- Gather feedback to make data-driven decisions
-</thinking>
-
 # healthcare_professional_effectiveness_monitoring_form - Help Guide
 ## Purpose
 The form is used to monitor and evaluate the effectiveness of a medical professional in their work environment.

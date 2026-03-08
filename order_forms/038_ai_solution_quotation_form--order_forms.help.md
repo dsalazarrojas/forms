@@ -1,12 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for an AI-generated form designed to gather information about a project's requirements for a quotation. The form is called "AI Solution Quotation Form" and is intended to collect client information, project details, and other relevant requirements. This guide will walk through the purpose and process of completing the form.
-
-The form is designed to be a starting point for businesses or individuals seeking to quote a solution for a project. It will help them provide the necessary information to get a quotation for their project. The purpose of the form is to collect data that will allow the solution provider to understand the project requirements and provide an accurate quote.
-
-Before starting, we'll check if this form is being completed for its intended purpose. If the user is already familiar with the form, they can skip this explanation. Please read on if you're not sure what this form is for or want to understand how it's designed to help you get a quotation for your project.
-
-</thinking>
-
 # AI Solution Quotation Form - Help Guide
 ## Purpose
 The "AI Solution Quotation Form" is designed to help project owners provide the necessary information for a solution provider to quote a project. By filling out this form, you'll be able to gather all the required details and provide a clear understanding of your project's needs.

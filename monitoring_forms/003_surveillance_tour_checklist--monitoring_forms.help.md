@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to be a checklist for surveillance tours, likely used by security personnel or monitoring teams to document their observations and incidents during their rounds. The form appears to be a simple text-based form, with five fields for collecting information on the start of the shift, patrol details, incidents encountered, and checkpoints visited. The form does not seem to have any complex or conditional logic, suggesting that it is a straightforward and easy-to-use form for quick data collection. Before proceeding, ensure this form is not a duplicate or outdated version of an existing form used within your organization. If you're unsure, consider checking with relevant stakeholders or searching your organization's documentation for similar forms.</thinking>
-
 # Surveillance Tour Checklist - Help Guide
 ## Purpose
 This form is designed to be a quick and easy checklist for surveillance teams to document their observations and incidents during their tours.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Stoa Tournament Script Submission Form - Help Guide
 ## Purpose
 The Stoa Tournament Script Submission Form is intended for participants in the Stoa Tournament to submit their scripts for review and evaluation. The form is used to gather information about the participant's script, including its name, description, and submission details. Submissions are collected to ensure that the participant's entry is properly recorded and processed for the tournament.

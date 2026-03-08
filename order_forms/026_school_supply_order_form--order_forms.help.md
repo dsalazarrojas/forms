@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a School Supply Order Form for schools to order school supplies. Before using this form, please ensure that you are in a suitable environment with necessary permissions to order school supplies. If you're looking for information on how to order school supplies, this form is not the appropriate resource. If you're not a school staff or parent/guardian, please do not complete this form as it may lead to duplication or confusion.
-</thinking>
-
 # School Supply Order Form - Help Guide
 ## Purpose
 This School Supply Order Form is a tool for school staff and parents/guardians to order school supplies for students. The form is designed to collect important information about the order, including contact details and the list of school supplies to be purchased.

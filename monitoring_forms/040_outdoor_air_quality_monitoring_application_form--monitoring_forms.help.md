@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about outdoor air quality monitoring projects. This form is likely used by project managers or researchers to gather details about a project, such as the project's title, scope, and expected outcomes. The form may be used to track and report on various aspects of the project, including data sources, handling, and analysis.
-
-Before proceeding, ensure that this form is relevant and necessary for your specific project or task. If you're unsure, refer to your project's requirements or consult with your project manager.
-
-</thinking>
-
 # Outdoor Air Quality Monitoring Application Form - Help Guide
 ## Purpose
 This form collects information about outdoor air quality monitoring projects, including project details, monitoring locations, and expected outcomes.

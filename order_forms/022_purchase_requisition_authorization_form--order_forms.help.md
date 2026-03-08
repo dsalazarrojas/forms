@@ -1,5 +1,3 @@
-<thinking> This form is used to gather information from vendors, including purchase requests and requisitioning details. To avoid duplicate requests, the form will only show up for the first time a user accesses the form. This ensures that the user can only submit one request per vendor at a time. The form will display the vendor's name and address, as well as the request date, description, and status. The user will be able to select the approved by field, choose the purchase request status, and input the purchase request amount. Additionally, the form will include fields for notes, email, phone, contact person, and approval date and time. The user will also be able to input the department, category, location, request number, and remarks. Lastly, the form will include fields for the purchase requester's title, department, and phone number. </thinking>
-
 # Purchase Requisition Authorization Form - Help Guide
 ## Purpose
 The Purchase Requisition Authorization Form is used to gather information from vendors, including purchase requests and requisitioning details.

@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to help customers provide their order information for a women's boutique. The form is divided into different sections that collect various details such as customer information, order items, shipping details, review, payment, customer order notes, billing information, and a customer signature. To ensure that the form serves its purpose effectively, please make sure to complete it in accordance with the provided guidelines and explanations below.</thinking>
-
 # Women's Boutique Order Form - Help Guide
 ## Purpose
 This form is designed for customers to provide their order information for a women's boutique. It collects details such as customer contact information, order items, shipping details, and payment information.

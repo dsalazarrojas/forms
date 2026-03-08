@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for online orders, possibly for a business or e-commerce website. The form's purpose is to collect customer information and order details. It seems to be a basic form for customers to place orders with various options for payment and products/services selection. It does not include any sensitive data collection or any other complex logic, so it's likely a simplified version of a typical order form. It's possible that this form is for a simple online store or a service provider.
-</thinking>
-
 # Universal Order Form - Help Guide
 ## Purpose
 The Universal Order Form is a tool used to collect customer information and order details for online orders.

@@ -1,7 +1,3 @@
-<thinking>
-  This form is used for registering merchants with Stripe, a payment gateway service. It's crucial to provide accurate and complete information to ensure successful registration. Before proceeding, please make sure you haven't already submitted this form. This form is meant for merchants who wish to start accepting payments through Stripe.
-</thinking>
-
 # stripe_registration_form - Help Guide
 ## Purpose
 The stripe_registration_form is used to register merchants with Stripe, a payment gateway service, to start accepting payments.

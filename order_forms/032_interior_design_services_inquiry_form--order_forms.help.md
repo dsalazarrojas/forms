@@ -1,12 +1,3 @@
-<thinking>
-We will first identify the purpose of the form as "interior_design_services_inquiry_form" which likely involves gathering information from clients for interior design services. This form is used to collect data about the client, project details, and contact information. To avoid duplication and ensure relevance, we will check if the form is being used for its intended purpose before proceeding with the guide.
-
-Form purpose: Gathering information from clients for interior design services.
-
-Form fields will be explained in a concrete and practical manner to help end-users understand what is expected from them.
-
-</thinking>
-
 # interior_design_services_inquiry_form - Help Guide
 ## Purpose
 This form is used to gather information from clients for interior design services. It helps us understand their needs, provide better services, and ensure a successful collaboration.

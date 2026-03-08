@@ -1,20 +1,3 @@
-<thinking> 
-This form is designed to collect information related to shipping logistics and customer interactions. It appears to be used to track and document the shipping process, including the status of shipments, the method of shipping, and customer interactions. The form likely serves as a centralized location for recording and viewing shipping information, enabling the tracking of packages and customer communication. This form should only be used for shipping-related activities, as it may not be suitable for other types of customer interactions or tasks.
-
-Please note that the form fields suggest a focus on shipping logistics, such as the ship date, tracking number, and shipping method, which implies that this form is primarily used for internal logistics and customer service purposes. Additionally, the form seems to be designed for use by employees or staff members who are responsible for handling shipments and customer interactions.
-
-Before filling out this form, please ensure that you are using it for its intended purpose and that the information you enter is accurate and relevant to the shipping activity being tracked. If you are unsure about the purpose of this form or need further guidance, please consult your supervisor or the relevant department.
-
-If you have already filled out this form and are reviewing it for updates or revisions, please take note of any changes to the form fields or their meanings. This will help ensure that your previous entries remain consistent and accurate.
-
-This form is designed to be used in conjunction with other shipping and customer interaction processes and tools. For example, it may be used to update customer records, track shipping progress, or notify customers of shipment status.
-
-Please use this form responsibly and in accordance with your role and responsibilities within the organization.
-
-After completing the shipping checklist, you may want to file the form and update relevant records and systems as necessary.
-
-</thinking>
-
 # shipping_checklist - Help Guide
 ## Purpose
 The shipping checklist is used to track and document the shipping process, including the status of shipments, the method of shipping, and customer interactions.

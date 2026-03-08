@@ -1,8 +1,3 @@
-<thinking>
-This guide assumes that the Stripe Church Donation Form is intended to collect information from individuals wishing to make a donation to the church. The form is likely used for internal purposes, such as tracking donations and understanding donor demographics. To avoid duplication, users should only complete the form once and not repeat the process for the same donation. The form appears to be designed to collect basic contact information, donation details, and payment preferences.
-
-</thinking>
-
 # Stripe Church Donation Form - Help Guide
 ## Purpose
 The Stripe Church Donation Form is a simple form designed to collect information from individuals making a donation to the church. It is intended to gather basic contact details, donation amount and purpose, and payment preferences.

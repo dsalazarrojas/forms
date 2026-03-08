@@ -1,7 +1,3 @@
-<thinking>
-This form is a Seasonal Product Order Form used for customers to place orders for products during specific seasons. The form is designed to collect customer information, product details, and order status. It's meant to be filled out by customers to place orders, not by internal employees or administrators. This form should only be used for seasonal products and not for other types of orders.
-</thinking>
-
 # Seasonal Product Order Form - Help Guide
 ## Purpose
 This form is intended for customers to place orders for seasonal products.

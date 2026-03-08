@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Project Funding Request Form" that explains its purpose, the steps to complete it, and each field's explanation. This form appears to be designed for nonprofit organizations to request funding for specific projects. The purpose of this form is to gather information about the project, including its details, funding source, and contact information of the submitter and the organization. It seems to be used by employees of nonprofit organizations to request funding for their projects.
-</thinking>
-
 # Project Funding Request Form - Help Guide
 ## Purpose
 The Project Funding Request Form is used by nonprofit employees to request funding for their projects. This form helps the organization gather information about the project, including its details, funding source, and contact information of the submitter and the organization.

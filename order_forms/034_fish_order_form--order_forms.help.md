@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Fish Order Form - Help Guide
 ## Purpose
 The Fish Order Form is designed to collect information from customers for a fish order. This form is used to gather essential details about the customer and their fish selection preferences.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for onboarding new telehealth therapists into the system. This form is intended to collect basic information about the therapist, including demographic and professional details. Before starting, please ensure you are not already registered in the system. If you are unsure, check with your internal team or system administrators.
-</thinking>
-
 # Telehealth Therapist Onboarding Form - Help Guide
 ## Purpose
 The Telehealth Therapist Onboarding Form is used to gather essential information about new telehealth therapists, ensuring a smooth and secure onboarding process. This form will ask for basic contact and professional details to create your account and set up your virtual office.

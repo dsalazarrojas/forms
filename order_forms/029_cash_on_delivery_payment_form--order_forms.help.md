@@ -1,8 +1,3 @@
-<thinking>
-Form purpose: This form is used for capturing cash-on-delivery (COD) payment information from customers when making an order. It's a multi-page form that collects relevant details such as order date, customer information, delivery address, order details, payment information, and delivery preferences.
-To ensure the form is filled out correctly, please review the fields below.
-</thinking>
-
 # Cash On Delivery Payment Form - Help Guide
 ## Purpose
 This form is used for capturing cash-on-delivery (COD) payment information from customers when making an order. It's a multi-page form that collects relevant details such as order date, customer information, delivery address, order details, payment information, and delivery preferences.

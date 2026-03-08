@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to conduct a program outcome audit for non-profit organizations. This audit is an internal process to ensure that programs are effectively meeting their intended outcomes and making progress towards their goals. 
-
-To avoid duplication, ensure that this form is only used for programs that have already been initiated and are not in the planning stage. 
-
-This form is used to gather information about program results, outcomes, and progress towards goals. 
-
-</thinking>
-
 # Nonprofit Program Outcome Audit Form - Help Guide
 ## Purpose
 The Nonprofit Program Outcome Audit Form is a crucial tool for non-profit organizations to evaluate the effectiveness of their programs and identify areas for improvement. This form helps to collect and document information about program results, outcomes, and progress towards goals, allowing organizations to make data-driven decisions and optimize their programs.

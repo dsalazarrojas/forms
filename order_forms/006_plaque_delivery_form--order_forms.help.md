@@ -1,34 +1,3 @@
-<thinking>
-This form is a Plaque Delivery Form, designed to collect information for delivering plaques. The purpose of this form is to gather essential details from customers for successful plaque delivery. The form is divided into four sections, each with a specific field to capture relevant information.
-
-The form's internal logic is as follows:
-
-*   If the recipient's email is provided, the form will send a delivery confirmation email to the recipient.
-*   If delivery instructions are provided, the form will add these to the delivery notes.
-*   If a delivery address is provided, the form will use this address for delivery.
-
-To avoid confusion, this form is designed to collect information for a single delivery.
-
-This form does not require any specific setup or configuration to function.
-
-The following sections are included in the form:
-
-*   Delivery Address: This section is used to capture the address of the recipient.
-*   Recipient name: This section is used to capture the name of the recipient.
-*   Delivery Instructions: This section is used to capture any special instructions for the delivery.
-*   Email: This section is used to capture the recipient's email address for delivery confirmation.
-
-The form can be completed in the following steps:
-
-1.  Fill in the delivery address in the "Delivery Address" field.
-2.  Enter the recipient's name in the "Recipient name" field.
-3.  If desired, provide delivery instructions in the "Delivery Instructions" field.
-4.  Enter the recipient's email address in the "Email" field to receive a delivery confirmation.
-
-This form is designed to be easy to use and requires minimal information to complete.
-
-</thinking>
-
 # Plaque Delivery Form - Help Guide
 ## Purpose
 The Plaque Delivery Form is designed to collect information for delivering plaques. The form is used to gather essential details from customers for successful plaque delivery.

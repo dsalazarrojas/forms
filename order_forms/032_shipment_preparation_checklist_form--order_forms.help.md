@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about shipments, including order number, shipping address, contact information, shipment details, shipping method, and shipment status. The form is used to ensure that all necessary information is collected before a shipment is prepared and sent out. The form should only be used by authorized personnel and should not be duplicated or used for other purposes.
-
-</thinking>
-
 # Shipment Preparation Checklist Form - Help Guide
 ## Purpose
 The Shipment Preparation Checklist Form is used to collect and record information about shipments. It ensures that all necessary information is collected before a shipment is prepared and sent out.

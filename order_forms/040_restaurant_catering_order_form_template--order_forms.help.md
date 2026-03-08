@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Restaurant Catering Order Form Template - Help Guide
 
 ## Purpose

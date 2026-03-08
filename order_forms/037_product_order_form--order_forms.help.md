@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Product Order Form - Help Guide
 ## Purpose
 The Product Order Form is designed to collect information for product orders. It is intended for customers to provide details about the products they would like to order.

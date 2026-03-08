@@ -1,20 +1,3 @@
-<thinking>
-This form is designed for Customer Experience (CX) specialists to onboard new employees. The form captures essential information about the employee's experience, training requirements, work schedule, and onboarding status. The fields are divided into various sections, making it easy for CX specialists to navigate and provide accurate information. The form helps ensure that all necessary details are collected to support a smooth onboarding process.
-
-The form includes fields for:
-* Company and job title
-* Contact information (email and phone)
-* Training requirements
-* Training preferences
-* Work location and schedule
-* Job description
-* Onboarding status
-* Onboarding dates
-* Onboarding manager and review status
-
-This form should only be used by authorized personnel within the company to ensure data accuracy and security.
-</thinking>
-
 # customer_experience_specialist_onboarding_form - Help Guide
 ## Purpose
 The customer experience specialist onboarding form is a comprehensive tool designed to capture essential information about new hires to support their onboarding process.

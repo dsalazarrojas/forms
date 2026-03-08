@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to provide instructions and explanations for end-users on how to complete and understand the "Monitoring Performance Survey" form. Before proceeding, it's essential to ensure that this form is relevant and not a duplicate task for the user. The form is designed to collect feedback and performance data from employees. Its purpose is to help monitor and improve performance in the organization.
-</thinking>
-
 # Monitoring Performance Survey - Help Guide
 ## Purpose
 The "Monitoring Performance Survey" form is designed to collect feedback and performance data from employees. This data will help monitor and improve performance in the organization.

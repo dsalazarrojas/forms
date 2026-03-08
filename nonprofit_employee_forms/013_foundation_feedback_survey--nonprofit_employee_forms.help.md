@@ -1,10 +1,3 @@
-<thinking>
-The "foundation_feedback_survey" form is designed to collect feedback from nonprofit organization employees. The form has 10 fields, which are grouped into the following sections: introduction, category, question 1, question 2, question 3, foundation employee, contact information, email, phone, date, and time.
-The form is intended to gauge the quality of service provided by the foundation and suggest areas for improvement. It is not a mandatory form, meaning that the user can choose which fields to fill in.
-The form will likely be used by foundation employees or managers to collect feedback from various stakeholders. 
-Before filling out the form, please ensure that you are providing feedback that is relevant and specific. Duplicate feedback will not be accepted.
-</thinking>
-
 # foundation_feedback_survey - Help Guide
 ## Purpose
 The foundation_feedback_survey form is designed to collect feedback from nonprofit organization employees to gauge the quality of service provided by the foundation and suggest areas for improvement.

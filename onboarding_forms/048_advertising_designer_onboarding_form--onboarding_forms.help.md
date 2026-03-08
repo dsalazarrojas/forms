@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to capture essential information from the Advertising Designer onboarding process. The goal is to gather employee details, design proficiency, and preferences for onboarding into the company's creative team. It's designed to be completed by new Advertising Designers during their onboarding process, ensuring they're properly set up with necessary information for their new role.
-
-</thinking>
-
 # Advertising Designer Onboarding Form - Help Guide
 ## Purpose
 The Advertising Designer Onboarding Form is used to collect essential information from new Advertising Designers during their onboarding process. This includes personal details, design proficiency, and preferences for their work setup and onboarding tasks.

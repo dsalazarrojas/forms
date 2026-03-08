@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended for requesting material from a central inventory or repository. The purpose of this form is to provide a straightforward way for users to submit a material requisition request, including necessary information such as the institution requesting the material, date and time of the request, material title and type, quantity, and any relevant comments. By using this form, users can ensure that their requisition requests are properly documented and easily identifiable for processing.
 
 </thinking>

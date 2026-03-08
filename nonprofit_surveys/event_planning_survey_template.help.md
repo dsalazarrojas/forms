@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to gather feedback from attendees of a nonprofit event to improve future events and engagement. This information will help the organization understand what aspects of the event were valuable to attendees, what areas need improvement, and what motivates people to attend similar events.
-The form is designed to collect data on event experience, organization, and attendee motivation. It is not intended to be a comprehensive survey, but rather a brief, focused assessment.
-The form fields should be filled out by attendees of the event, providing honest and candid feedback.
-</thinking>
-
 # Event planning survey template - Help Guide
 ## Purpose
 This form is designed to gather feedback from attendees of our recent event to help us improve future nonprofit activities and engagement. Your input will help us understand what we did well and what we can do better.

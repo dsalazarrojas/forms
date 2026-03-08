@@ -1,6 +1,3 @@
-<thinking>
-To determine the purpose of this form, we first examine the fields and structure. The form collects information from a requestor, which suggests it is used for requesting supplies. The form includes personal information for the requestor, such as name, email, and department, indicating that it is an official request. The supplies requested section has multiple fields for different items, suggesting a list of multiple supplies can be requested. There is also a section for specifications and quality standards, implying the need for details about the supplies' dimensions, material, or grade. The form also includes a timeline and urgency level section, indicating the requestor wants to specify when the supplies are needed and the priority level of the request. Lastly, there is an approver and estimated cost field, suggesting that the form is intended for official procurement or purchasing processes within an organization.
-</thinking>
 # Architectural Drafting Supply Requisition Form - Help Guide
 ## Purpose
 This form is designed to collect information from a requestor for architectural drafting supplies. It is used to officially request supplies within an organization for architectural drafting projects. The form captures personal and project information, supply details, and urgency level for procurement purposes.

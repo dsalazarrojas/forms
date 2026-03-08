@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Vendor Order Confirmation Request Form", I first need to understand the form's purpose, which is to request confirmation of vendor orders. This form is likely used to ensure that orders are accurately processed and communicated with vendors, reducing errors and misunderstandings.
-
-To avoid duplication, I will review the form's fields and their properties to ensure I cover each field's purpose and explanation concisely. I will then create a comprehensive help guide that covers the form's purpose, how to complete it, and an explanation of each field.
-
-</thinking>
-
 # Vendor Order Confirmation Request Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for monitoring employee productivity in various projects. It's likely used by supervisors or managers to track an employee's progress and efficiency in completing tasks. This form can be used to record and analyze employee work hours, productivity scores, and comments on projects. It might be used in an office setting where employees are working on different tasks and projects, and the supervisor needs to monitor their progress and provide feedback.
-</thinking>
-
 # Productivity Monitoring Form - Help Guide
 ## Purpose
 This form is designed to track and monitor employee productivity in various projects. It helps supervisors and managers to record and analyze employee work hours, productivity scores, and comments on projects.

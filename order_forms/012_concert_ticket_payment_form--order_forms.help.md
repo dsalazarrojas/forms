@@ -1,9 +1,3 @@
-<thinking>
-
-To avoid duplication of payment information (e.g., card number, expiry date, etc.) on the order form, it's essential that the form is filled out in one go. The user should review their order carefully, especially the event details (concert event name, event date, location, and ticket type) before finalizing the order and payment information. This form serves as an order summary and payment gateway, allowing users to review and confirm their orders before proceeding with the payment. The form requires users to provide their billing information (address, phone number, and email) as part of the payment process.
-
-</thinking>
-
 # Concert Ticket Payment Form - Help Guide
 ## Purpose
 This form serves as an order summary and payment gateway for concert ticket purchases. It requires users to review their order details before proceeding with payment.

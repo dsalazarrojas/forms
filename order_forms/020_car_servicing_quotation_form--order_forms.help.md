@@ -1,5 +1,3 @@
-<thinking>Form purpose: This form is designed to collect information from customers for a car servicing quotation. It helps us understand their vehicle details, servicing needs, and preferences. This information will be used to provide an accurate estimate of the servicing cost. Please ensure you fill out the form accurately and completely to receive a reliable quote.</thinking>
-
 # Car Servicing Quotation Form - Help Guide
 ## Purpose
 This form is designed to collect information for a car servicing quotation from customers. Please fill it out accurately and completely to receive a reliable quote.

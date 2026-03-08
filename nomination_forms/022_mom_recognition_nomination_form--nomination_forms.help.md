@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be completed by users who wish to nominate their mom for recognition. The purpose of this form is to gather information about the nominee, including their name, job title, and reason for nomination. The form also includes fields for the submittor to provide their contact information and submit the nomination. The fields in this form are meant to be completed only once, for a single nomination. If a user has already nominated their mom in the past, please do not submit another nomination. Only submit a new nomination if a mom has been recognized and you have a new reason for nominating them again.
-</thinking>
-
 # Mom Recognition Nomination Form - Help Guide
 ## Purpose
 The Mom Recognition Nomination Form is a tool for nominating your mom for recognition. Use this form to provide details about your mom's accomplishments and why you think she deserves to be recognized.

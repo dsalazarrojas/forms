@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Crochet Order Form - Help Guide
 ## Purpose
 The Crochet Order Form is a form used for customers to provide their details and information for a specific order, including customer details, order information, payment information, delivery address, and order notes. This form helps ensure that all necessary information is provided to process the order correctly.

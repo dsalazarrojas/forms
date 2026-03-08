@@ -1,8 +1,3 @@
-<thinking>
-This form is used to capture information for foam injection services. The purpose of this form is to gather customer details, service requests, and specific foam-related information such as quantity, type, color, and size. This form is not intended for immediate completion; rather, it is for planning and coordination purposes.
-The form is designed to be flexible and not required for every field. This form is meant for customers and internal users to provide information about their foam injection service requests. It should only be filled out when needed.
-</thinking>
-
 # injection_foam_work_order_form - Help Guide
 ## Purpose
 This form is used to capture information for foam injection services. It is for customers and internal users to provide details about their foam injection service requests.

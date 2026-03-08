@@ -1,17 +1,3 @@
-<thinking>
-
-This form is designed to assess the level of burnout experienced by nonprofit employees and the effectiveness of their organization's burnout prevention and management plans. 
-
-It is essential for nonprofit organizations to understand and address burnout among their employees, as it can lead to decreased productivity, increased turnover, and a higher likelihood of employee turnover. Burnout can also negatively impact employee's physical and mental health. Nonprofits with effective burnout prevention and management plans can improve employee well-being, increase engagement, and overall performance. 
-
-This form will help nonprofit leaders and management understand the needs and concerns of their staff, identify areas for improvement, and develop strategies to mitigate burnout. 
-
-The form is divided into 25 questions, covering various aspects of burnout, including burnout frequency, causes, impact, and prevention and management plans. It also asks about support received from supervisors and colleagues, and how effective they believe their organization's burnout prevention and management plan is. 
-
-Nonprofit leaders and management should ensure that all employees take the time to complete this form honestly and thoroughly. Their responses will help identify areas for improvement and inform policies and initiatives to support their staff's well-being.
-
-</thinking>
-
 # Nonprofit Employee Burnout Study - Help Guide
 ## Purpose
 This guide will walk you through the Nonprofit Employee Burnout Study form and provide explanations for each field.

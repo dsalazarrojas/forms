@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for ordering and planning store inspections, and is used to collect information about the inspection, including contact details, location, and checklist items. This form is likely used by store managers or inspectors to coordinate and track store inspections. The fields on this form should be filled out in accordance with the store's inspection procedures and guidelines.
-</thinking>
-
 # Store Inspection Checklist Order Form - Help Guide
 ## Purpose
 This form is used to order and plan store inspections, allowing you to coordinate and track the inspection schedule and details.

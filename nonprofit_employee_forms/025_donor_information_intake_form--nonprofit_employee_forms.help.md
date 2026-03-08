@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from potential donors to facilitate communication and track donations for the nonprofit organization. It is intended for individuals who wish to contribute to the organization's mission. The form should only be submitted once per donor, as submitting multiple times will be considered a duplicate entry and will not be accepted.
-</thinking>
-
 # Donor Information Intake Form - Help Guide
 ## Purpose
 The Donor Information Intake Form is designed to collect contact information and donation details from individuals who wish to contribute to the nonprofit organization.

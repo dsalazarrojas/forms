@@ -1,5 +1,3 @@
-<thinking>...Internal logic is that this form is used to track the onboarding process of new franchises, including the status of their onboarding kits. It captures essential contact information for both the store and franchise manager, and allows users to track the progression of the onboarding process, including the status of the onboarding kit. This form helps ensure consistency and accuracy in recording the onboarding process for each franchise, reducing potential errors and miscommunications. To avoid duplication of effort, this form should only be used for new franchises being onboarded... </thinking>
-
 # Franchise Brand Onboarding Kit Order Form - Help Guide
 ## Purpose
 This form is used to track the onboarding process of new franchises, including the status of their onboarding kits and essential contact information for both the store and franchise manager.

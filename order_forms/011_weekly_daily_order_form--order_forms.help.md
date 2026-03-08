@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Weekly Daily Order Form - Help Guide
 
 ## Purpose

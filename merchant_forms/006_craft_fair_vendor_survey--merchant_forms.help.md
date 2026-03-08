@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # craft_fair_vendor_survey - Help Guide
 
 ## Purpose

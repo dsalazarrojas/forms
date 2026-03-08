@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to provide transparency and accountability for nonprofit organizations. It is designed to collect information about the organization's financial and operational activities, including its structure and governance. This form is intended for organizations that want to publicly disclose their financial information and demonstrate their commitment to transparency and accountability.
-
-The form is used to collect information about the organization's financial reporting frequency, asset types, liabilities, and equity types. It also collects information about the organization's governance structure, including its board of directors. 
-
-This form is not intended for public disclosure purposes only, it is used internally to ensure that the organization is in compliance with the relevant regulatory requirements.
-
-</thinking>
-
 # nonprofit_transparency_declaration_form - Help Guide
 ## Purpose
 The Nonprofit Transparency Declaration Form is used to collect information about a nonprofit organization's financial and operational activities, structure, and governance. This form is intended to provide transparency and accountability for the organization.

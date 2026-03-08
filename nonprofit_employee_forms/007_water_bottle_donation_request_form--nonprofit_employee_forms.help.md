@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "Water Bottle Donation Request Form" is to allow users to request water bottle donations for pickup or delivery. This form is used to gather information about the donor, their water requests, delivery details, and pickup information. The form is used to streamline the process of requesting water bottles for those in need and to ensure that the donation process is efficient and effective. Before filling out this form, please ensure that the information you provide is accurate and complete, and that you are not duplicating a previous request. If you are unsure about any of the fields or have questions, please contact the relevant personnel for clarification.
-</thinking>
-
 # Water Bottle Donation Request Form - Help Guide
 
 ## Purpose

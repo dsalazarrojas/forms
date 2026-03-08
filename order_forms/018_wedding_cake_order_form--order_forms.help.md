@@ -1,7 +1,3 @@
-<thinking>
-The Wedding Cake Order Form is intended to collect information from customers regarding their order for a custom wedding cake. This form aims to gather necessary details such as the order date, time, type, size, and filling of the cake. It also captures contact information and any special messages for the baker. The form does not currently enforce any specific requirements for any of the fields, suggesting that it is intended to be a basic template or starting point for customizing. The fields seem to be focused on the wedding cake's characteristics and the customer's contact information. I will create a concise and practical help guide based on these assumptions.
-</thinking>
-
 # Wedding Cake Order Form - Help Guide
 ## Purpose
 This form is designed to collect information about your custom wedding cake order. Please fill out the form with your details to ensure that your special day is celebrated with the perfect cake.

@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for users to complete a weekly environmental assessment form. It's used to collect feedback on site conditions, hazards, sustainability metrics, and other relevant information. The form is designed to be completed by site visitors or users and is an optional field for submitters. It is assumed that users understand the general purpose of the form and are familiar with the basic concepts of site conditions, hazards, and sustainability.
-</thinking>
-
 # Weekly Environmental Assessment - Help Guide
 ## Purpose
 The Weekly Environmental Assessment form is used to collect information on site conditions, hazards, and sustainability metrics to support environmental monitoring and management at the site.

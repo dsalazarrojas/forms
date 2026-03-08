@@ -1,7 +1,3 @@
-<thinking>
-A healthcare organization often uses this Medical Assistant Evaluation Form to gather information about patient interactions. This form may be used during routine evaluations of medical assistants, which can help improve patient care, monitor the effectiveness of medical assistants, and identify areas for training or development. It is essential to fill this form accurately and consistently, as it helps healthcare providers make informed decisions about patient care. 
-</thinking>
-
 # Medical Assistant Evaluation Form - Help Guide
 
 ## Purpose

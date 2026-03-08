@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from customers for a specific order of robotics end arm tooling products. The form is designed to be a simple and efficient way to gather necessary details for processing the order. The purpose of this form is to ensure that the customer's order is correctly processed and delivered to the right customer. To check for relevance and non-duplication, we should note that this form is only for customers who are ordering robotics end arm tooling products and should only be filled out by those who have a legitimate order to place.
-</thinking>
-
 # Robotics End Arm Tooling Order Form - Help Guide
 ## Purpose
 This form is designed to collect order information for robotics end arm tooling products. It is intended for customers who wish to place an order for these specific products.

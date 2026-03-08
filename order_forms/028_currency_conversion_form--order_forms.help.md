@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for users to input and manage their currency conversion requests. The purpose of this form is to facilitate the conversion of one currency to another, allowing users to select the original and target currencies, input the amount to be converted, and choose the conversion date and time. 
-This form will only be used for non-repetitive currency conversion requests.
-</thinking>
-
 # currency_conversion_form - Help Guide
 ## Purpose
 This form is a tool for users to convert currencies and input notes or comments about their conversion request.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cupcakes Order - Help Guide
 ## Purpose
 This form is designed to gather order information from customers. It allows customers to provide their name, email, phone, order type, and any additional notes or messages related to their order. The form is intended to be completed by customers who want to place an order with our cupcake shop.

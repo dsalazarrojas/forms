@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information from a sponsor or organization that wishes to sponsor children's activities. The form is meant to be used by a non-profit organization to gather necessary contact and financial information from the sponsor. The form ensures that the sponsor is aware of the terms and conditions of the sponsorship and agrees to the terms of the sponsorship. 
-</thinking>
-
 # Children Play Sponsorship Form - Help Guide
 ## Purpose
 The Children Play Sponsorship Form is a document used by a non-profit organization to gather information from sponsors or organizations that wish to support children's activities. The form is crucial in ensuring that sponsors are aware of the terms and conditions of their sponsorship and agree to the terms of the sponsorship.

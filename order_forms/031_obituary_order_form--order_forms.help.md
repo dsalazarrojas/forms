@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about an individual's obituary order. The form is designed to be completed by family members or other authorized individuals to provide details about the deceased, including the funeral home and director involved, the type of obituary to be published, and any additional fields to be included. This form helps ensure that the necessary information is collected correctly and efficiently, reducing the risk of errors or omissions.
-</thinking>
-
 # Obituary Order Form - Help Guide
 ## Purpose
 This form is designed to collect information about an individual's obituary order, ensuring that all necessary details are gathered efficiently and accurately.

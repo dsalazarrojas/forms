@@ -1,7 +1,3 @@
-<thinking>
-The form is likely a monitoring form for collecting data from users, possibly for research or analysis purposes. Given the structure, it seems to be a simple form with a few fields on each page. The purpose might be to collect information from users on different topics, possibly with a focus on specific industries or categories. To confirm, let's review the provided YAML data. The form has three pages (or sections), and each page contains a single field with a 'text' type. This suggests that the form is designed to collect short answers or descriptions from users.
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form, titled "<string>", is designed to collect short answers or descriptions from users across multiple pages. The form is likely intended to gather information from users on specific topics, possibly for research, analysis, or record-keeping purposes.

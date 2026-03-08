@@ -1,14 +1,3 @@
-<thinking>
-The form "Color Street On Hand Stock By Mama Osita Manis" is used to manage on-hand stock levels for a specific product. It captures essential information about the product, including its owner's name, product code, description, and stock details such as units on hand and retail price. The form also includes fields for indicating if the product requires reordering, the preferred supplier, and any additional notes.
-
-To complete this form, ensure you understand the following:
-
-* The form is intended to track on-hand stock levels for a specific product.
-* The form requires the following fields to be completed: Owner name, Product code, Product description, Units on hand, and Reorder needed.
-* The form does not require completion of all fields to be submitted, but missing fields may lead to incomplete or inaccurate data.
-
-</thinking>
-
 # Color Street On Hand Stock By Mama Osita Manis - Help Guide
 ## Purpose
 The form is used to track and manage on-hand stock levels for a specific product, including essential details about the product and its stock status.

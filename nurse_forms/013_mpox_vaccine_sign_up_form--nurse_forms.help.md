@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from individuals to schedule appointments for the Mpox vaccine. This form is intended for people who want to sign up for the vaccine and provide necessary contact and medical information. The form will help us understand the individual's availability for the appointment and collect any relevant medical history that may be required for the vaccination process.
-
-Before filling out this form, please make sure you do not have any existing appointments with our clinic. If you have previously filled out this form, you may not need to fill it out again.
-
-</thinking>
-
 # Mpox Vaccine Sign Up Form - Help Guide
 
 ## Purpose

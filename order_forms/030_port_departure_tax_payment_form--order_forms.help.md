@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Port Departure Tax Payment Form - Help Guide
 
 ## Purpose

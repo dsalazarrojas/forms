@@ -1,7 +1,3 @@
-<thinking>
-This form was created to gather information about store window display orders. The purpose of this form is to collect data that will help store management track and manage their window display orders. This form will guide you through a three-page process to provide the necessary information. Please make sure to fill out each page completely and accurately. If you need to create a new window display order, please do so by filling out all fields on each page. 
-</thinking>
-
 # Store Window Display Order Form - Help Guide
 ## Purpose
 

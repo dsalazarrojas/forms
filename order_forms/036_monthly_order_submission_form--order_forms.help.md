@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for monthly order submissions. This form should be used by authorized personnel to submit orders for delivery, ensuring that the required details are accurate and complete. The form is designed to be completed by one person per submission, and it is not intended to be duplicated or submitted by multiple individuals. Please ensure that you have reviewed and understood the submission guidelines before proceeding.
-</thinking>
-
 # Monthly Order Submission Form - Help Guide
 ## Purpose
 The Monthly Order Submission Form is a tool used to collect and document monthly order submissions from authorized personnel. It helps to ensure that all necessary information is provided accurately and efficiently, facilitating smooth order processing and delivery.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from nail artists about their pricing practices and policies. The main goal is to gather data that will help nail artists understand their current pricing strategies and how they compare to industry standards. This form is meant to be completed by nail artists who are looking to improve their pricing practices and increase transparency in their business.
-
-Internal reasoning check: The form has several fields related to pricing strategies, pricing structures, and customer satisfaction levels. These fields are likely to be relevant to the form's purpose. There are no obvious duplicates in the form's fields.
-
-</thinking>
-
 # Nail Artist Pricing Transparency Survey Form - Help Guide
 ## Purpose
 This form is designed to collect information from nail artists about their pricing practices and policies. It will help you understand your current pricing strategies and how they compare to industry standards.

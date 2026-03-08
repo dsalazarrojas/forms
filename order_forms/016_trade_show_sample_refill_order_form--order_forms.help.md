@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Trade Show Sample Refill Order Form - Help Guide
 ## Purpose
 This form is designed to allow customers to place orders for sample refills for trade show exhibits. The form gathers information about the order, shipping details, and any additional comments or notes.

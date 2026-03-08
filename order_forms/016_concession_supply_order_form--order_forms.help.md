@@ -1,23 +1,3 @@
-<thinking>
-This form is for ordering concessions for events. It is used to collect order details, event information, and delivery preferences. To prevent duplication, this form should only be used when ordering concessions for a new event. 
-
-The form collects the following information:
-- Order date
-- Event name
-- Event date
-- Venue location
-- Customer details (name and contact information)
-- Beverage supplies (number of cases)
-- Delivery date and time
-- Payment terms
-- Estimated order total
-
-The form should not be used for orders that are already placed or have been cancelled. 
-
-Please note that the form is not designed to handle orders for multiple events or orders that need split payment terms. 
-
-</thinking>
-
 # Concession Supply Order Form - Help Guide
 ## Purpose
 This form is used to place a new order for concessions for an event. It collects order information, event details, and delivery preferences. Please ensure that you have not already placed this order before using this form.

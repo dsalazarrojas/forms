@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information for the Nonprofit Capacity Building Grant Application. The form will guide the user through a series of questions that will help the grant committee assess their nonprofit organization. It is recommended that the form be completed by an authorized representative of the nonprofit organization.
-</thinking>
-
 # Nonprofit Capacity Building Grant Application Form - Help Guide
 ## Purpose
 This form is used to collect information for the Nonprofit Capacity Building Grant Application, which is used to support the development of nonprofit organizations through grants.

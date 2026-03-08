@@ -1,12 +1,3 @@
-<thinking>
-Form purpose: The industrial equipment sales team contact form allows users to contact the sales team with inquiries related to industrial equipment sales, such as requesting quotes, ordering equipment, or seeking support. This form is primarily used for sales and customer service purposes, and all information collected will be reviewed by the sales team before responding.
-
-Form relevance: This form is intended for customers or potential customers who have inquiries or requests related to industrial equipment sales. Please note that this form should not be used for other purposes or to bypass other established contact methods such as phone or email.
-
-Form duplication: Do not fill out this form if you have already contacted the sales team or have a pre-existing relationship with them. In such cases, please refer to your existing contact information or follow up with your existing contact person.
-
-</thinking>
-
 # industrial_equipment_sales_team_contact_form - Help Guide
 ## Purpose
 The industrial equipment sales team contact form allows users to contact the sales team with inquiries related to industrial equipment sales.

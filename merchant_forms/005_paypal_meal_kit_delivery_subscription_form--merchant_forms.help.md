@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users regarding their meal kit delivery subscription preferences. The primary purpose of this form is to gather details about the user's subscription status, payment methods, and delivery frequency. The form will help users configure their subscription according to their needs, including selecting their preferred meal type, delivery frequency, and payment method. It is essential to ensure that users understand the form's purpose and usage to complete it accurately.
-</thinking>
-
 # paypal_meal_kit_delivery_subscription_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from users regarding their meal kit delivery subscription preferences.

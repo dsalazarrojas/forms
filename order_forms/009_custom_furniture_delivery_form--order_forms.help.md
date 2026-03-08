@@ -1,6 +1,3 @@
-<thinking>
-This form is used to capture information for custom furniture delivery requests from customers. This form is used by customers to input their order information, including name, contact details, delivery information, and special requests. This form must be completed for every custom furniture delivery request, but customers are not required to fill out the "Delivery Note" and "Customer Notes" fields if they do not want to include additional information. This form does not require any business logic that would prevent it from being completed in multiple instances, but it should only be used for custom delivery requests, so please only use it in that context.</thinking>
-
 # Custom Furniture Delivery Form - Help Guide
 ## Purpose
 The Custom Furniture Delivery Form is used to collect information for custom furniture delivery requests from customers.

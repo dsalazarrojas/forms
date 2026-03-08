@@ -1,7 +1,3 @@
-<thinking>
-To provide a comprehensive and clear guidance for the end users, we should confirm that we are designing a help guide for an order form, which is used for customers to submit their cake order requests. This form will collect information on the customer's name, email address, phone number, order date, pickup or delivery date, preferred time for pickup or delivery, method of receiving the cake, address for delivery, cake shape, size, flavor, frosting flavor, filling flavor, quantity, message to be written on the cake, preferred color scheme, design style, dietary needs, occasion, payment method, and any special instructions. We should also confirm that this form will not be used for any other purpose than submitting cake orders. To avoid duplication, we should ensure that each field has a unique purpose and that the form is not redundant. 
-</thinking>
-
 # Cake Order Form - Help Guide
 ## Purpose
 This guide will walk you through the Cake Order Form, a comprehensive form used to collect essential information for your cake order.

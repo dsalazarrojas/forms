@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect project quotes from designers or agencies. This form will be used to gather necessary information for the project quote, including project details, contact information, and other relevant data. It's essential to ensure that all required fields are filled in accurately and truthfully to facilitate a smooth and efficient quote process.
-</thinking>
-
 # Design Project Quote Form - Help Guide
 ## Purpose
 The Design Project Quote Form is a tool used to collect project quotes from designers or agencies. It's a comprehensive form that gathers all necessary information for the quote, ensuring that designers or agencies have a clear understanding of the project requirements and can provide accurate quotes.

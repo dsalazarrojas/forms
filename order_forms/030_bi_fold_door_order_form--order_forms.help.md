@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect bi-fold door order information from customers, including customer and project details, door specifications, material selection, and installation and delivery details. The purpose of this form is to gather all necessary information for a bi-fold door order. 
-The form should only be used for customers who need custom or special bi-fold doors. 
-
-This form checks for duplication by checking if a customer is trying to submit an order with the same email address, phone number, and order ID. If a customer tries to submit an order with the same information, they will be prompted to try again or contact customer service to resolve the issue.
-</thinking>
-
 # Bi Fold Door Order Form - Help Guide
 ## Purpose
 This form is designed to collect bi-fold door order information from customers, including customer and project details, door specifications, material selection, and installation and delivery details.

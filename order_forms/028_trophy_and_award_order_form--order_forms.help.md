@@ -1,8 +1,3 @@
-<thinking>
-We're creating a help guide for the "trophy_and_award_order_form" form. The purpose of this form is to allow users to submit their trophy and award order requests. This form will gather information such as name, organization, event details, award type, quantity, date awarded, date ordered, email, and phone number from the user.
-To avoid duplication of orders, we'll check if the user has previously ordered a trophy or award with the same name from the same organization. If so, we'll guide them to a specific page where they can edit their existing order. 
-</thinking>
-
 # trophy_and_award_order_form - Help Guide
 ## Purpose
 The "trophy_and_award_order_form" form is used to submit requests for trophies and awards. It collects information such as name, organization, event details, award type, quantity, date awarded, date ordered, email, and phone number.

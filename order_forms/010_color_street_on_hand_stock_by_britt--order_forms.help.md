@@ -1,5 +1,3 @@
-<thinking>...This form is designed for Color Street On Hand Stock By Britt, a stock tracker for tracking inventory of various sets of nail polish glitters, solids, art, French, and seasonal collections, as well as customer reservations and notes... The form is intended to gather information on the number of sets available for each category, the number of sets reserved for customers, and any general notes... This form should only be used for stock tracking and reservation purposes and should not be used for other purposes...</thinking>
-
 # Color Street On Hand Stock By Britt - Help Guide
 ## Purpose
 The purpose of this form is to track the stock levels and customer reservations of various sets of nail polish glitters, solids, art, French, and seasonal collections.

@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I've been tasked with creating a user-facing help guide for the "Hospital Job Application Form". The purpose of this form is to collect information from applicants applying for jobs at a hospital. To ensure that only relevant and non-duplicate applications are submitted, applicants are required to provide their first name, last name, email, phone number, job title, work experience, availability to work, medical school attended, and medical license status. This form is intended to gather essential data for the hiring process, and by completing it accurately, applicants can increase their chances of being considered for the available positions.</thinking>
-
 # Hospital Job Application Form - Help Guide
 ## Purpose
 The Hospital Job Application Form is designed to collect essential information from applicants applying for jobs at a hospital. By completing this form, applicants can provide the necessary details for the hiring process.

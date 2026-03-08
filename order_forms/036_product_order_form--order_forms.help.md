@@ -1,11 +1,3 @@
-<thinking>
-This form is for end-users to place product orders. Its purpose is to collect necessary information 
-for the order process, ensuring that both the customer and the business receive the correct 
-order details in real-time. The form collects product details, order information, shipping 
-info, payment details, and additional info for the order. The form fields are 
-organized into categories for easier completion and clarity.
-</thinking>
-
 # Product Order Form - Help Guide
 
 ## Purpose

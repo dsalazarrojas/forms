@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # safety_inspection_quote_request_form - Help Guide
 ## Purpose
 The safety_inspection_quote_request_form is designed to collect information from clients and customers who require a safety inspection quote. This form helps the inspection team gather necessary details to provide an accurate quote for the requested inspection services.

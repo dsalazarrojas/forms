@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to gather information from customers for order fulfillment and payment processing. It is likely used by sales or customer support staff to collect order details before shipping or processing the payment. The form is likely not intended for public use, as it contains sensitive information such as customer email and shipping address. 
-
-The form is divided into several sections, including Customer Information, Shipping Information, T Shirt Information, Payment Information, and buttons for submitting and canceling the order. Each section contains fields that correspond to the respective category. The form does not appear to be using any specific payment gateway or integration, suggesting it is a basic order form. The form also does not validate any input data, leaving that to the user's discretion. 
-
-</thinking>
-
 # PayJunction T Shirt Order Form - Help Guide
 ## Purpose
 This form is intended to gather customer information and order details for order fulfillment and payment processing.

@@ -1,13 +1,3 @@
-<thinking>
-
-To determine the form's purpose and relevance, I will review the input schema. The form's title is "international_aid_volunteer_application_form" which suggests it is used to collect information about volunteers for international aid work. The fields are also mostly focused on contact and volunteer details, further supporting this conclusion. However, I will not create a help guide without reviewing the fields for clarity and consistency.
-
-Upon reviewing the fields, I notice that the "notes" field is present twice, which could potentially lead to confusion. I will ensure that the second "notes" field is removed and its purpose redefined if necessary.
-
-Given the form's purpose and field analysis, I will create a clear and concise help guide for the international aid volunteer application form.
-
-</thinking>
-
 # international_aid_volunteer_application_form - Help Guide
 ## Purpose
 The international aid volunteer application form is used to collect information from volunteers who are interested in participating in international aid work. This form helps to gather essential details about the volunteer, including contact information and volunteer specifics.

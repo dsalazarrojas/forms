@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Material Handling Equipment Vendor Contact Form - Help Guide
 ## Purpose
 This form is designed to gather contact information and product details from vendors of material handling equipment. It will help us connect with vendors and facilitate communication for potential business opportunities.

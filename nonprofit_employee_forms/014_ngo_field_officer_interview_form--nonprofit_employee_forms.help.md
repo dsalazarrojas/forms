@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to collect information from Non-Governmental Organization (NGO) Field Officers for their personal and professional details, as well as information about job postings for which they may be applying or supervising. The purpose of the form is to facilitate efficient data collection and ensure completeness of the information. Please note that this form is meant for internal use by the NGO, and the data will not be shared or published without consent from the NGO Field Officers. Please complete this form accurately and honestly to ensure that we can better understand your needs and qualifications for the position.
-</thinking>
-
 # NGO Field Officer Interview Form - Help Guide
 ## Purpose
 The NGO Field Officer Interview Form is a data collection tool used by the NGO to gather information about your personal and professional details, as well as job postings for which you may be applying or supervising.

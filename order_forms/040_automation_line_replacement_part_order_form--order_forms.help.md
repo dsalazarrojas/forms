@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Automation Line Replacement Part Order Form - Help Guide
 ## Purpose
 This form is for ordering replacement parts for automation lines. Please fill out the form with your details and information about the part you need. The form is divided into several sections to guide you through the process.

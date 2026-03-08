@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information for a Smart Power Distribution Unit (PDU) order. The form aims to gather necessary details for the delivery of the PDU, including contact information, delivery address, and specific delivery times. This form was created to streamline the ordering process for this type of product. It's essential to ensure that the provided information is accurate and complete for timely and efficient delivery. Please check the form fields to ensure you're filling it out correctly, and if you have any doubts, refer to this guide for clarification.
-</thinking>
-
 # Smart Power Distribution Unit Order Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture customer information for gluten-free menu orders. The form is intended for customers to provide their name, order details, and any special requests or messages. The form will not be used for other purposes or in combination with other forms. This form is part of a larger system that handles customer orders for gluten-free menu items.
-</thinking>
-
 # Gluten Free Menu Order Form - Help Guide
 ## Purpose
 The Gluten Free Menu Order Form is designed to capture customer information for gluten-free menu orders. This form is used to gather necessary details for preparing and delivering gluten-free meals to customers.

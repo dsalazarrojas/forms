@@ -1,10 +1,3 @@
-<thinking>
-This form is used to book a crowd control barrier for an event. It is intended to gather information from the user about the event and the booking requirements. The form is designed to be completed by event organizers or coordinators to provide details about the event, the barrier requirements, and the booking process. The form is not a payment form, but rather a request form for barrier booking. 
-
-Before starting, ensure that you have all the required information to complete the form accurately. The form does not duplicate any previously submitted forms, so you can submit multiple bookings if necessary. 
-
-</thinking>
-
 # Crowd Control Barrier Booking Form - Help Guide
 ## Purpose
 This guide helps users complete the Crowd Control Barrier Booking Form successfully.

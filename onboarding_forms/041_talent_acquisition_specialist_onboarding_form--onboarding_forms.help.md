@@ -1,10 +1,3 @@
-<thinking>
-The form purpose is to gather information about a new hire to facilitate their onboarding process. This form is designed to capture essential details about the new employee, including their job title, job description, hire date, job type, job function, and other relevant contact information for their manager.
-To ensure the form is completed accurately and efficiently, we should check if there are any existing records for this new hire in our database, and if so, use that information to fill out the form and avoid duplication of effort.
-
-The form is intended to be used by HR personnel or onboarding team members to gather necessary information for onboarding a new talent acquisition specialist.
-</thinking>
-
 # Talent Acquisition Specialist Onboarding Form - Help Guide
 ## Purpose
 This form is designed to collect information about a new hire to facilitate their onboarding process.

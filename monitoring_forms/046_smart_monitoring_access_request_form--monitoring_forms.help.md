@@ -1,7 +1,3 @@
-<thinking>
-This form is used for requesting access to monitoring tools, which is a critical aspect of monitoring and maintaining equipment, systems, or infrastructure. Before filling out this form, ensure you understand the purpose and scope of your request. To avoid duplication, check if a similar request has been made recently or is currently in progress.
-</thinking>
-
 # Smart Monitoring Access Request Form - Help Guide
 ## Purpose
 The Smart Monitoring Access Request Form is used to request access to monitoring tools for equipment, systems, or infrastructure. This form helps the requestor and assigned personnel manage and prioritize access requests efficiently.

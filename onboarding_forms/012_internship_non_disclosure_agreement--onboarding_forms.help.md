@@ -1,7 +1,3 @@
-<thinking>
-The form is an Internship Non Disclosure Agreement (NDA) which is a legal document used to protect the company from potential risks and liabilities during an internship. This form is required for interns and supervisors working on company projects. To ensure that this form is completed correctly, we should first verify that it's being used in the right context. We should check if the company already has a similar form in place before proceeding with this one. We should also confirm that the required fields are correctly identified as required and that the options for select_one and select_multiple fields are correctly populated. Finally, we should ensure that the date fields are formatted correctly for date inputs.
-</thinking>
-
 # Internship Non Disclosure Agreement - Help Guide
 ## Purpose
 This form is used to document the agreement between the company and the intern regarding confidentiality, non-use, and ownership of intellectual property during the internship. The intern agrees not to disclose any confidential information, trade secrets, or intellectual property to any third party.

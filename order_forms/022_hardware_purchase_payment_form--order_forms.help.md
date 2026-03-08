@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information for hardware purchase payments from businesses. It is intended for use on the "order_forms" category. The form will be completed by business representatives, providing details about a hardware purchase including the purchase date, total cost, payment method, and other relevant information. To ensure that this form is relevant and not duplicated, please check the following:
-
-*   The form is meant for specific use cases where a business needs to provide payment information for a hardware purchase.
-*   The form should not be used for other purposes or as a general payment method.
-*   The form should not be duplicated in other categories or forms.
-</thinking>
-
 # Hardware Purchase Payment Form - Help Guide
 ## Purpose
 The Hardware Purchase Payment Form is a tool designed to collect payment information from businesses for hardware purchases. This form is intended for business representatives to provide accurate and timely payment details.

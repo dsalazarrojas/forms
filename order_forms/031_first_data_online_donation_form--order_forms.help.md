@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from donors who are providing online donations. The purpose of this form is to gather relevant details about the donor, the donation amount, and the frequency of the donations, among other details. This form is intended for both one-time and recurring donations. The form fields have been structured to minimize redundancy and ensure that all relevant information is collected in a clear and concise manner.</thinking>
-
 # first_data_online_donation_form - Help Guide
 ## Purpose
 The first_data_online_donation_form is used to collect information from online donors, covering donor details, donation specifics, and frequency of donations.

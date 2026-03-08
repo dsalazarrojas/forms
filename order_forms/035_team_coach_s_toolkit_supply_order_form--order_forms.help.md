@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to be a toolkit supply order form for team coaches. The purpose of the form is to collect information from team coaches to create a customized order for the team's sports equipment and apparel. This form will help the coaches to select the required equipment and uniforms for their team and place the order easily. It's essential to fill this form accurately to ensure that the order is processed correctly and the coaches receive the correct supplies.
-
-Before proceeding, please make sure you're filling this form as a team coach and not as a staff member, and that this is not a duplicate order. 
-</thinking>
-
 # team_coachs_toolkit_supply_order_form - Help Guide
 ## Purpose
 This form is designed to collect information from team coaches for customized sports equipment and apparel orders.

@@ -1,5 +1,3 @@
-<thinking>This form is used for documenting and recording a refund process. A refund is the process of providing a customer with a partial or full amount back after a sale. This form will help in organizing the refund details for future reference and for keeping track of the refund status. The form is used for both internal and external purposes, such as communicating with customers and for tracking and managing the refund process. Ensure that this is the correct form for your refund process before proceeding. If you have any doubts, please consult your team or supervisor.</thinking>
-
 # Refund Receipt Form - Help Guide
 ## Purpose
 The Refund Receipt Form is used to document and track refund details for a customer after a sale has taken place. This form is used to keep track of the refund date, amount, reason for refund, and other relevant information.

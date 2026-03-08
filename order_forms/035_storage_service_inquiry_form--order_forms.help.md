@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # storage_service_inquiry_form - Help Guide
 ## Purpose
 This form is used for inquiring about storage services. It guides the user through a series of questions to gather necessary information for storage service provision. The form is typically used by individuals or departments seeking storage space or services for their specific needs.

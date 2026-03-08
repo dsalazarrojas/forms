@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form "yonnired_brand_products" is designed for customers to provide information about their orders. The purpose of this form is to collect customer details, shipping information, order notes, and payment status. The form is likely used for internal processing and management of customer orders.
 
 # yonnired_brand_products - Help Guide

@@ -1,7 +1,3 @@
-<thinking>
-The Catering Appointment Form is used for clients to schedule a meeting with a catering service provider to discuss their event details. This form helps to gather essential information from the client, such as their contact information, appointment scheduling preferences, and event specifics. It serves as a crucial channel for the catering service provider to understand the client's requirements and prepare for the meeting.
-</thinking>
-
 # Catering Appointment Form - Help Guide
 ## Purpose
 The Catering Appointment Form is designed to collect necessary information from clients for a meeting with a catering service provider. This form gathers details such as client contact information, appointment scheduling, and event specifics to ensure that the catering service provider is well-prepared for the meeting.

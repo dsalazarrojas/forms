@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended to assist end-users in completing the Photography Order Form. The form is designed to collect information about the customer's order for photography services. It is crucial to ensure that the form is completed accurately and thoroughly to avoid errors or missed opportunities for customization.
-
-The form consists of multiple fields that cater to various aspects of the order, including customer details, photography session and package selection, date and time, notes, and other relevant information. It is essential to understand the purpose and requirements of each field to fill out the form correctly.
-
-This guide will walk you through each field and its corresponding label, providing clear explanations to help users navigate the form with ease.
-
-</thinking>
-
 # Photography Order Form - Help Guide
 ## Purpose
 The Photography Order Form is designed to collect information about the customer's order for photography services. This form helps the photographer or order management system to efficiently process and fulfill the customer's request.

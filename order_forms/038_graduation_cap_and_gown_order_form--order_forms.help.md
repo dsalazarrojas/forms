@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to order graduation caps and gowns for students graduating from a university or college. It's designed to collect necessary information for the order, including details about the student's graduation date, time, location, and other specifics. The form will check for relevance and non-duplication to ensure that the information is correct and complete before proceeding with the order. This will help prevent errors and ensure that the order is fulfilled correctly.
-
-</thinking>
-
 # Graduation Cap And Gown Order Form - Help Guide
 ## Purpose
 This form is used to collect information for ordering graduation caps and gowns for students graduating from a university or college.

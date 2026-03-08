@@ -1,9 +1,3 @@
-<thinking>
-This form is for calculating delivery cost estimates for orders. 
-Before proceeding, confirm that you have all required information to complete the form accurately.
-This form does not duplicate any existing functionality.
-</thinking>
-
 # Order Delivery Cost Calculator - Help Guide
 ## Purpose
 This form is designed to calculate delivery cost estimates for orders. It collects information on delivery cost, shipping method, estimated delivery time, and other relevant details to provide a total cost breakdown.

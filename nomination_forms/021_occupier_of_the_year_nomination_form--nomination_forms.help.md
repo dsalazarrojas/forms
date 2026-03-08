@@ -1,7 +1,3 @@
-<thinking>
-The "Occupier Of The Year Nomination Form" is intended to gather information from individuals who wish to nominate someone for an award or recognition. This form is used to collect data on the nominee's details, the nominator's information, and additional supporting evidence for the nomination. It's essential to ensure that the form is completed correctly to avoid duplication of nominations for the same individual and to guarantee accurate and relevant information is provided.
-</thinking>
-
 # Occupier Of The Year Nomination Form - Help Guide
 ## Purpose
 The Occupier Of The Year Nomination Form is a tool used to collect nominations for an award or recognition. It allows users to submit nominations for individuals they believe should be considered for an award.

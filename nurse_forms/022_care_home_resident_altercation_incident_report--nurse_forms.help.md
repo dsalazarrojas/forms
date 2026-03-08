@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information about incidents that occur within a care home, including dates and times of incidents, details about the residents involved and witnesses, the location of the incident, and a description of what happened. The form is intended to gather factual information about the incident, not to assign blame or liability. It is meant to aid in the investigation and development of follow-up plans to ensure resident safety and well-being.
-</thinking>
-
 # Care Home Resident Altercation Incident Report - Help Guide
 ## Purpose
 The **Care Home Resident Altercation Incident Report** is used to document and track incidents that occur within a care home setting. This form is designed to gather factual information about the incident, including details about the incident, residents involved, witnesses, and any subsequent actions taken.

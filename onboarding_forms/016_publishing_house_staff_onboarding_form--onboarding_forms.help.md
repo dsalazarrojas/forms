@@ -1,5 +1,3 @@
-<thinking>Before diving into the help guide, let's quickly review the form's purpose and content. The publishing house staff onboarding form is designed to collect essential information from new staff members. The form is likely used by HR or personnel departments to streamline the onboarding process, ensuring that new employees have a smooth and efficient transition into the organization. The form collects a range of personal and professional details, including names, job titles, department, contact information, and emergency contact details.</thinking>
-
 # publishing_house_staff_onboarding_form - Help Guide
 ## Purpose
 The publishing house staff onboarding form is a comprehensive tool used to gather essential information from new staff members. Its primary objective is to facilitate a smooth and efficient onboarding process, ensuring that new employees are properly set up with the necessary details to perform their job responsibilities.

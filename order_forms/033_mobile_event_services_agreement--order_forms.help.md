@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mobile Event Services Agreement - Help Guide
 
 ## Purpose

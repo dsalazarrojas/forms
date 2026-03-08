@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate the process of nominating individuals or projects for the Open Source Contribution Award. The purpose of this form is to gather information from both the nominator and the nominee to ensure that the nomination is well-informed and accurate. It is essential to ensure that the nominee's contributions are thoroughly reviewed and evaluated before submitting the nomination. Please make sure to complete each field carefully and accurately, and do not duplicate any nominations for the same person or project. If you are unsure about any field, it is recommended to review this guide carefully.
-</thinking>
-
 # Open Source Contribution Award Nomination - Help Guide
 ## Purpose
 The Open Source Contribution Award Nomination form is designed to collect information from nominators and nominees to recognize outstanding contributions to the open source community. This form is used to gather detailed information about the nominee's work, their impact on the community, and the nominator's relationship with the nominee.

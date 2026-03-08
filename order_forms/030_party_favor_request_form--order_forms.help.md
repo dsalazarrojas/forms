@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Party Favor Request Form - Help Guide**
 
 ## Purpose

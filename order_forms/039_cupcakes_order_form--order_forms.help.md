@@ -1,9 +1,3 @@
-<thinking>
-We'll create a help guide for the Cupcakes Order Form to ensure end users understand its purpose and how to complete it efficiently.
-
-This form is designed to gather information from customers for ordering cupcakes. The form should be filled out by customers who want to place an order for cupcakes. The form will help the customer specify their details, such as customer information, delivery date, delivery address, intended amount, flavors, comments, contact number, email, delivery time, assigned tools, and any additional comments.
-</thinking>
-
 # Cupcakes Order Form - Help Guide
 ## Purpose
 The Cupcakes Order Form is a tool for customers to provide their order details. Fill out this form to place an order for a cupcake order.

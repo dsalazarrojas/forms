@@ -1,7 +1,3 @@
-<thinking>
-The form is designed for nonprofit organizations to monitor and track the effectiveness of their volunteers. The form helps organizations to assess the performance and value added by volunteers, which is essential for evaluating the impact of volunteer efforts and making data-driven decisions. By using this form, nonprofit organizations can standardize the process of tracking volunteer performance, making it easier to identify areas of improvement and opportunities for growth.
-</thinking>
-
 # Volunteer Effectiveness Monitoring Form - Help Guide
 ## Purpose
 This form is used to monitor and track the effectiveness of volunteers in your organization. It is designed to capture important information about the volunteer's performance, value-added, and contribution to the organization.

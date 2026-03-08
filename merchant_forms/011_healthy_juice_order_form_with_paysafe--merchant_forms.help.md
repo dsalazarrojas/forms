@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to help merchants create orders for healthy juices with the option to pay using Paysafe or other payment methods. This guide is intended to provide a clear understanding of the form's purpose and how to fill it out correctly. 
-
-The form is divided into 13 fields, each with its own specific requirements. Please note that this guide will cover each field individually to ensure users understand the correct use of the form.
-
-Please be aware that this form is part of the 'merchant_forms' category, indicating that it is specific to merchants.
-</thinking>
-
 # Healthy Juice Order Form with Paysafe - Help Guide
 ## Purpose
 The Healthy Juice Order Form with Paysafe is designed for merchants to create orders for healthy juices with the option to pay using Paysafe or other payment methods.

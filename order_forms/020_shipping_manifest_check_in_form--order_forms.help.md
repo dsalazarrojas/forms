@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for checking in shipments with a manifest, ensuring that the goods have arrived and are ready for further processing. The manifest status can be updated to reflect this. The form is meant to be completed by a person responsible for checking in the shipment, such as a warehouse staff member or a shipper. The purpose of this form is to accurately track the shipment's progress and any potential issues that may arise during the process. This form may be part of a larger process for managing and tracking shipments, and its completion may trigger further actions or notifications within the system.
-</thinking>
-
 # Shipping Manifest Check In Form - Help Guide
 
 ## Purpose

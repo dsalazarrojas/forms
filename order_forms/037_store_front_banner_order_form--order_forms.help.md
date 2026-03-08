@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a store front banner order process. The fields cover various aspects of the order, including customer details, text fields, banner details, artwork, payment details, and review fields. This guide will walk you through each field to help users understand what information is being collected and how to complete the form correctly.
-</thinking>
-
 # Store Front Banner Order Form - Help Guide
 ## Purpose
 This form is used to collect information for store front banners, including customer details, banner specifications, and order details. It is intended for customers to place orders for banners with their desired specifications.

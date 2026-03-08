@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lease Agreement Billing Form - Help Guide
 ## Purpose
 This form is designed to collect information from tenants regarding their lease agreement, including their personal details, lease terms, and payment information. The form is intended to be used by property managers or landlords to gather essential data for billing and administrative purposes.

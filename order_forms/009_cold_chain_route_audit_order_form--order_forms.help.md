@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to request and track the audit of a cold chain route. A cold chain is a supply chain that requires temperature-sensitive goods to be kept within a specific temperature range to prevent spoilage or damage. The form collects information from the requesting organization, contact person, and details about the goods being transported, such as type, temperature requirements, and estimated duration of the route. The form is used by the organization to ensure that all necessary information is provided to the audit team and that the audit is conducted according to their specific needs.
-
-</thinking>
-
 # Cold Chain Route Audit Order Form - Help Guide
 
 ## Purpose

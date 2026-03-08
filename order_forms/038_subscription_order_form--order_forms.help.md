@@ -1,7 +1,3 @@
-<thinking>
-Form "subscription_order_form" is intended for customers to provide their billing and customer details when subscribing to a service or product. This form helps the business collect necessary information for order processing and account management purposes. Please ensure that you only submit one instance of the form per customer to avoid duplication of effort and data inconsistency.
-</thinking>
-
 # Subscription Order Form - Help Guide
 ## Purpose
 This form is designed to collect billing and customer details for subscription orders.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form, "supplier_pricing_structure_evaluation_form", is used to collect information about a supplier's pricing structure. It is likely used in a business-to-business (B2B) or business-to-consumer (B2C) scenario where the form helps evaluate and document a supplier's pricing structure. This form could be used by purchasing teams, procurement managers, or sales teams to gather data on suppliers and their pricing strategies.
-
-To avoid duplication and ensure that the form is completed accurately, review the fields below and ensure each field is completed with the correct information.
-
-</thinking>
-
 # supplier_pricing_structure_evaluation_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about a supplier's pricing structure. It is used to gather data on suppliers and their pricing strategies.

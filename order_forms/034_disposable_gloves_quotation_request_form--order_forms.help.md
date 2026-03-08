@@ -1,7 +1,3 @@
-<thinking>
-The Disposable Gloves Quotation Request Form is used by sales team members to gather customer information and preferences for custom disposable glove quotations. To ensure accurate and efficient data collection, please use this form for new requests or revisions to existing orders. Please note that this form is not intended for urgent or emergency requests. If you need to make changes to an existing order or require urgent assistance, please contact the sales team directly.
-</thinking>
-
 # Disposable Gloves Quotation Request Form - Help Guide
 ## Purpose
 

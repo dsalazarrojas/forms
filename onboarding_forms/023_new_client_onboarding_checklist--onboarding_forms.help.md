@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # new_client_onboarding_checklist - Help Guide
 ## Purpose
 This form is used for the onboarding process of new clients. It collects essential information to create a comprehensive client profile. The form is typically used by client-facing staff to ensure a smooth and efficient onboarding experience.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for obtaining consent from participants for waste bin monitoring. It is meant to be used for collecting demographic information, contact details, and consent status from participants. This form should be used by individuals who are participating in waste bin monitoring activities.
-</thinking>
-
 # Smart Waste Bin Monitoring Consent Form - Help Guide
 ## Purpose
 The Smart Waste Bin Monitoring Consent Form is used to collect demographic information, contact details, and consent status from participants for waste bin monitoring activities.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Volunteer Feedback Survey - Help Guide
 ## Purpose
 The Volunteer Feedback Survey is designed to collect feedback from volunteers about their activities and engagement with your organization. This survey aims to understand the volunteer's experience, satisfaction, and feedback on their involvement. It helps us to identify areas of improvement and better support our volunteers in their endeavors.

@@ -1,11 +1,3 @@
-<thinking>
-
-The form "Hospice Discharge Summary Form" is a document used to summarize a patient's discharge information, which is essential for tracking and managing patient care. This form is typically used by healthcare professionals to record the key details of a patient's care and progress throughout the discharge process.
-
-To ensure the form is filled out accurately and thoroughly, please review the following steps and field explanations:
-
-</thinking>
-
 # Hospice Discharge Summary Form - Help Guide
 
 ## Purpose

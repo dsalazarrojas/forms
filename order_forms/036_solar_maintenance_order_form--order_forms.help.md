@@ -1,8 +1,3 @@
-<thinking>
-This form is used to schedule and plan for solar maintenance tasks. It should be completed by a customer or user to request a service visit for their solar panel system. The form is designed to collect relevant information about the maintenance address, maintenance date, description of the issue, preferred schedule appointment, customer notes, customer contact information, and assignment of a service technician. This form is intended to be used by customers or users to request maintenance services for their solar panel system. It is not a replacement for other maintenance request forms or procedures, but rather a supplemental form to aid in the scheduling and organization of maintenance tasks.
-
-</thinking>
-
 # Solar Maintenance Order Form - Help Guide
 ## Purpose
 

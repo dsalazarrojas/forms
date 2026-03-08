@@ -1,7 +1,3 @@
-<thinking> 
-This is a form to collect information for precision tool calibration orders. The form is likely used by a business or organization that provides calibration services to its customers. The form is intended to collect relevant details about the calibration order, including the type of equipment, calibration interval, due date, and location. The form may also request contact information for a contact person within the organization. The fields are generally optional, except for those marked as required.
-</thinking>
-
 # Precision Tool Calibration Order Form - Help Guide
 ## Purpose
 This form is designed to collect information for precision tool calibration orders. It's intended for use by businesses or organizations seeking calibration services for their tools.

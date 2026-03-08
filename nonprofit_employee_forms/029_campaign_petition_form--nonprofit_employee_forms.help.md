@@ -1,10 +1,3 @@
-<thinking>
-The purpose of the "Campaign Petition Form" is to collect information about a petition started by an individual or organization to raise awareness and drive action on a specific issue. This form gathers crucial details about the petitioner, the petition itself, and the campaign's goals and strategy.
-
-The form is designed to help petitioners effectively launch and manage their campaign, ensuring they have all necessary information for successful execution. This includes details about the issue at hand, the target audience, and the proposed resolution.
-
-To avoid duplicate efforts and maximize the impact of this form, we must only allow unique and genuine submissions. Petitioners will be required to provide accurate and up-to-date information throughout the form.</thinking>
-
 # Campaign Petition Form - Help Guide
 
 ## Purpose

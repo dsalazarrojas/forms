@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect information for a sample request from users. It consists of multiple fields that ask for specific details related to the request. The form's primary purpose is to gather data for analysis or decision-making purposes. To ensure relevance, please only fill out this form if you have a genuine request to make. Duplicate requests will not be processed. Please make sure to provide accurate and up-to-date information in each field...</thinking>
-
 # Sample Request Form - Help Guide
 ## Purpose
 The Sample Request Form is designed to collect information for analysis or decision-making purposes. Fill out this form if you have a genuine request. Duplicate requests will not be processed.

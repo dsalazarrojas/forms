@@ -1,6 +1,3 @@
-<thinking>... internal reasoning block to check for form purpose and non-duplication ...
-</thinking>
-
 # Order Cancellation Form - Help Guide
 ## Purpose
 The Order Cancellation Form is a tool for customers to request cancellation of their orders. This form allows customers to provide a reason for cancellation and any additional details or comments they may have. The form is typically used when a customer wants to cancel their order due to a specific reason, and it helps the support team to quickly identify the cause of the cancellation and respond accordingly.

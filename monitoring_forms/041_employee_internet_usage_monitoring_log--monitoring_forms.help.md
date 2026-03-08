@@ -1,12 +1,3 @@
-<thinking> 
-**Form Purpose:**
-This form is used to monitor and track employee internet usage activity, providing a record of employee internet activities, including user ID, date, start and end time, websites visited, time spent, and other related details. This helps in maintaining a transparent and fair work environment.
-
-**Non-duplication Check:**
-This form is designed to be filled out for each employee's internet usage monitoring log. Please fill out one form for each employee.
-
-</thinking>
-
 # Employee Internet Usage Monitoring Log - Help Guide
 ## Purpose
 This form is used to monitor and track employee internet usage activity.

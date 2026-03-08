@@ -1,13 +1,3 @@
-<thinking>
-
-The form is used for customers to place an order for a glass album. The form collects customer details, album preferences, and order information.
-
-The form consists of multiple fields, including customer contact information, album type, size, and cover type, as well as order details such as delivery date and time, payment method, and order quantity. This form helps customers provide accurate and complete information to place their orders efficiently.
-
-This form does not have any specific validation rules or constraints, so the end user can fill it out freely without any limitations.
-
-</thinking>
-
 # glass_album_order_form - Help Guide
 ## Purpose
 This form is used to collect information from customers to place an order for a glass album.

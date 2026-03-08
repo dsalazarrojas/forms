@@ -1,5 +1,3 @@
-<thinking>Shipping waybills are documents used to track and verify shipments. This form is used to collect the shipper's information, which will then be used for order fulfillment. Please make sure the form is completed carefully and accurately to avoid any errors.</thinking>
-
 # Shipping Waybill Form - Help Guide
 ## Purpose
 The Shipping Waybill Form is used to collect important information about the shipper and the shipment. This form is a critical part of the order fulfillment process and should be completed accurately and carefully.

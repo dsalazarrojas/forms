@@ -1,13 +1,3 @@
-<thinking>
-This form is used for team leaders to provide feedback on their team members' performance. The form is designed to be generic and applicable to various team leadership scenarios, hence the name "team_leader_feedback_form_generic_monitoring". When filling out this form, please note that some fields are optional and only required for specific purposes. This form is not intended to be a comprehensive performance evaluation tool, but rather a means to capture feedback from team leaders to team members.
-
-Before proceeding, please ensure that you are filling out the correct form for your specific team and team member. If you are unsure, you can refer to your team's internal documentation or consult with your team lead.
-
-The form is divided into sections for general information, team member details, and feedback. Please provide accurate information to ensure that your feedback is taken into account for performance evaluations and development purposes.
-
-This form is intended for internal use only and should not be shared with external parties without proper authorization.
-</thinking>
-
 # team_leader_feedback_form_generic_monitoring - Help Guide
 ## Purpose
 The purpose of this form is to allow team leaders to provide feedback on their team members' performance.

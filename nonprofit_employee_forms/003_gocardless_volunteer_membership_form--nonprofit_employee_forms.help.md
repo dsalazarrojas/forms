@@ -1,15 +1,3 @@
-<thinking>
-Please note that the provided YAML is an AI-generated form, which means its structure and content might not be entirely clear or optimized for human understanding. I will do my best to provide a concise and practical help guide based on the given information.
-
-Before creating the help guide, I would like to clarify a few points:
-
-* The form seems to be designed for volunteers to provide information about their availability and preferences for volunteering.
-* The "shift" and "availability" fields seem to be related to scheduling and time slots.
-* Some fields have multiple options, which might be confusing for users.
-* The form does not seem to have any validation or error checking, which is typical in most form implementations.
-
-</thinking>
-
 # GoCardless Volunteer Membership Form - Help Guide
 ## Purpose
 This form is designed to help volunteers provide information about their availability and preferences for volunteering with GoCardless. Please complete the form accurately to help us schedule volunteer shifts and ensure that you are available for the roles and time slots that fit your schedule.

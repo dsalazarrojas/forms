@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to be used by non-profit organizations to submit grant proposals to the granting organization. This form collects information about the project, the submitting organization, and the submitting organization's contact information. The form is divided into several sections that correspond to different aspects of the grant proposal. The form will help the granting organization understand the project's details, the submitting organization's information, and the contact person's details. It's crucial that this form is completed accurately and in accordance with the requirements of the grant proposal.
-
-Before you start, ensure that you are using this form correctly and not duplicating any effort. This form should only be used for submitting grant proposals to this specific granting organization.
-</thinking>
-
 # Grant Proposal Submission Consent Form - Help Guide
 ## Purpose
 This form is designed to collect information required for a grant proposal submission to the granting organization. It is intended to gather details about the project, the submitting organization, and the submitting organization's contact information.

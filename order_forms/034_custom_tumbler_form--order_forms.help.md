@@ -1,9 +1,3 @@
-<thinking>
-Form purpose: This form is used for users to place custom orders for tumblers. Tumblers are customized water bottles with various attributes that can be selected by the user. The form is used to collect information about the tumbler's attributes, such as its color, size, and shape, as well as other details like the quantity ordered and the user's contact information.
-
-To create a successful order, the user must provide the required attributes of the tumbler, including its color, size, and shape. This form is designed to be user-friendly, allowing users to easily select the desired attributes and submit their order.
-</thinking>
-
 # custom_tumbler_form - Help Guide
 ## Purpose
 The custom_tumbler_form is used to collect information about custom tumbler orders.

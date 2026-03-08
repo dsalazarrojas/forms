@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to place orders for cupcakes. It allows them to provide their contact information, specify pickup or delivery options, and details about their order, including flavor, quantity, and payment method. The form also allows customers to leave additional notes or instructions for the order.
-</thinking>
-
 # Online Cupcake Order Form - Help Guide
 ## Purpose
 This form is for customers to place orders for cupcakes.

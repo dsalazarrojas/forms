@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for requesting a tool from the design thinking toolkit. It is used by designers and team members to submit requests for tools that are needed for projects.
-
-To avoid duplicating requests for the same tool, please make sure to check the current status of the tool before submitting a new request. If the tool is already available or in progress, please do not submit a new request.
-
-</thinking>
-
 # design_thinking_toolkit_requisition_form - Help Guide
 ## Purpose
 The design thinking toolkit requisition form is used to request tools from the design thinking toolkit. This form helps team members to keep track of the tools requested and their status.

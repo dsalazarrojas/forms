@@ -1,9 +1,3 @@
-<thinking>
-This form is used to record and track various aspects of the pharmaceutical process, including batch ID, equipment ID, production shift, batch number, start time, end time, batch comments, production status, and production status reason. This information is crucial for monitoring and analyzing the production process, identifying trends and patterns, and making data-driven decisions. 
-
-To avoid duplication and ensure the form is used correctly, please ensure that the form is used for each batch of production. The form can be used for multiple batches, but it's essential to keep the data organized and up-to-date.
-</thinking>
-
 # Pharmaceutical Process Monitoring Log - Help Guide
 ## Purpose
 The Pharmaceutical Process Monitoring Log is a form used to record and track various aspects of the pharmaceutical production process. This form helps monitor and analyze the production process, identify trends and patterns, and make data-driven decisions.

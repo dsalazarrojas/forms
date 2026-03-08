@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used for NGO (Non-Governmental Organization) data sharing requests. The purpose of this form is to collect information from requestors (individuals or organizations) who are requesting data from the sharing organization. The form is used to ensure that the requestors' needs and agreements are properly documented and recorded, and that the sharing organization's terms and conditions are met.
-
-Before filling out this form, please note that the information collected in this form will be used to evaluate and process the request. It is essential to provide accurate and complete information to facilitate the sharing process.
-
-Please ensure that you have read and understood the terms and conditions before proceeding.
-
-</thinking>
-
 # NGO Data Sharing Request Form - Help Guide
 ## Purpose
 

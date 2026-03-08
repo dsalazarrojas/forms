@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Retail Store Signage Requisition Form - Help Guide
 
 ## Purpose

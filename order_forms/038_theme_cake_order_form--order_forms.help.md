@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to be a general-purpose order form for customers to place theme cake orders. It's likely used in a context where customers can order different types of baked goods, such as cakes, cupcakes, cookies, and cake pops. The form may be used in an online store or a bakery website. To ensure consistency, the form has two fields with the same label "order_type" but with different types: select_multiple and select_one. This suggests that the form may be collecting both the type of item being ordered and a custom value associated with that item. The form also has multiple fields for order details, which may include additional information about the order, such as quantities, flavors, or colors. The payment method and confirm fields suggest that the form is for a transaction-based business. The "confirm" field is likely to be used for confirming whether the order is correct before proceeding with the transaction.
-
-</thinking>
-
 # Theme Cake Order Form - Help Guide
 ## Purpose
 

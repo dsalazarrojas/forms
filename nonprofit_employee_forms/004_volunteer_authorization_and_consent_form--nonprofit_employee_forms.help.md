@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the volunteer-authorization-and-consent-form is completed accurately and with the right information. The form is used to gather essential details about volunteers, including their name, email, phone number, organization, role, and consent dates. It's crucial to fill out the form correctly to avoid any issues or miscommunication. Please review the form carefully before submitting it.
-</thinking>
-
 # volunteer-authorization-and-consent-form - Help Guide
 ## Purpose
 The volunteer-authorization-and-consent-form is used to gather information from volunteers, ensuring they are aware of their role, responsibilities, and commitment to the organization they are helping.

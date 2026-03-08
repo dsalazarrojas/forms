@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from patients who are being placed on a waitlist for COVID-19 care. The primary purpose of this form is to capture essential details about the patient, such as their contact information, appointment preferences, and medical reason for visit. This helps the medical staff to manage the waitlist efficiently, prioritize appointments, and ensure that patients are contacted at the right time for their scheduled appointment. 
-
-When completing this form, please ensure that you are providing accurate and up-to-date information to avoid any delays or miscommunications.
-
-Before proceeding, make sure that you are not already on the waitlist. If you are, you will be contacted once an appointment becomes available.
-</thinking>
-
 # COVID 19 Patient Waitlist Form - Help Guide
 ## Purpose
 This form is designed to collect information from patients who are being placed on a waitlist for COVID-19 care. The form helps medical staff to efficiently manage the waitlist and ensure that patients are contacted when an appointment becomes available.

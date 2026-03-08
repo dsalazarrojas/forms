@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Scentsy Holiday Collection Pre Order Form - Help Guide
 ## Purpose
 The Scentsy Holiday Collection Pre Order Form is used to pre-order holiday gifts and decorations for your loved ones. It is designed to collect essential information about your order, including gift recipient details, order quantity, and delivery date/time.

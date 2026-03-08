@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate online shopping transactions, allowing users to input their contact information, shipping details, product preferences, and payment options. It is intended for users who want to complete a purchase, but it can also be used by businesses or organizations to collect information from customers or users. To prevent duplication, this form should not be used for any other purpose other than online shopping or data collection.
-</thinking>
-
 # Online Shopping Form Euphoria - Help Guide
 ## Purpose
 The Online Shopping Form Euphoria is a tool to help customers complete a purchase online. It collects information about the customer, product, and payment options for the transaction.

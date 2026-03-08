@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Not Profit Plant Order Form - Help Guide
 ## Purpose
 This form is used to capture the details of a plant order. Please fill it out accurately and completely for efficient processing.

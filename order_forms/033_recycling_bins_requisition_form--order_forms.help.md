@@ -1,8 +1,3 @@
-<thinking>
-This form is for requisitioning a recycling bin. It is meant to be completed by users who need to request a recycling bin for collection from a specific location. The form is used in an internal process to track and manage recycling bin requisitions. This form should only be completed for official purposes, as it is intended to be used by authorized personnel to request recycling bins. If you are unsure about the purpose of this form or have already completed a similar form for the same location, please do not complete it again.
-
-</thinking>
-
 # recycling_bins_requisition_form - Help Guide
 
 ## Purpose

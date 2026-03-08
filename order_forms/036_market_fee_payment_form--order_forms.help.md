@@ -1,7 +1,3 @@
-<thinking>
-The form's purpose is to collect payment information for a market fee payment. This form is used by customers to provide their payment details for a market fee, which is a fee charged for a particular event. The form is designed to be completed by the customer to submit their payment information and complete the transaction. The form has several fields that require the customer to provide their event title, market fee, vendor name, payment method, card number, card expiration, and card CVV. The form also has an optional field for bank transfer details. To ensure that the form is completed correctly, the customer must provide the required fields and ensure that their payment information is accurate. This guide will walk the customer through the steps to complete the form and explain each field in detail.
-</thinking>
-
 # Market Fee Payment Form - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-  This form is designed to gather information from potential refugees who are interested in becoming volunteers at a refugee support organization. 
-  It helps the organization to assess their skills, availability, and experience, to place them in the right volunteer position. 
-  Each field in this form is carefully crafted to gather information that will help the organization to understand the volunteer's qualifications and fit. 
-  Please note that some fields are required to ensure that the volunteer's application is complete and accurate. 
-  The form is divided into sections that cover different aspects of the volunteer's background and skills. 
-  By filling out this form, volunteers can help the organization to better understand their needs and preferences, 
-  and can be placed in a volunteer position that suits them best.
-</thinking>
-
 # Refugee Support Volunteer Application Form - Help Guide
 
 ## Purpose

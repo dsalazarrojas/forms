@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for product orders, specifically for products that can be purchased in-store or delivered. The form includes fields to capture product name, quantity, customer contact information, delivery details, and special requests. The form also includes fields to capture select options (delivery method) and confirm select options (confirmation of selected options).
-
-This form is designed to be full-width and responsive, allowing it to adapt to different screen sizes and devices. It is intended for customers to provide accurate and complete information to place a successful order.
-
-Please review the form and ensure it aligns with your store's ordering process and customer information gathering requirements.
-
-</thinking>
-
 # Product Order Form Full Width And Responsive - Help Guide
 
 ## Purpose

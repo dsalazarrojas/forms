@@ -1,27 +1,3 @@
-<thinking>
-This help guide is to be used in conjunction with the form designer and technical writer role to ensure that end-users understand the form's purpose, how to complete it, and what each field means. The guide will be used to reduce support requests and improve the overall user experience.
-
-The form is for purchasing a simple product, and it is expected to be completed by customers who are making a purchase.
-
-Each field in the form has a specific purpose, and this guide will explain each field in a concise and practical way. This will include:
-
-*   First name: The customer's first name.
-*   Last name: The customer's last name.
-*   Email: The customer's email address.
-*   Address: The customer's delivery address.
-*   Product ID: The unique identifier for the product being purchased.
-*   Quantity: The number of products being purchased.
-*   Price: The price of the product.
-*   Payment Method: The method the customer will use to pay for the product.
-*   Payment Terms: The terms of payment, such as one-time or recurring payments.
-*   Delivery Date: The date the product will be delivered.
-*   Delivery Time: The time the product will be delivered.
-*   Notes: Any additional comments or notes from the customer.
-*   Confirm: A confirmation of the above information.
-
-This guide will be written in a clear and concise way, with each field explained in a separate section, making it easy for customers to navigate and complete the form.
-</thinking>
-
 # Simple Product Purchase Form - Help Guide
 ## Purpose
 This form is for customers to place an order for a simple product. Please fill out the form with your information and details of your purchase.

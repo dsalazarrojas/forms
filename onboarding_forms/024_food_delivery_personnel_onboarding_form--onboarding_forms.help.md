@@ -1,6 +1,3 @@
-<thinking>Internal reasoning block to check for relevance and non-duplication:
-The purpose of the "Food Delivery Personnel Onboarding Form" is to gather information about new couriers and their onboarding status. This form is likely used by HR or personnel management teams to process new courier applications, verify their restaurant details, delivery capabilities, and other relevant information. The form's structure suggests that it's a one-time onboarding process for new staff members. I'll ensure the help guide is concise, accurate, and follows the provided YAML structure.</thinking>
-
 # Food Delivery Personnel Onboarding Form - Help Guide
 ## Purpose
 The Food Delivery Personnel Onboarding Form is a crucial document that helps the personnel management team to onboard new couriers efficiently. It ensures that all necessary information is captured correctly, reducing errors and streamlining the onboarding process.

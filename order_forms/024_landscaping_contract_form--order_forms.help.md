@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information from clients regarding a landscaping project.
-The form is not affiliated with or endorsed by any form creation platform, but is an original adaptation.
-The purpose of this form is to collect details about the project, client, payment terms, and project timelines.
-The form is not proprietary, and the information it collects will be used for internal purposes only.
-</thinking>
-
 # Landscaping Contract Form - Help Guide
 ## Purpose
 This form is used to collect information from clients regarding a landscaping project, including project details, client information, payment terms, and project timelines.

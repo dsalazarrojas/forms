@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals or organizations interested in sponsoring the church's programs and activities. The form is used to gather relevant details about the sponsor, including their name, contact information, and sponsorship level. By completing this form, sponsors can specify their desired level of recognition and payment method. The form also allows sponsors to indicate their interest in volunteering and providing marketing materials. 
-
-This form is only for individuals and organizations interested in sponsoring the church, and not for general event or program registrations.
-</thinking>
-
 # Church Sponsorship Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals or organizations interested in sponsoring the church's programs and activities.

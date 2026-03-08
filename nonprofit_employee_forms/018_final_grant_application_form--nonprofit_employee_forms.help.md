@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to collect information for grants and applications submitted by non-profit employees. The primary purpose of this form is to provide a centralized system to track and store grant data for easier management and processing. This form will ask for various details such as applicant name, grant title, amount, funding start and end dates, application status, and other relevant information. Non-profit employees will need to fill out this form accurately and completely to ensure that the information is captured correctly.
-
-Before proceeding, make sure to review the following:
-
-* Ensure you have all required information before submitting this form.
-* Double-check for accuracy and completeness before submitting the form.
-* If you are unsure about any field or requirement, please reach out to the designated authority for assistance.
-
-</thinking>
-
 # Final Grant Application Form - Help Guide
 ## Purpose
 The Final Grant Application Form is a tool used to collect and track non-profit employee grant information. This form is designed to ensure accuracy and completeness of grant data for easier management and processing.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to document the donation drive details for a nonprofit organization. The purpose of this form is to ensure that all required information is captured accurately and consistently. This form will be used to store and track donation drive data for future reference. Please ensure that you are using this form to document a legitimate donation drive. If you are unsure, refer to the organization's donation drive guidelines.
-
-</thinking>
-
 # Donation Drive Approval Form - Help Guide
 ## Purpose
 The Donation Drive Approval Form is used to document the details of a donation drive for a nonprofit organization.

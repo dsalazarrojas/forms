@@ -1,6 +1,3 @@
-<thinking>
-This form seems to be used for managing orders and branding for takeout bags. It might be used by restaurants or food establishments to place orders for customized takeout bags with their branding printed on them. The form likely captures details such as the restaurant's name, logo, and order specifics like quantity, price, and delivery date. It may also collect customer information like email, phone, and name for confirmation and communication purposes. The form probably also tracks the status of the order, including payment status and payment method. The fields appear to be mostly self-explanatory, with a mix of text, email, phone, date, and number fields. I did not notice any duplicate fields or fields that could be considered redundant, so it seems like a clear and concise form for order management.
-</thinking>
 # Takeout Bag Branding Order Form - Help Guide
 ## Purpose
 This form is used to manage orders and branding for takeout bags. It allows restaurants to place orders for customized takeout bags with their branding printed on them.

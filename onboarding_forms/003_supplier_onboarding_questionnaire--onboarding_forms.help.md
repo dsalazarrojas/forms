@@ -1,11 +1,3 @@
-<thinking> 
-This form is used to onboard new suppliers with your organization. Onboarding is a process to ensure that new suppliers can quickly and easily start working with your team. It's used to collect essential information about the supplier, such as their contact information, business type, and onboarding status. 
-This information is crucial in setting up a new supplier in your system and streamlining the onboarding process. 
-
-To avoid duplication, please make sure the supplier has not already been onboarded before submitting this form.
-
-</thinking>
-
 # Supplier Onboarding Questionnaire - Help Guide
 
 ## Purpose

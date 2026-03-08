@@ -1,9 +1,3 @@
-<thinking>
-Form purpose is to collect information from customers to process grill box orders. This form should be used by customers who want to place an order for catering, delivery, or pickup. The form should not be used for other purposes.
-This form is part of a larger system for managing orders.
-To ensure consistency and clarity, each form field is labeled clearly with its corresponding label/name. The form fields should be filled out according to the guidelines below.
-</thinking>
-
 # Grill Box Order Form - Help Guide
 ## Purpose
 This form is used to place orders for catering, delivery, or pickup from a grill box service. Please fill out the form accurately and completely to ensure that your order is processed correctly.

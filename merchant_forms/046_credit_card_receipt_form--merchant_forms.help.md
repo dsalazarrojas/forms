@@ -1,13 +1,3 @@
-<thinking>
-This form is designed for merchants to provide credit card information, 
-with fields for customer, payment method, card details, security code, 
-card holder name, merchant information, and contact details. This form 
-is likely used for online transactions, refunds, or other purposes 
-where merchants need to capture accurate credit card information. 
-Please ensure that the form is not used to collect sensitive 
-information for non-legitimate purposes.
-</thinking>
-
 # credit_card_receipt_form - Help Guide
 ## Purpose
 This form is designed for merchants to provide credit card information for online transactions, refunds, or other purposes where accurate credit card details are required.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to allow customers to place an order for nail polish sets from Kelly's Kreative Nails. The form is divided into three main sections: intro, order details, and payment and shipping information.
-The form requires the customer to provide their name, email address, and shipping address, which are all necessary for processing the order. The "Name of Sets you want to order" field is where the customer can specify the sets they wish to purchase, and the "Total Number of Sets" field is where they can confirm the quantity. 
-The "Is this a Buy 3 Get 1 Free deal?" field is to determine if the customer is taking advantage of a promotion, and the "Payment Method" field is used to choose between Venmo, PayPal, and Cash as payment options. 
-The "Payment Username" field is used to enter the username associated with the chosen payment method, and the "Delivery Option" field offers the customer the choice between shipping ($4.00) and picking up the order in person. 
-The "Hostess Name" field is optional and is for the customer to provide the name of the hostess (if applicable), and the "Message for Kelly" field allows the customer to leave a message for Kelly.
-This form is designed to be completed by the customer to place an order, and the information provided will be used to process the order and fulfill the customer's request.
-</thinking>
-
 # Color Street Order Form - Kelly's Kreative Nails - Help Guide
 ## Purpose
 The Color Street Order Form is designed to allow customers to place an order for nail polish sets from Kelly's Kreative Nails. This form is used to collect essential information from the customer, including their name, address, and payment details, to process and fulfill the order.

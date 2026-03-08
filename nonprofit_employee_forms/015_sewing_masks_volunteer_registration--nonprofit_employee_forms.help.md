@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect volunteer registration information for the sewing masks project. The form is meant to gather data from individuals interested in volunteering their time to help create sewing masks for those in need. The form's sections cover contact information, volunteer frequency, availability, volunteer type, volunteer location, emergency contact, and relationship. This form is used for internal purposes, and the submitted data will be reviewed to determine which volunteers can be assigned to specific tasks based on their skills, availability, and location.
-
-To ensure the form is filled out correctly, it is recommended to review the form carefully before submitting. Each field has a specific label and hint to guide the user through the submission process.
-
-</thinking>
-
 # sewing_masks_volunteer_registration - Help Guide
 ## Purpose
 This guide will walk you through the sewing masks volunteer registration form, which is used to collect information from individuals interested in volunteering their time to create sewing masks for those in need.

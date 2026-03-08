@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for team members to provide consent for data handling and management purposes. The form seems to be relevant to organizations that handle sensitive data and need to ensure that team members understand and agree to the handling of their personal data. The purpose of this form is likely to obtain informed consent from team members for data handling practices, which is a common requirement for data protection regulations. I did not find any duplicate forms in the provided YAML.
-</thinking>
-
 # Team Member Data Management Consent Form - Help Guide
 ## Purpose
 This form is for team members to provide consent for the handling and management of their personal data. It is a necessary step to ensure that team members understand and agree to the data handling practices of the organization.

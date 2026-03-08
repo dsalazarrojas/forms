@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who may have been exposed to measles. The form is intended to be completed by people who have been in contact with someone who has been diagnosed with measles or have recently traveled to an area with an outbreak. The purpose of this form is to monitor the exposure and gather necessary information to prevent the spread of the disease. Please ensure that you have the necessary permissions and approvals to collect and store the data before proceeding.
-</thinking>
-
 # Measles Exposure Monitoring Survey - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to create a delivery service ticket for customers, which is a critical piece of information for our internal teams to manage and track delivery requests and status updates. Before proceeding, please ensure that:
-- You have a legitimate delivery request from a customer.
-- You have all the necessary information required for the form fields.
-This form is intended for use by internal staff only. Please do not attempt to use it for any other purpose.
-</thinking>
-
 # Delivery Service Ticket - Help Guide
 ## Purpose
 The "Delivery Service Ticket" form is used to create a ticket for deliveries that need to be tracked and managed internally. This includes gathering information about the delivery request, pickup and drop-off details, and customer contact information.

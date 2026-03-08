@@ -1,7 +1,3 @@
-<thinking>
-The form purpose and content are relevant and not duplicated as per the AI-generated form creation guidelines. This form is designed for a pharmacy setting, where patients provide their medical information and receive medication prescriptions. The form is intended for patients and pharmacists to interact with each other while ensuring a seamless and accurate medication ordering process. There is no evidence of duplication or affiliation with other form platforms.
-</thinking>
-
 # Pharmacy Order Form - Help Guide
 ## Purpose
 This form is designed to streamline the process of ordering medications for patients, ensuring accurate and secure interactions between patients and pharmacists.

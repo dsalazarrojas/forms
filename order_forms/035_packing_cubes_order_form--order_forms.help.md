@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll first consider the purpose of this form. From the provided YAML input schema, I understand that the Packing Cubes Order Form is used to collect customer information and order details for packing cubes. The form is likely used for an e-commerce or retail business that sells packing cubes, a type of luggage accessory.</thinking>
-
 # Packing Cubes Order Form - Help Guide
 ## Purpose
 The Packing Cubes Order Form is used to collect customer information and order details for packing cubes. This form helps our business to efficiently process orders and ensure accurate delivery.

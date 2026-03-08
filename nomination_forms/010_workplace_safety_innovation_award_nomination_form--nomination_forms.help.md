@@ -1,18 +1,3 @@
-<thinking>
-This form is designed for submitting nominations for the Workplace Safety Innovation Award. Please note that all nominations must be submitted through this form. Repeated submissions through other means will not be considered.
-
-Before starting, please ensure that you have all the necessary information required to complete the form accurately. You will need to provide details about the innovation, nominator, and nomination date. If you're unsure about any of these fields, please contact the award committee for clarification.
-
-Additionally, please note that the nominator's job title, department, and manager's information is optional. However, providing this information can help the award committee contact the nominator and provide feedback on their submission.
-
-Please ensure that you have the nominator's agreement and consent before submitting the nomination. The nominator must agree that all the information provided is accurate.
-
-If you need to add any additional information beyond what is provided in the form, please use the "Is there anything else you want to add to this nomination?" field. This is where you can include any supporting documentation or files that you think would be helpful for the award committee to review.
-
-The nominator's agreement and consent is a critical part of the submission process. Please ensure that the nominator has agreed to all the information provided before proceeding with the submission.
-
-</thinking>
-
 # Workplace Safety Innovation Award Nomination Form - Help Guide
 ## Purpose
 The Workplace Safety Innovation Award nomination form is designed to help individuals and organizations submit nominations for recognizing and celebrating innovations that have made a positive impact on workplace safety.

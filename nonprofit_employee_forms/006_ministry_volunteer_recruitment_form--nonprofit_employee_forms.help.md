@@ -1,7 +1,3 @@
-<thinking>
-The Ministry Volunteer Recruitment Form is a tool used to gather information from potential volunteers interested in joining the ministry's activities and events. This form is not intended for existing employees of the ministry; it is for people who are not already part of the team. When filling out this form, users should only complete the required fields and provide accurate information about themselves and their interests. The form can be completed at any time, but it is recommended to do so before reaching out to the contact person.
-</thinking>
-
 # Ministry Volunteer Recruitment Form - Help Guide
 ## Purpose
 The Ministry Volunteer Recruitment Form is a tool used to gather information from potential volunteers interested in joining the ministry's activities and events.

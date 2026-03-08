@@ -1,8 +1,3 @@
-<thinking>
-This form is used for requesting a restocking service, which is a service that provides automated restocking of inventory to prevent stockouts. It is used for requesting automated restocking services from different providers. The form is designed to collect relevant information about the request, including the requesting party's details and the restocking service requirements.
-Before proceeding, please ensure that the requested automated restocking service is not already active or pending in your account. If you're unsure, contact your account representative for verification.
-</thinking>
-
 # Restocking Automation Quote Request Form - Help Guide
 
 ## Purpose

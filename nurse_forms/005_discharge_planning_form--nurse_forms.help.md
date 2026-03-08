@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Discharge Planning Form - Help Guide
 ## Purpose
 This form is used to collect information about a patient's discharge from the hospital. It is meant to ensure that all necessary details are captured before a patient is released from the hospital, including the date and reason for discharge, as well as contact information for the patient's next destination.

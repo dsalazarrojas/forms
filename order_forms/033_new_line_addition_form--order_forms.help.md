@@ -1,9 +1,3 @@
-<thinking>
-
-The "new_line_addition_form" form is used to add new lines to an existing order. This form is typically used by authorized personnel to update the order details in a quick and efficient manner. It's essential to fill out the form accurately to ensure that the order information is up-to-date and correct. Please note that this form is not intended for general public use; only authorized users should access and complete this form.
-
-</thinking>
-
 # new_line_addition_form - Help Guide
 ## Purpose
 The "new_line_addition_form" is used to add new lines to an existing order, allowing authorized personnel to update the order details in a quick and efficient manner.

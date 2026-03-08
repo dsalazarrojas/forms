@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect data for order validation and payment survey, likely for e-commerce or retail businesses. It's a comprehensive form that covers various aspects of an order, including order details, payment details, customer information, and order status. Before we dive into the help guide, let's ensure this form is not used for any other purpose or for duplicate orders.
-
-The form consists of 25 fields, each collecting specific data points related to an order. We will go through each field, explaining what it is used for, and provide guidance on how to complete each one accurately.
-
-</thinking>
-
 # Order Validation And Payment Survey - Help Guide
 ## Purpose
 This form is designed to collect data for order validation and payment survey, which is essential for e-commerce or retail businesses to track orders, payments, and customer interactions. 

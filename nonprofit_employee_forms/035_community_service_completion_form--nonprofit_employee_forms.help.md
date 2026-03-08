@@ -1,5 +1,3 @@
-<thinking>As the form is a part of the nonprofit organization's volunteer program, the Community Service Completion Form is used to track and record the hours, tasks, and experiences of volunteers. This form is intended to be completed by volunteers to report their service hours, details about their service, and reflections on their experiences. The completion of this form serves to provide an accurate record of the volunteer's work and help to evaluate the effectiveness of the services rendered.</thinking>
-
 # Community Service Completion Form - Help Guide
 ## Purpose
 This form is designed to gather information about your volunteer work, including details about the service hours, tasks, and experiences from your service. This information helps us to track the impact of our services and evaluate their effectiveness.

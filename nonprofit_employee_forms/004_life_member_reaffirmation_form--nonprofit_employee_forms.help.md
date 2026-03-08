@@ -1,7 +1,3 @@
-<thinking>
-This form is used for nonprofit organizations to collect information about life members who need to reaffirm their membership status. It ensures that we have the correct and up-to-date information about our members, so we can keep them informed and involved in our activities. This form is not intended for new member sign-ups.
-</thinking>
-
 # life_member_reaffirmation_form - Help Guide
 ## Purpose
 The Life Member Reaffirmation Form is used to collect and update information about existing life members of our organization. This form is essential for us to keep our records up-to-date and ensure that our members are informed and involved in our activities.

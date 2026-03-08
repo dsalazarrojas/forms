@@ -1,14 +1,3 @@
-<thinking>
-This form is used to nominate individuals for an award. The purpose of the form is to provide a structured way to collect necessary information about the nomination. The form is divided into multiple pages, and each page is designed to focus on a specific aspect of the nomination. 
-
-This form is not intended to be a comprehensive guide for creating a perfect nomination. It is a tool to help gather essential information about the nominee. 
-
-Please fill out this form carefully and truthfully. If you have any questions or concerns about this form, please don't hesitate to reach out. 
-
-Note: This form is for nomination purposes only. 
-
-</thinking>
-
 # muay_thai_awards_nomination_form - Help Guide
 ## Purpose
 This form is used to nominate individuals for an award. It is a tool to collect necessary information about the nomination.

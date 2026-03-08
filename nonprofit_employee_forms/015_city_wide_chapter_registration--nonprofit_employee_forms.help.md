@@ -1,8 +1,3 @@
-<thinking>
-This form is used for the City Wide Chapter Registration, which is a process to register local chapters or groups with the organization. Before proceeding, check if you have already registered your chapter/group. If you are unsure, contact the organization for confirmation. This form is used to collect information about your local chapter or group, including your chapter name, parent organization, contact person, and other relevant details. Please fill out the form completely and accurately to ensure a smooth registration process.
-
-</thinking>
-
 # City Wide Chapter Registration - Help Guide
 ## Purpose
 The City Wide Chapter Registration form is used to register local chapters or groups with the organization. This form collects information about your chapter/group, including chapter name, parent organization, contact person, and other relevant details. Please fill out the form completely and accurately to ensure a smooth registration process.

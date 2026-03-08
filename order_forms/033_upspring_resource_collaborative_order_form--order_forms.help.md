@@ -1,16 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "upspring_resource_collaborative_order_form" form. This form is likely used for households to provide information for resource ordering, such as demographic information and emergency contacts. To ensure that users understand the form's purpose and can complete it correctly, we need to provide clear explanations and examples for each field. We also need to check that the field labels are clear and concise, and if not, explain their intended purpose based on the YAML fields.
-
-Form fields seem to be mostly self-explanatory, but we might need to add additional explanations or hints for some fields to avoid confusion.
-
-Before starting this help guide, we have confirmed that the form purpose is to collect demographic information and contact details from household members, and it's used for resource ordering.
-
-The form is not strictly necessary for users to have a specific household type or relationship with an emergency contact, but it's a useful optional field for categorization and emergency contact identification.
-
-After reviewing the form fields, we have confirmed that the form is not meant to be a comprehensive resource ordering application but rather a basic information collection tool for household members.
-
-</thinking>
-
 # upspring_resource_collaborative_order_form - Help Guide
 ## Purpose
 The "upspring_resource_collaborative_order_form" is a form designed to collect demographic information and emergency contact details from household members for resource ordering purposes.

@@ -1,7 +1,3 @@
-<thinking>
-The "Nails With Ashie Order Form" is used to collect information for nail-related orders. This form is typically used to capture customer details and preferences for nail-related services or products. Before proceeding, please ensure that you have the necessary information ready and that this form is not a duplicate of a previous order.
-</thinking>
-
 # Nails With Ashie Order Form - Help Guide
 ## Purpose
 This form is used to collect information for nail-related orders. It typically includes customer details and preferences for nail-related services or products.

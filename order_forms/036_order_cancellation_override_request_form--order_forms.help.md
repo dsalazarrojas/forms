@@ -1,7 +1,3 @@
-<thinking>
-The form is used to override and cancel orders that have already been placed, allowing the user to select a reason for cancellation and provide additional notes. This form is typically used when an order needs to be cancelled for a reason other than standard order cancellation reasons. It's essential to fill this form out correctly to ensure accurate and efficient order cancellation processing.
-</thinking>
-
 # Order Cancellation Override Request Form - Help Guide
 ## Purpose
 The Order Cancellation Override Request Form is used to request cancelling of orders that have already been placed. Fill out this form to cancel an order and provide a reason for cancellation.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data on product aging monitoring, likely used in industries such as manufacturing, inventory management, or logistics. The purpose of this form is to gather information about products that are nearing or have exceeded their expected shelf life. The form may be used to identify products that are approaching or have reached their best-before date, and to trigger actions such as removal, replacement, or inventory adjustment. This form is intended to be used in conjunction with other systems, such as inventory management or quality control systems, to ensure timely and accurate data collection.
-</thinking>
-
 # Product Aging Monitoring Form - Help Guide
 ## Purpose
 This form is designed to collect data on product aging monitoring, specifically for products nearing or beyond their expected shelf life. It is intended for use in industries such as manufacturing, inventory management, or logistics.

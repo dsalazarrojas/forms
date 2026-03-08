@@ -1,18 +1,3 @@
-<thinking>
-The purpose of the Nonprofit Ethics And Accountability Survey form is to collect information about the nonprofit organizational values, ethics principles, accountability measures, transparency, and other relevant details from end-users. This form aims to ensure that the nonprofit organization is operating ethically and transparently, and that its employees have a clear understanding of the expected accountability measures and their roles in maintaining these principles.
-
-Before completing this form, ensure that you have a good understanding of the nonprofit's organizational values, ethics principles, and accountability measures. This form is not a test or a judgment tool, but rather a means to facilitate self-reflection and improvement within the organization.
-
-Please note that the form is not a one-time activity; it is a regular assessment tool to monitor progress and growth over time. Therefore, it is recommended to revisit the form periodically to update your answers as your organization evolves.
-
-This form is intended for use by all employees of the nonprofit organization. If you have any questions or concerns, please reach out to your supervisor or the organizational leadership for clarification.
-
-Before proceeding, ensure that you have the necessary time and resources to complete the form accurately and thoroughly. If you're unsure about any aspect of the form, don't hesitate to seek guidance from your colleagues or superiors.
-
-Please fill out the form in a way that reflects your genuine understanding and honest assessment of the nonprofit's organizational values, ethics principles, and accountability measures.
-
-</thinking>
-
 # Nonprofit Ethics And Accountability Survey - Help Guide
 ## Purpose
 The Nonprofit Ethics And Accountability Survey is a tool used to assess a nonprofit organization's commitment to ethics and accountability. This survey is designed to help the organization understand its strengths and weaknesses in these areas and identify opportunities for improvement.

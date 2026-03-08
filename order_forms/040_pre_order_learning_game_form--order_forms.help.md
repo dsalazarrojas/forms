@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pre Order Learning Game Form - Help Guide
 
 ## Purpose

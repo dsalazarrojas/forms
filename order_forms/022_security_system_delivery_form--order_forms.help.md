@@ -1,5 +1,3 @@
-<thinking>Security System Delivery Form is intended for providing delivery information to support the security system deployment process. It ensures that client details, product information, and delivery methods are captured accurately and efficiently. Before proceeding, confirm that this form is relevant and not a duplicate. If the client or delivery details have already been captured, please do not proceed with this form.</thinking>
-
 # Security System Delivery Form - Help Guide
 
 ## Purpose

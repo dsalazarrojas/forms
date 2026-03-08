@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Home Curfew Monitoring Request Form - Help Guide
 ## Purpose
 The Home Curfew Monitoring Request Form is used to request monitoring for a home curfew, typically for a minor. This form is used to gather information from the contact person, including their contact details, monitoring location, and scheduling preferences.

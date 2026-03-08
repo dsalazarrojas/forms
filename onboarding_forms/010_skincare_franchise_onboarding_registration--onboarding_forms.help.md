@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for skincare franchisors to onboard new applicants who wish to join the Skincare Franchise. It is intended to capture necessary information about the applicant and their onboarding progress. The form is not a part of any specific platform, but rather a generic form designed for this particular industry and category. It is not affiliated with or endorsed by any form platform. The purpose of this form is to guide new applicants through the onboarding process, ensuring they understand the requirements and expectations of the franchise. This form will not collect any sensitive or personal data, only information relevant to the onboarding process. It is essential to complete this form to ensure a smooth onboarding experience.
-
-The form consists of 13 fields, including text fields for various details, a date field for recording the date, a time field for recording the time, and an email field for communication purposes. Some fields are optional, while others are required to ensure the accuracy and completeness of the onboarding data.
-
-To ensure the form is completed correctly and efficiently, it is crucial to understand each field's purpose and requirement. The following guide will walk you through each field's explanation.
-
-</thinking>
-
 # Skincare Franchise Onboarding Registration - Help Guide
 ## Purpose
 

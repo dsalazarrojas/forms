@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Safety Floor Marking Supply Order Form - Help Guide
 
 ## Purpose

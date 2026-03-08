@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a Factory Equipment Documentation Kit Order Form. The form is intended to gather details about the order, including delivery preferences and contact information. The purpose of this form is to streamline the ordering process for factory equipment documentation kits. Before filling out the form, please ensure that you have all the necessary information ready, such as delivery preferences and contact details. This form should not be used for duplicate or incomplete orders.
-</thinking>
-
 # Factory Equipment Documentation Kit Order Form - Help Guide
 ## Purpose
 The Factory Equipment Documentation Kit Order Form is used to collect information for a factory equipment documentation kit order. This form helps to gather details about the order, delivery preferences, and contact information.

@@ -1,7 +1,3 @@
-<thinking>
-To confirm that the form purpose and field explanations match the actual use case, let's review the provided YAML fields and determine a concrete, concise explanation for end-users. The form is called "ECheck.Net T Shirt Order Form" and seems to be used for customers to provide their information for an online order or payment process related to ECheck.Net services. The fields appear to be related to customer and ECheck.Net account information. However, some fields might be redundant or not clearly defined in the form schema. To create a clear and practical help guide, let's make an educated guess about the fields' purpose based on common online order forms and the ECheck.Net name.
-</thinking>
-
 # ECheck.Net T Shirt Order Form - Help Guide
 ## Purpose
 This form is used to provide your details for an online order or payment process related to ECheck.Net services.

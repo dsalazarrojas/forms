@@ -1,9 +1,3 @@
-<thinking>
-The "limited_toy_order_form" form is designed to collect essential information for a toy order from customers. This form is used to gather details necessary for processing a toy order, including customer contact information, selected toy preferences, and payment details. 
-This form has four sections: Customer Information, Toy Selection, Order Details, and Payment Information. It is essential to provide accurate and complete information in each field to ensure efficient processing of the order.
-
-</thinking>
-
 # limited_toy_order_form - Help Guide
 ## Purpose
 This form is used to collect essential information for a toy order from customers, including customer contact information, selected toy preferences, and payment details.

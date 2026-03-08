@@ -1,5 +1,3 @@
-<thinking>Before creating a helpful guide for the LPN Application form, let's consider the form's purpose and the fields it contains. The form is likely designed to collect information from Licensed Practical Nurse (LPN) applicants for employment or other purposes. It appears to be used in a healthcare setting, possibly for staff hiring or recruitment. The form's fields seem to cover personal details, professional background, and availability for potential work shifts. Let's break down the form into its components and provide a clear guide for users to complete it effectively.</thinking>
-
 # LPN Application - Help Guide
 ## Purpose
 This form is designed to collect information from Licensed Practical Nurse (LPN) applicants for potential employment or other purposes in a healthcare setting. It is essential to fill out the form accurately and completely to help us review your application efficiently.

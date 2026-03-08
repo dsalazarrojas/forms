@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to capture information related to a solar system purchase order for merchants. This form should only be used for internal tracking and management purposes. Ensure that this form is not used for other purposes and that all information entered is accurate and up-to-date.
-
-To ensure that this form is used correctly, please review the following sections carefully.
-
-</thinking>
-
 # Solar System Purchase Order Form - Help Guide
 
 ## Purpose

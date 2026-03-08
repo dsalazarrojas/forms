@@ -1,7 +1,3 @@
-<thinking>
-This form is a product customization prototype order form. It's designed for customers to provide information about their products, orders, and payment details. The form consists of 15 fields, including customer information, product details, payment methods, and custom fields for additional information. To complete this form, you'll need to fill out each field with the required information. Please review the form carefully to ensure you provide accurate and complete information.
-</thinking>
-
 # product_customization_prototype_order_form - Help Guide
 ## Purpose
 The product customization prototype order form is a tool used to gather information from customers about their products, orders, and payment details.

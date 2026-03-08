@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for the purpose of monitoring and tracking employee sickness cases in the organization. The goal is to collect data on sickness types, severity, and duration to inform decision making and ensure that employees' health and well-being is maintained. The form is not intended for emergency situations, and users are encouraged to report any critical health issues to the relevant authorities or management. It is expected that this form will not collect duplicate data, as users can review their previous submissions before proceeding. Please fill in the form with care and attention to detail to ensure accurate and helpful information.
-</thinking>
-
 # Sickness Monitoring Invitation - Help Guide
 ## Purpose
 This form is used to collect information about an employee's sickness case, including type, symptoms, medical history, contact info, and other relevant details. The data collected will be used to monitor and track sickness cases within the organization.

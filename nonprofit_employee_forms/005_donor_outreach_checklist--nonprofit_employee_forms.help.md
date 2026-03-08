@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to be used by nonprofit employees to track their outreach efforts and follow-up activities with donors. The form is designed to be a checklist that covers various aspects of donor outreach, including contact information, follow-up plans, and results. This form should only be used for internal purposes and not for external sharing. To avoid duplication of efforts, please make sure to use this form only once per donor and update any existing records before creating new ones.</thinking>
-
 # Donor Outreach Checklist - Help Guide
 ## Purpose
 The Donor Outreach Checklist is a form used by nonprofit employees to record and track their outreach efforts and follow-up activities with donors.

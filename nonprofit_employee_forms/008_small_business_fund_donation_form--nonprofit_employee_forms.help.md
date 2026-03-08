@@ -1,10 +1,3 @@
-<thinking>
-Nonprofit Employee Forms
-This form is used to collect information from small business donors for the purpose of receiving a grant or funding from a non-profit organization. The form is designed to gather donor details, business information, and donation frequency and amounts.
-
-To ensure accurate and efficient processing of donations, please fill out the form carefully and completely. This form should not be used for any other purpose other than submitting a small business grant or funding request. Reusing or modifying this form without permission from a designated authority may result in delays or rejection of your application.
-</thinking>
-
 # small_business_fund_donation_form - Help Guide
 ## Purpose
 The purpose of this form is to submit a request for a small business grant or funding from a non-profit organization.

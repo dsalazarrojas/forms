@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to be used by customers who are applying for an Individual Taxpayer Identification Number (ITIN) through our services. The form is used to collect information from the client, including their name, contact information, and business details, as well as the reason for their ITIN application. The form also collects information about the client's TIN status, date of birth, and reason for application or inactivation. The form is intended to help us assess the client's eligibility for an ITIN and process their application efficiently.
-
-Before filling out this form, please ensure that you have not already submitted a similar application in the past, as this may lead to unnecessary delays or duplication of effort.
-
-When reviewing this form, please note that some fields are required, but others are optional. Please fill out all required fields accurately to ensure that your application is processed correctly.
-</thinking>
-
 # ITIN Preparation Service Form - Help Guide
 ## Purpose
 The ITIN Preparation Service Form is used to collect information from customers who are applying for an Individual Taxpayer Identification Number (ITIN) through our services.

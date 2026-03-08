@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information on how animal rescue organizations use technology in their operations. It aims to understand the current state of technology adoption, challenges faced, and desired features in animal rescue organizations. The goal is to gather data to inform the development of technology solutions tailored to the needs of animal rescue organizations. This form is not affiliated with any form platform and is an original adaptation based on public survey topic metadata. It is released under CC BY 4.0 license, allowing users to use, modify, and sell forms derived from it while giving credit.
-</thinking>
-
 # Animal Rescue Tech Usage Survey - Help Guide
 ## Purpose
 This form is designed to collect information on how animal rescue organizations use technology in their operations.

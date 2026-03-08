@@ -1,11 +1,3 @@
-<thinking>
-
-This form is part of the onboarding process, which involves preparing a pilot/student for a rental property. The primary goal of this form is to collect necessary information and agreements from the pilot/student. The fields should provide a clear and concise way for the pilot/student to understand their responsibilities and expectations before participating in the program.
-
-The form appears to be relevant to the pilot/student onboarding process, as it includes sections for pilot/student information, rental agreement, and cancellation policy/safety procedures. The form does not duplicate any existing forms, and its AI-generated content is original and not derived from any specific survey platform.
-
-</thinking>
-
 # Onboarding Agreement (Pilot/Student Information, Rental Agreement, Cancellation Policy/Safety Procedures and Practices) - Help Guide
 ## Purpose
 The Onboarding Agreement is a form designed to gather essential information from pilot students during the onboarding process. This includes their pilot/student information, rental agreement, and cancellation policy/safety procedures.

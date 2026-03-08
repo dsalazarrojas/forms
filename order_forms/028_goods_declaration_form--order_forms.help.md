@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the "Goods Declaration Form", we can follow these steps:
 
 1. Identify the form's purpose: This form is used for declaring goods, and the main goal is to provide a clear and concise way for users to input necessary information about their goods, including contact information, goods descriptions, and shipping details.

@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to help organizations develop a monitoring plan for greenhouse gas emissions. This form is designed to capture essential information about the facility, the type of gases being monitored, the sampling frequency, and data reporting frequency and methods. The goal is to provide a comprehensive framework for monitoring and reporting greenhouse gas emissions.
-This form is intended for facility owners, managers, and operators who need to create a monitoring plan for their greenhouse gas emissions. It may be used by companies, government agencies, or research institutions.
-
-This guide will walk you through each field of the form and provide explanations for each section.
-
-</thinking>
-
 # Greenhouse Gas Monitoring Plan Template - Help Guide
 ## Purpose
 The Greenhouse Gas Monitoring Plan Template is a comprehensive guide for facility owners, managers, and operators to develop a monitoring plan for their greenhouse gas emissions. This plan is essential for understanding and managing emissions from industrial processes, energy production, and other sources.

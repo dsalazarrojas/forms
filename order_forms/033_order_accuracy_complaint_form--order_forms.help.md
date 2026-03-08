@@ -1,17 +1,3 @@
-<thinking>
-We should ensure that this form is used only for customers who are reporting an issue with an order, and not for other purposes. We should also check that the form is not duplicated, i.e., that a complaint has already been submitted for the same customer and order. This form is designed to collect information about customer complaints, allowing business teams to track and resolve issues related to orders. It should only be filled out by customers who have issues with their orders and need help from the business team. The customer can provide details about their order, the issue they are experiencing, and how it should be resolved. The form will be reviewed by business teams to ensure that they follow up with the customer and resolve the issue.
-
-To complete this form, the customer should provide:
-- A brief description of the issue with their order
-- Their name and email address
-- A description of what happened with their order
-- How they would like the issue resolved
-- Any additional information that can help with resolving the issue
-
-We will review each field in the form below.
-
-</thinking>
-
 # Order Accuracy Complaint Form - Help Guide
 ## Purpose
 The Order Accuracy Complaint Form is designed to collect information about customer complaints related to their orders. Please fill out this form if you are experiencing an issue with one of our orders.

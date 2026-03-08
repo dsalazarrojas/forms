@@ -1,9 +1,3 @@
-<thinking>
-
-We created this form to allow our users to submit a referral code for the credit monitoring service. This service is designed to help users monitor their credit report and receive alerts about any changes or updates. Before submitting the form, please check if you have already submitted a referral code or if this is a duplicate request. This will help us ensure that we can provide the best possible service for you and prevent unnecessary processing delays.
-
-</thinking>
-
 # Referral Code Submission For Credit Monitoring Service - Help Guide
 ## Purpose
 The Referral Code Submission For Credit Monitoring Service form is designed to allow you to submit a referral code for our credit monitoring service. This service helps you monitor your credit report and receive alerts about any changes or updates.

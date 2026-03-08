@@ -1,7 +1,3 @@
-<thinking>
-This form is likely to be used to collect information about a party from the party hosts. The party details will be used to create a guest list or to send reminders and invitations. To ensure that the form is completed accurately and consistently across parties, it's essential to understand its purpose, usage, and field explanations.
-</thinking>
-
 # pool_party_registration_form - Help Guide
 ## Purpose
 The pool party registration form is designed to collect information about a party, including party details, name, date, and time. This form helps the party hosts to create a guest list and send reminders and invitations.

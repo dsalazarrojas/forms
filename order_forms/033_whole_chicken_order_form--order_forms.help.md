@@ -1,7 +1,3 @@
-<thinking>
-To determine the purpose and required fields of the "whole_chicken_order_form", it's essential to analyze the provided YAML inputSchema. This form appears to be designed for customers to place orders for whole chickens. The form requires the customer's name, email, phone number, and the count of whole chickens ordered. The extra_sides and extra_sauces fields are optional, allowing customers to select additional items to accompany their order. The special_instructions field serves as a note-taking section for any specific requirements or requests customers may have for their order. It seems this form is a simple order-taking tool, and its primary goal is to ensure accurate and efficient processing of customer orders.
-</thinking>
-
 # whole_chicken_order_form - Help Guide
 ## Purpose
 This form is designed to help customers place orders for whole chickens, providing an easy and streamlined way to gather necessary information for processing their orders.

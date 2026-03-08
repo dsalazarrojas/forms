@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "Holiday Cake Order Form" is to allow customers to place an order for holiday cakes. The form collects information about the type and size of cake, delivery details, and payment preferences. This form likely supports holiday-related orders, possibly for Christmas or another festive period.
-</thinking>
-
 # Holiday Cake Order Form - Help Guide
 ## Purpose
 The Holiday Cake Order Form is a digital form used to collect customer information for placing holiday cake orders.

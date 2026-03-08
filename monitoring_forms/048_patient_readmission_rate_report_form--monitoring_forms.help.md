@@ -1,7 +1,3 @@
-<thinking>
-This form is used to track patient readmission rates for monitoring and quality improvement purposes. It is essential to ensure that all necessary fields are completed accurately to obtain reliable data. To avoid duplication of effort, please ensure that you are using this form to report new, unique patient readmissions. If you are unsure or have questions, consult with your supervisor or IT department before proceeding. This form is designed to help identify patients who have been readmitted to the hospital within a certain period after discharge, with options for tracking readmissions within 30, 90, 180 days, and 1 year after discharge. 
-</thinking>
-
 # Patient Readmission Rate Report Form - Help Guide
 ## Purpose
 The Patient Readmission Rate Report Form is a tool used to track patient readmission rates for the purpose of monitoring and quality improvement. This form captures information on patient identifiers, date of admission and discharge, department, reason for discharge, hospital stay duration, and readmission status within specific timeframes.

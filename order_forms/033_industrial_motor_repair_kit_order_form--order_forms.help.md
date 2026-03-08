@@ -1,10 +1,3 @@
-<thinking>
-This form is a tool for customers to order an industrial motor repair kit, which is a specialized kit used to repair industrial motors. The form is designed to collect information from customers, including their contact details, shipping information, and any additional notes they may have. The purpose of this form is to ensure that the customer's order is accurately processed and delivered to their correct address.
-
-Before completing this form, please ensure that you have already checked the product catalog to choose the correct kit, and that your shipping address is up to date and accurate.
-
-The form is divided into 6 main sections. Each section is explained below.</thinking>
-
 # Industrial Motor Repair Kit Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers to process their orders for industrial motor repair kits accurately and efficiently.

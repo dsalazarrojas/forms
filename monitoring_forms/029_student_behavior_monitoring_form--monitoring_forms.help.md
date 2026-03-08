@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to track and document student behavior, allowing educators to monitor and address potential issues in a timely manner. It's meant to be completed by teachers or other school staff to report on student behavior, including any incidents, concerns, or notable events that have occurred. This form will help ensure consistency and accuracy in recording and sharing information across different departments or individuals. Please note that this form should not be used for repetitive or duplicate entries. Each instance of the form should only be completed once per occurrence or issue, and not for ongoing or recurring matters. 
-
-</thinking>
-
 # Student Behavior Monitoring Form - Help Guide
 ## Purpose
 The Student Behavior Monitoring Form is a tool used by teachers or school staff to document and monitor student behavior, incidents, and concerns that have arisen during the school day or at other times. This form is designed to help identify areas where students may need additional support or guidance, ensuring that issues are addressed promptly and consistently.

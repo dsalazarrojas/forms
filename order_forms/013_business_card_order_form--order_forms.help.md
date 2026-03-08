@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from users for business card orders, including contact details, order details, and shipping information. This form ensures accurate data entry and helps prevent duplication of orders. To avoid errors, please review the form carefully and complete it in one session, as incomplete or duplicate forms may lead to delays in the order process.
-
-</thinking>
-
 # Business Card Order Form - Help Guide
 ## Purpose
 This form is for placing orders for business cards. Please fill it out accurately to ensure timely and correct production of your cards.

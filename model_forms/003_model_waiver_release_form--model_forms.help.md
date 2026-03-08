@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended for end-users who will be completing this model waiver and release form. This form is a critical document that requires careful consideration and understanding of its purpose and fields. Before proceeding, ensure that this form is relevant to your specific situation and not a duplication of effort. If you are unsure, review the form's purpose and fields carefully, and seek guidance from a qualified professional if necessary.
-
-</thinking>
-
 # Model Waiver & Release Form - Help Guide
 ## Purpose
 This model waiver and release form is a document that serves as a legal agreement between you and the other party involved. It is intended to outline the terms and conditions of the agreement, including any waiver and release of claims or liabilities.

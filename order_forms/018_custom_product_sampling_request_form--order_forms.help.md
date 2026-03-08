@@ -1,12 +1,3 @@
-<thinking>
-To start, let's break down the internal reasoning behind the form purpose and check for relevance and non-duplication:
-- The form "custom_product_sampling_request_form" seems to be designed for customers or potential customers to request samples of custom-made products.
-- The form collects information about the requesting entity (e.g., company name, contact number, and contact email) as well as the specific product sample requests (e.g., sample requested, product sample requested).
-- The form is likely used for internal business purposes, such as tracking and responding to customer inquiries, and for quality control and assurance.
-- Upon reviewing the form fields, there are some minor issues with label clarity and redundancy. For example, "Sample Requested" and "Product Sample Requested" could be consolidated into a single field with more detailed options to reduce redundancy.
-- The form does not appear to be a high-risk or sensitive form that requires extensive internal review or approval processes.
-</thinking>
-
 # custom_product_sampling_request_form - Help Guide
 ## Purpose
 The "custom_product_sampling_request_form" is designed for customers or potential customers to request samples of custom-made products from your business. This form helps us understand your needs and provides a way for us to efficiently process and respond to your requests.

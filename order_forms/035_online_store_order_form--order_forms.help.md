@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Online Store Order Form - Help Guide
 ## Purpose
 The Online Store Order Form is used for customers to place orders for products from our online store. This form collects customer information, order details, and payment information to facilitate the order process.

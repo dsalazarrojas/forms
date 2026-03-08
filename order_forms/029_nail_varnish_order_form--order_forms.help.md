@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for an order, specifically focusing on providing details about the order, customer, order total, payment method, shipping address, order date, order time, and any additional notes. This form is likely used in an e-commerce or customer service setting to capture relevant data for fulfilling or processing orders.
-</thinking>
-
 # nail_varnish_order_form - Help Guide
 ## Purpose
 This form is designed to collect information for an order, including details about the customer, order total, payment method, shipping address, order date, order time, and any additional notes.

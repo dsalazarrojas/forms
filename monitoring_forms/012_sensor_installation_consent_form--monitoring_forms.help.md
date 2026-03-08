@@ -1,11 +1,3 @@
-<thinking>
-The Sensor Installation Consent Form is designed to collect information from users for the installation of sensors in a particular industry or category. This form is intended for use by organizations in the monitoring and surveillance industries that need to obtain informed consent from individuals before installing sensors on their premises or property. The form's purpose is to ensure that users understand the purpose, risks, and benefits associated with sensor installation, and to gather their consent to move forward with the installation. 
-
-The form consists of three pages: Sensor Installation Details, Consent Details, and Additional Information. Each page has a text field, which is a free-text field where users can provide their answers. 
-
-Please ensure that the users who need to fill out this form understand the purpose and context of the form and its intended use.
-</thinking>
-
 # Sensor Installation Consent Form - Help Guide
 
 ## Purpose

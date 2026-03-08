@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Smart Safety Helmet Order Form - Help Guide
 ## Purpose
 This form is for customers to order a smart safety helmet. Please fill out the form with your shipping details, delivery preferences, and payment method to complete your order.

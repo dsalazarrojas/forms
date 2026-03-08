@@ -1,13 +1,3 @@
-<thinking> This form is intended to be a comprehensive onboarding assessment tool for new employees. It captures information about the employee's new hire details, feedback, job satisfaction, and performance, among other things. The purpose of this form is to provide insights that can help the HR department and management team in understanding the onboarding process and employee performance. 
-
-The form can be completed by HR or other authorized personnel. It is likely to be used as a reference point for future assessments and evaluations. 
-
-Please ensure to complete this form carefully and accurately, as the data will be used to inform decision-making processes.
-
-Please note that the form is divided into several sections. The first part collects basic information such as email and phone number. The second part gathers data about the new hire details including job title, department, hire date, and manager's name. The third part is dedicated to the onboarding process including the status, new hire outcomes, and outcomes reasons. The last part collects feedback and performance related data including job satisfaction, job performance, and feedback comments.
-
-</thinking>
-
 # Employee Onboarding Assessment Form - Help Guide
 ## Purpose
 

@@ -1,17 +1,3 @@
-<thinking>
-
-This form is used to collect information for a wheel valve extension order. It is designed to be completed by customers who need to extend or modify their wheel valves. The form will guide them through the necessary steps to provide their details and order requirements.
-
-To avoid duplication, please note that this form is only intended for wheel valve extension orders. If you are looking for other services, please check the relevant forms on our website.
-
-Before completing this form, please review the following:
-
-* You must have a valid customer account with us to complete this form.
-* You should be a registered customer of our services.
-* You must have the necessary permissions to extend or modify your wheel valves.
-
-</thinking>
-
 # Wheel Valve Extension Order Form - Help Guide
 ## Purpose
 This form is used to collect information for a wheel valve extension order. It is designed to be completed by customers who need to extend or modify their wheel valves.

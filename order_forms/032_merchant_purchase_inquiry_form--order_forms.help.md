@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to be used by merchants (businesses) to inquire about purchasing products or services from other vendors. It is intended to gather essential information about the buyer and their purchasing request, including contact details and product specifics. The form is likely used for internal purposes, such as tracking and managing vendor relationships, and will be reviewed by the receiving party for further action.
-</thinking>
-
 # Merchant Purchase Inquiry Form - Help Guide
 ## Purpose
 The Merchant Purchase Inquiry Form is used by merchants to submit inquiries about purchasing products or services from other vendors.

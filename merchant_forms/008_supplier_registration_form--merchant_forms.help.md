@@ -1,7 +1,3 @@
-<thinking>
-The goal of the Supplier Registration Form is to collect information from suppliers regarding their registration and agreement to terms of use. This form should only be filled out by authorized personnel, and it's essential to ensure that the form is completed thoroughly and accurately to prevent errors or duplicate registrations. It's also crucial to review the form's fields carefully to understand their purpose and how they contribute to the overall registration process.
-</thinking>
-
 # Supplier Registration Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information from suppliers to register them and agree to the terms of use. Please fill out the form accurately and thoroughly to ensure a successful registration process.

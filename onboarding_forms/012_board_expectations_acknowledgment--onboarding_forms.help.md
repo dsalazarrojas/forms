@@ -1,7 +1,3 @@
-<thinking>
-This form is used to onboard new board members, gathering essential information about their roles, responsibilities, and expectations. The goal is to ensure that each board member understands their commitments, duties, and obligations before joining the board.
-</thinking>
-
 # Board Expectations Acknowledgment - Help Guide
 ## Purpose
 This form is designed to collect information from new board members, ensuring they understand their roles, responsibilities, and expectations before joining the board. It gathers details about their name, role, term length, meeting attendance, committee service, fundraising expectations, and more.

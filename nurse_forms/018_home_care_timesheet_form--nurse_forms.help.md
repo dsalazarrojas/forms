@@ -1,12 +1,3 @@
-<thinking>
-This help guide will cover the Home Care Timesheet Form, a form used to record hours worked by home care staff. The form is used to track and document the patient's care hours, including start and end times, dates, staff information, and any notes or communications with the patient or staff. 
-
-The form is designed to be completed by home care staff to provide accurate and detailed records of their visits with patients. The form can be used to track multiple patients and staff members, making it a useful tool for management and billing purposes. 
-
-Before creating a new entry, ensure that you are not duplicating an existing entry, as the form is intended for new and unique entries only.
-
-</thinking>
-
 # Home Care Timesheet Form - Help Guide
 
 ## Purpose

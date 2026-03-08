@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information for a mushroom delivery order. This form is likely used for customers or users to place an order for mushroom delivery, which may include selecting items, dates, and other relevant details for the order. This form should ensure that users provide accurate and complete information to facilitate efficient order processing. 
-</thinking>
-
 # Mushroom Delivery Order Form - Help Guide
 ## Purpose
 This form is used for customers or users to place orders for mushroom delivery. It collects necessary information to ensure accurate and efficient order processing.

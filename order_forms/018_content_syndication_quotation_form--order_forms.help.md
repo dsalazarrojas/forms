@@ -1,12 +1,3 @@
-<thinking>
-The form is designed to collect information from clients or customers about their content syndication projects, including contact details, syndication project specifics, budget and timeline requirements, and any additional services needed.
-
-The form will be used to provide an accurate quote for the content syndication project. This will allow the business to better understand the client's needs and provide a tailored proposal. The form will not be used to collect any sensitive or private information.
-
-This form was created using public metadata as inspiration and is not affiliated with any proprietary form platforms.
-
-</thinking>
-
 # Content Syndication Quotation Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a customer's shipping address for verification purposes. The form has 7 fields: customer name, shipping address, shipping city, shipping state, shipping zip, shipping country, and shipping phone number. The form is intended for verifying a customer's shipping address, but it's likely that the form is actually intended for shipping information collection, rather than verification. I will base the explanation on the provided YAML fields.
-</thinking>
-
 # shipping_address_verification_form - Help Guide
 ## Purpose
 This form is used to collect information about a customer's shipping address. 

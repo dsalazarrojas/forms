@@ -1,11 +1,3 @@
-<thinking>
-
-The form "Art Gallery Exhibition Supplies Order Form" is used to document and process orders for supplies needed for exhibitions. It captures information on the exhibition's context, supplies required, and billing details. The form is crucial in ensuring that exhibition orders are properly processed and supplies are delivered on time.
-
-The form's fields are designed to gather specific information to facilitate efficient order processing.
-
-</thinking>
-
 # Art Gallery Exhibition Supplies Order Form - Help Guide
 ## Purpose
 The Art Gallery Exhibition Supplies Order Form is used to document and process orders for supplies needed for exhibitions.

@@ -1,5 +1,3 @@
-<thinking>...the purpose of this form is to determine the total price of a meal after applying a discount and tax. It is used to calculate the final price of a meal after considering the original price and any applicable discounts or taxes. This form should not be used in cases where the original meal price, discount, or tax rate are not known, as it does not account for these factors. Users should only select "Yes" to the Meal Price Calculator question if they have already calculated the original meal price and wish to apply a discount and tax rate. Users must answer the "Meal Price" question if they choose "Yes" to the Meal Price Calculator question.</thinking>
-
 # Task 1.1 Meal Price Calculator - Help Guide
 ## Purpose
 This form is used to determine the total price of a meal after applying a discount and tax, given the original meal price, discount, and tax rate.

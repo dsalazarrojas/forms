@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to provide information for an industrial pressure valve order. The form's purpose is to gather details about the order, customer, and delivery information. It is likely used in a business-to-business (B2B) or business-to-customer (B2C) setting, where a user needs to place an order for industrial pressure valves. This form should only be used for this specific purpose, as it is designed to collect relevant information for processing industrial pressure valve orders.
-</thinking>
-
 # industrial_pressure_valve_order_form - Help Guide
 ## Purpose
 The industrial pressure valve order form is designed to collect information for orders of industrial pressure valves. This form is intended for business-to-business or business-to-customer transactions.

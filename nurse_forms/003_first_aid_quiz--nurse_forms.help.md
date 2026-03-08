@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # First Aid Quiz - Help Guide
 
 ## Purpose

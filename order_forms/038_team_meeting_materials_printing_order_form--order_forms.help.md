@@ -1,8 +1,3 @@
-<thinking>
-To confirm, this form is intended to collect information for the printing of team meeting materials.
-This form will gather details such as meeting materials preferences, file requests, quantity, delivery date and time, delivery location, contact person, and more. This form is used for printing purposes only.
-</thinking>
-
 # Team Meeting Materials Printing Order Form - Help Guide
 ## Purpose
 This form is used to collect information for printing team meeting materials.

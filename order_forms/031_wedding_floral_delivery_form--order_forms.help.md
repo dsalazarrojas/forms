@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a critical form for managing wedding floral delivery orders. This form is meant to collect details from clients about their wedding order requirements. 
 
 Before filling out this form, it is essential to ensure that the information provided is accurate and complete. This form is not intended to be duplicated for other events or orders.

@@ -1,8 +1,4 @@
-> <thinking>
-This help guide is intended to be used by partners who will be working with your team. It provides a detailed explanation of the form's purpose and how to complete it.
-</thinking>
-
-# culinary_partnership_equipment_order_form - Help Guide
+> # culinary_partnership_equipment_order_form - Help Guide
 ## Purpose
 This form is designed to facilitate the ordering of equipment and tools for culinary partnerships. It is meant to be used by partners who need to place an order for specific equipment and tools required for their kitchen or restaurant.
 

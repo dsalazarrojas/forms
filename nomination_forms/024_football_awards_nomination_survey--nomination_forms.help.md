@@ -1,7 +1,3 @@
-<thinking>...checking for duplication...no, this form seems to be a unique and comprehensive nomination survey. The purpose of this form appears to be for collecting information about a sports player's nomination, likely for an award or recognition. The form asks for details such as the player's name, school club league, nomination reason, award level, and submission details. This form could be used in an educational or sports administration context.
-
-</thinking>
-
 # football_awards_nomination_survey - Help Guide
 ## Purpose
 This form is used to collect information about a sports player's nomination for an award or recognition.

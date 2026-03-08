@@ -1,16 +1,3 @@
-<thinking>
-The Lockdown Special Assistance Application Form is designed to help individuals in need of special assistance during the lockdown navigate the process and access the necessary support. This form is used to gather personal and contact information, as well as details about special needs and emergency services required. The purpose of this form is to ensure that all necessary information is collected to provide effective support.
-
-Before proceeding, please review the fields below to ensure you have all the required information. Note that some fields are not required, and you can choose not to fill them out if you do not have the relevant information.
-
-Also, be aware that this form is for internal use only and will be reviewed by authorized personnel. The information collected will be used to assess your situation and provide necessary support. 
-
-Please note that the order of the fields is not necessarily the order in which they will be processed. 
-
-Please review the fields carefully and fill out the information accurately.
-
-</thinking>
-
 # Lockdown Special Assistance Application Form - Help Guide
 ## Purpose
 This form is designed to help individuals in need of special assistance during the lockdown gather and submit their personal and contact information, as well as details about special needs and emergency services required.

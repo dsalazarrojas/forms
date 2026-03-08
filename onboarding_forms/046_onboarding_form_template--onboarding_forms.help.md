@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a generic onboarding form template. It is intended to collect information about a user during the onboarding process. This form is not affiliated with any specific platform and can be used for various onboarding purposes. The fields included in this form are meant to be adaptable and can be modified to fit the specific needs of the organization.
-</thinking>
-
 # Onboarding Form Template - Help Guide
 ## Purpose
 The Onboarding Form Template is a generic form designed to collect information about a user during the onboarding process. It is meant to be a starting point for creating onboarding forms tailored to specific requirements.

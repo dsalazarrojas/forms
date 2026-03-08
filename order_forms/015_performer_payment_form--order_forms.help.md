@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from performers, such as their names, contact details, and other relevant details. This form is likely used in the context of a performance or entertainment industry, where performers are required to provide their personal details for payment purposes or other related activities. 
-To ensure the form is filled out correctly, please check that all required fields are completed. If you're unsure about any field, please refer to this help guide for clarification.
-</thinking>
-
 # Perfromer Payment Form - Help Guide
 ## Purpose
 The Perfromer Payment Form is designed to collect personal details from performers for payment purposes.

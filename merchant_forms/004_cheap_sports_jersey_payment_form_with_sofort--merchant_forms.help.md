@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers to process their payment for sports jerseys. The form will be used to collect various details such as customer name, email, phone number, jersey preferences (size, color, team), and shipping information. To confirm, this form is used for payment processing related to sports jersey orders, specifically with the Sofort payment method. It does not appear to be a duplicate form, and its purpose is to gather necessary details for successful order fulfillment.
-</thinking>
-
 # Cheap Sports Jersey Payment Form With Sofort - Help Guide
 ## Purpose
 This form is designed to collect information from customers for payment processing related to sports jersey orders, specifically with the Sofort payment method.

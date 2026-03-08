@@ -1,5 +1,3 @@
-<thinking>... This form appears to be a merchant order form for soaps, used to collect information from customers. It is likely used for internal purposes by the merchant to process and fulfill orders. The form is structured into multiple pages with different fields to gather relevant information from the customer. This form does not have any redundant or unnecessary fields that would lead to confusion or duplication of information. The fields are well-structured and easy to understand. </thinking>
-
 # Soap Order Form - Help Guide
 
 ## Purpose

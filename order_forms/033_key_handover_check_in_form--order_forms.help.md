@@ -1,7 +1,3 @@
-<thinking>
-This form is used to record the key handover process, ensuring that items are properly checked in and out by authorized personnel. It is essential to complete this form accurately to maintain an up-to-date inventory and ensure that items are not misplaced or lost. This form should be used for all key handovers, and it is crucial to follow the guidelines provided to ensure consistency and accuracy in the data collection.
-</thinking>
-
 # Key Handover Check In Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist new employees in completing an onboarding process by releasing records related to their employee data. The form is used to gather important details about the onboarding process, employee data release forms, employment agreements, and other relevant information. The form's purpose is to ensure a smooth and secure onboarding experience for all employees.
-</thinking>
-
 # Employee Onboarding Records Release Form - Help Guide
 ## Purpose
 The Employee Onboarding Records Release Form is used to document and track the onboarding process of new employees. This form helps to release records related to employee data, verify employment agreements, and confirm onboarding completion.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to capture essential information for wholesale product orders, allowing merchants to provide detailed order information and payment preferences. 
-
-This form is not intended for duplicate orders, so merchants should only fill it out once for each new order. 
-
-Please note that some fields might be automatically populated or calculated based on the merchant's settings, but this form is still designed for manual entry and verification. 
-
-</thinking>
-
 # Wholesale Product Order Form - Help Guide
 ## Purpose
 The Wholesale Product Order Form is used to capture essential information for wholesale product orders. This form is designed to help merchants provide accurate and detailed information for their orders.

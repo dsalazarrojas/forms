@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Luxury Goods Delivery Form - Help Guide
 ## Purpose
 This form is designed to collect relevant information to ensure smooth delivery of luxury goods to our customers. Please provide accurate details about the delivery address, name, and any additional notes to facilitate the process.

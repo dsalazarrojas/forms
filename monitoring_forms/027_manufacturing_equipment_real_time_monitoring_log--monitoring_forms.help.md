@@ -1,18 +1,3 @@
-<thinking>
-
-To determine the form purpose, I will analyze the form fields and options provided in the YAML. The form is for capturing real-time monitoring data from manufacturing equipment, and its purpose is to track the performance and issues of specific equipment.
-
-The form seems to be designed for the following reasons:
-
-1.  To capture detailed information about equipment performance, issue descriptions, and statuses.
-2.  To identify the shift and issue priorities.
-3.  To track the start and end times of shifts and issues.
-4.  To record contact information for follow-up actions.
-
-This form appears to be a comprehensive tool for monitoring and tracking manufacturing equipment performance, issue resolution, and associated data.
-
-</thinking>
-
 # Manufacturing Equipment Real Time Monitoring Log - Help Guide
 ## Purpose
 

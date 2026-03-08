@@ -1,8 +1,3 @@
-<thinking>...
-This form is used for customers to place orders for paper products. 
-To prevent duplication of orders, only one order per customer can be submitted at a time. This form is intended for a single user to fill out and submit, not for multiple users to fill out simultaneously.
-</thinking>
-
 # Paper Order Form - Help Guide
 
 ## Purpose

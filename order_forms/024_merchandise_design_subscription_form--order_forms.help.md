@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information from customers to process and manage subscriptions for merchandise orders. The purpose of this form is to obtain customer contact details, subscription type, and payment methods. 
 
 </thinking>

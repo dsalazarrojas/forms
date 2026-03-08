@@ -1,7 +1,3 @@
-<thinking>
-The "Custom Cake Order Form" is designed to collect information from users to create a custom cake order. This form is intended for users who want to place a custom cake order, providing details about their preferences for the cake's size, design, and other features. The form is designed to be completed by users who are interested in ordering a custom cake. To prevent duplication, it is assumed that users will not have previously filled out a custom cake order form.
-</thinking>
-
 # Custom Cake Order Form - Help Guide
 ## Purpose
 

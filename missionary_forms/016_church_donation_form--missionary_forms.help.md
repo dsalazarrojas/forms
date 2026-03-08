@@ -1,14 +1,3 @@
-<thinking>
-This guide is designed to help users understand the purpose and requirements for completing the Church Donation Form. The form is used to collect information from individuals who wish to make a donation to the church, and it is essential to fill it out correctly to ensure that the donation is recorded and processed accurately.
-
-Before proceeding, please note that this form is intended for one-time, monthly, quarterly, or annual donations, and it is essential to select the correct donation frequency. Additionally, the type of donation (e.g., general offering, tithe, building fund, etc.) should be chosen accordingly. If an in-kind donation is made, please provide a description of the donated item.
-
-The form also requires a payment method, which can be cash, check, credit or debit card, bank transfer, or pledge. If a check is used, please provide the check number. The form also asks about tax-deductible status, which is a crucial piece of information for tax purposes.
-
-Please fill out the form accurately and honestly, and do not hesitate to contact the church administration if you have any questions or concerns about the form or the donation process.
-
-</thinking>
-
 # Church Donation Form - Help Guide
 ## Purpose
 The Church Donation Form is a tool for individuals to make donations to the church. It allows us to collect essential information about the donor, their donation details, and their payment preferences.

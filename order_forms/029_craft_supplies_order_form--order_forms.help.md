@@ -1,7 +1,3 @@
-<thinking>
-This form is used to order craft supplies. The form allows customers to select a product, enter the quantity, delivery date, and other relevant details such as payment method and contact information. This form is not intended for customers to create or edit existing orders, so it is not possible to use it to update or delete orders. Customers can only view their submitted orders in the "orders" page. If a customer has already submitted an order, they will be unable to resubmit the form. The form is designed for single-page submission only. Customers cannot navigate between pages.
-</thinking>
-
 # craft_supplies_order_form - Help Guide
 ## Purpose
 The craft supplies order form is used to place a new order for craft supplies. Fill out the form to provide the necessary information for the order to be processed.

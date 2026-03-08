@@ -1,9 +1,3 @@
-<thinking>
-The form is for ordering special effects equipment. I assume it's for a business or industry that requires specialized equipment for their operations.
-The form appears to be designed for users to fill out a series of pages with information related to special effects equipment orders. It's possible this form is part of a larger process for purchasing or renting special effects equipment for events, productions, or other professional settings.
-Upon analyzing the form, I'll provide a user-facing help guide that explains the purpose, completion instructions, and field-by-field explanation of each field.
-</thinking>
-
 # Special Effects Equipment Order Form - Help Guide
 ## Purpose
 This form is designed for users to submit an order for special effects equipment. You will be asked to provide information about the equipment you are interested in, including the type of equipment and any specific requirements you may have.

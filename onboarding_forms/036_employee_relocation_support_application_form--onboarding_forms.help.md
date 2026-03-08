@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to support employees who are relocating, whether within the company or to a different location. It helps to gather information about the employee's job details, reason for relocation, and other relevant details to facilitate a smooth transition. Before proceeding, ensure that you are not already a part of an existing relocation process or have not already submitted a relocation request. If you are unsure, please consult with HR or your manager for clarification.
-</thinking>
-
 # Employee Relocation Support Application Form - Help Guide
 ## Purpose
 This form is designed to gather information about employees who are relocating, helping the HR team to provide support and assistance throughout the process.

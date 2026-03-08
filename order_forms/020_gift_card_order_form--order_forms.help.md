@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Gift Card Order Form - Help Guide
 ## Purpose
 

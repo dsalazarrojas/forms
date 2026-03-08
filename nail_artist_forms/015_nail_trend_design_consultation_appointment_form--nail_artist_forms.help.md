@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect appointment details from clients for nail art consultations. It will likely be used by a salon or nail technician to schedule and prepare for consultations with clients. The form's purpose is to standardize the consultation process and ensure that all necessary information is collected from clients before their appointment. This helps the technician to be prepared and provide the best service possible. The form does not appear to be a duplicate of any existing form, and its fields do not overlap with other forms in the same category.</thinking>
-
 # Nail Trend Design Consultation Appointment Form - Help Guide
 ## Purpose
 This form is used to schedule and prepare for nail art consultations. It collects information from clients, including their details, preferences, and appointment specifics.

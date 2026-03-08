@@ -1,24 +1,3 @@
-<thinking>...thinking>
-
-This form is intended for customers to provide information for placing orders, specifically for selecting products, providing customer details, and specifying delivery information. The form should not be a duplicate of other forms for similar purposes, such as order forms for other categories of products or forms for different types of customers (e.g. wholesale, retail, etc.). 
-
-The form's purpose is to gather the necessary information for the customer to place an order for vegetables. 
-
-The form fields are divided into multiple pages or sections, and the customer will be required to fill in the information in the correct order. 
-
-The form fields are as follows: 
-
-- Product selection (page 1): This is where the customer can select the products they wish to order.
-- Customer details (page 2): This is where the customer can provide their contact information.
-- Delivery information (page 3): This is where the customer can specify the delivery details, including time and address.
-- Quantity selection (page 4): This is where the customer can select the quantity of each product they wish to order.
-- Order notes (page 5): This is where the customer can leave any additional comments or requests for their order.
-- Contact details (page 6): This is where the customer can provide any additional contact information.
-- Delivery time (page 7): This is where the customer can specify their preferred delivery time.
-- Delivery address (page 8): This is where the customer can specify their delivery address.
-
-</thinking>
-
 # vegetables_order_form - Help Guide
 ## Purpose
 The vegetables_order_form is a form designed for customers to place orders for vegetables. It gathers information for the customer's selection of products, delivery details, and other relevant information.

@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from individuals who want to donate their vehicles to the nonprofit organization. The form's purpose is to gather essential details such as donor's contact information, vehicle details like make, model, year, and condition, and donation specifics like type, value, and purpose. This information will help the organization process the donation efficiently and ensure a smooth transaction. The form should only be used for vehicle donations, as specified in the form's title and structure.
-</thinking>
-
 # Car Donation Form - Help Guide
 ## Purpose
 This form is designed to collect information from donors who want to donate their vehicles to the nonprofit organization. It helps us process the donation efficiently and ensures a smooth transaction.

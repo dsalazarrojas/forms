@@ -1,7 +1,3 @@
-<thinking>As I analyze the provided form YAML, I understand that the form is designed to collect information from customers for a wood paneling order. The form is composed of five sections: "Customer Information", "Product Information", "Shipping Address", "Payment Information", and "Order Notes". The form is not affiliated with any specific platform, and it's an AI-generated adaptation of a generic form structure.
-
-To confirm, I will create a user-facing help guide for this form, following the specified format.</thinking>
-
 # Wood Paneling Order Form - Help Guide
 ## Purpose
 The Wood Paneling Order Form is designed to collect information from customers for a wood paneling order. This form will help us understand your needs and preferences to provide you with the best possible service and product recommendations.

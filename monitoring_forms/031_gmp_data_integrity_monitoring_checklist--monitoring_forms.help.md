@@ -1,5 +1,3 @@
-<thinking>Given this is a form for monitoring GMP (Good Manufacturing Practices) data integrity, the purpose of this form is to ensure that all relevant data is up-to-date and accurate. This form is used by facility administrators to track and record the monitoring schedule and results. Each field in this form is designed to collect specific information about the facility's data integrity monitoring, including facility details, monitoring periods, and review processes.</thinking>
-
 # GMP Data Integrity Monitoring Checklist - Help Guide
 ## Purpose
 This form is designed to monitor and track data integrity in Good Manufacturing Practices (GMP) facilities. It helps facility administrators to ensure that data is up-to-date and accurate.

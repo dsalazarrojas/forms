@@ -1,13 +1,3 @@
-<thinking>
-Nonprofit in-Kind Donation Form
-=====================================
-
-This form is designed to record in-kind donations, which are non-monetary contributions made by individuals or organizations to support a nonprofit organization. In-kind donations can include goods, services, or volunteer time. The form is used to track and document these contributions for accounting and reporting purposes.
-
-To avoid duplication, please ensure that each donation is recorded only once. If a donor has made multiple donations, please create separate records for each donation.
-
-</thinking>
-
 # in_kind_donation_form - Help Guide
 =====================================
 

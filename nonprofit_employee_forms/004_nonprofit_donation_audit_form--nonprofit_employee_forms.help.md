@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect and record information about non-profit donations for auditing and reporting purposes. It helps to keep track of donations received, ensuring accurate financial records and compliance with relevant regulations. The form should only be used for recording donations made to the non-profit organization and not for other purposes. Before proceeding, ensure that you have the necessary permissions and approvals to access and submit this form. If you are unsure about the form's purpose or your authority to fill it out, please reach out to the relevant authorities for clarification.
-</thinking>
-
 # nonprofit_donation_audit_form - Help Guide
 ## Purpose
 The nonprofit_donation_audit_form is used to record and verify non-profit donations for auditing and reporting purposes.

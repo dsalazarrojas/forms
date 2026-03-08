@@ -1,7 +1,3 @@
-<thinking>
-This form is used to process customer requests for replacing a reward that was not received due to a mistake or error. The customer is prompted to provide their contact information, a description of the lost reward, and a description of the replacement reward they are requesting. The form also asks for any additional customer message and their signature to verify the authenticity of the request.
-</thinking>
-
 # Customer Reward Replacement Request Form - Help Guide
 ## Purpose
 This form is used to process customer requests for replacing a reward that was not received due to a mistake or error.

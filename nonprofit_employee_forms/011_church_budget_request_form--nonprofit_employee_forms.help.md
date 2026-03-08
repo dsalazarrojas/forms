@@ -1,10 +1,3 @@
-<thinking>
-To create a comprehensive user-facing help guide for the "Church Budget Request Form", we need to first understand the internal reasoning behind this form. The form is designed to collect specific information from church members or departments requesting budget approval for various expenses or projects. This form is crucial for the church's financial management and planning.
-
-The form should only be used for legitimate budget requests, and it's essential to ensure that all fields are filled in accurately to avoid duplication or unnecessary requests.
-
-</thinking>
-
 # Church Budget Request Form - Help Guide
 ## Purpose
 The Church Budget Request Form is designed to collect information from church members or departments requesting budget approval for various expenses or projects. It helps the church's financial management team to track, categorize, and manage budget requests efficiently.

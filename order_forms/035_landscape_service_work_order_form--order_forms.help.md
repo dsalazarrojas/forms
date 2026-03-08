@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for internal use, likely for a landscape service company, where clients can submit work orders for various landscape services. The form is intended to be completed by customers to provide necessary information for service scheduling and execution. This form is a crucial tool for the company to manage client requests and ensure efficient service delivery.
-</thinking>
-
 # Landscape Service Work Order Form - Help Guide
 ## Purpose
 The Landscape Service Work Order Form is a crucial tool for submitting work orders for various landscape services to the company. This form helps to gather essential information from customers to facilitate efficient service delivery and scheduling.

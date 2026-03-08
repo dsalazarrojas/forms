@@ -1,6 +1,3 @@
-<thinking>
-This form is used to reserve party equipment for events, such as meetings, parties, or conferences. The form captures essential details, including event details, equipment requirements, contact information, and event timing. To avoid confusion, this form will only be used for party equipment reservations, and it's essential to fill it out correctly to ensure accurate processing.
-</thinking>
 # Party Equipment Reservation Form - Help Guide
 ## Purpose
 This form is designed to collect information for party equipment reservations. It will help us ensure that we have all the necessary details to provide the correct equipment for your event.

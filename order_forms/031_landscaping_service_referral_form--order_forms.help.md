@@ -1,10 +1,3 @@
-<thinking>
-The form purpose is to collect information from customers or clients about their landscaping service referrals, which can be used to improve customer experience, build relationships, and provide valuable insights for future marketing and sales efforts. This form helps gather data on client preferences, service types, and contact information, ensuring that the landscaping service provider can tailor their services to meet client needs and provide personalized services.
-
-To prevent duplication of effort and ensure that this form is filled out correctly, please ensure that you only fill it out once per referral.
-
-</thinking>
-
 # Landscaping Service Referral Form - Help Guide
 ## Purpose
 This form is used to collect information about customers or clients who refer others to our landscaping service. The data collected will help us improve our service and provide better experiences for both our clients and new customers.

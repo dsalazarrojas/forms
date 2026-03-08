@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect information about a custom proof from clients. It is an original form created using public survey topic metadata and is not affiliated with any form platform. This form was created for general use and can be modified or sold as is, just give credit to the original creator. 
-
-</thinking>
-
 # Custom Proof - Help Guide
 ## Purpose
 The Custom Proof form is used to collect details about a custom proof from clients. This form is intended to gather relevant information about the client's custom proof, including the company's slogan, mission statement, proof size, client value alignment, client comments, and any additional proof notes.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To start, let's break down the provided YAML fields.
 
 This form, "fashion_order_form", seems to be used for customers to place an order. It collects information about the customer, their contact details, and order specifics. 

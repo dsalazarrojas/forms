@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for customers to provide their details, contact information, product information, and billing/shipping details for a process automation interface order.
-The form will guide the customer through providing all relevant information required for a successful order.
-This form will be filled out by customers who are interested in ordering a product or service.
-</thinking>
-
 # Process Automation Interface Order Form - Help Guide
 ## Purpose
 This form is designed for customers to provide their details, contact information, product information, and billing/shipping details for a process automation interface order.

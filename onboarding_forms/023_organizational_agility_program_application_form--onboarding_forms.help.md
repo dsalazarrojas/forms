@@ -1,12 +1,3 @@
-<thinking>
-The Organizational Agility Program Application Form is designed to help individuals interested in participating in the Organizational Agility Program by providing a structured process for submitting an application. This form collects essential information that will allow our team to assess and process the applications. 
-
-This form should only be submitted once and should be used for one-time application purposes only. If you have already applied to the Organizational Agility Program in the past, please do not submit another application.
-
-The form is divided into multiple sections, each of which corresponds to a specific area of information we need from you. Please ensure that you fill in all required fields accurately and thoroughly to avoid delays in the processing of your application.
-
-</thinking>
-
 # Organizational Agility Program Application Form - Help Guide
 ## Purpose
 The Organizational Agility Program Application Form is used to collect information from individuals interested in participating in the Organizational Agility Program. The form is intended to help us assess and process applications.

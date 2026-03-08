@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information for pre-launch sample distribution orders. The form's purpose is to gather customer and order details, which will be used for the distribution process. This form will help you collect the necessary information for the distribution process, ensuring accurate and efficient processing.
-
-Before starting, please note that this form is designed for multiple uses, and you may be asked to fill in some fields multiple times. Ensure you understand the form structure and requirements before proceeding.
-
-To confirm that you've filled in the correct fields and to avoid duplication of effort, please review your responses carefully before submission.
-</thinking>
-
 # Pre Launch Sample Distribution Order Form - Help Guide
 ## Purpose
 The Pre Launch Sample Distribution Order Form is designed to collect information for pre-launch sample distribution orders. This form will help the distribution process by gathering customer and order details.

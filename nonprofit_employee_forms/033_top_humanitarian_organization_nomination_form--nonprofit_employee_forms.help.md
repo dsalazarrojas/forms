@@ -1,7 +1,3 @@
-<thinking>
-We are creating a form for nominating users to a top humanitarian organization. This form is used to gather information about the user nominating and the nominee. The form is designed to be straightforward and easy to complete. Please review the following instructions carefully to ensure you complete the form correctly.
-</thinking>
-
 # Top Humanitarian Organization Nomination Form - Help Guide
 ## Purpose
 The Top Humanitarian Organization Nomination Form is used to formally nominate individuals who have made a significant impact in their field and have demonstrated exceptional humanitarian service. This form is used to gather information about the nominee and the nominator, and to ensure that the nomination is accurate and complete.

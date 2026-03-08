@@ -1,5 +1,3 @@
-<thinking>...checking that the form is indeed for requesting veterinary product samples and that there are no duplicate fields... </thinking>
-
 # Veterinary Product Sample Request Form - Help Guide
 ## Purpose
 This form is designed to request veterinary product samples for various purposes, such as product testing, quality control, or research. To ensure accurate and efficient processing, please fill out the form completely and correctly.

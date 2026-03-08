@@ -1,11 +1,3 @@
-<thinking>
-
-To determine the purpose and requirements of this form, I will analyze the input YAML. The form is part of the "order_forms" category and its purpose is likely to collect information from customers for delivery orders. Based on the fields, it seems that the form is meant to gather customer details, delivery information, and order specifics, as well as any additional notes or preferences.
-
-I will not duplicate or provide unnecessary information for the form purpose, as the fields already suggest its intended use.
-
-</thinking>
-
 # Stationery Delivery Form - Help Guide
 ## Purpose
 The Stationery Delivery Form is designed to collect information from customers for delivery orders, including customer details, delivery specifics, and order preferences.

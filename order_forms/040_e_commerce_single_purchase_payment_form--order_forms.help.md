@@ -1,6 +1,3 @@
-<thinking>
-...this form is designed to capture information from customers to complete a single purchase order payment. This form should be used to gather customer details and order information to process payments. Please ensure that all relevant fields are filled accurately to avoid any discrepancies.
-</thinking>
 # e_commerce_single_purchase_payment_form - Help Guide
 ## Purpose
 This form is used to collect information for a single purchase order payment. It captures the customer's details and order summary for processing the payment.

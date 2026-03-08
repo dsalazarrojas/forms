@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to request maritime ship parts. The form may be used for both internal and external users. To avoid duplication, please ensure that you have not already submitted a request for the same vessel or supplier. If you're unsure, please reach out to the relevant department for assistance. This form is designed to gather information for the delivery of ship parts. The fields in this form are crucial in ensuring that the delivery process runs smoothly and efficiently.
-</thinking>
-
 # maritime_ship_parts_order_request_form - Help Guide
 ## Purpose
 This form is used to request maritime ship parts. It is essential for gathering information necessary for the delivery of these parts.

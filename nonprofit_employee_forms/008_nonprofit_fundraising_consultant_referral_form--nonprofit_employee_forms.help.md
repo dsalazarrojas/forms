@@ -1,7 +1,3 @@
-<thinking>
-This form is a tool for referring potential new clients to our nonprofit fundraising consulting services. It captures relevant information from the referrer and the referred individual. The purpose of this form is to streamline the referral process and ensure that all necessary information is collected. It is not intended to be used for internal communication or tracking of existing clients. This is a one-time form for new referrals.
-</thinking>
-
 # Nonprofit Fundraising Consultant Referral Form - Help Guide
 ## Purpose
 The Nonprofit Fundraising Consultant Referral Form is a tool used to refer potential new clients to our nonprofit fundraising consulting services. This form is designed to collect relevant information from the referrer and the referred individual, and to streamline the referral process.

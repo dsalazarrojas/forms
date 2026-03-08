@@ -1,9 +1,3 @@
-<thinking>
-This onboarding form is used to track and document the onboarding process of network development projects. It captures essential information such as project details, team members, onboarding date, onboarding status, and any additional comments or notes that are helpful for future reference. The form is designed to be a one-time submission and does not allow editing once filled out. The information captured in this form can be used to generate project reports and help the network development team to get an overview of all projects being onboarded. This form serves as a knowledge base for the team, and the data entered into it will be used to identify trends and improve the onboarding process over time.
-
-This form should not be used for any other purpose than onboarding new network development projects.
-</thinking>
-
 # Network Development Onboarding Form - Help Guide
 ## Purpose
 The Network Development Onboarding Form is used to collect and document information about new network development projects being onboarded to the team's knowledge base.

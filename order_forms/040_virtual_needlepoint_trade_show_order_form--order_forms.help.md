@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for a trade show order. The form captures essential details such as event name, customer contact information, order date and time, quantity, price, product selection, and additional notes. The form's structure allows for multiple product selections and notes. It is intended for event organizers to gather necessary data from potential customers during trade shows.
-</thinking>
-
 # Virtual Needlepoint Trade Show Order Form - Help Guide
 ## Purpose
 The Virtual Needlepoint Trade Show Order Form is a tool for event organizers to collect order information from customers during trade shows. This form helps gather essential details such as event name, customer contact information, order date and time, quantity, price, product selection, and additional notes.

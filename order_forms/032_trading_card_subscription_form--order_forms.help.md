@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from users interested in subscribing to a trading card service. It asks users to select their preferred trading cards, choose their collecting preferences, select their payment options, enter their email address, first name, last name, and address. The form is not intended to be used for any other purpose than subscription management. 
-Please ensure that the form is only used for this specific use case and not for any other purpose. Please fill out the form carefully and honestly. 
-</thinking>
-
 # Trading Card Subscription Form - Help Guide
 ## Purpose
 This guide explains how to complete the Trading Card Subscription Form.

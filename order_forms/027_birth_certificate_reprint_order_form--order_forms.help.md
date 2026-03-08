@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Birth Certificate Reprint Order Form - Help Guide
 ## Purpose
 The Birth Certificate Reprint Order Form is used to request a duplicate birth certificate. This form requires information from both the requester and the certificate holder to ensure accuracy and authenticity of the request.

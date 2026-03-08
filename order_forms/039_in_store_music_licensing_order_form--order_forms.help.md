@@ -1,9 +1,3 @@
-<thinking>
-The form is designed for in-store music licensing, allowing retailers to provide their store information and details for licensing music used in their stores. The form is intended for store owners or managers to fill out, providing necessary information for music licensing agencies to process payments and facilitate music usage in their stores. This form is used by music licensing agencies to gather information about the store's music usage, payment details, and contact information. 
-
-This form is used by music licensing agencies to verify the legitimacy of music usage in stores. By completing this form, stores can demonstrate their agreement to the terms of music licensing, including payment details and usage information.
-</thinking>
-
 # In Store Music Licensing Order Form - Help Guide
 ## Purpose
 This form is used for in-store music licensing, allowing stores to provide their details to music licensing agencies for payment processing and music usage verification.

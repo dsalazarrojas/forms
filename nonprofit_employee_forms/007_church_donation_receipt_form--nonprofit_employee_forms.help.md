@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a church donation receipt. The purpose of this form is to gather essential details about a donor's donation, including their name, contact information, donation details, and preferences for receipt delivery and acknowledgment. This form is intended for church members, visitors, or corporate donors to report their donations and receive a formal acknowledgement. The form's fields have been carefully crafted to ensure that all relevant information is collected while minimizing unnecessary fields and ensuring that required fields are clearly marked. The form's layout and field labels are designed to be user-friendly and easy to understand. Before proceeding, please review the form's fields carefully and ensure that all required fields are completed accurately.
-</thinking>
-
 # Church Donation Receipt Form - Help Guide
 ## Purpose
 This form is used to collect information for a church donation receipt. It is intended for church members, visitors, or corporate donors to report their donations and receive a formal acknowledgement.

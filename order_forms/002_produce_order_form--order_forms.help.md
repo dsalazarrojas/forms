@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information from customers to process produce orders. The form is meant to be used by business customers to place orders for produce, such as fruits and vegetables. The form collects general information about the order, including the order details, product information, shipping details, and payment information. The form is likely to be used by produce vendors, wholesalers, or distributors to manage their produce orders.
-
-To determine relevance, I assume this form is used in the produce industry, and the form fields reflect this assumption.
-
-To prevent duplication, I will avoid duplicating the form fields and their explanations.
-
-</thinking>
-
 # Produce Order Form - Help Guide
 ## Purpose
 The Produce Order Form is designed to collect order information from customers to process produce orders.

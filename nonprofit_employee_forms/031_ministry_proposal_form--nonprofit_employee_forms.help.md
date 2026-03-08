@@ -1,7 +1,3 @@
-<thinking>
-The Ministry Proposal Form is used to collect information about a ministry, including its details, goals, target audience, budget, and timeline. This form is used to provide a clear and organized framework for submitting proposals for new ministries to be implemented within the organization. The form is designed to be simple and easy to fill out, with fields that require minimal information. However, the fields that are currently marked as required should be filled out for the form to be considered complete.
-</thinking>
-
 # Ministry Proposal Form - Help Guide
 ## Purpose
 The Ministry Proposal Form is a tool used to provide a clear and organized framework for submitting proposals for new ministries to be implemented within the organization.

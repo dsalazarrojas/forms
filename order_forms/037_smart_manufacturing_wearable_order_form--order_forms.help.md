@@ -1,7 +1,3 @@
-<thinking>
-The Smart Manufacturing Wearable Order Form is a digital order form designed for factories to submit orders for wearables, providing a structured and organized way to input order details. This form ensures that all necessary information is captured accurately and efficiently, reducing errors and improving the order process.
-</thinking>
-
 # Smart Manufacturing Wearable Order Form - Help Guide
 ## Purpose
 The Smart Manufacturing Wearable Order Form is a digital order form used by factories to submit orders for wearables. The form collects essential information for order processing and facilitates the delivery of accurate and timely orders.

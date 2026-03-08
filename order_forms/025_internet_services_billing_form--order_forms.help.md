@@ -1,5 +1,3 @@
-<thinking>... internal reasoning: This form is designed to collect information for internet services billing from customers. It will be used to process payments for these services. The form will be used to collect customer name, address, phone number, email, payment gateway, payment terms, and order notes. This form is part of a larger process for billing management, and will be used by customer support team and billing department to process payments and resolve any issues related to internet services billing. The form should not be used for duplicate payments or any other non-billing purpose. Please fill out this form carefully and accurately to avoid any confusion or errors in the billing process... </thinking>
-
 # Internet Services Billing Form - Help Guide
 
 ## Purpose

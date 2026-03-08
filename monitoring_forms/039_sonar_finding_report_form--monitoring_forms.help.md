@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sonar Finding Report Form - Help Guide
 
 ## Purpose

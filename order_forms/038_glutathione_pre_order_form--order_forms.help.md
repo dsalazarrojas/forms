@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for pre-ordering of glutathione supplements. The purpose of this form is to collect information from customers who are interested in purchasing glutathione supplements. The form is designed to be used by customers who have not yet confirmed their order, and it will help the customer service team to gather all the necessary information to fulfill the order. This form is not intended for customers who have already placed an order or have a confirmed delivery status. By filling out this form, customers can provide their name, contact information, and product preferences, which will help the customer service team to process their order efficiently.
-</thinking>
-
 # Glutathione Pre Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers who are interested in purchasing glutathione supplements. It is intended for customers who have not yet confirmed their order.

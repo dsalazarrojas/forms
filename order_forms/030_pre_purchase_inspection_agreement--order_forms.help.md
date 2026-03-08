@@ -1,11 +1,3 @@
-<thinking>
-A Pre Purchase Inspection Agreement is a document used to collect information about a vehicle prior to its purchase. This form is typically used by buyers and sellers to ensure that all relevant details about the vehicle are recorded and agreed upon before the sale is finalized. 
-
-This form helps to prevent disputes and misunderstandings that may arise during the sale process and provides a clear understanding of the vehicle's condition, mileage, and other important factors. 
-
-This form should only be used for pre-purchase inspections and not for routine vehicle maintenance or other purposes.
-</thinking>
-
 # Pre Purchase Inspection Agreement - Help Guide
 ## Purpose
 This guide is meant to provide a clear understanding of the Pre Purchase Inspection Agreement form and its required information. 

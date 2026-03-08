@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to guide a new sports coach through the onboarding process. The main goal of this form is to collect information from coaches to create their profile and ensure they are properly aligned with our organization. The form should not be filled out by someone else on behalf of the coach. Each coach should fill it out personally. This information will be used for internal purposes only.
-</thinking>
-
 # Sports Coach Onboarding Form - Help Guide
 ## Purpose
 This form is used to create a coach profile and align the coach with our organization's requirements.

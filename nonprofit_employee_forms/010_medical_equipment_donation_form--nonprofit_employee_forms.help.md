@@ -1,10 +1,3 @@
-<thinking>
-Nonprofit organizations often provide medical equipment donations to support healthcare initiatives, ensuring underserved communities receive essential resources for diagnosis, treatment, and care. 
-To confirm the accuracy and reliability of the donated equipment, organizations need a comprehensive and standardized process, including this 'Medical Equipment Donation Form'. 
-This form helps the organization to ensure that each piece of equipment is properly tracked, valued, and accounted for to prevent duplication and misreporting. 
-It captures the necessary information about the donated equipment and provides clear documentation for future reference. 
-</thinking>
-
 # Medical Equipment Donation Form - Help Guide
 ## Purpose
 The Medical Equipment Donation Form is a standard tool used by nonprofits to record and track medical equipment donations. It collects essential information about the donor, equipment, and terms of donation.

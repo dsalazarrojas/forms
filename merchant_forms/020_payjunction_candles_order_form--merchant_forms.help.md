@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from customers for an order of Payjunction Candles. 
-</thinking>
-
 # Payjunction Candles Order Form - Help Guide
 ## Purpose
 This form is used to place an order for Payjunction Candles. To place an order, fill out the form with the required information. 

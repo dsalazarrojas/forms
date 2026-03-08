@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for a software subscription payment form used for customers to manage their subscriptions and payment information. The form is designed to collect customer details, payment method, and subscription details to provide a seamless experience for both customers and administrative tasks. Before proceeding, please ensure you have filled out this form only once for each subscription. Duplicate submissions may cause issues with your subscription.
-</thinking>
-
 # Software Subscription Payment Form - Help Guide
 ## Purpose
 The Software Subscription Payment Form is designed to collect payment and subscription information from customers for managing their software subscriptions.

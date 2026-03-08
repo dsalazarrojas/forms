@@ -1,7 +1,3 @@
-<thinking>
-This form is for customers to place an order for strawberries. The customer is required to provide their email address, select the type of strawberry, and specify the quantity they want. The form can be completed in any language, as it does not require any specific language selection. The form has 7 fields: customer name, email, phone number, address, strawberry type, quantity, and a message field.
-</thinking>
-
 # strawberry_order_form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be a survey for providers to share information about their onboarding process. It's likely used for internal purposes, such as evaluating the efficiency and quality of the onboarding process for providers in a specific industry or category. The form might be used to identify areas of improvement or to compare onboarding processes across different providers. To ensure you are in the right place, please confirm that you are a provider and that you're interested in sharing your onboarding experience.
-
-</thinking>
-
 # Provider Network Onboarding Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your onboarding process as a provider. Your input will help us understand your experience and identify areas for improvement.

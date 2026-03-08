@@ -1,35 +1,3 @@
-<thinking>
-
-This form appears to be a comprehensive order form for processing customer orders. It collects a wide range of information, including personal details, shipping information, payment methods, and order status. The form includes fields for:
-
-- First name and last name
-- Email address
-- Shipping address (optional)
-- Payment details (select-one option)
-- Shipping details (select multiple options)
-- Date and time (optional)
-- Notes (optional)
-- Shipping method (select-one option)
-- Order submitted status (select-one option)
-- Shipping status (select multiple options)
-- Payment method (select-one option)
-- Order details (text field)
-- Shipping cost (number field)
-- Product price (number field)
-- Order ID (text field)
-- Order date (date field)
-- Shipping ID (text field)
-- Order notes (note field)
-- Payment status (select-one option)
-- Payment method details (text field)
-- Shipping method details (text field)
-- Order status (select-one option)
-- Notes (note field)
-
-The form is likely used to process customer orders, including collecting order details, shipping information, and payment method. The form's complexity suggests that it's intended for business-to-business or large-scale commercial transactions.
-
-</thinking>
-
 # Slime Ingredient Order Form - Help Guide
 ## Purpose
 This form is designed to collect comprehensive information for processing customer orders. It includes fields for personal details, shipping, payment, and order status.

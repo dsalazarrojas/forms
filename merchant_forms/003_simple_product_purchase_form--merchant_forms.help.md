@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Simple Product Purchase Form - Help Guide
 ## Purpose
 This form is used to collect information for a simple product purchase. It is meant to gather basic details from the customer, including their personal information and the product they wish to purchase. 

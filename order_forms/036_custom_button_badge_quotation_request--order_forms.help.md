@@ -1,9 +1,3 @@
-<thinking>...checking for relevance and non-duplication...
-
-This help guide is intended to assist end-users in filling out the Custom Button Badge Quotation Request form. The form is designed to collect information from users for creating a custom button badge quotation request.
-
-</thinking>
-
 # Custom Button Badge Quotation Request - Help Guide
 ## Purpose
 The Custom Button Badge Quotation Request form is used to collect information for creating a custom button badge quotation request. This form will guide you through the necessary steps to provide the required details for your quotation request.

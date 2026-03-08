@@ -1,7 +1,3 @@
-<thinking>
-This form is a generic order form designed for customers to provide their order information for keychains. The purpose of this form is to collect customer details, order specifics, and payment information. However, there seems to be a missing field for "Quantity" which might be crucial for order processing. This form's layout and fields may need adjustments for better usability and data collection efficiency.
-</thinking>
-
 # Keychain Order Form - Help Guide
 ## Purpose
 This form is designed for customers to place orders for keychains. Fill in the required fields to place your order.

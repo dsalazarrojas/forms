@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended to assist volunteers in accurately and completely filling out the Virtual Shift Report For Volunteers form. This form is used to report their volunteer work hours and any relevant details about their shifts. The goal is to provide a clear and concise way for volunteers to report their volunteer work, making it easier for nonprofit employees to track and manage volunteer hours.
-
-The form is divided into several sections, each with its own specific purpose. Below, you will find an explanation of each section and what each field is used for.
-
-Please note that some fields may seem redundant or unclear. In this case, the field labels and explanations aim to provide the best-effort interpretation without inventing unsupported business logic.
-
-</thinking>
-
 # Virtual Shift Report For Volunteers - Help Guide
 ## Purpose
 The Virtual Shift Report For Volunteers form is used to report volunteer work hours and shifts. This form is intended for volunteers to accurately and completely report their work hours and any relevant details about their shifts.

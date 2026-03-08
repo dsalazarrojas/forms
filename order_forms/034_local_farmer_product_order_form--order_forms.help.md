@@ -1,11 +1,3 @@
-<thinking>
-This form is used by local farmers to create orders for their products. The form is designed to collect order details from customers, including customer information, order items, and order date and time. The purpose of this form is to streamline the ordering process for local farmers, making it easier for them to manage their orders and fulfill customer requests.
-
-To ensure that this form is used correctly, please note that it is designed for local farmers, not for general users. If you are not a local farmer, please do not use this form.
-
-The form is also designed to be flexible, allowing farmers to add or remove items from the order as needed. However, please be aware that certain fields may be required in order to complete the order successfully.
-</thinking>
-
 # Local Farmer Product Order Form - Help Guide
 ## Purpose
 This form is used by local farmers to create orders for their products, making it easier for them to manage their orders and fulfill customer requests.

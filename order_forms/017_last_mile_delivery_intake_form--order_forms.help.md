@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Last-Mile-Delivery-Intake-Form - Help Guide
 
 ## Purpose

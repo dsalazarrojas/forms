@@ -1,7 +1,3 @@
-<thinking>
-Seed Requisitions are essential for tracking seed orders from suppliers. They help us maintain accurate records, prevent stockouts, and ensure prompt deliveries. Please make sure to use this form carefully and only once per order. Using this form to place multiple orders may result in errors and miscommunication with suppliers. Please ensure that all required fields are completed accurately before submitting the form.
-</thinking>
-
 # Seed Requisition Form - Help Guide
 ## Purpose
 The Seed Requisition Form is a tool for suppliers to submit their seed orders, enabling us to track and manage seed inventory accurately. This form is essential for preventing stockouts, ensuring timely deliveries, and maintaining accurate records.

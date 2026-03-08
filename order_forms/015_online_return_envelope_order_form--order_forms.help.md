@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used for customers who are placing an order with an online merchant and requesting a return envelope for an upcoming shipment. The fields provided in this form collect necessary information for the online merchant to process the order and prepare the return envelope. The form is organized to gather customer and shipping information, payment details, order status, and any additional notes or comments that the customer may have about their order. This form is meant to be a straightforward and easy-to-use template for customers to complete and submit their order information. Please review the field explanations below to ensure you are filling out the correct information.
-</thinking>
-
 # Online Return Envelope Order Form - Help Guide
 ## Purpose
 The Online Return Envelope Order Form is used to gather information about an order and prepare a return envelope for an upcoming shipment. This form helps the customer provide necessary details about their order, payment, and shipping.

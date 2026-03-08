@@ -1,16 +1,3 @@
-<thinking>
-The form purpose is to collect customer information for an order of nail products from "Betty’s BAM Nails." This includes the customer's name, email address, phone number, shipping address, selected nail product, quantity, preferred delivery date, gift wrapping preferences, special instructions, payment method, and order confirmation notes.
-
-To confirm that the form is being filled out correctly, we need to ensure that the "customer_name," "customer_email," "shipping_address," "product_selection," and "payment_method" fields are filled in. The "customer_phone," "shade_code_or_variant," "quantity," "preferred_delivery_date," "gift_wrap," and "special_instructions" fields are optional.
-
-The form should be filled out in the following order:
-
-1. Fill out the required fields: "customer_name," "customer_email," "shipping_address," "product_selection," and "payment_method."
-2. Fill out the optional fields: "customer_phone," "shade_code_or_variant," "quantity," "preferred_delivery_date," "gift_wrap," and "special_instructions."
-3. Review the form for accuracy before submitting.
-
-</thinking>
-
 # Betty’s BAM Nails Order Form - Help Guide
 ## Purpose
 This form is designed to collect information for an order of nail products from Betty’s BAM Nails. It is used to collect customer contact and order details for processing and delivering the product.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Automatic Payment Authorization Consent Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers for automatic payment authorization. It includes personal and payment details, as well as terms and conditions related to automatic payments.

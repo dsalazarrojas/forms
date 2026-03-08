@@ -1,10 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Health Clinic Nursing Application Form" to ensure that nurses understand the purpose and requirements of the form. Before creating the form, let's consider the following:
-* The form is designed for nurses who want to apply for work at the Health Clinic.
-* The form is used to gather information about the candidate's qualifications, experience, and availability.
-* Each field in the form should be clearly explained to avoid any confusion.
-</thinking>
-
 # Health Clinic Nursing Application Form - Help Guide
 ## Purpose
 The Health Clinic Nursing Application Form is designed to gather information from nurses who want to apply for work at the Health Clinic. Completing this form will help us to evaluate your qualifications, experience, and availability for the position.

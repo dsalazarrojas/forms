@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect e-commerce subscription box application information from users. The purpose of this form is to gather essential details such as contact information, payment method, subscription plans, and billing details. This form is intended for internal use within the organization and should only be accessed by authorized personnel. Ensure that you have the necessary permissions and authorization to access this form.
-
-Before proceeding, please review the following:
-
-* This form is not intended for public use.
-* Ensure that you have the necessary permissions to access this form.
-* If you are not sure about any field or process, please ask for clarification or assistance.
-
-</thinking>
-
 # e_commerce_subscription_box_application_form - Help Guide
 ## Purpose
 The e_commerce_subscription_box_application_form is designed to collect and track subscription box application information.

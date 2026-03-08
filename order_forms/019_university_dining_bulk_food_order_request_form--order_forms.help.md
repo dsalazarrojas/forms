@@ -1,13 +1,3 @@
-<thinking>
-This form is used for bulk food orders at the university's dining facilities. It allows users to request bulk food orders for events or meetings, specifying details such as the date of delivery, delivery location, and contact information. The form is designed to be completed by a reporter, who will be responsible for coordinating the food order. The form will be used to assign a tool to the reporter and track any notes or comments.
-
-To ensure that this form is used correctly, please note that:
-
-* Only one form is allowed per event/meeting.
-* All fields with "2" and "3" in their names are duplicates of the fields on the first page.
-* If a reporter is not specified, the assigned tool will default to an unknown value.
-</thinking>
-
 # university_dining_bulk_food_order_request_form - Help Guide
 ## Purpose
 This form is used for bulk food orders at the university's dining facilities. It is designed to be completed by a reporter, who will be responsible for coordinating the food order, and allows them to specify details such as the date of delivery, delivery location, and contact information.

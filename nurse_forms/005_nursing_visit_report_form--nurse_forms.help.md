@@ -1,14 +1,3 @@
-<thinking>
-This form is used to capture information about a patient's visit to a healthcare facility. The form includes fields for patient identification, visit details, and contact information. 
-
-The purpose of this form is to gather relevant data about a visit, which can be used for patient care and administration. 
-
-The form is not intended for clinical diagnoses or treatment decisions, and its data should not be used to replace medical expertise. This form is meant to provide administrative support to healthcare professionals. 
-
-Before completing this form, ensure that you have the necessary permissions and authority to access patient information. 
-
-</thinking>
-
 # Nursing Visit Report Form - Help Guide
 ## Purpose
 This form is designed to collect information about a patient's visit to a healthcare facility. The data collected will be used to support patient care and administration.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from applicants to the Organizational Transparency Initiative, a program aimed at promoting transparency and accountability in nonprofit organizations. This form will help the program administrators to evaluate the applicant's organization and ensure it meets the necessary criteria for participation. To avoid duplication, only one application per organization is allowed. Please ensure that the information provided is accurate and up-to-date.
-</thinking>
-
 # Organizational Transparency Initiative Application Form - Help Guide
 ## Purpose
 The Organizational Transparency Initiative Application Form is designed to collect information from applicants to the Organizational Transparency Initiative. This form helps the program administrators to evaluate the applicant's organization and ensure it meets the necessary criteria for participation.

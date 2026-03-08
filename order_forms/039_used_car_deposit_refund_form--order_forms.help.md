@@ -1,15 +1,3 @@
-<thinking>
-
-The purpose of this form is to facilitate the process of refunding a customer's deposit for a used car they were planning to purchase, but for some reason, they cannot complete the transaction. This form is designed to collect necessary information from the customer to process the refund efficiently and accurately.
-
-Before filling out this form, the customer should ensure they have read and understand the guidelines for refund processing to avoid any delays or issues during the refund process.
-
-This form is meant for internal use only and should not be used for external or third-party purposes.
-
-To fill out this form, the customer should carefully read through the following sections and provide accurate information to ensure a smooth and secure refund process.
-
-</thinking>
-
 # used_car_deposit_refund_form - Help Guide
 ## Purpose
 The form is used to process the refund of a customer's deposit for a used car they were planning to purchase, but for some reason, they cannot complete the transaction.

@@ -1,5 +1,3 @@
-<thinking>...The form is a "green_grocer_order_form" and its purpose is to collect customer information and order details for a green grocer service. It is likely used by a business to collect data on customer contacts, delivery times, and order requirements. This form does not appear to be highly complex or sensitive in nature, suggesting it is used for general customer service or order management purposes... </thinking>
-
 # green_grocer_order_form - Help Guide
 ## Purpose
 The green_grocer_order_form is used to collect customer information and order details for a green grocer service. This includes collecting contact information and delivery times to process orders efficiently.

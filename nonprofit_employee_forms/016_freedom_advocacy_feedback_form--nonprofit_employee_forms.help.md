@@ -1,25 +1,3 @@
-<thinking>
-We want to create a user-facing help guide for the "Freedom Advocacy Feedback Form" that is clear, concise, and practical. The form is used to collect feedback from employees on their experiences and perceived impact of Freedom Advocacy programs. The guide should explain the purpose of the form, how to complete it, and what each field means, aiming to ensure that end users understand the form's intent and can provide accurate and helpful feedback.
-
-The fields in the form are:
-
-* First Name
-* Last Name
-* Email
-* Phone
-* Date
-* Message to Prophets (a text field for any messages or comments)
-* Perceived Impact (a multiple-choice field to indicate if the program has had a positive or negative impact)
-* Future Outreach (a single-choice field to indicate if the program has any future plans)
-* Measured Impact (a single-choice field to indicate if the program's goals have been met)
-* Rating (a multiple-choice field to rate the program's effectiveness)
-* Comments (a text field for any additional comments or suggestions)
-* Submit (a submit button to send the form)
-
-The goal of this guide is to help users understand the form's purpose and how to complete it accurately, while minimizing errors and ensuring that feedback is helpful and actionable for the Freedom Advocacy team.
-
-</thinking>
-
 # Freedom Advocacy Feedback Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is for creating a custom order form. The purpose of this form is to collect information from customers regarding their orders. It can be used for a wide range of businesses, such as retail, e-commerce, and food delivery services. To prevent duplication, please use this form for a specific and unique purpose.
-</thinking>
-
 # Custom Form Template - Help Guide
 ## Purpose
 This form is intended to collect customer information for orders. It consists of four sections: Order Form, Customer Details, Order Details, and Shipping Address.

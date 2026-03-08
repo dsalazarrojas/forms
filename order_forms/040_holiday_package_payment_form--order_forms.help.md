@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for customers to pay for holiday packages. To ensure that this form is used correctly, please note that the form is not to be used for any other purpose. 
-</thinking>
-
 # Holiday Package Payment Form - Help Guide
 ## Purpose
 The Holiday Package Payment Form is designed to collect payment information from customers for holiday packages. This form is used to facilitate the payment process for customers who have selected a holiday package.

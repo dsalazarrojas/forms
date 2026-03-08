@@ -1,12 +1,3 @@
-<thinking>
-The Plant Onboarding Checklist form is designed to guide employees through the onboarding process for new plant equipment or processes. This form helps ensure that all necessary steps and checks are completed before starting work on the new equipment or process. It appears to be a general purpose form for onboarding new plants, rather than something specific to a particular department or team within the organization.
-
-The form has multiple fields for gathering information about the employee, their emergency contacts, plant details, onboarding status, manager details, manager confirmation, employee confirmation, and whether the onboarding is complete. The fields suggest a sequential structure for onboarding, starting with collecting basic details of the employee and moving on to specific information about their manager and the new plant.
-
-The form likely complements other HR or operational onboarding processes in an organization and serves as a centralized hub for ensuring a standardized and thorough onboarding experience.
-
-</thinking>
-
 # Plant Onboarding Checklist - Help Guide
 ## Purpose
 This form is designed to guide employees through the onboarding process for new plant equipment or processes, ensuring that all necessary steps and checks are completed before starting work on the new equipment or process.

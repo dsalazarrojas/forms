@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect billing information for SEO services, including order details, service selection, payment preferences, and client information. The form is essential for generating accurate invoices and ensuring that all necessary data is captured for billing purposes.
-
-This form is part of a larger workflow that likely involves managing and tracking customer orders, generating invoices, and communicating with clients. The form is intended for both internal users, who will be entering data, and external users, who will be viewing and interacting with the form.
-
-</thinking>
-
 # SEO Services Billing Form - Help Guide
 ## Purpose
 This form is used to capture all relevant information for billing purposes when rendering SEO services.

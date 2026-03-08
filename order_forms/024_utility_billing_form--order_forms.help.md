@@ -1,15 +1,3 @@
-<thinking>
-This help guide will be based on the input schema provided, which is a form for collecting information related to utility billing. The form is called the "Utility Billing Form" and is intended for customers to provide their billing information. The form appears to be designed to collect various details such as customer information, billing method, payment details, notes, email, phone, billing cycle, due date, amount, account number, account type, utility type, address, payment term, and additional notes. 
-
-To determine the correct help guide content, I'll analyze each field in the form. 
-
-The form is likely used for a utility company or service provider to receive payment and billing information from customers. The purpose of this form is to gather essential details necessary for processing utility bill payments.
-
-The form has multiple pages or sections, but for the sake of this help guide, I will assume it's a single form.
-
-Please note that I will provide concrete and concise explanations for each field as per your guidance.
-</thinking>
-
 # Utility Billing Form - Help Guide
 ## Purpose
 The Utility Billing Form is used for customers to provide their billing information and payment details for utility bills.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information for uniform orders from healthcare staff members. It is intended for use by hospital staff to request uniforms from the hospital's uniform vendor. The form will help the vendor to fulfill the order accurately and efficiently. The form fields are divided into two main sections: Staff Information and Order Details. 
-
-The form is used to collect data such as staff ID, staff name, uniform type, style, size (in multiple units), date, time, email, phone number, and vendor information. The vendor information includes the vendor's name, representative's name, and manager's name.
-</thinking>
-
 # healthcare_uniform_order_form - Help Guide
 ## Purpose
 This form is used to collect information for uniform orders from healthcare staff members.

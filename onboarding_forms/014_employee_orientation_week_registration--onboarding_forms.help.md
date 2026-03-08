@@ -1,10 +1,3 @@
-<thinking>
-
-**Internal Reasoning:**
-This form is designed to collect information from new hires during their onboarding process. The form is meant to be completed by new employees as part of their orientation week, and its purpose is to gather relevant details about them, such as their session sign-ups, employee name, job title, and employee ID. This form helps the HR department to efficiently collect and organize the necessary information for new hires, reducing the need for repetitive questions or follow-up requests.
-
-</thinking>
-
 # Employee Orientation Week Registration - Help Guide
 ## Purpose
 This form is a tool for new hires to provide important details about themselves as part of the onboarding process. It helps the HR department to efficiently collect and organize the necessary information for a smooth transition.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for users who are unfamiliar with the Ad Order Form, so I'll explain its purpose and relevance. The Ad Order Form is a tool used to create and manage advertisements for publishing in various media outlets. It's essential to understand that this form is used to collect information from advertisers to create and display their ads in the desired format. This form is a crucial part of the advertising process, and its fields are designed to gather necessary details to ensure accurate and effective ad placement. Before proceeding, please make sure you have all the required information and that you haven't filled out this form before, as it will prevent duplication of effort and ensure a smooth advertising experience.
-</thinking>
-
 # Ad Order Form - Help Guide
 ## Purpose
 The Ad Order Form is a tool used to create and manage advertisements for publishing in various media outlets. It's essential to fill out this form accurately to ensure your ad is displayed correctly and reaches its intended audience.

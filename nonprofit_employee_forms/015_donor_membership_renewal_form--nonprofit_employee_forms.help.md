@@ -1,4 +1,3 @@
-<thinking>Donor Membership Renewal Form is used to collect information from donors who need to renew their membership. The form is designed to be simple and easy to use, making sure that all necessary information is captured accurately. When a donor completes the form, they will be able to choose the renewal option that best suits their needs, select their membership expiration date, and enter any required contact information. Please make sure to review all instructions carefully before submitting the form. If you encounter any errors, please let us know so we can address the issue as soon as possible.</thinking>
 # Donor Membership Renewal Form - Help Guide
 ## Purpose
 This form is designed to guide donors through the process of renewing their membership, including selecting a renewal option, entering contact information, and submitting their renewal request. 

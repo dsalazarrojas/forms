@@ -1,9 +1,3 @@
-<thinking>
-
-I will first review the provided YAML fields and create a help guide for the "Church Volunteer Information Form" based on the provided specification.
-
-</thinking>
-
 # Church Volunteer Information Form - Help Guide
 ## Purpose
 The Church Volunteer Information Form is a tool designed to gather information from potential volunteers. It collects personal details, contact information, and information about their desired start date, commitment level, and areas of ministry interest.

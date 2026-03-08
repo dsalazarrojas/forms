@@ -1,8 +1,3 @@
-<thinking>
-This is a form for checking in returned products. It should be used when a product has been returned to the customer service team for further inspection and processing. The form is intended to gather information about the product return, including the customer's details, the order ID (if applicable), a description of the product, the reason for the return, and the product's condition. Please ensure that all required fields are completed accurately and thoroughly. This form is designed to be used in conjunction with other relevant forms and systems to ensure seamless product return processing. If you are unsure about a particular field, please refer to the instructions below or contact your supervisor for clarification.
-
-</thinking>
-
 # Product Return Check In Form - Help Guide
 ## Purpose
 This form is used to check in a returned product for further processing and inspection.

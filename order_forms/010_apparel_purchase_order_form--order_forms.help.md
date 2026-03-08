@@ -1,6 +1,3 @@
-<thinking>
-This help guide is intended for end-users who need to complete the Apparel Purchase Order Form. The form is designed to collect information from suppliers for the purchase of apparel products. It is a required field for all purchases, and it is essential to ensure that all required fields are completed accurately.
-</thinking>
 # Apparel Purchase Order Form - Help Guide
 ## Purpose
 This form is used to record details for the purchase of apparel products from suppliers.

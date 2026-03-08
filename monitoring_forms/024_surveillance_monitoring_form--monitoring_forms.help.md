@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is used to record information about surveillance monitoring activities, such as checking on the status of a particular location or situation, and reporting any issues or concerns that have been identified. 
 
 Before filling out this form, please ensure that the location you are monitoring is the correct one, as this information will be used to determine what type of surveillance monitoring activity is being performed. 

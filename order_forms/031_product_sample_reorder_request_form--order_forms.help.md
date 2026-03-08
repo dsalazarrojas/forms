@@ -1,9 +1,3 @@
-<thinking>
-This help guide is for the "product_sample_reorder_request_form" form which is used by customers to submit a request for reordering a product sample. The form should be completed by customers who are looking to restock or reorder a product, and the information gathered will be used by sales or customer service teams to process the order efficiently.
-The form is designed to gather basic customer information such as product ID, customer contact details, and order details.
-This form will only be relevant for users who need to reorder a product sample and is not intended for other purposes such as placing a new order or making a payment.
-</thinking>
-
 # product_sample_reorder_request_form - Help Guide
 ## Purpose
 

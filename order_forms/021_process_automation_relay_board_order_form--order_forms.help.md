@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed for creating, managing, or editing orders for the Process Automation Relay Board, which is used to automate business processes. The purpose of this form is to collect information about the order details, product selection, customer information, and other relevant details required for the automation process. The form has a flexible structure that allows for the addition of new pages as needed.
-
-Before proceeding, please note that:
-
-* This form has multiple pages, each with a specific purpose.
-* Some fields are required, while others are optional.
-* The form is designed to be used by both administrators and users, so it's essential to understand the purpose and usage of each field.
-
-</thinking>
-
 # Process Automation Relay Board Order Form - Help Guide
 ## Purpose
 The Process Automation Relay Board Order Form is designed to collect and manage information related to orders for the Process Automation Relay Board.

@@ -1,5 +1,3 @@
-<thinking>As a technical writer, my goal is to create a user-facing help guide that is clear, concise, and free of jargon. I will review the provided YAML structure and create a comprehensive help guide that covers the purpose of the form, how to complete it, and a detailed explanation of each field. I will also ensure that the guide is based on the provided YAML fields and uses concrete, concise language. If a field label is weak or unclear, I will provide a clear explanation of the intent behind it. I will create a guide that is easy to follow and understand. After reviewing the form, I will provide the final help guide in Markdown format.</thinking>
-
 # Gym Custom Wall Mirror Installation Order Form - Help Guide
 ## Purpose
 This form is designed to help you place an order for a custom wall mirror installation. It gathers necessary information for your mirror order, including location, mirror specifications, and payment details.

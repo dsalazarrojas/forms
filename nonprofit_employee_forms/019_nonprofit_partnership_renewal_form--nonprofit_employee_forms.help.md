@@ -1,5 +1,3 @@
-<thinking>Nonprofit partnerships play a vital role in supporting the growth and stability of non-profit organizations. This form helps track and renew existing partnerships, ensuring that all necessary information is up-to-date and easily accessible. It's designed to simplify the process of renewal, allowing non-profit organizations and their partners to focus on their mission-critical activities. Please ensure that you're using this form only for its intended purpose and not for any other organization or activity.</thinking>
-
 # Nonprofit Partnership Renewal Form - Help Guide
 ## Purpose
 The Nonprofit Partnership Renewal Form is designed to help non-profit organizations and their partners track and renew their existing partnerships. This form collects essential information about non-profit organizations, their partners, and the partnership itself, ensuring that all necessary details are up-to-date and easily accessible.

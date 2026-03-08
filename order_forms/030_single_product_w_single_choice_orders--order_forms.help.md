@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended for users who want to learn about completing the "Single Product W Single Choice Orders" form. The form is used for placing orders for a single product with a single-choice payment method. The form is designed to gather basic customer information, order details, and payment methods for processing single-product orders. 
-
-The form includes fields for customer contact information, order quantity, price, and payment methods. It also includes fields for shipping address and phone number. The form is meant to be used by customers or users who want to place orders online.
-
-The guide is intended to help users understand each field's purpose and requirements, ensuring they can complete the form accurately and effectively.
-
-</thinking>
-
 # Single Product W Single Choice Orders - Help Guide
 ## Purpose
 The "Single Product W Single Choice Orders" form is used for placing orders for a single product with a single-choice payment method. This form gathers basic customer information, order details, and payment methods for processing single-product orders.

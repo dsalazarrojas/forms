@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect health-related information from students, aiming to ensure a safe and healthy learning environment. It's intended for students, parents, or guardians to input their health status and other relevant details. Please note that this form is part of a larger health screening process that may involve further evaluation by a school nurse or healthcare professional.
-</thinking>
-
 # COVID 19 Student Online Health Screening Form - Help Guide
 
 ## Purpose

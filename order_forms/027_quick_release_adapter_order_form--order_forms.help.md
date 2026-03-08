@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Quick Release Adapter Order Form - Help Guide
 
 ## Purpose

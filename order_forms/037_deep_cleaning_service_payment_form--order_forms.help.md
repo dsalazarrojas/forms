@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect payment information for the Deep Cleaning Service. It is intended to be filled out by customers who wish to book a deep cleaning service. The form asks for basic customer information and service details in order to process the payment. This form does not require any special knowledge of the payment process, and it is designed to guide the end user through the payment process in a step-by- step manner. Please note that some fields are not required, as indicated by the "required: false" tag in the YAML inputSchema. This is to allow for flexibility and adaptability. This guide will help end users understand each field's purpose in order to fill out the form correctly and avoid errors... </thinking>
-
 # Deep Cleaning Service Payment Form - Help Guide
 ## Purpose
 The Deep Cleaning Service Payment Form is designed to collect payment information for customers who wish to book a deep cleaning service.

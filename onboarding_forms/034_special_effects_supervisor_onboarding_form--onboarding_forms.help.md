@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to onboard new hires for the Special Effects department. It collects information about the new hire's background, contact information, work details, and emergency contact information. This form should only be completed by new hires who have been assigned a supervisor or studio representative to guide them through the process. Please ensure that the form is filled out accurately and thoroughly to avoid any issues during the onboarding process.
-
-Before filling out this form, please confirm that you have been assigned a supervisor or studio representative to guide you through the process. They will be able to review your answers and address any questions or concerns you may have.
-
-Please fill out this form in its entirety and submit it for review. The form will be reviewed and discussed with you during the onboarding process.
-
-</thinking>
-
 # Special Effects Supervisor Onboarding Form - Help Guide
 ## Purpose
 The Special Effects Supervisor Onboarding Form is used to gather information from new hires in the Special Effects department. This form is designed to be completed by new hires who have been assigned a supervisor or studio representative to guide them through the onboarding process.

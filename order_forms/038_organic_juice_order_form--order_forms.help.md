@@ -1,34 +1,3 @@
-<thinking>
-This is a form for ordering organic juice. The form is used to collect information from customers for their juice orders. This form is intended for internal use within the company, and the information collected will be used to process and fulfill customer orders. Please ensure that this form is used for its intended purpose and not for any other use case that may be outside of the company's policy.
-
-Before filling out this form, please note that some fields are required, as indicated by the "required" status in the form. The form is designed to collect the following information:
-
-* Order date (date)
-* Customer name (text)
-* Customer email (email)
-* Customer phone (text)
-* Juice type (single selection)
-* Juice flavor (multiple selections)
-* Quantity (number)
-* Delivery method (single selection)
-* Payment method (single selection)
-* Total cost (number)
-* Customer note (text)
-* Form ID (text)
-* Category (text)
-* Title (text)
-* Form description (text)
-* Category 2 (text)
-* Assigned tool (text)
-* Form version (text)
-* Created date (text)
-* Updated date (text)
-* Form ID 2 (text)
-* Output file (text)
-
-When filling out this form, please ensure that you provide accurate and complete information for each field. The form will only be processed if all required fields are filled out.
-</thinking>
-
 # organic_juice_order_form - Help Guide
 ## Purpose
 This form is used to collect information from customers for their organic juice orders.

@@ -1,11 +1,3 @@
-<thinking>
-**Form Purpose:**
-The Mpox Engagement Fund Form is designed to collect information from nonprofit employees for the purpose of allocating funds for public health responses, education, and prevention. This form serves as a way to channel resources and support to address Mpox-related issues. The form is not intended for general inquiries or other purposes.
-
-**Relevance and Duplication Check:** 
-Before proceeding, please ensure you are submitting information for a legitimate Mpox-related need. Please check if there is already an existing form for a similar purpose or if you need to provide additional information for an existing form. 
-</thinking>
-
 # Mpox Engagement Fund Form - Help Guide
 ## Purpose
 This form is used to collect information from nonprofit employees to allocate funds for public health responses, education, and prevention related to Mpox.

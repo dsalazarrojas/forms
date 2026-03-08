@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nursing Family Event Leave Of Absence Form - Help Guide
 
 ## Purpose

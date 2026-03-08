@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Graduation Regalia Order Form - Help Guide
 
 ## Purpose

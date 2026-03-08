@@ -1,10 +1,3 @@
-<thinking>
-This form, the School Health Screening Agreement, is a crucial document that requires careful attention to detail to ensure accurate and complete information. It's essential to understand the form's purpose to complete it correctly.
-
-To begin with, please ensure that you are accessing this form for the intended purpose and that you don't have any existing records on file that might duplicate or conflict with this new information. Double-check your access permissions to avoid errors.
-
-</thinking>
-
 # School Health Screening Agreement - Help Guide
 ## Purpose
 The School Health Screening Agreement is a form used to collect and record essential student health information from parents or guardians. This information will be used by school administrators to provide a safe and supportive environment for students.

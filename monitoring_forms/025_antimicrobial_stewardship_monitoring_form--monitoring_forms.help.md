@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to monitor and evaluate the effectiveness of antimicrobial stewardship programs in healthcare facilities. The form collects data on various aspects of the program, including its structure, activities, and outcomes. It will help facilities assess their performance and identify areas for improvement.
-</thinking>
-
 # Antimicrobial Stewardship Monitoring Form - Help Guide
 ## Purpose
 The Antimicrobial Stewardship Monitoring Form is a tool used to monitor and evaluate the effectiveness of antimicrobial stewardship programs in healthcare facilities. It helps facilities assess their performance and identify areas for improvement.

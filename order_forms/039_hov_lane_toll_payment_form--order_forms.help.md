@@ -1,5 +1,3 @@
-<thinking>As a HOV Lane Toll Payment Form, this form is designed to collect information from users who are paying tolls for using High-Occupancy Vehicle (HOV) lanes. The purpose of this form is to provide users with a streamlined way to submit their payment information and details about their trip, including the number of HOV lanes used, the type of vehicle, and the payment method. This form ensures that users can accurately report their toll payments and provide necessary details for the toll operator to process their payment correctly. The form fields are designed to be user-friendly and intuitive, allowing users to easily input their information and complete the form in a few simple steps.</thinking>
-
 # HOV Lane Toll Payment Form - Help Guide
 ## Purpose
 The HOV Lane Toll Payment Form is designed to collect information from users who are paying tolls for using High-Occupancy Vehicle (HOV) lanes. This form ensures that users can accurately report their toll payments and provide necessary details for the toll operator to process their payment correctly.

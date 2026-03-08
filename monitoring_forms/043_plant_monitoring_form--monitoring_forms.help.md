@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "Plant Monitoring Form" is to track and manage information about plants in a monitoring system. To use this form, you should be familiar with plant monitoring and have the necessary information about the plants being monitored. Each field in the form has a specific purpose, as explained below.
-</thinking>
-
 # Plant Monitoring Form - Help Guide
 ## Purpose
 The Plant Monitoring Form is used to track and manage information about plants in a monitoring system. It's designed to gather relevant data about plants, including their status, dates, heights, notes, and contact information.

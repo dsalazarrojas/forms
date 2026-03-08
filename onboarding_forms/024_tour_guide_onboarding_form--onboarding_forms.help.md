@@ -1,12 +1,3 @@
-<thinking>
-The Tour Guide Onboarding Form is designed to collect relevant information from tour guides to help them get started with our platform. The form is intended for tour guides who are new to our system and need to provide their basic contact information, availability, and other relevant details. 
-
-The purpose of this form is to streamline the onboarding process, making it easier for tour guides to provide the necessary information in one place. This form is not intended for tour guides who already have an account on our platform, as they will not need to complete this form again. 
-
-Please ensure that you are not already registered on our platform before completing this form. If you are unsure, please contact our support team for assistance. 
-
-</thinking>
-
 # Tour Guide Onboarding Form - Help Guide
 
 ## Purpose

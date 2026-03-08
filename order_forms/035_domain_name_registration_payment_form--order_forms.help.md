@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information and payment details from users who wish to register their domain name. It's essential to ensure that the user provides accurate and complete information to facilitate a smooth domain name registration process. Before proceeding, please double-check that the form is being used for its intended purpose and that the information is not being duplicated or submitted multiple times. This form should only be used for domain name registration and not for other purposes. Please note that the payment method field is optional, but it's essential to fill it in if you're paying by any of the available methods.
-</thinking>
-
 # Domain Name Registration Payment Form - Help Guide
 ## Purpose
 This form is designed to collect payment details and contact information from users who wish to register their domain name.

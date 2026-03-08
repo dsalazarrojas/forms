@@ -1,7 +1,3 @@
-<thinking>
-The "Weekly Sales Rota" form is designed to schedule and organize sales activities across a week. It's intended for sales managers and representatives to input their email addresses, phone numbers, and work schedules for each day of the week. This form will help the sales team manage their tasks and activities more efficiently.
-</thinking>
-
 # Weekly Sales Rota - Help Guide
 ## Purpose
 The "Weekly Sales Rota" form is used to schedule and organize sales activities across a week. It requires sales managers and representatives to input their email addresses, phone numbers, and work schedules for each day of the week.

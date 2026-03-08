@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a contact form for tracking and reporting fulfillment status on orders. It's likely used by businesses or organizations to gather information on the progress and completion of orders. The form seems to cover various aspects related to orders, including details about the order, contact information, fulfillment status, and attachment details. To avoid duplication, I will not provide any further internal reasoning beyond this point, as the provided YAML fields already convey the essential elements and intentions behind this form.
-</thinking>
-
 # Fulfillment Status Report Contact Form - Help Guide
 ## Purpose
 The Fulfillment Status Report Contact Form is designed to help businesses or organizations track and report the progress and completion of orders. This form gathers information on order details, contact information, fulfillment status, and attachment details to ensure accurate and up-to-date tracking.

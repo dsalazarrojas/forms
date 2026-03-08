@@ -1,10 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Fall Pre Order" form. This form is designed to collect customer information and order details for a pre-order campaign during the fall season. The purpose of this form is to allow customers to input their information and place their pre-orders, which will be processed and shipped during the fall season.
-
-To ensure that the form is completed accurately, it's essential to review the fields and instructions carefully.
-
-</thinking>
-
 # Fall Pre Order - Help Guide
 ## Purpose
 The Fall Pre Order form is designed to collect customer information and order details for pre-orders during the fall season. This form will be used to process and ship orders accordingly.

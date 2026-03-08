@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nail Order Form Tiff - Help Guide
 ## Purpose
 The Nail Order Form Tiff is used to collect information from customers for nail appointments. This form allows customers to provide their name, contact details, and appointment preferences. It is essential to fill in all required fields accurately to ensure proper communication and appointment scheduling.

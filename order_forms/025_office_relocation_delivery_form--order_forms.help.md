@@ -1,5 +1,3 @@
-<thinking>This form is used to facilitate the process of office relocation, including managing the delivery and status of office items. It is designed to collect relevant information about the office location, delivery date, item description, item quantity, delivery instructions, delivery time, contact information, and status of the item. The form should only be filled out when necessary, such as when an item is being relocated, and should not be filled out for general inquiries or other non-relevant purposes.</thinking>
-
 # office_relocation_delivery_form - Help Guide
 ## Purpose
 The office relocation delivery form is used to manage the process of delivering office items to a new location.

@@ -1,7 +1,3 @@
-<thinking>
-The form "Remodel Furnace Relocation" is designed to gather information and schedule the relocation of a furnace in a building or home. This form is likely to be used by facilities management or maintenance teams to track and manage the process of relocating a furnace to a new location within the building. The form should only be completed if the user has a legitimate reason for relocating the furnace, and not for testing purposes. Please ensure that you have reviewed the relevant procedures and guidelines before filling out this form.
-</thinking>
-
 # Remodel Furnace Relocation - Help Guide
 ## Purpose
 The Remodel Furnace Relocation form is used to gather information and schedule the relocation of a furnace in a building or home.

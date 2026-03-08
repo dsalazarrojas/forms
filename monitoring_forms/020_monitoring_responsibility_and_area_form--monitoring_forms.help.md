@@ -1,16 +1,3 @@
-<thinking>
-This form is used to track and document monitoring responsibilities and areas for various tasks and projects within the organization. This helps in maintaining clear and up-to-date information on what needs to be monitored, who is responsible for monitoring, and the specific areas that need attention.
-The form can be completed in a flexible and adaptable manner, allowing for the inclusion of various types of monitoring responsibilities and areas, from simple text descriptions to multi-choice options.
-
-To complete this form, follow these steps:
-
-1.  Review the form sections and identify the relevant fields that apply to your specific monitoring responsibility and area.
-2.  Select the relevant options or enter the required information in each field.
-3.  Ensure that all required fields are completed, as indicated by the required status of each field.
-4.  Review and validate your input before submitting the form.
-
-</thinking>
-
 # Monitoring Responsibility And Area Form - Help Guide
 ## Purpose
 This form is used to track and document monitoring responsibilities and areas for various tasks and projects within the organization.

@@ -1,10 +1,3 @@
-<thinking>
-We need to provide a clear and concise help guide for the Brewery Special Batch Pre Order Form to ensure that end users understand its purpose and how to complete it. This form is designed for customers to pre-order a special batch of beer from the brewery. The form is structured to gather essential information from the customer, including their contact details, preferences for the order, and payment and delivery options. This guide will walk the user through each field, explaining its purpose and required information. 
-
-The internal reasoning for this form is to prevent duplication and ensure that the customer's order is processed correctly. By providing clear and concise instructions, we can reduce errors and increase customer satisfaction. 
-
-</thinking>
-
 # Brewery Special Batch Pre Order Form - Help Guide
 ## Purpose
 

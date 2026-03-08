@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for inquiring about wire mesh material. The purpose of this form is to collect information about the wire mesh material being inquired about, including its specifications, price, availability, and other related details. This form is likely used by customers or sales teams to gather information about the material and its potential use in a project or order. 
-
-The form is composed of multiple pages, each with a specific set of fields that need to be filled in. This guide will walk you through each page and field, explaining what each field means and how to fill it in.
-
-</thinking>
-
 # Wire Mesh Material Inquiry Form - Help Guide
 ## Purpose
 This form is used to inquire about wire mesh material. It is designed to gather information about the material, its specifications, price, and other related details.

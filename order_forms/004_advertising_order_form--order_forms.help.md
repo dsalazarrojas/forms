@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users submit an order for advertising services. The purpose of this form is to gather information from clients about their advertising preferences and needs, including their name, contact person, email, phone number, service package, additional services, preferred ad placement, campaign duration, total budget, target start date, payment method, and any special instructions. The form should only be filled out if the user is interested in placing an order for advertising services.
-</thinking>
-
 # Advertising Order Form - Help Guide
 
 ## Purpose

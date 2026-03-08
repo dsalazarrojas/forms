@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for the purposes of verifying warranty information for a purchase. This will likely be used by the sales team to ensure that all purchases meet certain criteria before proceeding with the sales process. It's possible that this form is used in conjunction with other forms or tools to manage and track sales data. Before proceeding, please ensure you have the correct context and permissions to complete this form.
-
-</thinking>
-
 # warranty_verification_form - Help Guide
 
 ## Purpose

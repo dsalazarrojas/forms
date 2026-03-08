@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Bookstore Order Form - Help Guide
 
 ## Purpose

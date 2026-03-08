@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to be used by merchants to create and manage orders for clothing items. The form is intended for internal use within the organization, and its purpose is to provide a standardized way of collecting and tracking order information. This form is not intended for public use or external customers.
-The form consists of several fields that are required and optional in nature. Before proceeding, please ensure that all required fields are completed accurately to avoid any errors or issues with order processing.
-</thinking>
-
 # Stripe Clothing Order Form - Help Guide
 ## Purpose
 This form is used by merchants to create and manage orders for clothing items.

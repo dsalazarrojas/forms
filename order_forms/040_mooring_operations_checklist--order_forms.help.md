@@ -3,8 +3,6 @@
 
 This form is designed to help you complete a comprehensive Mooring Operations Checklist. Mooring operations refer to the process of securing a ship to a dock or a quay, ensuring safe and efficient handling during docking and undocking procedures. This form will guide you through a series of questions to evaluate the readiness and effectiveness of your mooring operations, helping you identify areas for improvement and optimize your procedures.
 
-<thinking>Before starting, ensure you are familiar with the specific requirements and regulations applicable to your mooring operations. This form is meant to complement, not replace, your existing knowledge and procedures. It is recommended to complete this form at the beginning of each shift or prior to each major mooring operation, or as part of your standard safety protocols.</thinking>
-
 ## How To Complete This Form
 
 1. Read through each question carefully and answer accordingly.

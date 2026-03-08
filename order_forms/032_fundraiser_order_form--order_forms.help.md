@@ -1,14 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Fundraiser Order Form", I will follow these steps:
-
-First, I will review the provided YAML fields to understand the form's purpose and structure. The form appears to be designed for processing orders, including order details, shipping information, payment methods, and payment statuses. The form's purpose is likely to facilitate fundraising efforts by collecting necessary information for processing and tracking orders.
-
-To ensure that the form is not duplicated in the system, I will add a note that reminds users to check the form's availability before starting to fill it out.
-
-Next, I will create the final help document in Markdown format based on the form's fields and structure.
-
-</thinking>
-
 # Fundraiser Order Form - Help Guide
 ## Purpose
 The Fundraiser Order Form is used to process orders for fundraising efforts. It collects information about the order, shipping details, and payment methods.

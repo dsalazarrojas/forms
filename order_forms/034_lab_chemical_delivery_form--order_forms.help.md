@@ -1,11 +1,3 @@
-<thinking>
-This form is for lab staff to document the delivery of chemicals. The form is used to provide information about the chemical being delivered, including its name, delivery date, quantity, supplier name, delivery type, lab ID, chemical ID, shipment date, delivery status, and customer name. This information is likely to be used for inventory management, tracking, and other administrative purposes.
-
-To avoid duplication, this form should only be filled out when there are new deliveries or changes to existing delivery status.
-
-Note: The fields marked as "required: false" might not be necessary for all entries, but they might still be relevant in certain situations.
-</thinking>
-
 # Lab Chemical Delivery Form - Help Guide
 ## Purpose
 The Lab Chemical Delivery Form is used to document the delivery of chemicals for inventory management and other administrative purposes.

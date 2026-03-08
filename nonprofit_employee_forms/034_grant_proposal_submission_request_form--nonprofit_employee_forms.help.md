@@ -1,6 +1,3 @@
-<thinking>
-To ensure we are not duplicating efforts and to confirm that this guide is relevant to the form's purpose, let's review the form's purpose. The Grant Proposal Submission Request Form is used to collect information from non-profit organizations that are submitting grant proposals to our organization. This form is designed to gather essential details about the grant proposal, including the proposal itself, non-profit information, grant details, and contact information. The form will help us understand the scope of the proposal, the non-profit's background, and the grant's status. This guide will walk you through each field to help you complete the form accurately and efficiently.</thinking>
-
 # Grant Proposal Submission Request Form - Help Guide
 ## Purpose
 The Grant Proposal Submission Request Form is used to collect information from non-profit organizations submitting grant proposals to our organization. This form helps us understand the scope of the proposal, the non-profit's background, and the grant's status.

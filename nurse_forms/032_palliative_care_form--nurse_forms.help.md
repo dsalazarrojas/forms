@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for collecting information related to a patient's care and medical history. It is not intended for clinical diagnosis or treatment purposes. Please ensure that you are not duplicating effort or data collection for the same patient. If you are unsure, please review your organization's policies and consult with medical professionals if necessary.
-</thinking>
-
 # Palliative Care Form - Help Guide
 ## Purpose
 This form is designed to collect information on a patient's care and medical history to provide comprehensive care and support.

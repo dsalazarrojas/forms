@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed to gather client information and consent for nail salon services during the COVID-19 pandemic. It seems to cover essential areas such as client details, service requests, health declaration, allergy information, understanding of COVID-19 risks, and consent agreement. This form likely aims to ensure the salon is taking necessary precautions and gathering relevant information to maintain a safe environment for both clients and staff. The form does not appear to be a duplication of any other form based on the provided structure, but further review is always a good idea to confirm.
-</thinking>
-
 # COVID 19 Pandemic Nails Salon Services Consent Form - Help Guide
 ## Purpose
 This form is designed to gather essential information and consent from clients to ensure a safe and healthy environment in the nail salon during the COVID-19 pandemic. It covers various aspects including client details, service requests, health declaration, allergy information, and consent agreement.

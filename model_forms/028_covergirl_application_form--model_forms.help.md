@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals who want to apply for the Covergirl makeup artist position. This form is part of the application process, and it's essential to provide accurate and thorough information to increase the chances of getting considered for the position.
-</thinking>
-
 # Covergirl Application Form - Help Guide
 ## Purpose
 This form is intended to gather information about applicants who wish to become part of the Covergirl team. It's a crucial step in the application process, and providing accurate details will help us review your application effectively.

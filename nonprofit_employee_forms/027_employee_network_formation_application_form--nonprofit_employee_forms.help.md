@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Network Formation Application Form - Help Guide
 
 ## Purpose

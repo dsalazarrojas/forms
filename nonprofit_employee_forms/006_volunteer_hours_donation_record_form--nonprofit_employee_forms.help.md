@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Volunteer Hours Donation Record Form - Help Guide
 
 ## Purpose

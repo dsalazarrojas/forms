@@ -1,10 +1,3 @@
-<thinking>
-The Stevedore Service Referral Form is designed to collect user information and preferences for referrals related to Stevedore services. This form serves as a means of gathering input from clients, potential customers, or internal stakeholders. It's intended to be a comprehensive and easy-to-use tool for capturing all the necessary details in a clear and concise manner.
-
-The form is not intended to be a substitute for any existing internal processes or systems. Please ensure that the information collected is not already available through other channels, and use this form only when necessary to avoid duplication of effort.
-
-This form will guide you through the process of filling out the Stevedore Service Referral Form. Each field has been designed to be as clear and concise as possible to help you complete the form efficiently. Below, you'll find a detailed explanation of each field and tips to make the process smoother.</thinking>
-
 # Stevedore Service Referral Form - Help Guide
 ## Purpose
 The Stevedore Service Referral Form is a tool used to gather information about users, their companies, and the services they need. It's essential to provide accurate and comprehensive data to get the best possible outcome.

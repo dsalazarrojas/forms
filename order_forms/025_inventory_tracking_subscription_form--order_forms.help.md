@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to track inventory tracking data. The form collects information about stock items, vendors, and inventory levels. It is likely used by inventory managers or procurement teams to monitor and manage their inventory. The form should only be filled out if a user has access to inventory tracking data. The fields in this form should be filled out carefully, as they are used to track important data about the stock levels and statuses of items.
-</thinking>
-
 # inventory_tracking_subscription_form - Help Guide
 ## Purpose
 The inventory tracking subscription form is used to track inventory tracking data for stock items, vendors, and inventory levels.

@@ -1,14 +1,3 @@
-<thinking>
-This form is used to handle complaints or issues related to misplaced orders. It is a critical component of the order management process, allowing employees to document and track such incidents. The form is essential for identifying and resolving the root cause of misplaced orders, which can impact customer satisfaction and overall business efficiency.
-
-To avoid duplication, this form should not be used for orders that have already been resolved or are still in the process of being resolved.
-
-The form collects information about the order details, the reason for the complaint, and the customer's message. It also allows the customer to attach any relevant documentation or photos.
-
-Before filling out this form, make sure you have all the necessary information about the misplaced order and the customer's concerns. This form is intended for employees to use internally, so please be concise and objective in your reporting.
-
-</thinking>
-
 # misplaced_order_complaint_form - Help Guide
 ## Purpose
 This form is used to document and track complaints or issues related to misplaced orders. It helps to identify and resolve the root cause of misplaced orders, ensuring customer satisfaction and improving business efficiency.

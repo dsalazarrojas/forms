@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used for verifying the purchase receipt of a customer for a purchase made. The form will ask for information about the customer, the date of the purchase, the total cost, the payment method, the items purchased, and the receipt confirmation from the customer and business. This form is likely to be used for internal purposes within a business, such as for accounting or inventory management. The form will not be used for public-facing purposes, so no need to worry about making it user-friendly for the general public. 
 
 </thinking>

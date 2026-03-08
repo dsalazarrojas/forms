@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the gaming-industry-developer-award-nomination-form form accurately and efficiently. Before proceeding, please ensure that this form is relevant to your needs and that you are not duplicating a nomination that has already been submitted. This form is used to nominate a developer for a gaming industry award. Please provide accurate and detailed information to support your nomination.
-
-</thinking>
-
 # gaming-industry-developer-award-nomination-form - Help Guide
 ## Purpose
 The gaming-industry-developer-award-nomination-form is a tool used to submit nominations for the gaming industry awards. This form requires information about the developer, the game, and the submitter.

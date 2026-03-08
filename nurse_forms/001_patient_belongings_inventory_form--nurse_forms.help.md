@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Patient Belongings Inventory Form - Help Guide
 ## Purpose
 This form is used to record and track patient belongings, including descriptions, types, and locations. It helps maintain accurate and up-to-date records of patient property for efficient organization and management.

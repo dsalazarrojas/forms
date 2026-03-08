@@ -1,10 +1,3 @@
-<thinking>
-This help guide will provide a step-by-step explanation of the Insurance Provider Nomination Tracking Log form, ensuring that end users understand its purpose and how to complete it correctly. The form, with its 26 fields, tracks information related to insurance provider nominations, including vendor details, nomination dates, and status updates. The form's purpose is to collect and organize data to facilitate the nomination process and track its progress.
-
-Before proceeding, it's essential to check that the form is not being completed for duplicate purposes and that the information is accurate and relevant to the nomination process. If there's a possibility of duplicate entries, ensure that the form is not filled out for the same vendor or insurance provider multiple times.
-
-</thinking>
-
 # Insurance Provider Nomination Tracking Log - Help Guide
 ## Purpose
 This form is designed to track and monitor the nomination process for insurance providers. It collects and organizes information about vendors, nominees, and the status of nominations. The form helps ensure that all necessary details are captured and updates are recorded accurately.

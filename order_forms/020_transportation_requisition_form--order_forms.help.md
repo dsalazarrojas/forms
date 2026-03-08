@@ -1,9 +1,3 @@
-<thinking>
-The transportation requisition form is used to request transportation-related resources, such as vehicles, for an event or project. This form is meant to gather details about the trip, the vehicle needs, and other relevant information. It is used to ensure that transportation is properly planned and executed. The form is designed to be completed by the event organizer or project lead, and the information gathered will be used to inform the logistics team about the transportation requirements.
-
-Before proceeding, ensure that you have a clear understanding of your transportation needs and that this form is not being submitted for other purposes. It is also recommended to have all the information ready to minimize the need for back-and-forth communication.
-</thinking>
-
 # Transportation Requisition Form - Help Guide
 ## Purpose
 The Transportation Requisition Form is used to request transportation-related resources for an event or project. It gathers details about the trip, vehicle needs, and other relevant information to ensure proper planning and execution of transportation.

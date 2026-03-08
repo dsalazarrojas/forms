@@ -1,10 +1,3 @@
-<thinking>
-The "multiple_choice_recurring_subscriptions" form is designed to manage recurring subscription information for customers or products. This form is typically used by administrators or support teams to track and update subscription status. The form allows users to select the type of subscription, frequency, start date, end date, customer(s) involved, and status.
-
-The following form will help users complete this process by providing clear and concise explanations for each field. Please make sure to fill out the form correctly to avoid errors and ensure accurate data entry.
-
-</thinking>
-
 # multiple_choice_recurring_subscriptions - Help Guide
 ## Purpose
 The "multiple_choice_recurring_subscriptions" form is used to manage recurring subscription information for customers or products.

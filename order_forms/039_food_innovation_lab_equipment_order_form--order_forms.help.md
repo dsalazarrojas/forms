@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for end-users who need to use the "Food Innovation Lab Equipment Order Form" to place orders for lab equipment. The form is designed to collect relevant information for efficient order processing and is part of the internal process for managing lab equipment orders. Please ensure that you are using the correct form for your specific use case, as it may not be applicable to external orders or other types of orders. This form is an original adaptation of a form created using AI and is released under a Creative Commons BY 4.0 license, allowing you to use, modify, and even sell forms derived from it with proper credit.
-</thinking>
-
 # Food Innovation Lab Equipment Order Form - Help Guide
 ## Purpose
 The Food Innovation Lab Equipment Order Form is used to gather essential information for the order, delivery, and status management of lab equipment. It is designed to facilitate the efficient processing of orders and ensure that all necessary details are provided.

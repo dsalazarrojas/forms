@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from event coordinators and staff about the seating arrangement for an upcoming event. It is essential to ensure that the necessary information is accurate and comprehensive to provide a pleasant and safe experience for all event attendees. Before completing this form, please review the instructions carefully and ensure that you have all the required information. This form should only be filled out once per event.
-
-</thinking>
-
 # Event Seating Arrangement Order Form - Help Guide
 ## Purpose
 This form is used to gather information about the seating arrangement for an event. It is used by event coordinators and staff to ensure that all necessary arrangements are made for a successful and safe event.

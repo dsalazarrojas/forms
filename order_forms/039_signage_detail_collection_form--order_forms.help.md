@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to collect detailed information about signage from project stakeholders. The form has 10 fields, divided into three pages: Project Details, Design Assets, Approvals, and Additional Comments. The form is intended for project team members to gather information about signage projects, including their status, production type, and delivery dates. The purpose of this form is to ensure that all relevant information is collected and tracked for each signage project, improving project management and collaboration among team members.
-
-</thinking>
-
 # Signage Detail Collection Form - Help Guide
 ## Purpose
 The purpose of this form is to collect detailed information about signage projects from project stakeholders, improving project management and collaboration among team members.

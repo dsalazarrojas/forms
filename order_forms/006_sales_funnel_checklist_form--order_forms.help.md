@@ -1,7 +1,3 @@
-<thinking>
-The Sales Funnel Checklist Form is designed to help sales teams assess and evaluate their lead generation and conversion processes. This form is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation created using public survey topic metadata. The form is intended to help sales teams understand their current processes and identify areas for improvement.
-</thinking>
-
 # Sales Funnel Checklist Form - Help Guide
 ## Purpose
 The Sales Funnel Checklist Form is a tool to help sales teams evaluate their lead generation and conversion processes. It is designed to identify strengths and weaknesses in each stage of the sales funnel, from lead generation to conversion.

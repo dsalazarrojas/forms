@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Cheerleading Uniform Order Form - Help Guide
 
 ## Purpose

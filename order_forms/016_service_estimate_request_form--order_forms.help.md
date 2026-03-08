@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Service Estimate Request Form - Help Guide
 ## Purpose
 The Service Estimate Request Form is used to gather information about a service estimation request from the end user. This form is used to determine the scope of work and estimate the time and cost required for a project.

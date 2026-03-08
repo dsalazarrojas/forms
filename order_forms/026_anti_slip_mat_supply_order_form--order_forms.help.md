@@ -1,8 +1,3 @@
-<thinking>
-This help guide assumes that the form is designed for end users to provide order and shipping details for anti-slip mats. The purpose of this form is to collect all necessary information for the order processing and delivery of the product. This form is designed for internal use within the organization and is intended for employees who are placing orders for anti-slip mats. The form is not intended for external customers and does not contain fields related to payment or billing.
-
-</thinking>
-
 # Anti Slip Mat Supply Order Form - Help Guide
 ## Purpose
 The Anti Slip Mat Supply Order Form is used to collect information for the processing and delivery of anti-slip mats ordered by internal employees.

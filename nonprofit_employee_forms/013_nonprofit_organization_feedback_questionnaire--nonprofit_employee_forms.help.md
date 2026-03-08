@@ -1,14 +1,3 @@
-<thinking>
-We've carefully crafted this form to collect feedback from customers and users of non-profit organizations. This form serves as a tool for non-profits to gather valuable insights on their services and programs, helping them improve and tailor their offerings to better meet the needs of their audience. Please ensure that you've reviewed your interactions with our non-profit organization before proceeding, so you can provide the most accurate and relevant feedback.
-
-This form is designed to be completed in a few minutes, and it's meant to be a quick and easy way to share your thoughts and opinions. We value your time and appreciate your feedback.
-
-We've organized the form into sections that correspond to specific aspects of our non-profit organization, such as services and programs. Please answer each question based on your actual experiences with our organization.
-
-Before starting, take a moment to review the form and ensure you're answering the questions that best fit your interactions with our non-profit organization. If you have any questions or concerns, don't hesitate to reach out to us.
-
-</thinking>
-
 # Nonprofit Organization Feedback Questionnaire - Help Guide
 ## Purpose
 The Nonprofit Organization Feedback Questionnaire is designed to gather feedback from customers and users of non-profit organizations. This form helps non-profits improve and tailor their services and programs to better meet the needs of their audience.

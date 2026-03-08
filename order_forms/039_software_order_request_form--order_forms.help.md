@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Software Order Request Form - Help Guide
 ## Purpose
 This form is used to request software orders from the internal software repository. Please use this form to submit a request for any software item you need. Ensure that you have checked the internal software repository before submitting a request to avoid duplication.

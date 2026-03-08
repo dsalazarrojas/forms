@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect information from users who are interested in acquiring a robotics calibration stand, a piece of equipment that ensures precision and accuracy in robotic systems. The form is meant to capture the necessary details about the customer's requirements, shipping, and contact information. This form will be used internally by the company to process the order and communicate with the customer regarding the order status.
-
-Before starting to fill out the form, please ensure that you have the necessary details and information ready. You may need to refer to your internal documents or previous communication with the sales team for any specific requirements or specifications. 
-
-The form is not intended to be filled out by customers who are not interested in purchasing a robotics calibration stand.
-
-</thinking>
-
 # Robotics Calibration Stand Order Form - Help Guide
 ## Purpose
 This form is for customers interested in acquiring a robotics calibration stand to provide their details and specifications for the order.

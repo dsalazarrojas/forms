@@ -1,10 +1,3 @@
-<thinking>
-This help guide is for the "Butcher Shop Order Form". The form is designed to capture customer information and order details for butchering and delivery purposes. It is used to place orders for various beef, pork, and chicken products. The form includes fields for customer contact information, order details such as date and time, preferred pickup or delivery, and estimated total price.
-
-The guide is intended to explain each field in the form in a clear and concise manner, to ensure that end-users understand the purpose and required information for each field.
-
-</thinking>
-
 # Butcher Shop Order Form - Help Guide
 
 ## Purpose

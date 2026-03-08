@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information for creating custom fitness challenge medals. The purpose of this form is to allow participants to provide their personal details and preferences for their medal design. This form is typically used for events like marathons, cycling events, or other fitness challenges where participants want to receive a customized medal for their achievement. 
-
-The form is divided into two main sections: Participant Information and Event Information. The Participant Information section includes fields for selecting the participant's design choice, ribbon color, medal shape, size, and ribbon shape. The Event Information section includes fields for event name and date. 
-
-The form is designed to be completed by participants who want to customize their medal according to their preference. However, some fields are optional, and users can skip them if they do not want to provide the information. For example, the Participant Medal Quantity field is only relevant if the participant wants to order multiple medals.
-
-</thinking>
-
 # Fitness Challenge Medal Design Order Form - Help Guide
 ## Purpose
 This form is designed to collect information for creating custom fitness challenge medals. It is typically used by participants who want to customize their medal according to their preference.

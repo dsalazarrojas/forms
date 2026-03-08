@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information for the ordering process of participant bags for a tournament. It ensures that participant bags are ordered correctly and in a timely manner. To prevent errors and ensure accurate ordering, it's crucial to fill out the form correctly. Before proceeding, ensure that this form has not already been filled for the current tournament.
-</thinking>
-
 # Tournament-Participant-Bag-Supply-Order-Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information for the participant bag ordering process in a tournament. It requires accurate input to facilitate proper ordering and minimize errors.

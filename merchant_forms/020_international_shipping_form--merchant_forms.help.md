@@ -1,7 +1,3 @@
-<thinking>
-This form is for international shipping, and it's used to determine the shipping mode and details of a package. It's not intended for domestic shipping. The form is not required for any specific field, and it's meant to be filled out as per the user's need.
-</thinking>
-
 # international_shipping_form - Help Guide
 ## Purpose
 This form is used to determine the international shipping mode and details of a package. It's meant for packages being shipped internationally and is not required for domestic shipping.

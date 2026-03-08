@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for academic journals to be ordered by the university. It's meant to capture the details of the order, including the order details, delivery preferences, order type, and other relevant information. This form will likely be used by university staff or students to place orders for academic journals.
-The form has 25 fields, but most of them are not required, indicating that they are optional or have default values. The fields include text, select, date, and note types, which suggest that the form is meant to capture a variety of types of information.
-Upon reviewing the fields, it appears that the form is meant to capture information about the order, including delivery preferences, order type, date and time, contact person, university, library, quantity, price, order comments, email, phone, fax, address, city, state, zip code, country, order date, delivery date, order status, order reference, order submission ID, submitted by, and submitted date. This suggests that the form is meant to capture detailed information about the order and the person placing the order.
-The form likely has some fields that are meant to be filled out by the person placing the order, while others may be filled out by the staff or system. For example, the submitted by and submitted date fields suggest that they may be filled out by the system or staff.
-</thinking>
-
 # University Academic Journal Order Form - Help Guide
 ## Purpose
 The University Academic Journal Order Form is a form designed for university staff or students to place orders for academic journals. The form captures detailed information about the order, including delivery preferences, order type, date and time, contact person, university, library, quantity, price, and other relevant fields.

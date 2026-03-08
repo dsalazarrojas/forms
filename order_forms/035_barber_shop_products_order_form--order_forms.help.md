@@ -1,6 +1,3 @@
-<thinking>
-The form is designed to collect customer information and order details for the barber shop. This information includes personal contact details such as name, email, phone number, and shipping address. The form also collects order details like product quantity and type, payment method, and delivery preference. This will enable the customer to place orders for various hair and shaving products along with accessories. The fields in the form are mostly self-explanatory. However, there might be a slight confusion with payment methods since there are multiple options but only one is required to be selected. The form seems to have all the required details to process an order, considering the "required" fields are marked true in all fields except for the "note" type fields.</thinking>
-
 # Barber Shop Products Order Form - Help Guide
 ## Purpose
 The Barber Shop Products Order Form is designed to collect customer information and order details for the barber shop. This form is used to place orders for various hair care and shaving products, as well as accessories.

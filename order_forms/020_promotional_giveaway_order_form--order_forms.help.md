@@ -1,12 +1,3 @@
-<thinking>
-The form is meant to be a simple order form for promotional giveaways. Its purpose is to collect basic contact information and promotion selection data from users. This form is likely to be used in a web-based context, such as a web application or website.
-
-This form is intended to be used by users to place orders for promotional items. To complete this form, users will need to provide their first name, last name, email address, phone number, and select one or more promotion type from the dropdown menu. The date and time fields are not required but can be filled in if needed.
-
-The form is designed to be completed by end-users, and the goal is to make it easy to understand and fill out.
-
-</thinking>
-
 # promotional_giveaway_order_form - Help Guide
 ## Purpose
 The promotional giveaways order form is used to collect information from users who want to place orders for promotional items. Please fill out the form with your details and promotion preferences.

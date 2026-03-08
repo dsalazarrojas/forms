@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Production Line Retrofit Order Form - Help Guide
 
 ## Purpose

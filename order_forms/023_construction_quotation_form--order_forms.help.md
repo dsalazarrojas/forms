@@ -1,11 +1,3 @@
-<thinking>
-Are you ready to create a comprehensive guide for users to complete the Construction Quotation Form? The form is designed to gather essential information for construction projects, including quotations for various items, customer details, and project specifics. The guide will walk users through each section of the form, explaining each field and its purpose. Before we begin, let's confirm that this form will be used for construction project quotations, gathering relevant customer and project details. Is this correct?
-
-This help guide assumes users have some general knowledge of the form's purpose. If not, it's essential to provide a brief overview of what the form is used for: to collect detailed information for construction project quotations.
-
-This guide covers the Construction Quotation Form in sections, providing step-by-step instructions on how to fill out each field. Please refer to the provided form fields for accuracy.
-</thinking>
-
 # Construction Quotation Form - Help Guide
 ## Purpose
 The Construction Quotation Form is used to collect detailed information for construction project quotations. It gathers essential details from the customer and project specifics to ensure accurate and comprehensive quotations are provided.

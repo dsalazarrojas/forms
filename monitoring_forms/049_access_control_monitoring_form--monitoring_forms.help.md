@@ -1,5 +1,3 @@
-<thinking>...checking if this form's purpose and fields are still relevant and well-understood...</thinking>
-
 # Access Control Monitoring Form - Help Guide
 ## Purpose
 This form is used to document access control events and observations for security tracking and compliance. It is an essential tool for security officers to monitor and report incidents, equipment malfunctions, and other issues that affect access control systems during their shifts.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to nominate an Investigator for an award. This form is used to gather information about the nominee, including their contact details and the reason for the nomination. The form is not intended to be completed by the nominee themselves, but rather by someone nominating them for the award. It is essential to ensure that the nominee is aware of the nomination before submitting their information. Please review the form carefully to ensure that the nominee's information is accurate and up-to-date.
-</thinking>
-
 # Investigator Award Nomination Form - Help Guide
 ## Purpose
 This form is used to nominate an Investigator for an award. It is designed to collect information about the nominee and the reason for the nomination.

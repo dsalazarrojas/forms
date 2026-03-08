@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that we're not allowing duplicate submissions from the same model and that the model's details are accurate. This form is designed to collect essential information from models about their fashion show participation. By filling out this form correctly, models can ensure their portfolio is up-to-date and accurately represented. Please note that this form is for uploading portfolio images and details about fashion shows the model has participated in.
-</thinking>
-
 # Fashion Show Portfolio Upload Form - Help Guide
 ## Purpose
 The Fashion Show Portfolio Upload Form is a tool for models to upload and manage their fashion show participation details. This form helps keep their portfolio up-to-date and accurately represented.

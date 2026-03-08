@@ -1,11 +1,4 @@
-> <thinking>
-We are considering creating a help guide for a user-facing help document for the Award Trophy Order Form.
-The form is designed to collect information from customers for ordering custom trophies.
-The form consists of two sections: Customer and Event Information, and Delivery and Payment.
-In this section, we will create a help guide that will assist users in understanding the purpose and usage of the form, including explanations for each field.
-</thinking>
-
-# Award Trophy Order Form - Help Guide
+> # Award Trophy Order Form - Help Guide
 
 ## Purpose
 The Award Trophy Order Form is a tool designed to collect information for custom trophies that will be awarded to customers. This form will guide you through the process of ordering a custom trophy, including selecting the trophy type, quantity, size, and other customization options. Please fill out the form carefully to ensure that your order is processed accurately and efficiently.

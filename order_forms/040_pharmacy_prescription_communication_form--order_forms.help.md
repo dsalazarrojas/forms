@@ -1,5 +1,3 @@
-<thinking>...The pharmacy_prescription_communication_form is used to facilitate communication between pharmacies and patients about medication and prescription information. This form is typically used for situations where patients need to share their prescription details with pharmacies for dispensing or refilling. To use this form, patients or healthcare professionals must enter their relevant information in the following fields...</thinking>
-
 # pharmacy_prescription_communication_form - Help Guide
 ## Purpose
 The pharmacy_prescription_communication_form is a tool used to share prescription information between patients and pharmacies.

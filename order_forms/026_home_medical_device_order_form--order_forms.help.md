@@ -1,6 +1,3 @@
-<thinking> 
-The purpose of this form is to collect information from patients and healthcare providers to create an order for home medical devices. This form is likely used in a clinical or healthcare setting to gather data for patient care and management. It is essential to ensure that all required fields are completed accurately and correctly to prevent errors and ensure the correct medical device is ordered for the patient. To avoid duplicate orders, it is crucial to verify that the information provided is correct and up-to-date. This form is designed to be used by both patients and healthcare providers, and the data collected will be used to manage and track patient care. Please make sure to review and confirm all information before submitting the form to avoid any issues.</thinking>
-
 # Home Medical Device Order Form - Help Guide
 ## Purpose
 

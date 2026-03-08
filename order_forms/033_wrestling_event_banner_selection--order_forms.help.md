@@ -1,7 +1,3 @@
-<thinking>
-This form is for selecting details related to a wrestling event banner. It appears to be a form for event organizers to provide information and specifications for the banner of a wrestling event. The form likely serves as a tool for capturing and processing this information. However, there is a possibility of duplication of effort in using this form, especially if the same event details have already been recorded or processed elsewhere.
-</thinking>
-
 # wrestling_event_banner_selection - Help Guide
 ## Purpose
 The wrestling_event_banner_selection form is used to collect and manage the details of a wrestling event banner, including event title, date, location, and other relevant information.

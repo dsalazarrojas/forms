@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information regarding a donation request, specifically for communication and record-keeping purposes. This form will be used to gather details about the donation request, including the date it was made, a description of the request, and the donor's name and donation amount. The goal is to ensure accurate and organized data is maintained for future reference and reporting. Please ensure that this form is completed accurately and completely to facilitate efficient communication and data management. 
-</thinking>
-
 # donation_request_communication_form - Help Guide
 ## Purpose
 The donation request communication form is used to collect information about a donation request for communication and record-keeping purposes.

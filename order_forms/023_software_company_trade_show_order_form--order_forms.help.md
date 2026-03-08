@@ -1,7 +1,3 @@
-<thinking>
-Internal note: This form is designed to collect information about a trade show order from potential customers. It appears to be used by sales teams to track and manage orders, customer interactions, and follow-up activities. This form seems to be part of a sales process, where sales contacts and orders are managed. 
-</thinking>
-
 # Software Company Trade Show Order Form - Help Guide
 ## Purpose
 This form is used to manage trade show orders, track sales contacts, and schedule follow-up activities for potential customers.

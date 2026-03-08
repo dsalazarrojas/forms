@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Album Order Confirmation - Help Guide
 ## Purpose
 The "Album Order Confirmation" form is used to confirm and finalize an album order. It ensures that all necessary details and approvals are in place before proceeding with production.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Courier Service Authorization Form - Help Guide
 ## Purpose
 The Courier Service Authorization Form is used to authorize shipments with a designated courier service. This form is typically required for customers who need to ship packages or goods via courier services such as Fedex, UPS, or USPS. The form helps to ensure that all necessary information is collected and authorized before shipment.

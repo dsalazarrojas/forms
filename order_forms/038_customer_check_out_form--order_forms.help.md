@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect customer information for check-out purposes. It is used to capture customer details such as their name, contact information, and order ID for record-keeping and customer service purposes. This form should only be filled out by customers who have made a purchase or have an existing order to provide accurate and up-to-date information.
 
 </thinking>

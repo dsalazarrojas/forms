@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help renters book audio cables for events or activities. It is meant to gather information from the renter, including contact details, event schedule, and inventory needs. The form will be used internally to process the booking request and ensure that the necessary equipment is available for the renter. Before proceeding, please confirm that you have the necessary information and permissions to book equipment for your event. If you're unsure, please reach out to us for assistance. 
-</thinking>
-
 # Audio Cable Supply Booking Form - Help Guide
 
 ## Purpose

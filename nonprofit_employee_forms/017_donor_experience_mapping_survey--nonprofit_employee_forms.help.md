@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather feedback from donors to improve the donor experience for a nonprofit organization. It is intended to be completed by the organization's donors, likely via email or other online means. The form will help the organization understand the donor's preferred method of communication, what type of feedback they would like to provide, and how often they would like to be contacted. It will also gather open-ended feedback on the donor experience, challenges the donor faces, and suggestions for improvement.
-
-Before filling out this form, ensure you are not duplicating any previous feedback or surveys you've completed for the organization. Your input is invaluable in helping us tailor our communication and services to better serve our donors.
-
-</thinking>
-
 # Donor Experience Mapping Survey - Help Guide
 ## Purpose
 This survey is designed to gather your feedback and preferences for communication and feedback. Your input will help us tailor our services to better serve you.

@@ -1,7 +1,3 @@
-<thinking>
-This guide assumes the form is used for real estate listing payment processing. To confirm, it is used to collect information from clients for payment of real estate listings. The form should not be used for any other purpose.
-</thinking>
-
 # Real Estate Listing Payment Form - Help Guide
 ## Purpose
 The Real Estate Listing Payment Form is used to collect payment information from clients for real estate listings. This form helps to efficiently process payments and keep track of payment details.

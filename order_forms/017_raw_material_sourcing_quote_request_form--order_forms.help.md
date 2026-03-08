@@ -1,7 +1,3 @@
-<thinking>Before we dive into the help guide, let's clarify the purpose and requirements of this form. The Raw Material Sourcing Quote Request Form is designed to collect essential information from customers to request quotes from suppliers for raw materials. This form likely helps the purchasing team or procurement department to gather details about the material needed, the supplier, and the terms of the quote.
-
-To ensure the form is filled out correctly, it's essential to understand the fields and their relevance to the procurement process.</thinking>
-
 # Raw Material Sourcing Quote Request Form - Help Guide
 ## Purpose
 The Raw Material Sourcing Quote Request Form is used to collect information from customers to request quotes from suppliers for raw materials. This form helps the purchasing team or procurement department to gather essential details about the material needed, the supplier, and the terms of the quote.

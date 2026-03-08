@@ -1,12 +1,3 @@
-<thinking>
-This form is for customers to place orders, providing personal and payment information. The form collects customer data, order details, and payment methods. It's essential to ensure the form's purpose is clear and the fields are accurately explained for end-users to complete it correctly.
-
-To prevent duplication, this form will be used in a specific context, such as in an e-commerce website or application, where customers can place orders and provide required information. 
-
-The purpose of this form is to collect customer information, order details, and payment methods for processing orders.
-
-</thinking>
-
 # online_shopping_form - Help Guide
 ## Purpose
 This form is used to place orders online, collecting customer and payment information for order processing.

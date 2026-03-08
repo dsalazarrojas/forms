@@ -1,5 +1,3 @@
-<thinking>...The Lead Air Monitoring Log form is used for recording and tracking data on lead levels in the air. It is a crucial tool for monitoring and documenting the quality of the air in a given area or environment. This form helps ensure that the data collected is accurate and consistent, providing a clear picture of the lead levels present. When filling out this form, please ensure that you are not duplicating an already existing entry, as this can lead to inaccurate records and hinder the effectiveness of the monitoring process.</thinking>
-
 # Lead Air Monitoring Log - Help Guide
 
 ## Purpose

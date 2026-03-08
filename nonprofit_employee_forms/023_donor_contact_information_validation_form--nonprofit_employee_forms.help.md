@@ -1,9 +1,3 @@
-<thinking>
-This form is used to validate and record donor contact information for non-profit organizations. It captures essential details about the donor, including phone number, email address, physical address, and other relevant information. The form is designed to be completed by donors or their representatives to provide accurate and up-to-date information.
-The form should only be completed once and not duplicated. 
-This form is intended for general use and not for specific fundraising campaigns.
-</thinking>
-
 # Donor Contact Information Validation Form - Help Guide
 ## Purpose
 This form is used to validate and record donor contact information for non-profit organizations.

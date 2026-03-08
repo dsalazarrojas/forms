@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to provide their contact information, team details, player list, required date, shipping address, design details, file upload, and order details for a uniform order. The form is intended to be completed by customers or clients who are placing an order for custom-made uniforms.
-</thinking>
-
 # sublimated_uniform_order_form - Help Guide
 ## Purpose
 This form is for customers to provide their contact information, team details, and other relevant data for a uniform order. Please fill out this form to place an order with us.

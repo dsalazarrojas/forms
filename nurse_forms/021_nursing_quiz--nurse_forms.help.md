@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of the Nursing Quiz form is to gather information about a patient's condition, medical history, and response to treatment. This form is designed to be completed by healthcare professionals to quickly and efficiently collect necessary data. 
-
-This form is a multiple-page, self-explanatory form that requires careful attention and completion. 
-
-To avoid duplication, please do not complete this form if the patient's information has been previously documented.
-
-</thinking>
-
 # Nursing Quiz - Help Guide
 ## Purpose
 This form is used to gather information about a patient's condition, medical history, and response to treatment. It helps healthcare professionals quickly and efficiently collect necessary data.

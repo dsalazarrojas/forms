@@ -1,7 +1,3 @@
-<thinking>
-This is likely a wedding-related form, so the form purpose should be related to planning or preparation for a wedding. Given the fields provided, the form is used for customers to input information about their wedding flower arrangements. It could be for wedding flower orders, planning or inquiry, or even a form for wedding flower vendors to gather customer details. I'll make sure to cover all the fields and provide a clear guide for the end users.
-</thinking>
-
 # Wedding Flower Order Form Template - Help Guide
 
 ## Purpose

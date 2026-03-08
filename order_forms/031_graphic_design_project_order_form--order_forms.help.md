@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication and ensure the correct completion of the form, please ensure you have read and understood the instructions and requirements for the Graphic Design Project Order Form. This form is designed to collect necessary information for the project's progress and completion. Please take a few moments to review each field's description and requirements carefully.
-</thinking>
-
 # Graphic Design Project Order Form - Help Guide
 ## Purpose
 The Graphic Design Project Order Form is a comprehensive form designed to collect all the necessary information for the successful execution and tracking of your project. It's essential to fill this form accurately to ensure that your project's requirements are met and progress can be tracked efficiently.

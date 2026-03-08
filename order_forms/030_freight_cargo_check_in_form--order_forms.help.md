@@ -1,7 +1,3 @@
-<thinking>
-The Freight Cargo Check In Form is used to collect information related to cargo check-in for freight operations. This includes tracking the status of cargo, identifying any issues during check-in, and gathering relevant details for internal documentation. The form should be completed for every cargo shipment to ensure accurate and timely check-in. Please ensure to complete each field as required and only if applicable to avoid inconsistencies. This form is designed for internal use only and is not intended for external use. Ensure to follow the standard operating procedures for cargo check-in to avoid delays and miscommunication.
-</thinking>
-
 # Freight Cargo Check In Form - Help Guide
 ## Purpose
 The Freight Cargo Check In Form is designed to collect necessary information for tracking and documenting cargo shipments.

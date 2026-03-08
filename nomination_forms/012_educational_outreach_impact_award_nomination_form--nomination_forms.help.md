@@ -1,11 +1,3 @@
-<thinking>
-To ensure the Educational Outreach Impact Award Nomination Form is completed correctly, the following internal reasoning should be applied:
-
-* The nomination form is designed to gather information on specific programs and their impact in the education sector. It is crucial to verify if the programs being nominated have actually occurred or have any real achievements before considering them for the award.
-* To prevent duplication, the form will only consider nominations from programs that have not been previously submitted or recognized.
-* The form's fields will be used to collect details on the name, organization, category, start and end dates, program name, description, achievements, organizers, and organizations involved in each nominated program.
-</thinking>
-
 # Educational Outreach Impact Award Nomination Form - Help Guide
 ## Purpose
 The Educational Outreach Impact Award Nomination Form is designed to collect information on outstanding programs that have a significant impact on education. The form is meant to help identify and recognize programs that have made a notable difference in the education sector.

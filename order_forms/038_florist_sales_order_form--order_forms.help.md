@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to facilitate orders of flowers from a florist, allowing customers to provide details such as the type of flowers, occasion, delivery date and time, customer information, and other relevant details. The form should be filled out accurately to ensure that the order is processed correctly and communicated effectively to the customer.
-The form is divided into multiple fields, each designed to capture specific information necessary for the order. Some fields are optional, and users can fill them out as needed.
-</thinking>
-
 # Florist Sales Order Form - Help Guide
 ## Purpose
 This form is used to place an order for flowers from the florist. To complete the form, fill out the fields as described below.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to verify a product recall, which is a critical process to identify and address potential safety issues or defects in products. The form collects information from customers, such as their name, order details, and contact information, which is essential for the manufacturer to investigate and resolve any issues. It's crucial to complete this form accurately and thoroughly to ensure that the product recall process is efficient and effective.
-</thinking>
-
 # Product Recall Verification Form - Help Guide
 ## Purpose
 This form is used to collect information from customers to verify product recalls. Please fill out the form accurately and completely to help us investigate and resolve any issues with your product.

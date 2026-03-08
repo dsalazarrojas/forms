@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users for themed party favor orders. The purpose of this form is to capture essential details such as contact information, party details, and order specifics to ensure accurate and efficient processing of themed party favors. Please ensure that you only fill out this form once for each themed party favor order to avoid duplication of efforts. 
-</thinking>
-
 # Themed Party Favor Order Form - Help Guide
 ## Purpose
 This form is used to collect order information for themed party favors. It captures essential details such as contact information, party specifics, and order information to ensure accurate and efficient processing of themed party favors.

@@ -1,8 +1,3 @@
-<thinking>
-This form is used to capture customer information and their breakfast order preferences.
-To avoid duplication, ensure you have not already completed this form in the past 24 hours.
-</thinking>
-
 # Breakfast Order Form - Help Guide
 ## Purpose
 The Breakfast Order Form is designed to collect customer information and their preferences for breakfast orders. It is used to gather details such as customer name, contact information, order type, and order preferences.

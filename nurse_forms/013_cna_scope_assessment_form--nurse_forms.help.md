@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to assess the competency and skills of a Certified Nursing Assistant (CNA) in various areas such as clinical skills, safety protocols, and overall competency. The form is meant to be completed by a supervisor or evaluator who has direct knowledge of the CNA's work performance and is used to identify areas where the CNA needs improvement or additional training. It is not intended for use as a formal evaluation tool by third-party agencies or for billing purposes. Please ensure that you are familiar with your facility's policies and procedures before completing this form.</thinking>
-
 # CNA Scope Assessment Form - Help Guide
 ## Purpose
 The CNA Scope Assessment Form is designed to evaluate the competency and skills of a Certified Nursing Assistant (CNA) in areas such as clinical skills, safety protocols, and overall competency.

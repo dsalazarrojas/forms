@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to be used for takeout subscription sign up purposes. 
-It is likely used by customers to provide their information for recurring orders of takeout food. 
-The form should be used to collect information from customers about their delivery preferences, payment methods, and other relevant details. 
-Please check that this form is not being duplicated or misused. 
-</thinking>
-
 # Takeout Subscription Sign Up - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather essential information from clients before finalizing a purchase, ensuring that their needs and expectations are understood and met. The form is intended to be completed by clients who are considering a purchase, and it helps to streamline the sales process by providing a clear and concise overview of their requirements and expectations. This form should not be completed by sales representatives or internal stakeholders. It's essential to fill out this form accurately and thoroughly to ensure that the sales team can provide the best possible service and support.
-</thinking>
-
 # Client Pre Purchase Action Plan - Help Guide
 ## Purpose
 This form is used to gather information from clients before finalizing a purchase, ensuring that their needs and expectations are understood and met.

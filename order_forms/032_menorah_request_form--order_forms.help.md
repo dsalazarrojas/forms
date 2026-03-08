@@ -1,7 +1,3 @@
-<thinking>
-To ensure that the Menorah Request Form is completed correctly, we first need to understand its purpose and ensure that it's not used for duplicate requests. The form is used by Menorah organizations to request resources and support from a central hub. Before filling out the form, check if the organization has previously submitted a request. If so, please refrain from resubmitting and instead, contact the central hub directly to update or follow up on the existing request. This guide will walk you through the form's fields and help you complete it accurately and efficiently.
-</thinking>
-
 # Menorah Request Form - Help Guide
 
 ## Purpose

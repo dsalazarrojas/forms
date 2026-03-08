@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Volunteer Recruitment Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential volunteers about their background, skills, and availability for a nonprofit organization. The form will help the organization assess whether the individual is a suitable candidate for volunteer work and determine the best fit for available positions.

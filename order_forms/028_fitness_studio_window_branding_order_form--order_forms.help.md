@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from end-users for ordering custom window branding at a fitness studio. The form is split into multiple pages, each with its own set of questions. This guide will walk the user through each page and provide an explanation of each field.
-
-Before proceeding, please note that some fields are marked as "select_multiple", which means the user can select more than one option. In such cases, the user can choose one or multiple options from the provided list.
-
-</thinking>
-
 # Fitness Studio Window Branding Order Form - Help Guide
 ## Purpose
 The Fitness Studio Window Branding Order Form is designed to collect information from end-users for ordering custom window branding at a fitness studio. This form is split into multiple pages, each with its own set of questions.

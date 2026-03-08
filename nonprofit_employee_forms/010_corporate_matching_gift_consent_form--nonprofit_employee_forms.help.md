@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to be used by employers to gather information from their employees about potential matching gifts that can be matched by the employer to increase the employee's gift. The purpose of this form is to facilitate the matching gift process, which can be a benefit for employees and the organization. This form is likely to be used in the nonprofit sector, where matching gifts are a common practice. The form is designed to be completed by employees who have identified a potential gift that they would like to be matched by their employer.
-
-To ensure that the form is filled out correctly, it is essential to understand the purpose and the context in which it is being used. This form is not a survey or a data collection tool, but rather a means to facilitate the matching gift process. The employer and employee information is crucial in this context, as it helps the organization to verify the employee's identity and the gift's legitimacy.
-
-The fields in this form should not be confused with any other form or survey, as this form is a unique adaptation of a public metadata source. Each field has a specific purpose, and the explanations below will help clarify the requirements for each field.
-
-</thinking>
-
 # Corporate Matching Gift Consent Form - Help Guide
 ## Purpose
 This form is intended to gather information from employees about potential matching gifts that can be matched by their employer to increase the employee's gift.

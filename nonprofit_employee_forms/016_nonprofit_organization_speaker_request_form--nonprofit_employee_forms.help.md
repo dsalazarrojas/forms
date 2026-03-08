@@ -1,29 +1,3 @@
-<thinking>
-Internal reasoning block to ensure this form is relevant and not duplicated:
-
-The Nonprofit Organization Speaker Request Form is designed to collect information from potential speakers for events organized by nonprofit organizations. This form is intended to streamline the process of finding suitable speakers for events, ensuring that all relevant details are captured and that the speaker's needs and requirements are considered. The form is not intended for other purposes, such as fundraising or donation requests, and is specific to speaker requests for nonprofit events. 
-
-The form collects the following information:
-
-- Event Information: Details about the event, including the date and location
-- Event Coordinator: Contact person for the event
-- Speaker Information: Biographical data about the speaker
-- Speaker Details: Additional details about the speaker, including requirements and qualifications
-- Speaker Requirements: Number of speakers needed, if applicable
-- Event Date: Date of the event
-- Event Time: Time of the event
-- Event Location: Venue of the event
-- Event Type: Type of event (e.g. conference, seminar, etc.)
-- Event Length: Duration of the event
-- Speaker Fee: Speaker's fee or compensation
-- Speaker Expense: Speaker's expenses or reimbursement needs
-- Speaker Experience: Any relevant experience or qualifications of the speaker
-- Event Organizers: List of event organizers or hosts
-- Event Organizers Contact: Contact information for event organizers
-
-This form is intended to be used for internal purposes only and will not be shared publicly.
-</thinking>
-
 # Nonprofit Organization Speaker Request Form - Help Guide
 
 ## Purpose

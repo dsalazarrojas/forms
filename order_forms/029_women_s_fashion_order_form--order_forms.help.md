@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Women's Fashion Order Form - Help Guide
 
 ## Purpose

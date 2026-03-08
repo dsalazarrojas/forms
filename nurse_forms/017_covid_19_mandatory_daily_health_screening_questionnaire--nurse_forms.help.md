@@ -1,8 +1,3 @@
-<thinking>
-The form was created using AI and is an original adaptation of publicly available information. It is not affiliated with or derived from any form platform, and it does not copy or extract proprietary content. This form is released under CC BY 4.0, allowing users to use, modify, and even sell forms derived from it, provided credit is given. Contact: form@gic.mx
-
-</thinking>
-
 # Covid 19 Mandatory Daily Health Screening Questionnaire - Help Guide
 ## Purpose
 The Covid 19 Mandatory Daily Health Screening Questionnaire is a form designed to gather essential information from patients about their health status, travel history, and potential exposure to COVID-19. This form is used to screen for symptoms and potential risks associated with COVID-19.

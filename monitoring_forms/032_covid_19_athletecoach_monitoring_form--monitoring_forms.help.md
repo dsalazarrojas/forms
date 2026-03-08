@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # COVID 19 AthleteCoach Monitoring Form - Help Guide
 ## Purpose
 This form is designed to help track and monitor the health and safety of athletes and coaches during the COVID-19 pandemic. It collects information on personal details, health status, and potential risks related to COVID-19. This data helps in ensuring a safe and healthy environment for all individuals involved in sports activities.

@@ -1,10 +1,3 @@
-<thinking>
-The goal of this form is to assist new e-commerce sellers in the onboarding process by gathering essential information about themselves and their store. This form is designed to be completed by the seller once they have been invited to join the e-commerce platform. The purpose of this form is to ensure that the seller provides accurate and complete information about themselves and their store, which will be used to facilitate a smooth and secure onboarding experience. Before starting, it's essential to review the form carefully to understand each field's requirements and purpose.
-
-This form is a one-time submission process, and it's not designed for frequent or repeated use. The information collected will be used to create a seller profile on the platform, which will serve as the foundation for future interactions and transactions.
-
-</thinking>
-
 # E Commerce Seller Onboarding Form - Help Guide
 ## Purpose
 This form is designed to guide you through the onboarding process as a new e-commerce seller on our platform. It's a crucial step in setting up your account and ensuring a smooth experience for both you and your customers.

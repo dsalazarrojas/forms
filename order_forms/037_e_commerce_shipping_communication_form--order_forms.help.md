@@ -1,17 +1,3 @@
-<thinking>
-The purpose of this form is to provide a flexible way to collect and display shipping information for ecommerce orders. The form allows users to choose their shipping preferences, service, and status, and provides a space to enter a tracking number and additional notes. This form can be used in various contexts, such as order tracking, shipping confirmation, or customer communication.
-To the best of my knowledge, there is no duplication of similar forms within the organization, and the provided fields are sufficient to cover the necessary information for the form's purpose.
-The form consists of 8 fields, each with its own specific purpose:
-- Shipping Preferences: allows the user to select their preferred shipping method.
-- Shipping Service: allows the user to choose between UPS, FedEx, and USPS.
-- Order Status: allows the user to select the current status of their order.
-- Shipping Date: allows the user to enter the date of shipment.
-- Shipping Time: allows the user to enter the time of shipment.
-- Tracking Number: allows the user to enter the tracking number for their shipment.
-- Notes: provides a space for additional notes or comments.
-- Contact Phone: allows the user to enter their contact phone number.
-</thinking>
-
 # e_commerce_shipping_communication_form - Help Guide
 ## Purpose
 The e_commerce_shipping_communication_form is a flexible form designed to collect and display shipping information for ecommerce orders.

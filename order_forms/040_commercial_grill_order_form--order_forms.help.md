@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Commercial Grill Order Form - Help Guide
 
 ## Purpose

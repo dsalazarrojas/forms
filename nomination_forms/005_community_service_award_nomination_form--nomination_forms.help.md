@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to collect information about a nominee for a community service award. The nomination process is open to all community members and is used to recognize and reward individuals who have made significant contributions to the community. This form helps to gather detailed information about the nominee's achievements, impact, and category of service. When filling out this form, please ensure that you have the necessary permissions from the nominee to do so.
-</thinking>
-
 # Community Service Award Nomination Form - Help Guide
 ## Purpose
 This form is used to nominate individuals for a community service award. It collects information about the nominee, the nominator, and the award category.

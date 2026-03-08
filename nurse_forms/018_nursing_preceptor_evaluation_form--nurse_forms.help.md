@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help nurses complete the "Nurse Preceptor Evaluation Form" to evaluate the supportiveness and performance of their preceptors. Please ensure the form is completed accurately and thoroughly to provide valuable insights. Before filling out this form, consider whether this evaluation is relevant to your specific needs and goals, and if it has not been previously completed for the same evaluation period. 
-</thinking>
-
 # Nursing Preceptor Evaluation Form - Help Guide
 ## Purpose
 The "Nurse Preceptor Evaluation Form" is designed to assess the effectiveness of preceptors in providing adequate support to new nurses. This form helps in identifying areas of improvement and providing valuable feedback to preceptors.

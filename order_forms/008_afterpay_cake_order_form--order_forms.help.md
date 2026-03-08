@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from customers for an "Afterpay Cake Order Form" used by a bakery. The form is intended to gather details about the customer, their order preferences, and payment options. It includes fields for customer name, email, date and time of delivery or pickup, event type (e.g., birthday, wedding, etc.), cake size and flavor, frosting type, message on the cake, and specific design instructions. The form also allows customers to select a payment option, including "Afterpay" for installment payments. The form is likely used to streamline the ordering process for customers and provide flexibility in payment options, which is suitable for a bakery that offers custom-made products.
-</thinking>
-
 # Afterpay Cake Order Form - Help Guide
 ## Purpose
 This form is designed to collect information for an "Afterpay Cake Order Form" used by a bakery. Please fill out the form to provide the necessary details for your custom cake order.

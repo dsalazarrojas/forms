@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users place pre-orders for art collections. The user will provide their contact information, select the artwork they wish to purchase, and specify their preferred delivery and payment details. The form is intended for both individual art collectors and institutions.
-</thinking>
-
 # Art Collection Pre Order Form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...This form is used to collect order details for website maintenance packages. It is designed for both internal and external users. To ensure accurate order completion, please review the order details carefully. If you're placing an order, please make sure you have the necessary information and permissions. If you're processing an order, please verify the details before submission. This form should not be used for other purposes. To complete the form, please select the correct package, payment method, and provide the required information. Note that some fields are optional, but please ensure that all required fields are filled out correctly. If you're experiencing issues with the form, please contact the support team for assistance...</thinking>
-
 # website_maintenance_package_order_form - Help Guide
 ## Purpose
 This form is used to collect order details for website maintenance packages. It's designed for both internal and external users to place or process website maintenance orders. Please review the form carefully to ensure accurate order submission.

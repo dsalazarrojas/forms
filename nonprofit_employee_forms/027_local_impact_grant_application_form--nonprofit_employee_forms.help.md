@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## local_impact_grant_application_form - Help Guide
 ## Purpose
 

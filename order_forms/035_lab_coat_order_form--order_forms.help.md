@@ -1,15 +1,3 @@
-<thinking>
-
-This is a form for creating a lab coat order. To create a new lab coat order, you will need to fill out the following information. 
-
-This form is for ordering lab coats for employees in a specific department. To ensure accuracy, please note that you must select a valid department from the list of options. If you are unsure of the department name, please check with your supervisor or refer to the company directory. 
-
-Please note that some fields are marked as "required", meaning they must be filled out for the form to be submitted successfully. In this case, the "Department" field is a required field, as it ensures that the lab coat order is sent to the correct department. 
-
-This form is typically used by employees of a company to order lab coats for their department. 
-
-</thinking>
-
 # Lab Coat Order Form - Help Guide
 ## Purpose
 The purpose of this form is to help employees order lab coats for their department.

@@ -1,12 +1,3 @@
-<thinking>
-I'm considering the form purpose as a tool for educators, instructors, or administrators to order homework help for students. The form is likely intended for use in educational settings, such as universities, colleges, or online courses. The form collects information about the student, their homework details, and specific requirements, including the subject, question, assigned tool, and tool ID. This form is not intended for commercial use or as a general-purpose homework help platform.
-
-The form seems to be designed for a specific audience (educators) and has a clear structure with a focus on collecting relevant information. I'm assuming the form is not meant for public access or open submission, but rather for internal use within a restricted group.
-
-I will proceed with creating the help guide based on this understanding.
-
-</thinking>
-
 # Homework Help Order Form - Help Guide
 ## Purpose
 The Homework Help Order Form is designed to collect information from educators for ordering homework help for students. It is intended for use in educational settings, such as universities, colleges, or online courses.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect customer information, delivery address, and order details for scented candles. The purpose of this form is to facilitate the customer's order process, ensuring that all necessary information is gathered accurately. This form should not be used for any other purpose, and any duplication or misuse may lead to inaccurate order processing. Please ensure that only customers complete this form for their orders. 
-</thinking>
-
 # scented_candle_order_form - Help Guide
 ## Purpose
 The scented_candle_order_form is designed to collect customer information, delivery address, and order details for scented candle orders. This form ensures that all necessary information is gathered accurately to process orders efficiently.

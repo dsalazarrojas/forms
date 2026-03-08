@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about the patient's vaccination history, status, and other related details. It is intended for healthcare professionals to gather accurate and up-to-date information about patients undergoing vaccination. The form is divided into various sections that cater to different aspects of vaccination, including survey completion status, history, status, and other related details.
-</thinking>
-
 # mandatory_vaccination_survey - Help Guide
 ## Purpose
 The Mandatory Vaccination Survey form is used to collect and record important information about a patient's vaccination history, status, and related details. This form helps healthcare professionals ensure that patients receive the necessary vaccinations to prevent the spread of diseases and maintain public health.

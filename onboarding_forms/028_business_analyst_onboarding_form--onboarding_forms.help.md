@@ -1,5 +1,3 @@
-<thinking>Business Analyst Onboarding Form: Ensure the employee has completed the form accurately and completely, without missing any required fields. This form is intended for business analysts onboarding process, ensuring they can effectively start their new role. This form is meant to be completed once, at the beginning of employment, and should not be resubmitted unless there has been a significant change in the information provided.</thinking>
-
 # Business Analyst Onboarding Form - Help Guide
 ## Purpose
 The Business Analyst Onboarding Form is a collection of questions and fields that gather relevant information about your personal and professional background, experience, and requirements for a successful onboarding process in your new role as a business analyst.

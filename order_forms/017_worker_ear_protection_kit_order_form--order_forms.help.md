@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to gather information from workers who need to order ear protection kits. The form is used to collect the worker's name, company, department, whether they need a hearing protection kit, the quantity of kits required, and their delivery address. The form is intended for workers who are ordering ear protection kits for themselves or their team members. This form is not intended for non-workers or non-employees. Please make sure you have the necessary permissions to order ear protection kits before proceeding. Please note that this form is designed to be completed by workers, not managers or other personnel.
-
-This form is part of a larger workflow that will likely involve the distribution of ear protection kits to the workers who need them. The quantity of kits required and their delivery address will be used to determine how many kits to order and where to deliver them.
-
-Before starting the form, please make sure you have all the necessary information ready, such as your department and the quantity of kits you need.
-
-The form is divided into 2 pages. Page 1 will ask for the worker's name and company. Page 2 will ask for the department, whether they need a hearing protection kit, quantity required, and delivery information.
-</thinking>
-
 # Worker Ear Protection Kit Order Form - Help Guide
 ## Purpose
 

@@ -1,12 +1,3 @@
-<thinking>
-To determine the form's purpose and relevance, I reviewed the input schema to identify key components and potential business logic. Based on the schema, this form is likely used for catering or food delivery services. It appears to collect order information for a party tray, which could be used for various occasions such as corporate events, social gatherings, or personal celebrations. To avoid duplication, this form is probably intended for single-party orders, and not for bulk or recurring orders.
-
-The form's fields seem to cover essential details for the order, including the party tray type (hot or cold), size (small, large, or extra large), delivery details (date and time), delivery method (in-house or pickup), and contact information (email and phone). 
-
-The "party_tray_note" field suggests an opportunity for users to add any additional information about the order, such as special requests or dietary restrictions. This form does not appear to be designed for complex or intricate order details but rather for straightforward party tray orders.
-
-</thinking>
-
 # Deli Party Tray Order Form - Help Guide
 ## Purpose
 The Deli Party Tray Order Form is used to collect information for catering or food delivery orders for parties, corporate events, or other social gatherings. 

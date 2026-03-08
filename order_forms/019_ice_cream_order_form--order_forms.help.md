@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Ice Cream Order Form - Help Guide
 
 ## Purpose

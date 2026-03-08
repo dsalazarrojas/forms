@@ -1,12 +1,3 @@
-<thinking>
-This form is a digital check-in tool designed for rehabilitation centers to document daily activities, interactions, and progress of residents. It is intended to be completed by rehab center staff members on a daily basis, providing a snapshot of the resident's status and any notable events or observations from the session. This form should only be used for recording daily activities and progress, and not for long-term assessments or evaluations.
-
-The form is designed to be simple and easy to use, with fields that guide the staff member through the necessary information collection process.
-
-Before proceeding, please ensure that you are authorized to access this form and understand its purpose and usage guidelines.
-
-</thinking>
-
 # Rehabilitation Center Daily Activity Check In Form - Help Guide
 
 ## Purpose

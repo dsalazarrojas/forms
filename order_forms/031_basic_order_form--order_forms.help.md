@@ -1,10 +1,3 @@
-<thinking>
-Is this form intended to collect information from customers for a basic order, such as a product purchase or service request? Are there any existing documentation or help guides that cover similar forms that I can reference to ensure consistency in the explanations and structure of this help guide?
-
-To confirm, I will output the final help guide in Markdown format.
-
-</thinking>
-
 # Basic Order Form - Help Guide
 ## Purpose
 The Basic Order Form is used to collect information from customers for a basic order, such as a product purchase or service request. This form helps gather essential details about the customer, their order, and payment information.

@@ -1,5 +1,3 @@
-<thinking>As a screen printing expert, I understand that this form is designed to gather information from customers for screen printing orders. This form will be used to collect necessary details from customers, including their name, email, phone number, shipping address, any order comments, payment method, order status, and customer notes. The form is crucial in ensuring that the order is processed efficiently and accurately. To prevent errors, it's essential to fill out this form correctly and thoroughly, as it will be used to communicate with the customer and finalize the order.</thinking>
-
 # Screen Printing Order Form - Help Guide
 ## Purpose
 This form is designed to gather information from customers for screen printing orders. It will be used to collect necessary details from customers, including their name, email, phone number, shipping address, any order comments, payment method, order status, and customer notes.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to place an order for limited edition products. It is intended for customers to provide information about themselves and their order details. To avoid duplication, please do not submit this form if you have already placed an order for this product.
-</thinking>
-
 # Limited Edition Drop Order Form - Help Guide
 ## Purpose
 This form is intended for customers to place orders for limited edition products. It allows customers to provide information about themselves and their order details.

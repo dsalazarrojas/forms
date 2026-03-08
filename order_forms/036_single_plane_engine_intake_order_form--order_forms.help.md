@@ -1,17 +1,3 @@
-<thinking> 
-  This guide is for the Single Plane Engine Intake Order Form, used to collect information from customers for engine orders. 
-  The form is used to gather details about the customer, order, and shipping information. 
-  Before starting, please ensure you have all the necessary information about the customer and their order ready. 
-  Please note that the form has multiple pages with various fields for different aspects of the order. 
-  Please fill out the form accurately and thoroughly to ensure the order is processed correctly. 
-  If you have any doubts or need clarification, please refer to this guide for help. 
-  If you need to revisit or edit your order, you can do so by referring to the order status section of the form. 
-  Before proceeding, please review the form carefully to ensure you have all the required information. 
-  This form is designed to be completed by the customer, but please ensure you have their authorization to access and complete this form on their behalf. 
-  If you are unsure about any field, please refer to the corresponding section below for clarification. 
-  To complete the form, follow the instructions below: 
-  </thinking>
-
 # Single Plane Engine Intake Order Form - Help Guide
 ## Purpose
 The Single Plane Engine Intake Order Form is used to collect information from customers for engine orders. It gathers details about the customer, order, and shipping information to ensure accurate processing of the order.

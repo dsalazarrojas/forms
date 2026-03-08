@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to be a comprehensive onboarding tool for social media marketing clients. It aims to gather essential information from new clients, including general information, business objectives, social media presence, contact details, phone number, notes, assigned user, review status, and form ID. This form is intended to be used by businesses or individuals looking to onboard their clients quickly and accurately. It is not affiliated with any form platform, and its content is generated based on public survey topic metadata.
-
-</thinking>
-
 # Social Media Marketing Client Onboarding Form - Help Guide
 ## Purpose
 This form is designed to help new clients provide necessary information to onboard with your social media marketing efforts. Please fill out this form to ensure a smooth and efficient onboarding process.

@@ -1,8 +1,4 @@
-> <thinking>
-This form is a general-purpose, AI-generated order form designed for collecting customer information in a simple and efficient manner. It was created using public metadata from various online sources and is intended for use in any industry. Please note that this form is an original adaptation and not affiliated with any form platform. It is released under a permissive license, allowing users to use, modify, and even sell forms derived from it, as long as they give credit. The form's purpose is to collect customer details for orders, and it includes fields for customer information, address, and name.
-</thinking>
-
-# Updated Order Form Fall 2020 - Help Guide
+> # Updated Order Form Fall 2020 - Help Guide
 
 ## Purpose
 The purpose of this form is to collect customer information for orders in a simple and efficient way.

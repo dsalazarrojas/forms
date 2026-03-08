@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Statement Candle Order Form", it's essential to understand that the form's purpose is to gather information from customers about their candle order, including contact details, candle preferences, and order specifics. This form is likely used by customers to place orders with a merchant or store that sells candles. To ensure non-duplication, it's crucial to review the form fields and their purposes carefully, so we can provide the most accurate and concise help guide.
-</thinking>
-
 # Statement Candle Order Form - Help Guide
 ## Purpose
 The Statement Candle Order Form is designed to collect information from customers for placing orders with a merchant or store that sells candles. This form is intended for customers to provide their details and preferences for the order.

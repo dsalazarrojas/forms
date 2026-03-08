@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect information for a catering order. The purpose of this form is to allow customers to easily select their menu preferences and provide relevant details about their event. By using this form, customers can ensure that their catering needs are accurately met. The form is designed to be easy to navigate and requires a minimum amount of information, making it convenient for the customer to submit their order.
-
-</thinking>
-
 # Comprehensive Menu Selection - Help Guide
 ## Purpose
 The Comprehensive Menu Selection form is designed to collect all necessary information for a catering order, ensuring that the customer's needs are met accurately and efficiently.

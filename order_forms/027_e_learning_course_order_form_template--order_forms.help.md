@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for ordering e-learning courses. It is a template for customers to provide their information and order course materials. The form is designed to collect relevant details from the customer, including their name, email, phone number, course title, price, quantity, payment method, date, time, and any additional notes or comments. The form is intended to provide a comprehensive overview of the order.
-
-</thinking>
-
 # e-learning-course-order-form-template - Help Guide
 ## Purpose
 The e-learning-course-order-form-template is a form used to order e-learning courses. It is designed to collect customer information and details about the order.

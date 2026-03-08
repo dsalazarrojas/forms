@@ -1,8 +1,3 @@
-<thinking>
-The Youth Advisory Committee (YAC) Application Form is designed to collect information from youth members who wish to join the YAC. This form is intended for youth who are interested in participating in the YAC and have been nominated by a parent or guardian. The form is used to verify the applicant's eligibility and gather necessary contact information.
-To avoid duplication, please do not submit multiple applications. If you have already submitted an application, you will receive an email with further instructions.
-</thinking>
-
 # Youth Advisory Committee (YAC) Application Form - Help Guide
 ## Purpose
 The Youth Advisory Committee (YAC) Application Form is designed to collect information from youth members who wish to join the YAC. This form is intended for youth who are interested in participating in the YAC and have been nominated by a parent or guardian. The form is used to verify the applicant's eligibility and gather necessary contact information.

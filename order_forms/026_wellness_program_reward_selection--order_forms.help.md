@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is designed to assist users in selecting a wellness program reward. Users can choose their reward preferences and provide any additional feedback about their experience with the wellness program. This form is likely intended to be filled out by participants in a wellness program.
 
 </thinking>

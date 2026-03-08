@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from customers regarding their refund requests, allowing them to specify details about the order they'd like to refund, including the order ID, the reason for the refund (issue description), the amount they'd like to refund, the type of refund (e.g. Refund Amount or Refund Store Credit), and other relevant details such as the date and time of purchase. It's essential to ensure that each customer's refund request is processed efficiently and accurately, hence the need for a clear and comprehensive form.
-Before filling out this form, please ensure that you only submit it once per order. If you're looking to refund an order, we recommend reviewing the provided form carefully to ensure you've included all the necessary information.
-</thinking>
-
 # Customer Refund Timeline Request Form - Help Guide
 ## Purpose
 This form is used to collect information about customers' refund requests, enabling us to process their requests accurately and efficiently.

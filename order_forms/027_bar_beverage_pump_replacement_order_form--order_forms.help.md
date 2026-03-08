@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to guide bar and restaurant establishments in placing a pump replacement order. The form will help to ensure that all necessary information is collected to facilitate a smooth and efficient replacement process. This form will be reviewed internally to confirm the order details and to assign a proper replacement timeline based on the provided information, such as urgency level and required installation service.
-
-Before filling out this form, please ensure that all necessary information is accurate and completed in full. Please note that all fields marked as "required" must be filled in to complete the form.
-
-</thinking>
-
 # Bar Beverage Pump Replacement Order Form - Help Guide
 
 ## Purpose

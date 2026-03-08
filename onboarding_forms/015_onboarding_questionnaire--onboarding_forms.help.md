@@ -1,8 +1,3 @@
-<thinking>
-This help guide will cover the onboarding_questionnaire form, which seems to be a form used for collecting new employee onboarding information. Before getting started, let's quickly review the form's purpose and fields. The form is intended to gather details about new employees, including their job titles, departments, reporting managers, onboarding status, and any other relevant information.
-
-To ensure accuracy and completeness, the form's fields will be explained in detail below, covering the following sections: Purpose, How to Complete This Form, and Field-by-Field Explanation.
-</thinking>
 # onboarding_questionnaire - Help Guide
 ## Purpose
 The onboarding_questionnaire form is used to collect information about new employees during the onboarding process. This form will help gather essential details to facilitate a smooth transition for the employee.

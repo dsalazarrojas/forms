@@ -1,6 +1,3 @@
-<thinking>
-This is a form designed to help users order furniture for their fitness studios. The form allows users to select the type of furniture they need, enter any additional information they'd like to note about the order, and input their contact information for communication with the studio staff. The form also enables users to specify the number of each item they'd like to order. The fields in this form are used to gather information about the order such as what type of furniture is being ordered, the customer's contact details, and the staff member responsible for handling the order. This form seems to be used for both internal and external users, including staff members and customers. The form's fields should be filled out accordingly.</thinking>
-
 # Fitness Studio Furniture Order Form - Help Guide
 ## Purpose
 The Fitness Studio Furniture Order Form is a form designed to gather information about the furniture orders from customers.

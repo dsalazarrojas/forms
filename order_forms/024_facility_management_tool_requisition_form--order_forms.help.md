@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users to request facility management tools, such as tools, equipment, or supplies. The form is likely to be used by facilities management teams to gather information about the tools and equipment needed for their operations. Before filling out this form, please ensure that you have already checked the facilities management team's inventory to avoid duplication of requests. If you are unsure about the purpose or requirements of this form, please contact the facilities management team for clarification.
-</thinking>
-
 # Facility Management Tool Requisition Form - Help Guide
 
 ## Purpose

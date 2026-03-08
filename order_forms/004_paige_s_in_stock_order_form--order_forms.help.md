@@ -1,10 +1,3 @@
-<thinking> 
-To create a helpful guide for the "paiges_in_stock_order_form", I'll first break down the form's purpose and requirements. The form seems to be designed for users to provide personal details for an order or stock request. Given the fields provided in the YAML schema, it appears to be a straightforward form for gathering customer or user information. There are four fields: "first_name", "last_name", "address", and "phone". The form likely aims to collect basic contact information for further communication. Since all fields are not required, users can choose which details they're comfortable sharing.
-
-For this guide, I'll ensure it's concise, practical, and easy to understand, focusing on providing clear explanations for each field without overcomplicating the form's purpose or logic.
-
-</thinking>
-
 # paiges_in_stock_order_form - Help Guide
 ## Purpose
 The "paiges_in_stock_order_form" is a straightforward form designed to collect personal details for order or stock requests. Please fill in the form with your basic contact information for further communication.

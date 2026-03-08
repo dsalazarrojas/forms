@@ -1,8 +1,3 @@
-<thinking>
-This help guide will cover the purpose and completion process of the "Matilda Jane February 2022 Pre Order Form." The form is designed to collect pre-order information for the February 2022 collection, which is intended for customers to place their pre-orders in advance. It's essential to review each field carefully to ensure accuracy and completeness. This guide will walk you through each section to help you fill out the form confidently.
-
-</thinking>
-
 # Matilda Jane February 2022 Pre Order Form - Help Guide
 ## Purpose
 This form is for customers to place pre-orders for the February 2022 collection from Matilda Jane.

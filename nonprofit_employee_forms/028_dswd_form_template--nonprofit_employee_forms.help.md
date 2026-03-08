@@ -1,11 +1,3 @@
-<thinking>
-This form is likely used for administrative purposes within a non-profit organization, specifically for tracking and managing services provided to clients. 
-The form might be used to record details about each service, such as service type, client information, and case managers or service providers. 
-However, without further context, it's difficult to confirm the exact purpose and scope of the form. 
-It's possible that the form is used for multiple tasks, including client intake, case management, and service review. 
-This form template appears to be a comprehensive document with multiple fields, suggesting that it's a complex form used for a variety of administrative tasks.
-</thinking>
-
 # DSWD Form Template - Help Guide
 ## Purpose
 The DSWD Form Template is used to record and track services provided to clients by non-profit organizations.

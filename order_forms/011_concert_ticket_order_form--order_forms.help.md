@@ -1,5 +1,3 @@
-<thinking> This form is intended for customers to order concert tickets for various events. The form allows users to select the event they wish to attend, choose their preferred date and seating section, specify the number of tickets they would like to purchase, enter their contact information, and select their preferred delivery option. The form also includes fields for payment information, including the payment method, and a terms and conditions agreement. Users must select the concert event, date, and seating section, which are all required fields. The payment method and terms agreement are also required. The form is designed to be user-friendly and easy to navigate, with clear labels and explanations for each field. </thinking>
-
 # Concert Ticket Order Form - Help Guide
 ## Purpose
 This form is a user-friendly way to order concert tickets for various events. It guides the user through selecting the event, date, and seating options, and provides an opportunity to enter contact information and select delivery preferences. 

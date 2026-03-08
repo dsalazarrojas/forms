@@ -1,22 +1,3 @@
-<thinking> 
-This form is intended to gather order details from customers, including shipping information, order date, time, and status. The order details section allows customers to provide their order specifics, while the shipping details section allows them to select their preferred shipping option. The date and time fields are for specifying the order date and time, respectively. The notes section is for any additional comments or notes. The order status field allows customers to select their order status. The email and phone number fields are for contact information. This form is likely used for orders that require specific delivery times or shipping options.
-
-Please note that some fields are not required, as indicated by the `required: false` property. This means that customers can leave these fields blank or select options that do not apply to their order.
-
-The form is split into multiple pages, but the page structure is not explicitly defined in the YAML inputSchema. Therefore, the "pages" property is not further analyzed in this guide.
-
-The fields in this form have the following types:
-- Text: `order_details`, `phone_number`
-- Select Multiple: `shipping_details`
-- Date: `order_date`
-- Time: `order_time`
-- Note: `notes`
-- Select One: `order_status`
-- Email: `email`
-
-This form does not explicitly define a submission button or confirmation mechanism, so we assume that once the form is completed, it will be submitted by clicking a button not shown in this schema. 
-</thinking>
-
 # Mpox Care Kit Order Form - Help Guide
 ## Purpose
 

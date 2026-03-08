@@ -1,12 +1,3 @@
-<thinking> 
-This form is intended for use by employees, typically CNAs (Certified Nursing Assistants), to request restoration of their shift or position after being off work due to various reasons such as medical leave, temporary or medical clearance issues, or other administrative reasons. The form is a request for consideration and approval for a restoration of the CNA's shift or position. 
-
-To avoid duplication, the form is only accessible to authorized users, usually HR or management personnel, who can initiate the request and ensure that the form is not re-submitted for the same reason.
-
-The form collects information to support the employee's request for restoration, including their personal details, employment status, reasons for restoration, and supporting documentation. It also allows supervisors and HR to review and acknowledge the request, adding an additional layer of verification and validation to the process.
-
-Please note that the fields below are used to guide you through the process of creating a proper request for shift restoration. Please ensure accuracy and thoroughness in filling out this form. <</thinking>
-
 # CNA Shift Restoration Request - Help Guide
 ## Purpose
 The CNA Shift Restoration Request form is designed to gather information for employees who are seeking restoration of their shift or position after being off work due to various reasons. This form is a crucial tool for HR and management to process requests and assess the appropriateness of the employee's restoration based on the provided information.

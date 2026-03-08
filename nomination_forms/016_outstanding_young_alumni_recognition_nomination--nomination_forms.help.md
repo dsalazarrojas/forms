@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Outstanding Young Alumni Recognition Nomination - Help Guide
 ## Purpose
 The purpose of this form is to collect information for the Outstanding Young Alumni Recognition program. This program aims to recognize and honor young alumni who have achieved outstanding accomplishments and made a positive impact in their field.

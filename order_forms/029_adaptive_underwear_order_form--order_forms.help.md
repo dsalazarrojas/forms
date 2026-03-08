@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect information for the adaptive underwear order process, specifically for customers with sensitive skin or medical requirements. It's intended for customers who may require customized or specialized garments due to their condition. By filling out this form, the customer provides necessary information for accurate garment selection and shipping. 
-
-The following sections are not required but can be filled out at the customer's discretion: 
-
-* Caregiver / Representative Name (if applicable)
-* Special Requirements / Material Allergies (e.g. latex-free, 100% cotton only)
-* Delivery Instructions
-
-The form will not be processed if any of the required fields are left blank. The customer will be prompted to complete all required fields before proceeding. This form will help us to fulfill orders accurately and provide the best experience for our customers with sensitive skin or medical conditions. 
-</thinking>
-
 # Adaptive Underwear Order Form - Help Guide
 ## Purpose
 The Adaptive Underwear Order Form is designed to collect information for adaptive underwear orders, ensuring accurate and personalized garment selection for customers with sensitive skin or medical requirements.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture customer requests for music DVDs from a merchant. The form is meant to collect information from the merchant to fulfill the customer's music DVD requirements. The form is not a duplicate request form and should only be submitted once per music DVD request. This guide will walk you through how to fill out the form correctly.
-</thinking>
-
 # Music DVDs Request Form - Help Guide
 
 ## Purpose

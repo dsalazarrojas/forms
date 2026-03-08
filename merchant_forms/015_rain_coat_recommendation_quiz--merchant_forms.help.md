@@ -1,10 +1,3 @@
-<thinking>
-To clarify the purpose of this form, we'll first check if it's for a merchant or business use case. Given the form's title "Rain Coat Recommendation Quiz" and the fields included, it seems to be a form designed to help customers or prospects determine the best rain coat for their needs and preferences. The form asks for basic contact information, location and activities, budget, and purchase intent, among other things. This form likely aims to provide a more personalized recommendation for the customer, considering their specific needs and preferences. 
-
-We'll make sure to break down each field clearly in the help guide below. 
-
-</thinking>
-
 # Rain Coat Recommendation Quiz - Help Guide
 ## Purpose
 The Rain Coat Recommendation Quiz is designed to help you find the best rain coat that suits your needs and preferences. Please answer the following questions to get a personalized recommendation.

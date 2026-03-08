@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form appears to be for collecting information about delivering a weatherproof television to a customer. It likely includes details about the delivery schedule and any notes or instructions for the delivery process. 
 
 To complete this form, the user will enter their delivery details, including the date and time, the address where the TV will be delivered, their email and phone number, and any specific instructions or notes. The form may be used for internal use within an organization or company that handles deliveries.

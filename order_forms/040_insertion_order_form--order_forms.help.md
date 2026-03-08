@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information about an advertisement order, including customer details, ad placement, dates, and payment terms. The form is divided into multiple pages with distinct fields for each section.
-
-It seems that this form is intended for use in the advertising industry, and the fields cover a range of topics such as customer information, ad media, payment terms, and order notes. However, I don't see any obvious indication that the form is specific to a particular business or industry, so it may be a generic form for general use.
-
-Before proceeding, please ensure that you have the necessary information and permissions to complete this form.
-
-</thinking>
-
 # Insertion Order Form - Help Guide
 ## Purpose
 The Insertion Order Form is a tool used to collect information about an advertisement order, including customer details, ad placement, dates, and payment terms.

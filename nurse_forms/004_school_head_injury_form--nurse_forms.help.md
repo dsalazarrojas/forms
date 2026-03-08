@@ -1,14 +1,3 @@
-<thinking>
-This form seems to be a School Head Injury Form, designed to collect information about a student's head injury incident. To ensure I understand the form's purpose correctly, let me analyze the provided YAML fields:
-- The form has 10 fields, which suggests it's a comprehensive data collection form.
-- Fields 1-2, 3-4, and 9-10 seem to be grouped together, with fields 1-2 likely collecting general information (student's first and last name), 3-4 collecting their date of birth, 5 collecting their grade level, and 10 collecting additional information about the incident.
-- Fields 6-8 are focused on collecting details about the injury incident: date, time, and location.
-Given this understanding, the form's purpose appears to be to collect data about a student's head injury incident for reporting, documentation, or other administrative purposes.
-
-This form seems to be designed for a specific context (school head injury) and doesn't overlap with other forms in the "nurse_forms" category.
-
-To ensure I provide an accurate and practical help guide, please let me know if my understanding is correct or if I've missed anything.</thinking>
-
 # School Head Injury Form - Help Guide
 ## Purpose
 The School Head Injury Form is a data collection form used to report and document student head injuries that occurred at school. This form helps administrators gather necessary information for incident documentation, reporting, and possible follow-up actions.

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is being used for its intended purpose and not duplicated. This form is intended to collect votes for the board chair position, and each field should be filled out accordingly. It's crucial that users understand the requirements for eligibility and the process of submitting a vote. The form is designed to be completed by individuals who wish to vote for the board chair position, and their vote should be verified with a signature. The submission date is recorded to track when the vote was submitted. This form should not be used for any other purpose than board chair voting.
-</thinking>
-
 # Charity Board Chair Voting Form - Help Guide
 ## Purpose
 The purpose of this form is to collect votes for the board chair position from eligible members of the organization. This form ensures that each voter's identity and role within the organization are verified before casting their vote.

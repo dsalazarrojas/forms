@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information from applicants who wish to participate in the Automated Order Routing Pilot Application. The form is used to gauge interest and gather relevant information from potential participants to better understand their business needs and operational processes. This will help the development team to tailor the pilot program to meet the specific requirements of the applicants.
 
 The form is divided into four main sections: Applicant Information, Operational Details, Implementation and Logistics, and Terms and Agreements. Each section collects specific information related to the applicant's business and operational processes.

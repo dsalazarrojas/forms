@@ -1,15 +1,3 @@
-<thinking>Here is an internal reasoning block to explain the form purpose and avoid duplication:
-
-The "Birthday Cake Order Form" is a form designed to collect information from customers to place an order for a custom birthday cake. The form is divided into several sections, each with a specific purpose:
-
-* "Customer Information" section gathers information about the customer such as name, email, phone number, and address.
-* "Order Details" section collects details about the cake size, flavor, and decorations.
-* "Delivery Information" section includes fields for the desired delivery date, time, and method.
-* "Pricing and Payment" section displays the base price of the cake, decoration price, and delivery fee.
-* "Birthday Celebrant" section is used to gather information about the birthday person's name, age, and theme or interests.
-
-This form serves as a central hub for customers to provide all the necessary details to place their order. By following these steps, customers can ensure they have provided all the required information and the order is processed correctly.</thinking>
-
 # Birthday Cake Order Form - Help Guide
 
 ## Purpose

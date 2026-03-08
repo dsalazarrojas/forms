@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sanitizer Order Form - Help Guide
 ## Purpose
 The Sanitizer Order Form is a form used for customers to place orders for sanitizers. The purpose of this form is to collect relevant information from customers to process their orders efficiently and accurately.

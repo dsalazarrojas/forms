@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, my goal is to create a user-friendly help guide that makes it easy for end-users to complete the Covid 19 Pandemic Assistance Application Form. This form is intended for individuals seeking help during the pandemic, and its purpose is to gather essential information about the applicant's contact details, work experience, education, and skills. By providing clear and concise instructions, I'll help users navigate the form effortlessly.</thinking>
-
 # Covid 19 Pandemic Assistance Application Form - Help Guide
 ## Purpose
 The Covid 19 Pandemic Assistance Application Form is designed to collect information about individuals who are seeking help during the pandemic. Please fill out this form with accurate and complete information to ensure your application is processed efficiently.

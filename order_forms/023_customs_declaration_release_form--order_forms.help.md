@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "customs_declaration_release_form" form, we need to first understand its purpose and the reasoning behind its creation. The form is likely used to collect information related to the release of shipments from customs, and its purpose is to ensure that the required data is accurately collected and properly recorded.
-
-Upon further review, it appears that this form is designed to collect basic information about shipments, including details about the shipper, the shipment status, and any relevant notes or contact details. It seems to be a straightforward form that requires minimal data entry from the user.
-
-Given the form's simplicity and focus on basic information, the form likely doesn't require extensive knowledge or expertise from the user. However, it's essential to make sure that the user understands what each field represents and what information is expected from them.
-
-</thinking>
-
 # customs_declaration_release_form - Help Guide
 
 ## Purpose

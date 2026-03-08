@@ -1,8 +1,3 @@
-<thinking>
-This form is for new users to onboard into the Crowd Marshal system, providing essential information about their event experience, preferred modes of communication, contact details, and role in the event. This form is not intended for users already familiar with the system, and filling it out will help us understand their needs and tailor our services for their success.
-
-</thinking>
-
 # Crowd Marshal Onboarding Survey - Help Guide
 ## Purpose
 The Crowd Marshal Onboarding Survey is designed to gather essential information about new users and help us understand their needs. This guide will walk you through each field to ensure you complete the form accurately and effectively.

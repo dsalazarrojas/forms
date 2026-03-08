@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from clients regarding their database optimization needs. This form will help the team gather essential details to provide an optimized quotation for the client's database requirements. It is recommended to fill out this form for each client to ensure accurate and timely services. Please make sure to fill out this form only once you have received instructions from the client or have a good understanding of their needs.
-
-Before proceeding, ensure that the client's instructions are clear, and there is no duplication of efforts in creating this form. This form should only be used to gather information for new database optimization projects, not for existing ones.
-
-</thinking>
-
 # Database Optimization Quotation Form - Help Guide
 ## Purpose
 This form is used to collect information from clients about their database optimization needs, which will help the team create an accurate and timely quotation.

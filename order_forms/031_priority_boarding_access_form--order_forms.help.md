@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Priority Boarding Access Form - Help Guide
 ## Purpose
 The Priority Boarding Access Form is used to collect essential information for priority boarding access purposes. This form is intended for customers who require priority boarding on their flights. It is crucial to provide accurate and complete information in this form to ensure a smooth and efficient boarding experience.

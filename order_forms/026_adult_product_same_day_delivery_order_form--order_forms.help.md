@@ -1,13 +1,3 @@
-<thinking>
-
-As a expert form designer and technical writer, I have carefully reviewed the provided YAML form definition. The main purpose of this form is to collect customer information, delivery details, product selections, and payment information for the adult product same-day delivery order. 
-
-The form is likely designed for customers who want to take advantage of a same-day delivery service for adult products, which may include age-restricted items. The form's purpose is to ensure that the customer provides accurate and complete information for a smooth and secure delivery experience.
-
-To prevent duplication, the form likely stores the customer's data in a database and checks for existing orders or customer information before processing the form submission. This is a standard practice to avoid multiple orders for the same customer or products.
-
-</thinking>
-
 # Adult Product Same Day Delivery Order Form - Help Guide
 
 ## Purpose

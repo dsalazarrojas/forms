@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to capture information for a fall launch nails order. The purpose of this form is to collect details from customers for a nail polish order, including their personal and shipping information, order details, and payment method. This form is likely used by a business or service provider that offers nail polish services.
-Please ensure that you are filling out this form for a genuine purpose and not for spamming or misusing. The form will be reviewed internally to prevent duplication or unnecessary submissions.
-</thinking>
-
 # fall-launch-nails-order-form - Help Guide
 ## Purpose
 

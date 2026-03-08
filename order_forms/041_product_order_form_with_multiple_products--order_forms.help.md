@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information about products ordered by a customer. It is likely intended for use in an e-commerce or retail setting, where customers can select multiple products to purchase. Before proceeding, please ensure you are not duplicating a previously completed order. Please fill out the form only once per order.
-</thinking>
-
 # Product Order Form With Multiple Products - Help Guide
 ## Purpose
 This form is used to collect information about the products you want to order.

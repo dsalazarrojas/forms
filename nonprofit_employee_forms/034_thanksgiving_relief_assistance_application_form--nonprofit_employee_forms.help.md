@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Thanksgiving Relief Assistance Application Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for fundraising campaign communication. It is designed to collect information about a fundraising campaign, including the campaign's data, goal, target, budget, donors, status, and other relevant details. The form is intended to be completed by staff members or other authorized personnel who need to manage and track fundraising campaigns. The purpose of this form is to facilitate communication between staff and donors, and to provide a centralized repository of campaign data. This form should not be used for general fundraising activities or other purposes not related to campaign communication.
-</thinking>
-
 # Fundraising Campaign Communication Form - Help Guide
 ## Purpose
 The Fundraising Campaign Communication Form is used to collect and track information about fundraising campaigns, enabling staff members to effectively communicate with donors and manage campaign data.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # easter_lily_order_form - Help Guide
 ## Purpose
 This form is designed to collect information about Easter Lily orders. It is intended for customers to provide details about their orders, including delivery dates, times, addresses, and status updates.

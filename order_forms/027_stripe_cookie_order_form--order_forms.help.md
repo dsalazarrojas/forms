@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to be used for ordering cookies, and it appears to be collecting billing information for a payment method. I will assume that the form is being used for e-commerce purposes and that the "billing" section is actually for payment details, not just billing in a traditional sense. I will also assume that the date fields are for tracking order dates, not just form submission dates. I will also assume that the "Form Submitted By" field is for tracking who submitted the form, and the "Form Submitted On" field is for tracking when the form was submitted.
-
-This form is likely being used for a cookie shop or a business that sells cookies online. The form is quite extensive and seems to be collecting a lot of information, but it's likely that the different fields are being used for different purposes. For example, the "Cookie Order Form" field is likely the main form title, and the "Cookie Type" field is for selecting the type of cookie being ordered. The "Quantity Ordered" field is likely for tracking how many cookies are being ordered, and the "Special Instructions" field is for any special requests or comments from the customer.
-
-I will do my best to explain each field in a way that makes sense based on these assumptions.</thinking>
-
 # stripe_cookie_order_form - Help Guide
 ## Purpose
 This form is used to order cookies and collect payment information for the order.

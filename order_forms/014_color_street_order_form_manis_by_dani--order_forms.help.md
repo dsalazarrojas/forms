@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to place orders for Color Street products. The form is intended for individuals or businesses seeking to purchase products on a monthly basis. The purpose of this form is to collect information from customers, including their name, email address, phone number, shipping address, and payment details. The form guides customers through selecting the sets they want to purchase and provides options for payment and shipping methods. This form is meant to be used by Manis By Dani, but it is possible that this form could be used by other parties with similar business purposes.
-</thinking>
-
 # Color Street Order Form - Manis By Dani - Help Guide
 ## Purpose
 This form is used for customers to place orders for Color Street products on a monthly basis. It is intended for individuals or businesses seeking to purchase products regularly.

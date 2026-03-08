@@ -1,15 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the online shopping survey form, I'll first analyze the form's purpose and fields. The form seems to be designed to collect information from customers about their shopping experience. However, without more context, it's hard to pinpoint the specific goals of the form. I'll assume the form is meant to gather demographic, purchase, and satisfaction data from customers.
-
-Upon reviewing the fields, I notice that all fields are of type `text`, which suggests that the form is intended to collect open-ended responses from customers. The `required` field is set to `false` for all fields, which means that respondents are not obligated to provide answers.
-
-The form's fields appear to be divided into distinct categories, such as customer, contact, order, product, purchase, satisfaction, demographic, and store information.
-
-Given this analysis, I'll create a user-facing help guide that explains the form's purpose, completion instructions, and each field's meaning. I'll aim to be concrete, concise, and practical in my explanation.
-
-</thinking>
-
 # Online Shopping Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your shopping experience. We want to understand your thoughts, preferences, and satisfaction with our online store. Your responses will help us improve our services and better serve you in the future.

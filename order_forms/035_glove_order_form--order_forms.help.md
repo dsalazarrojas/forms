@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to place orders with suppliers. The form collects information about the supplier, the type and color of the glove, the quantity ordered, and other relevant details. The form will be used to process orders and communicate with suppliers.
-</thinking>
-
 # Glove Order Form - Help Guide
 ## Purpose
 The Glove Order Form is a tool used to collect information from suppliers for order purposes.

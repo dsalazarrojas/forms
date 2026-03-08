@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Material Handling Pallet Order Form - Help Guide
 
 ## Purpose

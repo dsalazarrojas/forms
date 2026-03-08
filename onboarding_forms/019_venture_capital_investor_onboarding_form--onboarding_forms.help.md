@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used for venture capital investors to onboard their firm's information for the purpose of potential investments, partnerships, or collaborations. It's designed to gather necessary information from investors to facilitate a smooth onboarding process. The fields are categorized into several sections to make it easier for investors to provide the required information.
 
 # Venture Capital Investor Onboarding Form - Help Guide

@@ -1,5 +1,3 @@
-<thinking>... internal reasoning block ...</thinking>
-
 This form is designed to collect information from massage therapy clients for billing purposes. It is an original form created using public survey metadata, and is intended to be a helpful tool for massage therapists to efficiently gather necessary information from their clients. To avoid duplication, this form is not based on any specific proprietary platforms or their data collection tools.
 
 # Massage Therapy Billing Form - Help Guide

@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to be used by employees of nonprofit organizations to fill out a corporate social responsibility (CSR) membership form. The form is designed to collect information about employees and their companies. The form will be used to help build a network of CSR initiatives and promote collaboration among nonprofit employees. Before filling out this form, please ensure that your company's information is up-to-date and accurate.
-
-This form is not affiliated with, endorsed by, or derived from any form platform. It is an original adaptation created using AI and is released under the Creative Commons BY 4.0 license. You are free to use, modify, and even sell forms derived from it, just give credit.
-</thinking>
 # corporate_social_responsibility_network_membership_form - Help Guide
 ## Purpose
 The corporate social responsibility network membership form is designed to collect information about employees and their companies, helping to build a network of CSR initiatives and promote collaboration among nonprofit employees.

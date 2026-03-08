@@ -1,10 +1,3 @@
-<thinking>
-The form purpose is to create a sales receipt book template, a document that captures essential details about a transaction between a company and a customer. The form will guide users to input their sales receipt information in a structured and organized manner. 
-
-Before proceeding, consider if the form is being used for a specific scenario or purpose in your organization, such as for internal sales tracking, external audit trails, or regulatory compliance. Also, ensure you haven't created a duplicate form for the same purpose to avoid redundancy and maintain a consistent form library.
-
-</thinking>
-
 # Sales Receipt Book Template - Help Guide
 ## Purpose
 The sales receipt book template is used to create a standardized document for capturing sales receipt details. This template helps in maintaining accurate and organized records of transactions.

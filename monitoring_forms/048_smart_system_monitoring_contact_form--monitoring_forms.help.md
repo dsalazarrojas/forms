@@ -1,11 +1,3 @@
-<thinking>
-This form is for users to submit their feedback, comments, or concerns regarding the Smart System Monitoring system. It is designed to be completed by those who want to provide their input on the system's performance, features, or issues they have encountered. The form should only be filled out once per user, as duplicate submissions may cause confusion or redundancy in the system's analytics.
-
-To ensure that your input is properly recorded, please do not submit multiple forms. If you need to update or modify your previous submission, please contact the form administrators at <form@gic.mx>.
-
-Please note that this form is not for commercial use, and any data collected through this form will be used solely for internal purposes by the Smart System Monitoring team.
-</thinking>
-
 # Smart System Monitoring Contact Form - Help Guide
 ## Purpose
 The Smart System Monitoring Contact Form is designed for users to provide feedback, comments, or concerns about the Smart System Monitoring system. This form will help us gather your input to improve the system's performance and features.

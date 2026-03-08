@@ -1,6 +1,3 @@
-<thinking>
-This form is used to request modifications or additions to the custom invoicing system. The custom invoicing system is a key component of the billing process that allows businesses to track and manage their billing operations efficiently. This form helps ensure that the system is accurately updated with the requested modifications or additions, reducing the risk of errors or missed changes. To avoid duplication, please ensure you have not already submitted a request for this modification or addition. If you're unsure, you can check the status of your previous requests in the system.</thinking>
-
 # Custom Invoicing System Request Form - Help Guide
 ## Purpose
 This form is used to request modifications or additions to the custom invoicing system. It ensures that the system is accurately updated with the requested modifications or additions, reducing the risk of errors or missed changes.

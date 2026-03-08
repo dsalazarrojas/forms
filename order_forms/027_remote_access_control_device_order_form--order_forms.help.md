@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for remote access control device orders. This form is likely used in a business-to-business or business-to-consumer scenario where customers or clients are ordering remote access control devices. The form's purpose is to gather relevant details about the order, including the device type, delivery date and time, shipping information, order notes, contact details, email, and phone number. This form may be used by sales teams, customer support, or other departments to streamline the ordering process and improve customer experience. It's essential to ensure that the form is filled out correctly to ensure accurate and timely fulfillment of the order.
-
-Before proceeding, ensure that you have the necessary information and permissions to complete this form accurately. If you're unsure about any of the fields, please consult with your supervisor or a relevant department.
-
-</thinking>
-
 # remote_access_control_device_order_form - Help Guide
 ## Purpose
 This form is used to collect information for remote access control device orders, allowing for accurate and timely fulfillment of the order.

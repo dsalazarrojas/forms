@@ -1,5 +1,3 @@
-<thinking>As a Community Outreach volunteer, you will play a vital role in our mission to serve the community. This application form is a crucial step in our selection process. Before starting, please make sure you have not submitted your application previously, as duplicate applications will not be accepted. Please complete this form carefully and thoroughly, providing accurate and honest information. Your responses will be kept confidential and used solely for volunteer placement and management purposes.</thinking>
-
 # Community Outreach Volunteer Application Form - Help Guide
 ## Purpose
 This form is designed to gather information about your personal details, volunteer interests, availability, and background to help us determine the best fit for your volunteer position. We value your honesty and accuracy in filling out this form.

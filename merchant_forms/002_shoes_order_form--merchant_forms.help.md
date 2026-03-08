@@ -1,8 +1,3 @@
-<thinking>
-The Shoes Order Form is used to capture important information for a customer's shoe order. It collects details such as shoe design, size, quantity, color, and contact information. The form also asks for delivery details, including date and time. Additionally, it includes fields for payment method, payment amount, payment details, order note, terms and conditions, special requests, shipping details, and customer and merchant signatures.
-To avoid duplication, this form should only be completed by a customer who has not already placed an order or is not an authorized merchant representative.
-</thinking>
-
 # Shoes Order Form - Help Guide
 ## Purpose
 The Shoes Order Form is a vital document for capturing essential information for a customer's shoe order. It ensures that all necessary details are collected to process the order smoothly and efficiently.

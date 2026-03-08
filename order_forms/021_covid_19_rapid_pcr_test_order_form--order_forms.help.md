@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to help users place orders for COVID-19 Rapid PCR test kits. The form will gather contact information, delivery address, quantity of kits, payment method, shipping speed, billing contact information, and order authorization details. This form is used for ordering purposes only and is not intended for internal use within the organization. Please ensure that the information provided is accurate and relevant to the order. This form will not be reused for other purposes and should only be used for COVID-19 Rapid PCR test orders.
-</thinking>
-
 # COVID 19 Rapid PCR Test Order Form - Help Guide
 ## Purpose
 This form is designed to help you order COVID-19 Rapid PCR test kits. Please complete this form carefully to ensure accurate and timely delivery of your order.

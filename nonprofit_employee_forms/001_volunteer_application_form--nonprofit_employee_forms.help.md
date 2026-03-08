@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is for volunteer applications. Its purpose is to collect information about an individual's volunteer availability and preferences. This form will be used to determine which volunteer opportunities are most suitable for the applicant based on their availability and qualifications.
 
 </thinking>

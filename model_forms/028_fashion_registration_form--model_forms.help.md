@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about fashion events and participants. It is likely used for event planning, management, or registration purposes in the fashion industry. The form includes fields for participant information, such as name, email, phone number, and notes, as well as fields for fashion event information, such as event name, date, time, and notes. This form is likely used to keep track of participant attendance, event schedules, and other relevant details.
-
-Please ensure you have read this guide carefully to understand the form's purpose and how to complete it without any confusion. If you have any questions or doubts, please contact your supervisor or support team for further clarification.
-
-</thinking>
-
 # Fashion Registration Form - Help Guide
 
 ## Purpose

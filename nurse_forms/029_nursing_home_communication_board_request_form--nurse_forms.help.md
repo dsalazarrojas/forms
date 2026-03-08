@@ -1,9 +1,3 @@
-<thinking>
-The form is designed to be used by nursing home staff to request communication with a resident, either directly or through a third-party contact. It captures the resident's information, the type of communication, and other relevant details. The form ensures that staff can track and follow up on communication requests, providing a clear and efficient way to manage resident communication.
-
-
-</thinking>
-
 # Nursing Home Communication Board Request Form - Help Guide
 ## Purpose
 The Nursing Home Communication Board Request Form is used to create and manage requests for communication with residents in a nursing home. This form is essential for ensuring that staff can effectively communicate with residents and their families.

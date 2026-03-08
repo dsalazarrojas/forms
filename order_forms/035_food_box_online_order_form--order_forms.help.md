@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for online food box orders. The form is divided into four sections: Customer Information, Contact, Order, and Order Details. The form is meant to be completed by customers who want to place an order for a food box, providing their contact information and order specifics. The form is likely used by a business or organization that offers food boxes as a product or service. The form's fields are likely used to gather contact information for follow-up purposes, as well as order details such as date and time of delivery, order total, and any special instructions or requests.
-</thinking>
-
 # Food Box Online Order Form - Help Guide
 
 ## Purpose

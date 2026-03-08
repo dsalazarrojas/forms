@@ -1,12 +1,3 @@
-<thinking>
-This form is used to gather information from new employees during the onboarding process. The form will ask for basic employee details such as name and email, as well as department and manager information. The purpose of this form is to ensure that all new employees are properly integrated into the organization's system and can be easily contacted by their manager and department. This form will help to prevent duplication of efforts and ensure that all necessary information is collected from new employees.
-
-Before filling out this form, please make sure that you have not already completed it. If you have already completed this form, you can disregard this guide and proceed directly to the submission of your answers.
-
-Please note that this form has multiple pages and will guide you through the completion process page by page.
-
-</thinking>
-
 # rfp_employee_live_on_purpose_form - Help Guide
 
 ## Purpose

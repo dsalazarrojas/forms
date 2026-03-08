@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Package Delivery Check Out Form - Help Guide
 ## Purpose
 The Package Delivery Check Out Form is a user-facing form designed to collect information from customers for efficient package delivery. This form is intended to ensure accurate and timely delivery of packages, allowing customers to communicate their delivery preferences and any special instructions for their packages.

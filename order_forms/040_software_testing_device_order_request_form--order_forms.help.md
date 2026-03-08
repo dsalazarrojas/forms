@@ -1,16 +1,3 @@
-<thinking>
-This form appears to be designed for requesting software testing devices, but it doesn't clearly state its purpose or the intended audience. It's possible that this form is for internal use within an organization or for external customers. A more concrete explanation could be provided, such as "This form is for requesting software testing devices, and the intended audience is internal employees who require testing devices for their work." However, without further information about the organization's policies or the specific use case, it's difficult to provide a more detailed explanation.
-
-Before proceeding, I would like to ask for more details about the form's purpose and intended audience to better understand how to tailor the help guide.
-
-If the form is intended for external customers, it might also be useful to mention how the request will be reviewed and processed, such as "The request will be reviewed and processed by the testing team, and the customer will be informed about the status of their request via email or phone." 
-
-Assuming the form is for internal use, it might be useful to mention that the request will be reviewed and processed by the internal team, and the requester will be informed about the status of their request via internal communication channels.
-
-The form appears to be asking for a lot of information about the device, ship method, and ship details, which might be useful for logistics and tracking purposes. However, it's not immediately clear why some fields are optional while others are required.
-
-If you have more information about the form's purpose and intended audience, I can help create a more tailored help guide for the form.</thinking>
-
 # Software Testing Device Order Request Form - Help Guide
 ## Purpose
 This form is for requesting software testing devices for internal use within our organization.

@@ -1,8 +1,3 @@
-<thinking>
-This form seems to be a custom order form for business cards, where users can provide information to place an order. The form asks for personal details such as first name, last name, company, email, phone, address, and card specifications like type, quantity, color, and material. It also includes fields for customizing the card with a custom image and message, as well as options for card size and finish. The form is likely used to place orders for business cards with various customizations. I will create a help guide that explains how to complete the form and what each field means.
-
-</thinking>
-
 # RBA Business Card Order Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for customers to report issues with their shipping containers. The form is designed to gather necessary information to troubleshoot and resolve any problems that may have occurred during shipping. To ensure that the form is used correctly, we need to make sure that the form fields are filled out accurately and completely. This form is not for general feedback or support requests, so please use it only when you have a specific issue with your shipping container. Please do not use this form to report issues that are not related to shipping containers.
-</thinking>
-
 # shipping_container_issue_complaint_form - Help Guide
 ## Purpose
 The shipping_container_issue_complaint_form is used to report issues with your shipping containers. Please use this form to report any problems that occurred during shipping, such as damage, missing items, or other issues.

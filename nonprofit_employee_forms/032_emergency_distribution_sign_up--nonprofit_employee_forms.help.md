@@ -1,7 +1,3 @@
-<thinking>
-The Emergency Distribution Sign Up Form is used to register individuals and households in need of emergency assistance. Before filling out this form, please ensure that you're not already registered and that your household's needs align with the options provided. To fill out this form, select the correct information for each field as instructed.
-</thinking>
-
 # emergency_distribution_sign_up - Help Guide
 ## Purpose
 The Emergency Distribution Sign Up Form is used to register individuals and households in need of emergency assistance. This form helps gather essential information about the household and their needs, ensuring that the correct support is provided in a timely and effective manner.

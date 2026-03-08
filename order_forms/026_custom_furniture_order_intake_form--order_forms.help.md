@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers who want to place a custom order for furniture. The form is used to gather details about the customer's preferences, delivery requirements, and payment method, as well as any additional notes or comments they may have. This information will be used to process their order and ensure that their custom furniture is delivered correctly and on time.
-
-This form is designed to be completed by customers who have already interacted with our sales team or have been referred to this form by a sales representative. It is not intended for general public use.
-
-Before starting, please ensure you have all the necessary information ready, as some fields may be required or have specific formatting requirements. If you are unsure about any field, please consult with our sales team or contact us for clarification.
-</thinking>
-
 # Custom Furniture Order Intake Form - Help Guide
 ## Purpose
 The Custom Furniture Order Intake Form is designed to collect information from customers who want to place a custom order for furniture.

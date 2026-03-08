@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for sports league event decor orders. It appears to be a general-purpose form for event organizers to gather details about their events, including decor selections, event dates, venues, payment information, and other relevant details.
-Please note that the form has a mix of select_multiple, select_one, and text fields, which might suggest it's designed for various types of events or has conditional logic based on the user's selection. I'll assume it's a standard form for event organizers to input their event details.
-</thinking>
-
 # Sports League Event Decor Order Form - Help Guide
 ## Purpose
 This form is designed to collect information for sports league event decor orders, including event details, payment information, and other relevant specifics.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Project Estimate Submission Form - Help Guide
 ## Purpose
 This form is designed to gather project details for estimation purposes. It is used to collect information about a project's scope, timeline, and other relevant details. Please fill out the form completely and accurately to ensure that the project is estimated correctly.

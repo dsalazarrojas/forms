@@ -1,8 +1,3 @@
-<thinking>
-The Rotary Membership Form is used for individuals to sign up as members of a Rotary club. The form requires personal contact information, such as name, email, phone number, and address, as well as information specific to the Rotary club, like the club name and membership type. This is a general form for various clubs, so make sure to only fill it out once for each club you're interested in joining, instead of duplicating it for each club.
-The form is divided into several sections, each with a specific purpose. The first section captures the individual's personal details, while the second section is dedicated to Rotary club-specific information. Please fill out the form accurately and thoroughly.
-</thinking>
-
 # Rotary Membership Form - Help Guide
 ## Purpose
 The Rotary Membership Form is a user-friendly form for signing up as a member of a Rotary club.

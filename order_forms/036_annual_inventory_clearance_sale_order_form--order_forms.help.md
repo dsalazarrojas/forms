@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to capture information from customers interested in purchasing products during an annual inventory clearance sale. The form collects customer contact information, order details, and payment and delivery preferences. To complete this form, customers must provide their full name, email address, phone number, and billing and shipping addresses. They must also select the year they are interested in purchasing from, their customer type, and the products categories they are interested in. Furthermore, customers need to provide details about their order, including the quantity of items, their condition preferences, and the minimum discount they are looking for. Customers must also choose their preferred delivery method and payment method. The form does not require customers to provide their company name if they are not a business customer. Additionally, customers are asked if they are interested in receiving marketing communications and if they have any special instructions or comments. Finally, customers must accept the terms and conditions before submitting their order.
-</thinking>
-
 # Annual Inventory Clearance Sale Order Form - Help Guide
 ## Purpose
 This form is designed to help customers place orders during the annual inventory clearance sale. It collects necessary information for processing the order and provides options for customers to choose their preferences.

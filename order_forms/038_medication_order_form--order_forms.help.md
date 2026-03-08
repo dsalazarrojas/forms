@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a user-facing help guide for the "medication_order_form" form. I'll follow the provided YAML fields to ensure a clear and concise explanation of each field's purpose and functionality.</thinking>
-
 # medication_order_form - Help Guide
 ## Purpose
 The "medication_order_form" is a form used to order medications. This guide will walk you through the process of completing the form, explaining each field's purpose and requirements.

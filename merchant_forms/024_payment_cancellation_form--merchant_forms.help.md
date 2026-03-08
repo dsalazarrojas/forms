@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Payment Cancellation Form - Help Guide
 
 ## Purpose

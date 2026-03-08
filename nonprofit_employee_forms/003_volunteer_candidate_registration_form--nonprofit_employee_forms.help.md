@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from potential volunteers for a nonprofit organization. The goal is to gather demographic data and areas of interest to facilitate the volunteer process and match volunteers with suitable opportunities. The form should not be completed by existing staff members or current volunteers.
-
-To avoid duplication, it is recommended to check the organization's internal database for any existing records before completing this form.
-
-</thinking>
-
 # Volunteer Candidate Registration Form - Help Guide
 ## Purpose
 This form is used to collect information from potential volunteers for the nonprofit organization. It helps the organization understand the volunteer's demographic data and areas of interest, making it easier to match volunteers with suitable opportunities.

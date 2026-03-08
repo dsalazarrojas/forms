@@ -1,12 +1,3 @@
-<thinking>
-This form is used to confirm the details and agreements of a work trial, a temporary work arrangement for a participant. The purpose of this form is to gather all relevant information and confirm the agreements of all parties involved in the work trial. This includes participant details, dates, duration, and other necessary information. It is essential to ensure that each field is accurately filled out to ensure the form is completed correctly, and all parties have a clear understanding of the agreements.
-
-Please note that this form is not a substitute for the actual employment contract, and the participant and HR/Recruiter should review and sign the form carefully before proceeding.
-
-Also, please ensure that you are not duplicating this form for other participants in the same work trial, as it may cause confusion.
-
-</thinking>
-
 # Work Trial Agreement Confirmation - Help Guide
 ## Purpose
 The Work Trial Agreement Confirmation form is used to confirm the details and agreements of a work trial, a temporary work arrangement for a participant.

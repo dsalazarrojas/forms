@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a template for collecting user information and feedback, possibly for a petition or advocacy purpose related to the nonprofit sector. The form likely aims to gather input from employees of non-profit organizations, and the categories provided are likely for them to specify their role within their organization. The form may be used to monitor employee engagement, feedback, or to create an internal database of employee contributions or ideas. To avoid duplication, ensure that each field is filled out correctly and provide unique information for each submission. The form's categories seem to be focused on employee categorization, and any additional information can be entered through the 'additional_information' field.
-</thinking>
-
 # Good Cause Petition Form - Help Guide
 ## Purpose
 

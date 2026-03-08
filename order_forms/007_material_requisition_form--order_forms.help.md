@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to help users collect information related to material requisition requests within an organization. It is designed to gather details about the request such as the date, the person making the request (the requisitioner), and a description of the materials required. The form also includes fields to select multiple and single options from a set of choices.
-
-Before proceeding, please ensure that you have reviewed and understood the purpose and guidelines of this form. This form is not intended to be a comprehensive resource for all possible scenarios, and some fields may not be applicable to your specific situation. If you are unsure about any field or its relevance, please consult with the relevant personnel or contact the form administrator at form@gic.mx.
-
-To avoid duplication, please do not submit multiple requests for the same material requisition. If you need to make a change or addition to a previously submitted request, please use the provided contact information to reach out to the administrator for assistance.
-
-</thinking>
-
 # Material Requisition Form - Help Guide
 ## Purpose
 This form is designed to collect information about material requisition requests within an organization.

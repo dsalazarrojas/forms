@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to capture information related to e-commerce analytics device orders. The purpose of this form is to collect detailed information about orders, including order details, shipping details, payment information, customer information, and order totals. It's likely used in an e-commerce platform or analytics system to process and analyze orders. This form may not be intended for general public use, but rather for internal use by authorized personnel within the organization.</thinking>
-
 # E Commerce Analytics Device Order Form - Help Guide
 ## Purpose
 This form is used to collect detailed information about e-commerce analytics device orders.

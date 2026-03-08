@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to document the handover process between an employee and their manager. It captures essential details for a smooth transition, ensuring a thorough knowledge transfer. This form is likely to be used internally within an organization to facilitate the handover process. The form should only be used for this specific purpose and should not be used for any other use case. By providing a clear and concise explanation, this form will guide users through the handover process with minimal effort.
-
-This form does not contain any personal identifiable information, and the data collected will be used solely for internal purposes.
-</thinking>
-
 # Employee Handover Documentation - Help Guide
 ## Purpose
 The Employee Handover Documentation form is designed to streamline the handover process between an employee and their manager. This form ensures that all necessary information is exchanged, and the handover process is completed efficiently.

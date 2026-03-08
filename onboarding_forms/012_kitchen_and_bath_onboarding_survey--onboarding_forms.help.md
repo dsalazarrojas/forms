@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from users for onboarding purposes. It is intended to collect the necessary details for the user to be onboarded into the system. This form is part of the onboarding process, and the information collected will be used to tailor the onboarding experience for the user. Please make sure to fill out the form accurately and completely to ensure a smooth onboarding process.
-
-</thinking>
-
 # Kitchen And Bath Onboarding Survey - Help Guide
 
 ## Purpose

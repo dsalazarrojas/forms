@@ -1,12 +1,3 @@
-<thinking>
-This form, "order_confirmation_form," is used for customer-facing order confirmation purposes after a transaction has been made. It's designed to collect relevant information from customers to ensure a smooth and accurate fulfillment process.
-
-Before proceeding, please ensure the form is not duplicated or used for any other purpose other than its intended use for order confirmation. This form does not collect any sensitive or personal identifiable information but rather aims at maintaining a record of the order.
-
-Please note, the fields and their labels are self-explanatory and should be filled as required or as per the field type.
-
-</thinking>
-
 # order_confirmation_form - Help Guide
 ## Purpose
 This form is used to collect customer information for order confirmation and to ensure a smooth fulfillment process. It is designed to be completed by customers after making a transaction.

@@ -1,11 +1,3 @@
-<thinking>
-This form is used to check in a client for landscaping services. The form is used by service providers to collect information about the client and their requested service. It is likely used by a landscaping business to gather information about clients and their needs prior to starting a service call. This form is part of a larger process for managing client interactions and ensuring that services are provided in a timely and effective manner.
-
-The form is designed to be completed by clients, who will input their information and sign on completion. Each field is carefully selected to gather relevant information to help the service provider understand the client's needs and provide the best possible service.
-
-To avoid duplication, this form should not be used for other purposes, such as creating new client accounts or managing existing client accounts. If you are unsure about the purpose or usage of this form, please consult with your supervisor or the IT department.
-</thinking>
-
 # Landscaping Service Check In Form - Help Guide
 ## Purpose
 This form is used to gather information from clients about their landscaping service needs.

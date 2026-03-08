@@ -1,10 +1,3 @@
-<thinking>
-This form is for ordering vehicles, and it's meant to capture various details about the vehicle and the order. It's not a payment form, but rather a form for capturing order information. It seems like this form is used for sales or order management purposes.
-
-To avoid duplication, the form should only be filled out once for each vehicle order.
-
-</thinking>
-
 # Vehicle Order Form - Help Guide
 ## Purpose
 The Vehicle Order Form is designed to collect information about vehicles being ordered. This form is not meant for payments, but rather for recording order details.

@@ -1,12 +1,3 @@
-<thinking>
-The form "new_book_collection_donation_form" is designed to collect information from users for new book collections. This form aims to gather details about the type of books, condition, quantity, and other relevant information from users who want to donate books to the organization. The form is intended to be used in a non-profit setting.
-
-To ensure that each field is filled out correctly, the form will check for duplicate entries to prevent errors and inconsistencies in the data. The form will also validate the input data to ensure that it meets the required standards.
-
-The form has multiple pages, but for the sake of this guide, we will focus on the fields that are currently available.
-
-</thinking>
-
 # new_book_collection_donation_form - Help Guide
 ## Purpose
 The new_book_collection_donation_form is designed to collect information from users for new book collections.

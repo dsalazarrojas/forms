@@ -1,9 +1,3 @@
-<thinking>
-This onboarding form is designed to collect information from new employees about their background, experience, and work history within the Technology Accelerator Manager (TAM) role. The form aims to ensure that all new team members have a smooth and efficient onboarding experience.
-To ensure that the onboarding process is completed properly, please only fill out this form once you have been assigned a new employee or have been invited to the onboarding process by the TAM team.
-To prevent duplication, please note that the onboarding process is only necessary when starting a new role within the TAM team.
-</thinking>
-
 # Technology Accelerator Manager Onboarding Form - Help Guide
 ## Purpose
 This form is a necessary step for new Technology Accelerator Managers to complete in order to ensure a smooth onboarding process and to provide necessary information about their background, experience, and work history within the TAM role.

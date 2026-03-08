@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Appreciation Message Form - Help Guide
 ## Purpose
 This form is used to recognize and show appreciation to an employee for their outstanding work or contributions. The form allows you to select a nominee, write a personal message, choose a routing path (e.g. who to inform), follow-up action (e.g. send a thank-you note), and review the appreciation process (e.g. date, time, and location).

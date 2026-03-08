@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for healthcare professionals to bill their services to clients, and it is crucial that the user fills out this form accurately and completely to ensure proper billing and service tracking. Before proceeding, ensure that the form is being used for the correct purpose and that the client information is up-to-date. This guide will walk you through each section of the form and explain its significance in helping you complete it correctly and efficiently.
-</thinking>
-
 # Health Coaching Billing Form - Help Guide
 ## Purpose
 This form is used to bill healthcare services provided to clients. Completing this form ensures that you accurately report services provided, payment details, and billing information.

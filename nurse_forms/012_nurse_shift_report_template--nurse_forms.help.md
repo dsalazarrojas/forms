@@ -1,12 +1,3 @@
-<thinking>
-This form is likely being used for nurses to document their shifts, providing a standard format for reporting key information about patients they have cared for during their shifts. This information could be used for administrative purposes, such as billing or quality assurance.
-The shift start and end times will likely be recorded to track the duration of the shift and provide an accurate record of when care was provided.
-The nurse's worked hours will be calculated based on the reported shift duration.
-Patient ID, vital signs, medications administered, and medications refused will be recorded for documentation and future reference.
-This form is likely used on a regular basis, such as at the end of each shift or on a daily basis.
-
-</thinking>
-
 # Nurse Shift Report Template - Help Guide
 ## Purpose
 The Nurse Shift Report Template is designed to record key information about patient care during a nurse's shift. It is used to track the duration of care provided, medications administered, vital signs, and other relevant details.

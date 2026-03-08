@@ -1,10 +1,3 @@
-<thinking>
-This guide is intended to help you understand the Seasonal Product Subscription Form, which allows customers to sign up for a seasonal product subscription. This form is used to collect information necessary for processing and managing seasonal product subscriptions. It is crucial that you fill out this form correctly to ensure that your subscription is processed accurately and in a timely manner.
-
-Before filling out this form, please ensure that you have the necessary information and permissions to complete it. This form should not be filled out multiple times for the same customer, as this may cause duplicate entries and confusion in the subscription management process.
-
-</thinking>
-
 # Seasonal Product Subscription Form - Help Guide
 ## Purpose
 The Seasonal Product Subscription Form is designed to collect information from customers for a seasonal product subscription. This form includes fields for customer contact information, subscription details, and payment methods. It is essential to complete this form accurately and in its entirety to ensure that your subscription is processed correctly.

@@ -1,6 +1,3 @@
-<thinking>
-This form is used to create a comprehensive risk mitigation monitoring and management plan for a project. It's essential for project managers and team leads to assess and document the risks associated with their projects to ensure timely and effective risk identification, analysis, and mitigation. The form should be filled out by the project team members and project managers to ensure consistency in risk assessment and mitigation strategies. Please note that while this form is designed to be comprehensive, not every project may require all sections or questions, and answers can be adjusted based on the specific project needs.</thinking>
-
 # Risk Mitigation Monitoring And Management Plan Checklist - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-The internal reasoning block explains the form's purpose and checks for relevance and non-duplication:
-This form is a new employee welcome packet, used to collect essential information about a new employee. The form is designed to be completed by the employee during their onboarding process. The purpose of this form is to ensure that the employee has access to all necessary resources and information to start their new role. 
-The form includes fields for the employee's first and last name, start date, title, manager's name, manager's email, handbook acknowledgment, emergency contact information, emergency contact relationship, and emergency contact phone number. 
-This form is intended to be completed once during the onboarding process and is not intended to be repeated for the same employee. 
-</thinking>
-
 # new_employee_welcome_packet - Help Guide
 ## Purpose
 The new employee welcome packet form is a collection of essential information and acknowledgments required for a new employee to complete during their onboarding process.

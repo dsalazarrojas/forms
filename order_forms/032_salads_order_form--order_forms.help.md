@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed for customers to place salad orders. It captures the necessary information for the order, including customer details, order preferences, and order status. To ensure accurate and efficient processing, please complete the form carefully. Note that some fields are not required, but they are still included for completeness and flexibility. This form should not be used for any other purpose than placing a salad order. If you have already submitted a salad order, do not use this form again. 
-</thinking>
-
 # Salads Order Form - Help Guide
 ## Purpose
 This form is for customers to place salad orders. It is used to collect order details, customer information, and order status updates.

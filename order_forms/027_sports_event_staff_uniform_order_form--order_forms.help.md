@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to help staff members order sports event staff uniforms. The form will likely be used by event organizers or staff administrators to collect information from staff members about their roles and uniform preferences. The form is not intended to be a comprehensive survey, but rather a simple and efficient way to collect necessary information for uniform distribution.
-
-When using this form, please ensure that you are only submitting it once per staff member, as duplicate submissions may cause confusion and errors in the uniform distribution process.
-
-</thinking>
-
 # sports_event_staff_uniform_order_form - Help Guide
 ## Purpose
 The sports_event_staff_uniform_order_form is a simple form designed to collect information from staff members about their roles and uniform preferences for sports events.

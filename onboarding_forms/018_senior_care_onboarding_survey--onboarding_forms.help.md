@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to be used during the onboarding process for seniors who will be receiving care services. It is intended to collect information about the new resident, including their emergency contact, medical information, and any relevant medical conditions. This form is likely used by care staff to understand the senior's needs and provide appropriate care.
-
-To determine whether this form is a duplicate, check if there are other forms in the same category (onboarding_forms) that have the same purpose or contain overlapping questions. If a similar form already exists, consider reusing or modifying that one instead. 
-
-This form appears to be a collection of individual fields that can be easily modified or expanded upon if necessary. 
-
-The form will be used by care staff to gather information about new residents in the care facility. They will likely be using the provided fields to tailor care plans and services to meet individual resident needs.
-</thinking>
-
 # Senior Care Onboarding Survey - Help Guide
 ## Purpose
 This form is used to collect information about new residents in the care facility, including their emergency contact, medical information, and any relevant medical conditions.

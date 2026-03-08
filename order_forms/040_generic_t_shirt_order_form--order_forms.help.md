@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect order information from customers, including their T Shirt size, color, design, quantity, name, email, and payment method. The form is designed to be completed by customers to place an order for T Shirts. Before filling out this form, please make sure you have not already submitted an order. If you have any questions or need assistance, please contact us.
-</thinking>
-
 # Generic T Shirt Order Form - Help Guide
 ## Purpose
 This form is used to collect order information for T Shirts from customers.

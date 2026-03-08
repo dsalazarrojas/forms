@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to capture information from customers for their Super Bowl Pizza Order 2021. The form should be used by customers to place orders for pizzas for the big game. The form should only be used for customers who want to place an order for the Super Bowl event. 
-
-To ensure that the form is used correctly, please review the following:
-
-* Only use this form for customers who are placing orders for Super Bowl event.
-* Do not use this form for other purposes or events.
-* Make sure to fill out all required fields (if any).
-* Review the form carefully before submitting it.
-
-</thinking>
-
 # Super Bowl Pizza Order 2021 - Help Guide
 ## Purpose
 This form is used to capture information for customer pizza orders for the Super Bowl event. Customers can submit their orders using this form.

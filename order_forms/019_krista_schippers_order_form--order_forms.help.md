@@ -1,10 +1,3 @@
-<thinking>
-This form is for customers to place an order. The form is split into two pages, each page has a set of fields that the customer needs to fill in. The form is meant to be used for internal purposes, and the information collected will not be shared or sold to any third parties. 
-
-Please ensure that you are not duplicating this form unnecessarily, as it is intended for a specific use case and may cause confusion if filled out incorrectly. This form is meant to be filled out by customers to place an order, not for general inquiries or comments.
-
-</thinking>
-
 # Krista Schippers Order Form - Help Guide
 
 ## Purpose

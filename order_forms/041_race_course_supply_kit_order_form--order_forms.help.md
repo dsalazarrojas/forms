@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for an order of a Race Course Supply Kit. The purpose of this form is to collect details from customers or clients who are interested in purchasing a Race Course Supply Kit. The form is meant to be completed by the person placing the order, and the information collected will be used to process the order and deliver the kit to the customer. This form is not affiliated with or endorsed by any form platform, and it's an original adaptation created using public survey topic metadata. The form is released under CC BY 4.0, allowing users to use, modify, and even sell forms derived from it, as long as credit is given.
-</thinking>
-
 # Race Course Supply Kit Order Form - Help Guide
 ## Purpose
 The Race Course Supply Kit Order Form is designed to collect details for an order of a Race Course Supply Kit from customers or clients. This form is used to gather essential information such as delivery details, contact information, and order comments to process the order efficiently.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for customers to place an order for a statement candle, which requires some basic customer information and order details. Before you start, ensure that you are not duplicating the order by checking the internal reasoning block below. If you are a repeat customer, please refer to our previous order history to avoid unnecessary duplication of efforts. 
-</thinking>
-
 # Statement Candle Order Form - Help Guide
 
 ## Purpose

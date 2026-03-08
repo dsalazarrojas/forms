@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to gather information for a pre-order for the "Color Street SPRING 2021 PRE ORDER - Flawless Nails With Jen" product offering. This form will likely be used by customers to place their orders before the actual product launch, providing them with the ability to select their preferred sets and shipping options. To avoid duplication, it's essential to ensure that customers are not able to place duplicate orders. This form will help the customer to provide their contact and shipping information, select their preferred products, and choose their payment and shipping options. 
-
-</thinking>
-
 # Color Street SPRING 2021 PRE ORDER - Flawless Nails With Jen - Help Guide
 ## Purpose
 This form is designed to allow customers to place pre-orders for the "Flawless Nails With Jen" product offering for Spring 2021. It will gather necessary information from customers, including contact and shipping details, product selection, and payment options.

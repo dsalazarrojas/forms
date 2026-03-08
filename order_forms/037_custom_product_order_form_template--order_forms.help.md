@@ -1,22 +1,3 @@
-<thinking>
-## Form purpose and relevance check
-
-This form is intended for end-users to create and manage custom product orders. It collects information related to product details, customer contact information, and order status. 
-
-The form has the following sections:
-
-* Product details (product name, price, description)
-* Customer information (email, phone number)
-* Order status (Processing, On Hold, Delivered, Cancelled)
-* Delivery date and shipping address
-* Custom fields (additional options that can be selected by the user)
-
-Checking for relevance:
-* The form is for custom product orders, so it should have fields for product details and customer information.
-* The order status field is necessary for tracking the order progress.
-* Custom fields can be used to add extra information as needed.
-</thinking>
-
 # Custom Product Order Form Template - Help Guide
 ## Purpose
 This form is designed to help customers create and manage custom product orders with ease. It gathers necessary details about the product and customer contact information, as well as order status to ensure smooth order processing and management.

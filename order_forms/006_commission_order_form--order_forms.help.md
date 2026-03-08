@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I must analyze the form and create a user-friendly help guide that explains the form's purpose, how to complete it, and each field's meaning. I'll base my explanations on the provided YAML fields and aim for a concrete, concise, and practical tone. If a field label is unclear, I'll provide a best-effort explanation without inventing unsupported business logic.</thinking>
-
 # Commission Order Form - Help Guide
 ## Purpose
 This form is designed to gather information from clients for commission orders, including client details, project specifics, and order submission details. It's essential to complete this form accurately to ensure that the project is properly commissioned and that all parties involved are aware of the agreement.

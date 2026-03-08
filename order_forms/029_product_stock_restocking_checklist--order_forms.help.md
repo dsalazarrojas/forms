@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help you manage product stock levels and check if products need restocking. It's a critical task in ensuring that your inventory is always up-to-date and accurately represented. By filling out this form, you'll be able to identify which products need restocking and when they need it, making it easier for you to manage your stock levels and avoid stockouts.
-This form is likely to be used by staff or inventory managers to check stock levels and decide when to restock products. The form is likely to be used for regular stock checks, such as weekly or bi-weekly checks.
-</thinking>
-
 # product_stock_restocking_checklist - Help Guide
 ## Purpose
 The purpose of this form is to help you check stock levels and determine if products need restocking.

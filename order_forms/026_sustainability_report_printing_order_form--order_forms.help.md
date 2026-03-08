@@ -1,7 +1,3 @@
-<thinking>
-# This form is intended to capture information for printing a report, with fields for details about the report, delivery methods, and delivery dates/times. To ensure relevance, it is assumed that the form is used for printing reports related to sustainability, environmental, or conservation topics. The presence of "report PDFs" suggests that the form might be used for printing multiple PDFs, possibly for different sections of a comprehensive report. The form's fields are relatively simple and straightforward, with most being free-form text or single-value select options, indicating a low-to-medium complexity for the user.
-</thinking>
-
 # sustainability_report_printing_order_form - Help Guide
 ## Purpose
 This form is designed to collect information for printing a report related to sustainability, environmental, or conservation topics.

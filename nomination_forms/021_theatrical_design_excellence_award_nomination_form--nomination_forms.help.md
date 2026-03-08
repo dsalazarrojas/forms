@@ -1,7 +1,6 @@
 # Theatrical Design Excellence Award Nomination Form - Help Guide
 
 ## Purpose
-<thinking>...</thinking>
 This form is intended for nominating productions for the Theatrical Design Excellence Award. To ensure accurate and complete submissions, please fill out this form carefully and thoroughly. Before starting, check if you've already submitted a nomination with the same production name and production type, to avoid duplicate submissions. If you're unsure, it's always best to contact us for clarification. </thinking>
 
 ## How To Complete This Form

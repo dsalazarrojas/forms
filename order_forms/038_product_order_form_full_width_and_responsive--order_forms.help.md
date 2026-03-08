@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form, "Product Order Form Full Width And Responsive", is to collect information from customers to place a product order. This form is designed to be displayed in a full-width and responsive manner, making it accessible and user-friendly. To ensure that the form is correctly filled out and relevant, we should confirm that the product in question is, indeed, the correct product, and that the information being requested is applicable. Please note that the form is not a sales platform, and the provided options are for example purposes only.
-</thinking>
-
 # Product Order Form Full Width And Responsive - Help Guide
 ## Purpose
 The Product Order Form Full Width And Responsive is a tool for customers to provide information to place a product order. It's designed to be easily accessible and displayed in a full-width and responsive format.

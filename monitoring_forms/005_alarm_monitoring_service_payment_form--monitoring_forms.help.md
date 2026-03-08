@@ -1,7 +1,3 @@
-<thinking>
-This form is used for individuals or businesses to submit payment for their alarm monitoring services. It is not meant to be completed by authorized personnel or other internal stakeholders. This form should only be completed by account holders who wish to make payments for their monitoring services.
-</thinking>
-
 # Alarm Monitoring Service Payment Form - Help Guide
 ## Purpose
 This form is intended for individuals or businesses to submit payments for their alarm monitoring services. It is essential to provide accurate and complete information to ensure timely and correct processing of your payment.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for creating a merchandise purchase order. It's likely used by sales or procurement teams to collect information from customers or suppliers. The form's purpose is to gather details about the merchandise type, quantity, price, description, services required, contact information, and vendor details. This form might be used in various contexts, such as retail sales, wholesale purchases, or corporate events. Ensure to review the form fields and their respective labels to understand which ones are required or optional for the specific use case.
-</thinking>
-
 # merchandise_purchase_order - Help Guide
 ## Purpose
 The merchandise purchase order form is designed to collect necessary information from customers or suppliers for the procurement and sales process.

@@ -1,22 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about philanthropic initiatives from non-profit organizations. This form should be completed by non-profit staff or representatives to submit reports about their initiatives, which will be reviewed and approved by relevant authorities. The form is used to gather details such as category, name, start and end dates, budgeted and actual funds, objectives, project outcomes, and contact information. Please ensure that the information provided is accurate and up-to-date.
-
-Before proceeding, please note that this form is designed to collect data for the purpose of record-keeping and reporting. Please ensure that you have the necessary permissions and approvals to access and submit this form.
-
-Please also note that this form has the following requirements:
-
-* Non-profit category should be selected from the given options.
-* Initiative start and end dates should be in the correct format (YYYY-MM-DD).
-* Budgeted and actual funds should be numerical values without any special characters.
-* Objectives should be selected from the given options.
-* Contact information should be accurate and up-to-date.
-* Review and approval status should be selected from the given options.
-* Approved date and time should be in the correct format (YYYY-MM-DD HH:MM:SS).
-* Comments should be kept concise and relevant.
-
-Please review the form carefully before submitting it to ensure that all the required information is provided and is accurate. If you have any questions or concerns, please do not hesitate to reach out to the relevant authorities.
-</thinking>
-
 # philanthropic_initiative_report_form - Help Guide
 ## Purpose
 The philanthropic initiative report form is a tool used to collect and record information about non-profit initiatives.

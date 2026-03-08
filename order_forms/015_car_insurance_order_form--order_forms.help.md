@@ -1,12 +1,3 @@
-<thinking>
-To confirm, you want me to create a user-facing help guide for a form with the following fields: 
-* Applicant information: name, date of birth, email, phone number
-* Vehicle information: make and model, year, vehicle identification number (VIN), primary use, estimated annual mileage
-* Coverage options: coverage level, deductible amount, additional coverage options
-* Verification and acknowledgement: order acknowledgement, signature confirmation, additional order comments
-The form is for car insurance orders.
-</thinking>
-
 # Car Insurance Order Form - Help Guide
 ## Purpose
 This form is used to collect information for a car insurance order. Please fill out the form carefully to ensure accurate and complete information is submitted.

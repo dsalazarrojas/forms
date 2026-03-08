@@ -1,11 +1,3 @@
-<thinking>...to create an intuitive user-facing help guide for the Art Collective Member Onboarding Form.
-
-The form purpose is to gather essential information from artists interested in joining the art collective, which will eventually be used for internal decision-making and administrative tasks, such as reviewing applications and assigning membership status. Before we dive into the guide, let's ensure this guide won't create redundancy or overlap with existing documentation or processes.
-
-After reviewing the form schema, this guide will aim to provide a clear and concise walkthrough for users to fill out the form, covering the purpose, completion process, and explanation of each field.
-
-</thinking>
-
 # Art Collective Member Onboarding Form - Help Guide
 ## Purpose
 The Art Collective Member Onboarding Form is designed to collect essential information from artists interested in joining the collective. This information will be used to review applications, assign membership status, and facilitate internal processes.

@@ -1,9 +1,3 @@
-<thinking>
-The Customer Loyalty Reward Request Form is used to capture the required and optional information from customers to process their reward request. The form is used by customers to submit their details for reward redemption, such as free products, discounts, or other incentives. This form will help customers get their reward in the most convenient way possible. Before filling out the form, please ensure that you have not already submitted a request and that you are eligible for the reward according to the terms and conditions of our loyalty program.
-
-To complete this form, follow the steps below:
-</thinking>
-
 # Customer Loyalty Reward Request Form - Help Guide
 ## Purpose
 The purpose of this form is to capture the required and optional information from customers to process their reward request.

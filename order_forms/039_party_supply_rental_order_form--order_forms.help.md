@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Party Supply Rental Order Form", I will need to understand the intended purpose and functionality of the form. This form seems to be used for users to order party supplies such as balloons, tablecloths, and napkins for a party. The form has multiple fields for collecting information about the party details, contact information, and payment method. It also has fields for additional services, notes, and submit/cancel/back/previous/form buttons.
-
-I will assume that the form is meant to be filled out by individuals or organizations planning a party and need to rent party supplies. The purpose of this form is to collect necessary information to process an order for party supplies and related services. The fields are designed to gather relevant details to facilitate the order process.
-
-</thinking>
-
 # Party Supply Rental Order Form - Help Guide
 
 ## Purpose

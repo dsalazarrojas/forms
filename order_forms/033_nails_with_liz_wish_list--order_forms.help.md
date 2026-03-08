@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about a user's preferred characteristics of nail polish colors. The form is meant to be simple and easy to use, with a focus on providing the user with a variety of options for selecting their desired nail color, type, length, and shape. The form is not affiliated with any form platform and is an original adaptation created using public survey topic metadata. It is released under CC BY 4.0 and can be used, modified, or sold with proper credit.
-</thinking>
-
 # Nails With Liz Wish List - Help Guide
 
 ## Purpose

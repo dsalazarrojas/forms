@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect customer information for ordering colorful cupcakes from a business. The purpose of this form is to ensure accurate and timely delivery of customized cupcakes to the customer. This form is likely used by customers who want to order cupcakes for special occasions or events. 
-
-This form should only be completed by customers who have a legitimate reason to order colorful cupcakes. It is not intended for general public access or testing purposes. 
-
-Please ensure that you are not duplicating a similar order form or attempting to access this form for unauthorized reasons.
-</thinking>
-
 # Colorful Cupcake Order Form - Help Guide
 ## Purpose
 This form is designed for customers to order colorful cupcakes for special occasions or events.

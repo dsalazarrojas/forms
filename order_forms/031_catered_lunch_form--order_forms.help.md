@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Catered Lunch Form" form, I will consider the following:
-
-* Purpose: The form is intended for students, staff, and guests to select their lunch options for a catered meal service. It gathers information about the participant's details, dietary restrictions, and payment method.
-* How to Complete: This section will guide users through the steps to complete the form, which should be straightforward given the simple and intuitive design of the form.
-* Field-by-Field Explanation: Each field will be explained in simple and clear terms, considering the field's label and any hint provided.
-
-</thinking>
-
 # Catered Lunch Form - Help Guide
 
 ## Purpose

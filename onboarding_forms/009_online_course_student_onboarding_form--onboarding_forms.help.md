@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from online course students for onboarding purposes. It is meant to be filled out by students who are enrolling in an online course, and the information collected will be used to personalize their learning experience. This form should only be filled out once for each student, and not repeated for the same student. If a student has already completed this form, it should not be filled out again.
-
-</thinking>
-
 # online_course_student_onboarding_form - Help Guide
 ## Purpose
 The online course student onboarding form is a crucial step for students to provide essential details about themselves to enhance their learning experience in the online course.

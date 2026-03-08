@@ -1,9 +1,3 @@
-<thinking>... 
-
-The form "Digital Communication Policy Agreement" is used to onboard new employees and gather information about their contact details, onboarding status, and agreement to company policies. This guide will walk you through how to fill out the form and what each field means.
-
-...</thinking>
-
 # Digital Communication Policy Agreement - Help Guide
 ## Purpose
 The Digital Communication Policy Agreement form is used to onboard new employees and gather information about their contact details, onboarding status, and agreement to company policies.

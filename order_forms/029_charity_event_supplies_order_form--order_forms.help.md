@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information for charities or organizations that need supplies for an event or gathering. It is used to streamline the order process for event supplies such as tables, chairs, tablecloths, signage, audio equipment, registration supplies, decorative items, catering supplies, and cleanup supplies. The form requires organization and contact information, event details, delivery information, and payment method. The form is intended for charity event coordinators or organizers to submit their orders.
-
-</thinking>
-
 # Charity Event Supplies Order Form - Help Guide
 ## Purpose
 This form is used to collect information for charities or organizations that need supplies for an event or gathering.

@@ -1,12 +1,3 @@
-<thinking>
-We need to ensure that the form is being completed correctly and that the fields are clear and easy to understand for end-users.
-
-The Goods Receipt Acknowledgement Form is a simple, one-page form used to acknowledge receipt of goods or products. It's used to document that goods have been received from a supplier or vendor in good condition.
-
-To ensure this form is being used properly, let's break down each field and provide a clear explanation of its purpose and requirements.
-
-</thinking>
-
 # Goods Receipt Acknowledgement Form - Help Guide
 ## Purpose
 The Goods Receipt Acknowledgement Form is used to confirm that goods or products have been received from a supplier or vendor in good condition. This form helps ensure accurate inventory management and facilitates smooth communication with suppliers.

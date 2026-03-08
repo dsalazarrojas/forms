@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect membership order information from customers. The form's primary purpose is to gather details about the member's identity, address, and payment information, which will be used to process their membership order. 
-
-This form will likely be used by customers to submit their membership information in an automated or semi-automated process, such as an online ordering system. To ensure accurate and efficient collection of information, please review the form carefully before submitting. 
-
-To avoid submission errors, please review the form carefully before submitting, especially if you have any questions or concerns about any field. Ensure all required fields are completed before proceeding to the next step.
-</thinking>
-
 # Membership Order Information Form - Help Guide
 ## Purpose
 The Membership Order Information Form is a tool designed to collect member details and payment information for processing membership orders.

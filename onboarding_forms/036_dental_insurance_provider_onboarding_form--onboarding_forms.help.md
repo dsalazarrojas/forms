@@ -1,7 +1,3 @@
-<thinking>
-The form purpose and field selection are likely intended to collect information about a dental insurance provider, including their onboarding status, contact information, and license status. However, some fields seem inconsistent or unrelated to the category or purpose.
-</thinking>
-
 # Dental Insurance Provider Onboarding Form - Help Guide
 ## Purpose
 This form is designed to collect information from dental insurance providers, including their onboarding status, contact information, and license status. It will help the administrators to manage and onboard new providers efficiently.

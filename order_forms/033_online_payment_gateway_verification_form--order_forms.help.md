@@ -1,17 +1,3 @@
-<thinking>
-This form is used for verification of online payment gateways. To determine if this form is relevant to your use case, consider the following:
-- Are you a developer or technical user familiar with online payment gateways?
-- Are you looking to set up or modify an online payment gateway integration?
-- Do you need to verify payment gateway information for testing or debugging purposes?
-If not, this form may not be relevant to your use case. If you're unsure or have questions about the form, please contact your IT or technical support team for guidance.
-
-Before filling out this form, review the available fields and options to ensure you're selecting the correct information for your online payment gateway.
-
-To avoid submitting duplicate or incorrect information, please verify the details of your online payment gateway before proceeding.
-
-If you're ready to fill out the form, continue to the next section.
-
-</thinking>
 # Online Payment Gateway Verification Form - Help Guide
 ## Purpose
 This form is designed to help you verify the online payment gateway information for your application. It ensures accuracy and consistency in your online payment gateway settings.

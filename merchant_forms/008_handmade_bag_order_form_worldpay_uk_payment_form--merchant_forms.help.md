@@ -1,8 +1,3 @@
-<thinking>
-To provide the best possible help guide for this form, I'll review the provided YAML and make sure the explanation is clear, concise, and practical for end-users. This form is a comprehensive order form for HandMade Bag, which likely includes various details about customer and order information, payment methods, and order status.
-
-</thinking>
-
 # HandMade Bag Order Form Worldpay UK Payment Form - Help Guide
 ## Purpose
 This form is used to capture order details and customer information for HandMade Bag orders. It includes fields for customer contact and delivery details, order total, payment methods, and order status. Fill out the form completely to submit your order.

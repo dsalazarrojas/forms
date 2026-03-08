@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather order information for a restaurant's takeout service. 
-It collects details such as name, email, and phone number from the customer, 
-order items, payment method, and other relevant information.
-The fields on this form should be filled in according to your specific needs.
-</thinking>
-
 # Restaurant Takeout Order Form - Help Guide
 ## Purpose
 The purpose of this form is to collect necessary information for processing a takeout order from a customer.

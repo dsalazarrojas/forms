@@ -1,8 +1,3 @@
-<thinking>
-This form was generated using AI to create a Volunteerism Survey form, which is not affiliated with or endorsed by any form platform. The purpose of this form is to collect data from volunteers, allowing organizations to better understand their needs, preferences, and experiences. This form is designed to be easy to use and complete, with clear instructions and concise explanations for each field. Please review the following guide to help you complete the form effectively.
-
-</thinking>
-
 # Volunteerism Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your volunteer experience and preferences. It will help organizations understand your needs and improve their volunteer programs.

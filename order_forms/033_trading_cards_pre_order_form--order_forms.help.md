@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users who want to pre-order trading cards. The purpose of this form is to gather essential details such as user contact information, order specifics, and payment details. This information will be used to fulfill the order and ensure that the user receives their pre-ordered trading cards correctly. 
-</thinking>
-
 # Trading Cards Pre Order Form - Help Guide
 ## Purpose
 This form is designed to collect pre-order information from users, allowing us to fulfill their requests correctly and efficiently.

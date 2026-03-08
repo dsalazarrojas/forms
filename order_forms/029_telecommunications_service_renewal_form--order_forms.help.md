@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow customers to renew their telecommunications services, such as Voice, Data, and Internet, for their business. This form will gather necessary information to update their service contracts and ensure a smooth transition. Please note that the fields below are required for the form to be processed. If you are unsure about any field, please contact our customer support team for clarification.
-</thinking>
-
 # Telecommunications Service Renewal Form - Help Guide
 ## Purpose
 The Telecommunications Service Renewal Form is designed to collect information necessary to renew your telecommunications services, including your service type, contract details, and billing information.

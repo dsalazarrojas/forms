@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to be used for onboarding new curriculum developers into the organization. As such, it's essential to ensure that the correct information is collected during the onboarding process to facilitate a smooth transition and provide necessary support. 
-
-The form should only be used for new curriculum developers, and its purpose is to collect essential details about them for further processing and integration into the team. It should not be used for any other purposes such as updating existing developer information or for general contact purposes.
-
-Before filling out this form, please double-check that the information is accurate and up-to-date, and avoid filling it out for anyone who is already onboarded or not a new curriculum developer. If you have any questions or concerns about the form, please reach out to the relevant stakeholders for guidance.
-
-</thinking>
-
 # Curriculum Developer Onboarding Form - Help Guide
 ## Purpose
 The Curriculum Developer Onboarding Form is a form used to onboard new curriculum developers into the organization. This form is meant to collect essential details about new developers for further processing and integration into the team.

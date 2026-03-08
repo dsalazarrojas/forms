@@ -1,11 +1,3 @@
-<thinking>
-This form is likely used for customers or salespeople to place orders for office supplies, such as office equipment, stationery, and other business supplies. The form likely serves as a centralized platform for managing and tracking office supply orders, ensuring accuracy and consistency in the ordering process. This form probably integrates with an existing database or system to store and process the order information, providing real-time updates and reporting for sales teams and customers.
-The form's structure and fields suggest it is designed for sales and customer interaction, with fields for customer contact information (email, phone, address, etc.), order details (item type, name, quantity, price, date, etc.), and payment information. The form might also include fields for salesperson identification and order status tracking.
-The form appears to follow a structured format, with each page or section containing specific fields for different aspects of the order process. This structure likely helps to minimize errors and ensures that all necessary information is collected and processed efficiently.
-The form's fields and labels are clear and straightforward, indicating a design focused on usability and customer experience. The use of select_one options for categories and payment methods suggests that the form is adaptable and flexible, allowing for easy modification and customization.
-Before proceeding, ensure that all required fields are filled out accurately and completely. Each field's purpose and relevance is explained in the section below.
-</thinking>
-
 # Office Supply Order Form - Help Guide
 ## Purpose
 This form is used for customers or salespeople to place orders for office supplies. It is a centralized platform for managing and tracking office supply orders, ensuring accuracy and consistency in the ordering process.

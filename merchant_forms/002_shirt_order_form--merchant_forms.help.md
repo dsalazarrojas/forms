@@ -1,5 +1,3 @@
-<thinking>This form is a comprehensive merchant form for managing shirt orders, covering various aspects of the order process, including customer and payment details, shipping information, and order status. This form appears to be designed for internal use within a business or organization, likely for tracking and managing order-related activities. I will create a user-facing help guide for this form to ensure that end-users can understand its purpose, complete it correctly, and use it effectively.</thinking>
-
 # shirt_order_form - Help Guide
 ## Purpose
 The shirt_order_form is a tool used to gather and manage information related to shirt orders, providing a structured format for tracking customer and payment details, shipping information, and order status.

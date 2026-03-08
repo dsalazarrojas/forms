@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Worker First Aid Kit Refill Order Form - Help Guide
 ## Purpose
 The Worker First Aid Kit Refill Order Form is used to order a refill for a First Aid Kit for workers. This form is designed to ensure that you accurately report the status of your First Aid Kits, so we can provide you with the right supplies and quantity to keep your workplace safe and compliant.

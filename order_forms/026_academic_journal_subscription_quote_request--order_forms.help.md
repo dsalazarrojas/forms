@@ -1,11 +1,3 @@
-<thinking>
-  This form is used to request a quote for subscription to an academic journal. 
-  The form should be completed by a representative from an institution or organization that is interested in subscribing to the journal. 
-  The form will be reviewed internally and a quote will be provided to the requester based on their selections and requirements. 
-  To avoid duplication, we will check for similar requests internally and ensure that this form is not submitted multiple times. 
-  Please note that the internal team will contact the requester via the provided email for further information or clarification if necessary.
-</thinking>
-
 # Academic Journal Subscription Quote Request - Help Guide
 
 ## Purpose

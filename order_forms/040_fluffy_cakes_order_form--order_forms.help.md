@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to collect information from customers to place an order for Fluffy Cakes. To complete this form, follow the steps outlined below.
 
 # Fluffy Cakes Order Form - Help Guide

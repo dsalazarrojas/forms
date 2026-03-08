@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about a referral to a custom furniture maker. The purpose of this form is to help the custom furniture maker's team receive referrals from their customers, partners, or suppliers. This form should only be filled out if the user has a referral for the custom furniture maker and wants to pass that information along.
-</thinking>
-
 # Custom Furniture Maker Referral Form - Help Guide
 ## Purpose
 This form is used to collect referrals for the custom furniture maker's business. Please fill out this form if you know someone who is interested in working with the custom furniture maker.

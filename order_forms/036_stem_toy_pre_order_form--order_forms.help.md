@@ -1,7 +1,3 @@
-<thinking>
-This form is for customers to place pre-orders for STEM toys. It collects customer and delivery information, as well as order details. The purpose of this form is to gather essential data from customers to facilitate smooth order processing and delivery. This form is a simple, one-page text-based form, so the user experience is expected to be straightforward and uncomplicated. There should be no duplication of effort in using this form, as it's designed to be a one-time order process.
-</thinking>
-
 # STEM Toy Pre Order Form - Help Guide
 ## Purpose
 This form is for customers to place pre-orders for STEM toys.

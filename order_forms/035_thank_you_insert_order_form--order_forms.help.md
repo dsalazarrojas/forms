@@ -1,7 +1,3 @@
-<thinking>
-This form is for customers to provide their feedback or comments about their order experience. It's likely to be used by the customer service team to follow up on orders that are not yet completed or to gather feedback from customers about their experiences with the company. Before filling out this form, please make sure you have not already provided feedback or comments about this order. If you're unsure whether to fill out this form, contact your customer service representative for guidance.
-</thinking>
-
 # thank_you_insert_order_form - Help Guide
 ## Purpose
 This form is used to gather feedback or comments from customers about their order experience. It allows customers to provide details about their order, contact information, feedback, and order status.

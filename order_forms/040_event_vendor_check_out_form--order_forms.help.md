@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from event vendors for checkout purposes. It should only be used for events where a vendor is providing services or products. The form is intended to be filled out by the event organizer or coordinator. It's essential to ensure that the vendor information is accurate and complete to facilitate smooth event checkout processes. 
-
-This form is not intended to be used for other purposes, such as general contact forms or sales inquiries. Please use the correct form type for your specific use case to avoid confusion and miscommunication.
-
-If you're unsure about the purpose of this form or how to complete it, please refer to this help guide for guidance.
-
-</thinking>
-
 # Event Vendor Check Out Form - Help Guide
 ## Purpose
 The Event Vendor Check Out Form is used to collect information from event vendors for checkout purposes. This form ensures that the vendor's details are accurate and complete, facilitating a smooth checkout process.

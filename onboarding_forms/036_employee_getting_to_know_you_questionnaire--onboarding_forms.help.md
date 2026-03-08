@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about an employee's personal and professional details. It is intended to be used for onboarding new employees, and the data collected will be used to provide them with relevant information and resources to make their transition to the company as smooth as possible.
-The form will ask for general employee details such as name, phone number, and email address. It will also ask for information about their work preferences, such as their work location, language, time zone, and work hours. Emergency contact information will also be collected, including names, phone numbers, relationship, and email addresses. The form will allow for up to 3 emergency contacts to be listed.
-This guide will help users understand how to complete the form and what information is required for each field.
-</thinking>
-
 # Employee Getting To Know You Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about an employee's personal and professional details, including general employee details, work preferences, and emergency contact information.

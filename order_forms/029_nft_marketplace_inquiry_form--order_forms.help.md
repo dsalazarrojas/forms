@@ -1,6 +1,3 @@
-<thinking>
-This is a form for users to inquire about NFT (Non-Fungible Token) marketplaces, a platform for buying and selling unique digital assets. The form is likely used in a context where users can submit their interests or needs, and the system can provide relevant information or services. The form is relatively simple, with fields for basic user information (name, email, phone) and fields related to the NFT inquiry (marketplace selection, tags, image).
-</thinking>
 # nft_marketplace_inquiry_form - Help Guide
 ## Purpose
 This form is designed to gather user information and preferences for potential NFT marketplace inquiries.

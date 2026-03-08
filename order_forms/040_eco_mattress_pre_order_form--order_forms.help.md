@@ -1,13 +1,3 @@
-<thinking>... (Internal reasoning block)
-
-The purpose of this form is to collect information from customers to place a pre-order for an Eco Mattress. The form is designed to be completed in a step-by-step manner, guiding the customer through the selection of the product and collection of their shipping and contact information. 
-
-The form is not intended to be a comprehensive order form for a standard e-commerce site, but rather a pre-order form that will provide customers with the opportunity to reserve a mattress before it is available for purchase. This form should only be used for customers who are aware of the mattress pre-order program and have been directed to this page. 
-
-The form fields are designed to be straightforward and easy to understand, with clear labels and instructions to guide the customer through the process.
-
-...</thinking>
-
 # Eco Mattress Pre Order Form - Help Guide
 
 ## Purpose

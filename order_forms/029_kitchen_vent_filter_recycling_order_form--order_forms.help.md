@@ -1,12 +1,3 @@
-<thinking>
-To confirm, this is a form titled "kitchen_vent_filter_recycling_order_form" under the "order_forms" category. This form is intended to collect information from customers about their kitchen vent filter recycling orders. It likely contains fields for customer information, contact details, and order specifics.
-
-To complete this form, the end user should provide their name, contact information, and order details in the corresponding fields. It appears that the form is designed to gather two sets of similar information from the customer, but it's not specified which fields are meant to overlap or complement each other.
-
-The form has 8 fields in total, each with a text type. There are no other field types present in this form, such as select, checkbox, or date.
-
-</thinking>
-
 # kitchen_vent_filter_recycling_order_form - Help Guide
 ## Purpose
 This form is used to collect information from customers about their kitchen vent filter recycling orders.

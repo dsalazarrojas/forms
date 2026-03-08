@@ -1,12 +1,3 @@
-<thinking>
-This form is used to track and manage orders for safety gear and equipment. The form is designed to gather information about new hires, personal protective equipment (PPE) orders, damaged gear, safety equipment orders, and other relevant details to ensure a smooth replenishment process. 
-
-To prevent misuse, this form should only be used for genuine orders and not for other purposes. 
-
-Please note that the form is not intended for emergency or critical situations. If a critical situation arises, please contact the relevant authorities or the designated emergency contact person. 
-
-</thinking>
-
 # worker_safety_gear_replenishment_order_form - Help Guide
 ## Purpose
 This form is used to track and manage orders for safety gear and equipment. It helps to gather necessary information for the replenishment process.

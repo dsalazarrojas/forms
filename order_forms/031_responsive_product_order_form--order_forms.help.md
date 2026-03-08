@@ -1,18 +1,3 @@
-<thinking>
-This form is a general-purpose order form designed to collect information from customers for a responsive product order. The form is likely to be used by businesses or organizations selling responsive products, such as software, electronics, or other digital goods. The purpose of this form is to gather necessary details from the customer, including order details, customer information, billing information, shipping information, and payment details.
-
-To complete this form, the user will need to fill in the following fields:
-
-* Order details: This is the main section of the form where the user will enter the details of their order. The user will be required to fill in this field, which is currently not marked as optional.
-* Customer information: This field is optional but is intended to capture the customer's personal details, such as their name and contact information.
-* Billing information: This field is optional and is used to capture the billing information of the customer.
-* Shipping information: This field is optional and is used to capture the shipping information of the customer.
-* Payment: This field is currently not defined in any way, suggesting it is either optional or not intended to be used. However, it is unclear without further context what this field is intended to capture.
-
-This form is likely to be used by businesses or organizations to gather information from customers for a responsive product order. However, without further context, the fields and their intended use cases are unclear. 
-
-</thinking>
-
 # responsive_product_order_form - Help Guide
 ## Purpose
 The responsive product order form is a general-purpose form used to collect customer information for a responsive product order.

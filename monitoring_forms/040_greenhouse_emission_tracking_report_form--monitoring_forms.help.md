@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track and report on greenhouse gas emissions and related reduction actions, providing a structured format for users to input and record information on emissions levels, reduction targets, and supporting reports. This form aims to ensure consistency and accuracy in data collection, making it easier to analyze and report on progress towards greenhouse gas reduction goals. Before completing this form, please ensure that you have the necessary information and permissions to accurately fill out the form, and that you are not duplicating any existing reports. If you have any questions or concerns, please refer to your local guidelines and protocols for clarification.
-</thinking>
-
 # Greenhouse Emission Tracking Report Form - Help Guide
 ## Purpose
 The Greenhouse Emission Tracking Report Form is designed to monitor and report on greenhouse gas emissions and related reduction actions. It provides a standardized format for collecting and recording data on emissions levels, reduction targets, and supporting reports.

@@ -1,8 +1,3 @@
-<thinking> 
-We'll create a user-facing help guide for the retail_onboarding_quiz form. To start, let's understand that this form is designed to collect information about an employee's retail onboarding experience. The form likely aims to gather details about their sales, marketing, and customer service experiences within a retail setting. However, the exact purpose and context of this form require some assumptions and clarification. We will provide an explanation based on the given YAML structure, trying to make sense of the fields and their likely purposes.
-
-</thinking>
-
 # retail_onboarding_quiz - Help Guide
 
 ## Purpose

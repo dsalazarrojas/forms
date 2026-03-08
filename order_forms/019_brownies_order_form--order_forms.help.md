@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Brownies Order Form - Help Guide
 
 ## Purpose

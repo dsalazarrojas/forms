@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect information from patients for home health assessments.
-The form is designed to gather essential details about a patient's personal and medical history, including their name, medical record number, condition, and treatment plans. The form aims to ensure that healthcare professionals have accurate and comprehensive information about each patient, enabling them to provide high-quality care.
-To avoid duplication, please fill out this form only once for each patient.
-</thinking>
-
 # Home Health Assessment Form - Help Guide
 ## Purpose
 This form is used to collect information from patients for home health assessments.

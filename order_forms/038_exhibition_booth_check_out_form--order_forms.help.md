@@ -1,7 +1,3 @@
-<thinking>
-The exhibition booth check out form is used for customers to provide information necessary for the checkout process. This form is typically used to collect data from customers who are visiting the exhibition or event, and the data collected may include contact details, product information, and payment information. The form is usually used to ensure that all necessary details are captured accurately and efficiently, reducing the risk of errors or misunderstandings. Before filling out the form, please ensure that you have all necessary details ready, and that the information provided is accurate to the best of your knowledge.
-</thinking>
-
 # Exhibition Booth Check Out Form - Help Guide
 ## Purpose
 The Exhibition Booth Check Out Form is designed to collect relevant information from customers at the point of checkout. This form ensures that all necessary details are captured accurately and efficiently, reducing the risk of errors or misunderstandings.

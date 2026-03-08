@@ -1,7 +1,3 @@
-<thinking>
-This is a form designer and technical writer, and this guide will be for end-users to understand how to fill out the "Field Day T Shirt Order Form". The form is designed to gather information for ordering t-shirts from customers. The form asks for personal and payment information as well as shirt preferences. The fields include first and last name, email, shirt size, shirt color, order date, payment type, and total shirts ordered. The fields are not all required, but it's best to fill out all required fields for a smooth order process.
-</thinking>
-
 # Field Day T Shirt Order Form - Help Guide
 
 ## Purpose

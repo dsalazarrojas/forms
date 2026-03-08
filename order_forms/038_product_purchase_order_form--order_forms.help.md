@@ -1,7 +1,3 @@
-<thinking>
-The form is meant to gather information from customers for a product purchase order. This form is likely used for a B2B (business-to-business) or B2C (business-to-consumer) transaction. The purpose of the form is to collect the customer's contact information, shipping details, payment information, product information, and order terms. This form may be used for both online and offline orders.
-</thinking>
-
 # product_purchase_order_form - Help Guide
 ## Purpose
 This form is designed to gather information from customers for a product purchase order. It is intended for both B2B and B2C transactions.

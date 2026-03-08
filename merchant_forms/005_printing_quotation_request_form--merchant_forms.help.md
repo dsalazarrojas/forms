@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for merchants to request a printing quotation. It is used to capture the necessary information for creating a quote, including customer contact details and printing specifics. To complete this form, the merchant should provide accurate and up-to-date information to ensure a precise quote can be generated.
-
-Before proceeding, ensure that the form is not being completed for the same quotation request. This form serves as an initial inquiry for potential printing jobs and any subsequent revisions or updates will be handled through a different channel.
-</thinking>
-
 # Printing Quotation Request Form - Help Guide
 ## Purpose
 The Printing Quotation Request Form is a tool used by merchants to submit their printing needs. It helps our team in understanding their requirements and provide a quotation for the requested printing job.

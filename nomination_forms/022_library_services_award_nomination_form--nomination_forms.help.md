@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from library administrators to nominate library services for an award. Nomination forms should only be submitted once per library location and per year. Please do not submit duplicate or outdated nominations. Ensure the library services provided are exceptional and meet the award criteria. The nomination form should be filled out by the library's authorized representative.
-</thinking>
-
 # Library Services Award Nomination Form - Help Guide
 ## Purpose
 The Library Services Award Nomination Form is used to nominate library services for recognition. The form is designed to help library administrators submit their outstanding library services to be considered for an award.

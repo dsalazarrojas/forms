@@ -1,9 +1,3 @@
-<thinking>
-The purpose of the Franchise Onboarding Survey is to gather essential information from new franchisees to ensure a smooth and effective onboarding process. This data will help us understand the background, contact details, and experience of our new franchisees, as well as their interest in our franchise opportunity. It's crucial to complete this survey thoroughly and accurately to enable us to tailor our onboarding process to their needs and preferences.
-
-Before proceeding, please ensure that you have not already completed this survey. If you have, your data will be recorded and may not be updated. If you are re-taking the survey, please answer with your current situation.
-</thinking>
-
 # Franchise Onboarding Survey - Help Guide
 ## Purpose
 This survey aims to gather essential information from new franchisees to streamline the onboarding process. It's crucial to provide accurate answers to help us understand your background, contact details, and experience.

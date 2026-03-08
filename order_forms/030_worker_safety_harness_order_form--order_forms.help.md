@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to collect information for a Worker Safety Harness order. The purpose of this form is to gather essential details from the customer, including order details, customer information, and equipment specifications. Before filling out this form, please ensure you are authorized to make a purchase on behalf of the customer. 
-
-Also, please note that the form is designed for orders that are not part of a larger contract or project, and the customer is not part of our company's existing customer base. If this is not the case, please use the relevant project order form instead.
-
-</thinking>
-
 # Worker Safety Harness Order Form - Help Guide
 ## Purpose
 The Worker Safety Harness Order Form is used to collect details for a worker safety harness order. This form helps us understand what the customer needs and ensures we get it right on the first try.

@@ -1,8 +1,3 @@
-<thinking>
-To ensure that the form is used correctly, it's essential to understand its purpose and usage. This form is intended to capture information about the payment methods and amounts of guests staying in a facility. It appears that the form is meant to be used for billing purposes, such as processing payments for services rendered. Before starting to fill out the form, it's a good idea to review the entire form to understand what information will be required and what fields are relevant to your needs.
-
-</thinking>
-
 # Early prophets Form - Help Guide
 ## Purpose
 The Early Prophets Form is a billing form used to capture information about payments for services rendered to guests.

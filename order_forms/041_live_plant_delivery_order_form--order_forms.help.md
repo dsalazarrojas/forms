@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Live Plant Delivery Order Form - Help Guide
 
 ## Purpose

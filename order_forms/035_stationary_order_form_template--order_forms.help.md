@@ -1,16 +1,3 @@
-<thinking>
-This help guide is designed to assist users in understanding the purpose and functionality of the Stationary Order Form Template. 
-
-The form is used to create a new order request for stationary items. It is primarily used by users within the organization to submit orders for stationary items, which are then reviewed and processed by designated personnel.
-
-Before filling out the form, users should be aware that this form is intended for ordering stationary items only and not for other purposes. It is also recommended that users review the form carefully to ensure that they provide accurate information.
-
-It is also worth noting that some fields are required while others are optional. Required fields are indicated with an asterisk (*). Please ensure that required fields are filled out before submitting the form.
-
-The Stationary Order Form Template includes the following fields:
-
-</thinking>
-
 # Stationary Order Form Template - Help Guide
 ## Purpose
 This form is used to create a new order request for stationary items. 

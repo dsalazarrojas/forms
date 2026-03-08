@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information for ordering material testing instruments. The purpose of this form is to facilitate the ordering process for customers to obtain the necessary instruments for their material testing needs. 
-
-The form will guide the customer through a series of questions to ensure that the correct information is collected for the order, including the type of instrument, quantity, and other relevant details. The form's design and field layout are intended to be user-friendly and clear, with options that make it easy for customers to navigate and complete.
-
-It is essential to ensure that the form is filled out correctly to avoid any confusion or errors in the ordering process. Please review this help guide to understand the form's purpose and each field's requirements before submitting your order.
-</thinking>
-
 # Material Testing Instrument Order Form - Help Guide
 ## Purpose
 The Material Testing Instrument Order Form is designed to collect information for ordering material testing instruments.

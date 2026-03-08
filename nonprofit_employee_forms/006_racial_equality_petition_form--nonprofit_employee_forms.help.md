@@ -1,7 +1,3 @@
-<thinking>
-This form is likely being used for individuals or organizations to express their concerns or suggestions regarding racial equality issues. It could be used for advocacy, feedback, or reporting purposes. Before proceeding, please ensure that this is not a duplicate submission and that you have not already shared your thoughts on this matter. If you have concerns or suggestions, please provide them in the clear and concise manner as requested.
-</thinking>
-
 # racial_equality_petition_form - Help Guide
 
 ## Purpose

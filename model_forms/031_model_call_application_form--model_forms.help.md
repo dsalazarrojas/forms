@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information about model calls, which are used to gather data for various models. A model call is a request to run a model on a specific dataset or scenario. This form helps users apply for a model call by providing necessary details about the call. To ensure accurate and relevant applications, please note that this form is not intended for internal use within the company and is meant for external users to apply for model calls. Please do not submit duplicate applications, as this will not be reviewed.
 
 # Model Call Application Form - Help Guide

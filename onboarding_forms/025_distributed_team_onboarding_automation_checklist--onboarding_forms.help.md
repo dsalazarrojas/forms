@@ -1,12 +1,3 @@
-<thinking>
-The Distributed Team Onboarding Automation Checklist is a form designed to streamline the onboarding process for new team members. It helps teams efficiently collect and store essential information about team leads and new team members, making it easier for them to get up-to-speed quickly.
-
-This form is meant to be filled out by team leaders and new team members, with the goal of automating some of the repetitive tasks involved in the onboarding process. By using this form, teams can collect necessary contact information and set up access and equipment for new team members in one step.
-
-Before completing this form, please ensure you are not duplicating efforts, and that your team has not already set up your onboarding process.
-
-</thinking>
-
 # Distributed Team Onboarding Automation Checklist - Help Guide
 ## Purpose
 The Distributed Team Onboarding Automation Checklist is designed to collect essential information about team leads and new team members, automating some of the onboarding process.

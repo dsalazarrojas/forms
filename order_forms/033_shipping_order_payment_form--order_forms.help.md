@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture shipping order payment information for customers. The form is likely used in a retail or e-commerce setting to facilitate payment processing and order tracking. The form fields are designed to collect relevant customer information, including delivery dates, times, addresses, payment methods, and contact details. Before proceeding, ensure that you have the necessary permissions and approvals to access and process sensitive customer data. Please review the form carefully and ensure that you understand the fields before filling it out. If you're not sure about any field, please reach out to your supervisor or the form owner for clarification.
-</thinking>
-
 # Shipping Order Payment Form - Help Guide
 ## Purpose
 This form is designed to collect shipping order payment information from customers. It's used to ensure accurate and timely payment processing and order tracking.

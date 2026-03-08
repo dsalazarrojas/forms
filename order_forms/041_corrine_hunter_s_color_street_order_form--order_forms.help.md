@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to be a generic order form for customers to place orders with Corrine Hunters, likely for a product or service related to Color Street, a fashion accessory brand. The form is meant to collect customer information and order details in a structured way. I am not aware of any specific business or proprietary logic behind this form, so I will be explaining it based on its general purpose and structure. I will also try to keep the explanation concise and practical.
-
-Please note that this form does not seem to be affiliated with any specific survey platform or proprietary data collection tool, so this explanation will focus on the form's functionality and how to use it. If there are any specific instructions or requirements for completing this form, they should be provided in the form's metadata or instructions.
-</thinking>
-
 # Corrine Hunters Color Street Order Form - Help Guide
 ## Purpose
 This form is designed to collect orders from customers for products or services related to Color Street. It collects customer information and order details in a structured way.

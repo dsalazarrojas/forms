@@ -1,17 +1,3 @@
-<thinking>
-The form purpose is to create a raffle ticket for an event. The form is used to collect the necessary information from the user to generate the raffle ticket.
-
-The form is not intended for users who do not have a valid reason to submit a payment or have a specific ticket type.
-
-This form does not check for duplicate orders.
-
-This form requires no prior setup, no login, or no additional information from users.
-
-This form may be submitted multiple times.
-
-The form submission is a public record.
-</thinking>
-
 # raffle_ticket_generation_form - Help Guide
 
 ## Purpose

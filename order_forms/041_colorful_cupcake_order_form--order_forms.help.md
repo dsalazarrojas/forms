@@ -1,7 +1,3 @@
-<thinking>
-To determine the form purpose, we need to analyze the fields provided in the YAML input. The form is called "Colorful Cupcake Order Form", which suggests that it is used for ordering custom cup cakes. The fields include customer details (name, email, contact email), flavor selection, cupcake count, decoration notes, delivery preferences (pickup or delivery, delivery address), and payment method. This form likely serves as a tool for customers to place custom cupcake orders online, providing the business with necessary information for order fulfillment. There is no overlap or duplication of fields that would make the form purpose unclear.
-</thinking>
-
 # Colorful Cupcake Order Form - Help Guide
 ## Purpose
 The Colorful Cupcake Order Form is used to place custom cupcake orders online. This form gathers necessary information from customers to facilitate order processing and fulfillment.

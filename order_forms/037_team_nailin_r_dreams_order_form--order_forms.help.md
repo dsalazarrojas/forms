@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Team Nailin R Dreams Order Form - Help Guide
 ## Purpose
 The Team Nailin R Dreams Order Form is designed to collect information for orders from customers. This form helps to gather details about the order, including color choices, street names, set selection, quantities, date ordered, comments, and other relevant details.

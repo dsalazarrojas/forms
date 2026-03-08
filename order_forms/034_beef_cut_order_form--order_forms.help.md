@@ -1,11 +1,3 @@
-<thinking>Beef Cut Order Form - Form Purpose and Usage
-
-The Beef Cut Order Form is a crucial tool used by customers to place orders for custom-cut beef products with their preferred specifications. The form is designed to guide customers through the process of selecting the type and quantity of beef they desire, along with any additional preferences for processing and packaging. This form ensures that all relevant information is captured accurately, ensuring a seamless experience for both the customer and the butcher shop staff.
-
-To prevent duplication, this form should only be used for new orders. Any changes to existing orders should be made through the butcher shop's customer service.
-
-</thinking>
-
 # Beef Cut Order Form - Help Guide
 ## Purpose
 The Beef Cut Order Form is a tool used to place custom orders for beef products with specific specifications.

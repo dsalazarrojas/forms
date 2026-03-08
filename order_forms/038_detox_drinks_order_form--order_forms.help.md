@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help end-users understand the purpose and usage of the "Detox Drinks Order Form". The form is designed to gather contact information and order details from users. It's crucial that users fill out this form accurately to ensure successful order processing and communication. 
-</thinking>
-
 # Detox Drinks Order Form - Help Guide
 
 ## Purpose

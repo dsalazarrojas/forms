@@ -1,5 +1,3 @@
-<thinking>Checking the provided YAML structure, it appears to be an order form with various fields for customer information, order details, and form metadata. This form likely serves as a template for orders, allowing customers to input their information, payment methods, and order specifics. To ensure that users understand the form's purpose and usage, we will provide a clear and concise help guide.</thinking>
-
 # Tidy Order Form - Help Guide
 ## Purpose
 The Tidy Order Form is used to collect customer information, order details, and payment methods for a seamless ordering experience. This form is designed to capture the essential data required for processing customer orders.

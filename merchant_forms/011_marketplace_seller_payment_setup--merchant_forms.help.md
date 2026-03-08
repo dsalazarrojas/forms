@@ -1,12 +1,3 @@
-<thinking>
-We are creating a user-facing help guide for the "Marketplace Seller Payment Setup" form. This form is used to configure payment settings for marketplace sellers. The form is divided into multiple pages, each with its own set of fields. Our goal is to ensure that end-users understand the purpose of each field and how to complete the form correctly.
-
-The form's purpose is to collect information about the seller's payment preferences and settings. This includes selecting their preferred payout frequency, payment methods, bank account details, and agreement options. The form is crucial in setting up the payment structure for the seller's marketplace activities.
-
-Before we begin, let's review the form's structure and fields. The form has 25 fields, each with its own label, hint, and type. Some fields are text inputs, while others are select options or notes. We will address each field type specifically in the help guide.
-
-</thinking>
-
 # Marketplace Seller Payment Setup - Help Guide
 ## Purpose
 The Marketplace Seller Payment Setup form is used to configure payment settings for marketplace sellers. It collects information about the seller's preferred payout frequency, payment methods, bank account details, and agreement options.

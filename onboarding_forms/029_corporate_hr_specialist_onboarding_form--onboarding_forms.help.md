@@ -1,6 +1,3 @@
-<thinking> 
-This form, "corporate_hr_specialist_onboarding_form," is intended for corporate HR specialists to input information about employees within the organization. It's designed to gather data for onboarding purposes, ensuring that employees are properly integrated into the company's systems. To complete this form, HR specialists will provide personal and professional details of employees, including their job title, department, job status, hire date, termination date, contact information, and reporting structure. It's essential to ensure the form is filled out thoroughly and accurately to maintain up-to-date employee records.</thinking>
-
 # corporate_hr_specialist_onboarding_form - Help Guide
 ## Purpose
 This form is used to collect and store employee information for onboarding purposes.

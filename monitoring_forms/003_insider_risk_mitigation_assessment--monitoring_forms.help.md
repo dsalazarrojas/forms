@@ -1,5 +1,3 @@
-<thinking>...This form is designed to assess and mitigate insider risk in a company or organization. The form is used to gather information about potential incidents or threats, their severity, and recommended controls or actions to take. It's meant to be filled out by individuals who have knowledge about the incidents or threats, such as security teams or incident response teams. This form should not be filled out for every single incident or threat, but rather for those that have a higher risk rating or require special attention. Please ensure that you only fill out this form for incidents or threats that have a clear impact on the organization and its assets... </thinking>
-
 # Insider Risk Mitigation Assessment - Help Guide
 ## Purpose
 The Insider Risk Mitigation Assessment form is used to assess and mitigate potential insider risks in the organization. It helps gather information about incidents or threats, their severity, and recommended controls or actions to take.

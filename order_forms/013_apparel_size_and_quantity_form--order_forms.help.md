@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Apparel Size And Quantity Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to capture essential information for tournament refreshment delivery orders. It's likely used in a competitive event setting where refreshments are needed. The form is composed of multiple pages, each focusing on different aspects of the order. The "tournament_info" page is a brief introduction, while "order_info" and "delivery_info" collect details about the order and delivery. "payment_info" and "order_details" cover payment and order specifics, respectively. "additional_info" and other fields allow for additional details to be provided. It's essential to ensure the user understands the purpose of each field to accurately fill out the form.
-
-</thinking>
-
 # Tournament Refreshment Delivery Order Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to facilitate a smooth and efficient workspace management process for users who share workspaces. The Shared Workspace Check Out Form is intended to be used by users when they are checking out of a shared workspace, allowing them to report their checkout time, provide details about the workspace and the event they attended at the venue, and submit any relevant comments or feedback.
-This form is not intended to be a comprehensive workspace management system, but rather a simple tool to help track checkouts and gather information for future improvements.
-</thinking>
-
 # Shared Workspace Check Out Form - Help Guide
 ## Purpose
 The Shared Workspace Check Out Form is a tool used to record checkout times and gather information about shared workspaces.

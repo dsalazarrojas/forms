@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lgbtq_allyship_in_nonprofits_survey - Help Guide
 ## Purpose
 The Lgbtq_allyship_in_nonprofits_survey form is designed to gather information from nonprofit employees about their experiences, perceptions, and suggestions related to LGBTQ+ allyship within the organization. The form helps identify areas of strength and improvement in the current allyship culture and informs the development of strategies to promote allyship.

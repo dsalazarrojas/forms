@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users for the purpose of searching models. The form is meant to be used by users who are searching for specific models based on various criteria such as fashion designer, production company, clothing shop, and other relevant attributes. The form is not intended for duplicate submissions or non-relevant searches. The purpose of this help guide is to ensure that users understand how to properly complete the form to get accurate results.
-</thinking>
-
 # Model Search Form - Help Guide
 ## Purpose
 The Model Search Form is designed to collect information from users for the purpose of searching models. Fill out the form with the necessary details to get an accurate and relevant search result.

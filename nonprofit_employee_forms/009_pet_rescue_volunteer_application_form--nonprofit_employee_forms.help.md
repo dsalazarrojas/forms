@@ -1,12 +1,3 @@
-<thinking>
-The form "pet_rescue_volunteer_application_form" is designed to collect information from potential volunteers for pet rescue services. This form is intended to be used by pet rescue organizations to collect contact information, volunteer details, and emergency contact information from individuals interested in volunteering. It is essential that users fill out the form accurately and completely, as this information will be used to manage volunteer relationships and ensure the smooth operation of pet rescue services.
-
-To confirm, the form is not designed for general inquiries or other purposes. It is a specific application form for volunteers interested in participating in pet rescue services. 
-
-Before filling out the form, please note that some fields are optional. However, ensuring you provide all necessary information will help the pet rescue organization better understand your application and facilitate a successful volunteer relationship.
-
-</thinking>
-
 # pet_rescue_volunteer_application_form - Help Guide
 
 ## Purpose

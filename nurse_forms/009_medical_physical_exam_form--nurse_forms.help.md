@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from patients during a medical physical exam. The goal is to gather relevant details about the patient's past medical history, chief complaint, and current medical conditions. This form will help healthcare professionals to identify potential risks and develop an appropriate treatment plan.
-
-Before we dive into the form details, we want to ensure that you, the end-user, understand the purpose and scope of this form. This form is intended for medical professionals to collect information during a physical examination. Please make sure to fill it out correctly and accurately to avoid any confusion or errors.
-
-</thinking>
-
 # Medical Physical Exam Form - Help Guide
 ## Purpose
 The Medical Physical Exam Form is designed to collect information from patients during a medical physical examination. This form is used to gather details about the patient's past medical history, chief complaint, and current medical conditions.

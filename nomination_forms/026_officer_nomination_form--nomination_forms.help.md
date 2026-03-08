@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for nominating officers for an organization. The form collects information about the nominee, including their category, description, contact details, and qualifications. It's crucial to fill out the form accurately to ensure proper evaluation of the nominee's fit for the position.
-</thinking>
-
 # Officer Nomination Form - Help Guide
 ## Purpose
 The Officer Nomination Form is designed to collect nominations for officers within the organization. It ensures that all nominated individuals have the necessary information and qualifications for the position.

@@ -1,10 +1,3 @@
-<thinking> 
-The Annual Awards Report Form is a crucial document for tracking and reporting on the awards programs and events held by the organization. This form helps to ensure accuracy and consistency in the reporting process by gathering necessary information from the person submitting the report. The form is designed to be completed by the person responsible for submitting the report, typically the Awards Program Manager or a representative from the nominating organization. 
-Please note that this form is a one-time submission and should not be resubmitted. If you are unsure about any of the information or fields, please contact the relevant department for clarification. 
-
-When completing this form, please ensure that all required fields are filled out accurately and thoroughly. If you have any additional information or supporting documents that can enhance the report, please attach them as per the 'Supporting Documents' field. 
-</thinking>
-
 # Annual Awards Report Form - Help Guide
 ## Purpose
 The Annual Awards Report Form is used to collect information about awards programs and events held by the organization, ensuring accuracy and consistency in the reporting process.

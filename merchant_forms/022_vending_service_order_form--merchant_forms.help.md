@@ -1,10 +1,3 @@
-<thinking>
-The vending_service_order_form is used for submitting a restocking order for a vending machine. This form should be used when a machine needs to be replenished with items. The form will collect necessary information to determine the best course of action for restocking the machine. The form is not intended for other purposes, such as reporting sales or machine status.
-
-To ensure accuracy, please make sure to complete the form correctly and only when a restock is actually needed. Duplicate submissions can lead to confusion and may cause delays in the restocking process.
-
-</thinking>
-
 # vending_service_order_form - Help Guide
 ## Purpose
 

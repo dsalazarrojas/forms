@@ -1,13 +1,3 @@
-<thinking> 
-This form is likely used by field technicians to monitor the condition of gearboxes in industrial or mechanical systems. The purpose of this form is to gather information about the gearbox's performance and identify potential issues. The form is divided into several sections, and each section is focused on a specific aspect of gearbox condition monitoring. 
-
-This form does not seem to be a duplicate of any existing form, but it's always good to double-check and make sure. If you're reading this guide, you're likely familiar with the subject matter, but just to reiterate, the form is designed to be easy to use and complete, even for users who may not be experts in gearbox condition monitoring. 
-
-The form's layout and content suggest that it's intended for field technicians or operators who need to inspect and report on gearboxes in the field. The form does not seem to be overly complex, but it does require some technical knowledge and attention to detail. 
-
-Please note that this form does not seem to be designed for user input, but rather for data collection and reporting. It's likely used in a regulated or industrial setting where accurate and detailed information is required. 
-
-</thinking>
 # Gearbox Condition Monitoring Checklist - Help Guide
 ## Purpose
 The Gearbox Condition Monitoring Checklist is used to collect information about the condition of gearboxes in industrial or mechanical systems.

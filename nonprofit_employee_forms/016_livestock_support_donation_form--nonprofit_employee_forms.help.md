@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals or organizations who wish to make a donation to support a specific livestock-related cause or initiative. The purpose of this form is to gather details about the donor, the amount and purpose of the donation, and any contact information for follow-up or communication purposes. This form is likely used by non-profit organizations, animal shelters, or advocacy groups focused on livestock-related issues.
-
-Before completing this form, please ensure that you are not duplicating a previous donation or submission. If you have already submitted a donation or information for a similar purpose, please do not fill out this form again.
-</thinking>
-
 # Livestock Support Donation Form - Help Guide
 ## Purpose
 The Livestock Support Donation Form is designed to collect information from donors who wish to make a donation to support livestock-related causes or initiatives.

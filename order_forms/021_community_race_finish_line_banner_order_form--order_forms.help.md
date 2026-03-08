@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for ordering a custom banner for a community race finish line. This form is likely used by event organizers or planners who want to create a banner that represents their race event. The form guides the user through selecting the size and material of the banner, the text and logo to be displayed, the color scheme, and other details such as shipping method and delivery date.
-The form seems to be designed for one-time usage, without any indication of storing or tracking order history. The user is expected to provide all the necessary information for a single order.
-</thinking>
-
 # Community Race Finish Line Banner Order Form - Help Guide
 ## Purpose
 The purpose of this form is to order a custom banner for a community race finish line. Please fill out the form below to provide all the necessary details for your order.

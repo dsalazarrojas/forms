@@ -1,9 +1,3 @@
-<thinking>
-Non-duplication check: This form is designed for volunteers, ensuring they can accurately confirm their details and verify their employment status with their current or past employers.
-Relevant fields checked: First Name, Last Name, Email, Phone, Job Title, Start Date, End Date, Supervisor Name, Supervisor Email, Supervisor Phone, Supervisor Job Title, Why did you leave this organisation?, Organisation, Organisation Name, Position in organisation, Reference, Organisation Reference, Organisation Type, Other, Employed, Employed by, Hours Worked, Employed by other, I agree to the terms of use.
-No duplicate fields detected.
-</thinking>
-
 # Volunteer Verification Form - Help Guide
 ## Purpose
 The Volunteer Verification Form is a tool used to collect accurate and comprehensive information from volunteers about their employment status, past experiences, and personal details. This form is essential for verifying a volunteer's employment status with their current or past employers, ensuring that we have a clear understanding of their work history and can effectively manage our volunteer program.

@@ -1,17 +1,3 @@
-<thinking>
-The purpose of the Order Fulfillment Communication Form is to facilitate clear and efficient communication between customers and employees regarding order fulfillment status, updates, and other relevant information. This form is used to collect and exchange information between the customer and the employee handling the order, ensuring that both parties are on the same page and that the customer is informed and updated in a timely manner.
-
-Before proceeding, please note that the form is designed to be completed by both customers and employees, and it is recommended to fill it out in sections, one part at a time, to ensure clarity and accuracy in communication.
-
-To avoid duplication and ensure the form's purpose is understood, please review the following:
-
-* The form is not intended for customers to place new orders or request new orders.
-* The form is not meant for employees to update customer information or place new orders.
-* The form is for communication and updates only.
-
-If you have any questions or concerns, please reach out to your support team.
-</thinking>
-
 # Order Fulfillment Communication Form - Help Guide
 ## Purpose
 The Order Fulfillment Communication Form is used for customers and employees to exchange information and updates on order fulfillment status, customer comments, and other relevant details.

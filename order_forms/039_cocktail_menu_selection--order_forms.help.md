@@ -1,7 +1,3 @@
-<thinking>
-This form is for guests to select their preferred cocktails and provide their personal preferences and information to help the bartender craft their drink to their liking. The form includes fields for guest information, dietary restrictions, and drink selections. The form is designed to be completed by guests, not bartenders or staff. To ensure accurate and efficient data collection, the form should only be completed once by each guest. Please ensure that the form is not duplicated or submitted multiple times by the same guest.
-</thinking>
-
 # Cocktail Menu Selection - Help Guide
 ## Purpose
 The Cocktail Menu Selection form is designed to help you select your preferred cocktail and share your personal preferences with our bartender. This form ensures that we can craft your drink exactly to your liking.

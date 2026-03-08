@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help users submit an order for furniture items. The form is meant to capture essential details about the customer, the furniture items they want to purchase, and the order preferences such as delivery date and payment method.
-The form has several fields that require completion, and some are optional. Each field is designed to collect specific information to facilitate a smooth and efficient order process.
-</thinking>
-
 # Afterpay Furniture Order Form - Help Guide
 ## Purpose
 The Afterpay Furniture Order Form is designed to collect information from customers to process their orders for premium furniture items. The form is divided into several sections to ensure that all relevant details are captured.

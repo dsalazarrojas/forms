@@ -1,7 +1,3 @@
-<thinking>
-To prevent duplication of efforts and ensure accurate processing, this form is intended for customers who have already placed an order and are requesting a cancellation claim. It is not for customers who are simply cancelling their subscription due to a change of mind or other reasons not related to an actual order issue. Please ensure that you have a valid order ID and other required information before filling out this form.
-</thinking>
-
 # Subscription Cancellation Claim Form - Help Guide
 
 ## Purpose

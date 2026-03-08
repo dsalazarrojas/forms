@@ -1,11 +1,3 @@
-<thinking>**This form is intended to be completed by school administration staff to record purchases of school t-shirts.**
-The form is used to collect information about the students who have purchased t-shirts, including their name, activity, class information, purchase price, payment method, student fee, school name, class fee, and purchase date. This form is likely used for internal record-keeping and accounting purposes. 
-It's recommended that users fill out the form only for students who have purchased t-shirts, and not for other purposes. 
-This form is part of a larger system of forms, so be sure to check the relevant form's ID and name to ensure it is the correct form to be filled out. 
-If you're unsure about any field or information, please contact the relevant school administration staff. 
-
-</thinking>
-
 # School T Shirt Purchase Form - Help Guide
 ## Purpose
 This form is used to record purchases of school t-shirts by students.

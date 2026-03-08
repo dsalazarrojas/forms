@@ -1,10 +1,3 @@
-<thinking>
-The "Employee Nomination Form" is a crucial tool for recognizing and awarding employees for their outstanding contributions and achievements. When filling out this form, it's essential to ensure that you're providing accurate and thoughtful nominations. Please note that this form may only be filled out for employees who have not previously received a nomination within the past 6 months.
-
-When filling out this form, please ensure that you are not duplicating nominations for the same employee in the same period. Duplicate nominations can lead to delays in the evaluation process and may not accurately represent the employee's achievements.
-
-This form is designed to be simple and intuitive, so you should be able to easily navigate it. However, if you have any questions or need clarification on a specific field, please don't hesitate to reach out to your team or HR representative.</thinking>
-
 # Employee Nomination Form - Help Guide
 ## Purpose
 The "Employee Nomination Form" is used to recognize and award employees for their outstanding contributions and achievements. Please use this form to nominate employees who have demonstrated exceptional performance, initiative, or dedication to their role.

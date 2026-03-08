@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for onboarding research postdoctoral fellows. It is used to collect demographic information and other details about the fellow and their research group. This form is only for postdoctoral fellows, not for other types of researchers. If you are not a postdoctoral fellow, this form is not relevant to you.
-
-Please ensure you have the necessary permissions and approvals before completing this form, especially if you are representing your department.
-
-</thinking>
-
 # Research Postdoctoral Fellow Onboarding Form - Help Guide
 ## Purpose
 This form is used to collect information about you and your research group for onboarding as a research postdoctoral fellow.

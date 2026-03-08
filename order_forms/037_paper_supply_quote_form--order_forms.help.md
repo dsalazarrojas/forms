@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is for generating a quote for paper supplies. It captures essential information about the customer, their business, and the specific paper requirements for a quote. The form is designed to be completed by customers or sales representatives to provide accurate and personalized quotes. 
 
 The fields should be filled out with accurate and relevant information to generate a correct quote. 

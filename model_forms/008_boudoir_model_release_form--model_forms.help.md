@@ -1,9 +1,3 @@
-<thinking>
-We should consider adding validation rules for the date of birth field to ensure the model is at least 18 years old.
-Additionally, we should think about adding a checkbox for consent to use images for commercial purposes.
-The form seems to be designed for a photography studio or agency, so it's likely that they want to make sure the model is aware of and consents to their usage rights.
-</thinking>
-
 # Boudoir Model Release Form - Help Guide
 ## Purpose
 This form is used by the photographer to collect information and permissions from the model to use their images for various purposes such as portfolio display, social media, website, marketing materials, print publications, and advertising. The form also asks for the model's consent to use their images without modification, and to specify the duration of usage rights. Additionally, the form asks for the model's address, phone number, and email address for communication and records.

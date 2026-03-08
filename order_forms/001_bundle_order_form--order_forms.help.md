@@ -1,17 +1,3 @@
-<thinking>
-To determine the purpose and relevance of this form, let's break down the form's fields and structure. The form is called "Bundle Order Form" and has several sections and fields. 
-
-- The form is divided into two main sections: "Customer Information" and "Order Details".
-- The "Customer Information" section (page 2) contains fields for "Full Name", "Email Address", "Phone Number", and "Delivery Address", which are all required and seem to pertain to customer identification and contact information.
-- The "Order Details" section (page 5) contains fields for "Select Bundle Type", "Quantity", "Preferred Delivery Date", "Special Instructions or Notes", and "Payment Method Preference", which are all required and appear to pertain to the specifics of the order.
-- The form requires a specific "Bundle Type" selection, which implies that the form is for customers ordering a specific type of bundle.
-- There is also a "Quantity" field, indicating that the form is for customers to order multiple bundles.
-- The "Preferred Delivery Date" field suggests that the bundles will be fulfilled on a specific date.
-- "Special Instructions or Notes" and "Payment Method Preference" fields indicate that there may be additional instructions or payment terms that need to be considered for this order.
-Given the structure and content of the form, it appears to be for customers to place orders for specific bundles or packages of services, with detailed customer information and order specifics required for fulfillment. This form likely serves as the initial order intake process for a business or service provider offering bundles or packages of services.
-
-</thinking>
-
 # Bundle Order Form - Help Guide
 
 ## Purpose

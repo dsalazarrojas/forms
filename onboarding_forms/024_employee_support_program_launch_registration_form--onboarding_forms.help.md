@@ -1,7 +1,3 @@
-<thinking>
-The Employee Support Program Launch Registration Form is a form designed to gather essential information from employees to support their participation in the Employee Support Program. This program aims to provide employees with access to resources and support to help them excel in their roles and careers. Before proceeding, please ensure that you have not registered for the Employee Support Program before, as duplicate submissions may cause unnecessary processing and potential confusion.
-</thinking>
-
 # Employee Support Program Launch Registration Form - Help Guide
 ## Purpose
 The Employee Support Program Launch Registration Form is a tool used to collect employee data for the Employee Support Program. This form helps us understand your job responsibilities, department, and other relevant details to tailor the support provided to your specific needs.

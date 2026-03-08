@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers regarding pest control services they require. This form allows customers to submit their company name, contact details, and specific details about the pest control service they need. The fields provided are meant to capture the customer's name, address, contact information, and the type of pest control service they are seeking.
- 
-</thinking>
 # pest_control_service_intake_form - Help Guide
 ## Purpose
 This form is for customers to submit a request for pest control services.

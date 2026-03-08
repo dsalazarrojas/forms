@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form's purpose is to collect information from customers, such as their first and last name, contact email, phone number, and address. The form is designed to be completed by customers who have won a prize and are requesting information on how to claim it. 
 
 </thinking>

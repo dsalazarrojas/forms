@@ -1,9 +1,3 @@
-<thinking>
-Internal reasoning: The Event Ticket Billing Form is designed for users to create and manage billing information for events. This form is likely used by event organizers to collect payment and attendee details for events. The form's purpose is to ensure accurate and complete billing information is captured for each event.
-The form is divided into multiple pages, each with its own set of fields. The first page likely collects event-specific information such as event date, ticket type, and ticket price. The second page is for order-specific information like order form and order total. The third page is for payment-specific information like payment method. The fourth page might be for attendee information like attendee info. The fifth page is likely for ticket quantity.
-The form's fields are mostly self-explanatory, but some could be considered optional or have ambiguous labels. For example, "ticket type" might be a dropdown menu with options like "General Admission" or "VIP". "payment_method" could be a dropdown menu with options like "Credit Card" or "Bank Transfer". This form is intended for use by event organizers to collect and manage billing information. 
-</thinking>
-
 # Event Ticket Billing Form - Help Guide
 ## Purpose
 The Event Ticket Billing Form is designed for users to create and manage billing information for events. This form is used by event organizers to collect payment and attendee details for events.

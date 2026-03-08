@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for importing products into the system. The purpose of this form is to gather relevant information about the products to be imported. The form is designed to collect details such as product name, description, weight, price, status, tags, image, email, phone number, and other relevant fields that can be used for importing products into the system.
-
-The form is designed to ensure that all required fields are filled out correctly to avoid any duplication or errors during the import process.
-
-</thinking>
-
 # Product List Import Form - Help Guide
 ## Purpose
 The Product List Import Form is used for importing products into the system with relevant information such as product name, description, weight, price, status, tags, image, email, phone number, and other relevant fields.

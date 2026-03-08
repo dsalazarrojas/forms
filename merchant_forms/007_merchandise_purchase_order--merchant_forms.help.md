@@ -1,17 +1,3 @@
-<thinking>
-The purpose of this form is to gather information related to the merchandise purchase order from customers. The form is designed to collect details such as order specifics, contact information, payment details, delivery details, merchandise details, and vendor information. This form is likely used by merchants to receive and process orders, and it's essential to ensure that all required fields are filled out correctly to avoid any issues with order processing.
-
-To determine if this form should be used, consider the following scenarios:
-- A merchant needs to process a purchase order.
-- A customer is submitting their order for processing.
-
-This form should not be used for:
-- Invoicing or billing purposes.
-- Customer support or inquiry resolution.
-
-Before starting, ensure the form is not already open in a separate window.
-</thinking>
-
 # merchandise_purchase_order - Help Guide
 ## Purpose
 The merchandise purchase order form is used by merchants to collect information from customers for processing purchase orders.

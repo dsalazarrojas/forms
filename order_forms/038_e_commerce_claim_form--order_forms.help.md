@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be for customers to report e-commerce issues, such as defective or damaged products, or issues with the product not being as described. The form is likely used by customers to provide details about their issue and attach any relevant supporting documentation or images. The form's purpose is to help customers report their concerns in a clear and concise manner, and it may be used by sales representatives or customer service teams to address the issues raised.
-
-To ensure that customers can complete the form effectively, it's essential to understand what each field is for and what information it requires. This guide will walk you through each field and explain its purpose, making it easier for customers to complete the form accurately.
-
-</thinking>
-
 # e_commerce_claim_form - Help Guide
 ## Purpose
 This form is for customers to report e-commerce issues, such as defective or damaged products, or issues with the product not being as described.

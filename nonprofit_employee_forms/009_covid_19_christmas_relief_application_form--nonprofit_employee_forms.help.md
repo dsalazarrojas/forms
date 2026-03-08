@@ -1,15 +1,3 @@
-<thinking>
-To determine the purpose of this form and ensure that it is not duplicated, we should consider the following factors:
-
-*   The form is designed for non-profit organizations to provide COVID-19 relief to individuals or groups. Therefore, it is likely that this form is used for internal management or reporting purposes within the organization.
-*   The form has multiple fields for listing beneficiaries, their details, relief amount, relief frequency, start and end dates, and contact information. This suggests that the form is used to track and manage relief efforts for a specific period.
-*   There is no indication that this form is publicly visible or used for external applications. The presence of select_one and select_multiple fields for beneficiary details implies that the form is intended for internal use within the organization.
-*   Considering the fields and their labels, it seems that this form is not a duplicate of any other existing form within the organization. The combination of fields like "Beneficiary 1", "Beneficiary 2", "Beneficiary 3", and "Relief Amount" suggests a specific use case that is not immediately obvious from the provided YAML.
-
-Based on these considerations, the form is likely a tool for internal management of COVID-19 relief efforts. The form's purpose is to collect information about beneficiaries, their details, and relief distribution schedules for the organization's management and reporting.
-
-</thinking>
-
 # covid 19 christmas relief application form - Help Guide
 ## Purpose
 This form is designed for internal use by non-profit organizations to manage and report COVID-19 relief efforts. It helps track beneficiaries, their details, and relief distribution schedules for easy management and reporting.

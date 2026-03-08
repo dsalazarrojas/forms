@@ -1,14 +1,3 @@
-<thinking> 
-This form is designed to guide new hires through the onboarding process for Energy Field Engineers. It collects information that will help the Energy Field Team understand the new hire's background, preferences, and expectations. This form is intended for Energy Field Engineers who will be working on-site and interacting with equipment, tools, and personnel. It's essential to complete this form carefully and accurately to ensure a smooth transition into the role.
-
-To avoid delays or duplication of effort, please ensure that you have completed the necessary steps before submitting this form. This may include:
-
-* Reviewing the company's policies and procedures related to safety, onboarding, and job expectations.
-* Discussing the job role, responsibilities, and performance metrics with your supervisor or HR representative.
-* Familiarizing yourself with the work site, equipment, and tools required for the job.
-
-</thinking>
-
 # Energy Field Engineer Onboarding Form - Help Guide
 ## Purpose
 The Energy Field Engineer Onboarding Form is designed to guide new hires through the onboarding process, ensuring they are prepared to start their role as an Energy Field Engineer.

@@ -1,10 +1,3 @@
-<thinking> 
-The purpose of this form is to collect participation information from volunteers and supporters who want to contribute to the Support Children Initiative. The form is designed to gather data on volunteers and supporters, including their names, email addresses, and details about the initiative they are supporting. The form can be completed by anyone who wants to participate in or support the initiative, regardless of their affiliation or category. This form is not affiliated with any specific form platform and is an original adaptation of a publicly available survey. It is released under a Creative Commons license, allowing users to use, modify, and share the form freely. 
-
-Please note that this form is not a part of any official initiative and is intended for general information collection purposes only. If you have any questions or concerns, please contact form@gic.mx.
-
-</thinking>
-
 # Support Children Initiative Participation Form - Help Guide
 
 ## Purpose

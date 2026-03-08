@@ -1,13 +1,3 @@
-<thinking>**Internal Reasoning:**
-
-The Supplier Order Amendment Form is a tool used to update or modify existing orders that have been placed with suppliers. This form is essential for ensuring accuracy and clarity in the ordering process.
-
-Before filling out this form, please ensure you've reviewed the original order and have a clear understanding of the changes you'd like to make. This form is only meant for updating orders that already exist, not for creating new orders.
-
-Also, please make sure to only use this form for genuine reasons. If you're unsure whether to use this form or not, please reach out to your supervisor or the relevant team for clarification.
-
-</thinking>
-
 # Supplier Order Amendment Form - Help Guide
 
 ## Purpose

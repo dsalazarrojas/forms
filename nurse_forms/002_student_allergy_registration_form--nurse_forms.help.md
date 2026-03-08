@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from students about their allergies, medications, or medical conditions for the school or institution's health and safety record keeping. It is essential to register this information to provide the necessary care and precautions for students in case of an emergency or accident. Before completing this form, please review and fill out any existing allergy registration forms you have already submitted to avoid duplication.
-
-Please note that some fields are not required, and you can skip them if they do not apply to your situation. However, be sure to fill out all relevant fields accurately and truthfully to ensure the form's purpose is fulfilled.
-</thinking>
-
 # Student Allergy Registration Form - Help Guide
 ## Purpose
 The Student Allergy Registration Form is designed to collect information about students' allergies, medications, or medical conditions to provide essential health and safety information for the school or institution.

@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I've reviewed the form's purpose and fields to ensure clarity and accuracy. This form is designed to capture information for bulk beverage container orders, including order dates, business details, delivery addresses, container specifications, and shipping preferences. The form's fields are divided into two main sections: business information and order details. To complete this form, users will need to provide accurate and relevant information for each field. Each field is essential for processing the order, and some fields, like order date and delivery date, have specific formatting requirements. Please review the form carefully before submitting it to avoid errors and ensure a smooth transaction.</thinking>
-
 # Bulk Beverage Container Order Form - Help Guide
 
 ## Purpose

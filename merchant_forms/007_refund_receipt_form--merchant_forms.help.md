@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to be used by merchants to process refunds for customers. It captures relevant information about the refund, including details about the customer and the merchant, as well as the refund amount and method. 
-
-The form is designed to be user-friendly and straightforward, making it easy for merchants to quickly and accurately capture the necessary information for processing refunds. 
-
-The form is not intended for use in other contexts, such as for non-refund purposes. 
-
-This guide is intended for merchants who need to use this form to process refunds.
-
-</thinking>
-
 # Refund Receipt Form - Help Guide
 ## Purpose
 The Refund Receipt Form is used by merchants to process refunds for customers. It captures key information about the customer, merchant, refund amount, and refund status.

@@ -1,7 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for the "Volunteer Work Week Registration Form", I will first break down the form's purpose and the fields within it. This form is designed for volunteers to register their availability for work weeks, which is crucial for organizing and scheduling volunteer work. It is likely used internally within an organization to ensure seamless collaboration and coordination among volunteers.
-</thinking>
-
 # Volunteer Work Week Registration Form - Help Guide
 ## Purpose
 This form is used to register your availability and commitment for volunteer work weeks. Please take a few minutes to fill out this form accurately to ensure we can best utilize your skills and expertise during our volunteer work weeks.

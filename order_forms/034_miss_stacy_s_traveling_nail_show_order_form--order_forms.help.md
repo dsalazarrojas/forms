@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users who want to order a nail show experience from Miss Stacy's Traveling Nail Show. The form likely collects information for an online or in-person event where nail artists will be traveling to provide nail services, such as nail art, nail polish changing, or other nail-related activities. This form likely serves as a central point for event organizers to manage and track orders, including client information, service details, and submission guidelines. 
-</thinking>
-
 # miss_stacy_s_traveling_nail_show_order_form - Help Guide
 
 ## Purpose

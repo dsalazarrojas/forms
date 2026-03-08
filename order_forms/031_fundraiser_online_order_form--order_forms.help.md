@@ -1,7 +1,3 @@
-<thinking>
-The Fundraiser Online Order Form is designed for customers to make online orders or donations to a fundraiser. To check for relevance and non-duplication, ensure that the form is only filled out when an actual order or donation is being placed. The form should not be used for testing or demonstration purposes.
-</thinking>
-
 # Fundraiser Online Order Form - Help Guide
 ## Purpose
 The Fundraiser Online Order Form is used to collect information from customers when making online orders or donations to a fundraiser. This form is designed to gather essential details for processing and fulfilling orders, as well as collecting donation information for a cause.

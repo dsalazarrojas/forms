@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for custom barcode label orders. The form is intended to be used by customers to provide details about their orders, including customer name, order specifications, artwork, quantity, unit price, payment method, payment information, shipping details, special instructions, order date, order time, email, phone number, and a customer message. This form will likely be used by a customer service team or order fulfillment team to process the order.
-
-</thinking>
 # Custom Barcode Label Order Form - Help Guide
 ## Purpose
 This form is used to collect information for custom barcode label orders. It helps customers provide details about their orders and is typically filled out by the customer or customer service team.

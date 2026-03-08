@@ -1,7 +1,3 @@
-<thinking>
-This form is used to create an order for a custom cabinet door. It's used by customers to provide their order details, including style and sizing preferences, delivery method, and payment method. This form is used to gather information from customers for the production and delivery of custom cabinet doors.
-</thinking>
-
 # custom_cabinet_door_order_form - Help Guide
 ## Purpose
 This form is used to create an order for a custom cabinet door. It gathers information from customers for the production and delivery of custom cabinet doors.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from individuals or organizations interested in making a donation to a rehabilitation center's fund. This form is intended to collect contact information, donation details, and any special circumstances or notes the donor would like to mention.
-</thinking>
-
 # rehabilitation_center_fund_donation_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from donors for the rehabilitation center's fund. This form is used to gather contact details, donation amount, frequency, and special circumstances or notes from the donors.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to measure the efficiency of communication within a nonprofit organization. The goal is to understand how effectively employees communicate with each other and what can be improved. This guide will walk you through the form's purpose, how to complete it, and an explanation of each field to help you provide accurate and relevant information.
-</thinking>
-
 # Nonprofit Communication Efficiency Questionnaire - Help Guide
 ## Purpose
 The Nonprofit Communication Efficiency Questionnaire is designed to gather information about your experience with internal and external communication within the nonprofit organization you work for. Your input will help us identify areas of improvement and provide insights to optimize communication processes.

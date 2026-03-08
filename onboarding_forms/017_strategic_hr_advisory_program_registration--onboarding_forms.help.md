@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Strategic HR Advisory Program Registration form is to gather essential information from participants who wish to register for the Strategic HR Advisory Program. This form is intended for internal use within the organization, and the information collected will be used to manage program participation, track progress, and provide support to program participants. Please fill out this form carefully and accurately to ensure that your registration is processed correctly. Note that this form is not intended for external use, and the information collected will not be shared or published publicly. To avoid duplication of effort, please do not register multiple versions of your program using this form. If you have already registered for the program, please do not attempt to register again.
-</thinking>
-
 # Strategic HR Advisory Program Registration - Help Guide
 ## Purpose
 The Strategic HR Advisory Program Registration form is used to gather essential information from participants who wish to register for the Strategic HR Advisory Program. This form is designed to manage program participation, track progress, and provide support to program participants.

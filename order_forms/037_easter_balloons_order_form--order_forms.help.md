@@ -1,5 +1,3 @@
-<thinking>...The Easter Balloons Order Form is designed to allow customers to place orders for Easter-themed balloons. The form will guide users through the process of selecting and customizing their balloon order. This form will gather information on the type of balloons, quantity, and other relevant details for the order. The form does not include any fields that are not related to the core information required for the order, minimizing the risk of duplication or incorrect input. This guide will explain each field in a concise and practical manner, ensuring users can easily complete the form and provide accurate information for their order...</thinking>
-
 # Easter Balloons Order Form - Help Guide
 
 ## Purpose

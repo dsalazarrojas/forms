@@ -1,9 +1,3 @@
-<thinking>
-The form is used to collect information from customers for financing and discount configurations. This form is typically used by sales teams to gather necessary details from customers before presenting them with financing options. The form is designed to be used in conjunction with other sales materials and is not a standalone sales tool. It is intended for internal use only and should not be shared with customers directly. 
-
-The form collects information on customer name, email, phone number, the amount being financed, the terms and conditions of the financing, and the customer's preferred form category and description. This information will be used to create a financing proposal for the customer.
-</thinking>
-
 # Financing And Discount Configuration - Help Guide
 ## Purpose
 This form is used to collect information from customers for financing and discount configurations. It will be used by sales teams to create a financing proposal for the customer.

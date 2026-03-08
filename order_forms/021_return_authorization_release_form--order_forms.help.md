@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to be filled out by customers when they wish to return an item. It is meant for internal use within the company. This form should not be used for any other purpose.
-The form contains a mix of text, date, and selection fields that require the customer to provide information about their return, including product ID, customer information, reason for return, and other relevant details.
-Please make sure you have filled out all required fields.
-</thinking>
-
 # Return Authorization Release Form - Help Guide
 ## Purpose
 The Return Authorization Release Form is used to document the process of returning an item to a customer. It helps ensure that the return process is handled efficiently and that all necessary information is captured.

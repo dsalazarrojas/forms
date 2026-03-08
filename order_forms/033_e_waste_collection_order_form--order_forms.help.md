@@ -1,9 +1,3 @@
-<thinking>
-
-This help guide is intended to assist users in understanding the E Waste Collection Order Form, which aims to gather essential information for waste collection services. To ensure accurate and efficient processing, it is crucial that users provide the requested details accurately and completely. Please take a moment to review the following guide to ensure you are able to complete the form correctly.
-
-</thinking>
-
 # E Waste Collection Order Form - Help Guide
 
 ## Purpose

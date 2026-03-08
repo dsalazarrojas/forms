@@ -1,11 +1,3 @@
-<thinking>
-  This form is used to collect information about SEO services payment from clients.
-  This information will be used to process and track payments for the services provided.
-  Please ensure all required fields are filled out to avoid errors.
-  Note: This form is part of a larger application, please ensure all information is accurate and up-to-date.
-  To avoid duplication, please do not submit this form multiple times.
-</thinking>
-
 # seo_services_payment_form - Help Guide
 ## Purpose
 The seo_services_payment_form is used to collect information from clients for SEO services payment processing and tracking.

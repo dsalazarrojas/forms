@@ -1,5 +1,3 @@
-<thinking>...this form is used to process orders for the Food Franchise POS Terminal. It captures essential details about the order, including the terminal ID, store ID, order type, date, time, order number, customer name, and phone number. The purpose of this form is to ensure accurate and efficient order processing. The form should only be used by authorized users for order processing. Duplicate or incomplete submissions might lead to order errors or delays. It's recommended to review the form carefully before submitting it...</thinking>
-
 # Food Franchise POS Terminal Order Form - Help Guide
 ## Purpose
 This form is used to process orders for the Food Franchise POS Terminal, capturing essential details to ensure accurate and efficient order processing.

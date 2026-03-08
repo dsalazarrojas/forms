@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Online Subscription Sample Order Form - Help Guide
 
 ## Purpose

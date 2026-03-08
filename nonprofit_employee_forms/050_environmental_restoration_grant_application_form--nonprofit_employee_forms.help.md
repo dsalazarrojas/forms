@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for an Environmental Restoration Grant Application. The purpose of this form is to gather project details, budget information, location, and other relevant data from the applicant. Before filling out this form, please ensure that you have all the required information and supporting documents ready. This form is intended for non-profit employees and aims to provide a structured and straightforward way to submit an application for an environmental restoration grant. It is essential to read and understand each field carefully before proceeding to ensure that you provide accurate and complete information.
-</thinking>
-
 # Environmental Restoration Grant Application Form - Help Guide
 ## Purpose
 This form is designed to collect information for an Environmental Restoration Grant Application.

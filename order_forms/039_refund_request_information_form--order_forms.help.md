@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a refund request from a customer. Before filling out this form, please ensure that you have a valid reason for the refund and that it's not a duplicate request. This form is designed to be completed by customers who are requesting a refund for an order that has not yet been fulfilled or that has been fulfilled but not yet received. 
-</thinking>
-
 # refund_request_information_form - Help Guide
 ## Purpose
 This form is used to collect information from customers who are requesting a refund for an order that has not yet been fulfilled or that has been fulfilled but not yet received. It's essential to complete this form accurately to ensure that we can process your refund request efficiently.

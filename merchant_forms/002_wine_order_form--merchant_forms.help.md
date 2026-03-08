@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for end-users to submit orders for wine purchases. To prevent duplication, the form is only accessible to authorized users. This guide is designed to ensure that users understand the form's purpose and usage.
-</thinking>
-
 # Wine Order Form - Help Guide
 ## Purpose
 The Wine Order Form is used to create new wine orders. This form allows authorized users to input customer information, select wines, specify quantities, and add order notes.

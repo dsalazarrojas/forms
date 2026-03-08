@@ -1,7 +1,3 @@
-<thinking>...
-This form is used to take cake pop orders from customers. It's designed to gather information on a variety of aspects related to the order, including customer details, order preferences, and delivery information. This form will help us process orders efficiently and ensure that we get all the necessary details for creating and delivering the custom cake pops.
-</thinking>
-
 # Cake Pop Order Form Template - Help Guide
 ## Purpose
 The purpose of this form is to collect information for a custom cake pop order from customers. It's essential to fill out the form carefully to ensure that we can create the desired cake pops according to your preferences.

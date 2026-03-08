@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a unit of a product for testing purposes. This form is intended for use by testers who need to record the details of a unit they are testing. The form is designed to be easy to use and requires no technical knowledge.
-The form will likely be used by testers to record the details of the unit they are testing, such as product code, unit quantity, tester unit price, tester unit name, etc. This form will help to ensure consistency and accuracy in the testing process.
-It's likely that this form will be used in a testing laboratory or quality assurance setting where the unit under test is a specific product.
-The form does not seem to be designed for mass production or large quantities of orders. Given the many fields with select_one, select_multiple and select_one options, it appears that the form is intended for individual unit level data collection.
-</thinking>
 # Retail Shelf Tester Unit Order Form - Help Guide
 ## Purpose
 The Retail Shelf Tester Unit Order Form is a form designed to collect information about a unit of a product for testing purposes.

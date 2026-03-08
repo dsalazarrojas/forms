@@ -1,18 +1,3 @@
-<thinking>
-
-To determine the purpose of this form, I analyzed the YAML input schema and extracted the following:
-
-* The form is titled "office_cleaning_services_quote_request_form"
-* It appears to be a quote request form for office cleaning services
-* The form collects contact information, services offered, start and end dates, frequency, location, and special requests
-* The form may be used for administrative or logistical purposes, such as scheduling and planning cleaning services
-
-Form purpose could be to request office cleaning services, with the following fields to be filled in to provide all necessary information for the quote or booking:
-
-The purpose of this form is to request office cleaning services. It collects information about the contact person and their contact information (phone, email), location, services offered, dates and frequency of cleaning, and any special requests or comments.
-
-</thinking>
-
 # office_cleaning_services_quote_request_form - Help Guide
 ## Purpose
 The purpose of this form is to request office cleaning services. It collects information about the contact person and their contact information (phone, email), location, services offered, dates and frequency of cleaning, and any special requests or comments.

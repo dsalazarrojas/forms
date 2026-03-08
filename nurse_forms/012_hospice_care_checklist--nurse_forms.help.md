@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's briefly discuss the purpose and relevance of this form. The "hospice_care_checklist" form appears to be designed for collecting information related to patient care and services provided by a hospice. This form likely serves as a comprehensive checklist for assessing the needs and conditions of patients receiving hospice care. The form's fields seem to cover various aspects of care, including personal details, medical history, medications, emotional and spiritual support, and care plans. It's essential to ensure that each field is properly understood to ensure accurate and complete data collection.</thinking>
-
 # hospice_care_checklist - Help Guide
 ## Purpose
 The "hospice_care_checklist" form is designed to collect information related to patient care and services provided by a hospice. This form helps assess the needs and conditions of patients receiving hospice care, ensuring accurate and complete data collection.

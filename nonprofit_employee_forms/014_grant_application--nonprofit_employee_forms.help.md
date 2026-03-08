@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for a grant application from non-profit organizations. It will help the grantor understand the applicant's organization, the purpose of the grant, and other relevant details to make informed decisions. This form ensures that all necessary information is collected to evaluate the grant request. Please ensure this form is only used for legitimate grant applications and does not duplicate or supersede other forms with similar intent.
-</thinking>
-
 # Grant Application - Help Guide
 ## Purpose
 The Grant Application form is used to collect information for non-profit organizations to apply for grants. It includes fields that cover essential details such as organization name, grant type, budget period, and contact information.

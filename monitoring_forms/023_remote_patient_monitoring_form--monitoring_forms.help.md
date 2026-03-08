@@ -1,10 +1,3 @@
-<thinking>
-This form is for remote patient monitoring, a process that allows healthcare practitioners to track and manage patient health data remotely. The form is used to collect information about the patient, their condition, and the monitoring schedule. It is crucial to ensure accurate and timely data collection, which helps in providing appropriate care and treatment. This form is a critical part of the remote patient monitoring process, and its accuracy is vital for patient safety and well-being. To ensure the form's effectiveness, it is essential to complete it accurately and thoroughly. 
-
-Please note that this form is only for remote patient monitoring and should not be used for other purposes. If you are unsure about the form's purpose or have any questions, please seek guidance from a healthcare professional.
-
-</thinking>
-
 # Remote Patient Monitoring Form - Help Guide
 ## Purpose
 The Remote Patient Monitoring Form is used to collect information about a patient's health status, monitor type, and monitoring schedule. It is essential to fill out the form accurately to ensure the best care and treatment for the patient.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for customers to confirm and check-in at the bakery's pre-order pickup counter. It ensures that customers have all the necessary information and confirm their order details to ensure a smooth and accurate pickup experience. The form is divided into several sections, each addressing a specific aspect of the order pickup process. To fill out this form, you will need to provide information about your order, confirm your items, inspect the products, and provide feedback.
-
-</thinking>
-
 # Bakery Pre Order Pickup Check In - Help Guide
 ## Purpose
 This form is designed to facilitate a smooth and accurate pickup experience for pre-ordered items at the bakery.

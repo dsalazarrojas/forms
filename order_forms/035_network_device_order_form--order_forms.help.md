@@ -1,5 +1,3 @@
-<thinking>Before we start, let's quickly review the purpose of this form: The Network Device Order Form is designed to collect information about network devices, including their type, quantity, and other relevant details. This form is likely used in the context of network management or inventory tracking within a company or organization. We should ensure that we don't duplicate this form's purpose and that it accurately reflects the needs of its users. Now, let's get started with the help guide!</thinking>
-
 # Network Device Order Form - Help Guide
 ## Purpose
 The Network Device Order Form is used to collect information about network devices, including their type, quantity, and other relevant details, for the purpose of tracking and managing network devices within an organization.

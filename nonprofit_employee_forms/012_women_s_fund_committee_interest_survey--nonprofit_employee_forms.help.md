@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Women's Fund Committee Interest Survey - Help Guide
 
 ## Purpose

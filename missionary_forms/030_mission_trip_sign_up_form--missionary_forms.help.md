@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from users for a mission trip. The purpose of this form is to allow trip organizers to collect relevant details about a mission trip, including its name, leader's name, date range, time range, duration, location, cost, organizer, sponsor, contact name, phone number, email, additional information, and confirmation. This information will help the mission trip team to prepare and manage the trip effectively. To ensure accurate and complete information, please make sure to fill in all required fields. The form has multiple pages, but the fields on each page will be explained in this guide for clarity.
-</thinking>
-
 # Mission Trip Sign Up Form - Help Guide
 ## Purpose
 The Mission Trip Sign Up Form is designed to collect information from users for a mission trip. This form helps the trip organizers to gather details about the trip, including its name, leader's name, date range, time range, duration, location, cost, organizer, sponsor, contact name, phone number, email, additional information, and confirmation.

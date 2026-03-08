@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for customers to place an order for industrial software subscriptions. It collects general information, contact information, and order details.
-The form has several sections: general information, contact information, and order details.
-The purpose of this form is to gather essential data for processing the order and to ensure accuracy in delivering the subscription services.
-</thinking>
-
 # Industrial Software Subscription Order Form - Help Guide
 ## Purpose
 The Industrial Software Subscription Order Form is a tool for customers to provide necessary information to place an order for industrial software subscriptions. This form collects and verifies order data to ensure accurate processing and delivery of services.

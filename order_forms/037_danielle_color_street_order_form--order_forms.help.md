@@ -1,11 +1,3 @@
-<thinking>
-This is a form designed to gather information for an order. The form is likely used in an e-commerce context, where a customer is placing an order for some kind of product or service. The form is intended to capture basic customer information, color preferences, and other relevant details about the order.
-To avoid confusion, let's break down the form's purpose: 
-- It's not a form for general contact or inquiry purposes.
-- It's not a form for signing up or creating an account.
-- It's not a form for providing feedback or support requests.
-</thinking>
-
 # danielle_color_street_order_form - Help Guide
 ## Purpose
 This form is designed to collect information for an order in an e-commerce context.

@@ -1,16 +1,3 @@
-<thinking>
-The form purpose is to collect information on the progress of the HCV (Hazardous Chemicals) Elimination Plan. This form is used to track the status of progress made towards eliminating hazardous chemicals in a facility or project. It is designed to be completed by individuals responsible for overseeing or working on the elimination process.
-
-To determine if this form is relevant, consider the following:
-
-* Is the form being used to track progress on an HCV elimination plan?
-* Is this form being used to collect information on progress reporting dates, locations, and team members assigned to the task?
-* Are the fields in the form consistent with the information being collected for the HCV elimination plan?
-
-If the form is being used for a different purpose or has different fields, it is not the correct form for this task.
-
-</thinking>
-
 # HCV Elimination Plan Check In - Help Guide
 ## Purpose
 The HCV Elimination Plan Check In form is used to collect information on the progress of the HCV elimination plan.

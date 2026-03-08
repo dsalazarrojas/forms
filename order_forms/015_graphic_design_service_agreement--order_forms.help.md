@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for clients to input their information and details for a Graphic Design Service. 
-The form will be used in conjunction with the company's internal business logic to manage the design process and communication with clients. 
-We need to make sure that this form will be relevant and will not duplicate any other forms that already exist. 
-</thinking>
-
 # Graphic Design Service Agreement - Help Guide
 ## Purpose
 This form is a service agreement that clients use to input information about their graphic design project. The form is used to collect details about the client's project, payment terms, and contact information.

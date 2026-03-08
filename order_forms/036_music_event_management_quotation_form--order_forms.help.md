@@ -1,15 +1,3 @@
-<thinking>
-This form is for creating a quotation for music events. It's a comprehensive form that collects various details about the event, including event details, contact information, event requirements, and terms and conditions. This form likely serves as a template for event management companies to gather information from clients or event organizers.
-
-Before filling out this form, please ensure that you have all the necessary information ready. You may want to refer to the event's contract or agreement to ensure you're filling out the form accurately.
-
-Please note that some fields may not be applicable to your specific event, and it's your responsibility to fill out the form truthfully and accurately.
-
-This form is not a template for creating a general music event quote, but rather a specific form for music event management. Please fill it out according to your specific event's requirements.
-
-If you're unsure about any field, you can consult the event manager or refer to the event's contract/agreement.
-</thinking>
-
 # Music Event Management Quotation Form - Help Guide
 
 ## Purpose

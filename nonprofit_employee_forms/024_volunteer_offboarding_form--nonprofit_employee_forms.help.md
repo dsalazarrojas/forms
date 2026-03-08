@@ -1,6 +1,3 @@
-<thinking>
-The form appears to be designed for non-profit organizations to offboard volunteers, likely as part of a formal process to end their affiliation. This form is likely used to collect information about the volunteer's details such as name, job title, reason for leaving, date of last service, and other relevant information. It seems to be designed to be completed by the volunteer being offboarded, and the answers will likely be used to update their record in the organization's database. The form may also be used to gather information for future reference or to ensure a smooth transition.
-</thinking>
 # Volunteer Offboarding Form - Help Guide
 ## Purpose
 This form is used to collect information from volunteers who are leaving the organization. It is essential to have accurate and up-to-date information about each volunteer's status to maintain a precise record and facilitate a smooth transition.

@@ -1,19 +1,3 @@
-<thinking>
-This form is used to order a package of industrial monitoring software. The purpose of this form is to gather essential information from customers to create an accurate quote for the software package. 
-Please make sure to fill out all required fields accurately to ensure a prompt and correct quote. 
-The information collected will be used to process your order and create a tailored solution for your industrial monitoring needs.
-
-The form has the following fields:
-* Company name (required): A field to input your company's name.
-* Contact Person (required): A field to input your contact person's name.
-* Email (required): A field to input your email address.
-* Phone (required): A field to input your phone number.
-* Software Type (required): A field to select the type of software you need.
-* Package Requirements: A field to input any additional requirements or specifications you have for the software package.
-* Notes: A field to input any additional comments or notes.
-* Order Notes: A field to input any specific instructions or requests for the order.
-</thinking>
-
 # industrial_monitoring_software_package_order_form - Help Guide
 ## Purpose
 This form is used to order a package of industrial monitoring software.

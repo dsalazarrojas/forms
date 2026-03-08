@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Sample Product Order" form, I need to consider the following:
-
-* The form is meant to collect information for placing a product order, which is a straightforward and common form purpose.
-* Each field should be explained clearly to avoid confusion and ensure accurate inputting of data.
-* The form's fields are divided into two main categories: customer and order information, and payment and order status.
-
-</thinking>
-
 # Sample Product Order - Help Guide
 ## Purpose
 This form is designed to collect information for placing a sample product order. It will help us gather essential details about the customer and the order they wish to place.

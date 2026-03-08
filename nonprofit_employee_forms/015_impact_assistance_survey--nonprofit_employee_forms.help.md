@@ -1,5 +1,3 @@
-<thinking>Non-participant outcome rating 2 label is redundant and not present in the original form yaml. Removing non-participant_outcome_2 label and rating label for the sake of simplification. Also, considering the structure of the form, it seems the form collects feedback from participants about their program and aid. It's likely to be used internally within a organization to monitor and evaluate the impact of the program aid.</thinking>
-
 # impact_assistance_survey - Help Guide
 ## Purpose
 This form is used to collect feedback from participants about the impact of a program or aid provided by the organization. The goal is to gather information on participant's satisfaction and rating of the program or aid.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for a customer to subscribe to a beverage delivery service. The purpose of this form is to collect personal and delivery-specific information from the customer. This information will be used to schedule and fulfill the delivery of beverages to the customer. 
-</thinking>
-
 # Beverage Delivery Subscription Form - Help Guide
 ## Purpose
 This form is used for customers to subscribe to a beverage delivery service. Please fill out the form to provide your contact and delivery information.

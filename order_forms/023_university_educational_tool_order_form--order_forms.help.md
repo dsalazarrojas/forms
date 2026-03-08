@@ -1,15 +1,3 @@
-<thinking>
-
-To ensure that the "University Educational Tool Order Form" is completed correctly, please note the following:
-
-This form is intended for educational purposes only and should not be used for any other type of request.
-All form fields are required unless otherwise noted.
-Please select only one tool type and status for each question.
-Multiple selections are allowed for fields with "select_multiple" type.
-The form will not be reviewed or updated if the fields are not filled in correctly or missing.
-
-</thinking>
-
 # University Educational Tool Order Form - Help Guide
 ## Purpose
 The University Educational Tool Order Form is used to order educational tools and resources for the university community. This form is designed to gather information about the tools, contact information, and order details.

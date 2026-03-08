@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect user input for a seasonal menu selection poll. The purpose of this form is to gauge user preferences for different seasons and menu items. It's meant to be used for internal purposes, such as understanding user behavior and preferences.
-
-To avoid duplication, please fill out this form only once per user.
-
-</thinking>
-
 # Seasonal Menu Selection Poll - Help Guide
 ## Purpose
 The Seasonal Menu Selection Poll is designed to gather your preferences for different seasons and menu items. Your input will help us understand your behavior and preferences.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for monitoring the status of shipments. The purpose of this form is to provide a centralized place to track the current status of shipments, including shipment status, shipment date and time, and other relevant details. This form is likely to be used by logistics or supply chain teams to keep track of their shipments and communicate with customers or internal teams about shipment updates.
-</thinking>
-
 # Shipment Status Monitoring Form - Help Guide
 ## Purpose
 The Shipment Status Monitoring Form is used to track and monitor the status of shipments. This form helps logistics teams to keep up to date information about the current status of shipments, enabling them to make informed decisions about shipment updates and communications.

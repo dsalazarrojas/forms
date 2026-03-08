@@ -1,18 +1,3 @@
-<thinking>
-
-This form is designed for individuals to submit a petition for the presidency of an advocacy group. The purpose of this form is to collect information from potential applicants for the role, including their main information, contact details, and reason for applying. This form is intended to be filled out by individuals who are interested in taking on a leadership role within the advocacy group.
-
-The form consists of 5 fields:
-
-* Page 1: Main Information
-* Page 2: Applicant Name
-* Page 3: Contact Information
-* Page 4: Reason for Applying
-
-The goal is to gather relevant information from applicants, and ensure that the form is not duplicated or submitted by the same individual multiple times.
-
-</thinking>
-
 # Petition For Presidency Of Advocacy Group Form - Help Guide
 ## Purpose
 The Petition For Presidency Of Advocacy Group Form is designed to collect information from individuals interested in taking on a leadership role within an advocacy group.

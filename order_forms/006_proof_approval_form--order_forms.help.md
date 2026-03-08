@@ -1,13 +1,3 @@
-<thinking>
-
-**Form purpose:**
-The Proof Approval Form is used to collect information and approval for an order-related proof or document. This form is designed to be completed by the customer or their representative, and will be reviewed and approved by the relevant personnel within our organization. 
-
-**Relevance and non-duplication checks:**
-Please ensure that the form is only used for orders that require approval, and not for other purposes. Also, avoid submitting the same form multiple times for the same order.
-
-</thinking>
-
 # Proof Approval Form - Help Guide
 
 ## Purpose

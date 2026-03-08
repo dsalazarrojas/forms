@@ -1,14 +1,3 @@
-<thinking>
-
-To ensure the form serves its purpose and avoid duplication of effort, let's consider the following internal reasoning:
-
-* The form, "Online Community User Onboarding", is a crucial component of the online community's setup, designed to gather essential information about new members as they join the community. This form aims to onboard users efficiently while also ensuring they understand and agree to the community's guidelines and policies.
-* The form's purpose is to create a comprehensive database of user information, including personal details like name, email, and phone number, as well as their acceptance of the community's policies.
-* By carefully crafting the form's structure and field explanations, we can ensure users understand their responsibilities and expectations within the community, reducing the likelihood of duplicate effort and miscommunication.
-* Each field has been strategically placed to guide the user through a logical progression of questions, from general details to specific agreements, making it easier for new members to understand their role within the community.
-
-</thinking>
-
 # Online Community User Onboarding - Help Guide
 ## Purpose
 This form is designed to onboard new users by collecting essential information and ensuring they understand and agree to the community's guidelines and policies.

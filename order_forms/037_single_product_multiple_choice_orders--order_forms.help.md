@@ -1,10 +1,3 @@
-<thinking> 
-This form is intended to gather information about orders for a single product, allowing users to select one option from a list of options, enter a quantity, choose a date and time for the order, and confirm these details. The purpose of this form is to efficiently and accurately capture the essential order information. 
-Please ensure that you are using this form for the intended purpose and not for other types of requests.
-
-This form should not be used for orders that involve multiple products. If you need to place an order for more than one product, please use the 'multiple_product_multiple_choice_orders' form.
-</thinking>
-
 # single_product_multiple_choice_orders - Help Guide
 ## Purpose
 This form is used to gather information about orders for a single product, including options, quantity, order date, and order time.

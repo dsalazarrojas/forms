@@ -1,22 +1,3 @@
-<thinking>
-This form is designed to gather information from coffee shop businesses for their order requests. It includes sections for business information, delivery details, coffee beans, syrups, and special requests. The form is divided into several sections, and each section has its own set of fields that need to be filled in. The form is intended for coffee shops to place orders for their businesses, and it's essential to complete it accurately to ensure smooth order processing and delivery.
-
-Before filling out this form, please ensure that you have all the necessary information ready, such as business details, delivery preferences, and order specifics. The form has been designed to guide you through the process, but please take note of the required fields marked with an asterisk (\*) and ensure they are completed.
-
-To complete this form, follow these steps:
-
-1.  Fill in the required business information, including business name, owner/manager name, email, and phone number.
-2.  Choose the preferred delivery method and date for your order.
-3.  Select the type of coffee beans you would like to order, including the variety or blend, and specify the quantity in pounds.
-4.  Choose the grind option for your coffee beans.
-5.  If you'd like to order additional coffee beans, select 'Yes' and provide the second type and quantity.
-6.  Select the type of syrup you'd like to order, including flavor preference, and specify the quantity in bottles or liters.
-7.  Choose the bottle size for your syrup order.
-8.  If you'd like to order additional syrups, select 'Yes' and provide the second type and quantity.
-9.  Finally, provide any special requests or notes in the 'Special Requests or Notes' field.
-
-By following these steps, you'll be able to complete the form accurately and ensure that your coffee shop's order is processed smoothly.</thinking>
-
 # Coffee Shop Beans And Syrups Order Request - Help Guide
 
 ## Purpose

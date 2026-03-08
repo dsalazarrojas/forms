@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for a pavement requisition request. This form is designed to be filled out by a user, and the information collected will be used to manage and track pavement requests.
-To ensure that the form is filled out correctly, we need to check for non-duplication and check that the form is relevant to the user's task at hand.
-</thinking>
-
 # Pavement Requisition Form - Help Guide
 ## Purpose
 This form is used to collect information for a pavement requisition request. It is used to track and manage such requests.

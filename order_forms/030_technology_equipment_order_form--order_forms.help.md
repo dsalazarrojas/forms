@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a request form for technology equipment orders, used to collect information from users to facilitate the ordering process. The form has multiple fields that require user input, which will be used to create a detailed order request. It's crucial to ensure that the user understands what each field is for and what information is required to complete it correctly. This will help prevent errors and ensure that the form is filled out accurately.
-</thinking>
-
 # Technology Equipment Order Form - Help Guide
 ## Purpose
 This form is used to collect information for technology equipment orders, which will be reviewed and processed by the relevant teams.

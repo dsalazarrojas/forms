@@ -1,13 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I'll first clarify the purpose and context of the Economic Excellence Award Nomination Form. This form likely exists to allow individuals or organizations to submit nominations for an economic excellence award, recognizing outstanding achievements or contributions in the field of economics or business. The form is probably used within a specific organization or industry to streamline the nomination process and gather essential information about the nominee, including their name, contact details, and relevant details about their work.
-
-Internal reasoning and non-duplication checks should be performed before proceeding with the nomination process to ensure that:
-
-*   The form is being used for its intended purpose and not for spam or malicious activities.
-*   Duplicate nominations for the same nominee are not submitted.
-
-</thinking>
-
 # Economic Excellence Award Nomination Form - Help Guide
 
 ## Purpose

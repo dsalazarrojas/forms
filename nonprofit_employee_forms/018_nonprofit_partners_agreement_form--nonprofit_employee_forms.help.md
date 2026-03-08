@@ -1,7 +1,3 @@
-<thinking> 
-
-This form is intended to collect information from nonprofit partners, including whether they are a partner, their name, title, address, contact information, a short description, and agreement terms. This form likely exists to facilitate communication and collaboration between the nonprofit and the organization administering the form. However, it's essential to verify that the form isn't already being used for other similar purposes, and that the options and labels used are clear and unambiguous. I will base my explanation on the provided YAML fields, aiming to be concise and practical.</thinking>
-
 # Nonprofit Partners Agreement Form - Help Guide
 ## Purpose
 The Nonprofit Partners Agreement Form is used to collect information from nonprofit partners for collaboration and communication purposes.

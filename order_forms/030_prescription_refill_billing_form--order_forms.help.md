@@ -1,7 +1,3 @@
-<thinking>...This form is designed to collect information from patients for the refill of their prescription medication. The form is intended for healthcare providers to gather necessary details from the patient and their family members or caregivers before processing the refill of their medication. The form will help streamline the refill process and ensure that all relevant information is collected accurately. It will also help the healthcare provider to bill the patient's insurance company for the refill of the medication. The form will be used by patients to provide their information to their healthcare provider in order to get their prescription medication refilled. 
-
-</thinking>
-
 # Prescription Refill Billing Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information from patients for the refill of their prescription medication. It's intended for healthcare providers to gather details from patients and their family members or caregivers before processing the refill of their medication.

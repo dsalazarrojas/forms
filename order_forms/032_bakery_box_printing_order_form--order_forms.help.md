@@ -1,16 +1,3 @@
-<thinking>
-To confirm the form purpose and ensure there's no duplication, let's briefly analyze the input YAML data:
-- The form's title is "Bakery Box Printing Order Form", which indicates its purpose as a template for printing bakery boxes.
-- The form is designed for customer information gathering, box specifications, and printing details.
-- It's composed of two sections: Customer Information and Box Specifications.
-- Each section is further divided into subfields, such as "Bakery or Company Name", "Contact Person Name", "Box Type", "Box Size", and so on.
-
-Upon analysis, the form seems to be a comprehensive template for printing bakery boxes with various customizations, including box types, sizes, materials, and printing details. It appears to be a standard form for ordering bakery boxes with custom designs and specifications.
-
-To confirm, the form's purpose is to collect information for printing bakery boxes with custom designs, sizes, and specifications, ensuring accurate ordering and communication between the customer and the printing service.
-
-</thinking>
-
 # Bakery Box Printing Order Form - Help Guide
 ## Purpose
 This form is designed to collect information for printing bakery boxes with custom designs, sizes, and specifications.

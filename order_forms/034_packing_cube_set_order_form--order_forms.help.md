@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Packing Cube Set Order Form - Help Guide
 
 ## Purpose

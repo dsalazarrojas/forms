@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for the Learning Management System Handoff process. This form will be used to gather details about the handoff, including education transfer, training transfer, data collection, and other relevant information. Before proceeding, please ensure that you are filling out this form for the correct purpose and are not duplicating existing records. The form is divided into several sections, each covering different aspects of the handoff process.
-</thinking>
-
 # Learning Management System Handoff - Help Guide
 ## Purpose
 This form is used to collect information for the Learning Management System Handoff process.

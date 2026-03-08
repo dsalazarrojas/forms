@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for an order of scissors. The purpose of this form is to gather the necessary details to process the order. Before proceeding, ensure that you have the authority to create a new order and that there are no duplicate orders for the same customer in the system.
-</thinking>
-
 # scissors_order_form - Help Guide
 ## Purpose
 The Scissors Order Form is designed to collect customer information and order details for processing and fulfilling orders of scissors.

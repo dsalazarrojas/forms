@@ -1,20 +1,3 @@
-<thinking>
-
-This form is designed to be filled out by individuals who wish to use a marketplace platform for buying and selling goods and services. The form is used to gather the user's consent for the collection and use of their data, as well as to provide information about the marketplace's policies and procedures. 
-
-The form will cover the following topics: 
-
-* The nature of a marketplace, including types of marketplaces and service providers
-* How the marketplace makes money
-* Data protection policies
-* Consent to share data
-* Marketplace agreements, termination, and conditions
-* Dispute resolution and governing law
-
-This form is designed to be filled out by individuals who are interested in using the marketplace, and will be used to establish a clear understanding of the terms and conditions of using the platform. 
-
-</thinking>
-
 # Marketplace Consent Form - Help Guide
 ## Purpose
 

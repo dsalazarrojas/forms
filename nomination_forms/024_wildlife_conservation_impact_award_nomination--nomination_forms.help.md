@@ -1,7 +1,3 @@
-<thinking>
-To ensure the integrity of the nominations, we need to verify that they are not duplicates and that they align with our organization's goals and values. We are seeking to award individuals or organizations that have made significant impacts in wildlife conservation. To that end, we are asking you to provide information about the organization or individual you are nominating, their contact information, and details about their conservation work. Please review the form carefully to ensure you are providing accurate and complete information. If you are unsure about any aspect of the form, please don't hesitate to reach out to us.
-</thinking>
-
 # wildlife_conservation_impact_award_nomination - Help Guide
 ## Purpose
 The wildlife conservation impact award is given to individuals or organizations that have made significant impacts in wildlife conservation. This award recognizes their outstanding contributions to the protection and preservation of wildlife and their habitats.

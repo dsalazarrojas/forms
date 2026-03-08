@@ -1,10 +1,3 @@
-<thinking>
-This form is for creating a Program Coordinator Offer Letter, which is a document used to communicate job offers to program coordinators. The form aims to collect essential information about the job offer, including the job title, company, offer amount, and offer type. This information will be used to create a professional-looking offer letter that program coordinators can use to present to their team members.
-
-Before filling out this form, please ensure that you are creating a new offer letter and not editing an existing one. If you need to edit an existing offer letter, please use the corresponding form for editing offer letters.
-
-</thinking>
-
 # program_coordinator_offer_letter - Help Guide
 ## Purpose
 The Program Coordinator Offer Letter is a document used to communicate job offers to program coordinators.

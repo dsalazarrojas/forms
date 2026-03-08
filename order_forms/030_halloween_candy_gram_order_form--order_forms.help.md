@@ -1,5 +1,3 @@
-<thinking> This form is designed to collect information from users to process orders for Halloween candy grams. A candy gram is a small gift of candy given to friends, family, or colleagues to express appreciation or celebration, typically around the holiday season. This form will gather details such as the user's name, contact information, and preferences for their candy gram order. The form is intended to be used by those who wish to place an order for others, and the fields are designed to provide necessary information for the order to be fulfilled correctly.</thinking>
-
 # Halloween Candy Gram Order Form - Help Guide
 ## Purpose
 This form is used to collect information for placing a Halloween candy gram order, which is a small gift of candy given to express appreciation or celebration.

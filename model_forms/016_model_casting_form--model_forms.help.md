@@ -1,11 +1,3 @@
-<thinking>
-This form appears to be designed for managing model casting information. It may be used for various purposes, such as casting agencies, event organizers, or talent scouts. The form seems to be focused on collecting detailed information about a model's availability, skills, and contact details. The form is likely used in the entertainment industry for managing models and their projects.
-The form has multiple pages, each with its own set of fields. Some fields are required, while others are optional. The form seems to be using a combination of text, number, email, and date/time fields. The form also has a select multiple field for project type, which suggests that the form is designed to manage multiple projects.
-To confirm, please review the following points:
-- Is this form being used for managing models for a specific project or multiple projects?
-- Are there any specific requirements or restrictions for filling out this form?
-</thinking>
-
 # Model Casting Form - Help Guide
 ## Purpose
 This form is designed to collect and manage information about models for casting purposes. It is used to gather details about a model's availability, skills, and contact information.

@@ -1,6 +1,3 @@
-<thinking>
-This help guide will provide an overview of the Reemployment Interest Form, its purpose, and instructions on how to complete it. This form aims to gather information from users about their job preferences and availability for potential reemployment opportunities. Before proceeding, please ensure that you have not previously filled out this form, as it is intended for unique submissions only. This form is designed to be used by employees who are interested in being reemployed and are looking for new job opportunities within the company.</thinking>
-
 # Reemployment Interest Form - Help Guide
 ## Purpose
 The Reemployment Interest Form is designed to collect information from employees about their interest in being reemployed and their preferences for new job opportunities. This form helps to identify potential candidates for reemployment and ensures that their needs and interests are taken into account during the reemployment process.

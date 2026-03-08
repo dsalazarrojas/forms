@@ -1,7 +1,3 @@
-<thinking>
-We need to consider what the purpose of this form is and what information is being captured. The purpose of this form is to collect data on air quality monitoring. This involves collecting information on the monitoring station name, the date of measurement, the pollutant measured, its concentration value, units of measurement, the sampling method, weather conditions during sampling, exceedances observed, recommended actions to address poor air quality, and the person preparing the report. This form seems to be designed to gather data for monitoring and reporting purposes, possibly for regulatory compliance or environmental management. We should also consider that some fields are marked as optional, which might indicate that they are not required for all cases but rather for additional context or specific situations.
-</thinking>
-
 # Air Quality Monitoring Report Form - Help Guide
 ## Purpose
 This form is used to report air quality data for monitoring stations. It captures essential information on pollutant measurements, sampling conditions, and reporting details.

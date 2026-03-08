@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a catering business's operational details, including business name, contact person, and operational specifics such as location, services offered, and licenses. The form requires the business to provide accurate information about their operations to ensure compliance with local regulations. To avoid duplication, please do not submit this form unless you are a new business owner or have made significant changes to your operations. 
-</thinking>
-
 # Catering Service Operation Permission Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information for a Thanksgiving meal kit order waitlist. The purpose of this form is to collect contact information and preferences from customers interested in placing a order for a Thanksgiving meal kit. The form is designed to be filled out by customers who want to be notified when the desired meal kit becomes available. The form is not intended for immediate order placement, and the fields are not designed to be required for a specific order.
-</thinking>
-
 # thanksgiving_meal_kit_waitlist - Help Guide
 ## Purpose
 This form is for customers who want to be notified when a specific type of meal kit becomes available. Please provide your contact information to be added to our waitlist.

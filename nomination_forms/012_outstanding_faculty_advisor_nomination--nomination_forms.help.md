@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect nominations for faculty advisors in the university. The purpose of this form is to allow users to provide information about an outstanding faculty advisor, including their name, department, position, and other relevant details. To prevent duplicate nominations, the form will only allow users to submit a nomination for a faculty member once. If a user has already submitted a nomination for a particular faculty member, they will be notified that the form cannot be submitted.
-</thinking>
-
 # Outstanding Faculty Advisor Nomination - Help Guide
 ## Purpose
 The Outstanding Faculty Advisor Nomination form is designed to collect nominations for faculty advisors who have made significant contributions to the university. The form requires minimal information to ensure that the nomination is accurate and complete. Please review the fields below for more details on what to enter.

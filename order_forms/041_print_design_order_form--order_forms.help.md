@@ -1,8 +1,3 @@
-<thinking>... 
-This form is used to gather information from customers to create print and design orders. The form is divided into multiple pages to collect specific details about the order. Each page corresponds to a different aspect of the print and design process. The form will help us understand the customer's preferences for printing and design, such as font type, color scheme, and other specifications. It's essential to fill out this form accurately to ensure that the final product meets the customer's expectations. This form is part of the overall order process, so please make sure to fill it out carefully. 
-
-</thinking>
-
 # print_and_design_order_form - Help Guide
 ## Purpose
 This form is used to gather information from customers to create print and design orders.

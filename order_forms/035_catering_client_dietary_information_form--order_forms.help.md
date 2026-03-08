@@ -1,9 +1,3 @@
-<thinking>
-
-The Catering Client Dietary Information Form is a critical document used to collect essential details about a guest's dietary requirements and restrictions for events, meetings, or other gatherings. This form ensures that the catering team is well-informed about the guest's needs to provide suitable food options and maintain the highest level of food safety and quality. By collecting this information, the catering team can minimize the risk of cross-contamination, allergies, and other food-related issues that may arise during the event.
-
-</thinking>
-
 # Catering Client Dietary Information Form - Help Guide
 
 ## Purpose

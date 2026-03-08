@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'm considering the purpose of this form, which is likely to gather information from customers to fulfill their spa skincare product order requests. The form appears to be a simple, text-based form with four fields: Customer Info, Order Info, Shipping Info, and Order Notes. To determine the correct explanation and instructions for each field, I will analyze the label, hint, and required status of each field.</thinking>
-
 # Spa Skincare Product Order Request Form - Help Guide
 ## Purpose
 The Spa Skincare Product Order Request Form is designed to collect information from customers to fulfill their spa skincare product order requests.

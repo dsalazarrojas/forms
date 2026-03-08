@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the Outpatient Department's (OPD) daily activity and performance. This form is likely used for internal reporting and monitoring of the OPD's operations. The form may help in identifying trends and patterns in patient volume, staffing, and other key performance indicators.
-
-Before completing this form, please ensure that you are in the relevant context (i.e., you are an authorized staff member of the OPD). Please also ensure that the form is not already filled out for the specific date, as this form is meant to be submitted once per day.
-
-To complete this form, simply navigate through the pages and fill in the required information. Each page will have a specific set of questions or fields that you will need to fill in. You can move to the next page by clicking the 'Next' or 'Continue' button. When you have completed the form, click 'Submit' to submit the data.
-
-</thinking>
-
 # Daily OPD Report Form - Help Guide
 ## Purpose
 The Daily OPD Report Form is used to collect information about the Outpatient Department's daily activity and performance.

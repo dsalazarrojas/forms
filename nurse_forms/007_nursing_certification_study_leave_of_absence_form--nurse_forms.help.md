@@ -1,5 +1,3 @@
-<thinking>...To avoid duplication, please ensure this form is not submitted for the same certification type multiple times. Also, this form is for study leave only, not for actual leave or other types of absence. To request other types of absence, please use the correct form...</thinking>
-
 # Nursing Certification Study Leave Of Absence Form - Help Guide
 ## Purpose
 

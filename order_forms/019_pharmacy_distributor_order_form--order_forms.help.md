@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a template for a pharmacy distributor to process orders, including product and payment information. To avoid duplication, we will review and refine the form based on this metadata to ensure it is relevant and comprehensive for the intended use case.
-</thinking>
-
 # Pharmacy Distributor Order Form - Help Guide
 ## Purpose
 This form is designed to help pharmacy distributors efficiently process orders for various products, allowing them to manage and track orders in an organized manner.

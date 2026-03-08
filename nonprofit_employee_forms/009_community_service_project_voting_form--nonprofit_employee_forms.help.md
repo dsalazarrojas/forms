@@ -1,7 +1,3 @@
-<thinking>
-Non-duplication check: Ensure that the form is not completed more than once by the same user within a specific timeframe. This prevents users from gaming the system and ensures that each vote is unique and valuable. This form is designed for community service project voting, allowing users to choose their top preference among a list of projects. The form collects information such as the user's name, email for verification, and their preferred project(s). The user can also provide a rationale for their selection and choose to submit their vote anonymously.
-</thinking>
-
 # Community Service Project Voting Form - Help Guide
 ## Purpose
 The Community Service Project Voting Form is a tool for community members and staff to vote for their preferred community service projects. This form ensures that each vote is unique and counts towards the project selection process.

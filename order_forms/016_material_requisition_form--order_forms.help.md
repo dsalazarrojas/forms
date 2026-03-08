@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form, named "material_requisition_form", appears to be a multi-page form designed for users to request materials or supplies. The form has 10 pages, with no clear indication of a specific industry or category. Upon inspecting the form schema, it appears to be designed for general material requisitioning purposes.
-
-The form has several pages, but each page only contains a single text field with no other fields such as dropdowns, checkboxes, or date pickers. Therefore, the form is likely for users to provide a brief description or details about the material or supply they are requesting.
-
-Before filling out the form, please ensure that you are not duplicating an existing requisition and that your request is legitimate. This will help maintain the accuracy and efficiency of the material requisitioning process.
-
-</thinking>
-
 # material_requisition_form - Help Guide
 ## Purpose
 The material requisition form is designed to collect brief descriptions or details about materials or supplies that are required.

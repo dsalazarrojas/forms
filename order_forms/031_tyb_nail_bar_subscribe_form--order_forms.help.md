@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users who wish to subscribe to a nail bar's email list. The form is likely used for marketing and promotion purposes, allowing the nail bar to keep users updated on new products, services, and events. To confirm, this form should only be filled out once to avoid duplicating a user's subscription. If a user has already subscribed, they will not receive a duplicate email.
-</thinking>
-
 # tyb_nail_bar_subscribe_form - Help Guide
 ## Purpose
 This form is used to collect information from users who wish to subscribe to our email list for marketing and promotional purposes.

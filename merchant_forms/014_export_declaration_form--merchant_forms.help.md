@@ -1,7 +1,3 @@
-<thinking>
-This form is for merchants to declare their exported goods, providing essential information for the export process. The form gathers base information, goods details, declaration information, contact information, shipping information, payment information, and notes from the merchant. The fields are designed to ensure accurate and complete data for smooth export processing.
-</thinking>
-
 # Export Declaration Form - Help Guide
 ## Purpose
 The Export Declaration Form is a document used by merchants to declare their exported goods, providing necessary information for the export process.

@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to allow customers to place an order for Color Street products. 
-This form is used to collect customer information and order details.
-Please verify that you're in the right location to order a Color Street product and that you're not already filling this form to place a duplicate order.
-</thinking>
-
 # Color Street Order Form - Help Guide
 ## Purpose
 The Color Street Order Form is used to place an order for Color Street products. 

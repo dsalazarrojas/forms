@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for ordering electric vehicle charger installations for companies. The purpose of this form is to collect necessary information for the installation process, including company details, contact information, vehicle specifics, charger type, and installation details. This form aims to ensure that all required information is provided for a smooth and efficient installation process. To prevent duplication, this form should only be used for new installation orders. If a company has already submitted an order, please use the existing order number to access their previous submission.
-</thinking>
-
 # Electric Vehicle Charger Installation Order Form - Help Guide
 ## Purpose
 This form is used for ordering electric vehicle charger installations for companies.

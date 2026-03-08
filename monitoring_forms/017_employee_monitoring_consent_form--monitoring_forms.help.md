@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to gather consent from employees to monitor certain activities as part of the organization's internal monitoring processes. 
-The form is designed to be simple and straightforward, with only three fields: employee monitoring consent, monitoring activities, and monitoring frequency. 
-
-It's essential to ensure that the form is completed correctly to avoid any misunderstandings or miscommunications between employees and the organization. 
-</thinking>
-
 # employee_monitoring_consent_form - Help Guide
 ## Purpose
 The purpose of this form is to gather consent from employees to participate in the monitoring activities. It's a crucial step in maintaining transparency and trust within the organization.

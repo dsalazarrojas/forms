@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to monitor and record hygiene compliance in various areas, such as facilities, equipment, or procedures. The purpose of this form is to ensure that all areas are checked for potential issues and that corrective actions are taken to maintain compliance. This form should be used by facility management staff or supervisors to document and track the status of each area, and to ensure that all issues are properly addressed and resolved.
-</thinking>
-
 # Hygiene Compliance Monitoring Log - Help Guide
 ## Purpose
 The Hygiene Compliance Monitoring Log form is used to monitor and record the compliance status of various areas within a facility, equipment, or procedure. This form helps facility management staff and supervisors to identify potential issues and ensure that corrective actions are taken to maintain compliance.

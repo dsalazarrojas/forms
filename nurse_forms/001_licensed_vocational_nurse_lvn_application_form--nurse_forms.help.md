@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for Licensed Vocational Nurses (LVNs) to provide information about themselves for internal record-keeping and verification purposes. The form will be used to collect general contact and demographic information, as well as specific data about their education and nursing background. This form aims to ensure that all LVNs in the organization have a consistent and up-to-date record, which can be referenced for compliance, communication, and other relevant purposes.
-</thinking>
-
 # LVN_Application_Form - Help Guide
 ## Purpose
 

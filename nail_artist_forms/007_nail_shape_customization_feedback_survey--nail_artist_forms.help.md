@@ -1,7 +1,3 @@
-<thinking>As a nail artist, you're likely familiar with the importance of gathering feedback from clients to improve your services. This form is designed to collect information about your nail shape customization services, including your clients' preferences, satisfaction, and areas for improvement. It's meant to be completed by clients after receiving a nail shape customization service. By filling out this form, you'll help us better understand your clients' experiences and identify areas to enhance our services.
-
-This form should only be completed once per visit. Please take a few minutes to answer the questions honestly, and provide as much detail as possible. If you have any questions or concerns, feel free to ask your nail artist for assistance.</thinking>
-
 # Nail Shape Customization Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from clients about their experiences with our nail shape customization services. Your input will help us improve our services and better understand your needs.

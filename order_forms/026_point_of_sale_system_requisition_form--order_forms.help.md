@@ -1,5 +1,3 @@
-<thinking>... internal reasoning: This form is designed to gather information for the Point of Sale (POS) system. The form requires users to provide form details, order details, item details, item description, item quantity, unit price, and requisition quantity. The form is not required, indicating that it is a optional or supplementary form used to support the POS system. The form fields should be clear and self-explanatory to ensure accurate and efficient completion... </thinking>
-
 # Point Of Sale System Requisition Form - Help Guide
 ## Purpose
 The Point of Sale System Requisition Form is an optional form used to support the Point of Sale (POS) system. It is designed to gather information for the POS system.

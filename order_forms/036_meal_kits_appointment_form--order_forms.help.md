@@ -1,7 +1,3 @@
-<thinking>
-This form is used for customers to place appointments to receive meal kits. It is meant for customers to provide their information, select the meal kit they want, and specify their preferred delivery method. This form is likely to be used for online orders or reservations. Please make sure you have reviewed all the fields below to ensure you are filling out the form correctly.
-</thinking>
-
 # Meal Kits Appointment Form - Help Guide
 ## Purpose
 This form is used to place appointments for customers to receive meal kits. It helps customers provide their information, select the meal kit they want, and choose their delivery method.

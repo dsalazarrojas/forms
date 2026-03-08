@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Home Backup Generator Order Form - Help Guide
 
 ## Purpose

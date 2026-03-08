@@ -1,7 +1,3 @@
-<thinking>
-To ensure we only have a valid order form, we first check if all required fields have been filled out correctly and if not, we prevent form submission. Then, we check if all fields are filled out. Then we verify if all equipment status is set to 'Operational' or 'Unknown'. If any of the above conditions are not met, we prevent form submission.
-</thinking>
-
 # Smart Manufacturing Hub Equipment Order Form - Help Guide
 ## Purpose
 This form is used to place orders for equipment in the Smart Manufacturing Hub. It allows users to provide their input, details about the equipment, and contact information. The form also includes fields for equipment status and order reason.

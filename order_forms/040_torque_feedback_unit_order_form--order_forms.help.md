@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from customers about their experience with the Torque product or service. It is designed to gather information about their order details, customer preferences, and delivery information in a series of text fields.
-
-Before proceeding, we should check if there are any similar forms that might already exist for this purpose, or if the form has been duplicated in some way. If that's the case, we might need to consider merging or reorganizing the form to avoid redundancy.
-
-This form has multiple fields, each designed to capture specific types of information. Some fields may seem repetitive, but they are intended to provide a detailed view of the customer's experience. We'll need to consider whether any of these fields could be combined or restructured for clarity and efficiency.
-
-After reviewing the form structure, it appears that most fields are similar in nature, with some variations in labels and names. However, the form overall appears to be designed for capturing a range of information types, including customer details, order specifics, and delivery preferences.
-
-We will proceed with creating the user-facing help guide, keeping in mind the form's purpose and structure.
-</thinking>
-
 # Torque Feedback Unit Order Form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from customers about their experience with the Torque product or service. It gathers information about their order details, customer preferences, and delivery information.

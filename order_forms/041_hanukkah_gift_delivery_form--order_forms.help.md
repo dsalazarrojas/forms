@@ -1,11 +1,3 @@
-<thinking>
-The form "Hanukkah Gift Delivery Form" is designed for users to provide information about a Hanukkah gift delivery. The form is intended to collect details about the recipient, the gift being delivered, and the delivery preferences and status. It is likely used internally by the gift delivery service to track and manage delivery orders.
-
-The form has multiple pages with various fields, including text fields for the recipient's details, email and phone number, as well as fields for preferences, date and time of delivery, and location of delivery. The form also includes fields for the user's email and phone number, gift details, and additional information.
-
-This form is used for internal purposes and does not require external validation, but it may be useful to ensure that all necessary fields are completed to avoid any potential issues with the delivery process.
-</thinking>
-
 # Hanukkah Gift Delivery Form - Help Guide
 ## Purpose
 This form is used to collect information about a Hanukkah gift delivery.

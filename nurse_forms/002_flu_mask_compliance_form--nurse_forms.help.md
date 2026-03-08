@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track information related to an employee's flu vaccination status and compliance with flu mask requirements. The form asks for the employee's ID, their current flu status, whether they wear a mask, if they have a vaccination tag, and various dates and statuses related to previous flu vaccinations. This form is likely used in a healthcare setting to ensure employees are up-to-date on their flu vaccinations and adhere to mask-wearing policies. 
-</thinking>
-
 # Flu Mask Compliance Form - Help Guide
 ## Purpose
 This form is designed to collect information about an employee's flu vaccination status and mask compliance in a healthcare setting.

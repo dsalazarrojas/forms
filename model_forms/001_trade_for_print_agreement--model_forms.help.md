@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture key information for a Trade For Print Agreement, which is a contract between a photographer and a model used to establish the terms of a photo shoot. This form should only be used for model releases, print contracts, or other agreements related to photography sessions. Please ensure that the form is not used for any other purpose or industry. If you're not sure about the form's purpose or relevance to your specific needs, please review the form's content carefully before proceeding.
-</thinking>
-
 # Trade For Print Agreement - Help Guide
 ## Purpose
 This form is used to document the terms of a trade for print agreement between a photographer and a model. It captures essential information about the photographer and the model, including their contact details, the date of the photo capture, and their signatures.

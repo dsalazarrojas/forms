@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect customer information for a merchant, including their contact details, order details, and payment method preferences. The form will collect data that will be used to facilitate the ordering and payment process for the merchant. It is recommended that the form be filled out by the merchant themselves or their authorized representatives.
-
-</thinking>
-
 # Paypal Furniture Order Form - Help Guide
 ## Purpose
 The Paypal Furniture Order Form is a collection of fields that gather essential information from customers for a smooth ordering and payment process. This form is meant to be filled out by customers to provide their order details and payment preferences.

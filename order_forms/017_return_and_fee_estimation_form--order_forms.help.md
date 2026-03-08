@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Return and Fee Estimation Form - Help Guide
 ## Purpose
 This form is designed to collect information for return requests and estimate the associated fees. The form is used by customers to initiate a return process and by customer service representatives to manage and track return requests.

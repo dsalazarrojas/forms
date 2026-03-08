@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to provide their season ticket order details and customer information. The form is not intended for general audience survey, but rather for internal use by a specific season ticket ordering system. The form has three pages, and the user should be able to navigate through them in a logical and sequential manner. It's essential to fill out the form correctly to ensure accurate processing of the order. Please review each field carefully to avoid errors.
-</thinking>
-
 # Season Ticket Order Form - Help Guide
 ## Purpose
 The Season Ticket Order Form is designed to gather information from customers who are interested in purchasing season tickets. This form will help the season ticket office process orders efficiently and effectively.

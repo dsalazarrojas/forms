@@ -1,7 +1,3 @@
-<thinking>
-The form "e_commerce_warehouse_onboarding_form" is used for onboarding employees in an e-commerce warehouse environment. This form helps gather essential information from the employee to facilitate a smooth and safe work experience.
-</thinking>
-
 # e_commerce_warehouse_onboarding_form - Help Guide
 ## Purpose
 This form is designed to collect employee information, emergency contact details, and safety acknowledgments for employees working in an e-commerce warehouse environment. It's essential to complete this form accurately and truthfully to ensure a safe and efficient work experience.

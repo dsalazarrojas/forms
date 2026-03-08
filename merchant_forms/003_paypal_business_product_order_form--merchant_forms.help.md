@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to collect information about a business product order from customers. It is intended to be used by businesses to gather details about products they are selling, including product name, price, quantity, order date and time, customer email, customer phone, and order notes. To ensure accurate and efficient completion of the form, it is recommended that the form be reviewed carefully before submission. Please note that this form does not collect sensitive or financial information, such as payment details or credit card numbers. It is meant to be used for general business purposes only. </thinking>
-
 # PayPal Business Product Order Form - Help Guide
 
 ## Purpose

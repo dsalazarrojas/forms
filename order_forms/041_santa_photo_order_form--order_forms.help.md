@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information for a photo shoot event or session. It will be used to create an order form for a business that provides photo services. The form's purpose is to gather details about the event, including the date, time, location, and other relevant information. This form will guide the user through the process of providing all necessary details for their photo shoot order.
-
-The form has 13 fields in total, and all fields are optional. To complete this form, follow the instructions below.
-
-</thinking>
-
 # Santa Photo Order Form - Help Guide
 
 ## Purpose

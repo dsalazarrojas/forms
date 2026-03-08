@@ -1,7 +1,3 @@
-<thinking>
-This form is used to manage and track requests for innovation management tools. It captures relevant information about the tool, including its category, description, assigned tool, and other related details. The form is primarily used by tool requesters to submit their requests and provide necessary information for the innovation management team to process and approve the request.
-</thinking>
-
 # innovation_management_tool_requisition_form - Help Guide
 ## Purpose
 This form is used to manage and track requests for innovation management tools.

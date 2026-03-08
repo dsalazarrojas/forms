@@ -1,7 +1,3 @@
-<thinking>
-The goal of this form is to create a sales agreement for vehicles. The form should collect information about the vehicle and the buyer, including the vehicle's details, buyer's info, payment terms, vehicle price, and the signatures of the buyer and seller. This form will likely be used in a sales context, possibly for car dealerships or private sales. The form should be completed by a buyer to agree to purchase a vehicle from a seller. This form is not likely to be duplicated, as it's a one-time sales agreement between two parties. It's essential to have clear and concise language in the form to avoid confusion and ensure both parties understand their roles and responsibilities.
-</thinking>
-
 # Vehicle Sales Agreement Form - Help Guide
 ## Purpose
 The Vehicle Sales Agreement Form is a document that outlines the terms and conditions of a vehicle sale between a buyer and a seller. It is designed to collect necessary information about the vehicle and the buyer, ensuring a clear understanding of the sale's details.

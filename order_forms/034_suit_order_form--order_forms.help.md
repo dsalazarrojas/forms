@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Suit Order Form", we need to clarify the purpose and process of filling out the form. This form is designed to collect information from customers to place a suit order. The main goal is to understand the customer's preferences and requirements for their suit, including the type of fabric, color, style, and other specifications.
-
-The form is organized into different sections, and each field should be filled out according to the guidelines below.
-
-</thinking>
-
 # Suit Order Form - Help Guide
 ## Purpose
 

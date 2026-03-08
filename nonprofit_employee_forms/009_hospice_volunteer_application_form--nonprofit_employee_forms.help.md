@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in volunteering at a hospice organization. The form is meant to be completed by potential volunteers who want to express their interest in helping out at the hospice. The form's purpose is to gather relevant details about the volunteer, such as their application and additional information. The form is intended for internal use by the hospice organization and does not require any proprietary information. This form is an original adaptation and does not copy, extract, or use content from any form platform or survey tool.
-</thinking>
-
 # Hospice Volunteer Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals interested in volunteering at a hospice organization.

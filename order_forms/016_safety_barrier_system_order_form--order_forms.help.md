@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information from customers for the purchase and installation of safety barrier systems. The purpose of this form is to collect contact information, customer details, order specifics, and delivery information to ensure smooth and secure order processing.
-
-To prevent duplication of orders, this form will only accept one submission per customer per order. Please ensure that each customer only submits one order at a time.
-
-It is recommended that customers fill out this form carefully and accurately, as any errors or inconsistencies may delay or affect the order processing.
-
-</thinking>
-
 # Safety Barrier System Order Form - Help Guide
 ## Purpose
 The Safety Barrier System Order Form is used to gather information from customers for the purchase and installation of safety barrier systems. This form is designed to collect essential details about the customer, their order, and delivery preferences.

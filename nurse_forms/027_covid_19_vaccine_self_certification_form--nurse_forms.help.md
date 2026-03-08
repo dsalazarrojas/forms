@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to gather information from applicants to verify their eligibility and self-certify their vaccination status for COVID-19. This form is intended for applicants who wish to receive the COVID-19 vaccine and are required to self-certify their eligibility. The form asks questions that assess an applicant's age, medical status, and willingness to receive the vaccine. It also asks applicants to self-certify their understanding of the vaccine's benefits, risks, and potential side effects.
-</thinking>
-
 # COVID 19 Vaccine Self Certification Form - Help Guide
 ## Purpose
 This form is for applicants who wish to receive the COVID-19 vaccine and are required to self-certify their eligibility. It is used to verify their age, medical status, and willingness to receive the vaccine.

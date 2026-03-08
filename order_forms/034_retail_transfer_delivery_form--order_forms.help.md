@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used for retailers to record the transfer of items between two stores within the same company. The purpose of this form is to provide a standardized way of tracking inventory movements between stores, ensuring accurate inventory levels and reducing errors. This form is typically used for transfers between stores that are located in the same region or within the same company network.
 
 ## retail_transfer_delivery_form - Help Guide

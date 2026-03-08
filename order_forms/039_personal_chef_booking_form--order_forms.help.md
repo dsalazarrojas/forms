@@ -1,13 +1,3 @@
-<thinking>
-
-This form is for booking a personal chef service for events. It is used by clients to provide information about their event, including the date, time, number of guests, and other relevant details. The form is used to gather information for the personal chef to plan and prepare for the event.
-
-The form is designed to be completed by the client, and it will be used by the personal chef to prepare and deliver the service. 
-
-This form should not be used for other purposes, such as creating a new user account or modifying existing events.
-
-</thinking>
-
 # personal_chef_booking_form - Help Guide
 ## Purpose
 The personal chef booking form is used to book a personal chef service for events. It gathers information from the client to prepare and deliver the service.

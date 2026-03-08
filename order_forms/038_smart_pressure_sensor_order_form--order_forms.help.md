@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect customer information and order details for a smart pressure sensor product. This form will be used to capture customer data, shipping information, order specifics, payment method, and other relevant details. It is essential to understand that this form is designed to guide customers through the ordering process, ensuring accuracy and efficiency.
-</thinking>
-
 # Smart Pressure Sensor Order Form - Help Guide
 ## Purpose
 The Smart Pressure Sensor Order Form is a tool to collect customer information and order details for a smart pressure sensor product.

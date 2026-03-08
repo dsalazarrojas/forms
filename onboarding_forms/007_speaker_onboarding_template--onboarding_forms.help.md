@@ -1,9 +1,3 @@
-<thinking>
-
-To create an effective onboarding process for speakers, it's essential to gather relevant information that will help us get to know them better and provide them with an engaging experience. This form is designed to collect basic information about the speaker, including their personal and professional details, as well as their social media presence and availability. Please fill out this form carefully and thoroughly, as it will help us tailor our communication and ensure that you have a fantastic experience.
-
-</thinking>
-
 # Speaker Onboarding Template - Help Guide
 ## Purpose
 This form is designed to collect information about speakers for our events and programs. We use this information to personalize our communication with you and make sure you have an amazing experience.

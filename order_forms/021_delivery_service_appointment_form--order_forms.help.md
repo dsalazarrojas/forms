@@ -1,7 +1,3 @@
-<thinking>
-The form "delivery_service_appointment_form" is part of the "order_forms" category. Its main purpose is to collect information from customers for delivery service appointments. The form is designed to be completed by customers to provide their details and schedule preferences for delivery services. This form does not collect any sensitive or personal identifiable information. The form fields are: customer details, delivery date, and special instructions. This form is a simple and basic form designed for collecting information and does not involve complex calculations or conditional logic. The form does not duplicate any proprietary forms or surveys and is released under CC BY 4.0 license. It is an original adaptation created using public metadata as inspiration.
-</thinking>
-
 # delivery_service_appointment_form - Help Guide
 ## Purpose
 This form is designed to collect customer information and delivery schedule preferences for delivery services.

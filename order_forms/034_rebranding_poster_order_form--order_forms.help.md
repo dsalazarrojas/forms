@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for agencies to order posters for rebranding. The form collects information about the agency's needs, such as the agency name, contact info, and preferred poster size. It also allows the agency to confirm their poster type, quantity, and price. Additionally, the form captures payment method and order status information for record-keeping purposes. The form is designed to be completed by agency representatives, and the submitted data will be used to process their rebranding poster orders.
-</thinking>
-
 # Rebranding Poster Order Form - Help Guide
 ## Purpose
 This form is used by agencies to order posters for rebranding purposes.

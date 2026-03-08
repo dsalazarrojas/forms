@@ -1,9 +1,3 @@
-<thinking>
-
-To confirm, I will create a user-friendly help guide for the Nail Technician Team Review Appointment Form, explaining its purpose and how to complete it using the provided YAML fields.
-
-</thinking>
-
 # Nail Technician Team Review Appointment Form - Help Guide
 ## Purpose
 The Nail Technician Team Review Appointment Form is designed to collect information about a meeting, including its details, date, time, and participants. This form helps ensure that meetings are properly scheduled and executed, and that all relevant parties are informed and prepared.

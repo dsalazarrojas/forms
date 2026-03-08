@@ -1,8 +1,3 @@
-<thinking>
-The internal reasoning block explains why this form is necessary for new employees, how it will be used internally, and how it reduces duplication of efforts. This form is designed to gather crucial information from new employees during their onboarding process to facilitate a smoother transition into the company. 
-New employees will be asked to fill in their name, job title, email, phone number, and other necessary details. This information will be used for employee management, communication, and directory purposes. Having a centralized form will reduce the time spent on manually gathering this information and minimize the risk of human error. 
-</thinking>
-
 # ISA Onboarding Form - Help Guide
 ## Purpose
 The ISA Onboarding Form is a mandatory form for new employees to provide their details for internal use.

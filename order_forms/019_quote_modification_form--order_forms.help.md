@@ -1,6 +1,3 @@
-<thinking> 
-This form is used to modify quotes, providing a way to update and adjust quote-related information. It is a critical component of the order management process, ensuring that quotes are accurately reflected in the system. Before starting, ensure that you have the necessary permissions to access and modify quotes. Additionally, double-check that the quote you want to modify exists and has not been previously modified.</thinking>
-
 # Quote Modification Form - Help Guide
 ## Purpose
 The Quote Modification Form is used to update and adjust quote-related information. This form allows you to modify quotes, ensuring that your quotes accurately reflect the latest changes and updates.

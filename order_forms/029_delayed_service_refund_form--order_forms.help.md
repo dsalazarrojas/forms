@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Delayed Service Refund Form - Help Guide
 ## Purpose
 The Delayed Service Refund Form is used to document the process of refunding a customer for a delayed service. This form gathers relevant information from both the customer and the business side to provide a clear and concise record of the situation.

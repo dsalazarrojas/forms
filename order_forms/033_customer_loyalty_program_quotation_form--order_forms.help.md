@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to help customers sign up for a customer loyalty program, providing them with a quote for their chosen program. The form is meant to be completed by customers, and the information collected will be used to generate a quote for their desired program. 
-
-Before proceeding, please make sure you have the necessary permissions to access this form, and that you are not duplicating an existing customer loyalty program quote.
-
-This form will guide you through the process of creating a quote for a customer loyalty program.
-
-Please note that this form is part of an automated workflow and any mistakes made while filling out this form will not affect the functionality of the program but might result in an error message.
-
-The form is divided into several sections, each with its own set of fields that you need to fill out. Each section will be explained in detail below.
-
-</thinking>
-
 # customer_loyalty_program_quotation_form - Help Guide
 ## Purpose
 The customer loyalty program quotation form is designed to help customers sign up for a customer loyalty program. It generates a quote for their chosen program based on the information provided.

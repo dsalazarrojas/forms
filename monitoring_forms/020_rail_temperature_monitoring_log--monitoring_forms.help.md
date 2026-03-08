@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to record and track rail temperature monitoring data. The purpose of this form is to gather essential information about rail temperature monitoring activities. To complete this form, follow the steps below.
 
 # Rail Temperature Monitoring Log - Help Guide

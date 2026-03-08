@@ -1,7 +1,3 @@
-<thinking>
-This is a guide for creating an internal knowledge base that prevents duplication of effort and ensures that new employees have the information they need to get started with their new role. The purpose of this form is to collect feedback and information from real estate agents who are going through the onboarding process. This information will be used to improve the onboarding process and make it more efficient for future agents. 
-</thinking>
-
 # Real Estate Agent Onboarding Employment Feedback Form - Help Guide
 ## Purpose
 The Real Estate Agent Onboarding Employment Feedback Form is designed to gather information from new real estate agents who are joining our team. This form is used to collect feedback and insights that will help us improve the onboarding process, training, and support provided to new agents.

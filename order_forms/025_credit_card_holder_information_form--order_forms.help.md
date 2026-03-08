@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about a credit card holder's details. It is designed to be completed by the card holder themselves, or by someone authorized on their behalf. This form will be used to process a request for a credit card-related service. Please ensure this form is completed accurately and truthfully to avoid any potential issues. 
-</thinking>
-
 # credit_card_holder_information_form - Help Guide
 ## Purpose
 The credit_card_holder_information_form is a form used to collect information about a credit card holder's details for the purpose of processing a credit card-related service request.

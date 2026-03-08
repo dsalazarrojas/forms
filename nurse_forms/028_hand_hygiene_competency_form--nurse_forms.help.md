@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess hand hygiene competencies among healthcare professionals. It's a multiple-page form, each page consisting of a select multiple or select one question. The form is used to gauge the knowledge and practices of healthcare workers in maintaining hand hygiene standards. This form is not meant to be a comprehensive assessment tool but rather a quick and efficient way to check on hand hygiene practices. It is recommended that users answer "Yes" to questions that they have completed or practiced the corresponding hand hygiene action.
-</thinking>
-
 # Hand Hygiene Competency Form - Help Guide
 ## Purpose
 The Hand Hygiene Competency Form is designed to evaluate the knowledge and practices of healthcare professionals regarding hand hygiene. This form helps to identify areas of improvement and ensure that healthcare workers have the necessary knowledge and skills to maintain proper hand hygiene standards.

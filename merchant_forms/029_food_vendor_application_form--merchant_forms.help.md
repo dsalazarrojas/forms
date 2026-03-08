@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for food vendors who want to submit their application through our platform. The form is designed to collect essential information about the vendor's business, including contact and event information, products and services offered, and insurance and tax identification. Please note that the form is not a contract, and submitting this form does not guarantee approval or partnership. Ensure you have the necessary permissions and licenses before applying.
-</thinking>
-
 # Food Vendor Application Form - Help Guide
 ## Purpose
 This guide will walk you through the fields and instructions for completing the Food Vendor Application Form for our platform.

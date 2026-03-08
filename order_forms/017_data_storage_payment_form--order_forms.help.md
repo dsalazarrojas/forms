@@ -1,10 +1,3 @@
-<thinking>
-# This form is used to store payment information for services, including customer details, payment methods, and service-specific information.
-To avoid confusion, we will only consider this form as relevant if the service type is either Storage, Backup, or Archival.
-# The purpose of this form is to collect payment details from customers for services rendered.
-This form should only be used for storing payment information for these services and will only display the relevant fields.
-</thinking>
-
 # Data Storage Payment Form - Help Guide
 ## Purpose
 The Data Storage Payment Form is a collection of fields that are used to store payment information for services such as Storage, Backup, and Archival. This form is designed to be used for storing payment details from customers for these services.

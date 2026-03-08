@@ -1,7 +1,3 @@
-<thinking>
-Non-duplication and relevance checks: This form is for nominating individuals for support, which is a process to help individuals or organizations in need. To avoid duplication, the form should only be filled out once per individual. Relevance is checked by ensuring the nominated individual is not already being supported.
-</thinking>
-
 # Nominate An Organizer For Support - Help Guide
 ## Purpose
 This form is used to nominate individuals or organizations that require support. It is a way to help those in need and provide resources and assistance to them.

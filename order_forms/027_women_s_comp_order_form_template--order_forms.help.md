@@ -1,11 +1,3 @@
-<thinking>... internal reasoning block to check purpose and non-duplication ...
-
-The purpose of this form is to provide a template for users to record a new order for women's clothing. The form asks for details such as the type of seller, the specific item being ordered, the type of item, the date of the order, and contact information (phone and email) in case the user needs to be contacted.
-
-Upon reviewing the provided YAML, I did not find any duplication of fields, so the form appears to be well-structured. However, I would like to point out that the "order_time" field seems optional and is not directly related to the core functionality of the form. It could potentially be removed or re-purposed to better fit the form's goals.
-
-</thinking>
-
 # Women's Comp Order Form Template - Help Guide
 ## Purpose
 This form is a template for recording new orders for women's clothing. It helps users to efficiently collect relevant information about the order, including the type of seller, specific item, type of item, order date, and contact details.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to provide information and settings for Identity Activity Monitoring. It is meant for individuals to opt-in or opt-out of monitoring activities on their account. Users will need to provide some basic information such as name, email, and phone number, as well as more specific information like role, monitoring method, and notification method. Additionally, users will be able to specify settings like IP whitelist, IP blacklist, and IP ranges. It's essential to fill out this form accurately and truthfully to ensure proper monitoring and notification settings are applied.
-</thinking>
-
 # Identity Activity Monitoring Signup Form - Help Guide
 ## Purpose
 The Identity Activity Monitoring Signup Form is used to provide information and settings for Identity Activity Monitoring. This form allows users to opt-in or opt-out of monitoring activities on their account.

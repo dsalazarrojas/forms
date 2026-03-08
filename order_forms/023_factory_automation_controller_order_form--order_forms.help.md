@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to collect information for orders related to factory automation controllers. The form allows users to provide details such as first and last name, email, phone number, company name, type of automation controller, quantity, notes, assigned tool, category, assigned date/time, submitted date/time, description, and other metadata like form ID, form version, created by, created at, updated at, and submitted at. This form is essential for managing orders effectively and ensuring that all necessary details are captured correctly. To avoid errors, please make sure to provide accurate information in the required fields.
-
-</thinking>
-
 # Factory Automation Controller Order Form - Help Guide
 ## Purpose
 The Factory Automation Controller Order Form is designed to collect information for orders related to factory automation controllers. This form ensures that all necessary details are captured correctly, making it easier to manage orders effectively.

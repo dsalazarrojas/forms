@@ -1,22 +1,3 @@
-<thinking>
-This form is used by gym staff to place orders for replacement, new, or upgraded signboards for the gym. It is crucial that the correct information is provided to ensure the order is processed accurately and efficiently.
-To complete this form, please follow these steps:
-
-1. Select the correct location where the signboard will be placed (Gym A, Gym B, or Gym C).
-2. Choose the type of order being made (New sign, Replacement sign, or Upgrade sign).
-3. Provide a detailed description of the order, if necessary.
-4. Enter the date the order is required by.
-5. Enter the time the order is required by.
-6. Enter any additional notes about the order.
-7. Provide a valid email address for contact purposes.
-8. Enter a valid phone number for contact purposes.
-9. Select the status of the order (Open, Closed, or Pending).
-10. Enter a signature to confirm the order.
-
-Please ensure that all required fields are filled in, as they are crucial for processing the order accurately. Also, double-check that the correct location and order type are selected. If you are unsure about any of the fields, please reach out to the responsible staff for clarification.
-
-</thinking>
-
 # gym_signboard_replacement_order_form - Help Guide
 ## Purpose
 This form is used to place orders for replacement, new, or upgraded signboards for the gym.

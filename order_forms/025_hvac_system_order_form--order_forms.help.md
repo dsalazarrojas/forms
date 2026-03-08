@@ -1,9 +1,3 @@
-<thinking>
-To determine the purpose of this form, let's examine the provided YAML fields. This form is related to HVAC (heating, ventilation, and air conditioning) systems, which suggests that it may be used for orders, requests, or information collection related to HVAC jobs or projects. The "Job Address", "Job Location", "Job Description", and "Job Notes" fields imply that the form is used for collecting information about a job site or project. Additionally, fields like "Heating or Cooling Systems", "Heating Systems", and "Cooling Systems" indicate that the form may be used for system selection or configuration purposes.
-To verify, let's check the "form_title": "hvac_system_order_form". This title reinforces our initial assumption that the form is related to ordering or configuring HVAC systems.
-The fields "Job Status", "Job Date", "Job Time", and "Job Priority" suggest that the form may be used for job scheduling or management purposes.
-</thinking>
-
 # hvac_system_order_form - Help Guide
 ## Purpose
 The hvac_system_order_form is used to collect information related to HVAC systems, including job details, system configurations, and job status.

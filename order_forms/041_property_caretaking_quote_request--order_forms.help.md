@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # property_caretaking_quote_request - Help Guide
 ## Purpose
 This form is designed to collect property caretaking quote requests from property owners. It's a simple form for gathering essential information about the property caretaking service quote.

@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to gather information from users for orders of healthy shakes. The form is divided into five main sections: User Information, Address Information, Order Information, Payment Information, and Delivery Information. Each section contains fields that are either required or optional, depending on the specific field. The form is designed to be user-friendly and easy to navigate. The purpose of this form is to collect data for processing orders and providing services to users. It is essential to ensure that all required fields are filled in accurately and correctly to avoid any issues with order processing.</thinking>
-
 # Healthy Shake Request Form - Help Guide
 ## Purpose
 The Healthy Shake Request Form is a form designed to gather information from users for orders of healthy shakes. This form is used to collect data for processing orders and providing services to users.

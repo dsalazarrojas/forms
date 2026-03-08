@@ -1,9 +1,3 @@
-<thinking>
-
-The form is designed to gather event details and order information for customers. It is typically used for events such as concerts, conferences, and workshops. The form is divided into several sections with different fields for each type of information. Before proceeding, please ensure that the form is relevant to your current event and not duplicating an existing event, as it may cause confusion and errors in the order process.
-
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 The "<string>" form is used to collect event details and order information for events such as concerts, conferences, and workshops.

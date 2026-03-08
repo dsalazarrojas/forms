@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be completed by customers or users to schedule a product distribution appointment. It captures relevant information such as personal details (first name, last name, email, phone number), appointment details (date, time, product name, quantity), and any additional information (address, notes) to facilitate smooth product distribution. Before filling out the form, please ensure you have all the necessary information ready, and be mindful of the required fields to avoid form errors. 
-</thinking>
-
 # Product Distribution Appointment Form - Help Guide
 ## Purpose
 This form is intended for customers to schedule a product distribution appointment, providing essential details to facilitate a successful delivery.

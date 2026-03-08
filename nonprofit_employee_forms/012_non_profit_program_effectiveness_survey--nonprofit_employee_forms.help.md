@@ -1,8 +1,3 @@
-<thinking>
-This guide is intended for non-profit program staff and administrators to help them complete the non_profit_program_effectiveness_survey form, which aims to collect information on the effectiveness of non-profit programs. It is essential to ensure that the form is filled out accurately and thoroughly to provide valuable insights for program improvement and evaluation. Please review the form carefully and ensure that you are completing the relevant sections for your specific non-profit program.
-
-</thinking>
-
 # non_profit_program_effectiveness_survey - Help Guide
 
 ## Purpose

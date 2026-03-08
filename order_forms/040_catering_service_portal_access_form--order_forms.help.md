@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Catering Service Portal Access Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect data on mental health monitoring. The purpose of this form is to help individuals track and monitor their mental health status. It is not intended for clinical diagnosis or treatment. This form should only be filled out by the person being monitored, and should not be used for multiple individuals at once. Please ensure that you are filling out this form for your own mental health monitoring.
-</thinking>
-
 # mental_health_monitoring_form - Help Guide
 ## Purpose
 The mental health monitoring form is a tool used to track and monitor mental health status.

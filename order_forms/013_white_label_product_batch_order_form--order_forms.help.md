@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from customers who wish to place a bulk order for white label products. This form allows customers to provide their contact details, delivery address, order specifics, payment information, and shipping details. The form is designed to be flexible and adaptable, allowing customers to choose their preferred payment method and shipping option.
-
-</thinking>
-
 # White Label Product Batch Order Form - Help Guide
 
 ## Purpose

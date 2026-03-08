@@ -1,28 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the Cinema Concession Requisition Form, I'll first outline the form's purpose and the fields it contains. The form is used to request restocking of concession supplies for a specific cinema location, specifying the date of the request, priority level, required supplies, and other relevant details. The fields in the form include:
-
-*   **Requester Full Name**: The name of the staff member making the request.
-*   **Employee ID**: The ID of the staff member making the request.
-*   **Cinema Location**: The location of the cinema where the supplies are needed.
-*   **Concession Stand Number**: The number of the concession stand that needs restocking.
-*   **Date of Request**: The date when the request is made.
-*   **Priority Level**: The urgency of the request, with options from Low to Critical.
-*   **Popcorn Supplies**: A list of required popcorn supplies, including kernels, oil, salt, butter, and packaging.
-*   **Beverage Supplies**: A list of required beverage supplies, including syrups and cups.
-*   **Candy Supplies**: A list of required candy supplies.
-*   **Snack Supplies**: A list of required snack supplies.
-*   **Condiment Supplies**: A list of required condiment supplies.
-*   **Packaging Supplies**: A list of required packaging supplies, including cups, trays, and bags.
-*   **Current Inventory Level**: An estimate of the current inventory level as a percentage.
-*   **Expected Delivery Date**: The date when the delivery is expected.
-*   **Special Instructions**: Any special requirements or notes.
-*   **Equipment Issues**: Any equipment issues that need to be reported.
-*   **Manager Approval Status**: The status of the manager's approval for the request.
-*   **Delivery Confirmation**: A confirmation of the delivery status.
-
-</thinking>
-
 # Cinema Concession Requisition Form - Help Guide
 ## Purpose
 The Cinema Concession Requisition Form is used by cinema staff to request restocking of concession supplies. The form helps ensure that the correct supplies are ordered in a timely manner, and that the requested date matches the delivery schedule.

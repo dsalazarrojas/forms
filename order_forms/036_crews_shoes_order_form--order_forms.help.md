@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to gather information about the employee's shoe sizes. This form is likely used by a manager or HR representative to collect data about the employee's shoe sizes for various sizes 1 through 20. The form appears to be designed to be completed by an employee, but the required field is actually "Submit" which is a button, not a field. This suggests that the form may be used for survey or feedback purposes rather than data collection. The form does not appear to be relevant to the typical use case of an order form, which is usually used to collect information for a purchase or order. 
-</thinking>
-
 # Crews Shoes Order Form - Help Guide
 ## Purpose
 This form is used to collect information about an employee's shoe sizes for various sizes 1 through 20.

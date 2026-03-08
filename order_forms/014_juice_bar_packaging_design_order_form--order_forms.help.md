@@ -1,12 +1,3 @@
-<thinking>
-The form "Juice Bar Packaging Design Order Form" is designed to collect information from customers for custom packaging design orders. This form will gather the necessary details to create a unique packaging design that meets the customer's needs. The purpose of this form is to ensure that the design team has all the required information to create an effective and visually appealing design. 
-
-The form is divided into several sections that correspond to different aspects of the design, including general information, packaging type, product name, and design specifics such as color schemes and font styles. The form also includes a design review section where customers can provide feedback on their design preferences. Additionally, the form includes fields for order date and time, email, and phone number to facilitate communication and order tracking. 
-
-This form is intended to be used by customers who are interested in customizing their packaging design for their products. It is essential that the form is completed accurately and thoroughly to ensure that the design team has all the necessary information to deliver a satisfactory and effective design.
-
-</thinking>
-
 # Juice Bar Packaging Design Order Form - Help Guide
 ## Purpose
 

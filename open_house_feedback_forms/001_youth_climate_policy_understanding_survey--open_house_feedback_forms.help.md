@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to gather information about the respondent's perception of climate policy and its importance. It is used to assess the respondent's understanding of climate policy, their willingness to participate in climate policy events, and the factors that influence their views on climate policy. This form is designed for general public use, but it could be used for research or educational purposes as well. Please note that this form does not collect sensitive personal data, and the information collected will be used only for the purpose of understanding public opinion on climate policy.
-
-</thinking>
-
 # Youth Climate Policy Understanding Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information about the respondent's perception of climate policy and its importance. It is used to assess the respondent's understanding of climate policy, their willingness to participate in climate policy events, and the factors that influence their views on climate policy.

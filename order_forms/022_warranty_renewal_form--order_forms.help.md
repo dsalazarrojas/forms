@@ -1,7 +1,3 @@
-<thinking>
-This form is used to facilitate the warranty renewal process for customers. It captures essential information needed to update the warranty details and ensure that the customer's warranty is up-to-date and active. This form should only be used for customers who are renewing their warranty, and not for new customers. The form fields are designed to be filled out by the customer directly, with the help of the customer support staff as necessary. The purpose of this form is to gather accurate and complete information to update the customer's warranty status.
-</thinking>
-
 # warranty_renewal_form - Help Guide
 ## Purpose
 This form is used to collect information needed to renew a customer's warranty. It is only intended for existing customers who are renewing their warranty.

@@ -1,9 +1,3 @@
-<thinking>
-This form is a critical component of the internal operations of the farm-to-table product delivery service. 
-It serves as a means of communication between the farmers, customers, and delivery team to ensure seamless execution of delivery operations.
-Each field in this form plays a specific role in streamlining the delivery process.
-</thinking>
-
 # Farm To Table Product Delivery Form - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to help new staff members on board quickly and efficiently. It gathers information about their background, experience, and proficiency in laboratory settings. The form is meant to be completed by new staff members as part of the onboarding process, ideally after their initial meeting with the lab manager or team lead but before they start working on the lab's equipment or sensitive data.
-
-This form helps to:
-- Get to know the new staff better
-- Assess their experience and skills
-- Plan for any additional training or support they might need
-- Ensure a smooth integration with the team and the lab's workflow
-</thinking>
-
 # Laboratory Onboarding Survey - Help Guide
 ## Purpose
 This form is designed to gather information about new staff members as part of the onboarding process to help them get familiar with the lab's environment and work together as a team.

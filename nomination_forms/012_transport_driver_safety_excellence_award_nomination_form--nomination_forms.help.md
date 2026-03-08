@@ -1,5 +1,3 @@
-<thinking>Transport Driver Safety Excellence Award Nomination Form is designed to collect information about drivers who have demonstrated exceptional safety performance and deserve recognition. This form is used to nominate drivers for the Transport Driver Safety Excellence Award. It is intended for fleet operators, safety officers, or other authorized individuals who want to nominate a deserving driver. Please note that only one nomination per driver can be submitted. Please ensure that you are not nominating a driver who has already been nominated for the same award.</thinking>
-
 # Transport Driver Safety Excellence Award Nomination Form - Help Guide
 ## Purpose
 The Transport Driver Safety Excellence Award Nomination Form is designed to collect information about drivers who have demonstrated exceptional safety performance and deserve recognition.

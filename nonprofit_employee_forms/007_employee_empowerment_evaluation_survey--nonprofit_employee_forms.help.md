@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather feedback and insights from nonprofit employees on their experience and perceptions related to their role and work environment. The form aims to understand how employees feel about their empowerment, engagement, and overall job satisfaction. This information will help the organization to identify areas of improvement and make informed decisions to foster a positive and productive work environment.
-
-</thinking>
-
 # Employee Empowerment Evaluation Survey - Help Guide
 ## Purpose
 The Employee Empowerment Evaluation Survey is a tool used to gather feedback from nonprofit employees on their experience and perceptions related to their role and work environment. This survey will help the organization to identify areas of improvement and make informed decisions to foster a positive and productive work environment.

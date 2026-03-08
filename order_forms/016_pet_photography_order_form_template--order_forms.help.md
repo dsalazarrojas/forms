@@ -1,7 +1,3 @@
-<thinking>
-This is a potential form for pet owners to order photography services. This form could potentially be used by pet businesses to capture pet owner's pet photography orders. I will now create a help guide for this form.
-</thinking>
-
 # Pet Photography Order Form Template - Help Guide
 
 ## Purpose

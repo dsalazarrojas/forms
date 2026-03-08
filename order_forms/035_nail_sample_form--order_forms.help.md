@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for an AI-generated form called "nail_sample_form". The form is part of a larger category called "order_forms". To create the guide, we should focus on explaining the form's purpose, how to complete it, and what each field means. We should also consider that the form is used for choosing and submitting orders related to nail samples.
-</thinking>
-
 # nail_sample_form - Help Guide
 ## Purpose
 This form is designed to allow users to choose and submit orders related to nail samples. It is intended to guide users through the process of selecting the desired nail samples for their needs.

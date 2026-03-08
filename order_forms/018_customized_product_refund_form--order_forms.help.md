@@ -1,14 +1,3 @@
-<thinking>
-This form is used to request a refund for a customized product. To determine its purpose and completeness, I'll analyze the form's structure and fields.
-
-The form consists of multiple pages with various fields, including text boxes, date pickers, and selection menus. This suggests that the form is intended for customers to provide detailed information about their refund requests, including their personal contact details, order information, and reasons for returning the product.
-
-Upon examining the fields, I noticed that most of them are not required, which might indicate that the form is optional for customers who want to provide additional information or context for their refund requests. However, this still raises questions about the form's purpose and the expected level of detail required from customers.
-
-To ensure clarity and effectiveness, I'll provide a detailed help guide for the form, assuming the form is used for customers to request refunds for customized products.
-
-</thinking>
-
 # Customized Product Refund Form - Help Guide
 ## Purpose
 This form is used to request a refund for a customized product. Please fill out the form below with the required and optional information to help us process your refund request.

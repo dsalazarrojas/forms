@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be designed for collecting order and sales information related to robotics drive shafts, possibly for a manufacturing or sales company. The form likely collects customer information, order details, payment information, and drive shaft specifications. The required field, "Drive Shaft Condition", suggests that the form may also be used for assessing the condition of drive shafts.
-</thinking>
-
 # robotics_drive_shaft_order_form - Help Guide
 ## Purpose
 This form is designed to collect order and sales information for robotics drive shafts. It captures customer details, order specifications, payment information, and other relevant details related to the drive shaft.

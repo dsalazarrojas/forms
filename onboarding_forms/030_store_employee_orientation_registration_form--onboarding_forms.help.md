@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Store Employee Orientation Registration Form - Help Guide
 ## Purpose
 This form is designed to gather information about new employees registering for store employee orientation. It will help store management keep track of employee details, schedules, and availability for smooth store operations. Before proceeding, ensure that you are not a duplicate entry.

@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to help users select their desired pickup time slot. This form is not affiliated with any form platforms and was created using AI-generated form design based on public metadata. It is an original work released under CC BY 4.0.
-</thinking>
 # Pickup Time Slot Selection - Help Guide
 ## Purpose
 This form is used to select a suitable pickup time slot for a pickup event. Users are required to select a time slot that suits their availability.

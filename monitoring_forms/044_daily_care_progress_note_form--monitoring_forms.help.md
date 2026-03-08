@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my first task is to create a user-facing help guide for the "Daily Care Progress Note Form". To start, let's break down the purpose and context of this form. The form is designed to collect daily care progress notes, which are essential for keeping track of patient care activities and monitoring progress. This form likely serves as a tool for caregivers, healthcare professionals, or other individuals responsible for documenting and reporting on patient care. The form's purpose is to gather concise and relevant information, making it a critical component of any care delivery process. I will now create a detailed help guide for the form, ensuring that end users understand its purpose, how to complete it, and what each field means.</thinking>
-
 # Daily Care Progress Note Form - Help Guide
 ## Purpose
 The Daily Care Progress Note Form is designed to collect and record daily care activities and progress for patients. This form helps care providers document important information, track changes, and ensure consistency in care delivery.

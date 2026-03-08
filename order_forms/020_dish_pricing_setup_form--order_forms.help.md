@@ -1,7 +1,3 @@
-<thinking> 
-The Dish Pricing Setup Form is used to set up pricing for dishes in the system. This form is typically used by administrators to configure dish pricing on a page-by-page basis. It allows users to select the pricing setup for a dish, update the price, and optionally add notes or contact information. The form is designed to be used in conjunction with other forms and tools to streamline the pricing management process. This form is not intended for customer-facing use, so only internal users with the necessary permissions can access it. 
-</thinking>
-
 # Dish Pricing Setup Form - Help Guide
 ## Purpose
 The Dish Pricing Setup Form is used to set up pricing for dishes in the system.

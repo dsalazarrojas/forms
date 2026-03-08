@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a Masselgfx order. It is intended for use by end-users who will be interacting with the form to provide their order details. Before completing this form, please ensure that you have all necessary information ready to be entered accurately and efficiently. To avoid duplication of work, it is recommended to have a clear understanding of the fields and their requirements. This form is not intended for use by users who are not familiar with the process or do not understand the fields and their purpose.
-</thinking>
-
 # Masselgfx Order - Help Guide
 ## Purpose
 The Masselgfx Order form is a tool used to collect order details from clients. It is used to ensure accurate and efficient processing of orders.

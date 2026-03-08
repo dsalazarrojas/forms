@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to capture essential information from customers to order concert tickets. The form collects data for the concert event, ticket type, and delivery method. The form aims to streamline the ticket ordering process, ensuring accurate and secure transactional data.
-
-Before filling out this form, make sure to review your event preferences and delivery options carefully. Please note that this form is intended for one-time orders. If you need to purchase multiple events, please submit the form multiple times, specifying different events each time.
-
-This form is designed to handle orders in a way that minimizes errors and ensures accurate fulfillment. Please fill out the form accurately and thoroughly. If you have any questions or concerns, don't hesitate to contact our support team.
-
-</thinking>
-
 # Afterpay Concert Tickets Order Form - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-This form is meant for users to register their participation in a temperature monitoring certification program. The form will be used to collect demographic information such as name, contact details, and participant type. It's crucial that users only submit this form once to avoid duplication and ensure accurate participant data.
-
-Before proceeding, please confirm that this form is relevant to your needs and you haven't already submitted this form or a duplicate registration.
-
-</thinking>
-
 # Temperature Monitoring Certification Registration Form - Help Guide
 ## Purpose
 The Temperature Monitoring Certification Registration Form is a user-facing form designed to collect demographic information from participants in the temperature monitoring certification program. This form is used to register participants' details, ensuring accurate and up-to-date data for the program.

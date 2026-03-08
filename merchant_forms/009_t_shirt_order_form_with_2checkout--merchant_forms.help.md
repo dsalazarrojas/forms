@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # t_shirt_order_form_with_2checkout - Help Guide
 ## Purpose
 This form is for customers to place an order for a t-shirt. It gathers information needed to fulfill the order, including personal details, product preferences, and payment options.

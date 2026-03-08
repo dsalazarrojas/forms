@@ -1,9 +1,3 @@
-<thinking>**This form is used for nonprofit employees to report community service activities to their organization. The purpose of the form is to track and document the work done in the community, which can be used for reporting purposes, such as to the board of directors or external funders. This information will help the organization understand the scope and impact of their community service activities, and identify areas for improvement.**
-
-**Please note that this form is intended for internal use only, and the information provided will not be shared with external parties.**
-
-</thinking>
-
 # Community Service Report Form - Help Guide
 ## Purpose
 The Community Service Report Form is used to report community service activities to the organization. This form helps the organization track and document the work done in the community, which can be used for reporting purposes, such as to the board of directors or external funders.

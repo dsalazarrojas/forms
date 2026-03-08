@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect customer information for takeaway orders. This form likely exists within a restaurant or food establishment's website to facilitate online ordering. It's possible that this form is part of a larger system for managing orders and customer interactions. To confirm, this form's title suggests it's for takeaway orders specifically, and the options for "order_details" imply a categorization of orders. If this form is used in a real-world setting, it's likely used for customers to place orders for food to be picked up or delivered.
-It's worth noting that the form is designed to be relatively simple and straightforward, suggesting it might be a template for quick and easy order placement.
-</thinking>
-
 # Takeaway Order Form - Help Guide
 
 ## Purpose

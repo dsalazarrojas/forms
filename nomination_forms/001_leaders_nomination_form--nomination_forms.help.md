@@ -1,9 +1,3 @@
-<thinking>...thinking>
-
-The "Leaders Nomination Form" is used to submit nominations for potential leaders within the organization. This form helps identify individuals who demonstrate exceptional leadership skills and qualities. Please ensure you are not duplicating nominations for the same individual, as this may lead to confusion and incorrect nominations being processed.
-
-</thinking>
-
 # Leaders Nomination Form - Help Guide
 ## Purpose
 The Leaders Nomination Form is used to submit nominations for potential leaders within the organization. The form helps identify individuals who possess exceptional leadership skills and qualities that make them suitable for leadership roles.

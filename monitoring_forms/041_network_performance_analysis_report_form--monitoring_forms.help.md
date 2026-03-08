@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information about network performance analysis reports. It is intended for network administrators and engineers to document and track network performance metrics, issues, and tasks associated with network monitoring. This form is designed to be used for both routine performance monitoring and for troubleshooting specific issues. The purpose of this form is to provide a structured and organized way to collect and store data about network performance and issues. Before completing this form, ensure that the required information is accurate and relevant to the network you are working with.
-
-</thinking>
-
 # Network Performance Analysis Report Form - Help Guide
 ## Purpose
 The Network Performance Analysis Report Form is used to collect and track information about network performance, issues, and tasks associated with network monitoring.

@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the cruise ticket refund form, we need to understand the purpose of the form, how to complete it, and what each field means. Based on the provided YAML, the form is for processing refunds for cruise tickets. The form is likely used by passengers who are requesting a refund for their cruise tickets due to various reasons such as cancellation, rescheduling, or other reasons.
-
-The form is divided into several pages, each with its own set of fields. The fields are mostly text inputs, select one options, and text inputs for various passenger information. The form also has fields for payment method and order status.
-
-</thinking>
-
 # cruise_ticket_refund_form - Help Guide
 ## Purpose
 This guide will help you complete the cruise ticket refund form. The form is used to process refunds for cruise tickets due to various reasons such as cancellation, rescheduling, or other reasons.

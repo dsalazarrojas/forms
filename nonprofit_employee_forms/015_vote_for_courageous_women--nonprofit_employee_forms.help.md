@@ -1,7 +1,3 @@
-<thinking>
-This guide will provide an overview of the "Vote For Courageous Women" form, which is designed to allow users to cast their vote on various individuals. The form is intended to gather information about users' opinions and choices, particularly regarding who they would vote for and whether or not they would vote for certain individuals. This form is likely used in a research or survey setting, possibly within a nonprofit organization. The form should not be duplicated or filled out by users with similar purposes, as it may lead to skewed results.
-</thinking>
-
 # Vote For Courageous Women - Help Guide
 ## Purpose
 The "Vote For Courageous Women" form is designed to collect votes on individuals who embody courage. Users are asked to select from a list of pre-defined options or provide a free-form text entry for other individuals not listed.

@@ -1,12 +1,3 @@
-<thinking>
-The form "Pet Monitoring Checklist" is used to collect information about pets that require monitoring. The form is likely used by veterinarians or pet care professionals to track the status of pets under their care. The purpose of the form is to gather essential data on the pet's health, feeding, and care status. This form is designed to be completed by pet owners or caregivers, and it's essential to fill out the form accurately and thoroughly to ensure that the pet receives proper care and monitoring.
-
-To avoid duplication of effort and ensure that the form is completed correctly, please make sure to review the form carefully before submission.
-
-This help guide will walk you through each section of the form, explaining what each field means and how to complete it accurately.
-
-</thinking>
-
 # Pet Monitoring Checklist - Help Guide
 
 ## Purpose

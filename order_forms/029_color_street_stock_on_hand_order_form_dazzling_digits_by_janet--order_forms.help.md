@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be an order form for ordering stock from Janet's business, Dazzling Digits By Janet. The form is likely used by customers to place an order for specific sets from Janet's stock. The form requires customer information such as name, email, shipping address, and phone number, as well as details about the order, including the sets requested and the total number of sets. The payment and shipping options are also included, allowing the customer to choose how they would like to pay and how their order should be shipped. The form seems to be designed for customers who want to order from Janet's stock and provides a structured way for them to provide their order details.
-</thinking>
-
 # Color Street Stock On Hand Order Form - Dazzling Digits By Janet - Help Guide
 ## Purpose
 This form is for customers to place an order for stock from Janet's business, Dazzling Digits By Janet.

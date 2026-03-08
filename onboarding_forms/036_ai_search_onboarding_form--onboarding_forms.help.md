@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from the end user for the purpose of onboarding their AI search solution. The form is used to collect relevant details that will help in setting up the search environment, which includes project overview, contact information, primary search use case, data sources, expected document volume, privacy requirements, success metrics, and additional technical requests.
-</thinking>
-
 # AI Search Onboarding Form - Help Guide
 ## Purpose
 This form is used to gather information from the end user for the purpose of onboarding their AI search solution.

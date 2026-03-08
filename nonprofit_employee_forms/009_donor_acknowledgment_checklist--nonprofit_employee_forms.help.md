@@ -1,5 +1,3 @@
-<thinking>Donor Acknowledgment Checklist is a form used to record and acknowledge donations received by the nonprofit organization. This form is essential for tracking and verifying donations, ensuring that all donations are properly documented and accounted for. To confirm that this form is correctly filled out, please check that all required fields are completed before submitting. This guide will walk you through each field to help you fill out the form accurately and efficiently.</thinking>
-
 # Donor Acknowledgment Checklist - Help Guide
 
 ## Purpose

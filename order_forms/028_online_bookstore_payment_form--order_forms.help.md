@@ -1,9 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Online Bookstore Payment Form" based on the provided YAML fields. The form's purpose is to collect information from customers for online bookstore transactions. We will explain each field in detail to ensure that end-users understand what is required of them.
-
-We will follow the instructions to the letter and focus on providing clear and concise explanations for each field.
-</thinking>
-
 # Online Bookstore Payment Form - Help Guide
 ## Purpose
 This form is designed to collect payment information from customers for online bookstore transactions. Please fill out this form to complete your purchase.

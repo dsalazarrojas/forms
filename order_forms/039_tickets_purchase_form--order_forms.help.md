@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to help customers purchase tickets for events. It is not a payment form, as the payment method field is optional. The form is intended for customers to provide information about their ticket purchase, including the type of ticket, event, price, and quantity they wish to purchase. The form is not meant for customers to actually make a payment.
-</thinking>
-
 # Tickets Purchase Form - Help Guide
 
 ## Purpose

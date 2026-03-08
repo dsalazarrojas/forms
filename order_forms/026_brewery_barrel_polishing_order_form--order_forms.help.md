@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from breweries to place orders for polishing their barrels. This form will help the brewery provide all the necessary details for the polishing process, including the type and quantity of barrels, preferred service priority, and payment method. This form is designed to be completed by the brewery's staff or contact person to ensure accurate and efficient communication with the polishing service provider. Before proceeding, please ensure you have all necessary information and are aware of the required fields, as some are marked as mandatory.
-</thinking>
-
 # Brewery Barrel Polishing Order Form - Help Guide
 ## Purpose
 The Brewery Barrel Polishing Order Form is used to gather information from breweries for the polishing of their barrels.

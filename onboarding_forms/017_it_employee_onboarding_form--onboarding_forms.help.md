@@ -1,7 +1,3 @@
-<thinking>
-The goal of this form is to gather onboarding information from new employees. It is essential to complete this form accurately to ensure a smooth onboarding process. If you've already completed this form in the past, please do not fill it out again, as your information will be carried over from previous submissions.
-</thinking>
-
 # it_employee_onboarding_form - Help Guide
 ## Purpose
 This form collects onboarding information from new employees to facilitate a smooth transition into our organization.

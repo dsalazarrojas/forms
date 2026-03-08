@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for CCTV monitoring requests related to vacant properties. The purpose of this form is to collect details about the property, authorization, monitoring, and submission of the request. This form is intended for users who need to submit a request for CCTV monitoring on a vacant property. The form will help ensure that all necessary information is provided to process the request efficiently.
-</thinking>
-
 # vacant_property_cctv_monitoring_request - Help Guide
 ## Purpose
 This form is used to submit a request for CCTV monitoring on a vacant property. It collects information about the property, authorization, monitoring, and submission details.

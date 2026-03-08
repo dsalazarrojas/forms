@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used by the business to gather information about nail art orders. It is intended to be used for internal purposes only, and the data collected will be used to process and fulfill the orders. This form is not intended for external use, such as customer-facing interfaces. The purpose of this form is to ensure that the business has all the necessary information to provide accurate and efficient service to its clients. 
-</thinking>
-
 # Nail Art Order Form - Help Guide
 ## Purpose
 This form is used to gather information about nail art orders for internal purposes. It is intended for business-to-business use only and is not meant to be used for external communication with clients.

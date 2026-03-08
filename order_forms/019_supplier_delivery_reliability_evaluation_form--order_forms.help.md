@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help evaluate the reliability of a supplier's delivery performance. It collects information about the supplier's name, the order number, the delivery date, and the delivery time. This data will likely be used to analyze and improve the supplier's performance, and potentially impact future purchase decisions.
-To prevent duplication, I assume that this form is meant to be filled out by different suppliers for each evaluation. If the form is meant to be filled out by a single supplier multiple times, or by the same supplier multiple times, please clarify the purpose.
-</thinking>
-
 # Supplier Delivery Reliability Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather information about a supplier's delivery performance. It's meant to be filled out for each supplier evaluation.

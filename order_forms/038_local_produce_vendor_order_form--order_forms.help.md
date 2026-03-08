@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form purpose and fields are clearly explained so that end-users can easily understand how to complete it correctly. This form is for vendors to place orders with local produce vendors, and its fields should be self-explanatory. We must double-check that the fields are not duplicated and that the form serves its intended purpose.
-</thinking>
-
 # Local Produce Vendor Order Form - Help Guide
 ## Purpose
 This form is for local produce vendors to place orders with the company. It gathers information about the order details, shipping details, contact information, and notes relevant to the order.

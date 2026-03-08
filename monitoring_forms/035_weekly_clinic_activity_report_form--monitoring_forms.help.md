@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about the weekly activities and performances of a clinic. It is a report that needs to be filled out by clinic staff at the end of each week, and its data will be used for tracking and analysis purposes. The form should not be filled out by non-clinic staff members, and it is crucial to ensure that only authorized personnel fill it out. Please make sure you are the correct person to fill out this form before proceeding.
-</thinking>
-
 # Weekly Clinic Activity Report Form - Help Guide
 ## Purpose
 The Weekly Clinic Activity Report Form is used to record and report the activities and performances of a clinic over a week. This form is required to be filled out by clinic staff at the end of each week and is used to track and analyze clinic activities.

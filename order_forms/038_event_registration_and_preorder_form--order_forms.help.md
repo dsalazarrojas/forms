@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Event Registration And Preorder Form - Help Guide
 
 ## Purpose

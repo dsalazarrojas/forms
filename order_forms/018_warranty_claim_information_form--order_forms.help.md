@@ -1,7 +1,3 @@
-<thinking>
-The goal of this form is to collect information related to a warranty claim made by a customer. This form is designed to gather essential details from the customer, including their name, email address, and purchase date, as well as information about the product in question, such as its name and the type of warranty claim being made. Additionally, the form includes fields for the customer to provide a description of the issue, any accompanying photos or videos, and proof of purchase. The form also allows the customer to select the type of warranty claim they are making and to provide their signature. This form is meant to be completed by customers who are making a warranty claim and needs to be filled out accurately to ensure that the claim is processed efficiently and effectively.
-</thinking>
-
 # warranty_claim_information_form - Help Guide
 ## Purpose
 The warranty claim information form is used to collect information about a customer's warranty claim. It is essential to fill out this form accurately to ensure that your claim is processed efficiently and effectively.

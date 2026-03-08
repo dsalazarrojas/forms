@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals or organizations related to human rights petitions. The purpose of this form is to gather data on various aspects of human rights, including the status of human rights, select one or multiple options, dates, times, and notes. This form is intended for use by individuals or organizations that wish to report or discuss human rights issues.
-
-To determine if this form is relevant to your organization or needs, consider the following:
-
-* Are you an organization or individual with a focus on human rights?
-* Do you need to collect data on human rights related to dates, times, or other specific options?
-* Are you collecting information from individuals or organizations that may require specific formatting or formatting for their responses?
-
-If the answer to any of these questions is yes, this form may be relevant to your needs. However, if you have any doubts or concerns, please contact our team for further guidance.
-</thinking>
-
 # Human Rights Petition Form - Help Guide
 ## Purpose
 The Human Rights Petition Form is a data collection tool designed to gather information from individuals or organizations related to human rights petitions. This form aims to gather data on various aspects of human rights, including select one or multiple options, dates, and times.

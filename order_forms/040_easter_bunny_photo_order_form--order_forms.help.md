@@ -1,8 +1,3 @@
-<thinking>
-This form is for ordering Easter Bunny photos. 
-The purpose of this form is to collect information from customers to place an order for custom photos of the Easter Bunny. This form should only be used for customers who have previously been in contact with our Easter Bunny photo team. Please note that if a customer has not been in contact with our team before, they should be directed to fill out the contact form first before attempting to place an order.
-</thinking>
-
 # easter_bunny_photo_order_form - Help Guide
 ## Purpose
 This form is for ordering Easter Bunny photos. The information collected through this form will be used to fulfill the customer's photo order.

@@ -1,10 +1,3 @@
-<thinking> 
-The form "Athlete Apparel Design Brief Form" is used to collect information from clients or teams to create custom apparel designs. It is a critical component of the design process, ensuring that our design team has a clear understanding of the project requirements and can create a design that meets the client's needs. This form guides the client through a series of questions and prompts to gather essential details about the project, including team or club information, apparel specifications, design preferences, and budget expectations. By filling out this form, clients can provide our design team with the necessary information to create a design brief that accurately represents their vision.
-
-Please note that this form is designed to be a starting point for the design process, and our team will work closely with the client to refine and finalize the design.
-
-</thinking>
-
 # Athlete Apparel Design Brief Form - Help Guide
 ## Purpose
 The purpose of this form is to gather essential information from clients or teams to create custom apparel designs that meet their specific needs and preferences.

@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication, I will focus on the form's purpose and ensure that the explanation aligns with the provided YAML structure.
-</thinking>
-
 # Blackjack Animal Rescue Online Application Form - Help Guide
 ## Purpose
 This form is designed for individuals interested in adopting a pet from Blackjack Animal Rescue. The form will help us understand your needs, preferences, and qualifications to ensure the best match between you and a pet that fits your lifestyle.

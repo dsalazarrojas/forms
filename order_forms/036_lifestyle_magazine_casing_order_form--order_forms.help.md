@@ -1,7 +1,3 @@
-<thinking>
-This form is used to facilitate the ordering of magazine casings. The purpose of this form is to collect order information from customers, which will then be used for the production and shipping of the ordered magazine casings.
-</thinking>
-
 # Lifestyle Magazine Casing Order Form - Help Guide
 ## Purpose
 

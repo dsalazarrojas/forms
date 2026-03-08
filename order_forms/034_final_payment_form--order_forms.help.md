@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for tracking and documenting financial transactions, such as payments or orders. It may be used by staff members or administrators to record and verify payments, update payment status, and add notes or comments about each transaction. To avoid duplication of effort, ensure that this form is not used for other purposes, and that all relevant transactions are properly documented elsewhere.
-</thinking>
-
 # Order Form - Help Guide
 ## Purpose
 This form is designed to help users track and document financial transactions, such as orders or payments.

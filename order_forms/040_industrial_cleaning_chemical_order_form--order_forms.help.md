@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used for customers to order industrial cleaning chemicals from the company. It is intended to gather information about the customer's needs, including their supplier status, product selections, quantity, unit price, total price, delivery details, terms and conditions acknowledgment, and order number. The form is designed to be completed by the customer, and the information collected will be used to process their order.
 
 # Industrial Cleaning Chemical Order Form - Help Guide

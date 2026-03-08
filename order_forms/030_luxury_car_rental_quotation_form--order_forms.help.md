@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from customers for luxury car rental quotes. This form aims to gather customer details and rental details to generate an accurate quote for the customer.
-
-Upon analyzing the input schema, I noticed that this form has three main sections: "Customer Info", "Rental Quote", and "Rental Date". The form's structure is simple and straightforward, making it easy for end-users to understand.
-
-</thinking>
-
 # Luxury Car Rental Quotation Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers to generate accurate rental quotes for luxury cars.

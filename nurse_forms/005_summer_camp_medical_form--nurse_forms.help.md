@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect medical information from campers, which is essential for the camp staff to provide accurate medical care and ensure the camper's safety during their stay. The form is part of the camp's medical protocol, and its data will be used to create a comprehensive medical record for each camper. By providing this information, campers can help the camp staff better understand their medical needs and provide the necessary care.
-
-Please note that this form is not intended to be used as a substitute for a medical consultation or examination. If you have any concerns or questions, please consult a medical professional.
-
-</thinking>
-
 # summer_camp_medical_form - Help Guide
 ## Purpose
 The summer camp medical form is designed to collect essential medical information from campers to ensure their safety and well-being during their stay at the camp.

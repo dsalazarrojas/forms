@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # quality-of-life-award-nomination-form - Help Guide
 ## Purpose
 This form is designed to collect personal details and nominations for the Quality of Life Award. Please note that this form will be reviewed and verified by the internal team to ensure the nomination is valid and relevant to the award's purpose. To avoid duplication of efforts, please do not submit nominations that have already been submitted.

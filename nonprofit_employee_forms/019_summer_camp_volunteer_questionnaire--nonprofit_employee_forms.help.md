@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to collect volunteer information for a summer camp. The purpose of this form is to gather details about potential volunteers, including their contact information, availability, and preferences for shifts and volunteer frequency. This form will help the summer camp staff to efficiently manage and assign volunteers to various shifts and tasks throughout the summer.
-
-The form will be completed by a volunteer who will provide their personal details, such as name, email, phone number, and volunteer position. They will also be asked to specify their availability, shift preferences, and frequency of volunteering. Additionally, they will be able to provide any comments or additional information about their volunteer status and experience.
-
-To avoid duplication and ensure consistency, the form is designed to be a one-time entry process. Please ensure that you fill out this form with accurate and up-to-date information to ensure a smooth volunteer experience.
-
-</thinking>
-
 # Summer Camp Volunteer Questionnaire - Help Guide
 ## Purpose
 This form is used to collect volunteer information for a summer camp, including personal details, availability, and preferences.

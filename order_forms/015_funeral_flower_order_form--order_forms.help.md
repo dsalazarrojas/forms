@@ -1,7 +1,3 @@
-<thinking>
-Please note that this form is designed to collect information related to funeral flower orders, which typically involves sending flowers to a customer's loved one in a time of need, such as after a funeral or memorial service. The form is likely to be used by customers who want to place an order for funeral flowers.
-</thinking>
-
 # Funeral Flower Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers who want to place an order for funeral flowers. The form helps us understand the customer's requirements and preferences for the order, including their contact information, order details, and payment information.

@@ -1,10 +1,3 @@
-<thinking>
-To begin with, I'd like to consider the context of the form: A sports facility is ordering hand sanitizer supplies, likely in response to health and safety concerns or regulations. The form should be easy to complete and require only the necessary information for the order. 
-
-The form asks for the facility name, email address, phone number, sanitizer type preference, quantity needed, delivery address, delivery date, delivery time, and any additional notes. These details are all pertinent to the order process and should be self-explanatory. However, to ensure clarity, here's a step-by-step guide and field-by-field explanations:
-
-</thinking>
-
 # Sports Facility Hand Sanitizer Supply Order Form - Help Guide
 ## Purpose
 This form is designed to help sports facilities order hand sanitizer supplies to meet their specific needs and adhere to health and safety regulations.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to capture information for pre-orders of new novels from customers, including the book title, author's information, shipping details, and store details. It will be used by customers to place pre-orders for new novels, and the collected data will be used to fulfill the order and communicate with the customer. 
-
-This form is intended for use by customers who wish to pre-order new novels, and it is not meant for use by authors or publishers who are looking to submit their work for publication.
-
-To ensure that customers complete the form correctly, we will be validating the data they enter to ensure that it meets the required formats and conditions.
-
-</thinking>
-
 # New Novel Pre Order Form - Help Guide
 ## Purpose
 The New Novel Pre Order Form is a tool for customers to place pre-orders for new novels. It captures essential information about the book, the customer, and the order details.

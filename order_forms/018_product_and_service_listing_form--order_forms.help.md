@@ -1,10 +1,3 @@
-<thinking>
-Internal reasoning block explaining the form purpose and checking for relevance and non-duplication:
-This form is designed to collect data from users for listing products and services. The form has multiple fields for different types of information such as service and product types, descriptions, prices, URLs, and contact details. 
-The fields allow users to provide a brief description of their products or services, select the category and type, add a URL to an image, and provide contact information. This form is intended for internal use within the organization to manage the listing of products and services. Please note that all fields are optional except for a possible duplicate check.
-
-</thinking>
-
 # Product And Service Listing Form - Help Guide
 ## Purpose
 This form is designed to collect data from users for listing products and services. The form is intended for internal use within the organization to manage the listing of products and services.

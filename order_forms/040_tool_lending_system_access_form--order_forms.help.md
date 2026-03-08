@@ -1,12 +1,3 @@
-<thinking>
-This form is used to grant access to the tool lending system for users who need to borrow tools within the organization. This guide will explain each step in filling out the form.
-
-To ensure that you have the correct access to the tool lending system, you should have received an email with instructions on how to access and fill out this form.
-
-Before you start, make sure to fill out this form carefully and accurately, as your input will be used to determine your level of access to the tool lending system.
-
-</thinking>
-
 # Tool Lending System Access Form - Help Guide
 ## Purpose
 This form is used to grant access to the tool lending system for users who need to borrow tools within the organization.

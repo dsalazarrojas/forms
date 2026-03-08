@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "zimbabwe_nursing_application_form_template" is to gather information from users regarding their basic information, contact details, medical license, work experience, education background, nursing certificates, emergency contact, medical references, and other relevant data. This form is likely used by a healthcare organization to collect information from nurses or nursing candidates. It seems that the form is designed to collect data that can be used for internal purposes, such as verifying information or reviewing credentials.
-</thinking>
-
 # zimbabwe_nursing_application_form_template - Help Guide
 
 ## Purpose

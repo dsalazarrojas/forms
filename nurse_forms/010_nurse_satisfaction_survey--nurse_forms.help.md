@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about nurse satisfaction and experiences in the workplace. It should be used to collect feedback from nurses on various aspects of their work environment, schedules, workload, communication with colleagues and supervisors, patient satisfaction, work environment, support from colleagues and supervisors, training and development, job satisfaction, and turnover concerns. Please use this form to gather feedback that is specific to the nurse's perspective and experiences. This form should not be used for duplicate or redundant purposes, and should only be used by authorized personnel.
-</thinking>
-
 # Nurse Satisfaction Survey - Help Guide
 ## Purpose
 The Nurse Satisfaction Survey is designed to gather feedback from nurses about their experiences and satisfaction with various aspects of their work environment.

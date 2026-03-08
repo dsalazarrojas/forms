@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to manage delivery information for office furniture orders. It captures essential details such as delivery dates, times, addresses, contact information, and status updates. This form is likely used by suppliers to provide delivery updates to customers. The form appears to be part of a larger workflow that involves order management and tracking.
 
 # office_furniture_delivery_form - Help Guide

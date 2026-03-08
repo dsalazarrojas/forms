@@ -1,7 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the Sample Request Form. This guide will cover the form's purpose, how to complete it, and a detailed explanation of each field. To create this guide, we will base our explanation on the provided YAML fields and provide concrete, concise, and practical information.
-</thinking>
-
 # Sample Request Form - Help Guide
 ## Purpose
 The Sample Request Form is designed to collect information from users for a specific purpose. This form is used to gather details about the user's request, including the type of example they would like, quantity, and other relevant information.

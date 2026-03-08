@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for customers to place orders for household products through Afterpay, a payment plan that allows for interest-free installments. The form requires customers to provide their personal details, product selection, and payment options, ensuring a seamless and stress-free shopping experience. By following this guide, you will be able to complete the form accurately and efficiently.
-
-Please note that some fields are required to be filled out completely for successful order processing.
-</thinking>
 # Afterpay Household Products Order Form - Help Guide
 ## Purpose
 This form is designed to facilitate household product orders through Afterpay, allowing customers to select and purchase products in interest-free installments.

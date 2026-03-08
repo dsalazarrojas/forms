@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from merchants for custom sound drop orders. This form is used to gather details about the artist, type of drop, and status of the custom sound drop order. The information collected through this form will be used to facilitate efficient order processing and communication with the merchant. 
-
-Checking for relevance and non-duplication:
-
-* Form purpose: Custom sound drops are a type of consignment-based order where artists sell their art to other artists/collectors. This form is designed specifically for this type of order.
-* Relevance check: This form is meant to be used by artists and collectors who want to sell or buy custom art pieces. It's not for general contact or other types of orders.
-* Non-duplication check: The form should not be used for other types of orders that do not fit the custom sound drop category.
-
-</thinking>
-
 # custom_sound_drop_order_form - Help Guide
 ## Purpose
 The custom_sound_drop_order_form is a form used to collect information from merchants for custom sound drop orders.

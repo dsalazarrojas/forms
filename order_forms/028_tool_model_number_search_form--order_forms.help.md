@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for searching tool models by their model numbers. This form could be used by users who need to search for tool models based on their assigned status or search for a specific tool model number. This form might be part of a larger system for managing tool models, possibly in a manufacturing or production environment. To avoid duplication, the form should be used for single-purpose searching. This form should not be used for other purposes that could be misinterpreted as searching tool models.
-</thinking>
-
 # tool_model_number_search_form - Help Guide
 ## Purpose
 This form is designed to aid users in searching tool models based on their assigned status or by entering a specific model number.

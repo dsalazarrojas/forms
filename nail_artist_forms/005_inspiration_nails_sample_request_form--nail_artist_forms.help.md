@@ -1,9 +1,3 @@
-<thinking>... (internal reasoning block)
-
-This form is intended to be used by customers to request samples of nail polish products from our company. The purpose of this form is to collect relevant information from customers, such as their contact details, nail polish preferences, sample requests, and follow-up preferences. This form is not meant to be completed by internal staff members, as it is intended to be used by external customers.
-
-</thinking>
-
 # inspiration_nails_sample_request_form - Help Guide
 ## Purpose
 The inspiration_nails_sample_request_form is a form used by customers to request samples of nail polish products. It is used to collect contact information, nail polish preferences, and sample request details to process sample requests efficiently.

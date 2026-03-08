@@ -1,9 +1,3 @@
-<thinking>
-This form was created to assist customers in placing a private label packaging order. 
-The purpose of this form is to gather necessary information from the customer, including their contact details, product preferences, delivery requirements, and other relevant information needed to process the order. 
-No other forms on this platform serve the same purpose.
-</thinking>
-
 # Private Label Packaging Order Form - Help Guide
 ## Purpose
 This form is intended for customers to provide their information and preferences for a private label packaging order. It is used to gather necessary details such as contact information, product specifications, and shipping instructions.

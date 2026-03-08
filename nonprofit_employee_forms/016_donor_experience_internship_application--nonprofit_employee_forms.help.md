@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information about potential candidates for the Donor Experience Internship. This form is designed to assess whether a candidate has the right background and availability for the internship. Non-profit organizations can use this form to efficiently evaluate multiple candidates and find the best fit for their needs. Please make sure to use this form only for the intended purpose and not for other types of evaluations or applications.
-
-</thinking>
-
 # Donor Experience Internship Application - Help Guide
 ## Purpose
 The Donor Experience Internship Application form is used to gather information about potential candidates for the Donor Experience Internship. This form is designed to assess whether a candidate has the right background and availability for the internship.

@@ -1,13 +1,3 @@
-<thinking>
-Nurse Forms are used to evaluate a nurse's competencies, skills, and knowledge in various areas relevant to patient care. This form is used to assess a nurse's proficiency in different areas such as Medical Knowledge, Communication, Patient Assessment, Medication Management, and others. It is designed to help nurses, administrators, or educators evaluate and document a nurse's skills and competencies. 
-
-This form was created to provide a comprehensive evaluation tool for nurses, and it should not be used to collect patient data or information. Please ensure that you are filling this form for the correct purpose.
-
-Before filling this form, please make sure you have the necessary information and context about the nursing skills and competencies you want to evaluate.
-
-To avoid duplication, please do not fill this form if you have already evaluated the nurse in the past.
-</thinking>
-
 # Nursing Skills Checklist Form - Help Guide
 ## Purpose
 The Nursing Skills Checklist Form is designed to evaluate a nurse's competencies, skills, and knowledge in various areas relevant to patient care.

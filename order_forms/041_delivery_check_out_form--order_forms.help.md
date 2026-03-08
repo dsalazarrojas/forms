@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used in a delivery context, likely for customers or clients receiving products or services. It is intended to collect essential information about the delivery process and customer details. To create this form, I have analyzed public survey topics in the delivery industry and adapted the structure and fields based on that analysis. The form's fields aim to be as comprehensive and practical as possible. If there's any confusion, it would be helpful to verify the form's fields and their purpose with the intended stakeholders.
-</thinking>
-
 # Delivery Check Out Form - Help Guide
 ## Purpose
 This form is used to collect important details about the delivery process and customer information.

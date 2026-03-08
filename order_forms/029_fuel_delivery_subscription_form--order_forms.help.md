@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect subscription information from customers who want to receive fuel deliveries. This form is likely used by a business that offers fuel delivery services, such as a gas station or a fuel distributor. The form will help the customer provide their personal information, delivery preferences, and payment details.
-
-Before completing this form, ensure that you are not duplicating an existing subscription. If you have any questions or concerns, please contact the relevant support team.
-
-This form is designed to be completed by customers, but the business may review and validate the information provided before finalizing any subscriptions.
-</thinking>
-
 # Fuel Delivery Subscription Form - Help Guide
 
 ## Purpose

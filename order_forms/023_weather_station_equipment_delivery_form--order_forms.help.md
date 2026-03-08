@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to help customers or users input information for the delivery of weather station equipment. To create a relevant and effective help guide, we should consider the following:
-
-* What is the purpose of the form?
-* What kind of information needs to be collected?
-* What are the different fields included in the form and what do they mean?
-
-The form is meant to collect information for the delivery of weather station equipment, which can be weather stations or other related tools. This information includes details about the delivery date, type of equipment being delivered, address for delivery, contact information, delivery terms, and any additional notes. 
-
-The form is designed for users who need to schedule the delivery of weather station equipment, which can be used by weather stations or other organizations. The form is meant to be user-friendly and easy to understand.
-
-</thinking>
-
 # Weather Station Equipment Delivery Form - Help Guide
 ## Purpose
 The Weather Station Equipment Delivery Form is designed to collect information for the delivery of weather station equipment. This form helps users schedule and coordinate the delivery of weather station equipment to the desired location.

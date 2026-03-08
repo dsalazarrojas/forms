@@ -1,5 +1,3 @@
-<thinking>...This form is designed to gather information for product packaging design orders. The form is likely used by product designers or packaging engineers to collect details from clients about their product packaging design needs. It is essential to understand that this form is for product packaging design orders, not orders for products themselves. This form is not intended for general product orders or other purposes. Please ensure you are filling this form to collect details for product packaging design orders. If unsure, consult the form creator or a colleague...</thinking>
-
 # Product packaging design order form - Help Guide
 
 ## Purpose

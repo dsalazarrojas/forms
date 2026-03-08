@@ -1,20 +1,3 @@
-<thinking>
-This form is intended for users to request screen printing services. The form asks for basic contact information, design preferences, and other related details that will help the service provider fulfill their order. 
-
-The form is divided into several fields that cover various aspects of the order, such as name, email, phone number, design type, artwork type, artwork details, deadline, production method, quantity, color, price, and currency. Some fields may not be required, and users can fill in only the necessary information. The design type and production method fields are drop-down menus, while artwork type and color fields are multiple-choice fields.
-
-It is essential to fill out this form accurately and thoroughly to ensure that the requested screen printing services are fulfilled correctly and on time.
-
-Before filling out this form, please review the available options carefully and fill out the required fields. Some fields have specific formatting requirements (e.g., email, date, and currency), so please ensure you enter the correct format.
-
-When filling out the form, consider the following:
-  * Enter your email address correctly, in the format of "example@email.com".
-  * Select the correct design type and production method for your order.
-  * Choose all relevant artwork types (vector, raster, hand-drawn, digital) that apply to your order.
-  * Enter the correct deadline for your order, in the format of "YYYY-MM-DD".
-  * Choose the correct currency for your order.
-</thinking>
-
 # Screen Printing Request Form - Help Guide
 ## Purpose
 This form is designed for users to request screen printing services for their order, including custom artwork and production preferences.

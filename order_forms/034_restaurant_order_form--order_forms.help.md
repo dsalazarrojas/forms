@@ -1,11 +1,3 @@
-<thinking>
-Form purpose: 
-The Restaurant Order Form is a crucial document that allows customers to place orders with a restaurant, including options for pickup or delivery, payment methods, and special instructions. This form also captures essential customer information such as email, phone, name, and address. 
-
-To avoid duplication, the form only allows one order per submission.
-
-</thinking>
-
 # Restaurant Order Form - Help Guide
 ## Purpose
 The Restaurant Order Form is a simple form used to place orders with a restaurant. It's essential for customers to provide their pickup or delivery location, order type, payment method, and other relevant details.

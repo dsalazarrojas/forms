@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to request a quote for album printing services. It gathers essential information about the customer's album specifications, including size, cover material, paper type, and quantity. The form also asks for the photographer's or studio's name, email address, and shipping destination. Additionally, it includes fields for deadline, customization requests, and budget per unit. The form is meant to ensure that the customer's album printing needs are accurately understood, allowing for a precise quote to be provided.
-</thinking>
-
 # Album Printing Quote Request Form - Help Guide
 ## Purpose
 This form is designed to help us understand your album printing requirements, enabling us to provide an accurate quote for your project.

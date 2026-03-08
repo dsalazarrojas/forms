@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for requesting approval to rent equipment for a specific project. The goal is to provide information necessary for processing and approving the rental request. The form's fields should be filled in with the relevant details, and the user should ensure that all required fields are completed accurately and truthfully. This form should not be used for other purposes, such as requesting equipment purchase or maintenance.
-</thinking>
-
 # Equipment Rental Approval Form - Help Guide
 
 ## Purpose

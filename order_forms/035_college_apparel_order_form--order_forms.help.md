@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for customers to place an order for college apparel, such as t-shirts, polo shirts, hoodies, and more. The form is intended to gather information on the customer's details, order preferences, and payment methods. To ensure accuracy and consistency, it's essential to fill out the form carefully and thoroughly. Before proceeding, please review the guidelines below to ensure you understand the purpose and requirements of this form.
-
-</thinking>
-
 # College Apparel Order Form - Help Guide
 ## Purpose
 The College Apparel Order Form is designed to gather information for your college apparel order. Please fill out this form carefully to ensure accurate processing of your order.

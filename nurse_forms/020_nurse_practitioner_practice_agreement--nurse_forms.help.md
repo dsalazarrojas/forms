@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture the details and agreements of a nurse practitioner's practice. This form will help the nurse to provide a professional and organized framework for their practice. It is meant to be filled out by the nurse practitioner to document their practice, agreements, and collaboration details. Please ensure that this form is not used for other purposes such as medical records or patient treatment plans.
-</thinking>
-
 # Nurse Practitioner Practice Agreement - Help Guide
 ## Purpose
 This form is designed to capture the details and agreements of a nurse practitioner's practice. It's meant to be a helpful tool for the nurse to document their practice, agreements, and collaboration details.

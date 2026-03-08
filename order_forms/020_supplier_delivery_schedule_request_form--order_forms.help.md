@@ -1,9 +1,3 @@
-<thinking>
-This form is for requesting updates to a supplier's delivery schedule. The form allows users to select a supplier, choose a delivery date and frequency, and enter other relevant information such as contact details and delivery status.
-The form is likely used by buyers or procurement personnel to communicate with suppliers about changes in their delivery schedules. The form may be used to request changes in delivery dates, frequencies, or status.
-Before filling out this form, ensure you have already checked with the supplier to confirm they are willing to make the requested changes. This form should not be used to request changes that are not previously discussed.
-</thinking>
-
 # Supplier Delivery Schedule Request Form - Help Guide
 ## Purpose
 The Supplier Delivery Schedule Request Form is used to request updates to a supplier's delivery schedule. This form helps to communicate with suppliers and ensure that delivery schedules are up-to-date and accurate.

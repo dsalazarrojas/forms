@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather basic information about users for social media onboarding purposes. The fields are meant to collect user's job position, company, role, email, and social media profiles (LinkedIn, Twitter, Instagram, YouTube, TikTok, and Other Social Media). This form is meant to be used as a starting point for social media onboarding and can be customized as needed. It is not affiliated with, endorsed by, or derived from any form platform, and it is released under a Creative Commons BY 4.0 license.
-</thinking>
-
 # Social Media Onboarding Form Template - Help Guide
 ## Purpose
 This form is designed to gather basic information about users for social media onboarding purposes.

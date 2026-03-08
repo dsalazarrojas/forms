@@ -1,10 +1,3 @@
-<thinking>
-This form is used to assess the onboarding process for new hires, collecting feedback on the effectiveness of the onboarding process and identifying potential areas of improvement. The form is designed to provide valuable insights for supervisors and the organization to make data-driven decisions on onboarding process improvements.
-This form is intended to be used by supervisors and hiring managers to evaluate the onboarding process for new hires in their team. It is meant to be completed for each new hire, at the end of the onboarding process. The data collected will be used to monitor and improve the effectiveness of the onboarding process.
-The form is part of a larger onboarding program and is used in conjunction with other onboarding materials and processes.
-The form is not intended to replace other onboarding tools or processes.
-</thinking>
-
 # Onboard Supervision Assessment - Help Guide
 ## Purpose
 This form is used to assess the onboarding process for new hires, collecting feedback on the effectiveness of the onboarding process and identifying potential areas of improvement.

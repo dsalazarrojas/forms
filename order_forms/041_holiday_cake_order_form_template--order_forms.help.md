@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to capture information for a holiday cake order. It is meant to be filled out by the customer to provide their details for the order. Please check that you are not already familiar with this form, and that your goal is to place a cake order. If that's the case, you are already well-versed in its usage and can start filling it out directly. 
-</thinking>
-
 # Holiday Cake Order Form Template - Help Guide
 ## Purpose
 This guide will walk you through the fields and instructions for the Holiday Cake Order Form Template. The form is designed to collect order details from customers for their holiday cakes.

@@ -1,8 +1,3 @@
-<thinking>
-This form is likely used to track the status of furniture deliveries from the warehouse to the retailer and then to the customer, and to collect information about each delivery. 
-The fields are likely populated by users in the logistics and delivery teams, and the form is used as a centralized hub for tracking and reporting on delivery data. 
-</thinking>
-
 # Furniture Delivery Tracker - Help Guide
 ## Purpose
 The Furniture Delivery Tracker form is used to track the status of furniture deliveries from the warehouse to the retailer and then to the customer. It collects information about each delivery, including delivery status, confirmation from the retailer and warehouse, and any additional notes or details.

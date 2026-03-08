@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of the "final_step_confirmation" form is to collect and confirm important information regarding an order's completion, including customer details, payment methods, and order status. This form serves as the last step in the order process, ensuring that all necessary information is recorded and verified before an order is considered finalized. This form should be used when an order is already in progress, and the user needs to confirm its completion.
 
 ## How To Complete This Form

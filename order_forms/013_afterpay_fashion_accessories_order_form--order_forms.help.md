@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers for an order of fashion accessories. The form is designed to gather details about the customer, such as their name, email, and mailing address, as well as specific information about the accessory they are ordering, including the type, material, and quantity. The form also includes options for gift wrapping and payment methods, including Afterpay installment payments.
-
-This form is likely used in an online or brick-and-mortar store environment where customers can place orders for fashion accessories. The form should be completed in its entirety to ensure that the customer's order is processed correctly and that they receive their desired accessory or accessories.
-
-When completing this form, customers should enter their name, email, and mailing address in the first three fields. They should then select the type of accessory they are interested in from the provided options. Next, they should enter the name or code of the specific item they want to purchase, followed by their preferred material or finish. The number of items they wish to purchase should be entered in the quantity field. Customers can also opt for gift wrapping and select their preferred payment method, including Afterpay installment payments.
-
-The following is a step-by-step guide to completing this form:
-
-</thinking>
-
 # Afterpay Fashion Accessories Order Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from customers for an order of fashion accessories.

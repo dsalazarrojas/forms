@@ -1,9 +1,3 @@
-<thinking>
-
-To confirm the form purpose and ensure it's relevant and not duplicated, I will review the provided YAML and form structure. The form seems to be a comprehensive "Clothes Donation Form" designed to gather information from individuals who wish to donate clothing items. It appears to be part of a nonprofit organization's donation process, likely for redistribution or other purposes. I will proceed to create the help guide based on this understanding.
-
-</thinking>
-
 # Clothes Donation Form - Help Guide
 ## Purpose
 This form is for individuals who wish to donate clothing items to our organization. It's a step-by-step guide to help you provide essential information about your donation, ensuring a smooth and accurate process.

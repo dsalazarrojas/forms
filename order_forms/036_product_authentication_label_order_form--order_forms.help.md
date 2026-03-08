@@ -1,7 +1,3 @@
-<thinking>
-We are checking for internal relevance and non-duplication of this form to avoid redundancy and ensure accuracy. The form "product_authentication_label_order_form" appears to be a form designed for customers to provide information about a product order. It seems to be a general form and not specific to a particular product or service. We will create a help guide that explains the form's purpose, how to complete it, and what each field means.
-</thinking>
-
 # product_authentication_label_order_form - Help Guide
 ## Purpose
 This form is used for customers to provide information about a product order. It is designed to collect customer details, product information, shipping details, order details, payment information, and any additional notes or comments.

@@ -1,9 +1,3 @@
-<thinking>
-
-To provide a user-friendly experience, the purpose of this form is to allow tournament participants to order printed bibs with their name, email, and other specific details. This form is designed to gather information required for printing the participant's name on the bib, including the quantity of bibs to be printed and the desired print format. The form will help ensure accurate and efficient printing of participant bibs.
-
-</thinking>
-
 # Tournament Participant Bib Printing Order Form - Help Guide
 ## Purpose
 ## How To Complete This Form

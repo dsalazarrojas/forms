@@ -1,14 +1,3 @@
-<thinking>
-This help guide will explain the Fencing Material Order Form to assist end-users in completing the form correctly and efficiently.
-
-To ensure the form is used for its intended purpose, please be aware that this form is designed for fencing material orders. 
-
-This form will help the end-user to provide information to the business to place a material order. The form collects information about the material type, width, length, height, quantity, customer contact information, and any additional notes.
-
-The form is divided into sections with clear labels and fields to guide the user through the process of providing necessary information for the order.
-
-</thinking>
-
 # Fencing Material Order Form - Help Guide
 ## Purpose
 The Fencing Material Order Form is designed to collect information from customers to place a fencing material order with the business. This form helps the customer to specify the type of material, dimensions, and quantity needed for their order.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who are interested in returning to the church. The purpose of this form is to gather essential data for administrative purposes, such as tracking attendance, identifying interests, and facilitating communication. To ensure accurate and efficient processing, please complete this form carefully and thoroughly. Before starting, review this help guide to understand the form's requirements and what each field represents.
-</thinking>
-
 # Back To Church Registration Form - Help Guide
 ## Purpose
 The Back To Church Registration Form is designed to collect information from individuals who are interested in returning to the church. This form helps us track attendance, identify interests, and facilitate communication, allowing us to better serve our community.

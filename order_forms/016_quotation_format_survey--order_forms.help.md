@@ -1,18 +1,3 @@
-<thinking>
-The form is used for capturing and organizing information related to quotations or quotes that are being submitted to clients. The form is part of a larger process for managing and processing these quotes.
-
-To determine if this form meets your needs, ask yourself:
-* Do you need to capture and store information about client interactions?
-* Do you need to keep track of quote submissions and their status?
-* Are you looking for a structured format to ensure consistency and accuracy in capturing quote details?
-
-If you answered "yes" to any of these questions, this form may be a good fit for your use case.
-
-Before starting, make sure you have all the necessary information at hand, including client contact details, project information, and any relevant terms and conditions.
-
-This guide will walk you through each section of the form to ensure you understand how to complete it accurately and efficiently.
-</thinking>
-
 # Quotation Format Survey - Help Guide
 ## Purpose
 The Quotation Format Survey is designed to capture and store information about quotations or quotes submitted to clients. This form helps you track quote submissions, their status, and related details.

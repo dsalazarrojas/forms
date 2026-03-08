@@ -1,7 +1,3 @@
-<thinking>
-This form was created by AI using metadata from public surveys on food stores. It's intended to collect information from customers for a food store order, including customer details and payment information. This is an original adaptation and does not rely on any proprietary content from form creation or survey platforms.
-</thinking>
-
 # Food Store Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers for a food store order.

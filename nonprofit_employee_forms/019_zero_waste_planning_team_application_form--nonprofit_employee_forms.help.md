@@ -1,12 +1,3 @@
-<thinking>
-We should first confirm whether the form is indeed for non-profit employee forms, as indicated by the "nonprofit_employee_forms" category. The form title "zero_waste_planning_team_application_form" hints at a form related to team planning or organizational processes. However, the fields included in the form suggest it could be used for collecting information about employees, which is more aligned with HR or personnel-related activities. This is a form that collects personal and professional information from employees, likely for HR, administrative, or organizational purposes within a non-profit context. We will assume it's for employee information management within a non-profit organization and will proceed with the guide accordingly.
-
-To confirm, the form collects personal details such as first and last names, email addresses, department, team lead, reporting manager, contact numbers, date joined, employment status, job title, job classification, employment type, job description, skills, education, languages spoken, job location, job type, and employment term. These fields seem to cover a comprehensive overview of an employee's profile. This form might be part of a process for team planning, employee management, or organizational restructuring within a non-profit organization.
-
-Before filling out this form, please ensure you have all the necessary information and permissions. Some fields are not mandatory, but it is essential to fill out all the required ones to ensure accurate and complete information.
-
-Please ensure you are filling out the correct fields based on your employment status and the information requested by your organization.</thinking>
-
 # zero_waste_planning_team_application_form - Help Guide
 ## Purpose
 This form is used to collect and manage employee information within a non-profit organization for team planning and organizational purposes.

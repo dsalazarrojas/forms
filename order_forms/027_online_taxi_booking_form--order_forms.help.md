@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # online_taxi_booking_form - Help Guide
 ## Purpose
 This form is used to book an online taxi service. You will be able to provide your pickup and drop-off locations, select the type of taxi you would like to book, choose the fare type, and enter your contact information.

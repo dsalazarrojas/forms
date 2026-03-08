@@ -1,13 +1,3 @@
-<thinking>
-
-The form "Main Course Selection Form" is designed to collect information related to a course or event, including main course and side course selections, additional information, contact details, event planning, and more. This form aims to gather data that is typically relevant for event planning and coordination. The form's purpose is to provide a centralized platform for users to input their preferences and requirements for the course or event.
-
-This form is intended to be used in conjunction with other forms and tools to ensure consistency in data collection and to streamline the planning process.
-
-Please note that the fields in this form are meant to be completed by a single user, hence the 'one' and 'multiple' in field types refer to select_one and select_multiple respectively. 
-
-</thinking>
-
 # Main Course Selection Form - Help Guide
 
 ## Purpose

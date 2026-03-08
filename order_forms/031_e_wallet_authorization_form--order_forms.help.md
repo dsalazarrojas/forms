@@ -1,7 +1,3 @@
-<thinking>
-This form is used for authorizing and managing E-Wallets for various purposes such as payment and refund processes. The E-Wallet Authorization Form is crucial for ensuring that the E-Wallets are properly configured and updated according to the merchant's requirements. The form's purpose is to collect relevant information from the merchant regarding their E-Wallet details and status.
-</thinking>
-
 # e_wallet_authorization_form - Help Guide
 ## Purpose
 The E-Wallet Authorization Form is used for managing and authorizing E-Wallets for payment and refund purposes.

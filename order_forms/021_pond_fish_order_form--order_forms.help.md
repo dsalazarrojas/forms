@@ -1,5 +1,3 @@
-<thinking>Form purpose: The pond_fish_order_form is designed to gather information from customers or users about their fish orders. This form is likely used in a retail or business setting, such as a pet store or aquarium supply shop. The form collects contact information and fish order details for processing and fulfillment. Relevance: Fish-related business or pet store. Non-duplication: This form is a generic fish order form, and its purpose is not likely to be fulfilled by any other form in the system.</thinking>
-
 # pond_fish_order_form - Help Guide
 ## Purpose
 The pond_fish_order_form is designed to collect information from customers about their fish orders. This form is used to process and fulfill fish orders in a retail or business setting.

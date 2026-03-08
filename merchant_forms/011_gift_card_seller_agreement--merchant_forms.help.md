@@ -1,6 +1,3 @@
-<thinking>
-We can assume this form is used for a merchant to onboard with a gift card platform, agreeing to terms and conditions of selling gift cards through the platform. This form is likely used by the platform to ensure the merchant understands and agrees to the terms of the gift card sale program. The form might be used as a prerequisite for merchants to start selling gift cards on the platform, or as a reference document for merchants to review and agree to the terms before starting the onboarding process. It's also possible that this form is used for existing merchants to update their terms and conditions agreement. In any case, it's essential for the form to be easy to understand and fill out for the merchant to correctly agree to the terms and conditions of the platform.</thinking>
-
 # Gift Card Seller Agreement - Help Guide
 ## Purpose
 This guide explains the purpose and requirements for the Gift Card Seller Agreement form. This form is used for merchants to onboard with the gift card platform, agreeing to the terms and conditions of selling gift cards.

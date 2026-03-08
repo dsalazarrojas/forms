@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to gather information from donors or individuals making a vehicle donation to a non-profit organization. It asks for personal and vehicle-related details, which are used to process and manage the donation. This form will be used by various users, including administrators and other stakeholders within the non-profit organization. To ensure consistency, please use this form only for vehicle donations.
-
-</thinking>
-
 # Vehicle Donation Form - Help Guide
 
 ## Purpose

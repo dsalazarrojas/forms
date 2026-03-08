@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to allow individuals to register as a new food bank. This form is used by people who wish to donate or receive food from a food bank. It captures basic contact information for the individual. 
 
 </thinking>

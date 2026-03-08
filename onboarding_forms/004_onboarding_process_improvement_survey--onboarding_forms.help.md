@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I understand that the onboarding process is a critical phase in an employee's journey with an organization. This form is designed to gather feedback and insights from new hires to improve the onboarding process. To ensure the form is used effectively, I need to create a user-facing help guide that explains the form's purpose, how to complete it, and the meaning of each field. I will base my guide on the provided YAML fields, being concise and practical in my explanations.</thinking>
-
 # onboarding_process_improvement_survey - Help Guide
 ## Purpose
 The onboarding process improvement survey is a tool used to gather feedback from new hires to identify areas of improvement in the onboarding process. This survey aims to help the organization better understand the experiences and needs of its new employees, ultimately enhancing the overall onboarding experience.

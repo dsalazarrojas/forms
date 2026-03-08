@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Noise Exposure Monitoring Form - Help Guide
 ## Purpose
 The Noise Exposure Monitoring Form is used to collect information about an employee's exposure to noise in the workplace. This form is essential for monitoring and managing noise levels to prevent potential health risks and ensuring a safe working environment. By filling out this form, you will help your organization maintain a healthy and safe work environment.

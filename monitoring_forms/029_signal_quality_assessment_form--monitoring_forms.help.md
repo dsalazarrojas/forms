@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for assessing the signal quality at a particular location. As a field technician, you are expected to fill out this form to report on the signal quality, any issues encountered, and other relevant information. This is a required form, so ensure that you complete all fields accurately and thoroughly. Please note that this form has multiple pages, and you will need to fill out each page sequentially.
-</thinking>
-
 # signal_quality_assessment_form - Help Guide
 ## Purpose
 The Signal Quality Assessment Form is a tool used by field technicians to report on the signal quality at a specific location. This form gathers critical information that will help us identify areas of improvement and optimize signal delivery.

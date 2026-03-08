@@ -1,11 +1,3 @@
-<thinking>
-To be clear: 
-The form is meant to gather information from menu planning, and it's used for the purpose of planning menus that fit the needs of customers with different dietary requirements. 
-There might be customers who have special dietary needs, so it's essential to get that information. 
-This form likely helps in creating a menu that caters to all customers. 
-This form is likely used by staff in the food industry, like restaurants or hotels, to get information about customers.
-</thinking>
-
 # Menu Planning Consent Form - Help Guide
 ## Purpose
 The Menu Planning Consent Form is a tool used to gather information about customers' dietary needs and restrictions. This information helps in planning menus that cater to their requirements.

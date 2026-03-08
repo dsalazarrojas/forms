@@ -1,7 +1,3 @@
-<thinking>
-This form is for customers to submit their summer t-shirt orders. It is used by the customer service team to fulfill orders and process customer requests. Please ensure that this form is only filled out by customers who wish to place a genuine order. If you are a customer service representative, do not fill out this form for a customer.
-</thinking>
-
 # Summer T Shirt Order Form - Help Guide
 ## Purpose
 The Summer T Shirt Order Form is a form used by customers to submit their orders for summer t-shirts. It is essential to fill out this form accurately and completely to ensure that your order is processed correctly.

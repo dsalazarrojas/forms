@@ -1,10 +1,3 @@
-<thinking>
-The 1023 EZ Eligibility Worksheet is used to assess whether an organization meets the requirements for tax-exempt status under Section 501(c)(3) of the Internal Revenue Code. This worksheet is completed by the organization's representative and is a key component in the determination of tax-exempt status.
-The form is designed to elicit information about the organization's characteristics, activities, and governance. The information gathered is used to evaluate the organization's eligibility for tax-exempt status, including its exemption under Section 501(c)(3) or other sections.
-The completion of the 1023 EZ Eligibility Worksheet typically involves a comprehensive review of the organization's articles of incorporation, bylaws, and other relevant documents. The representative must provide accurate and detailed information about the organization's mission, activities, and governance structure.
-The representative must also answer questions about the organization's tax obligations, charitable activities, and governance documents. The completion of the form is a significant responsibility and requires careful attention to detail to ensure accurate and complete information is provided.
-</thinking>
-
 # 1023 EZ Eligibility Worksheet - Help Guide
 ## Purpose
 The 1023 EZ Eligibility Worksheet is a document used to determine whether an organization meets the requirements for tax-exempt status under Section 501(c)(3) of the Internal Revenue Code. It is completed by the organization's representative and is a key component in the determination of tax-exempt status.

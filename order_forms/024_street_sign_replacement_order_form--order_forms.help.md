@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Street Sign Replacement Order Form", let's consider the following:
-- The form is designed to be a simple order form for requesting street sign replacements, likely for local governments or municipalities.
-- Users will likely be residents or businesses submitting a request to replace a street sign due to damage, deterioration, or other issues.
-- Each field should be clear and concise, with minimal technical jargon.
-- The form should be easy to understand and fill out for the average user.
-- We'll need to explain each field's purpose, required fields, and any additional guidance.
-</thinking>
-
 # Street Sign Replacement Order Form - Help Guide
 ## Purpose
 This form is for requesting street sign replacements. Use it to notify the authorities about a street sign that needs to be fixed, replaced, or repaired.

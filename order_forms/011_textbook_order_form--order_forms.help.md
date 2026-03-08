@@ -1,5 +1,3 @@
-<thinking>...This form is used for customers to place a textbook order. The form is used to collect information about the book order, including the bookstore name, order date and time, book title, price, quantity, customer name and email, customer phone number, payment method, coupon code, total price, order status, payment status, book photo URL, payment gateway, and order notes...</thinking>
-
 # Textbook Order Form - Help Guide
 ## Purpose
 The Textbook Order Form is designed to collect order information from customers, including bookstore details, order time and date, book information, customer contact information, payment methods, and order status.

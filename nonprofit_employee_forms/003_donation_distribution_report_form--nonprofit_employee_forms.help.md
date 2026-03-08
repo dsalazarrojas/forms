@@ -1,8 +1,3 @@
-<thinking>
-This guide is intended to ensure the nonprofit organization's employees understand the purpose and requirements of the "donation_distribution_report_form" form. This guide will help employees fill out the form correctly, and provide explanations for each field to avoid any confusion. The form is used to record and track donations made to the organization, including information about the donor, the amount and purpose of the donation, and the recipient of the donation. This guide will walk through each field and provide clear explanations to facilitate accurate and efficient completion of the form.
-
-</thinking>
-
 # donation_distribution_report_form - Help Guide
 ## Purpose
 This form is used to record and track donations made to the nonprofit organization. It provides a structured way to collect information about the donor, the amount and purpose of the donation, and the recipient of the donation. This information is essential for the organization to manage and report on donations accurately.

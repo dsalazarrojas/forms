@@ -1,19 +1,3 @@
-<thinking>
-This form is designed for healthcare providers to monitor the health status of patients with diabetes. It is intended to be completed on a regular basis, ideally once a week, to track the patient's blood sugar levels, blood pressure, weight, and other relevant health metrics. This form should not be used for patients who are not diabetic or have other medical conditions that are not relevant to this form. 
-
-To complete this form, please follow these steps:
-
-1. Enter your blood sugar level, which is currently <normal/low/high>. Please select the appropriate option from the dropdown list.
-2. Enter your blood pressure, which should be recorded as a single value (e.g. 120/80).
-3. Enter your weight.
-4. Describe any medication notes you have taken as a result of your recent doctor's appointment.
-5. Describe your diet for the past week.
-6. Describe your exercise routine for the past week.
-7. Add any additional comments or notes about your condition.
-8. Enter any medication reminders you need help with.
-
-</thinking>
-
 # Diabetes Monitoring Form - Help Guide
 ## Purpose
 This form is designed to help healthcare providers monitor the health status of patients with diabetes.

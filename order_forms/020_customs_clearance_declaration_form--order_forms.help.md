@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for customs clearance declaration purposes, likely used by businesses or individuals to declare goods being transported across international borders. The form's purpose is to gather essential information about the customer, shipment details, goods being transported, and payment terms related to the clearance process. The form's purpose should be checked against the following criteria:
-- Does it match the customs clearance process?
-- Does it gather all necessary information for customs clearance?
-This form does not appear to duplicate any existing forms. The form's title, "Customs Clearance Declaration Form", suggests a unique purpose that justifies its existence.
-
-The form is not affiliated with, endorsed by, or derived from any form platform, indicating that it is an original creation based on publicly available information. The license (CC BY 4.0) allows for use, modification, and distribution.
-</thinking>
-
 # Customs Clearance Declaration Form - Help Guide
 ## Purpose
 The Customs Clearance Declaration Form is designed for declaring goods being transported across international borders. It is likely used by businesses or individuals to provide essential information required for customs clearance.

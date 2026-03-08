@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for customers or users to contact a specific vendor or merchant. The form will be used to collect contact information and other relevant details from the customer. 
-It is recommended to ensure that the form is filled out correctly and only once to avoid any potential issues or duplication of efforts. 
-This form is not intended for any other purpose other than as described.
-
-</thinking>
-
 # Simple Vendor Contact Form - Help Guide
 ## Purpose
 The purpose of this form is to allow customers or users to contact a specific vendor or merchant. It is intended to collect contact information and other relevant details from the customer.

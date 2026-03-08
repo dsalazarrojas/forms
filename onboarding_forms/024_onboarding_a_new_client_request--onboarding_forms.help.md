@@ -1,7 +1,3 @@
-<thinking>
-This form is used to onboard new clients with all the necessary information. It is used by administrative users to collect data about the client's first name, last name, email, phone number, address, date of birth, and other details that are required for onboarding. This form should be completed by the administrative user after the client has provided their consent to be onboarded. It is essential to ensure that the form is completed accurately and thoroughly to avoid duplication or incomplete data. This form is a critical part of the onboarding process and should be reviewed carefully.
-</thinking>
-
 # onboarding_a_new_client_request - Help Guide
 ## Purpose
 The onboarding_a_new_client_request form is used to collect information about a new client for onboarding purposes.

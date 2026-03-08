@@ -1,13 +1,3 @@
-<thinking>
-
-This form appears to be a margin trading order form, which is likely used for clients to submit orders for trading activities involving margin trading. Margin trading is a financial strategy that allows traders to leverage their capital to take on more significant positions, but it also involves a higher level of risk. The form is likely used by financial institutions or trading platforms to collect information from clients regarding their trading activities.
-
-The form seems to be designed to collect various information from clients, including their client details, order instructions, risk management settings, trading instruments, order amounts, leverage ratios, stop-loss and stop-limit levels, expiration dates, submission dates, contact details, and notes. The form might be used for various purposes, such as risk assessment, trade execution, or customer relationship management.
-
-To ensure the form is filled out correctly and accurately, please verify that you are using the correct fields and providing the necessary information. If you are unsure about any of the fields, please do not hesitate to ask for clarification or support.
-
-</thinking>
-
 # Margin Trading Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from clients regarding their margin trading activities. It is used by financial institutions or trading platforms to collect necessary data for risk assessment, trade execution, or customer relationship management.

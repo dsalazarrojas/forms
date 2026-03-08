@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # eco_tourism_training_fund_donation_form - Help Guide
 ## Purpose
 The eco_tourism_training_fund_donation_form is designed to collect information from potential donors about their intention to donate to the nonprofit's eco-tourism training fund. The form is used to gather details about the donor's information, donation details, payment information, and non-profit information to ensure smooth and secure processing of the donation.

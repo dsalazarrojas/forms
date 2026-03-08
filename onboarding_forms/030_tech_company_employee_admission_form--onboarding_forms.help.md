@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information about new employees joining the company, ensuring a smooth onboarding process. Please complete this form only if you are a new hire. If you've already completed the form, you don't need to do so again. This form is typically filled out during the employee's first few days of employment. The form collects various information about the employee, including job title, department, contact information, job start date, and other relevant details.
-
-</thinking>
-
 # Tech Company Employee Admission Form - Help Guide
 ## Purpose
 This form is used to collect information about new employees joining the company, ensuring a smooth onboarding process.

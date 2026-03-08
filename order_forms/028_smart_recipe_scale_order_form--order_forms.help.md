@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Smart Recipe Scale Order Form - Help Guide
 
 ## Purpose

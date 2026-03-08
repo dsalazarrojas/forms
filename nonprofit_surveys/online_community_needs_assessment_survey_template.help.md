@@ -1,10 +1,3 @@
-<thinking>
-The "Online Community Needs Assessment Survey" is a tool designed to gather insights from members of an online community to better understand their needs, preferences, and experiences within the community. This form is meant to be distributed among the community members to collect their feedback and opinions.
-
-Before proceeding, please ensure that you are not a duplicate submission. If you have already completed this survey, please do not submit again to avoid influencing the results.
-
-</thinking>
-
 # online_community_needs_assessment_survey_template - Help Guide
 ## Purpose
 The purpose of this survey is to gather insights from online community members to improve their experience and support within the community.

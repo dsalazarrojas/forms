@@ -1,7 +1,3 @@
-<thinking>
-The form's purpose is to collect information from clients regarding their subscription services, allowing them to intake their needs and preferences for customized services.
-To prevent non-duplication of effort, please ensure you only fill out the form once for each unique client.
-</thinking>
 # Subscription Services Intake Form - Help Guide
 
 ## Purpose

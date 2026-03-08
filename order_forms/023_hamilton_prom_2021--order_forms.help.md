@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # hamilton_prom_2021 - Help Guide
 ## Purpose
 This form is designed to collect information for the Hamilton Prom 2021 event. It will be used to gather details such as participant's first name, last name, email address, phone number, order date, time, and any additional notes.

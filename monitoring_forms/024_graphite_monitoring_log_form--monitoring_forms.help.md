@@ -1,7 +1,3 @@
-<thinking>
-This form is used for logging monitoring events in the Graphite monitoring system. It is designed to collect information about monitoring activities, such as when and where monitoring was performed, and what level of monitoring was conducted. The form is divided into several sections, each with its own set of fields. Before filling out the form, please ensure that you have all necessary information ready. If you have already filled out this form, do not submit it again, as duplicate entries can lead to confusion and data inconsistency.
-</thinking>
-
 # Graphite Monitoring Log Form - Help Guide
 ## Purpose
 The Graphite Monitoring Log Form is used to record monitoring events in the Graphite system.

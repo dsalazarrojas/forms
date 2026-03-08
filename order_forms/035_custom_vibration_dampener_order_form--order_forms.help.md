@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be used for customers to place orders for custom vibration dampeners. A vibration dampener is a product that reduces vibrations caused by motion or movement. This form is designed to gather information from the customer about their order, including product details, shipping information, and payment details. Before filling out this form, please ensure that you have read and understood the instructions below.
-
-</thinking>
-
 # Custom Vibration Dampener Order Form - Help Guide
 ## Purpose
 

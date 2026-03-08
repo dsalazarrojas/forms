@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Swag Order Form - Help Guide
 ## Purpose
 This form is used to gather information for a swag order, allowing customers to provide details about their order, including their contact information, shipping details, payment options, and order items. The form is meant to be completed by the customer to ensure accurate and timely processing of their order.

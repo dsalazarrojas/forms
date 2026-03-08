@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a user-facing help guide for the "Request Your Free Design" form. To start, let's consider the form's purpose and ensure it's relevant and non-duplicate. The form is likely used for customers or users to request free design services or consultations from the company. It's essential to check that the form is being used for its intended purpose and not for other non-relevant requests.</thinking>
-
 # Request Your Free Design - Help Guide
 ## Purpose
 The "Request Your Free Design" form is intended for customers or users to submit their requests for free design services or consultations. This form is not meant for sales or support inquiries.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for requesting a food parcel, which is a shipment of food items that are typically non-perishable. The form is used to provide necessary information for creating and managing food parcels. It's likely that this form will be used for internal purposes within an organization, possibly for inventory management or supply chain logistics.
-</thinking>
-
 # Food Parcel Request Form - Help Guide
 ## Purpose
 The Food Parcel Request Form is used to request a food parcel, which is a shipment of non-perishable food items. This form is used to provide necessary information for creating and managing food parcels.

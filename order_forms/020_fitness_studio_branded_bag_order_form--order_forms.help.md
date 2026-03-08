@@ -1,16 +1,3 @@
-<thinking>
-We will create a user-friendly help guide for the "Fitness Studio Branded Bag Order Form" that covers its purpose, the step-by-step process to complete it, and an explanation of each field. To start, let's analyze the form's purpose and fields to ensure we're on the right track. 
-
-The form is designed to gather information from customers for a bag order, which likely includes details such as order details, customer information, bag specifications (color and size), delivery and payment methods, and contact information (phone number and email). 
-
-The form is composed of 11 fields, each with its own label, type, and options. Some fields are required, while others are optional. The form types include text, number, select_one, and select_multiple. 
-
-Upon reviewing the form, it appears that the main goal is to collect bag order information and payment details from customers. The form's design suggests that users will have to select a bag color, size, and type, choose a delivery and payment method, and provide their contact information. 
-
-To confirm this understanding, let's ensure that the form's sections and fields align with this purpose and that there's no duplication of information. The form's structure seems clear and logical, but let's double-check each field to ensure it meets the intended use case.
-
-</thinking>
-
 # Fitness Studio Branded Bag Order Form - Help Guide
 
 ## Purpose

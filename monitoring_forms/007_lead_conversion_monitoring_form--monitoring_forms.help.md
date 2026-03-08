@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to monitor the status of leads in a system, specifically to determine whether a lead has been converted or not. The form is used to report on lead conversion status, which can be useful for sales and marketing teams to track progress and identify potential areas for improvement. The conversion status is typically monitored on a regular basis, such as weekly or daily. Before filling out this form, please ensure you have the necessary information and authorization to access the lead data. This form should only be filled out once per lead, and the responses should be accurate and consistent with the actual lead status. If you're unsure about any of the questions, please review the lead's history in the system or consult with the relevant team members for confirmation.
-</thinking>
 # Lead Conversion Monitoring Form - Help Guide
 ## Purpose
 The purpose of this form is to track the conversion status of leads.

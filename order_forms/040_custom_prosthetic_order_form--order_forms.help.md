@@ -1,6 +1,3 @@
-<thinking>
-This form is used by patients and healthcare professionals to order custom prosthetics, which are devices that can be customized to fit a patient's needs. This form helps gather essential information for the order, including the patient's name, date of birth, and insurance details. The form also allows for the selection of device type, color, size, and material type, which are essential factors in the customization process. To ensure that the form is completed accurately, please follow the instructions below.</thinking>
-
 # Custom Prosthetic Order Form - Help Guide
 ## Purpose
 The Custom Prosthetic Order Form is used to gather information for the ordering of custom prosthetics. This form is required for all patients seeking custom prosthetics.

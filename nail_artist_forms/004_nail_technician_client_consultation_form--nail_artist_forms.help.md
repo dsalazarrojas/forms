@@ -1,7 +1,3 @@
-<thinking>
-The "Nail Technician Client Consultation Form" is a form designed to gather information from clients before a nail technician consultation. This form helps the nail technician to better understand the client's preferences and requirements, ensuring a more personalized service. The form is meant to be completed by the client, and its fields are carefully crafted to collect relevant information about their nail type, shape, color, length, width, thickening, strengthening, and contact information, and any additional comments they may have. Before proceeding with the consultation, please ensure that the form is correctly filled out and submitted. If you have filled this form before, please review your answers to confirm their accuracy.
-</thinking>
-
 # Nail Technician Client Consultation Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from clients before a nail technician consultation to provide personalized services.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers who want to subscribe to a gardening supply service. The form will ask for customer and gardener information, delivery details, and payment methods. The form is divided into several sections, each with its own set of fields. To complete the form, please follow the steps below.
-</thinking>
-
 # Gardening Supply Subscription Form - Help Guide
 ## Purpose
 The Gardening Supply Subscription Form is designed to collect information from customers who want to subscribe to our gardening supply service. This form helps us understand their subscription preferences and payment methods.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # SEO Onboarding Form - Help Guide
 ## Purpose
 This form is designed to collect information from clients and consultants for onboarding new projects. It helps to gather essential details about the project, client, and consultant, ensuring a smooth and efficient onboarding process.

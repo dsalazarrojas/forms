@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for a PayPal donation form for a nonprofit organization. The purpose of this form is to allow users to submit a donation amount and a description of the donation, and to select the currency of the donation. This form is intended for employees of the nonprofit organization to complete, and will help them to accurately and efficiently process donations. To ensure this form is not duplicated, it is designed to be filled out by one person at a time. 
-
-</thinking>
-
 # PayPal Donation Form - Help Guide
 ## Purpose
 The PayPal Donation Form is designed to collect information for a PayPal donation, allowing users to submit a donation amount, description, and currency.

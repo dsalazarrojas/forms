@@ -1,5 +1,3 @@
-<thinking>...This form is designed to be used by team members to order equipment for their team. It is used to submit a request for equipment to be tagged with a unique identifier. The form is intended for internal use within the team and is not meant to be used for external customers. The purpose of this form is to streamline the process of submitting orders for equipment and to ensure that all necessary information is collected in one place. It is not intended to be used for other purposes such as product ordering or other forms of communication...</thinking>
-
 # Team Equipment Bag Tag Order Form - Help Guide
 ## Purpose
 This form is used by team members to order equipment for their team and submit a request for equipment to be tagged with a unique identifier.

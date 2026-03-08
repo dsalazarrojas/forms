@@ -1,7 +1,3 @@
-<thinking>
-The form is designed for customers to inquire about a return or exchange policy when encountering issues with an order. To ensure that end users understand the form's purpose, we must validate and confirm that it's being used for its intended purpose and not for duplicate inquiries.
-</thinking>
-
 # return-policy-inquiry-form - Help Guide
 ## Purpose
 The Return Policy Inquiry Form is used for customers to submit information when they want to inquire about their order's return or exchange policy. Please use this form to inform us about any issues with your order, so we can assist you further.

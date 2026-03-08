@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from users for a photography model application, likely for a modeling agency or casting director. It is crucial to ensure that the form is filled out accurately and completely to provide the most relevant information for consideration. Before filling out the form, please review it carefully to ensure that you are providing the correct information for your application.
-
-Please note that some fields are marked as "optional," but providing accurate and complete information will help to increase your chances of being considered for modeling opportunities.
-
-</thinking>
-
 # Photography Spokesmodel Application - Help Guide
 ## Purpose
 The Photography Spokesmodel Application form is designed to collect essential information from users who wish to apply for modeling opportunities. This form will help us to understand your physical characteristics, experience, and qualifications.

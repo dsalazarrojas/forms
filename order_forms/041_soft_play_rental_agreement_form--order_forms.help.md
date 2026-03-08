@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for a soft play rental service. It appears to be a generic form for any rental service, but without more specific context, it's hard to provide a more tailored explanation. The form collects customer details, event details, rental terms, payment details, contact details, and agreement terms. It also includes fields for payment method, contact method, and rental method. The form is likely used for internal purposes, such as managing customer data and rental agreements. There is no indication that this form is for any external use or has specific regulatory requirements.
-
-To ensure the form's effectiveness and to avoid duplication, it's essential to review and validate the form's content and purpose with the intended audience.
-
-</thinking>
-
 # Soft Play Rental Agreement Form - Help Guide
 ## Purpose
 The Soft Play Rental Agreement Form is a document designed to collect information from customers for a soft play rental service. It is used to gather details about the customer, event, rental, and payment methods.

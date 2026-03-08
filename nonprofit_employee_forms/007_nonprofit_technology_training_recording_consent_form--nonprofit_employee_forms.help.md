@@ -1,10 +1,3 @@
-<thinking> 
-I'll create a user-facing help guide for the Nonprofit Technology Training Recording Consent Form. This form is designed to gather information from employees in a nonprofit organization regarding their consent to record video and audio during training sessions. The form aims to ensure that all stakeholders are aware of the recording permissions and can provide informed consent. 
-
-The form is divided into several fields, each with its own purpose and explanation. The goal is to make it easy for users to understand what is expected of them and what they're agreeing to. By following this guide, employees will be able to complete the form accurately and with confidence.
-
-</thinking>
-
 # Nonprofit Technology Training Recording Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from nonprofit employees to record video and audio during training sessions. It's essential to fill out this form to ensure that your recordings are done with your permission.

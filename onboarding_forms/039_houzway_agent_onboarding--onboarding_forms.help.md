@@ -1,5 +1,3 @@
-<thinking>As a seasoned expert in form design and technical writing, I'll create a comprehensive user-facing help guide for the Houzway Agent Onboarding form. To confirm, this form is used for onboarding new agents, and it's crucial to ensure that users understand its purpose, how to complete it, and what each field means. Upon reviewing the provided YAML, I'll break down the form into sections to explain each field in a concise and practical manner.</thinking>
-
 # Houzway Agent Onboarding - Help Guide
 ## Purpose
 The Houzway Agent Onboarding form is used to collect information from new agents during the onboarding process. This form is essential for creating a record of new agents and their associated data.

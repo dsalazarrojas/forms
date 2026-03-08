@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Kosher Food Order Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide is intended to be brief and easy to read, explaining each field in simple language. It's not necessary to get too deep into the form's internal logic or business rules, just a clear explanation of how to complete the form and what each field means. Let's assume a basic understanding of forms and the purpose is to place an order for a holiday gift.
 
 </thinking>

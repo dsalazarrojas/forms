@@ -1,7 +1,3 @@
-<thinking>
-This form will be used to collect information from volunteers who will be participating in an event. To ensure that the information is accurate and up-to-date, this form will be reviewed for relevance and non-duplication before it is stored in the system. This form is intended to collect information from volunteers who are already registered in the system, and we will not store any duplicate information.
-</thinking>
-
 # Volunteer Registration Form - Help Guide
 ## Purpose
 The Volunteer Registration Form is designed to collect information from volunteers who will be participating in an event. This form helps to track and manage volunteer hours, event details, and contact information.

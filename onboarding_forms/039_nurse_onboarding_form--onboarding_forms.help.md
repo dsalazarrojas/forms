@@ -1,12 +1,3 @@
-<thinking>
-This form appears to be designed for a healthcare setting, likely for new nurses joining a healthcare organization or facility. The form's purpose is to collect necessary information from new nurses, including their new nurse details, credentials, and onboarding acknowledgement.
-
-The form likely aims to standardize the onboarding process, ensuring that all new nurses have the same level of understanding about their role, responsibilities, and expectations within the organization. This form may also be used to verify credentials, conduct background checks, and ensure that new nurses are aware of the onboarding process duration and the importance of completing all sections.
-
-The provided form schema suggests that it is an original adaptation, not copied from any proprietary form platforms, and is released under the Creative Commons BY 4.0 license. This form appears to be a simple, text-based form, suitable for onboarding purposes.
-
-</thinking>
-
 # Nurse Onboarding Form - Help Guide
 ## Purpose
 

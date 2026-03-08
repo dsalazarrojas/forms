@@ -1,8 +1,3 @@
-<thinking>
-This help guide will cover the "pest_control_service_check_out_form" form, which is used to facilitate pest control services checks out for businesses and customers. This form aims to gather essential information from both parties to ensure seamless and efficient service delivery. It's crucial that customers and businesses provide accurate and complete information to prevent delays and errors in the process. Please review the form carefully to understand the fields and their intended use cases.
-
-</thinking>
-
 # pest_control_service_check_out_form - Help Guide
 ## Purpose
 The "pest_control_service_check_out_form" is a crucial tool for businesses and customers to provide essential details for pest control services. It helps gather necessary information to ensure efficient and effective service delivery, reducing the risk of delays and errors.

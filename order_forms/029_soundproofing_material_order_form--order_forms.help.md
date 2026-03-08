@@ -1,12 +1,3 @@
-<thinking>
-The form purpose is to collect information for soundproofing material orders. The form is designed to gather customer details, order specifics, and payment information. 
-
-To ensure the form is filled out correctly, we should check if the customer has provided all required information and if the payment method is confirmed. We should also verify that the customer's email address is valid to send order notifications and updates. 
-
-This guide is intended for customers who are not familiar with the soundproofing material ordering process. 
-
-</thinking>
-
 # Soundproofing Material Order Form - Help Guide
 ## Purpose
 The Soundproofing Material Order Form is a tool to collect information for soundproofing material orders. Please fill out this form to place your order.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a patient's electrocardiogram (ECG) monitoring. The form is intended to be completed by healthcare staff, likely in a clinical setting such as an intensive care unit (ICU), coronary care unit (CCU), telemetry unit, medical-surgical unit, emergency room, or recovery area. The form is likely used for monitoring patients with cardiac conditions or to track changes in cardiac rhythm. 
-</thinking>
-
 # Bedside ECG Monitoring Log - Help Guide
 ## Purpose
 This form is used to record and document the results of a patient's ECG monitoring, which includes information about the patient's heart rate, cardiac rhythm, and any symptoms or changes observed during the monitoring period.

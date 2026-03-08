@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # request_for_quotation_form - Help Guide
 
 ## Purpose

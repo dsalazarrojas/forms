@@ -1,8 +1,3 @@
-<thinking>
-This form is for local initiatives that aim to gather support and signatures from individuals in the community. It is used to collect information about the petition, its purpose, and the contact details of the person or organization behind it. The form is meant to be a tool for local communities to voice their opinions and gather support for a specific cause or issue. Before filling out this form, please ensure that you have not submitted this same petition under a different name or ID.
-
-</thinking>
-
 # local_initiative_petition_form - Help Guide
 ## Purpose
 This form is designed to gather information about local initiatives and petitions, allowing individuals to express their support and gather signatures from their community. It helps local communities to voice their opinions and gather support for a specific cause or issue.

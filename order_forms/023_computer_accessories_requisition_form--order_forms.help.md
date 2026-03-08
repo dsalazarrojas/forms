@@ -1,7 +1,3 @@
-<thinking>
-We are considering implementing a system to reduce the time and effort spent on computer accessory procurement and maintenance. This form will be used to collect information from employees and departments for computer accessories requisition and approval process. It will help us to ensure that the right accessories are ordered and delivered to the right people in a timely manner, while also keeping track of the status of each request. Please make sure to fill out this form correctly to avoid duplication of work and to get the accessories you need promptly. 
-</thinking>
-
 # Computer Accessories Requisition Form - Help Guide
 ## Purpose
 This form is used to collect information from employees and departments for computer accessories requisition and approval process. It helps to ensure the right accessories are ordered and delivered to the right people in a timely manner.

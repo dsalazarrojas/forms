@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that our internal policies and procedures for handling donor data are clearly documented so that our users understand what information is collected and why. This form is used to confirm that the donor has given their consent for their personal data to be used for the intended purpose. By requiring users to fill out this form, we can track who has given consent and when, ensuring accountability in our internal processes.
-</thinking>
-
 # Donor Data Usage Acknowledgement Form - Help Guide
 ## Purpose
 The Donor Data Usage Acknowledgement Form is a mandatory form designed to capture an individual's consent for the use and handling of their personal data. This form ensures that donors understand and agree to the usage of their data for specific purposes, such as tracking donations and fund management.

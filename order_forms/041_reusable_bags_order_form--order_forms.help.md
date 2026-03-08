@@ -1,12 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the Reusable Bags Order Form. The form is designed to collect information for reusable bags orders, which is essential for processing and fulfilling customer orders efficiently. This form should be completed by customers to provide their details and requirements for the order. To ensure accurate and complete orders, it is crucial to fill out the form correctly.
-
-Before starting the order, please review the form carefully to understand the required and optional fields. Each field has a specific purpose, and some fields are mandatory for the order to be processed.
-
-Please note that the form has multiple pages, but for the sake of this guide, we will focus on one page at a time.
-
-</thinking>
-
 # Reusable Bags Order Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is for the user to submit a donation on behalf of a nonprofit organization using PayPal as the payment method. The form is used to collect the donor's information, including amount, currency, and shipping address, and also to capture details about the donation frequency, date, and time. This form ensures that the donor's data is properly collected and processed for accurate record-keeping and follow-up purposes. It is essential to complete this form accurately and thoroughly to ensure that the donation is successfully processed and the nonprofit organization receives the necessary information to fulfill its mission.
-</thinking>
-
 # donation_form_paypal_checkout - Help Guide
 ## Purpose
 This form is used to collect donations for a nonprofit organization using PayPal as the payment method.

@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication, ensure that the form is only filled out by people who are truly interested in applying for the position. This form should only be completed by individuals who are genuinely interested in applying for a fundraising specialist role. The form is designed to gather relevant information about the candidate's background, skills, and experience to assess their eligibility for the position.
-</thinking>
-
 # Fundraising Specialist Application Form - Help Guide
 ## Purpose
 

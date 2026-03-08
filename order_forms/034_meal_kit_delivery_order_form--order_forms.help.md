@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my goal is to create a user-facing help guide that is clear, concise, and practical for end-users to understand the purpose and requirements of the Meal Kit Delivery Order Form. To ensure the guide is accurate and relevant, I will analyze the provided YAML fields and provide a detailed explanation of each section and field.</thinking>
-
 # Meal Kit Delivery Order Form - Help Guide
 ## Purpose
 The Meal Kit Delivery Order Form is designed to collect information from customers for meal kit delivery orders. This form will help us process orders efficiently and ensure that we have all the necessary details to deliver the meal kits correctly.

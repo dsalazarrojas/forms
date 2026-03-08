@@ -1,7 +1,3 @@
-<thinking>
-This form is used to order a Caramel Chicken Meal Kit. It's a form that users need to fill out in order to place an order. This form is used in a business-to-consumer context, likely for a food delivery or meal kit service. The form is divided into several sections, each with its own set of fields. It asks for customer information, meal kit order details, delivery information, payment information, and special instructions.
-</thinking>
-
 # Caramel Chicken Meal Kit - Help Guide
 ## Purpose
 The Caramel Chicken Meal Kit order form is used to place an order for a meal kit delivery service. Fill out this form to provide all necessary information for a successful delivery.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for collecting information from users when they are making a donation to a church through the PayPal system. It is likely used for tracking and recording donation data for the church's financial records. Before filling out this form, please ensure that you are authorized to make a donation on behalf of yourself or your organization. Additionally, please note that this form is not intended for use in conjunction with other forms, but rather as a standalone tool for collecting relevant information from donors.
-</thinking>
-
 # paypal_church_donation_form - Help Guide
 ## Purpose
 The paypal_church_donation_form is used to collect information from users when making a donation to a church through the PayPal system. This form is used to record and track donation data for the church's financial records.

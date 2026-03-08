@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to help users purchase and manage their annual passes. It is intended for individuals and organizations to buy passes for themselves or their members, with options for various pass types and benefits packages. The form is used to collect information for pass processing, billing, and marketing purposes. 
-
-Before filling out this form, ensure you have all necessary information and permissions required for pass purchase, as some fields are mandatory and others are optional but may affect your pass benefits or pricing. 
-
-To avoid errors, review your selections carefully before submission.
-
-</thinking>
-
 # Annual Pass Purchase Form - Help Guide
 ## Purpose
 The Annual Pass Purchase Form is used to purchase and manage annual passes for oneself or one's organization. It collects necessary information for pass processing, billing, and marketing purposes.

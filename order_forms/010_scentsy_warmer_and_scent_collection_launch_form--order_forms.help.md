@@ -1,7 +1,3 @@
-<thinking>
-This form is used for launching new Scentsy warmers and scent collections. The form will be used for internal tracking and documentation purposes. It is intended for use by authorized personnel only. Please ensure that you are using this form correctly and accurately before submitting your responses.
-</thinking>
-
 # Scentsy Warmer And Scent Collection Launch Form - Help Guide
 ## Purpose
 This form is used to document the launch of new Scentsy warmers and scent collections. It is intended for internal use by authorized personnel to track and record important information.

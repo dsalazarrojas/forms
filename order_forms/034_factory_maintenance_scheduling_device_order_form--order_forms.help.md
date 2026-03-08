@@ -1,19 +1,3 @@
-<thinking>
-We're creating a user-facing help guide for the "Factory Maintenance Scheduling Device Order Form" to ensure end-users understand its purpose, how to complete it, and what each field means. This form is designed to gather essential information for factory maintenance scheduling, which is crucial for efficient and organized maintenance activities. To avoid duplication, it's essential to review the form carefully before submitting it.
-
-This form is used to schedule maintenance activities for devices in a factory setting. It's a straightforward process:
-
-1.  Enter the factory name and contact name, which are required fields.
-2.  Optionally, provide contact email and phone number for better communication.
-3.  Select the start and end dates for the maintenance schedule.
-4.  Specify the equipment type and its description, which are required fields.
-5.  Choose whether to schedule maintenance (Yes or No) and if yes, select the specific days of the week.
-6.  Set the schedule time for the maintenance activity.
-7.  Add any maintenance notes, which are optional.
-
-Each field's explanation will help ensure you fill it correctly, avoiding potential errors or duplication issues. Please refer to the field explanations below:
-</thinking>
-
 # Factory Maintenance Scheduling Device Order Form - Help Guide
 ## Purpose
 The Factory Maintenance Scheduling Device Order Form is designed to help you plan and schedule maintenance activities for devices in your factory efficiently.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Custom Painting Order Form - Help Guide
 ## Purpose
 The Custom Painting Order Form is designed to collect information from customers about their preferred painting order. This form is typically used in a business context to capture essential details required to fulfill a custom order. The form will collect basic contact information and details about the painting, such as type, colors, size, and quantity.

@@ -1,9 +1,3 @@
-<thinking>
-To ensure that the form is filled out correctly and meets the required standards, let's first clarify its purpose and any relevant considerations. The Cold Storage Installation Quotation Form is used to gather essential information from clients who are requesting cold storage installation services. This information will help the service provider to prepare a quotation that accurately reflects the client's needs and requirements. It's crucial that the form is completed carefully to avoid any misunderstandings or miscommunications that might affect the installation process.
-
-Before proceeding with the form, check that the client has provided all the necessary information, especially for fields marked as "required". If there's any ambiguity or doubt about a field, it's best to reach out to the client for clarification.
-</thinking>
-
 # Cold Storage Installation Quotation Form - Help Guide
 ## Purpose
 This form gathers information from clients who are requesting cold storage installation services to prepare an accurate quotation.

@@ -1,7 +1,3 @@
-<thinking>
-We're going to design a user-facing help guide for the Generic Product Order Form. This form is used for placing orders for generic products. To confirm, the form is intended for customers to provide their information and product details for orders. We should also check if it's not a duplicate order.
-</thinking>
-
 # Generic Product Order Form - Help Guide
 ## Purpose
 The Generic Product Order Form is used to gather information from customers for placing orders for generic products. This form is crucial in processing and fulfilling customer orders efficiently.

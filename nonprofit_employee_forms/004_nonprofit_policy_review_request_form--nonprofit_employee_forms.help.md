@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nonprofit Policy Review Request Form - Help Guide
 ## Purpose
 

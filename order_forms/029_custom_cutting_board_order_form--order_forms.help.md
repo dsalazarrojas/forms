@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form "custom_cutting_board_order_form" is designed to collect information for a custom cutting board order. The purpose of this form is to allow users to provide their name, order details, material selection, quantity, price, and other relevant information to place an order for a custom cutting board. 
 
 This form is intended to be used by individuals who want to order a custom cutting board and are required is optional. There may be multiple pages to the form, but this one appears to be a simple, single-page form.

@@ -1,7 +1,3 @@
-<thinking>
-A Digital Marketing Campaign Quotation Form is a document that helps service agencies and their clients agree on the scope and price of a digital marketing project. This form will guide the agency in gathering the necessary details from the client to create a proposal or quotation that meets their needs.
-</thinking>
-
 # Digital Marketing Campaign Quotation Form - Help Guide
 ## Purpose
 This form is intended to help service agencies gather information from clients about their digital marketing projects. The agency will use this information to create a proposal or quotation for the project.

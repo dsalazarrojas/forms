@@ -1,15 +1,3 @@
-<thinking>
-
-To create a comprehensive user-facing help guide for the "Home Renovation Payment Form", we'll need to consider the various fields and their respective properties. 
-
-The form's purpose is likely to be used for users to provide information and make payments related to home renovations. 
-
-The form appears to cover a wide range of fields, including user information (e.g., name, address, contact number, email), payment details (e.g., total cost, payment method, payment due date), and terms of service (e.g., payment terms, payment terms agreement). 
-
-We'll want to ensure that this guide explains each field clearly, concisely, and in a way that is practical for the end-user. 
-
-</thinking>
-
 # Home Renovation Payment Form - Help Guide
 ## Purpose
 This form is used to provide information and make payments related to home renovations. Fill out this form to ensure your payment is processed correctly and to confirm your agreement with the terms of service.

@@ -1,7 +1,3 @@
-<thinking>
-We need to create a help guide that explains the Order Form, which is designed to collect information from customers for processing orders. Before we start, let's review the form fields to ensure we cover all the necessary sections and fields. The form has 8 pages with various fields such as customer details, address, order info, delivery details, payment info, contact us, order summary, order items, and more. The form is likely used for e-commerce or retail businesses to collect customer information and order details. We should focus on explaining each field in a clear and concise manner, avoiding technical jargon and using plain language.
-</thinking>
-
 # Order Form - Help Guide
 ## Purpose
 The Order Form is designed to collect information from customers for processing orders. It is used by e-commerce or retail businesses to gather customer details, order info, and payment information.

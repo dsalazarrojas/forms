@@ -1,9 +1,3 @@
-<thinking>As a form designer and technical writer, I need to create a user-facing help guide for this form. The purpose of this form is to collect information from users who are interested in preordering the "Harvest Collection 2021 & Sept WOTM" product. The form likely serves as a lead generation tool for businesses or organizations that are promoting this product.
-
-I will review the form's YAML fields to ensure that the explanation is accurate and clear. The form has four fields: "form_title", "category", "description", and "email". All fields except "category" are required.
-
-To ensure non-duplication, I'll review the field explanations carefully to avoid any confusion between similar fields.</thinking>
-
 # Harvest Collection 2021 & Sept WOTM PREORDER FORM - Help Guide
 ## Purpose
 This form is a lead generation tool for individuals interested in preordering the "Harvest Collection 2021 & Sept WOTM" product. Fill out the form to provide your information and receive updates about this product.

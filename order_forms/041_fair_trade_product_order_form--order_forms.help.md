@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to provide their personal information when placing an order for a Fair Trade product. The form is likely used in conjunction with other forms or processes that handle the order fulfillment and payment aspects. Before proceeding, please make sure you are using this form for its intended purpose and that you have already reviewed any relevant business rules or regulations.
-</thinking>
-
 # fair_trade_product_order_form - Help Guide
 ## Purpose
 This form is designed for customers to provide their personal information when placing an order for a Fair Trade product.

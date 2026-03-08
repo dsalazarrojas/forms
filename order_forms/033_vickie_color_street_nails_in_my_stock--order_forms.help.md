@@ -1,5 +1,3 @@
-<thinking>...The form "vickie_color_street_nails_in_my_stock" is used to create orders for color street nails. This form is part of the order process, and its purpose is to gather information about the stock and customer order details. Ensure the information is accurate and complete before submitting the form...</thinking>
-
 # vickie_color_street_nails_in_my_stock - Help Guide
 ## Purpose
 The form "vickie_color_street_nails_in_my_stock" is used to create and manage stock and customer order details for color street nails. This form is part of the order process and is required for accurate order processing.

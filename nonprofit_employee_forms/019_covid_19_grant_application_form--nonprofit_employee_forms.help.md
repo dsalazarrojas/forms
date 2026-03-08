@@ -1,19 +1,3 @@
-<thinking> 
-This form is for organizations and businesses to apply for a COVID-19 grant. The purpose of this form is to gather information about the business or organization's eligibility and impact due to the pandemic. The form will ask about the applicant's business details, financial situation, and the amount of grant requested. Before filling out this form, please ensure that the information provided is accurate and true to the best of your knowledge.
-
-This form has been designed to gather information in a step-by-step manner, so please read each section carefully to ensure that you provide all required information. Please note that some fields may be required to complete the form.
-
-This form has several sections:
-
-1.  **Organization Information**: This section is to gather the basic information about your business or organization.
-2.  **Business Details**: This section is to gather more information about your business or organization's activities and operations.
-3.  **Pandemic Impact**: This section is to understand how the pandemic has affected your business or organization.
-4.  **Grant Application**: This section is to provide information about the grant amount you are requesting.
-
-Please ensure that you have all necessary documents and information before filling out this form. If you have any questions or need clarification on any field, please don't hesitate to contact us.
-
-</thinking>
-
 # COVID 19 Grant Application Form - Help Guide
 
 ## Purpose

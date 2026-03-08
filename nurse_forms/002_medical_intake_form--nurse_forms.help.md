@@ -1,9 +1,3 @@
-<thinking>
-
-We need to ensure that this form is used correctly by end users to gather essential medical information from patients. Before completing this form, please confirm that you have access to the necessary information and that the patient has given their consent to share this data. If you're unsure about any field, please seek guidance from a supervisor or medical professional. It's also good practice to review the form's content with the patient to ensure accuracy and completeness.
-
-</thinking>
-
 # Medical Intake Form - Help Guide
 
 ## Purpose

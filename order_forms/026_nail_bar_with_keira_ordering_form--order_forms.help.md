@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nail Bar With Keira Ordering Form - Help Guide
 ## Purpose
 This form is designed to help customers place orders with Nail Bar with Keira by providing essential details and preferences for processing the order.

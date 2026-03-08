@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, I need to clarify the purpose and context of this form. From the provided YAML, it appears that this form is for exhibitors to upgrade their booths at an event. The form gathers information about the basic info of the exhibitor, their upgrade requirements (add-ons), payment method and details, event details (date, start and end time), venue, event name, and additional info.</thinking>
-
 # Exhibitor Booth Upgrade Form - Help Guide
 ## Purpose
 This form is designed to help exhibitors upgrade their booths at an event. It collects information about the upgrade requirements, payment details, and event-related information.

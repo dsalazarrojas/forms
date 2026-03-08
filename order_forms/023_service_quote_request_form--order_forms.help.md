@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Service Quote Request Form - Help Guide
 ## Purpose
 This form is used to request a service quote from our team. It is designed to gather essential information to provide an accurate quote for your service needs. Please fill out this form carefully to ensure that we can provide the best possible quote for your requirements.

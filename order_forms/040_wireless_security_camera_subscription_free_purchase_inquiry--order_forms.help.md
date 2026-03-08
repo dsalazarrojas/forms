@@ -1,7 +1,3 @@
-<thinking>
-We have a form for customers to inquire about free wireless security camera purchases. This form is used to collect information about the customer's contact details, security provider, contact person, schedule follow-up, contact method, contact number, email address, wireless camera model, and purchase inquiry. This form is intended to help the company's sales team respond to customer inquiries and follow up on potential sales leads. To avoid duplication, the company has implemented a unique form ID system, where each form is assigned a specific ID (e.g., "1", "2", etc.) based on the form's purpose.
-</thinking>
-
 # wireless_security_camera_subscription_free_purchase_inquiry - Help Guide
 ## Purpose
 This form is used to collect contact information and purchase inquiries from customers interested in purchasing free wireless security cameras.

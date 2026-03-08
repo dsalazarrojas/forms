@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure that this form is clear and accessible to end-users. This Lubrication System Refill Order Form is used for requesting refills for lubrication systems, likely for oil or grease supplies. The form might be used in industries where lubricants are used, such as manufacturing, automotive, or construction. We should verify that the form is not being used for another purpose, like a general contact form. This form should only be used for its intended purpose. Let's make sure to explain each field clearly to prevent confusion.</thinking>
-
 # Lubrication System Refill Order Form - Help Guide
 ## Purpose
 This form is for requesting refills for lubrication systems used in industries such as manufacturing, automotive, or construction. Fill out this form to request a refill for your lubrication system.

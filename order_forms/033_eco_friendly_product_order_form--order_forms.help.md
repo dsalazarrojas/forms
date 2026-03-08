@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Eco Friendly Product Order Form - Help Guide
 ## Purpose
 The "Eco Friendly Product Order Form" is a tool designed to collect customer details, product information, and order data for eco-friendly products. This form helps customers submit orders for products, while also providing them with the opportunity to leave order notes and shipping details.

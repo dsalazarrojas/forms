@@ -1,7 +1,3 @@
-<thinking>
-To ensure the form is filled out correctly and accurately, let's review the "Cosmetics Order Form" internally. This form is used for ordering cosmetics and gathering customer information. Each field in this form has a specific purpose, and filling it out correctly will help the order process proceed smoothly. The form is divided into several fields for easy completion. Please note that some fields may require additional information or explanation, so please read through the form carefully to ensure you're filling it out correctly.
-</thinking>
-
 # Cosmetics Order Form - Help Guide
 ## Purpose
 The "Cosmetics Order Form" is used for customers to order cosmetics and provide necessary information for the order process.

@@ -1,16 +1,3 @@
-<thinking>
-**Form Purpose:**
-The Square Church Donation Form is designed to collect information from donors for a specific church project. The form helps to capture details such as donor name, contact information, project description, amount donated, and other relevant details. This form can be used by churches to collect data on their donors and track the status of their projects.
-
-**Form Relevance:**
-
-This form is intended for use by church staff to collect donations from individuals or organizations. The form's design allows for easy data collection and tracking of project progress.
-
-**Form Duplication:**
-Please note that this form is a custom-built form for Square Church and should not be used for any other purpose.
-
-</thinking>
-
 # Square Church Donation Form - Help Guide
 ## Purpose
 The Square Church Donation Form is designed to collect information from donors for a specific church project.

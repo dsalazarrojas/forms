@@ -1,7 +1,3 @@
-<thinking>
-This form is for individuals to apply to be a volunteer manager for a nonprofit organization. To ensure that each applicant's information is accurate and complete, please review the following help guide to learn how to properly complete the form.
-</thinking>
-
 # Nonprofit Volunteer Manager Application Form - Help Guide
 ## Purpose
 This form is used to collect information from individuals interested in applying to be a volunteer manager for the nonprofit organization. Please fill out the form below to submit your application.

@@ -1,9 +1,3 @@
-<thinking>... internal reasoning block to determine form purpose and relevant fields ...
-
-This form appears to be for customers to place orders for mobile phones, specifically for the iPhone 13, Samsung Galaxy, and Google Pixel models. The form collects various details such as order status, product selection, phone color, storage capacity, screen size, phone model, customer name, email, phone number, order date, and order time. The fields are mostly self-explanatory, but a few fields may require some clarification...
-
-</thinking>
-
 # Mobile Phone Order Form - Help Guide
 ## Purpose
 This form is designed to assist customers in placing orders for mobile phones. By completing this form, customers can specify their preferred phone model, color, storage capacity, and screen size, along with their personal details and order preferences.

@@ -1,9 +1,3 @@
-<thinking>
-This form is for employees to provide testimonials about their work experiences with your nonprofit organization. The purpose of this form is to gather testimonial content from employees to include on your website.
-The form is intended to be completed by current and former employees of the nonprofit organization. To ensure accuracy and completeness of the data, it is essential to have the right people filling out the form.
-It is recommended to review the form carefully before submission, and ensure that all required fields are filled out.
-</thinking>
-
 # NGO Website Testimonial Inclusion Consent Form - Help Guide
 ## Purpose
 This form is designed to gather testimonial content from employees to include on your website. The form will ask for personal and professional information, as well as consent on the usage of the testimonial content.

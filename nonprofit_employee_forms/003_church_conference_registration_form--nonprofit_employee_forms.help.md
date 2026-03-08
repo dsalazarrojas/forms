@@ -2,12 +2,6 @@
 
 ## Purpose
 
-<thinking>
-
-The Church Conference Registration Form is designed for church leaders and attendees to register for the conference. This form is used to collect necessary information for registration, accommodation, and networking purposes. It is essential to fill out the form accurately to ensure that you and your team receive the correct information and services during the conference.
-
-</thinking>
-
 ## How To Complete This Form
 
 1. Fill out all required fields marked with an asterisk (*).

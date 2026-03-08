@@ -1,9 +1,3 @@
-<thinking>
-The Spirit Wear Order Form is designed to capture critical information needed to place an order for custom spirit wear. This form aims to reduce errors and ensure accurate order fulfillment. Before proceeding, please review this guide to ensure you've completed all required fields and provided accurate information.
-
-This form will be reviewed for duplicates, and orders may be cancelled if they are deemed non-unique.
-</thinking>
-
 # Spirit Wear Order Form - Help Guide
 
 ## Purpose

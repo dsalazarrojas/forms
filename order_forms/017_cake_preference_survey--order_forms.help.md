@@ -1,7 +1,3 @@
-<thinking>
-This form is a comprehensive survey that aims to gather detailed information about respondents' preferences regarding cakes, including their favorite flavors, preferred frostings, sweetness levels, texture, and dietary restrictions. This form is designed to be user-friendly and efficient, allowing respondents to provide honest answers about their cake preferences.
-</thinking>
-
 # Cake Preference Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your preferences regarding cakes, including your favorite flavors, preferred frostings, sweetness levels, texture, and dietary restrictions.

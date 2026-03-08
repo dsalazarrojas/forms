@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information on the status of patients regarding COVID-19, including their vaccine status, symptoms, and temperature. This form aims to provide healthcare professionals with an overview of the patient's condition, allowing them to make informed decisions about further care. It is essential to ensure that the submitted data is accurate and up-to-date to prevent the spread of the disease and provide timely assistance to patients.
-
-Before starting, please ensure that you have completed this form for the intended purpose and that the responses are not duplicates.
-
-To avoid duplication, you can check the current form submissions and only submit if the required information is not already recorded.
-</thinking>
-
 # Covid 19 Daily Status Update Form - Help Guide
 ## Purpose
 

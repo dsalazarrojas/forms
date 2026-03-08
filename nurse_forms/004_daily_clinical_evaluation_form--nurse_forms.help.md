@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a Daily Clinical Evaluation Form used to document a patient's medical and personal conditions, treatment, and other relevant information. It's likely used for clinical staff to assess patient status, provide medical history, and record clinical decisions. The form is designed to be completed by clinical staff, possibly by nurses or doctors, and the data collected will inform treatment and care decisions. I'll create a concise and practical help guide for this form.
-</thinking>
-
 # Daily Clinical Evaluation Form - Help Guide
 ## Purpose
 The Daily Clinical Evaluation Form is a tool used by clinical staff to collect and record patient information, medical history, and clinical decisions. It helps assess patient status, provide necessary medical treatment, and inform care decisions.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information for warehouse supply delivery purposes. It is intended to be completed by warehouse staff to track and manage delivery details. 
-
-To complete this form, follow the steps below to ensure accurate and efficient submission. The form consists of two fields: delivery date, delivery time, customer name, and order id. 
-
-</thinking>
-
 # Warehouse Supply Delivery Form - Help Guide
 ## Purpose
 The Warehouse Supply Delivery Form is a tool for warehouse staff to record and track delivery details. This form is used to document the delivery date, time, customer name, and order ID.

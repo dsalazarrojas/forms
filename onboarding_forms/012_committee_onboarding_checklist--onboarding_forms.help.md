@@ -1,13 +1,3 @@
-<thinking>
-
-This onboarding process is a crucial step for new committee members to become familiar with the committee's rules, guidelines, and expectations. This form is designed to streamline the onboarding process by gathering essential information about the new member, their role, and their progress. 
-
-This form is meant to be completed by the onboarding coordinator or committee chair, and it's essential to ensure that all required fields are filled out accurately and thoroughly. The information collected through this form will help the committee to track the onboarding progress and make informed decisions about the member's role and responsibilities.
-
-Before starting to fill out the form, please ensure that you have all the necessary information and documents ready. The form is divided into several sections, each with its own set of questions and fields. Please answer each field accurately and thoroughly, and don't hesitate to reach out if you have any questions or need further clarification.
-
-</thinking>
-
 # Committee Onboarding Checklist - Help Guide
 ## Purpose
 The Committee Onboarding Checklist is a comprehensive form designed to guide new committee members through the onboarding process. It ensures that all necessary information is collected, and the member is fully aware of their role and responsibilities.

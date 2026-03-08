@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # event_planning_service_order_form - Help Guide
 
 ## Purpose

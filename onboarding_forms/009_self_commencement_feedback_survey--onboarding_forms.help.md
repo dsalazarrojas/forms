@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users who have recently started using our platform. The purpose of this form is to gauge their overall experience and gather suggestions for improvement. The form is only relevant for users who have completed the onboarding process and are now using our platform for their work. It's essential to complete this form to help us better understand your experience and make data-driven decisions to improve our platform.
-</thinking>
-
 # Self Commencement Feedback Survey - Help Guide
 ## Purpose
 This form is intended to collect feedback from users who have completed the onboarding process and are now using our platform. Your responses will help us understand your overall experience and gather suggestions for improvement.

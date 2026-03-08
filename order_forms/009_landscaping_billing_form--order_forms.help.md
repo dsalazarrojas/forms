@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from clients regarding their landscaping services, likely for billing purposes. The form may be used to gather details about the client's contact information, the services provided, and any payment-related information. This form does not require the client to sign up for any services, and it appears to be primarily used for administrative purposes. This form should be filled out by a single user and is not designed for group or batch data entry. It's possible that this form is meant to be used internally by a business or organization rather than being a user-facing tool.
-</thinking>
-
 # Landscaping Billing Form - Help Guide
 ## Purpose
 This form is used to collect information from clients about their landscaping services for billing purposes.

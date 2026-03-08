@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Beverage Inventory Assessment - Help Guide
 ## Purpose
 The Beverage Inventory Assessment form is designed to help bar and restaurant establishments assess their current stock levels of various beverages, including beer, wine, and spirits. This form helps identify inventory status, products that need reordering, and potential storage issues.

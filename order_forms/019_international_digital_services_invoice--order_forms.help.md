@@ -1,12 +1,3 @@
-<thinking>
-To create an effective user guide for this international digital services invoice form, we must first understand the purpose and functionality of the form. The form appears to be for managing international digital services, covering various aspects of the billing and payment process. It involves gathering information about the customer, billing details, payment methods, payment status, and notification settings.
-
-The form consists of multiple pages, each with various fields for collecting different types of information. We need to break down each field and explain its purpose and relevance to the overall process.
-
-Upon reviewing the form structure and fields, it seems to be designed for administrative tasks related to customer management, payment tracking, and billing processes. However, to provide a comprehensive user guide, we will focus on explaining each field in a clear and concise manner.
-
-</thinking>
-
 # International Digital Services Invoice - Help Guide
 ## Purpose
 The international digital services invoice form is used to manage and track various aspects of billing and payment processes for international digital services. It covers customer information, billing details, payment methods, and notification settings.

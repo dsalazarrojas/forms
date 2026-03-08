@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure that this form is used to gather information for an Easter Brunch event. We should check that there's no duplication of effort, and that the form is being used as intended.</thinking>
-
 # Easter Brunch Order Form - Help Guide
 ## Purpose
 The Easter Brunch Order Form is used to collect information for an Easter Brunch event. This form helps the organizers to gather details about the guests, their dietary restrictions, and any special requests for the event.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Online Purchase Information Collection Form - Help Guide
 ## Purpose
 The Online Purchase Information Collection Form is designed to collect information from customers about their online purchases. This form is meant to gather essential details that help us understand the customer's order and preferences.

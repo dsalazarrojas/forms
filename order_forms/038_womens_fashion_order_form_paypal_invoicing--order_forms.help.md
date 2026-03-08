@@ -1,15 +1,3 @@
-<thinking>
-We can use this form to collect customer information, shipping details, and payment information for women's fashion orders. Before we dive into the instructions, let's make sure you have all the necessary information ready. Please ensure you have the following at hand: 
-
-- A PayPal account or a payment method accepted by the seller
-- Your customer details (name, email, phone number, etc.) 
-- Shipping details (shipping address, shipping method, etc.)
-- Order details (order date, order items, etc.)
-
-This form is designed to be filled out in a sequential manner, so please fill it out in the order of the fields presented. If you encounter any errors or issues, don't hesitate to reach out to us for assistance. We're happy to help!
-
-</thinking>
-
 # Womens Fashion Order Form Paypal Invoicing - Help Guide
 ## Purpose
 The Womens Fashion Order Form Paypal Invoicing is a form designed to collect customer, shipping, and payment information for women's fashion orders. This form is intended to be filled out by customers placing an order with a business that accepts PayPal payments.

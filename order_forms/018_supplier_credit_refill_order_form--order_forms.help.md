@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to create a supplier credit refill order. A supplier credit refill order is a request to refill a supplier's credit account with a specific amount of credit. This form is designed to be completed by a user, typically a purchasing agent or credit manager, to initiate the refill process.
-
-This form should only be used when the supplier's credit account is due for refilling. Before filling out the form, the user should check that the supplier's credit account is indeed due for refilling to avoid duplicating orders.
-
-The form is organized into two main pages: Form Header and the form fields that follow.
-
-</thinking>
-
 # Supplier Credit Refill Order Form - Help Guide
 ## Purpose
 The Supplier Credit Refill Order Form is a tool to initiate a refill of a supplier's credit account with a specific amount of credit.

@@ -1,11 +1,3 @@
-<thinking>
-- This form is intended for agricultural data collection, likely for monitoring and record-keeping purposes.
-- The form's purpose is to collect data on various aspects of farming activities, including farm details, crop information, weather conditions, and other relevant factors.
-- The form's design aims to be comprehensive and user-friendly, allowing farmers or data collectors to easily input their daily data.
-- The form's fields are designed to be self-explanatory, but a brief explanation will be provided to ensure clarity.
-
-</thinking>
-
 # Daily Agricultural Data Collection - Help Guide
 ## Purpose
 The Daily Agricultural Data Collection form is designed to gather essential information from farmers or data collectors about their daily activities and conditions. This form helps in monitoring and tracking progress, identifying trends, and making informed decisions for improved agricultural practices.

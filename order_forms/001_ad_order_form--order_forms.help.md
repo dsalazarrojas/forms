@@ -1,13 +1,3 @@
-<thinking>
-This form is used for advertisers to place orders for their advertisements. The form is designed to collect necessary information for the sales team to process the order and prepare the ad for publication. The form is not intended to be used for general inquiries or other non-order related purposes. Please ensure that you are using this form for the correct use case. 
-
-Before filling out the form, please review the fields carefully to ensure that you are filling out all required fields. Some fields have specific requirements or options that are not immediately apparent from their labels. For example, the "publication_date" field requires a date in the format YYYY-MM-DD. The "publication_duration" field requires an integer value representing the number of days the ad is to run. 
-
-Please note that some fields may have optional or default values that can be selected, but it is recommended to fill out all required fields. 
-
-Before submitting the form, review your entries carefully to ensure that you are providing accurate and complete information.
-</thinking>
-
 # Ad Order Form - Help Guide
 ## Purpose
 The Ad Order Form is used by advertisers to place orders for their advertisements. It collects necessary information for the sales team to process the order and prepare the ad for publication.

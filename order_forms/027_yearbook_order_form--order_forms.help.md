@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to collect information for processing orders for a yearbook. It is meant for students to fill out to place an order. Ensure you have filled out all required fields and follow instructions for submitting the form. Please note that this form is for demonstration purposes and might be used in production environment, thus it is best-effort and non-exhaustive explanation.
 
 </thinking>

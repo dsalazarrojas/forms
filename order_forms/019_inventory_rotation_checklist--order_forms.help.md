@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for tracking the inventory rotation process, which is the regular process of reviewing and updating the inventory levels, usage, and other relevant details of a product or asset. The form is designed to be used by inventory managers or other authorized personnel to ensure that the inventory is up-to-date and accurate.
-
-Before filling out this form, please make sure you have a clear understanding of the product's usage history, current inventory levels, and any relevant notes or comments. This form is typically used for routine checks, but if there are any discrepancies or issues that need to be addressed, the form should be filled out as soon as possible.
-
-</thinking>
-
 # Inventory Rotation Checklist - Help Guide
 ## Purpose
 The purpose of this form is to track the inventory rotation process, including reviewing and updating product usage, inventory levels, and other relevant details. 

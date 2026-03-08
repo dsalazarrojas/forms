@@ -1,9 +1,3 @@
-<thinking>...The purpose of this form is to collect information for promotional material delivery, likely for marketing or sales purposes. This form likely exists within an industry category related to promotion or sales. To ensure the form is used correctly, let's review the field descriptions to confirm relevance and prevent duplication of effort.
-
-This form has three fields: "delivery_info," "material_info," and "recipient_email." We will assume that "delivery_info" and "material_info" are fields for collecting information about the promotional materials, while "recipient_email" is for sending notifications or follow-ups to the recipient.
-
-</thinking>
-
 # promotional_material_delivery_form - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to allow restaurant owners or managers to place orders for soundproofing materials, such as Acoustic Panels, Acoustic Foam, or Acoustic Paint. The form requires providing details about the restaurant, the customer, and the order specifics. This form is likely used for internal order management and fulfillment within the soundproofing material supply chain.
-
-To prevent duplication and ensure accurate order processing, the form should only be used by authorized personnel and should not be used for other purposes.
-
-</thinking>
-
 # Restaurant Soundproofing Material Order Form - Help Guide
 ## Purpose
 This form is designed to facilitate ordering soundproofing materials for restaurants. Please complete this form to place an order for Acoustic Panels, Acoustic Foam, or Acoustic Paint.

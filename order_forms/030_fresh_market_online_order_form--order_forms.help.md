@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be an online order form for a Fresh Market store or a similar e-commerce platform. It's designed to collect information from customers for placing orders. Upon reviewing the form YAML, I noticed that it's a multi-page form with various fields for order information, payment details, pickup information, and contact info. The form appears to be designed for customers to provide their order requests, payment methods, and personal contact information. There might be some duplication of fields, such as the "order_info" and "order_notes" fields, which could be merged into a single field for clarity. However, the provided information is sufficient for creating a user-facing help guide.
-</thinking>
-
 # Fresh Market Online Order Form - Help Guide
 
 ## Purpose

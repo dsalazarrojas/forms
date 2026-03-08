@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Request A Quote 4 - Help Guide
 ## Purpose
 This form is for requesting a quote from us. Please fill out this form to provide us with your contact information and details about your quote request.

@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to allow merchants to submit their product information, user information, shipping details, payment method, order details, total cost, payment amount, and merchant info to the Paymentwall platform. This form is meant to be used by merchants who are interested in listing their products on the Paymentwall platform. 
-</thinking>
-
 # Paymentwall Product Order Form - Help Guide
 
 ## Purpose

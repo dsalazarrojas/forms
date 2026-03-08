@@ -1,14 +1,3 @@
-<thinking>
-This form is used to log water quality monitoring events. It is intended to be completed by water quality monitors who are conducting sampling events at various sites. The form is used to record information about the sampling event, including the site ID, parameter name, and parameter value. It is used to track and analyze water quality data over time. 
-
-This form is a critical component of the water quality monitoring program and should be completed accurately and thoroughly. It is used to support decision-making and management of water resources. 
-
-Please ensure that the form is completed by the correct user and that the correct sampling event ID is entered in the corresponding field. 
-
-The form should not be duplicated or filled out multiple times for the same sampling event. If multiple events are conducted at the same site, a new form should be completed for each event. 
-
-</thinking>
-
 # Water Quality Monitoring Log - Help Guide
 
 ## Purpose

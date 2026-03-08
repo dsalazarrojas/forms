@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Climate Change Initiative Application Form - Help Guide
 
 ## Purpose

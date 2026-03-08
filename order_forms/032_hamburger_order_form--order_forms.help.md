@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to gather information from the customer for a hamburger order. The customer is asked to provide their name, select the type of patty, choose any additional order options, select the payment method, and confirm the order total. To avoid errors, the form is split into sections or "pages" to guide the customer through the ordering process. This structure allows the customer to review and confirm their order before proceeding to the next step. 
-
-Please note that the form does not have any hints to provide additional context, and the options provided in each select field are limited. This means that the customer must carefully review each field to understand what to select and what the implications of their choices might be.
-</thinking>
-
 # Hamburger Order Form - Help Guide
 ## Purpose
 The Hamburger Order Form is designed to collect information from the customer to process and fulfill their hamburger order. This form is split into several sections to guide the customer through the ordering process.

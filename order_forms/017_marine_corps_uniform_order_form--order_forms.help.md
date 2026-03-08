@@ -1,7 +1,3 @@
-<thinking>
-This form is a tool for processing orders for marine corps uniforms. The form collects information about the customer, including their name, rank, duty title, unit assignment, and shipping details. It also captures information about the payment type and method, as well as any order notes or comments. The form's purpose is to gather all the necessary information for processing and fulfilling the order efficiently. I will ensure that each field explanation is accurate and concise, without inventing unsupported business logic. I will also check for duplication of information to ensure the guide is not redundant.
-</thinking>
-
 # Marine Corps Uniform Order Form - Help Guide
 ## Purpose
 The Marine Corps Uniform Order Form is a tool used to process orders for marine corps uniforms.

@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information on patient's immunization records and is used by healthcare professionals for documentation and follow-up purposes. It is essential to ensure that the form is filled out correctly to ensure accuracy and consistency in patient records.
-</thinking>
 # Immunization Record Form - Help Guide
 ## Purpose
 This form is used to collect information on patient's immunization records. It is essential to have accurate and up-to-date immunization records for patient care and follow-up.

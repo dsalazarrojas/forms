@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to place orders for camp gear and merchandise. The form is divided into two main sections: "Order Contact Information" and "Gear and Merchandise." The "Order Contact Information" section captures the customer's name, email address, phone number, and delivery method. The "Gear and Merchandise" section allows customers to select the type of gear or merchandise they want to order, choose the size and quantity, and provide any additional items or sizes they may need. The form also asks for the customer's preferred payment method and includes a field for special instructions or gift notes. Finally, the form captures the date the order was submitted.
-</thinking>
-
 # Camp Gear Order Form - Help Guide
 ## Purpose
 The camp gear order form is used to place orders for gear and merchandise from the camp store. 

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to collect information about a patient's nursing certification, including the type of certification, the name of the certification, the date it was earned, the expiration date, and other relevant details. The purpose of this form is to conduct an audit of the patient's certification status, ensuring that their credentials are up-to-date and accurate. This form will be used to gather information for auditing purposes, and will help the nursing staff to verify the patient's certification status and identify any potential issues that may need to be addressed.
-
-</thinking>
-
 # Nursing Certification Audit Checklist - Help Guide
 ## Purpose
 The purpose of this form is to collect information about a patient's nursing certification status for auditing purposes.

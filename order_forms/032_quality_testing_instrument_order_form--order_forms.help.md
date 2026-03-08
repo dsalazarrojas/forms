@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assist in the process of ordering quality testing instruments from an organization. It ensures that the required shipping and payment details are accurately captured to facilitate a smooth transaction. To avoid any confusion, please review the form carefully and ensure that you're completing it for the intended purpose. If you have any doubts, please reach out to the relevant department for clarification.
-</thinking>
-
 # Quality Testing Instrument Order Form - Help Guide
 ## Purpose
 The purpose of this form is to gather essential information for ordering quality testing instruments from our organization. This includes shipping details, payment terms, and contact information.

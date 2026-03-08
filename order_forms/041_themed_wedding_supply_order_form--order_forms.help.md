@@ -1,7 +1,3 @@
-<thinking>
-This form is for placing orders for themed weddings. It is likely used by wedding planners or event coordinators to receive event information and payment details from clients. The fields are designed to gather relevant details about the event and order, including event name, date, and theme, as well as payment and contact information. Please ensure that you are using the correct form for your use case and that all fields are filled in according to your needs.
-</thinking>
-
 # themed_wedding_supply_order_form - Help Guide
 ## Purpose
 This form is used to place orders for themed weddings. It helps the event coordinator gather all the necessary information about the event and the order, including event details, contact information, payment details, and order status.

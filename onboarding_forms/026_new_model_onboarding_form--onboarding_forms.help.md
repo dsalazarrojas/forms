@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the New Model Onboarding Form that explains its purpose, how to complete it, and what each field means, ensuring end-users understand its relevance and avoid duplication of efforts.</thinking>
-
 # New Model Onboarding Form - Help Guide
 ## Purpose
 This form is designed to collect information about a new model being onboarded into the system. It is a crucial step in the onboarding process, ensuring that all necessary details are captured to facilitate a smooth integration.

@@ -1,7 +1,3 @@
-<thinking>
-  This form is designed for merchants to declare their shipped packages, providing essential information about the package, shipper, and shipping details. The form is used to gather data for shipping declarations and tracking purposes. The form fields are divided into two main categories: Package Details and Shipper Information. The purpose of this form is to ensure accurate and timely shipping, and the data collected will be used for logistics and administrative purposes.
-</thinking>
-
 # Shipping Declaration Form - Help Guide
 ## Purpose
 This form is used to declare your shipped packages, providing essential information about the package and shipper. Please complete the form accurately to ensure smooth shipping and tracking processes.

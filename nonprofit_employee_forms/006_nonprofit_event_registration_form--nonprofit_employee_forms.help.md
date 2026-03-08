@@ -1,9 +1,3 @@
-<thinking>
-The form is designed to collect information from individuals who are interested in attending a nonprofit event. This form is used to gather attendee details, payment information, and other relevant event specifics. It's essential to ensure that the form is completed accurately and thoroughly to avoid any confusion or mistakes. Please review the form carefully and make sure you're completing it for the correct purpose.
-
-Before proceeding, check that you're not already registered for this event. If you have any doubts or concerns, feel free to reach out to the event organizers.
-</thinking>
-
 # Nonprofit Event Registration Form - Help Guide
 ## Purpose
 This guide will walk you through completing the Nonprofit Event Registration Form. Please read carefully to ensure you provide accurate and complete information.

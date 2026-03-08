@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # reading_material_order_form - Help Guide
 
 ## Purpose

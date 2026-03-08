@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for home health care services. The form is intended to be completed by a caregiver or healthcare professional to provide essential details about the patient's health status, contact information, and medical needs. This form is meant to be a comprehensive checklist for caregivers to ensure they have all necessary information to provide quality care.
-</thinking>
-
 # home_health_care_checklist - Help Guide
 ## Purpose
 The home health care checklist is a form used to gather essential information about a patient's health status, contact details, and medical needs to ensure quality care.

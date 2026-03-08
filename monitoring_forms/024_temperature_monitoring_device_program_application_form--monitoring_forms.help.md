@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for organizations to apply for the Temperature Monitoring Device Program. The form is meant to collect relevant details about the facility, owner, contact person, address, and monitoring device information.
-</thinking>
-
 # Temperature Monitoring Device Program Application Form - Help Guide
 ## Purpose
 This form is used to collect information for an organization's application to the Temperature Monitoring Device Program. Please provide accurate and complete details to ensure a smooth review process.

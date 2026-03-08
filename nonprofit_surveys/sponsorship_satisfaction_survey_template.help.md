@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from sponsors to improve their experience and strengthen partnerships. The primary goal is to collect data on satisfaction, communication clarity, benefits, and renewal likelihood. This form does not collect any sensitive or personal identifiable information.
-</thinking>
-
 # sponsorship_satisfaction_survey_template - Help Guide
 ## Purpose
 This form is a survey designed to gather feedback from our valuable sponsors to improve their experience and strengthen our partnerships.

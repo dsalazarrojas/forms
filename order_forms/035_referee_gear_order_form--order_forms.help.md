@@ -1,18 +1,3 @@
-<thinking>
-The form is designed for referees to place orders for gear, providing a platform for them to input their contact information, shipping details, and payment terms. The form is likely used by referees to purchase equipment for events or competitions. The form fields cover a range of options, including contact details, shipping methods, shipping dates, payment terms, and order terms. It is essential to ensure that the form is accurately and thoroughly completed to avoid any potential issues with orders.
-
-To check for relevance and non-duplication, consider the following points:
-- The form is designed for referees who may not be familiar with the process, so a clear and concise explanation of each field is necessary.
-- The fields are divided into sections for contact, shipping, payment, and order details.
-- The form includes options for multiple shipping methods and payment terms, allowing referees to provide specific information about their needs.
-- Some fields are required, while others are optional, which may indicate that some information is essential for processing orders while others are additional details.
-- The form includes fields for contact and payment details, which may be sensitive information for the referees.
-- The form allows referees to provide specific information about their shipping needs, including dates and methods.
-- The form also allows referees to specify their payment terms, which may be essential for processing orders.
-- The form includes multiple fields for order details, which may be used to track and manage orders.
-- Some fields may have specific formats or requirements, such as email addresses or dates.
-</thinking>
-
 # Referee Gear Order Form - Help Guide
 ## Purpose
 The Referee Gear Order Form is designed to help referees order equipment for events or competitions. This form collects essential contact, shipping, and payment information to ensure a smooth ordering process.

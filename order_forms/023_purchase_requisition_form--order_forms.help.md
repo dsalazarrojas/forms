@@ -1,15 +1,3 @@
-<thinking>
-This help guide is designed to assist users in understanding the purpose and functionality of the Purchase Requisition Form. The form is intended for requesting purchases and tracking the status of purchase orders within an organization. 
-
-This guide will walk users through the process of completing the form, explaining each field and its purpose.
-
-Please note that the form is not affiliated with any form platform, and its content is derived from public metadata. The form is released under a Creative Commons BY 4.0 license, allowing users to modify and share it freely.
-
-The form consists of several fields, including title, purchase order date, order description, item list, requested by, purchasing department, purchase requisition number, purchasing manager, purchase order status, and remarks. 
-
-Each field has a specific purpose, and users should understand the required and optional fields to complete the form accurately.
-</thinking>
-
 # Purchase Requisition Form - Help Guide
 ## Purpose
 

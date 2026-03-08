@@ -1,13 +1,3 @@
-<thinking>
-
-As a nurse, it's essential to follow strict guidelines when administering medications to patients. This form helps to ensure that the medication administration process is accurate and efficient. When filling out this form, please note that the purpose of the form is to record the details of medication administration in a clear and concise manner.
-
-The form will be used to document the following information: the name of the medication, the dosage and administration instructions, whether the medication was administered or not, and any adverse reactions or comments about the administration process.
-
-Please fill out this form carefully and accurately to ensure that the patient's medical record is up-to-date and comprehensive.
-
-</thinking>
-
 # medication_administration_form - Help Guide
 ## Purpose
 This form is used to document the details of medication administration for patients.

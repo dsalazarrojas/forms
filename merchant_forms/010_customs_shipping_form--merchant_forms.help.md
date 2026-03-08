@@ -1,17 +1,3 @@
-<thinking>
-This form is intended to collect information about a shipment, including the sender and recipient details, shipment details, and customs clearance and shipping method. The purpose of this form is to ensure that all necessary information is collected to facilitate smooth customs clearance and shipping processes. Please ensure that all required fields are completed accurately to avoid any issues during shipping.
-
-This form will be used for internal purposes, and the information collected will be reviewed by the shipping team to prepare for customs clearance and shipping. Please note that any information provided will be treated as confidential and will only be used for the intended purpose.
-
-Before starting, please ensure that you have the necessary information and authorization to complete this form.
-
-Please review the fields carefully before proceeding. If you need help, you can always reach out to the shipping team for assistance.
-
-Also, please be aware that some fields have specific formats or rules that must be followed to ensure accurate processing.
-
-Now, let's move on to the detailed guide.
-</thinking>
-
 # Customs Shipping Form - Help Guide
 ## Purpose
 The Customs Shipping Form is designed to collect information about a shipment to facilitate smooth customs clearance and shipping processes. This guide will walk you through each section of the form to help you complete it accurately and efficiently.

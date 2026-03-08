@@ -1,10 +1,3 @@
-<thinking>
-To create a user-friendly help guide for the "nail_tip_adhesive_safety_consent_form" form, we need to consider the form's purpose, how to complete it, and explain each field in a way that's easy to understand. This form is likely designed to gather sensitive information from clients or customers about their nail tip adhesive safety. It may be used by healthcare professionals, insurance providers, or other industries where safety and consent are critical. This form should be used to ensure that the individual is aware of their own medical history and safety risks associated with nail tip adhesives.
-
-Before filling out this form, it's essential to carefully read each section and provide accurate information. This form is divided into several pages, each with its own set of fields.
-
-</thinking>
-
 # nail_tip_adhesive_safety_consent_form - Help Guide
 ## Purpose
 The "nail_tip_adhesive_safety_consent_form" is a form designed to gather information about a client's medical history and safety risks associated with nail tip adhesives. This form is intended to ensure that the individual is aware of their own medical risks and provides necessary information for healthcare professionals or providers to take necessary precautions.

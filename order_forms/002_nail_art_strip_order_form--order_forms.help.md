@@ -1,8 +1,4 @@
-> <thinking>
-This form is designed for nail salon staff to place orders for nail art strips. It's essential to use this form to minimize mistakes and increase efficiency. Make sure to fill it out clearly and accurately. Please ensure that you haven't already filled out this form for this order.
-</thinking>
-
-# Nail Art Strip Order Form - Help Guide
+> # Nail Art Strip Order Form - Help Guide
 
 ## Purpose
 

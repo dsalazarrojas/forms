@@ -1,15 +1,3 @@
-<thinking>
-This form is intended for long term health monitoring. It captures participant information, 
-monitoring type, frequency, and location. It also includes fields for medical 
-history, consent date, start and end dates, and contact information. Researcher 
-consent and participant consent are captured as well. The form also includes 
-fields for notes and signatures from both participants and researchers. This form is 
-likely used in a clinical setting for ongoing or occasional monitoring of 
-patient health.
-The form is designed to be filled out by both participants and researchers, and it 
-contains fields for both parties to sign off on it.
-</thinking>
-
 # Long Term Health Monitoring Consent Form - Help Guide
 ## Purpose
 This form is used to capture participant consent for long term health monitoring. 

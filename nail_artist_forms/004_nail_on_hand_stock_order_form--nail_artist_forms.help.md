@@ -1,7 +1,3 @@
-<thinking>
-This form is for ordering stock items. It is not a critical form and users are only required to fill it when they need to place an order. To prevent duplicate orders, this form should only be filled out once per order. Please ensure that all required fields are filled out properly to avoid any issues with the order. If unsure about a field, please refer to the field explanation below.
-</thinking>
-
 # nail_on_hand_stock_order_form - Help Guide
 ## Purpose
 

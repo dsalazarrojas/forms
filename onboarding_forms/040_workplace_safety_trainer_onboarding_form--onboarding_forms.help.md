@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to input their information for onboarding into the Workplace Safety Trainer program. It is intended for users to provide their basic contact information (first name, last name, email, and phone number) as well as their qualifications and certifications relevant to the safety trainer role. Additionally, it asks about various training sessions they have attended or will attend. It's essential to fill out this form to create a user account for the program. Please make sure to fill out the form correctly and completely to avoid delays in the onboarding process.
-</thinking>
-
 # Workplace Safety Trainer Onboarding Form - Help Guide
 ## Purpose
 The Workplace Safety Trainer Onboarding Form is used to gather essential information from users for the onboarding process into the Workplace Safety Trainer program.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Road Sign Order Form - Help Guide
 ## Purpose
 The Road Sign Order Form is a user-friendly form designed to collect information from customers to process their orders and deliver road signs. The form is a vital part of our order management process, ensuring we receive all necessary details to create and ship orders accurately and efficiently.

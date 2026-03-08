@@ -1,12 +1,3 @@
-<thinking>
-The form purpose is to facilitate the ordering process of haptic gaming vests, which are wearable devices that provide a more immersive gaming experience by haptic feedback. This form is designed to collect necessary information from customers, including their contact details, product preferences, payment details, and shipping preferences. 
-
-To ensure a smooth and efficient ordering process, please make sure to fill in the form accurately and completely. Please note that some fields are required, while others are optional. This form is not affiliated with or endorsed by any form platforms, and it's created using only public metadata as inspiration.
-
-This form's structure may vary based on the input schema provided. Please ensure the form's fields are filled in the following order: Customer Information, Product Information, Payment, Shipping Preferences, Shipping Option, and Order Summary.
-
-</thinking>
-
 # haptic_gaming_vest_order_form - Help Guide
 ## Purpose
 This form is designed to collect information from customers to place an order for haptic gaming vests.

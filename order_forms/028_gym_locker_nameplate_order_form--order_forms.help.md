@@ -1,11 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and requirements for filling out the gym_locker_nameplate_order_form. Please ensure you have all necessary information before proceeding to complete the form. 
-This form is used to place an order for a gym locker nameplate. 
-Ensure the order form is not filled out if the member is not intending to purchase a gym locker nameplate. 
-Duplicate or redundant orders may result in delays in processing your request. 
-Please review the form fields and their respective labels and instructions to ensure accuracy and completeness. 
-</thinking>
-
 # gym_locker_nameplate_order_form - Help Guide
 ## Purpose
 The gym_locker_nameplate_order_form is used to place an order for a gym locker nameplate. 

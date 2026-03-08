@@ -1,9 +1,3 @@
-<thinking>
-The form is designed to collect information from customers for industrial pneumatic cylinder orders. The form includes fields for customer details, order description, product type, size, quantity, payment method, and other relevant order information. This form is likely used by a company's sales or customer service team to take orders from customers or to track and manage existing orders. 
-The form is likely part of a larger system that integrates with other internal and external systems for order tracking, inventory management, and payment processing.
-
-</thinking>
-
 # industrial_pneumatic_cylinder_order_form - Help Guide
 ## Purpose
 This form is used to collect information from customers for industrial pneumatic cylinder orders.

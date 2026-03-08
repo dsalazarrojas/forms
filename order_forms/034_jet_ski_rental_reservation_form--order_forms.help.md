@@ -1,10 +1,3 @@
-<thinking>... internal reasoning block to determine the form purpose and check for redundancy
-
-The purpose of this form is to collect information from customers for jet ski rental reservations. It is likely used to gather details about the customer, their rental preferences, and payment information for processing the reservation.
-
-Upon reviewing the form fields, it appears to be a straightforward form for collecting customer data and rental preferences. There is no clear indication of any redundancy or unnecessary fields. Each field seems to serve a specific purpose in the reservation process.
-
-</thinking>
 # Jet Ski Rental Reservation Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers for jet ski rental reservations. It helps the rental service to understand the customer's needs and preferences for a smooth and efficient rental experience.

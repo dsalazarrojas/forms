@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # CNA Unit Completion Form - Help Guide
 
 ## Purpose

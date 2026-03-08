@@ -1,12 +1,3 @@
-<thinking>
-This form is used to collect feedback from sales teams on their enablement tools needs. This form is not intended for urgent or critical business processes, but rather for ongoing improvement and feedback collection. It's essential to answer this form only if you are a sales team member who has used or is using an enablement tool. If you're not a sales team member or haven't used an enablement tool, please do not complete this form.
-
-To avoid duplication, please only submit one form per sales enablement tool.
-
-Please note that the form has multiple pages. Answer the questions on each page in order to ensure you provide complete and accurate feedback.
-
-</thinking>
-
 # Sales Enablement Tool Requisition Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from sales teams on their enablement tool needs. Please use it to report any issues, suggestions, or improvements related to sales enablement tools.

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly and efficiently by the end-users, especially considering that it's an onboarding form for a pediatric practice. This form is used to collect new patient information, emergency contact details, and other relevant data for the practice. We should check that the form is filled out by a parent or guardian for minor patients, and that the information collected is accurate and up-to-date. We should also ensure that all required fields are filled out correctly to avoid any errors or missed opportunities.
-</thinking>
-
 # pediatric_practice_onboarding_survey - Help Guide
 ## Purpose
 This form is designed to collect new patient information and emergency contact details for a pediatric practice. It's essential to fill out this form accurately and completely to ensure that the practice has the necessary information to provide proper care and services.

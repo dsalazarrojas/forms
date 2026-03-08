@@ -1,9 +1,3 @@
-<thinking>This form is designed for bookstore employees to request bestseller titles from the inventory. The form ensures that the requester provides accurate information about the book, such as title and author, to facilitate proper processing and approval. It also checks for manager approval before allowing the book request to proceed. This form aims to streamline the ordering process while maintaining data accuracy and ensuring that requests are properly vetted.
-
-The form checks for duplication of requests by requester's name and email to prevent accidental or intentional duplication. It also checks for manager approval before sending the request to the next step in the process.
-
-This form is intended for internal use within the bookstore and will be reviewed and approved by a manager before the order is processed. The form should be completed accurately and honestly to ensure a smooth and efficient ordering process.</thinking>
-
 # Bookstore Bestseller Requisition Form - Help Guide
 ## Purpose
 This form is used to request bestseller titles from the bookstore's inventory. It helps to streamline the ordering process and ensure that the requested titles are accurately identified and approved before being processed.

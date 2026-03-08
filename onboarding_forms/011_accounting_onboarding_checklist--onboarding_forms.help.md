@@ -1,9 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the "Accounting Onboarding Checklist" form, we must first understand the context in which it is used. This form is likely an internal tool used by accounting departments or teams to onboard new clients or employees, ensuring they are properly set up and integrated into the organization's accounting processes. The form's primary purpose is to facilitate a standardized, efficient, and thorough onboarding process, which is crucial for effective financial management and compliance. 
-
-The form's structure, as reflected in its YAML schema, suggests it is designed to collect information and confirm completion of various steps necessary for a new client or employee's account to be fully functional and compliant with organizational policies. It includes fields for selecting the type of onboarding (new client or new employee), details about the onboarding process (name of onboardee, start date, identity verification documents received, financial setup tasks completed, tax documents received, administrative tasks completed, primary account manager assigned, and the completion of the onboarding process), and a field to verify the accuracy of the information collected. This guide is aimed at helping users understand the purpose and the step-by-step process of filling out this form accurately and efficiently.
-</thinking>
-
 # Accounting Onboarding Checklist - Help Guide
 ## Purpose
 The Accounting Onboarding Checklist is designed to ensure that all necessary steps for a new client or employee's account are completed during the onboarding process. This process is crucial for effective financial management and compliance. The form guides through key steps to finalize the onboarding process.

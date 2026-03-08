@@ -1,7 +1,3 @@
-<thinking>
-This form is for customers to place an order for a designer chair. The purpose of the form is to gather information about the chair model, delivery preferences, deposit, delivery date, comments, contact information, email, and additional comments from the customer. The form will be used to create an order in the internal system. Before proceeding, please ensure that you have all the necessary information to complete the form accurately.
-</thinking>
-
 # Designer Chair Pre Order Form - Help Guide
 ## Purpose
 This form is used to place an order for a designer chair. It collects information about the chair, delivery preferences, and customer contact details.

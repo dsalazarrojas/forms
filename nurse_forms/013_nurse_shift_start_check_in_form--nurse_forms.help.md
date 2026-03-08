@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for nurses to report their start time, location, and other relevant details at the beginning of their shift. The form is designed to be completed by the nurse themselves and should not be filled out by anyone else. Please ensure that you have the required permissions to access this form.
-</thinking>
-
 # nurse_shift_start_check_in_form - Help Guide
 ## Purpose
 The nurse_shift_start_check_in_form is a form used by nurses to report their start time, location, and other relevant details at the beginning of their shift. It is a personal responsibility of each nurse to complete this form accurately and on time to ensure accurate shift reporting.

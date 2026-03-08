@@ -1,7 +1,3 @@
-<thinking>
-The form "Volunteer Interest Form" seems to be designed for individuals to express their interest in volunteering with an organization. The purpose of this form is to collect information from potential volunteers about their availability, skills, and preferences for volunteering opportunities within the organization. This form likely aims to streamline the process of matching volunteers with suitable roles and schedules that fit their interests and availability.
-</thinking>
-
 # volunteer_interest_form - Help Guide
 ## Purpose
 The "Volunteer Interest Form" is designed to help the organization understand your interests, skills, and availability for volunteering. This form will help us match you with suitable volunteer opportunities within our organization.

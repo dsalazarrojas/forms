@@ -1,14 +1,3 @@
-<thinking>
-We're checking if you're familiar with the Classic Boxset Order Form. This form is designed for customers to place orders for boxsets, which are collections of items, such as films, music, books, or documentaries. The form has several sections:
-* Customer Information: This section gathers the customer's details, including their name, email address, phone number, and shipping address.
-* Boxset Selection: Here, the customer chooses the type of boxset they want to order, the edition, and the quantity.
-* Pricing and Payment: This section handles the pricing and payment methods. The customer is asked to enter the unit price, select a discount code (if applicable), choose a shipping method, and pay using their preferred method.
-* Additional Information: Customers can add any special instructions or handling requests here.
-* Order Date: The final field captures the date of the order.
-
-Before we proceed, have you reviewed the form and are ready to place your order?
-</thinking>
-
 # Classic Boxset Order Form - Help Guide
 
 ## Purpose

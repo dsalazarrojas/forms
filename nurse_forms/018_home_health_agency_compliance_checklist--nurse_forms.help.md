@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We are creating this form to gather information on client data, agency operations, and visit details from home health agencies. This form is a compliance checklist to ensure that agencies are meeting the necessary standards and guidelines set forth by regulatory bodies. We aim to ensure accuracy, completeness, and consistency of the data provided. 
 
 </thinking>

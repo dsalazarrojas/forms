@@ -1,5 +1,3 @@
-<thinking>... internal reasoning: The Military Families Fund Donation Form is designed to collect information from donors who wish to contribute to the Military Families Fund, a charitable organization that supports military families. This form is intended to be completed by donors who want to make a one-time or recurring donation, providing their donation amount, donation frequency, name, and email address. The form is meant to be a simple and straightforward way to facilitate donations and ensure that donors can provide necessary information for processing and communication. The purpose of this form is to gather accurate and up-to-date information to efficiently manage donations. Please ensure that you have checked with the relevant teams to confirm the requirements and compatibility of this form. </thinking>
-
 # Military Families Fund Donation Form - Help Guide
 ## Purpose
 The Military Families Fund Donation Form is designed to collect information from donors to support the Military Families Fund, a charitable organization.

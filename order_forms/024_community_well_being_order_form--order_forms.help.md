@@ -1,34 +1,3 @@
-<thinking>
-
-This form is designed to collect information from users to place orders for "Community Well Being" products. The form is intended to be used by customers who want to order products for various purposes, such as individuals, families, or groups. The form collects personal and business information, product preferences, and order details to ensure accurate and efficient processing of orders.
-
-The form is divided into several sections, including personal information (full name, email, phone number), order details (product type, quantity, delivery address), business information (organization name, tax-exempt status), and payment and delivery information (payment method, billing address, delivery date and time, special instructions).
-
-This form is designed to be filled out by the customer, and the information collected will be used to process the order and ensure timely and accurate delivery. The form requires the following fields:
-
-* Full Name: The customer's full name.
-* Email Address: The customer's email address for order confirmation.
-* Phone Number: The customer's phone number for contact purposes.
-* Delivery Address: The address where the order should be delivered.
-* Organization Name (if applicable): The name of the organization the customer is placing the order for.
-* What type of well-being products are you ordering?: The type of products being ordered (e.g. Wellness Kits, Mental Health Resources, etc.).
-* Target Audience: The target audience for the products (e.g. Individuals, Families, etc.).
-* How will these products be distributed?: The method of distribution (e.g. Direct to individuals, Through community center, etc.).
-* Preferred Delivery Date: The date the customer would like to receive the order.
-* Preferred Delivery Time: The time window the customer would like to receive the order.
-* Special Delivery Instructions: Any special instructions for the delivery (e.g. gate codes, etc.).
-* Does this order qualify for bulk discount?: Whether the order qualifies for a bulk discount.
-* Payment Method: The payment method the customer will use (e.g. Credit Card, Debit Card, etc.).
-* Billing Address (if different from delivery): The billing address if different from the delivery address.
-* Are you tax-exempt?: Whether the customer is tax-exempt.
-* Tax ID Number (if applicable): The tax ID number if applicable.
-* Would you like to include a gift message?: An optional message to include with the order.
-* Any additional comments or special requests?: Any additional comments or requests the customer has.
-
-This form is designed to collect all necessary information to process the order correctly and efficiently.
-
-</thinking>
-
 # Community Well Being Order Form - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect information from customers about their menu preferences for an event or meal. The form is likely used by event or restaurant staff to understand customer dietary needs and preferences before the event. This information is crucial for ensuring that customers' needs are met and that they have a enjoyable dining experience. 
-
-To avoid overwriting or duplicate submissions, this form should only be completed if you are a customer attending an event or meal, or if you are a staff member requesting to be removed from the menu rotation.
-
-The fields in this form should only be filled in by customers who are requesting to be included in the menu rotation or who have specific needs that require accommodation. Staff members who have already been removed from the menu rotation or who are not customers should not fill out this form.
-</thinking>
-
 # Customer Menu Preference Request Form - Help Guide
 ## Purpose
 This form is used to collect customer menu preferences for an event or meal, ensuring that customers' needs are met during their dining experience.

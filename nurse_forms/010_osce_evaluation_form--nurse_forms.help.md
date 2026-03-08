@@ -1,7 +1,3 @@
-<thinking>
-This form is used to evaluate a student's performance in a clinical setting, specifically assessing their clinical skills, communication skills, problem-solving abilities, and other competencies. It is used to provide feedback and rating to students on their performance. The form is designed to be completed by an evaluator who has observed or reviewed the student's work. The purpose of this form is to ensure that students are meeting the required standards and competencies in their clinical rotation.
-</thinking>
-
 # osce_evaluation_form - Help Guide
 ## Purpose
 This form is used to assess a student's performance in a clinical setting. It provides a way for the evaluator to give feedback and rate the student's clinical skills, communication skills, problem-solving abilities, and other competencies.

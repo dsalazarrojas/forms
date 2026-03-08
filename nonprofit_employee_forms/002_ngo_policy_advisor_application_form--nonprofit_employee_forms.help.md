@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals applying for a role as a Non-Governmental Organization (NGO) Policy Advisor. The form gathers general information about the applicant, their employment status, work experience, education, professional certifications, job applications, references, and any attachments they wish to submit. Please ensure that you have filled in all required fields, as indicated by the "required" property in the form. Duplicate or incomplete submissions will be rejected. This form is intended for internal use within the organization and is not intended for public sharing or external distribution.
-</thinking>
-
 # NGO Policy Advisor Application Form - Help Guide
 ## Purpose
 The NGO Policy Advisor Application Form is designed to collect essential information from applicants seeking to work as an advisor within a Non-Governmental Organization (NGO). This form will guide you through the necessary steps to provide all required details.

@@ -1,5 +1,3 @@
-<thinking>Internal reasoning: This form, "order_form_template", was generated using AI and is designed to be a generic template for collecting customer and order information. It is not affiliated with any specific platform or service. The form has multiple pages, each with various fields for customer and order details. The form has 20 fields in total, including text fields, checkboxes, and a select one field for order status. The form is designed to be customizable, and users can add or remove pages and fields as needed. The form's fields are mostly optional, but some may be required depending on the specific use case.</thinking>
-
 # order_form_template - Help Guide
 
 ## Purpose

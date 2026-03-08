@@ -1,7 +1,3 @@
-<thinking>
-You're probably wondering why we need an order form. This is a form for customers to place orders with our agricultural business. The purpose of this form is to help us understand what the customer wants to buy, including the type of crops, quantities, and other relevant details. Please note that you should not fill out this form if you've already placed an order or have a pending order. This will help us process your order efficiently and ensure that we have the necessary information to complete your transaction.
-</thinking>
-
 # herbs_and_foods_crop_order_form - Help Guide
 ## Purpose
 This form is designed to help customers place orders with our agricultural business for herbs, vegetables, fruits, and other crops.

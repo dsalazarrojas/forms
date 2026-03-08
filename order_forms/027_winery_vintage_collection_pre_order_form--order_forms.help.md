@@ -1,7 +1,3 @@
-<thinking>
-To confirm, the form "winery_vintage_collection_pre_order_form" is used to collect information from customers for a pre-order for a winery's vintage collection. The form should not be duplicated and its purpose is to provide all necessary information to complete the order. This form collects Customer Info, Order Details, Delivery Info, Payment Info, and Customer Signature.
-</thinking>
-
 # winery_vintage_collection_pre_order_form - Help Guide
 ## Purpose
 The winery_vintage_collection_pre_order_form is used to collect information from customers for a pre-order of the winery's vintage collection. This form is required to be completed only once per order.

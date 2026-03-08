@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow web designers to order web themes based on user preferences. The form collects information about the type of theme the user wants, its color scheme, desired size, custom elements, design style, and personal contact details for the web designer. This form seems to be a duplicate of previous versions, with many fields having the same name and label. To avoid confusion, we'll focus on explaining each field once while highlighting the differences between similar fields.
-</thinking>
-
 # Web Theme Order Form - Help Guide
 ## Purpose
 The Web Theme Order Form is designed to collect information about the desired web theme, its specifications, and the user's contact details for the web designer.

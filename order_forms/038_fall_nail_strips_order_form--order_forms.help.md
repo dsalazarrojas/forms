@@ -1,12 +1,3 @@
-<thinking>
-This form is used for customers to place orders for nail strips, a type of beauty product. The purpose of this form is to collect customer information, shipping details, and payment information in order to process the order efficiently and accurately. To avoid any confusion, please note that this form is designed to be used for customers placing orders for nail strips, and all fields are required unless specified as optional.
-
-This form is divided into several sections: Customer Information, Shipping Information, Payment Information, and Order Details. The form requires customers to provide their name, phone number, email, and address for billing and shipping purposes. Additionally, customers are asked to specify their preferred payment method (cash, credit card, or PayPal) and provide any additional payment notes or instructions.
-
-The form also includes sections for customers to provide order details such as order date, shipping date, and delivery date. The customer can specify their preferred delivery time for their order.
-
-When completing this form, please make sure to provide accurate and complete information to ensure smooth order processing.</thinking>
-
 # Fall Nail Strips Order Form - Help Guide
 ## Purpose
 The Fall Nail Strips Order Form is used for customers to place orders for nail strips, a type of beauty product. This form is designed to collect customer information, shipping details, and payment information in order to process the order efficiently and accurately.

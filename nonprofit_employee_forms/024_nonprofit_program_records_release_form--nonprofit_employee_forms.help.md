@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information about an individual's Nonprofit Employee Forms, which is used to release records related to a nonprofit program. This form will likely be completed by an employee of a nonprofit organization to provide necessary details for program-related records release. Ensure this form is filled out accurately and honestly to ensure proper completion of the records release process. Ensure that the information provided is accurate and complete before submitting the form, as it may be used for official records. Please ensure that the information provided is accurate and up-to-date, and that the form is completed in its entirety before submission. This form is intended for official use and may be used in conjunction with other forms and documents. The information collected will be treated as confidential and will only be used for the intended purpose of the form.
-</thinking>
-
 # Nonprofit Program Records Release Form - Help Guide
 ## Purpose
 This form is used by nonprofit employees to release records related to a nonprofit program. It's essential to complete this form accurately and honestly to ensure the proper completion of the records release process.

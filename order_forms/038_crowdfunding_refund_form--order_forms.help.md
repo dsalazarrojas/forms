@@ -1,8 +1,3 @@
-<thinking>
-This form is used by backers to request a refund for a crowdfunded project. The form is designed to collect information necessary to process the refund, including details about the backer, the refund request, and contact information for further communication. This form should only be used if the backer has a legitimate reason for requesting a refund, such as a project that was not completed as expected or an issue with their reward. Before filling out this form, please make sure you have reviewed the project's terms and conditions and that you are not requesting a refund for something that is not covered under the project's refund policy.
-
-</thinking>
-
 # Crowdfunding Refund Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for pre-order purposes during the September release of Good Hart. It will capture details such as the release date, customer name, contact information, shipping details, and order specifics like the item and quantity selected. The form should be completed by customers who are interested in pre-ordering items from the September release. Please ensure you have only one submission per order.
-</thinking>
-
 # Good Hart September Release Pre Order - Help Guide
 
 ## Purpose

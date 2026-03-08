@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's quickly review the form's purpose and ensure it's not a duplicate of an existing form. The "Stock Image Requisition Form" is used for requesting stock images, and it seems to be designed for projects that require specific stock images with various attributes such as project type, source, image type, resolution, and format. Let's assume this form is not a duplicate of another form in our system.</thinking>
-
 # Stock Image Requisition Form - Help Guide
 ## Purpose
 

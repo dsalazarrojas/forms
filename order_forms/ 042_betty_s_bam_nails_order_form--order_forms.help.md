@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Betty’s BAM Nails Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers for nail orders. It will help us better understand your preferences, requirements, and any special requests you may have for your nail services. Please complete this form to ensure we have accurate and complete information to serve you.

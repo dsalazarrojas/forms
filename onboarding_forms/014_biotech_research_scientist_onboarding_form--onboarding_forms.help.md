@@ -1,9 +1,3 @@
-<thinking>
-
-To provide a clear and comprehensive onboarding process for new biotech research scientists, this form is designed to collect essential information about the employee's background, work requirements, and commitments to company policies and safety protocols. This form should only be completed by the new employee and their supervisor, and it is recommended that it be completed in one sitting, as some sections require the completion of specific training or reading requirements. Please ensure that you have reviewed all sections and answered all questions truthfully before submitting the form. 
-
-</thinking>
-
 # Biotech Research Scientist Onboarding Form - Help Guide
 ## Purpose
 The Biotech Research Scientist Onboarding Form is a mandatory document that ensures new employees understand their role, responsibilities, and commitments to company policies and safety protocols. It helps to ensure a smooth and successful onboarding process.

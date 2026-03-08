@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for collecting student medical information. The form has 11 fields, each of which is explained in detail below. The form does not require any specific knowledge or expertise, and its completion should take about 5-10 minutes for an average person. The form is intended for use in educational settings, and its purpose is to gather essential medical information about students. It's crucial to ensure that this information is accurate and up-to-date, as it may be used in emergency situations or medical procedures. Before filling out this form, please ensure you have the necessary permissions and clearance to do so.
-</thinking>
-
 # Student Medical Information Form - Help Guide
 ## Purpose
 This form is designed to collect medical information about students, including their medical history, allergies, medications, contact information, emergency contact, medical conditions, medical treatment, medical procedure, and student signature.

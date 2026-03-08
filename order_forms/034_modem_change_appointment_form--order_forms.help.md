@@ -1,7 +1,3 @@
-<thinking>
-This form is used to schedule and confirm appointments for modem changes, which is a crucial process for maintaining and updating modems (modular devices) in various settings. Before proceeding, ensure that this form is not being used for other purposes or to avoid duplication of efforts. The form is designed to collect necessary information from customers to facilitate efficient and effective modem changes.
-</thinking>
-
 # Modem Change Appointment Form - Help Guide
 ## Purpose
 This form is used to schedule and confirm appointments for modem changes. It helps to ensure that the necessary information is collected from customers, technicians, and other stakeholders to facilitate efficient and effective modem changes.

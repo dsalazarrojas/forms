@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Clone Of Color Street Nails In My Stock - Help Guide
 ## Purpose
 This form is used to clone and track orders for Color Street Nails in My Stock. It collects information from the end user for inventory purposes, including stylist's name, contact email, product code, color variant, quantity ordered, price per unit, shipment preference, delivery address, and special instructions.

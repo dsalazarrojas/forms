@@ -1,12 +1,3 @@
-<thinking> 
-The purpose of the Freight Claim Form is to collect information from merchants for the purpose of processing freight claims. This form is meant to gather essential data about the merchant's shipment details, such as shipment information, carrier details, claim information, and expense details. The form also allows merchants to upload receipts and attach additional documents to support their claims. This information will be used to evaluate and process their claims efficiently and effectively.
-
-This help guide is designed to ensure that merchants understand what to expect when completing the form, reducing errors and confusion. By following these guidelines, merchants can ensure they submit accurate and complete data, increasing the chances of a successful claim resolution.
-
-Before completing this form, please review the following instructions to ensure you understand each field's purpose and requirements.
-
-</thinking>
-
 # Freight Claim Form - Help Guide
 ## Purpose
 This form is designed for merchants to report freight claims to the company, providing essential information about their shipment and claim details. It is used to process freight claims efficiently and effectively.

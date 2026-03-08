@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to collect various information related to an order submission, including customer information, shipping details, payment methods, and order totals. It's likely used for internal order management purposes. This form does not seem to have any required fields, suggesting that it might be designed for reference or example purposes rather than actual order submissions.
-</thinking>
-
 # Order Submission Form - Help Guide
 ## Purpose
 This form is used to collect and store information related to order submissions, including customer details, shipping and payment information, and order totals.

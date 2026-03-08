@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information for search engine optimization (SEO) purposes. It helps users provide relevant metadata for their website or web pages to improve their visibility and ranking in search engines.
-
-The form is composed of multiple fields, each related to a specific SEO aspect. Some fields are mandatory, while others are optional.
-
-Before filling out this form, please note that it is intended for use with websites or web pages. If you are not sure about the purpose or usage of this form, please contact your administrator for clarification.
-
-</thinking>
-
 # seo_form - Help Guide
 ## Purpose
 The seo_form is designed to collect metadata for search engine optimization (SEO) of websites or web pages.

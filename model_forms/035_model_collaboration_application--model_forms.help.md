@@ -1,11 +1,3 @@
-<thinking>
-This form is a Model Collaboration Application form, designed to collect information for a model or photographer collaboration. The form will ask for basic contact and identification information, as well as preferences for collaboration, contact, and portfolio management. The form is intended for both photographers and their collaborators. 
-
-The form's purpose is to gather relevant data to facilitate a successful collaboration between the model and photographer. The form will help ensure that both parties are on the same page, providing essential details about their preferences and expectations. It will help prevent potential misunderstandings and ensure a smooth collaboration process.
-
-Before proceeding, please ensure that all the required information is accurate and up-to-date.
-</thinking>
-
 # Model Collaboration Application - Help Guide
 ## Purpose
 This form is designed to collect information for a model or photographer collaboration. It will help both parties gather essential details about their preferences and expectations, preventing potential misunderstandings and ensuring a smooth collaboration process.

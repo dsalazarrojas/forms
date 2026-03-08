@@ -1,5 +1,3 @@
-<thinking>As a form expert, I'll create a comprehensive help guide for the "paypal_coffee_order_form" based on the provided YAML fields. I will consider each field's label, type, and any available hints to ensure that the explanation is both concise and practical. I will also check for redundancy and internal logic to make sure the help guide is accurate and up-to-date.</thinking>
-
 # paypal_coffee_order_form - Help Guide
 ## Purpose
 The "paypal_coffee_order_form" is a user-facing form designed to gather information for a coffee order process. It is likely used in a retail or service environment where customers can select their desired coffee order details.

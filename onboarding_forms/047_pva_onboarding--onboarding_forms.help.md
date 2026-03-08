@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to capture information from users during their onboarding process. It is used to collect essential details such as user information, contact details, and onboarding status. The form is a critical component of the onboarding process and is used to ensure that new users are properly integrated into the system. Before filling out this form, please ensure you have all necessary information ready and that you are familiar with the required fields.
-
-The form is designed to be completed once per user. If you are an administrator or a system operator, please note that the form is intended for new users only. If you have any questions or concerns about the form, please reach out to the relevant team for support.
-
-This form is meant to be a one-time form. Please do not fill it out multiple times, as this can cause duplication of records and lead to confusion.
-
-Please ensure that all required fields are filled out accurately and thoroughly.
-
-</thinking>
-
 # pva_onboarding - Help Guide
 ## Purpose
 This form is designed to collect essential information from new users during their onboarding process. It captures user details, contact information, and onboarding status, which is used to ensure proper integration into the system.

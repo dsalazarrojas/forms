@@ -1,5 +1,3 @@
-<thinking>Form purpose: The Merchandising Mannequin Order Form is designed to collect information related to mannequin orders, including customer preferences, payment details, and shipping information. This form is intended to be used by internal stakeholders and external customers to streamline the mannequin ordering process. To ensure accuracy, please review this form carefully and only submit relevant and accurate information. Please do not submit duplicate or incomplete forms, as this may cause delays or issues with order fulfillment.</thinking>
-
 # Merchandising Mannequin Order Form - Help Guide
 ## Purpose
 The Merchandising Mannequin Order Form is a critical tool for collecting relevant information related to mannequin orders. This form ensures that all necessary details are captured accurately, ensuring efficient order fulfillment and minimizing the risk of errors or miscommunication.

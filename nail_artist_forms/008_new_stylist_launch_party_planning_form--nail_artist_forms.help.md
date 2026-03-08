@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to gather information about the launch party planning for new stylists. This form is likely used by administrators or event planners to collect details about the event, such as the category, description, and crucial details for new team members to launch their business successfully. The form may also include fields to provide additional information about the form itself, like form IDs and output file options. It's essential to ensure that the correct category is selected and that all necessary fields are filled out to provide accurate and helpful information for new team members.
-</thinking>
-
 # New Stylist Launch Party Planning Form - Help Guide
 ## Purpose
 This form is designed to gather essential information about the launch party planning for new stylists. It will help administrators and event planners create a comprehensive plan for the event.

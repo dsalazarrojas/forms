@@ -1,14 +1,3 @@
-<thinking> 
-This form is used in a warehouse management system to collect information about customer requests for storage space referrals. This guide will help customers complete the form correctly, reducing errors and ensuring they get the most out of the referral process. 
-
-Please make sure to read this guide carefully before completing the form. 
-
-If you have already submitted the form and need help with your storage referral request, please contact our customer support team directly. 
-
-We do not recommend completing the form if you are not a customer or if you are unsure about the referral process. 
-
-</thinking>
-
 # Warehouse Storage Referral Form - Help Guide
 ## Purpose
 This form is designed for customers to refer their products to our warehouse for storage. It captures essential details that will help our staff process and manage the request efficiently.

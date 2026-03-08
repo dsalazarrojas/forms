@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a product, including its name, description, price, image, status, and other relevant details from the submitter. This form is likely used in an e-commerce or product management context, where users need to submit products for review or listing. The form's purpose is to gather accurate and complete information to facilitate the review or listing process.
-
-The form does not appear to have any specific validation checks for non-duplication or relevance, so it's assumed that the same product can be submitted multiple times if the form data is resubmitted.
-
-It is expected that the form will be filled out by users who are either submitting products for review or listing, or by administrators reviewing and managing product submissions.
-
-Please note that the form fields' labels and hints do not provide clear or specific information about their purpose, so the explanation below will be based on the best-effort interpretation.
-
-</thinking>
-
 # Submit A Product Form - Help Guide
 ## Purpose
 This form is designed to collect information about a product and its submitter for review or listing purposes.

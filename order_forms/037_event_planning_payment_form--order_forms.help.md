@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for event planning purposes, collecting information from event organizers or planners to plan and execute events. It's likely used for internal or external events, such as conferences, workshops, or meetups. Before proceeding, ensure this form isn't already covered by another existing form or process within the organization. This form's purpose is to gather necessary details for event planning and execution. Please review the current forms and processes before proceeding to avoid redundancy and potential information duplication.
-</thinking>
-
 # event_planning_payment_form - Help Guide
 ## Purpose
 The event_planning_payment_form is a tool for event organizers or planners to collect and organize relevant information for event planning and execution.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from submitters about their order details, personal info, and payment information. It's likely used by the submitter to provide details about their order and payment method. To prevent duplication or incorrect submissions, this form should be filled out accurately and thoroughly. Please ensure you provide all required and optional fields as needed.
-</thinking>
-
 # signed_paperback_order_form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from submitters about their orders and payment details.

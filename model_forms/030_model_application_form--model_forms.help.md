@@ -1,13 +1,3 @@
-<thinking>
-
-This form is a crucial component of our hiring process, used to collect essential applicant information for job postings. It is designed to guide applicants through the necessary steps to provide their details for consideration. The fields included are a mix of required and optional fields that will help us better understand the applicants' qualifications.
-
-We need to ensure that we don't receive duplicate forms with incomplete or invalid information. This form will automatically be flagged for review if incomplete or if it appears to be a duplicate.
-
-Before you start, please note that some fields are required while others are not. Filling out this form accurately will help us evaluate your application correctly.
-
-</thinking>
-
 # model_application_form - Help Guide
 
 ## Purpose

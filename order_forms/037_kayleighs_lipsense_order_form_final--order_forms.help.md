@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "KayleighsLipsenseOrderFormFINAL" form, I will follow the provided instructions to ensure it's concrete, concise, and practical. I'll use the form's YAML fields to explain each field's purpose and how to complete it. I'll also check for any potential issues with form design and non-duplication.
-</thinking>
-
 # KayleighsLipsenseOrderFormFINAL - Help Guide
 ## Purpose
 This form is designed for customers to provide their order details, payment information, and shipping addresses for Kayleigh's Lipsense product orders. It's essential to fill in all required fields accurately to ensure smooth processing of your order.

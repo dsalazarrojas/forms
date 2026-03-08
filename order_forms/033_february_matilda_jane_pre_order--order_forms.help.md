@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to pre-order products from the February Matilda Jane collection. It is not intended for current stock orders. The form is not required for existing customers to complete, but rather for potential customers to express interest in future orders. Please note that if you have already completed this form, you will receive a notification when the product is available for stock order.
-</thinking>
-
 # February Matilda Jane Pre Order - Help Guide
 ## Purpose
 This form is intended for potential customers to express interest in pre-ordering the February Matilda Jane collection. If you are a current customer, you can skip this form and contact us directly to place a stock order.

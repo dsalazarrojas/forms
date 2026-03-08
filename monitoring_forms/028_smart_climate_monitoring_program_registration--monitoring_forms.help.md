@@ -1,14 +1,3 @@
-<thinking>
-To create a help guide for the "Smart Climate Monitoring Program Registration" form, we need to understand its purpose and ensure that it's not being duplicated. This form likely exists to register programs that monitor and report on environmental climate data, and it's probably meant for internal use within an organization. We can check for internal duplication by verifying that the program is not already registered and that the contact person is not already registered in the system. 
-
-If the form is not already completed with the same details, we can proceed with the help guide. 
-
-This form is used to collect information about a specific climate monitoring program. The goal is to guide users through the process of filling out the form accurately and efficiently. 
-
-The form has several fields, each with a specific purpose. We will break down each field below.
-
-</thinking>
-
 # Smart Climate Monitoring Program Registration - Help Guide
 ## Purpose
 The Smart Climate Monitoring Program Registration form is used to collect information about climate monitoring programs. It's intended for internal use, likely for tracking and managing climate monitoring projects within an organization.

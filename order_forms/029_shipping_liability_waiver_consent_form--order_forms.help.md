@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to obtain a customer's liability waiver and consent for shipping-related activities. This waiver form is intended for internal use within the business, and it's crucial to ensure the provided purpose aligns with the organization's goals and policies.
- 
-Form fields are not required, and the form serves as a template for customers to provide necessary information.
- 
-</thinking>
-
 # shipping_liability_waiver_consent_form - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Medical Equipment Rental Order Form", I will analyze the form's purpose, fields, and requirements. 
-
-The form is meant to be used for medical equipment rental orders, which suggests that it is primarily for healthcare professionals or individuals who need to rent medical equipment. The form has 25 fields, which seems excessive. Upon further review, I notice that some fields seem to have identical options and labels, and others are missing labels or have weak/unclear labels. I will do my best to create a clear and concise help guide based on this information.
-
-</thinking>
-
 # Medical Equipment Rental Order Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>COVID-19 Campus Visit Screening Form is a form used to identify potential risks and take necessary precautions for campus visitors. This form is designed to be completed by visitors before entering campus to ensure that the campus community stays safe and healthy. It's used by screener personnel to gather information and make informed decisions. Please ensure that you have completed this form carefully and accurately to avoid any unnecessary delays or restrictions.</thinking>
-
 # COVID 19 Campus Visit Screening Form - Help Guide
 ## Purpose
 The form is designed to gather information about your health status, purpose of visit, and other relevant details to ensure the campus community's safety and health.

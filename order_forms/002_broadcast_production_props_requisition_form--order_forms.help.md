@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for requesting broadcast production props, which are items needed for the production of broadcast content such as TV shows, movies, or live events. The purpose of this form is to collect information about the props required for a specific production, including the name and department requesting the prop, the specific prop name or description, the quantity needed, and other relevant details. The form will be reviewed internally to check for duplication and ensure that the request is relevant and necessary.
-</thinking>
-
 # Broadcast Production Props Requisition Form - Help Guide
 
 ## Purpose

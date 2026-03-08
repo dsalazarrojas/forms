@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for requesting business letterhead design services. The form will likely be used by internal or external stakeholders to gather information about a business's letterhead design preferences. This information will be used to ensure that the designed letterhead accurately represents the company's brand and meets their expectations. 
-</thinking>
-
 # Business Letterhead Design Request Form - Help Guide
 ## Purpose
 This form is used to collect information about a business's letterhead design preferences.

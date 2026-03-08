@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be filled out by employees of a company who wish to volunteer for a corporate project. The purpose of this form is to collect information about the volunteer's name, organization, contact details, project title, project description, project date, and project time. This information will be used to organize and coordinate volunteer activities.
-</thinking>
-
 # Corporate Volunteering Request Form - Help Guide
 ## Purpose
 This form is for employees who wish to volunteer for a corporate project. Please fill out the form with the required information to help us process your request.

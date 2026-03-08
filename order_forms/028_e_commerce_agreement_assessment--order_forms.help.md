@@ -1,13 +1,3 @@
-<thinking>
-
-The form "e_commerce_agreement_assessment" is designed to collect information from customers regarding their online shopping experience, specifically their agreement with the ecommerce site's terms and conditions. It is meant to help businesses understand their customers' views on various aspects of their online transactions, including customer information, business terms, payment terms, shipping terms, delivery terms, return terms, electronic signature, and customer agreement.
-
-This form is intended to be used by ecommerce businesses to gather feedback from their customers, and it is not meant to be a comprehensive review of the site's policies, but rather a quick assessment of the customer's understanding of the terms and conditions.
-
-Before filling out this form, please ensure that you have not filled it out before, and that you are not trying to game the system. This form is intended to gather genuine feedback from customers, and any attempts to manipulate the system will be detected and addressed.
-
-</thinking>
-
 # e_commerce_agreement_assessment - Help Guide
 ## Purpose
 The purpose of this form is to collect information from customers regarding their online shopping experience, specifically their agreement with the ecommerce site's terms and conditions.

@@ -1,13 +1,3 @@
-<thinking>
-To check if this form is relevant and not duplicated, I'll review the provided YAML fields:
-- The form is called "Stationery Order Form", which suggests it's for ordering stationery (office supplies).
-- The fields include "Paper Type", "Paper Size", "Paper Type" (again), "Color", "Quantity", "delivery_date", "Special Instructions", "Phone", and "Email", which seems like a mix of basic stationery order information and general contact details.
-- There are two "Paper Type" fields, which might be a mistake or a design choice. I won't speculate further, as it's not clear from the YAML.
-
-Given that the form is for ordering stationery and includes various fields for order details, contact information, and instructions, I'll create the final help guide. 
-
-</thinking>
-
 # Stationery Order Form - Help Guide
 ## Purpose
 This form is designed to collect information for ordering stationery (office supplies) from a supplier. Fill it out to provide the necessary details for your order.

@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to be a comprehensive collection of information that can be used to create an emergency care plan for an individual. This form is designed to gather information from the patient, including their emergency contacts, medical conditions, and any medications they may be taking. Each field in this form is designed to be completed by the patient or their representative, and the information collected will be used to create a personalized emergency care plan that outlines what to do in case of an emergency.
-
-This form is a duplicate of a previously created form and is not intended to be used in production.
-</thinking>
-
 # emergency_care_plan_form - Help Guide
 ## Purpose
 The emergency care plan form is a tool used to collect information from the patient or their representative to create a personalized emergency care plan. This plan outlines what to do in case of an emergency and is intended to ensure the patient receives the best possible care.

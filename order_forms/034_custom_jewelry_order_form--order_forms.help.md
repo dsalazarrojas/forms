@@ -1,8 +1,3 @@
-<thinking>
-**Custom Jewelry Order Form Purpose**
-This form is designed to collect information from customers placing custom jewelry orders.
-</thinking>
-
 # Custom Jewelry Order Form - Help Guide
 ## Purpose
 The Custom Jewelry Order Form is a tool used by customers to provide their specifications for a custom jewelry piece. It helps our designers create a unique piece that meets their expectations.

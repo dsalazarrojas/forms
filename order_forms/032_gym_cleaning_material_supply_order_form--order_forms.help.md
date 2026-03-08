@@ -1,11 +1,3 @@
-<thinking>
-
-To determine the purpose and relevance of the form, let's analyze the provided YAML fields. The form is an "order form" and its title "Gym Cleaning Material Supply Order Form" suggests it's for ordering cleaning materials for a gym or fitness center. This form likely serves to gather information from a contact person for the order, including their email and phone number, and possibly some information about the order, such as the date and time it's placed. There might be a contact person selection to identify who the order is from. Given the fields included, the form seems to be focused on general order information and contact details.
-
-The internal reasoning block is not a strict requirement but it is a good practice to check for relevance and non-duplication, so I will make an educated assumption that this form is meant to serve a simple order process with a contact person and basic order details.
-
-</thinking>
-
 # Gym Cleaning Material Supply Order Form - Help Guide
 ## Purpose
 The Gym Cleaning Material Supply Order Form is used to place orders for cleaning materials for a gym or fitness center. It gathers information from a contact person and provides basic order details.

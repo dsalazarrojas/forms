@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for customers to provide information related to their orders, including customer details, product specifics, and payment methods. The form is a crucial component of the order process, ensuring that both the customer and the business receive accurate and complete data. Before proceeding, please ensure this is the correct form for your intended purpose and that you have read and understood the form's content. Duplicate or outdated forms might cause confusion and hinder the order process.</thinking>
-
 # Pajama Order Form - Help Guide
 ## Purpose
 The Pajama Order Form is a crucial tool for customers to provide essential information related to their orders, including customer details, product specifics, and payment methods. It helps ensure accurate and complete data exchange between the customer and the business.

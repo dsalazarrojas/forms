@@ -1,24 +1,3 @@
-<thinking>
-To be eligible for a material requisition, the form is only accessible to authorized personnel. Ensure you have the necessary permissions before proceeding. If this is an existing material, please check the material's inventory levels first. This form is not intended for new material introductions or purchasing requests; use the "New Material Introduction Form" for such requests.
-
-This form will be reviewed and verified by the purchasing department. Please ensure all information is accurate and complete before submission.
-
-This form is for internal use only and will not be shared with external parties.
-
-If you have any questions or concerns, please reach out to the purchasing department.
-
-The material requisition form is used to track and document the materials that are requested by various departments within the organization. 
-
-This form is used to ensure the purchasing department can efficiently track and fulfill these requests while minimizing waste and maximizing inventory efficiency.
-
-This form also helps to ensure that all necessary information is collected from the requestor, including the material type, quantity, unit cost, and other relevant details.
-
-The goal of this form is to provide the purchasing department with all the necessary information to fulfill the material request accurately and efficiently.
-
-Please review each section of the form carefully and enter accurate information to avoid delays in the processing of your requisition.
-
-</thinking>
-
 # Purchasing Department Material Requisition Form - Help Guide
 ## Purpose
 This form is used to request materials from the purchasing department. It is intended for internal use only and is not for new material introductions or purchasing requests.

@@ -1,18 +1,3 @@
-<thinking>
-The purpose of this form is to facilitate the creation of craft spirit orders, which likely involves selling or delivering custom-made craft spirits to customers. This form aims to collect essential information from customers, including their contact details, order specifics, payment methods, event-related information, and shipping instructions.
-
-To complete this form correctly, please ensure that all required fields are filled out, and provide accurate information to the best of your ability. The form is divided into sections for customer information, order details, payment information, event details, and shipping information.
-
-The form fields are described as follows:
-
-* Customer Information: This section is not currently required (optional).
-* Order Details: This section is also not currently required (optional). However, if filled out, it will help us better understand your order.
-* Payment Info: This section is not required (optional), but if filled out, it's essential for us to process your order securely.
-* Event Details: This field is also optional and is used to understand any special event-related requirements.
-* Shipping Information: This section is not required (optional), but it will help us deliver your order to the right address.
-
-Please ensure you complete all the fields correctly to facilitate smooth order processing.</thinking>
-
 # Craft Spirit Order Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information for creating custom craft spirit orders from customers.

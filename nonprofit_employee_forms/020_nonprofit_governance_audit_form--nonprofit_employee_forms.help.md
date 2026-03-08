@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to conduct a nonprofit governance audit, which is a review process to evaluate the effectiveness and efficiency of a nonprofit organization's governance structures and processes. The audit form is designed to collect information from both the board members and the organization's submitter. The form is used to identify areas of improvement and gather feedback from the reviewer on the organization's governance practices. This audit is crucial in ensuring the nonprofit's governance structures are functioning effectively and in accordance with best practices.
-
-To ensure the form is completed accurately and thoroughly, please review the following instructions:
-
-</thinking>
-
 # Nonprofit Governance Audit Form - Help Guide
 ## Purpose
 The nonprofit governance audit form is a tool used to evaluate the governance practices and structures of a nonprofit organization. It is a critical process to ensure the organization's governance is functioning effectively and in accordance with best practices.

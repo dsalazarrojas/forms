@@ -1,5 +1,3 @@
-<thinking>First, let's analyze the form purpose and required fields. This form seems to be a pool house service contract, which means it's a form for managing pool house services. The form has a mix of text, select, and date fields. Upon closer inspection, I don't see any mandatory required fields, which suggests that this form is intended for informational or reporting purposes rather than transactional operations. The form seems to capture various details about a pool house service, including the home owner, service provider, address, and service status. I'll make sure to include this information in the help guide.</thinking>
-
 # Pool House Service Contract - Help Guide
 ## Purpose
 The Pool House Service Contract form is a tool for managing pool house services. It collects information about the service, including the home owner, service provider, address, and service status.

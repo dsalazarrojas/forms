@@ -1,19 +1,3 @@
-<thinking>
-
-The purpose of this form is to allow users to book audio-visual equipment for events, meetings, or other purposes. This form is intended for internal employees who are responsible for managing the equipment inventory and providing support for events.
-
-The form is designed to ensure that users provide necessary information to ensure smooth logistics and equipment delivery. Users can select from a variety of equipment options, specify the event date and time, and choose a pickup/delivery method. The form also allows users to specify any necessary notes or additional equipment requirements.
-
-Before proceeding with the form, please ensure that:
-
-- You are booking the equipment for a legitimate business purpose.
-- You have the necessary approval to request equipment.
-- You have considered the equipment options and logistics carefully to avoid misunderstandings or conflicts.
-
-After filling out the form, please review it carefully before submitting to ensure that all required fields are complete and accurate.
-
-</thinking>
-
 # Audio Visual Equipment Booking Form - Help Guide
 ## Purpose
 The Audio Visual Equipment Booking Form is designed to help you request audio-visual equipment for events, meetings, or other purposes. Please use this form to book the equipment you need.

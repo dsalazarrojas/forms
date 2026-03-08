@@ -1,8 +1,3 @@
-<thinking>
-The "Champagne Order Form" is designed to gather information for champagne orders, which are required for delivery and processing. This form must be completed for all orders, and the data collected will be used for internal record-keeping and delivery logistics. 
-Ensure you have filled out the form correctly and accurately, as incorrect information can lead to delays or errors in delivery. 
-</thinking>
-
 # Champagne Order Form - Help Guide
 ## Purpose
 The "Champagne Order Form" is a form designed to gather information for champagne orders, ensuring accurate processing and delivery.

@@ -1,13 +1,3 @@
-<thinking>
-
-This Nonprofit Membership Form Template is designed to collect information for nonprofit employees, allowing them to easily sign up, update, and manage their membership details. Before completing this form, please ensure you are not duplicating an existing record.
-
-This form is intended for employees of nonprofit organizations and is not for general public registration. Nonprofit employees can use this form to update their contact information, membership type, and other relevant details.
-
-Please review the form carefully and only submit if you are a valid nonprofit employee. If you're unsure about any field, please refer to this help guide for clarification.
-
-</thinking>
-
 # Nonprofit Membership Form Template - Help Guide
 ## Purpose
 The Nonprofit Membership Form Template is designed to collect and update information for nonprofit employees. It helps track and manage membership details efficiently.

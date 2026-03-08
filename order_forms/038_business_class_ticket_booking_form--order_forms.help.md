@@ -1,5 +1,3 @@
-<thinking>...</thinking>
- 
 # Business Class Ticket Booking Form - Help Guide
  
 ## Purpose

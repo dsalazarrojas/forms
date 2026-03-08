@@ -1,11 +1,3 @@
-<thinking>
-To validate that I have a clear understanding of the task: 
-This help guide is to provide a concrete explanation of the "Sound Cable Routing Request Form" to end-users. The form is used to request sound cable installations, and it's essential to ensure that the form is completed accurately to ensure correct installations.
-
-The fields provided in the YAML seem to pertain to various aspects of sound cable installations, such as cable type, cable length, installation location, and cable quality. To create the help guide, I will provide a clear and concise explanation of each field, focusing on the options provided in the YAML.
-
-</thinking>
-
 # Sound Cable Routing Request Form - Help Guide
 ## Purpose
 The Sound Cable Routing Request Form is used to request sound cable installations. It is essential to complete this form accurately to ensure that your sound cable installation request is processed correctly.

@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Logistics Quotation Form, I will first analyze the provided YAML fields to understand the form's purpose and requirements. The form is used to collect logistics information for shipping details, customer information, and shipment costs. It appears to be a comprehensive form that covers various aspects of logistics, including shipment mode, date, time, weight, distance, service, status, and customer details.
-</thinking>
-
 # Logistics Quotation Form - Help Guide
 ## Purpose
 The Logistics Quotation Form is used to collect logistics information for shipping details, customer information, and shipment costs. This form is used by logistics teams to create quotations for customers and to keep track of shipment details.

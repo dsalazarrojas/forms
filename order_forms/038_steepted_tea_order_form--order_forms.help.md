@@ -1,7 +1,3 @@
-<thinking>
-To confirm that the form is used for customers to place orders for Steepted Tea, and that this is not a duplicate of an existing form. The Steepted Tea Order Form is used to collect customer information and preferences for their tea orders. This form is likely part of an e-commerce application and is intended to gather essential details from customers for processing their orders. Before creating this form, please check if a similar form already exists in the application.
-</thinking>
-
 # Steepted Tea Order Form - Help Guide
 ## Purpose
 The Steepted Tea Order Form is used to collect customer information and preferences for their tea orders. This form allows customers to select their preferred type of tea, flavor, and other essential details for processing their orders.

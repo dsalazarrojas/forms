@@ -1,7 +1,3 @@
-<thinking>
-This form is used for customers to input their order details and customizations for a label. The form has several sections, including customer information, order details, shipping information, and order status. It's likely used for creating customized labels with specific customer preferences. This form seems to be designed for internal use within a company or organization, possibly for a printing or packaging business. The form doesn't explicitly mention the context of the order, such as a specific product or product line. It appears to be a general-purpose form for any type of label order.
-</thinking>
-
 # Custom Label Order Form - Help Guide
 ## Purpose
 

@@ -1,38 +1,3 @@
-<thinking>
-This form is intended to be filled out by the customer service team to order a refills for a smart shelf device. The fields on this form require the customer's contact information, device details, and order specifics. 
-
-The form has multiple pages but only one page is shown in this help guide as per the YAML input. This form will be filled out by the customer service team for each new order and will require the following information:
-
-*   First Name
-*   Last Name
-*   Phone
-*   Email
-*   Phone
-*   Device Order Date
-*   Device Order Time
-*   Quantity
-*   Operation
-*   Delivery Method
-*   Delivery Address
-*   Delivery Date
-*   Delivery Time
-*   Delivery Status
-*   Customer Name
-*   Customer Email
-*   Customer Phone
-*   Customer Notes
-*   Customer Address
-*   Customer City
-*   Customer State
-*   Customer Zip
-*   Device Serial Number
-*   Order ID
-
-Please note that the "operation" field is a select one field and it's purpose is not explicitly stated in the provided YAML. Based on common practices, it's likely intended to denote which department or team member is responsible for handling the order. 
-
-Please ensure to fill in all required fields before submitting the form.
-</thinking>
-
 # Smart Shelf Refill Device Order Form - Help Guide
 ## Purpose
 This form is used by the customer service team to order a refills for a smart shelf device. It requires the customer's contact information, device details, and order specifics.

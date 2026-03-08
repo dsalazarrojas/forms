@@ -1,8 +1,3 @@
-<thinking>
-This form is used by maintenance personnel to collect and document data on equipment temperature readings and issues. The form is part of a broader maintenance management system used to ensure that equipment is properly maintained and addressed. The form is typically filled out after a regular temperature check on equipment, with the goal of identifying potential problems and scheduling maintenance accordingly. Before proceeding, make sure to review the equipment's asset ID and ensure that you are reporting on the correct unit. Duplicate entries can be reported and addressed, but please avoid entering incorrect information. 
-
-</thinking>
-
 # equipment_heat_monitoring_report - Help Guide
 ## Purpose
 The equipment heat monitoring report form is used to collect data on equipment temperature readings, issues, and maintenance activities. This form is used to identify potential problems and schedule maintenance for equipment.

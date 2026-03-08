@@ -1,8 +1,3 @@
-<thinking>
-We are creating a form to help store owners or administrators to collect referrals from customers who have referred other customers to their online store. This form will help us track and manage these referrals more effectively.
-The form will be used to collect various details such as customer contact information, referral source and frequency, store contact information, and any additional messages or comments. We need to ensure that users understand the purpose and use of each field correctly to provide accurate and useful data.
-</thinking>
-
 # online_store_referral_form - Help Guide
 ## Purpose
 This form is designed to collect referrals from customers who have recommended your online store to others.

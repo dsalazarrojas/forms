@@ -1,18 +1,3 @@
-<thinking>
-This form is intended for users to provide information for a Spring Essentials Box Order Form. This form likely collects data related to ordering a product or service, such as the Spring Essentials Box. To ensure that the form is used correctly, users must select a valid option for the "spring_essentials_box_order_from_page_1" field, which is a select multiple field. This field is not required, but it is essential for users to provide a valid response to ensure that their order is processed correctly.
-
-The other fields on the form are optional and intended to collect additional information related to the order. These fields include "spring_essentials_box_order_from_email", "spring_essentials_box_order_form_phone", "spring_essentials_box_order_form_date", "spring_essentials_box_order_form_time", "spring_essentials_box_order_form_note", "spring_essentials_box_order_from_text", "spring_essentials_box_order_from_integer", "spring_essentials_box_order_from_decimal", and "spring_essentials_box_order_from_select_one".
-
-To avoid any issues with the form, users should ensure that they provide valid information in all required fields. In this case, the only required field is "spring_essentials_box_order_from_page_1". Users can leave the other fields blank, but doing so may result in incomplete or incorrect information being collected.
-
-The form's "spring_essentials_box_order_from_email" field is an email field, intended to collect the user's email address. This field is optional and does not require a valid email address to be filled out. Users can leave this field blank or fill it out with a valid email address.
-
-The other fields on the form are all optional, including the "spring_essentials_box_order_from_phone", "spring_essentials_box_order_form_date", "spring_essentials_box_order_form_time", "spring_essentials_box_order_form_note", "spring_essentials_box_order_from_text", "spring_essentials_box_order_from_integer", "spring_essentials_box_order_from_decimal", and "spring_essentials_box_order_from_select_one" fields.
-
-Users should provide the same level of detail as necessary and relevant for the purpose of the form. For example, if a user is providing their email address, they should ensure that it is valid and up-to-date. Similarly, if a user is providing their phone number, they should ensure that it is correct and complete.
-
-In summary, the Spring Essentials Box Order Form is designed to collect information related to ordering a product or service. Users must provide valid information for the "spring_essentials_box_order_from_page_1" field, but can leave the other fields blank. Each field has its own specific purpose and users should provide information according to that purpose.</thinking>
-
 # Spring Essentials Box Order From - Help Guide
 
 ## Purpose

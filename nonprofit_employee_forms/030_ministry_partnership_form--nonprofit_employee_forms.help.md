@@ -1,18 +1,3 @@
-<thinking>
-The Ministry Partnership Form is used to document and track partnerships between the ministry and external organizations. It captures essential details such as the partner's organization, name, contact information, relationship, and agreement terms. This form helps to maintain accurate records and facilitate communication between the ministry and its partners. Before filling out this form, please ensure that the partnership information is accurate and up-to-date. It's recommended to review the form carefully to avoid duplication or missing any important details.
-
-This form has multiple pages, and each page corresponds to a specific section of the partnership information. Please complete each page according to the instructions provided.
-
-To complete this form, follow these steps:
-
-1. Fill in the partner's organization and name on the first page.
-2. Provide the date and time of the partnership on the second page.
-3. Enter the partner's contact information, including email and phone number, on the third page.
-4. Select the type of relationship between the ministry and partner on the fourth page.
-5. Enter the details of the partnership, including agreement date, time, location, and terms, on the subsequent pages.
-6. Review and verify the entered information before submitting the form.
-</thinking>
-
 # Ministry Partnership Form - Help Guide
 ## Purpose
 The Ministry Partnership Form is used to document and track partnerships between the ministry and external organizations.

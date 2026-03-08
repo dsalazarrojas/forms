@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hospital Daily Statistics Report Form - Help Guide
 ## Purpose
 The Hospital Daily Statistics Report Form is used to collect and display daily statistics for hospital operations. It helps track important metrics such as patient activity, staff availability, and facility utilization.

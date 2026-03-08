@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from new agricultural workers onboarding to the company, including their contact details, medical conditions, and work schedule. This form helps ensure that all necessary information is gathered for records and compliance purposes. Please fill out this form accurately and completely. If you have completed this form before, please make sure to review it carefully to ensure you are not duplicating any information.
-
-</thinking>
-
 # Agricultural Worker Onboarding Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information from new agricultural workers onboarding to the company, including contact details, medical conditions, and work schedule. It ensures that all necessary information is gathered for records and compliance purposes.

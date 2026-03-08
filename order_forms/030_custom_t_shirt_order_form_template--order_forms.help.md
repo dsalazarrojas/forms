@@ -1,13 +1,3 @@
-<thinking>
-
-The goal is to provide a user-friendly help guide for the Custom T Shirt Order Form Template. This form is designed to collect information for custom t-shirt orders, allowing users to input their preferences for design, style, color, size, and other relevant details.
-
-Before creating the form, it's essential to ensure that the fields and options are clear and concise, and that the form's purpose and scope are well-defined. This will help prevent duplication and ensure that users understand what information is required and what they need to input.
-
-Upon reviewing the YAML, it appears that the form includes fields for customer information (name, email, phone number, etc.), order details (t-shirt style, color, size, price, quantity, etc.), and order status. Some fields have multiple options (e.g., select_multiple, select_one), which requires clear explanations to avoid confusion.
-
-</thinking>
-
 # Custom T Shirt Order Form Template - Help Guide
 ## Purpose
 This form is designed to collect information for custom t-shirt orders. Users can input their preferences for t-shirt design, style, color, size, price, quantity, and other relevant details to create a custom t-shirt order.

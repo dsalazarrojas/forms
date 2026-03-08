@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We've carefully crafted this Generic Volunteer Application Form to collect essential information from potential volunteers. This form is designed to be completed by individuals interested in volunteering with our organization. To ensure that we can effectively match volunteers with opportunities, please fill out the form accurately and thoroughly. 
 
 Before submitting your application, please review the form carefully to avoid duplicate submissions and ensure that you're not applying for roles that don't fit your availability. We appreciate your interest in volunteering with us and look forward to reviewing your application.

@@ -1,34 +1,3 @@
-<thinking>
-This form is used to request promotional materials for internal or external use. It captures user contact information, the promotional material being requested, and additional details about the request.
-To ensure accurate processing and efficient handling of requests, please fill in all required fields. 
-The form fields are used to capture the following information: 
-- user name: This field is used to identify the user making the request.
-- company: This field is used to record the user's company name.
-- contact email: This field is used to record the user's email address.
-- contact phone: This field is a required field to capture the user's phone number for further communication.
-- promotional material: This field is a select-one type field used to select the promotional material being requested.
-- request details: This field is used to capture any additional information the user wants to include with their request.
-- additional comments: This field is used for the user to include any further comments about their request.
-- assigned tool: This field is used to record the tool assigned to the request.
-- assigned tool name: This field is used to record the name of the tool assigned to the request.
-- assigned tool url: This field is used to record the URL of the tool assigned.
-- created by: This field is used to capture who created the request.
-- created date: This field is used to record the date the request was created.
-- created time: This field is used to record the time the request was created.
-- updated by: This field is used to capture who updated the request.
-- updated date: This field is used to record the date the request was updated.
-- updated time: This field is used to record the time the request was updated.
-- form id: This field is used to record the form id.
-- category: This field is used to record the category of the form.
-- description: This field is used to record a description about the form.
-- form title: This field is used to record the title of the form.
-- form output file: This field is used to record the file output of the form.
-- form assigned tool: This field is used to record the tool assigned to the form.
-- form assigned tool name: This field is used to record the name of the tool assigned to the form.
-- form assigned tool url: This field is used to record the URL of the tool assigned to the form.
-- assigned jimmy: This field is used to record the name of the jimmy assigned to the form.
-</thinking>
-
 # promotional_material_order_form - Help Guide
 ## Purpose
 This form is used to request promotional materials for internal or external use.

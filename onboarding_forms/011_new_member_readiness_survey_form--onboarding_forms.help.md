@@ -1,12 +1,3 @@
-<thinking>
-We're creating a "New Member Readiness Survey Form" to help assess the preparedness of new members for onboarding, identify any concerns or questions they may have, and tailor the onboarding process to meet their individual needs. This form will guide the user through a series of questions that cover various aspects of their readiness, preferences, and availability for onboarding. This process aims to improve the overall onboarding experience for new members. 
-
-Please note that this form is not meant to be a comprehensive evaluation, but rather a helpful tool to gauge their general preparedness and preferences at the onset of the onboarding process.
-
-The purpose of this form is to gather information about the new member's background, preferences, and needs to ensure a smooth onboarding process. The information gathered from this form will be used to provide the best possible support and guidance to the new member during the onboarding process.
-
-</thinking>
-
 # New Member Readiness Survey Form - Help Guide
 ## Purpose
 

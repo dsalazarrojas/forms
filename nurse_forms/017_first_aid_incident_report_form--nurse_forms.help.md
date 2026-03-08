@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to document incidents requiring first aid treatment within a hospital or healthcare setting. This form captures critical information such as patient details, incident circumstances, and first aid response. It is intended to aid nurses and healthcare providers in efficiently documenting and addressing patient care.
-
-When creating this form, we've considered the importance of collecting relevant information without duplicating effort. Each field has been carefully crafted to gather essential details while minimizing redundancy. 
-
-This form is designed for use in a healthcare setting, and as such, certain fields like patient name and date are crucial. Other fields like first aider name, phone, and email are intended to capture information from the person providing first aid, which can be useful in case of follow-up care or communication. 
-
-Before proceeding, ensure that the patient's identity is known and that the incident location is accurately recorded. 
-
-</thinking>
-
 # first_aid_incident_report_form - Help Guide
 
 ## Purpose

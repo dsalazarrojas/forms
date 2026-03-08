@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # offshore_wind_turbine_condition_monitoring_log - Help Guide
 
 ## Purpose

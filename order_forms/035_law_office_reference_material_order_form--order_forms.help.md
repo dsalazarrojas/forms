@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for lawyers and staff members to place orders for reference materials such as legal reference books and court cases. The form is used to gather necessary information about the order, including the materials requested, the date needed, the contact person and their details, and the priority of the order. This form is typically filled out by law office staff, and the information collected will be used to process and fulfill the order. To ensure accuracy and reduce errors, please review the fields carefully before submitting. Please note that this form is for internal use within the law office and is not intended for external use.
-</thinking>
-
 # Law Office Reference Material Order Form - Help Guide
 ## Purpose
 The Law Office Reference Material Order Form is designed to collect information for ordering reference materials such as legal reference books and court cases. This form is used to gather necessary details to process and fulfill the order.

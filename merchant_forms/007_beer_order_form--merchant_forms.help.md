@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information for beer orders from customers. To determine the correct form to display, we will need to ensure that the form purpose is relevant and not a duplicate. For example, if the order date is already filled in the form, the user will not need to fill this field again. The form will be displayed based on the available selections, and the customer will be able to select from different options for each field.
-</thinking>
-
 # Beer Order Form - Help Guide
 ## Purpose
 This form is designed to gather information for beer orders from customers. The form will be displayed based on the available selections and will guide the customer through the ordering process.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Daycare Video Monitoring Consent Form - Help Guide
 
 ## Purpose

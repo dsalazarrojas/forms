@@ -1,5 +1,3 @@
-<thinking>Before designing this form, I would like to clarify the form's purpose and potential issues that may arise during the design process. From the provided YAML, it appears that the form is intended to gather extra requests or preferences from the user, with a focus on installation-related extras. There are multiple fields with similar labels, which may cause confusion. To ensure clarity, each field should be explained in detail, and the user's attention should be drawn to the fact that some fields are not required. Additionally, the form seems to have a large number of identical fields with only slight variations in options. This repetition should be addressed through a more structured approach.</thinking>
-
 # Select Extras For Your Installation - Help Guide
 
 ## Purpose

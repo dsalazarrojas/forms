@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect order information from customers.
-The form is likely being used by businesses to gather customer data for sales purposes.
-Before filling out this form, please ensure you are filling it out for the correct purpose and not duplicating your efforts.
-</thinking>
-
 # Order Information Collection Form - Help Guide
 ## Purpose
 This form is designed to collect order information from customers, such as customer details and order details. The collected data will be used for sales purposes.

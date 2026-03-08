@@ -1,8 +1,3 @@
-<thinking>
-This is the form for pre-ordering team-branded wristbands. The form requires the following information: customer's first and last names, email, phone number, quantity of wristbands, size, color, date, time, note, team name, event date, event time, event location, team logo, team image, team description, team URL, team Facebook, team Twitter, team Instagram, team email, team phone, team address, and a submit button. This information is likely for internal use or for branding purposes.
-
-</thinking>
-
 # team_branded_wristband_preorder_form - Help Guide
 ## Purpose
 This form is designed to collect information for pre-ordering team-branded wristbands. It is intended to gather all necessary details for the order, including personal and team information.

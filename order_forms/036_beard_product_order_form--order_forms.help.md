@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Beard Product Order Form - Help Guide
 
 ## Purpose

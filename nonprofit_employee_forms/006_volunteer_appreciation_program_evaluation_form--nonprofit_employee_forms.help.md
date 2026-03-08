@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Volunteer Appreciation Program Evaluation Form - Help Guide
 ## Purpose
 This form is used to evaluate the effectiveness of our volunteer appreciation program. It gathers information about volunteers' experiences, feedback, and suggestions for recognition methods, as well as their roles and departments within the organization. The form is used to identify areas of improvement and to provide valuable insights for future program development.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a repair order from a customer. It is essential to understand that this form is intended to be used for customers to provide details about their repair orders, and it should not be used for other purposes. To prevent duplication of efforts, please ensure that a single customer's repair order is not entered multiple times.
-</thinking>
-
 # Repair Order Form - Help Guide
 ## Purpose
 The Repair Order Form is a tool used to gather essential information from customers about their repair orders. This form helps to ensure that all necessary details are captured accurately and efficiently.

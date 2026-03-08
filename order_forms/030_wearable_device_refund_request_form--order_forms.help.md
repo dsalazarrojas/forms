@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to facilitate a refund request for wearable devices. To fill out the form, the user must provide their user name, order ID, order date and time, reason for refund, type of device (worn or other), serial number of the device, and other relevant details such as attachments and customer information.
-The form is intended to be filled out by customers who wish to initiate a refund for their wearable device. To avoid any confusion, please ensure that you are filling out the correct form for the correct reason.
-</thinking>
-
 # Wearable Device Refund Request Form - Help Guide
 ## Purpose
 This form is designed to help customers initiate a refund request for a wearable device that they have purchased from our store. It gathers essential information to expedite the refund process.

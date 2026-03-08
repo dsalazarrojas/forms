@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect nominations for the Research Methodology Innovation Award. It is essential to ensure that the nomination process is conducted fairly and efficiently, avoiding duplication and ensuring that the correct information is captured.
-To avoid duplication, please check if a similar award has already been made to the nominee in the past 3 years to ensure that this nomination is not redundant.
-</thinking>
-
 # Research Methodology Innovation Award Nomination Form - Help Guide
 ## Purpose
 The Research Methodology Innovation Award Nomination Form is designed to collect nominations for the Research Methodology Innovation Award. It is a crucial component of the award process, ensuring that deserving nominees receive recognition for their outstanding work.

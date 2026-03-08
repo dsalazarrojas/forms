@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information for raw material orders. The form is likely used internally within the organization for purchasing or procurement purposes, allowing users to input details about the raw material to be ordered. The form might be used in a production or supply chain setting, where accurate tracking and documentation of orders are crucial. The form's layout and fields may vary based on the organization's internal processes and needs. This guide will cover the form's purpose, how to complete it, and a field-by-field explanation to ensure users understand what each field is for.
-</thinking>
-
 # Raw Material Order Form - Help Guide
 ## Purpose
 The Raw Material Order Form is used to gather information for raw material orders, facilitating the purchasing or procurement process for production or supply chain teams.

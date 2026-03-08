@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect patient information and wound details for assessment and treatment planning. The form is designed to be completed by healthcare professionals for medical use. Before filling out this form, please confirm that the patient's information and wound details are accurate and up-to-date.
-</thinking>
-
 # Wound Assessment Form - Help Guide
 ## Purpose
 The Wound Assessment Form is a tool used by healthcare professionals to collect patient information and wound details for assessment and treatment planning. This form helps gather relevant data to provide effective care and treatment for patients with wounds.

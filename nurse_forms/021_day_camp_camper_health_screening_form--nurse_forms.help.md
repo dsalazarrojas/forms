@@ -1,10 +1,3 @@
-<thinking> 
-The Day Camp Camper Health Screening Form is designed to gather essential health information from campers before their participation in a day camp program. The purpose of this form is to identify any potential health risks or conditions that may affect a camper's safety and well-being during the camp experience. By completing this form, parents or guardians can provide important health-related information about their child, ensuring a safe and enjoyable experience for all campers.
-
-This form is not intended to be used as a substitute for a medical professional's assessment or evaluation. If a camper has a known medical condition or allergy, it is recommended to consult with a healthcare provider before submitting this form.
-
-</thinking>
-
 # Day Camp Camper Health Screening Form - Help Guide
 ## Purpose
 The Day Camp Camper Health Screening Form is designed to gather essential health information from campers before their participation in a day camp program.

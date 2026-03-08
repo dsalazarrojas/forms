@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information for ordering beverage flavor concentrates, likely from a business to business or business to customer context. The form should be used for a single order at a time. The following fields are required for the order to be processed: Full name, Email address, Date, Primary selection, and Please confirm agreement. The remaining fields are optional and can be used for additional context or information. Please ensure that the form is filled out correctly and thoroughly, as this will aid in the efficient processing of the order.
-</thinking>
-
 # Beverage Flavor Concentrate Order Form - Help Guide
 ## Purpose
 This form is used to collect information for ordering beverage flavor concentrates.

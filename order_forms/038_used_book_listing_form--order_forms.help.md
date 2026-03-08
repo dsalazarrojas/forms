@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about used books being listed for sale. It includes fields for title, author, ISBN, publisher, year of publication, price, condition, quantity, shipping cost, image, book description, category, tags, used by, email, phone number, address, website, contact person, contact number, notes, date listed, time listed, and form submission status. The form is likely used by book sellers to list their used books for sale, and the fields are designed to provide relevant information for potential buyers.
-This form appears to be a comprehensive list of fields related to used book sales, without any obvious duplicates or inconsistencies. The fields cover various aspects of the book, including its title, author, condition, price, and listing details.
-</thinking>
-
 # Used Book Listing Form - Help Guide
 
 ## Purpose

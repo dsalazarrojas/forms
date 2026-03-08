@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate the ordering of a CNC programming toolset, a specialized set of tools for CNC (Computer Numerical Control) programming. The form collects information from the customer, including personal and contact details, shipping and billing information, and specifics about the toolset package, software requirements, hardware components, machine compatibility, and other relevant details. This form is intended to ensure accurate and efficient ordering and delivery of the toolset to the customer. Please fill out the form carefully to ensure the order is correct. Before proceeding, please review this form to confirm that you have provided all necessary information and that the order details are accurate.
-</thinking>
-
 # CNC Programming Toolset Order Form - Help Guide
 ## Purpose
 This form is used to collect information for the ordering of a CNC programming toolset. Please fill out the form carefully to ensure accurate ordering and delivery of the toolset.

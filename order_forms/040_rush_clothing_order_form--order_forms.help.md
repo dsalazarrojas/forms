@@ -1,7 +1,3 @@
-<thinking>
-The internal logic of the Rush Clothing Order Form is designed to collect customer information for orders, including contact details, order specifics, and shipping information. This form is meant to be user-friendly and minimize the need for customers to re-type or re-enter information when checking out. By filling out this form, customers will be able to provide accurate information about their orders, ensuring efficient and accurate processing and shipping.
-</thinking>
-
 # Rush Clothing Order Form - Help Guide
 
 ## Purpose

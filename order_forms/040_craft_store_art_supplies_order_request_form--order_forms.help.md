@@ -1,8 +1,3 @@
-<thinking>
-This form is for customers to request art supplies from the craft store. It is used to capture customer information, contact details, and order specifics, including the type and quantity of art supplies needed. 
-The form will be reviewed and processed by store staff to fulfill the order.
-</thinking>
-
 # Craft Store Art Supplies Order Request Form - Help Guide
 ## Purpose
 The Craft Store Art Supplies Order Request Form is a tool for customers to request art supplies from the store. By filling out this form, customers can provide their contact information and details about the art supplies they need to place an order.

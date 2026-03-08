@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for obtaining a model release from an individual model, typically a photographer or artist, allowing them to use their likeness, image, or other creative works. This form is intended to be used when a photographer or artist wants to publish, sell, or otherwise use the model's image, and needs to obtain their explicit consent. The form is not intended for other purposes such as property releases, non-exclusive releases, or other types of forms.
-
-</thinking>
-
 # Model Release Form - Help Guide
 ## Purpose
 The Model Release Form is used to obtain a model's consent for the use of their likeness, image, or other creative works. It is a crucial document that ensures the model's rights and interests are protected.

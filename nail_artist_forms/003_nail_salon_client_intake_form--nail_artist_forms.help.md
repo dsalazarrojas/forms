@@ -1,7 +1,3 @@
-<thinking>As I review the provided YAML, I understand that this form is designed for nail salons to collect client information and preferences for appointment booking. The form is divided into five fields: Client Contact Details, Client Payments, Client E-Signatures, Appointment Booking, and Email. This form likely aims to gather essential information from clients before booking an appointment, which can help the salon tailor services to individual clients' needs and preferences.
-
-To ensure this form is used correctly, I'll create a clear and concise user-facing help guide to assist end-users in completing it effectively.</thinking>
-
 # Nail Salon Client Intake Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from clients before booking an appointment at a nail salon. By providing accurate and complete data, you'll help our team tailor services to meet your unique needs and preferences.

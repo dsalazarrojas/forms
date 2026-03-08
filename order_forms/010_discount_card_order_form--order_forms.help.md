@@ -1,7 +1,3 @@
-<thinking>
-We are creating a form to collect customer information for our discount card order process. The form is used for customers to provide their personal and business details in order to apply for a discount card. We are not duplicating any existing forms, and this form will serve as a one-off collection of customer data for our sales team to process. The form collects the following fields: first name, last name, email, business type, discount type, phone number, street address, city, state, and zip code.
-</thinking>
-
 # Discount Card Order Form - Help Guide
 ## Purpose
 The Discount Card Order Form is used to collect customer information for our discount card order process.

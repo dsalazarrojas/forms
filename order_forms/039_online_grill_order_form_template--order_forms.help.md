@@ -1,8 +1,3 @@
-<thinking>
-This form is an online order form template, used by customers to place orders with a restaurant. It's likely used for online ordering or takeout services. The form has multiple pages, each with different fields to collect various types of information from the customer. The fields can be filled out by customers in a text-based format, with some fields requiring specific input types (e.g., email, number, date). The form also includes a select multiple field for grill type options. It's essential to ensure that the form's fields are filled out accurately and correctly to facilitate seamless order processing. This help guide will walk through the form's purpose, how to complete it, and a breakdown of each field's meaning and requirements.
-
-</thinking>
-
 # online_grill_order_form_template - Help Guide
 ## Purpose
 This form is used to collect information from customers for their orders with the restaurant. It's designed to gather essential details about the customer and their order preferences.

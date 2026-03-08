@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Team Media Kit Reprint Order Form - Help Guide
 
 ## Purpose

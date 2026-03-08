@@ -1,9 +1,4 @@
-> <thinking>
-This form is designed to collect information related to the sale or lease of a product or equipment. The form is called "Product And Equipment Agreement" and it is a general-purpose template for capturing details about a product or equipment, contact information, and terms of agreement.
-To ensure that this form serves its intended purpose, let's verify that it doesn't contain sensitive or private information, and that its fields align with the form's intended use case. We will aim to create a clear and concise user guide that is easy to understand and use.
-</thinking>
-
-# Product And Equipment Agreement - Help Guide
+> # Product And Equipment Agreement - Help Guide
 ## Purpose
 The Product And Equipment Agreement form is designed to collect information related to the sale or lease of a product or equipment. This form is intended for businesses and individuals who need to document the terms and conditions of a product or equipment sale or lease.
 

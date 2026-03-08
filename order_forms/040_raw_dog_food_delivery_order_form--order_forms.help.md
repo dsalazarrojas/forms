@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to collect information from pet owners for the delivery of raw dog food. The form is meant to be completed by pet owners who wish to place an order for raw dog food delivery. The form will ask for details such as delivery preferences, payment information, delivery schedule, order total, raw food type, raw dog food quantity, delivery time, and pet name. This guide will walk the user through each section of the form to ensure that they are able to complete it successfully. Please review each field to confirm that it aligns with your intended use case.</thinking>
-
 # Raw Dog Food Delivery Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from pet owners for the delivery of raw dog food. It will help the delivery service process your order efficiently and ensure that your pet receives the correct food at the right time.

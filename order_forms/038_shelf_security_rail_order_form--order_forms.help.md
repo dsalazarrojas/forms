@@ -1,9 +1,3 @@
-<thinking>
-
-We need to determine whether the form is being used correctly. This form is intended for customers to place orders for shelf security rails, which are likely safety barriers for shelves to prevent items from falling off. The form should only be used for orders that are not already in progress or cancelled. Please ensure that you are not duplicating an existing order.
-
-</thinking>
-
 # Shelf Security Rail Order Form - Help Guide
 ## Purpose
 The Shelf Security Rail Order Form is a form used to collect information for orders of shelf security rails. It is used to guide the customer through the process of placing an order for safety barriers for shelves.

@@ -1,9 +1,3 @@
-<thinking>
-This is a form for creating email orders, which allows users to submit their email address, name, and other relevant information related to their order.
-This form appears to be designed for customers to enter their order details, such as email, name, order notes, order total, order date, and other additional information like category, status, type, subject, message, attachments, and more.
-To create a comprehensive guide, I will ensure that I cover all the fields in this form accurately and clearly, without assuming any business logic that might not be present.
-</thinking>
-
 # Email Order Form - Help Guide
 ## Purpose
 This form is for customers to submit their email address, name, and other relevant information related to their order, to facilitate order processing and communication.

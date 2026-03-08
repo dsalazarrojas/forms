@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for customers to order food for events. The form is designed to gather necessary information from the customer, including their contact details, event type, food preferences, and location. It is intended for both personal and corporate events, such as weddings, birthday parties, and corporate events.
-
-Before proceeding, it is essential to ensure that this form is relevant and not duplicated in other contexts. If you are unsure about the form's purpose or have questions, please contact the relevant support team for guidance.
-
-</thinking>
-
 # Food Order Application Form - Help Guide
 ## Purpose
 This form is used to gather information from customers for food orders for events such as weddings, birthday parties, and corporate events.

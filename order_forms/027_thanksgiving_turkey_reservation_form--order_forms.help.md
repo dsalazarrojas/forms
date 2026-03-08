@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # thanksgiving_turkey_reservation_form - Help Guide
 ## Purpose
 The Thanksgiving Turkey Reservation Form is a simple form designed to collect information for a Thanksgiving event. This form allows users to submit their reservation details, including their name, address, phone number, reservation date, and more. It's intended for individual or group reservations.

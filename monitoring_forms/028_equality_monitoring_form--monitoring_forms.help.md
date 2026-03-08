@@ -1,17 +1,3 @@
-<thinking>
-
-This form is designed to collect information for equality monitoring purposes. Its purpose is to gather details about individuals' demographic information and their experiences with actions taken to address equality-related issues. The form is divided into several sections, each focusing on different aspects of equality monitoring. It's essential to complete the form accurately and thoroughly, ensuring that all required and optional fields are filled in according to the instructions.
-
-To determine if this form is relevant and not duplicated, consider the following:
-
-* Is the form used for equality monitoring purposes?
-* Does the form align with your organization's equality monitoring policies and procedures?
-* Are you completing the form for a specific equality monitoring task or audit?
-
-If you answered "no" to the last question, please reconsider using this form or contact the form's creator for guidance. Otherwise, proceed with the form completion instructions below.
-
-</thinking>
-
 # equality_monitoring_form - Help Guide
 ## Purpose
 The equality monitoring form is designed to collect demographic information and experiences with actions taken to address equality-related issues.

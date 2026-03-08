@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a web hosting contract. The form is used to create multiple contracts for a user, each with its own terms and conditions. The form will ask for contact information, service level agreements, billing cycles, and payment terms for each contract. The form is divided into multiple sections, each corresponding to a contract, and the user can create multiple contracts. The form is intended for use by customers or administrators to create and manage contracts for web hosting services. This form is likely to be used in a business or enterprise setting. The form does not appear to be redundant, as each section is unique and collects different information for each contract. The form's purpose is to provide a structured way to collect and manage contract information for multiple contracts.
-</thinking>
-
 # Web Hosting Contract Form - Help Guide
 ## Purpose
 This form is used to create and manage multiple web hosting contracts. Each section of the form corresponds to a contract and collects different information for each contract.

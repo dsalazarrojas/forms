@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information related to a refund process for a vending machine, which may be submitted by a merchant or customer for various reasons. Before filling out this form, ensure that the refund request is not already in progress or pending. To avoid any confusion, it's essential to confirm that you're submitting a new request and not duplicating an existing one. If you're unsure, please review your previous submissions or contact the relevant authorities.
-</thinking>
-
 # vending_machine_refund_form - Help Guide
 ## Purpose
 The purpose of this form is to collect details about a refund for a vending machine transaction. It is designed to be filled out by merchants or customers who need to initiate a refund for a specific transaction.

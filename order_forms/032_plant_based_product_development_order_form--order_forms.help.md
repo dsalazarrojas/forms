@@ -1,14 +1,3 @@
-<thinking>
-This form is used to gather information for the development of plant-based products. It is used by production team members to collect data on product information, production location, ingredients, target market, and production cost, time, and method. This form helps to ensure that all necessary information is collected before starting the production process. 
-
-The form is designed to be filled out by production team members, and it is not intended for public use. 
-
-The form has multiple pages, each with a different set of fields. This guide will walk through each page and explain the purpose and usage of each field.
-
-Please note that while the form has some optional fields, it is recommended to fill out all required fields to ensure that the production process is properly completed.
-
-</thinking>
-
 # Plant Based Product Development Order Form - Help Guide
 ## Purpose
 The Plant Based Product Development Order Form is used to collect information for the development of plant-based products. This form is used by production team members to ensure that all necessary information is collected before starting the production process.

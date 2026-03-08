@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information related to ordering streaming devices. This form is meant to be used by users who need to place orders for streaming devices. 
-The fields provided are for general order information. They are not intended for complex technical specifications.
-The form is not meant to be used for high-volume orders or commercial use. It is for individual or small-scale ordering.
-The form fields are designed to be simple and easy to understand. Each field is meant to capture specific information to facilitate the order process.
-The fields are not meant to be filled out in any specific order. The user can fill out the form in any order they prefer.
-</thinking>
-
 # Streaming Device Order Form - Help Guide
 ## Purpose
 The Streaming Device Order Form is used to collect information for individual or small-scale orders of streaming devices. This form is not intended for high-volume orders or commercial use.

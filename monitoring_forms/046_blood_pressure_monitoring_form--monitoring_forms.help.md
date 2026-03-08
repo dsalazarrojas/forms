@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect blood pressure monitoring data from patients. The purpose of this form is to record and monitor the blood pressure readings of patients. This form is meant to be filled out by healthcare providers or patients themselves to track and categorize blood pressure readings. The form will ask for various information such as patient name, date of birth, blood pressure readings, and other relevant medical information. This form will help healthcare providers to quickly identify any irregularities in blood pressure readings and take necessary actions.
-
-The form will be divided into several sections, each with its own set of questions or fields. Each field will have a specific label and explanation to guide the user through the process. The form will also have options and hints to help the user fill out the form correctly.
-
-The user will be able to complete the form by filling out each field with the required information. The form will ask for information such as patient name, date of birth, blood pressure readings, and other relevant medical information. The user will also have options to choose from for certain fields such as measurement arm, patient position, and blood pressure category.
-
-</thinking>
-
 # Blood Pressure Monitoring Form - Help Guide
 ## Purpose
 The Blood Pressure Monitoring Form is designed to collect and monitor blood pressure readings from patients. This form is meant to be filled out by healthcare providers or patients themselves to track and categorize blood pressure readings.

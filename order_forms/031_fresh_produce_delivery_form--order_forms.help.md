@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers about their fresh produce delivery order. The form is likely used by a business that offers fresh produce delivery services, and it's intended to capture all the relevant details about the customer, their order, and the delivery logistics. Before proceeding, ensure that you have the necessary permissions and approvals to complete this form. If you're unsure about any field, please refer to your supervisor or contact the relevant department for guidance.
-</thinking>
-
 # Fresh Produce Delivery Form - Help Guide
 ## Purpose
 This form is used to collect information from customers about their fresh produce delivery order, ensuring accurate and efficient processing of their request.

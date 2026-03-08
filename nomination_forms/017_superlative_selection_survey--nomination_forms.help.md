@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Superlative Selection Survey - Help Guide
 
 ## Purpose

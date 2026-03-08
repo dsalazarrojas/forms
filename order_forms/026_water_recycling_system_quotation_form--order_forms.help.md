@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # water_recycling_system_quotation_form - Help Guide
 ## Purpose
 This form is used for quoting a water recycling system, which helps in gathering all the necessary information from both the customer and the supplier to process a quotation. The form includes various fields to capture customer and supplier details, quotation details, and other relevant information.

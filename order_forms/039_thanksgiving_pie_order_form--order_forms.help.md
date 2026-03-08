@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather order details for a thanksgiving pie order. It's likely used in a business setting for a company that sells or provides pies for Thanksgiving gatherings. The form has several pages, each with its own set of fields that are filled out by the customer. The form's fields include order details, customer details, pie options, name, email, phone number, address, and total pies. The purpose of this form is to ensure that the customer's order is accurate and complete so that the business can fulfill their order correctly. 
-</thinking>
-
 # thanksgiving_pie_order_form - Help Guide
 ## Purpose
 This form is for customers to provide their order details, including type of pie, customer information, and other relevant details so that the business can fulfill their order correctly.

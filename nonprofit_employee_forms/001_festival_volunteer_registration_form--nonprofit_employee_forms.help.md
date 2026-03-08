@@ -1,5 +1,3 @@
-<thinking>This form is intended to collect information from prospective volunteers for festival events. The form is designed to gather personal details, availability, and specific event-related information. This form is used to manage volunteer registrations for events held by the organization. Please ensure that you're filling this form for the correct event and that you've been invited or have a legitimate reason to participate. If you have any questions or concerns, please contact us before filling the form.</thinking>
-
 # Festival Volunteer Registration Form - Help Guide
 
 ## Purpose

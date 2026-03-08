@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to be used for setting up an onboarding process for new employees in an organization. The form allows administrators to specify various settings for onboarding tasks and notifications, including the notification channel, time, and frequency, as well as the type and frequency of documents and tasks. This form is likely to be used by HR representatives or onboarding administrators to create a standardized onboarding process for new employees.
-
-It's essential to complete this form carefully, as the settings configured here will affect the onboarding experience for new employees. Please review the form fields carefully and ensure that you select the options that align with your organization's onboarding policies and procedures.
-
-Before proceeding, make sure you have the necessary permissions and access to complete this form. If you're unsure about any of the form fields or options, refer to your organization's onboarding policies and procedures for guidance.
-
-This form has been designed to be user-friendly and easy to navigate. However, if you need assistance or have any questions, don't hesitate to reach out to your onboarding team or IT department for support.
-
-</thinking>
-
 # Employee Onboarding Bot Setup Form - Help Guide
 ## Purpose
 

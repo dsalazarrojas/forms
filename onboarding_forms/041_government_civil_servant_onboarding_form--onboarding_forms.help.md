@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from new hires to facilitate their onboarding process within the government civil service. The form will help track and monitor the progress of new employees through various stages of onboarding, ensuring that they are properly integrated into the organization. It is crucial to complete this form accurately and thoroughly to avoid any potential issues or misunderstandings.
-</thinking>
-
 # Government Civil Servant Onboarding Form - Help Guide
 ## Purpose
 This form is designed to collect information from new hires to ensure a smooth onboarding process. It gathers details about the new employee's job title, department, and status, as well as other relevant information such as job type, departmental unit, reporting manager, and employment status.

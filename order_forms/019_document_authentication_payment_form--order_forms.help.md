@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be related to payment information for document authentication services. The purpose of this form is to collect payment details to process a document authentication request.
-</thinking>
-
 # document-authentication-payment-form - Help Guide
 ## Purpose
 The document-authentication-payment-form is used to collect payment information for document authentication services.

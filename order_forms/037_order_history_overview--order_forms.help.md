@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # order_history_overview - Help Guide
 
 ## Purpose

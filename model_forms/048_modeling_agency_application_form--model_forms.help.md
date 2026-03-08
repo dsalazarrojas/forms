@@ -1,8 +1,3 @@
-<thinking>
-This form is used by modeling agencies to apply for modeling jobs and services. It is a comprehensive application form that collects personal and professional information from models and agencies. The form is designed to be completed by both models and agencies, and the information collected will be used for internal purposes only.
-We have tried to keep the form as simple and user-friendly as possible, but some fields may still require additional clarification for proper completion.
-</thinking>
-
 # Modeling Agency Application Form - Help Guide
 ## Purpose
 This form is used to collect information from modeling agencies to apply for modeling jobs and services.

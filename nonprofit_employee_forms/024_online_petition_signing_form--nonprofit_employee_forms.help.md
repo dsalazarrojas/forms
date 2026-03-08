@@ -1,8 +1,3 @@
-<thinking>
-This form is used for creating online petitions that can be used to raise support, awareness, or collect data from non-profit employees. The purpose of this form is to allow non-profit organizations to gather information and feedback from their employees and supporters. This form is designed to be a flexible tool that can be used for various purposes such as raising awareness about a particular issue, collecting data on employee feedback, or influencing decision-making processes within the organization.
-
-To ensure that the form is used effectively, it's essential to understand the purpose and requirements of each field. This help guide will walk you through the form's purpose, how to complete it, and a detailed explanation of each field.</thinking>
-
 # Online Petition Signing Form - Help Guide
 ## Purpose
 The purpose of this form is to create online petitions that can be used to raise support, awareness, or collect data from non-profit employees.

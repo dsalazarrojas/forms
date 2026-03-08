@@ -1,7 +1,3 @@
-<thinking>
-This is a form for creating and managing orders for a thanksgiving event. The form is used to collect information from customers about their orders, which will help in efficiently managing the event. This guide will help in understanding how to fill up this form correctly to get the best results.
-</thinking>
-
 # thanksgiving_order_form - Help Guide
 ## Purpose
 This form is used to collect information from customers for a thanksgiving event.

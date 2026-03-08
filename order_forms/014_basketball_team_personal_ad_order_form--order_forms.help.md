@@ -1,7 +1,3 @@
-<thinking>
-The "Basketball Team Personal Ad Order Form" is designed for parents or team representatives to place a personal ad in the season's program celebrating their child's or team member's participation in the basketball team. The form captures the essential details required for the team to create and print the ad, including the person ordering the ad, the player to be featured, and the ad's design specifications. This form ensures that all relevant information is provided accurately and completely, allowing for a smooth and timely process.
-</thinking>
-
 # Basketball Team Personal Ad Order Form - Help Guide
 ## Purpose
 The Basketball Team Personal Ad Order Form is designed for parents or team representatives to place a personal ad in the season's program celebrating their child's or team member's participation in the basketball team.

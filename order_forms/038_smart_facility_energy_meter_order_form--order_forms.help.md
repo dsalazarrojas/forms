@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for ordering energy meters for facilities. It is meant to be used by facility staff or managers to submit requests for new meter installations or upgrades. The form is part of a larger system for managing facility energy meter orders. 
-The form will guide you through the necessary information to place a successful order.
-</thinking>
-
 # Smart Facility Energy Meter Order Form - Help Guide
 ## Purpose
 The Smart Facility Energy Meter Order Form is a tool used to submit requests for new energy meter installations or upgrades for facilities. 

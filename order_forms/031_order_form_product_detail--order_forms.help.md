@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to collect detailed information about a specific product ordered by a customer. The purpose of this form is to gather essential data that can be used to fulfill the order and provide excellent customer service. To ensure accurate and complete data entry, please review this help guide carefully.
-
-Before proceeding, please note that this form is designed to be flexible and adaptable to different types of orders. However, some fields are marked as required (true) or optional (false), indicating that they are necessary or not necessary for the order to be processed.
-
-To avoid duplication of effort, please make sure to fill in the form only when it's relevant to the specific order.
-
-</thinking>
-
 # order_form_product_detail - Help Guide
 ## Purpose
 This form is used to collect detailed information about a specific product ordered by a customer.

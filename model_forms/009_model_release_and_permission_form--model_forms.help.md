@@ -1,10 +1,3 @@
-<thinking>
-The purpose of the Model Release And Permission Form is to obtain consent from individuals who have been photographed or recorded for use in various media, such as advertising, editorial, or promotional materials. The form is intended to be filled out by the subject of the photographs or recordings and by the photographer or agency responsible for the content. By signing, the individual grants permission for their likeness and image to be used in the specified context. This form helps ensure that the subject's rights are respected and that they have given their informed consent.
-
-To ensure this form is used correctly and consistently, it's essential to review the field explanations below.
-
-</thinking>
-
 # Model Release And Permission Form - Help Guide
 ## Purpose
 The Model Release And Permission Form is designed to obtain consent from individuals who have been photographed or recorded for use in various media. It ensures that their rights are respected and that they have given their informed consent for their likeness and image to be used in the specified context.

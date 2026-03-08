@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # thank_you_gift_acknowledgment_form - Help Guide
 ## Purpose
 

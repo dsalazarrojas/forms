@@ -1,6 +1,3 @@
-<thinking>
-This form is used for customers to pre order merchandise related to villains, such as t-shirts, stickers, or other products. The form is likely used by a business or organization that sells merchandise online. To ensure accuracy, the form has been reviewed to ensure that it meets the requirements for the purpose it serves. The form has been designed to be simple and easy to use, with clear labels and minimal required fields. All fields on the form are optional, but providing accurate information will help the customer's order to be processed correctly.</thinking>
-
 # Villains Merchandise Pre Order Form - Help Guide
 ## Purpose
 This form is used to pre order merchandise related to villains. Fill out the form to place your order.

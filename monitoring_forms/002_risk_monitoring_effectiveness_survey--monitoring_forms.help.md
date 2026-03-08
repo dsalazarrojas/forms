@@ -1,15 +1,3 @@
-<thinking>As a risk monitoring effectiveness survey, this form is designed to collect feedback on the current state of risk monitoring processes in an organization. The survey will help identify areas of improvement and track progress towards enhancing risk monitoring effectiveness. To ensure accurate and meaningful feedback, please answer the questions based on your actual experience and knowledge of the risk monitoring processes. If you have any questions or concerns, please feel free to reach out to the relevant stakeholders for clarification.
-
-Before starting, note that this form has multiple pages. You will need to complete each page consecutively, and some fields will have multiple selections. Don't worry, you will be able to review and edit your answers before submitting the form.
-
-This form is divided into two main sections: risk monitoring processes and risk levels. The risk monitoring processes section aims to gather information on the current state of risk monitoring processes, while the risk levels section will help you assess the risk level of specific areas.
-
-Please answer each question carefully, and if you're unsure about any question, try your best to provide an answer that reflects your understanding of the process or risk level.
-
-You can navigate between pages using the 'Next' and 'Back' buttons at the bottom of each page.
-
-When you're finished, click the 'Submit' button to save your answers.</thinking>
-
 # Risk Monitoring Effectiveness Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback on the current state of risk monitoring processes in an organization. This information will help identify areas of improvement and track progress towards enhancing risk monitoring effectiveness.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # custom_pop_up_banner_order_form - Help Guide
 
 ## Purpose

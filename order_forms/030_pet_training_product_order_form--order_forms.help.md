@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to enable customers to place orders for pet training products. To ensure a smooth ordering experience, please note that this form is intended for customers who are familiar with the products and services offered by the organization. 
-Please refrain from submitting the form if you are unsure or need help with product selection or ordering process. 
-Additionally, to prevent duplication of orders, please do not submit the form if you have already placed an order for the same product within the last 30 days. 
-The form will guide you through the necessary fields required for a successful order placement. 
-</thinking>
-
 # Pet Training Product Order Form - Help Guide
 ## Purpose
 This form is designed for customers to place orders for pet training products. It gathers the necessary information for the order, including customer details, product selection, and order specifics.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Structural Engineering Quotation Form - Help Guide
 
 ## Purpose

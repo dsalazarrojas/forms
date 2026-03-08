@@ -1,5 +1,3 @@
-<thinking>As a seasoned form designer and technical writer, I will create a user-facing help guide for the "tott_color_street_sample_request_form" form.</thinking>
-
 # tott_color_street_sample_request_form - Help Guide
 ## Purpose
 The "tott_color_street_sample_request_form" is a form used to request samples of different colors for street lighting purposes. The form collects information from customers, including their contact information, sample color selection, and order details. This guide will walk you through the process of filling out this form.

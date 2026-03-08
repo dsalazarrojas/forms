@@ -1,8 +1,3 @@
-<thinking>
-The form "Equipment Vibration Detector Order Form" is used for customers to order and track their equipment vibration detector needs. It is intended for customers who want to order or inquire about the availability of the product in their area and get it shipped to their address. 
-This guide is designed to help you understand the form and fill it out correctly.
-</thinking>
-
 # Equipment Vibration Detector Order Form - Help Guide
 ## Purpose
 This form is intended for customers to order the equipment vibration detector product or inquire about its availability.

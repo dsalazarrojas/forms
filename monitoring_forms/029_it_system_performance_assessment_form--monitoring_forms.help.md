@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for end-users who will be filling out the IT System Performance Assessment Form. The form is designed to collect information about the performance of IT systems, including general information, performance data, system information, network information, server information, database information, storage information, CPU information, memory information, and other related metrics. This form should only be filled out by individuals who have direct knowledge of the IT systems being assessed. If you are unsure about any of the information required, it is recommended to consult with the relevant IT teams before filling out this form.
-</thinking>
-
 # IT System Performance Assessment Form - Help Guide
 ## Purpose
 The IT System Performance Assessment Form is used to collect information about the performance of IT systems. This form is intended to be filled out by individuals with direct knowledge of the systems being assessed.

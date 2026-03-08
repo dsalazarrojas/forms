@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from customers and supermarkets for order processing and management. The form should not be used for other purposes. This form is a one-time use form for each order. It is assumed that the customer has already initiated communication with the supermarket and is ready to place an order. Please note that this form is not suitable for mass ordering or automated ordering processes.
-</thinking>
-
 # Supermarket Order Form - Help Guide
 ## Purpose
 The Supermarket Order Form is used by customers and supermarkets to collect and manage order information. It's a straightforward form that helps customers place orders with their preferred supermarket and provides a simple way for supermarkets to track and fulfill orders.

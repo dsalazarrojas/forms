@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for ordering school books. It will be used by students, teachers, and school administrators to create, manage, and track book orders. This form is not intended to be used for general contact or inquiry purposes. Please only use this form for book orders to avoid unnecessary information duplication and ensure accurate order tracking. Ensure all fields are completed accurately and consistently to facilitate efficient order processing and delivery.
-</thinking>
-
 # School Book Order Form - Help Guide
 ## Purpose
 This form is used to collect information for ordering school books.

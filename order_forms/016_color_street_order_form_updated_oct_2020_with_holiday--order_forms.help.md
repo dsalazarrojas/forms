@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Color Street Order Form - Updated Oct 2020 With Holiday - Help Guide
 ## Purpose
 This form is designed to allow users to order sets from the Color Street collection, with options specific to each holiday season.

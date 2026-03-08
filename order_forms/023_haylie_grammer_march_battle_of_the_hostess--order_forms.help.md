@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect personal and event-related information from users. The purpose of this form is to gather data for the "Haylie Grammer March Battle of the Hostess" event. This form is relevant for anyone who wants to participate in or be part of the event. Please do not submit this form if you are not planning on attending or participating in the event.
-</thinking>
-
 # haylie_grammer_march_battle_of_the_hostess - Help Guide
 ## Purpose
 The "haylie_grammer_march_battle_of_the_hostess" form is designed to collect personal and event-related information from users.

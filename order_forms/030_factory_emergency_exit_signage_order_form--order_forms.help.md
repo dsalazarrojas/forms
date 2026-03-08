@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information from end users for ordering emergency exit signage for a factory or manufacturing facility. The form is intended to gather details about the order, including the orderer's contact information, order status, and specific requirements for the exit signage. This form should be used when ordering exit signage for a factory or manufacturing facility, and is likely to be used by facility managers or purchasing personnel.
-
-The purpose of this form is to ensure that all necessary information is collected and that the order is accurate and complete. This form will help to reduce errors and increase efficiency in the ordering process.
-
-The fields are organized in a logical and clear manner, allowing for easy navigation and completion. Each field is explained in detail below.
-
-</thinking>
-
 # Factory Emergency Exit Signage Order Form - Help Guide
 ## Purpose
 This form is designed to collect information for ordering emergency exit signage for a factory or manufacturing facility.

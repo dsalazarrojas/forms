@@ -1,13 +1,3 @@
-<thinking>
-
-To determine the purpose and requirements of this form, let's analyze the provided YAML structure. This form appears to be a self-nomination form, likely used for nominating individuals or projects for recognition, awards, or other similar purposes. The form contains a variety of fields that ask for personal and project information, support details, and additional comments. 
-
-Given the presence of fields such as "self_nomination_form_category" and "self_nomination_form_position", it's reasonable to assume that the form is used to gather information about the nominee's category and position. Additionally, the presence of fields like "self_nomination_form_reason" and "self_nomination_form_support" suggests that the form is designed to collect the reasoning behind the nomination and any supporting evidence or arguments.
-
-The form also asks for additional comments and supporting details in multiple fields, indicating that the form is intended to gather comprehensive and detailed information about the nominee.
-
-</thinking>
-
 # Self Nomination Form - Help Guide
 ## Purpose
 The Self Nomination Form is designed to gather information from individuals or teams about their self-nomination for recognition, awards, or other purposes. This form is used to provide a detailed and comprehensive overview of the nominee's category, position, reason, and supporting information.

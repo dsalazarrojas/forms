@@ -1,7 +1,3 @@
-<thinking>
-We will create a help guide for the SaaS Onboarding Survey form. The form aims to collect information from new subscribers to a SaaS (Software as a Service) service. This guide will cover the purpose of the form, how to complete it, and a field-by-field explanation of each section.
-</thinking>
-
 # SaaS Onboarding Survey - Help Guide
 ## Purpose
 The SaaS Onboarding Survey is a form designed to collect essential information from new subscribers to a SaaS service. This information helps us understand your needs and preferences, ensuring a smooth and personalized onboarding experience.

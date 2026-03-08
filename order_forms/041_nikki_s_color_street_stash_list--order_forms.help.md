@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information related to a color street stash list. This form likely serves to manage and update the color street stash list, possibly for inventory or organizational purposes. It's essential to fill out this form correctly to ensure accurate data entry and avoid duplication of effort.
-</thinking>
-
 # nikkis_color_street_stash_list - Help Guide
 ## Purpose
 The form is used to collect and manage information about a color street stash list. It might be used to track colors in a warehouse, store, or inventory system.

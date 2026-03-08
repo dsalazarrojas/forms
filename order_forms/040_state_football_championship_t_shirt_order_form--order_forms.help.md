@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # state_football_championship_t_shirt_order_form - Help Guide
 
 ## Purpose

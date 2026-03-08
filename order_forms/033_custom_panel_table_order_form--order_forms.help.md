@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for custom panel table orders. This form is likely used in a business or retail setting for customers to place orders for custom-made tables. The form requires various pieces of information such as table size, material, and payment details. It also includes fields for customer and shipping information. The form seems to be comprehensive, covering different aspects of the order process.
-
-Before proceeding, ensure that all fields are relevant to your specific use case and not duplicated. The form may need to be adapted or sections removed to fit the actual requirements of your business.
-
-</thinking>
-
 # custom_panel_table_order_form - Help Guide
 ## Purpose
 The custom_panel_table_order_form is designed to collect information for custom panel table orders. It helps customers provide details about their order, including size, material, payment options, and shipping information.

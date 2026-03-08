@@ -1,9 +1,3 @@
-<thinking>
-The purpose of the form is to facilitate the creation of procurement orders for a company. This form will be used by employees to create new orders, which will then be reviewed and processed by the procurement team. 
-The form is meant to capture relevant information about the order, including the contact person, order type, date and time, products or services being ordered, delivery address, and other relevant details. 
-To avoid duplication of efforts, please ensure that you're not creating an order for the same purpose or product/service multiple times.
-</thinking>
-
 # Procurement Order Form - Help Guide
 ## Purpose
 The Procurement Order Form is a tool for employees to create new procurement orders for their team or department. This form helps gather essential information to process and fulfill these orders efficiently.

@@ -1,14 +1,3 @@
-<thinking>
-
-This form is used to process food orders from customers, allowing them to provide their contact information, order details, select food items, and submit their orders.
-
-Before completing this form, please ensure that you have all the required information and have reviewed the following guidelines:
-
-* Only complete this form if you have a genuine intention of making a purchase.
-* Make sure you enter your real contact information and order details.
-
-</thinking>
-
 # Pantry Food Order Form - Help Guide
 ## Purpose
 The Pantry Food Order Form is used to place an order for food products, providing customers with a convenient way to submit their order details and contact information.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from laboratory staff members to request safety equipment, including lab name, contact person, and other details. The form should only be used for legitimate purposes, such as requesting new equipment or reporting equipment issues. To avoid duplication, please ensure that you have not submitted a similar request recently. Before filling out this form, ensure that you have read and understood the lab's safety protocols and guidelines.
-</thinking>
-
 # University Lab Safety Equipment Requisition Form - Help Guide
 
 ## Purpose

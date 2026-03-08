@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect information from potential disaster supply organizers who are interested in joining a program. This form will be used to gather contact information and other relevant details from applicants. It is intended for individuals who wish to help in disaster relief efforts by organizing supplies and resources. Please ensure you are eligible and have the necessary permissions before submitting this form. This form should only be completed once per individual. If you have any questions or concerns, please contact [support email or contact info]... </thinking>
-
 # disaster_supply_organizer_application_form - Help Guide
 ## Purpose
 The disaster supply organizer application form is intended for individuals interested in helping in disaster relief efforts by organizing supplies and resources. This form will help us gather your contact information and other necessary details to ensure you are eligible and have the necessary permissions to participate.

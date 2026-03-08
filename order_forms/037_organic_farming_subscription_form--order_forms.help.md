@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from customers interested in subscribing to an organic farming service. The form is used by the business to gather details from customers about their farming preferences, contact information, and subscription preferences.
-
-When filling out this form, please make sure you're only submitting once, as duplicate submissions may lead to unnecessary processing and potential errors. Ensure that you're providing accurate and up-to-date information to ensure a smooth subscription process.
-
-</thinking>
-
 # Organic Farming Subscription Form - Help Guide
 ## Purpose
 This form collects information from customers interested in subscribing to an organic farming service, allowing the business to tailor their services to meet the customer's needs.

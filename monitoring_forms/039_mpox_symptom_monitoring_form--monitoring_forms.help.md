@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from patients about their symptoms and experiences related to Mpox, a disease that is being monitored. The form will be used to track and analyze the symptoms of patients, which is crucial for medical professionals to make informed decisions about treatment and care. 
-
-The form is divided into pages for ease of completion. This guide will walk through each page and explain the purpose and requirements of each field. 
-
-Before completing this form, please ensure that you have not already submitted a symptom monitoring report for this case. If you have any doubts or questions, please contact your healthcare provider for guidance. 
-
-</thinking>
 # Mpox Symptom Monitoring Form - Help Guide
 ## Purpose
 This form is used to collect and track symptoms and experiences of patients with Mpox, allowing healthcare professionals to make informed decisions about treatment and care.

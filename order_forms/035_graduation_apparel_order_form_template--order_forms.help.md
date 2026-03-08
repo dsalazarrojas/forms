@@ -1,7 +1,3 @@
-<thinking>
-To determine the purpose of this form, let's analyze the fields provided in the YAML definition. The form is called "Graduation Apparel Order Form Template". The fields are primarily focused on collecting information related to a student's graduation, including student details, graduation date, graduation apparel type, color, size, and order details. This suggests that the form is used to gather data for ordering graduation apparel, such as caps and gowns, for graduates. The purpose of this form is likely to create a streamlined process for ordering graduation apparel for students.
-</thinking>
-
 # Graduation Apparel Order Form Template - Help Guide
 ## Purpose
 This form is used to collect information for ordering graduation apparel for students.

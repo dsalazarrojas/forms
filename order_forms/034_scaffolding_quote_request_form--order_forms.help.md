@@ -1,8 +1,3 @@
-<thinking>
-**Form Purpose:** This form is used to collect customer information and request a quote for a scaffolding project.
-**Internal Reasoning Block:** We are checking if the form is being used in production to ensure it is not being used to duplicate a project that has already been assigned to a customer. If the form is being used in production, we will review the project details and quote request to determine if the quote request is valid.
-</thinking>
-
 # scaffolding_quote_request_form - Help Guide
 ## Purpose
 The scaffolding quote request form is used to collect customer information and request a quote for a scaffolding project.

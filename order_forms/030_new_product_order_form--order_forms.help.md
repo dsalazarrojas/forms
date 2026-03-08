@@ -1,7 +1,3 @@
-<thinking>
-This is a form designed to be used for capturing new product orders from customers. It's intended for businesses or individuals who want to sell products online or in-person. This form should only be used for its intended purpose and not for other types of data collection, such as surveys or registration forms. Please make sure to review your business processes to ensure this form is being used correctly and that it's being filled out by customers and not internally.
-</thinking>
-
 # New Product Order Form - Help Guide
 
 ## Purpose

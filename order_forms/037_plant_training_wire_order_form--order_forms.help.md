@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to be a simple order form for collecting customer information and order details. It is intended for businesses to use as a template for their own sales and customer service operations. The form's primary purpose is to collect necessary information from customers for plant training wire orders, which may include products, addresses, and payment details. 
-
-Before filling out this form, please ensure that you have all necessary information about the customer and their order, and that you are authorized to collect and process sensitive data.
-
-Please note that this form is a template and may need to be adapted to your specific business needs.
-
-</thinking>
-
 # Plant Training Wire Order Form - Help Guide
 ## Purpose
 The Plant Training Wire Order Form is a template designed to collect customer information and order details for plant training wire orders. It is intended for businesses to use as a starting point for their sales and customer service processes.

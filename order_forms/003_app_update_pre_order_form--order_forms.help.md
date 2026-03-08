@@ -1,5 +1,3 @@
-<thinking>...This form is designed for users to pre-order an app update, providing contact information and details on their specific needs and requirements for the update... Form fields should be filled out carefully to ensure accurate representation of user needs and expectations for the pre-order process... This guide will walk users through the form fields and their corresponding explanations to complete the form efficiently...</thinking>
-
 # App Update Pre Order Form - Help Guide
 ## Purpose
 The App Update Pre-Order Form is designed to gather information from users interested in pre-ordering an app update. By filling out this form, you will be able to provide your contact information, specify your requirements and needs for the update, and choose your preferred support and training options.

@@ -1,5 +1,3 @@
-<thinking>As a coffee lover, ordering a perfect cup of coffee can be a delightful experience. This form is designed to help you create the perfect cup of coffee, from the selection of our delicious drinks to the special requests that make it your own. To use this form effectively, please make sure you have the following information ready: your customer information (name, email, phone number), delivery information (type, address, and desired delivery date and time), drink preferences (type, quantity, milk option, size), and payment method. Please fill out the form accordingly, and we'll get your coffee ready for you!</thinking>
-
 # Coffee Order Form - Help Guide
 ## Purpose
 The Coffee Order Form is a tool to help you create the perfect cup of coffee. It guides you through the process of selecting a drink, customizing it to your taste, and providing delivery information so we can get it to you on time.

@@ -1,19 +1,3 @@
-<thinking>
-
-To create a help guide for the Steel Work Order Form, we need to understand the form's purpose and how it should be filled out. Based on the provided YAML, the form is designed to collect various information related to steel work orders, including customer details, material requests, production, inspection, completion, and comments from different stages of the process. This form may be used in industries such as construction, manufacturing, or metalworking.
-
-Before proceeding, let's clarify some potential ambiguities. The "Customer" field may refer to the person or organization requesting the steel work, while "Customer Info" and "Customer Address" fields likely provide additional details about the customer. "Material Request" and "Material Info" fields might be related to the specific materials required for the work, whereas "Production" and "Inspection" fields pertain to the production and quality control processes. "Completion" and "Work Order" fields might be associated with the project's completion status and details, respectively.
-
-The "Signature" field likely requires a signature from the customer or another relevant party, and "Notes" and "Comments" fields are for any additional comments or notes that need to be recorded. "Customer Comments", "Material Comments", "Production Comments", "Inspection Comments", "Completion Comments", "Signature Comments", and "Notes Comments" fields suggest that these are specific comments related to the respective stages of the process.
-
-To fill out this form, the user should start by providing the "Customer Info" and "Customer Address" fields, which include the customer's name, address, email, phone, and fax. The "Customer Rep" field might be filled out with the customer's representative's name. The "Material Request" and "Material Info" fields should include the specific materials required for the work, along with any additional information about them.
-
-The "Work Order" field is likely for the project's details, such as the work order number or description. The "Production" field should include information about the production process, such as the production date or method. The "Inspection" field is for quality control notes, and the "Completion" field is for the project's completion status. "Inspection Comments", "Completion Comments", and other comment fields should be used to record any additional comments or notes from the respective stages.
-
-The "Signature" field requires a signature from the customer or another relevant party, indicating their agreement with the work order or other stages of the process.
-
-</thinking>
-
 # Steel Work Order Form - Help Guide
 ## Purpose
 The Steel Work Order Form is designed to collect information related to steel work orders, including customer details, material requests, production, inspection, completion, and comments from different stages of the process.

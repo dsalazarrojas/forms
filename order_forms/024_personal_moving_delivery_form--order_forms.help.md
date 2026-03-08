@@ -1,7 +1,3 @@
-<thinking>
-This form is used to facilitate the collection of information from customers who are requesting personal moving services. The purpose of this form is to gather essential details about the customer's move, including their name, contact information, move details, and delivery preferences.
-</thinking>
-
 # Personal Moving Delivery Form - Help Guide
 ## Purpose
 The Personal Moving Delivery Form is a necessary document for customers who require personal moving services. It ensures that all essential details are collected to facilitate a smooth and efficient move.

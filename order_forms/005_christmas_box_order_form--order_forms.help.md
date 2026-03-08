@@ -1,7 +1,3 @@
-<thinking>
-This guide will help you understand the purpose and usage of the Christmas Box Order Form. Please note that this form is designed to collect information for a specific type of order, and some fields may not be applicable to your situation. Review each section carefully to ensure you provide accurate and relevant information.
-</thinking>
-
 # Christmas Box Order Form - Help Guide
 ## Purpose
 This form is designed to collect information for a Christmas Box order. It includes fields for customer details, shipping information, order details, and payment information.

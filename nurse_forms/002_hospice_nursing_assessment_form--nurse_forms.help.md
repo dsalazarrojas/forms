@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from healthcare professionals for the assessment and planning of hospice care for patients. This form is likely to be used by nurses and other healthcare providers in a hospice setting to gather data on patients' medical histories, medications, allergies, and pain levels, as well as their goals for care and outcome expectations. This form helps healthcare professionals develop a comprehensive care plan that meets the unique needs of each patient.
-Before completing this form, please ensure you have reviewed the patient's current medical information and assessed their pain level accurately. Please also verify that no duplicate assessments have been completed within the past week.
-
-</thinking>
-
 # hospice_nursing_assessment_form - Help Guide
 ## Purpose
 ## How To Complete This Form

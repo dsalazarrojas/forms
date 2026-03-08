@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is an internal process to ensure the form's purpose is correctly understood before proceeding.
 
 The Quote Correction Submission Form is used to facilitate the correction of quotes or quotes' errors. It allows users to identify a quote's errors and provide a correction or comment regarding it, making it easier for the team to correct and finalize quotes. This process aims to maintain accurate and up-to-date records for quotes.

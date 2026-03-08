@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used by customers to place orders for nutrition supplements. It is intended to be filled out by customers providing their personal information, order details, and payment methods. This form is meant to be used internally and should not be shared with others, as it contains sensitive customer information. Before proceeding, please ensure that you have the necessary permissions to collect and process this information. Also, please make sure to not submit this form more than once with the same data. If you are unsure, refer to your internal guidelines for handling sensitive customer data.
-</thinking>
-
 # Nutrition Supplement Order Form - Help Guide
 
 ## Purpose

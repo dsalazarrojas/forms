@@ -1,6 +1,3 @@
-<thinking> 
-This is a form for ordering college guides, a collection of information about colleges and universities. The form appears to be used by customers or users (likely high school students, their parents, or counselors) to order guides that cater to their specific needs and preferences. I'm assuming the form is used for ordering guides that provide information about various aspects of colleges and universities, such as general information, academic programs, or specific fields of study. The form is likely used by the college or university's office of admissions or marketing to gather information about potential students and tailor the guides to their needs. The fields in the form suggest that the guides come in different formats (print, digital, or both) and have different prices. The form also asks about shipping and billing information, indicating that the guides are physical products that will be sent to the customer. The form is likely used to gather information about the customer's order and preferences, and to process the order accordingly.</thinking>
-
 # College Guide Order Form - Help Guide
 
 ## Purpose

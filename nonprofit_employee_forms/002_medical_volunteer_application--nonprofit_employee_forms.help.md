@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from potential medical volunteers who wish to participate in medical-related activities at your organization. The form will help to verify the authenticity of the medical volunteers' credentials and ensure that they are eligible to perform medical tasks. Before proceeding, please ensure that you have not already submitted this form for this specific medical volunteer application.
-</thinking>
-
 # Medical Volunteer Application - Help Guide
 ## Purpose
 The Medical Volunteer Application form is used to gather information from potential medical volunteers who wish to participate in medical-related activities at your organization. This form helps to verify the authenticity of the medical volunteers' credentials and ensure that they are eligible to perform medical tasks.

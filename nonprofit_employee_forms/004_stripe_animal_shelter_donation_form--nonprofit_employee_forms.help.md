@@ -1,5 +1,3 @@
-<thinking>... internal note: This form is designed to collect information from individuals who want to make a donation to a local animal shelter. It's intended for non-profit employees to efficiently process and categorize donations based on the frequency and amount donated. The form should only be completed once per individual to avoid duplication of efforts. </thinking>
-
 # stripe_animal_shelter_donation_form - Help Guide
 ## Purpose
 This form is for individuals who want to make a donation to the local animal shelter. It helps non-profit employees to efficiently process and categorize donations based on the frequency and amount donated.

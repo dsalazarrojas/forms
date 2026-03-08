@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "Warehouse Lift Equipment Order Form" is to facilitate the ordering of lift equipment for a warehouse setting. This form is intended to gather information from customers or internal users to place orders for lift equipment, such as lift trucks, pallet jacks, and other equipment necessary for warehouse operations. 
-</thinking>
-
 # Warehouse Lift Equipment Order Form - Help Guide
 ## Purpose
 The Warehouse Lift Equipment Order Form is used to request the ordering of lift equipment for a warehouse setting.

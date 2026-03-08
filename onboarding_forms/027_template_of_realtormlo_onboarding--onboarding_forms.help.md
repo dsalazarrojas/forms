@@ -1,7 +1,3 @@
-<thinking>
-This form is for onboarding realtors with their MLO (Mortgage Loan Originator) agreements. The form is used to collect information about the realtor's onboarding status, including whether they have completed training, accepted the MLO agreement, and if they have access to assigned tools. This form is likely used to track realtor onboarding progress and ensure compliance with regulatory requirements.
-</thinking>
-
 # template_of_realtormlo_onboarding - Help Guide
 ## Purpose
 This form is designed to help track the onboarding progress of realtors with their MLO agreements. It captures information about the realtor's status, training completion, and access to assigned tools.

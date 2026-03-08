@@ -1,5 +1,3 @@
-<thinking>... internal reasoning: This form is designed to collect general information from users about a simple order, likely from a retail or e-commerce context. The form is composed of three main sections: User Information, Order Information, and Order Details. The purpose of the form is to capture the user's name, the order details, and any additional information they might need. The form is intended to be simple and easy to fill out, with no specific options or complex fields that would require extensive knowledge of the business or technical aspects of the form's creation. The form has no specific business logic or rules that would require special attention or explanation, making it straightforward to complete. The fields are mostly text-based, and the form does not have any conditional or branching logic that would affect the completion process.</thinking>
-
 # Simple Order Form By Jezreel Collections - Help Guide
 ## Purpose
 This form is designed to collect general information about an order from a user. It is intended for a retail or e-commerce context and is meant to be simple and easy to fill out.

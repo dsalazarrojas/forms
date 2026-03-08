@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information about methane emissions monitoring, a critical aspect of environmental conservation and regulatory compliance. 
-The form is meant to gather data on site visits, monitoring frequencies, and other relevant details. 
-It is crucial to ensure that the form is filled out accurately and completely, as the information collected will be used to support data-driven decision-making and ensure compliance with regulatory requirements.
-Please ensure that you are completing this form for a valid purpose and not duplicating an existing request.
-</thinking>
-
 # Methane Emissions Monitoring Request Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for nominating individuals or teams for the Pharmaceutical Innovation Award. Before proceeding, please ensure that you have not previously submitted a nomination for the same nominee. To avoid duplication, check the award's website or contact the award's administrators for the latest nominee list. If you are unsure about the nominee's eligibility, please refer to the award's rules and regulations. Please note that all fields are required unless specified otherwise. The form is divided into two sections: nominator information and nominee information. The nominator section includes fields for the nominator's contact information and additional details. The nominee section includes fields for the nominee's contact information and award-worthy work details. Ensure that you fill out both sections accurately and completely to ensure a successful nomination. Please review the form carefully before submitting, as incomplete or inaccurate nominations may lead to rejection.
-</thinking>
-
 # Pharmaceutical Innovation Award Nomination Form - Help Guide
 ## Purpose
 This form is designed to collect information for the Pharmaceutical Innovation Award nomination process. It requires detailed information from both the nominator and the nominee to assess their eligibility and potential for the award.

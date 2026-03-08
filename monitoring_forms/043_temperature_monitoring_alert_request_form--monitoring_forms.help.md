@@ -1,5 +1,3 @@
-<thinking>...this form is designed to help users request temperature monitoring for a specific environment. This form will be used by internal teams and external partners to submit requests for temperature monitoring in a controlled and organized manner. It is expected that users will fill out the form with accurate and relevant information to help the monitoring team make informed decisions. This form is a one-time request and not intended to be used for recurring or continuous monitoring... </thinking>
-
 # Temperature Monitoring Alert Request Form - Help Guide
 ## Purpose
 The Temperature Monitoring Alert Request Form is a one-time request for temperature monitoring in a specific environment. It's used to inform the monitoring team of a temperature anomaly and to ensure that the monitoring system is alerted to the issue.

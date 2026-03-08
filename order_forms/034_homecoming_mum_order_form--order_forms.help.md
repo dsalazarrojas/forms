@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to collect information from customers for a homecoming mum order, likely for a school or similar event. The form is designed to be filled out by parents or guardians of the child, and it will ask for details such as event information, delivery information, and payment information. To avoid duplication, it's essential to check if a similar form already exists and is being used for the same purpose within the organization.
-
-</thinking>
-
 # Homecoming Mum Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers for a homecoming mum order. Please fill out the form to provide the necessary details for the order.

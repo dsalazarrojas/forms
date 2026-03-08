@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to be used by customers to request a quote for an outdoor service. The form is intended to collect relevant information about the customer, their project, and the service they are requesting. The goal is to ensure that the customer provides sufficient details to facilitate an accurate quote.
-To prevent duplication, this form will only be visible to authorized users, and any submitted requests will be reviewed and processed by designated personnel.
-</thinking>
-
 # outdoor_service_quote_request - Help Guide
 
 ## Purpose

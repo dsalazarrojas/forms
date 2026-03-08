@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from new museum staff members during the onboarding process. It is a crucial document that provides essential details about each staff member, including their basic contact information, job title, department, and department manager. The form also collects emergency contact information, which is vital in case of an emergency. This form is not intended for external use; it's internal use within the museum for administrative and HR purposes.
-</thinking>
-
 # Museum Staff Onboarding Form - Help Guide
 ## Purpose
 This form is designed to collect information from new museum staff members during the onboarding process. It's essential to fill out this form accurately to ensure that your HR and administrative records are up-to-date.

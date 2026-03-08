@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to facilitate the inventory check in process, allowing users to accurately track and update item quantities. To ensure accuracy and efficiency, it's essential to understand the purpose of each field and follow the instructions below.
-
-</thinking>
-
 # Inventory Check In Form - Help Guide
 ## Purpose
 The Inventory Check In Form is a crucial tool for inventory management. It enables users to accurately update item quantities, ensuring that inventory levels reflect the actual stock on hand. This form helps users to track and record items as they are received, received by, and the date they were received.

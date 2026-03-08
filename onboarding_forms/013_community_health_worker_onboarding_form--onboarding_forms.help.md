@@ -1,7 +1,3 @@
-<thinking>
-This form is used for onboarding new Community Health Workers into our organization. It is used to collect their basic information, training completion status, emergency contact details, and agreement to follow the Worker Code of Conduct.
-</thinking>
-
 # Community Health Worker Onboarding Form - Help Guide
 ## Purpose
 This form collects essential information about new Community Health Workers, including their basic details, training completion status, and emergency contact information. It is used to ensure they are correctly onboarded into our organization.

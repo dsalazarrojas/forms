@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for trade appraisers to collect information about a trade-in vehicle and the terms of the trade. It will be used to document the details of the trade-in vehicle, the appraiser's comments, and the acceptance of trade terms. The form is meant to be filled out by the appraiser at the time of the trade, and will help the dealership accurately document the details of the trade.
-
-This form should only be used for trade-in vehicles, and not for other types of vehicle transactions. The information collected on this form will be used to support the trade-in process and ensure a smooth transaction.
-</thinking>
-
 # Trade Appraisal CW - Help Guide
 ## Purpose
 The Trade Appraisal CW form is designed to collect information about trade-in vehicles and the terms of the trade.

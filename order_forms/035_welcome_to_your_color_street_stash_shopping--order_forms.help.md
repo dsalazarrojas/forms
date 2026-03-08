@@ -1,8 +1,3 @@
-<thinking>
-The form's purpose is likely to gather information about customer orders, including details such as name, address, and payment method, as well as shipping information and credit card details. However, I do not have information on the internal business logic that this form is designed to support or the exact rules that are to be enforced for duplicate or incomplete forms. Therefore, I will create this guide based on my understanding of the form fields as defined in the inputSchema.
-
-</thinking>
-
 # welcome_to_your_color_street_stash_shopping - Help Guide
 ## Purpose
 This form is designed to collect customer information and order details for the Color Street Stash shopping experience.

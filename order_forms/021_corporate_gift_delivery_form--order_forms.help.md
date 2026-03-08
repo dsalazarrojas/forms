@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from users for corporate gift delivery purposes. The form is meant to gather details about the contact person, their gift preferences, the gift details, and the recipient's information. 
-
-It's essential to ensure the form is filled out correctly to prevent duplication of effort and unnecessary work. 
-
-The form is not affiliated with, endorsed by, or derived from any specific form platform. It was created using AI-generated inspiration from public survey topics in the corporate gift delivery industry. 
-</thinking>
-
 # Corporate Gift Delivery Form - Help Guide
 ## Purpose
 The Corporate Gift Delivery Form is a tool to collect information for corporate gift delivery purposes. This form will gather essential details to ensure the gift is delivered correctly and efficiently.

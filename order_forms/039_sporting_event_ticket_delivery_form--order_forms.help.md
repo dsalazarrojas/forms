@@ -1,7 +1,3 @@
-<thinking>
-This form is a Sporting Event Ticket Delivery Form used to collect information for ticket delivery, ensuring that tickets are correctly attributed to customers. To confirm, this form will be used for ticket delivery and not for ticket sales. 
-</thinking>
-
 # Sporting Event Ticket Delivery Form - Help Guide
 ## Purpose
 The Sporting Event Ticket Delivery Form is used to collect information for ticket delivery. This form ensures that tickets are correctly attributed to customers, making it easier to manage and track ticket deliveries.

@@ -1,11 +1,3 @@
-<thinking>
-This form is intended for monitoring the condition of off-site equipment. This form will collect information about the equipment being monitored, including its site ID, any site access notes, scheduling details, maintenance team, and other relevant information. 
-This form will likely be used for maintenance planning, resource allocation, and equipment condition assessment. 
-It's likely that this form should only be completed by authorized personnel, and it would be good to check if the requestor's identity is valid before processing the form. 
-The form's purpose is to gather necessary information for off-site equipment monitoring and maintenance. 
-Please ensure that the form is completed accurately and thoroughly before submitting. 
-</thinking>
-
 # Off Site Equipment Condition Monitoring Request - Help Guide
 ## Purpose
 The Off Site Equipment Condition Monitoring Request form is used to collect information about the condition of off-site equipment for monitoring and maintenance purposes.

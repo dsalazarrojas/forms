@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Change Order - Help Guide
 ## Purpose
 The Change Order form is used to document modifications to existing orders, ensuring accurate tracking and approval of changes. It helps to record details of the change, including the type of change, description, affected item, and original and new quantities, prices, and totals. This form is essential for maintaining accurate records and facilitating approval processes.

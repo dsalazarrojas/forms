@@ -1,22 +1,3 @@
-<thinking>
-The Portable AC Unit Booking Form is designed to assist customers in the booking process for portable air conditioning units. This form is part of the order_forms category and is intended to gather necessary information from customers for the successful booking and delivery of the units. 
-
-It is expected that customers will be familiar with the concept of booking portable AC units and have a basic understanding of the form's purpose. If customers are not aware of the form's purpose or have filled it out previously, please proceed to the next steps. 
-
-Before completing this form, ensure that the information you provide is accurate and up-to-date. If you're unsure about any field, please ask for clarification. 
-
-This guide assumes that the customer is aware of the available options in the form, such as selecting between "Yes" and "No" for certain questions. 
-
-The form is designed to be completed within a few minutes, and the information gathered will be used to create a booking request for the portable AC unit. 
-
-Please ensure that you complete the form accurately and correctly to avoid any issues with the booking process. 
-
-The form is not designed to be time-sensitive, and there are no deadlines for completion. 
-
-Please note that this form is a general guide and may be subject to change. 
-
-</thinking>
-
 # Portable AC Unit Booking Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information from customers for the successful booking and delivery of portable air conditioning units.

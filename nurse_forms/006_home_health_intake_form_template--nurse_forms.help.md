@@ -1,14 +1,3 @@
-<thinking>
-This form is designed for collecting patient information in a home health setting. The form is used to gather demographic data (name, date of birth), medical history, medication allergies, and other relevant information about the patient. This information is essential for providing proper care and treatment to the patient. 
-
-This form is not intended for patients with sensitive medical conditions that need to be treated in an acute care setting. Patients with such conditions should not be sent this form. 
-
-This form is intended for home health care providers to gather information from patients in a private and comfortable setting, such as the patient's home. This information will be used to provide care and services to the patient in their home.
-
-Before completing this form, ensure that the patient understands the purpose and scope of the form.
-
-</thinking>
-
 # Home Health Intake Form Template - Help Guide
 ## Purpose
 This form is designed for collecting patient information in a home health setting. It is used to gather demographic data, medical history, and other relevant information about the patient.

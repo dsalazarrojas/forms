@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information from clients about their payments.
-Before filling out this form, ensure that:
-- The form is being used for its intended purpose and not for any other unrelated task.
-- The form is not being filled out by multiple clients at the same time.
-</thinking>
-
 # down_payment_form - Help Guide
 ## Purpose
 The down_payment_form is used to collect client information and payment details for clients who are paying for services or goods. This form helps to keep track of client payments and payment statuses.

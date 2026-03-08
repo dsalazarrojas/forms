@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to collect information about internship rotations, which are a crucial part of the onboarding process for new employees. The purpose of this form is to gather relevant details about each rotation, including dates, departments involved, supervisors' feedback, learning goals, intern's details, and rotation status. This form will help supervisors and HR staff to track and manage rotations more efficiently.
-
-</thinking>
-
 # internship_rotation_overview - Help Guide
 ## Purpose
 This form is used to collect information about internship rotations, including dates, departments, supervisors' feedback, learning goals, intern's details, and rotation status.

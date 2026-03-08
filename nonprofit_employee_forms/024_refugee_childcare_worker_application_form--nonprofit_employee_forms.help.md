@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to collect information from individuals applying to work as Refugee Childcare Workers. The purpose of this form is to gather relevant personal and professional data from applicants to facilitate the selection process for potential candidates.
-
-When filling out this form, please ensure you provide accurate and honest information to help us assess your qualifications. If you are unsure about any field, feel free to ask for clarification or guidance.
-
-The form can be filled out in multiple pages, and each section will be described below.
-
-</thinking>
-
 # Refugee Childcare Worker Application Form - Help Guide
 ## Purpose
 The Refugee Childcare Worker Application Form is designed to collect personal and professional information from applicants to help our organization assess their qualifications and suitability for the position.

@@ -1,15 +1,3 @@
-<thinking>
-
-This guide is designed to assist users in filling out the Goods Receiving Form, ensuring they understand its purpose, completion process, and the meaning of each field. Before proceeding, let's clarify the form's intent and potential duplication checks: 
-
-The Goods Receiving Form is used to capture information about goods delivered to a warehouse. It ensures that the received items are properly documented and can be tracked for future reference. To prevent duplication, ensure that each entry is submitted only once per delivery. 
-
-If the form is already filled out for a specific delivery, it may have been completed and saved previously, and submitting another entry with the same delivery date will result in an error message. 
-
-This form is used for tracking received goods, discrepancies, and any other relevant information that needs to be recorded. It's essential to fill it out accurately and completely to maintain a clear understanding of received goods.
-
-</thinking>
-
 # Goods Receiving Form - Help Guide
 ## Purpose
 This form is used to record information about goods delivered to a warehouse. It helps in maintaining accurate records and tracking received items.

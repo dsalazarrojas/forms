@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect essential information for the delivery of an auction item. It is meant to be filled out by buyers in order to provide their details for successful item delivery.
-The form should be filled out only once by the buyer, and not duplicated.
-</thinking>
-
 # Auction Item Delivery Form - Help Guide
 ## Purpose
 This form is used to gather buyer information and delivery preferences for the successful delivery of auction items.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to create a replica of an existing order form. The purpose of the form is to duplicate an order form for various scenarios, such as testing or training purposes. This form is typically used by administrators or power users who need to create multiple copies of an order form for different use cases.
-
-Before filling out this form, make sure that you have the necessary permissions to access the original order form. You can check the form category to ensure it's for order forms.
-
-When filling out this form, please be aware that it's a replica, and the data entered will not be used for actual order purposes. Use the form to create a new copy of the original form, which can be further modified or filled out as needed.
-
-</thinking>
-
 # prop_replica_order_form - Help Guide
 ## Purpose
 This form is used to create a replica of an existing order form.

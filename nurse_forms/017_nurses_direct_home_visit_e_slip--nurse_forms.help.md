@@ -1,11 +1,3 @@
-<thinking>
-  To avoid duplication and ensure accuracy, let's clarify the purpose and requirements of the "Nurses Direct Home Visit E Slip" form.
-
-  This form is designed to collect essential information about patients undergoing a nurse's direct home visit. The form should be filled out before or during the visit to ensure the nurse has all necessary details about the patient. The form will help nurses gather information such as patient name, contact information, medical history, and allergies. It's essential to provide accurate and complete information to provide effective care.
-
-  Before filling out the form, check if you have any existing records or forms with the same information. This will save time and prevent duplication of effort.
-</thinking>
-
 # Nurses Direct Home Visit E Slip - Help Guide
 ## Purpose
 The "Nurses Direct Home Visit E Slip" form is a crucial document that provides essential information about patients undergoing a nurse's direct home visit. It's used to gather details such as contact information, medical history, and allergies to ensure effective care.

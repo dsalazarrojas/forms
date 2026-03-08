@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information for ordering items for a trade show, including exhibitor details, trade show information, item specifics, and delivery details. It's intended for use by exhibitors to submit their requests for items needed for the trade show. Please ensure this form is used for its intended purpose and not duplicated for other purposes. 
-</thinking>
-
 # Startup Trade Show Item Order Request Form - Help Guide
 ## Purpose
 The Startup Trade Show Item Order Request Form is a tool for exhibitors to provide detailed information about the items they require for the trade show, including contact details, trade show specifics, item specifics, and delivery details. This form allows the trade show management team to accurately plan and arrange for the items requested.

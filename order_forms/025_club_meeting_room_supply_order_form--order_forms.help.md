@@ -1,8 +1,3 @@
-<thinking>
-The Club Meeting Room Supply Order Form is designed to facilitate the process of ordering supplies and equipment for club meetings and events. This form helps staff and meeting organizers efficiently order the necessary supplies and services for their meetings, ensuring a smooth and productive event experience for attendees. The form collects information on the meeting date, room name, expected number of attendees, supplies needed, and any special requests. This form reduces the likelihood of duplicate orders and ensures that staff can prioritize and manage orders effectively. It is essential to review each field carefully to ensure accurate information and proper completion.
-
-</thinking>
-
 # Club Meeting Room Supply Order Form - Help Guide
 
 ## Purpose

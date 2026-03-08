@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to allow customers to request changes to their payment plans. This form helps to gather information about the customer's payment plan and the reasons for the adjustment. It is essential to ensure that the customer has a clear understanding of what they are requesting and that the request is properly documented.
-To avoid duplication, this form should not be used for other purposes or for customers who have already submitted a payment plan adjustment request. 
-</thinking>
-
 # Payment Plan Adjustment Request Form - Help Guide
 ## Purpose
 The Payment Plan Adjustment Request Form is used to request changes to a customer's payment plan. This form gathers information about the customer's payment plan and the reasons for the adjustment.

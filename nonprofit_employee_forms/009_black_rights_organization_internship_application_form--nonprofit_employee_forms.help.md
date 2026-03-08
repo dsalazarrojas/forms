@@ -1,8 +1,3 @@
-<thinking> 
-We need to ensure that this form is being submitted for the correct purpose and not duplicating efforts elsewhere. This form is for applicants to apply for the Black Rights Organization's internship program. We need to guide the end-users through the process of completing this form accurately and efficiently. This guide will help us in reducing errors and misunderstandings during the application process.
-
-</thinking>
-
 # Black Rights Organization Internship Application Form - Help Guide
 ## Purpose
 This form is for individuals to apply for an internship with the Black Rights Organization. Please submit your application if you are interested in gaining valuable experience and contributing to our mission.

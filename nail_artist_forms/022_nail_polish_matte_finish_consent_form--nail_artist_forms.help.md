@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nail Polish Matte Finish Consent Form - Help Guide
 
 ## Purpose

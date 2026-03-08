@@ -1,25 +1,3 @@
-<thinking>
-
-The goal of this form is to collect information and details for a custom furniture order. It's intended to be used by customers to provide their order requirements, payment terms, and other relevant information for the sales team to process their order.
-
-To ensure that this form is completed accurately and effectively, please take the following steps:
-
-1. Fill in the order details, such as product options and delivery information.
-2. Provide customer contact information, including their name, email, phone number, and address.
-3. Enter the order date and time.
-4. Select the payment method.
-5. Add any additional customer specifications and notes.
-6. Enter the order price.
-7. Add any customer comments and sales notes.
-8. Select the payment terms.
-9. Provide any order terms or conditions.
-10. Enter the name of the sales person handling the order.
-11. Check if the customer's signature is required or waived for the order.
-
-This form is designed to be a comprehensive tool for customers to provide their order requirements and information, while also allowing sales teams to keep track of the order progress and details.
-
-</thinking>
-
 # Custom Furniture Order Checklist Form - Help Guide
 ## Purpose
 The Custom Furniture Order Checklist Form is a tool used by customers to provide detailed information about their custom furniture order, including order details, customer information, and payment terms.

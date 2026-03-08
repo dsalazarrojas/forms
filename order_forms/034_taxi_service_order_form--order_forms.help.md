@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for taxi services, which could be for a ride-hailing or taxi service company. The form will likely be used by customers to provide their details and payment information for booking a taxi ride. The form is not required, but it's expected that customers will complete it to book a taxi.
-
-</thinking>
-
 # Taxi Service Order Form - Help Guide
 ## Purpose
 This form is for booking a taxi ride with a service provider. Please provide your details and payment information to complete your booking.

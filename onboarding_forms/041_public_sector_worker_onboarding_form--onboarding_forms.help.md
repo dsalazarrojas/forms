@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning block to explain the form purpose: This form is designed to collect necessary information from new public sector workers, ensuring they can access the necessary resources and training to get started with their new role. The form will help the organization to understand the worker's onboarding needs and provide a smooth transition into the workforce. It is recommended that workers complete this form at the start of their onboarding process.
-</thinking>
-
 # Public Sector Worker Onboarding Form - Help Guide
 ## Purpose
 This form is used to collect information from new public sector workers to facilitate their onboarding process. It ensures that workers can access necessary resources and training to start their new role effectively.

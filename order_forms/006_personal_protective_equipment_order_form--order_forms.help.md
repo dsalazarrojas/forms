@@ -1,5 +1,3 @@
-<thinking>... (this form is used for end-users to provide personal protective equipment (PPE) orders to the team. This form is likely used by team members to request PPE for specific tasks or projects. The form should only be used for legitimate requests, not for routine or non-mandatory tasks. It's possible that this form has already been completed previously for the same person or task, in which case, please review the previous order status and update as necessary. Please ensure that all required fields are filled out accurately and completely to avoid any errors in processing the order. If you're not certain about a field, please ask your supervisor or a team member for guidance.)...</thinking>
-
 # Personal Protective Equipment Order Form - Help Guide
 ## Purpose
 The Personal Protective Equipment Order Form is used by team members to request personal protective equipment (PPE) for specific tasks or projects. This form helps to ensure that all necessary equipment is ordered and distributed correctly.

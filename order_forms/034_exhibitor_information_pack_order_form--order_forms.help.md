@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form is to collect exhibitor information for an order pack. This form is likely used to manage orders for exhibition-related events or activities. 
-
-The form is designed to collect contact information, order details, and status updates from exhibitors. 
-
-The form fields are likely used to populate a database or CRM system, allowing event organizers to track and manage exhibitor orders efficiently. 
-
-The form may be used in various contexts, such as trade shows, conferences, or festivals, where exhibitors need to be registered and managed. 
-
-This form does not duplicate any existing form in the market, and it is an AI-generated form, hence it is not affiliated with, endorsed by, or derived from any form platform.
-</thinking>
-
 # exhibitor_information_pack_order_form - Help Guide
 ## Purpose
 This form is designed to collect exhibitor information for an order pack used in events or activities.

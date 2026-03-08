@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from customers who are checking out of a food truck. The form will be used by the food truck staff to efficiently collect customer data and feedback. To avoid redundancy, please only use this form when the customer has completed their food truck transaction. This form is only for customers who are paying for their orders, so ensure that payment information is provided when submitting the form.
-</thinking>
-
 # Food Truck Check Out Form - Help Guide
 ## Purpose
 The Food Truck Check Out Form is a document used by food truck staff to collect customer information and feedback after a sale is completed.

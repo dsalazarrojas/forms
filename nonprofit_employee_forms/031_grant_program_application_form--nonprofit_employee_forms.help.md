@@ -1,8 +1,3 @@
-<thinking>
-The form is used for applying to a grant program. The purpose of this form is to collect information about the grant program the applicant is interested in, and details about the applicant and their organization.
-To avoid duplication of work, please ensure that the applicant has not already filled out this form for the same grant program in a previous application.
-</thinking>
-
 # grant_program_application_form - Help Guide
 ## Purpose
 The grant program application form is used to collect information from non-profit organizations about their grant programs. This form is used to gather details about the grant program the applicant is interested in, including the program name, grant amount, grant type, and grant status.

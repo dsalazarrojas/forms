@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to record data related to egg incubation, a process where eggs are kept at a controlled temperature to promote hatching. The form will be used by users to track batches of eggs, including whether they hatched, died, or are still incubating. This will help users keep accurate records of the incubation process.
-
-Before completing this form, ensure that you are not duplicating data for the same batch of eggs. If you are unsure whether the eggs are still incubating, check with the relevant personnel or the previous log entry for the same batch.
-
-To complete this form, follow the instructions below.
-</thinking>
-
 # Egg Incubation Log Form - Help Guide
 ## Purpose
 This form is used to record data related to egg incubation, allowing users to track batches of eggs and their hatching status.

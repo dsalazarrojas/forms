@@ -1,5 +1,3 @@
-<thinking>Before creating this form, let's first consider the purpose and context of the "Supply Chain Efficiency Award Nomination Form". This form is intended to collect information for nominating a company or individual for a supply chain efficiency award. The form likely aims to gather data such as the nominee's name, company details, and nomination category for evaluation and recognition. It's crucial to ensure that the form is completed accurately and relevantly to avoid duplication of efforts and minimize the risk of errors. Therefore, the form must clearly guide users through the nomination process, providing adequate explanations for each field to increase the chances of correct and thorough nominations.</thinking>
-
 # Supply Chain Efficiency Award Nomination Form - Help Guide
 ## Purpose
 The Supply Chain Efficiency Award Nomination Form is designed to collect information for nominating companies or individuals for supply chain efficiency awards.

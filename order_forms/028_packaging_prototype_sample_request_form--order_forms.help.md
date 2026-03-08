@@ -1,7 +1,3 @@
-<thinking>
-As a form designer and technical writer, I must understand the purpose and requirements of the "Packaging Prototype Sample Request Form". This form appears to be a request form for customers to submit their packaging prototype samples. The form has multiple pages and several fields that require information from the customer. My task is to create a user-facing help guide for this form, explaining its purpose, how to complete it, and what each field means. I will carefully review the provided YAML fields and ensure that the explanations are concrete, concise, and practical.
-</thinking>
-
 # Packaging Prototype Sample Request Form - Help Guide
 ## Purpose
 The "Packaging Prototype Sample Request Form" is a form used by customers to request packaging prototype samples from your company. This form is designed to collect necessary information from customers to fulfill their requests efficiently and effectively.

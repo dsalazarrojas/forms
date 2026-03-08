@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to gather information about a sample pack order from users. This form appears to be a generic form for collecting user information, sample order details, and contact information. The fields include a mix of text, select-one, date, time, and other fields that could potentially cover a variety of aspects related to the order, including user details, order timing, and contact information.
-</thinking>
-
 # Sample Pack Request Order Form - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is for monitoring fishery ponds. A fishery pond is a body of water that is stocked with fish for recreational or commercial purposes. This form is used by fishery pond inspectors to record and report on their inspections of these bodies of water. It's used to track various metrics and observations such as water level, water temperature, water pH, and the health of fish in the pond. The form is used by fishery pond owners or managers to provide critical information for decision-making. It's crucial to ensure the form is filled out accurately and completely to provide the best possible information for the pond's management and to help prevent or detect issues such as water quality problems or invasive species.
-
-Before filling out this form, please ensure that you have all the necessary information and data required to complete it. The form is used to track multiple visits to the same pond over time, so please refer to previous submissions for any additional information that may be relevant to your current submission.
-
-Please note that some fields may be optional, but it's crucial to fill them out accurately if you have the necessary information available.
-
-</thinking>
-
 # Fishery Pond Inspection Form - Help Guide
 ## Purpose
 The Fishery Pond Inspection Form is used by fishery pond inspectors to record and report on their inspections of fishery ponds. The form is used to track various metrics and observations such as water level, water temperature, water pH, and the health of fish in the pond.

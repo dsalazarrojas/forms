@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for individuals to donate to an animal shelter. The form's purpose is to collect information from donors to facilitate the processing of their donation and to provide them with a receipt for their generosity. The form is used to collect details such as the donor's name, contact information, and donation preferences. It also includes fields for optional information like tribute gifts, employer matching status, and subscription to the shelter's newsletter.
-</thinking>
-
 # Animal Shelter Donation Form - Help Guide
 ## Purpose
 This form is used to process donations to the animal shelter. It is essential to fill out the form accurately to ensure that your donation is processed correctly and to receive a tax receipt for your contribution.

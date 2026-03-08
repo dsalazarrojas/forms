@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used when a user wants to place an order for a Quick Release Connector. The form is intended for both the supplier to fill out their information and for the customer to provide their details. The form consists of four sections: Supplier Info, Customer Details, Delivery Preferences, and Order Confirmation. The form is meant to be completed by the supplier, who will provide their information, and the customer, who will provide their details. The form does not contain any sensitive information and is not affiliated with any form platform.
-</thinking>
-
 # Quick Release Connector Order Form - Help Guide
 ## Purpose
 This form is used for ordering a Quick Release Connector, and it is meant to be completed by both the supplier and the customer. It is designed to collect relevant information from both parties involved in the transaction.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from customers about their electronics installation and delivery requests. It is not a duplicate of any existing form, but rather an original adaptation created by an AI using public survey topic metadata as inspiration. The form's purpose is to gather essential details from customers about their electronics installation and delivery needs. It is an electronic installation delivery form, and its primary goal is to ensure smooth and efficient delivery of customer-purchased electronics. This form will help customers provide accurate and detailed information about their requests, which will facilitate the delivery process and minimize potential errors.
-
-</thinking>
-
 # electronics_installation_delivery_form - Help Guide
 ## Purpose
 

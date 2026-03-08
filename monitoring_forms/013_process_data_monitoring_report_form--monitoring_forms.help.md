@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Process Data Monitoring Report Form is designed to collect information about the monitoring and performance of a process. This form is used to gather data for internal use and is not intended to be shared with external parties. The form is meant to be completed by individuals responsible for monitoring and monitoring processes within the organization. This form is not intended to be used for external reporting or publication.
 
 </thinking>

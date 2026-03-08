@@ -1,8 +1,3 @@
-<thinking>
-The form is likely used for tracking and managing a list of items on hand stock, where each item belongs to one of multiple categories (e.g. Form 1, Form 2, etc.). Each category has its own set of items with name, price, and quantity fields. The form is intended for users to input data for each item in these categories, making it easier to manage and track their on-hand stock.
-To avoid duplication of effort in the form, the form will only be used to input data for new items. Users should not use this form to update or modify existing items.
-</thinking>
-
 # Sample Gift Registry For On Hand Stock - Help Guide
 ## Purpose
 This form is used to track and manage the on-hand stock of items across multiple categories.

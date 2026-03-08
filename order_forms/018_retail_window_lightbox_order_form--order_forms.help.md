@@ -1,7 +1,3 @@
-<thinking>
-This guide is for the retail_window_lightbox_order_form form, a form used to collect information and details for orders and customer interactions. To ensure a smooth experience, please make sure you have the correct information and permissions required to complete this form accurately. This form is intended to gather essential details for retail window interactions, and its structure might overlap with other forms used for similar purposes, but its primary objective is to provide a concise and comprehensive order form for retail window interactions.
-</thinking>
-
 # retail_window_lightbox_order_form - Help Guide
 ## Purpose
 This form is designed to collect essential information for orders and customer interactions within a retail window setting.

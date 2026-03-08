@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to guide new consultants through an onboarding process, gathering information about their personal and professional details, including contact information, areas of expertise, and work preferences. This template should be used by new consultants to provide their details and feedback, ensuring a smooth and personalized onboarding experience. Before filling out this form, please review it carefully to ensure you are not duplicating information provided during the hiring process. If you have already submitted this information, you can disregard this form.
-</thinking>
-
 # Consultant Onboarding Survey Template - Help Guide
 ## Purpose
 This form is a comprehensive survey designed to gather information about new consultants, enabling our onboarding process to be tailored to their specific needs and preferences.

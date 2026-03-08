@@ -1,8 +1,3 @@
-<thinking>...
-This form is designed to track a patient's vital signs and health status at home. The purpose of this form is to ensure that patients' vital signs are being monitored regularly and that any changes or concerns are documented. The form is intended for use by patients who are being monitored by healthcare providers at home.
-
-</thinking>
-
 # At Home Health Monitoring Log - Help Guide
 ## Purpose
 This form is used to track a patient's health status and vital signs at home. It helps healthcare providers monitor and identify any changes or concerns in the patient's condition.

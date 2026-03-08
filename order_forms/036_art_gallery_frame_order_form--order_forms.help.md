@@ -1,8 +1,3 @@
-<thinking> 
-This form is used for customers to place orders for custom art gallery frames. The form collects customer contact information, framing specifications, and order logistics details. The purpose of this form is to ensure that the customer's order is accurate and to provide clear instructions for the production and delivery of the custom frame. Before completing this form, please ensure that you have reviewed your artwork and have all the necessary information required for the order. If you are unsure about any of the fields, please contact our customer service team for clarification.
-
-</thinking>
-
 # Art Gallery Frame Order Form - Help Guide
 ## Purpose
 This form is used to place orders for custom art gallery frames. It collects customer contact information, framing specifications, and order logistics details to ensure that your order is accurate and can be produced and delivered correctly.

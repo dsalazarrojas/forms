@@ -1,6 +1,3 @@
-<thinking>
-The Art Gallery Curator Onboarding Form is designed to be filled out by new art gallery curators as part of the onboarding process. It's essential to ensure that the information collected is accurate and complete. The form is intended to be a one-time process to gather necessary details for onboarding a new curator into the organization. To avoid any confusion, we'll review the form's purpose and requirements before proceeding.</thinking>
-
 # Art Gallery Curator Onboarding Form - Help Guide
 ## Purpose
 The Art Gallery Curator Onboarding Form is designed to help new art gallery curators provide essential information for onboarding purposes. It helps the HR department and other stakeholders understand the curator's needs, background, and availability for onboarding.

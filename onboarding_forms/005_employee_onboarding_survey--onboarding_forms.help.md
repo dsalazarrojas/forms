@@ -1,11 +1,3 @@
-<thinking>Here are the internal considerations for this form:
-
-The purpose of this form is to collect feedback and information from new employees during the onboarding process. This data can be used by the management team to improve the onboarding process, understand employee satisfaction, and make data-driven decisions.
-
-To ensure the integrity of the data, it is essential to verify that the form is only completed once per employee and that the responses are consistent with the actual onboarding process. This can be achieved by implementing controls to prevent duplicate submissions and validating the data against actual onboarding records.
-
-The form collects feedback on various aspects of the onboarding process, including the job title, department, onboarding date, onboarding program, and satisfaction with different teams and departments. The form also asks for suggestions on how to improve the onboarding process.</thinking>
-
 # Employee Onboarding Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and information from new employees during the onboarding process. This data will be used by the management team to improve the onboarding process, understand employee satisfaction, and make data-driven decisions.

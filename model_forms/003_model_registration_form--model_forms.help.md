@@ -1,21 +1,3 @@
-<thinking>... (Internal reasoning block)
-
-The "model_registration_form" is a form designed to collect registration information from users. Its purpose is to gather basic contact and demographic details to create or update user models. This form is intended to be used during model creation or editing processes. 
-
-The form fields included are: 
-- First Name 
-- Last Name 
-- Email 
-- Birth Date 
-- Phone Number 
-- Contact Address 
-
-These fields will be used to populate the corresponding model attributes. 
-
-There is no specific validation on the form fields, hence it is assumed that users will fill in accurate and complete information. 
-
-</thinking>
-
 # model_registration_form - Help Guide
 ## Purpose
 The model_registration_form is a form used to collect registration information from users during model creation or editing processes. It populates the corresponding model attributes with the collected data.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather information about new managers' experiences and feedback on the onboarding process and their overall satisfaction with the company. The form is intended to be completed by new managers after they have completed their onboarding process, typically within the first few weeks of their new role. 
-
-The purpose of this form is to help the company identify areas of improvement and make data-driven decisions to enhance the onboarding process and overall management experience.
-
-Please make sure to complete this form carefully, as your feedback is valuable to us.
-
-</thinking>
-
 # New Manager Onboarding Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information about new managers' experiences and feedback on the onboarding process and their overall satisfaction with the company.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Return To Vendor Form - Help Guide
 
 ## Purpose

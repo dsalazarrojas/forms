@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect nominations for the EdTech Innovation Award. Before proceeding, please ensure that you have a valid reason for nominating someone and that you have not already submitted a nomination for the same person. If you have done so, please do not resubmit. Nominations are for individuals who have demonstrated outstanding innovation and dedication to the field of education technology. Please provide accurate and complete information for all fields to ensure a successful submission.</thinking>
-
 # EdTech Innovation Award Nomination Form - Help Guide
 ## Purpose
 This form is used to collect nominations for the EdTech Innovation Award. The purpose of this award is to recognize and celebrate outstanding innovations in the field of education technology.

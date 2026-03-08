@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from merchants about custom label orders. Merchants need to fill in various fields such as custom label details, merchant info, order details, product info, customer info, order status, shipping details, payment method, payment status, customer email, and customer phone. This form helps the merchants provide accurate and complete order information for further processing. 
-</thinking>
-
 # Custom Label Order Form - Help Guide
 ## Purpose
 The Custom Label Order Form is designed to collect information from merchants for custom label orders. This form helps merchants provide accurate and complete order information for further processing.

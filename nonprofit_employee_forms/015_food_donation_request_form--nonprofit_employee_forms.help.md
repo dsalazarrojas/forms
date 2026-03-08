@@ -1,7 +1,3 @@
-<thinking>
-Nonprofit organizations may use the Food Donation Request Form to request food donations from suppliers. This form helps them gather essential information about the organization and the specific food items they are requesting. By completing this form, nonprofits can effectively communicate their needs and increase the chances of receiving the donations they require.
-</thinking>
-
 # Food Donation Request Form - Help Guide
 ## Purpose
 The Food Donation Request Form is used to gather information from nonprofit organizations requesting food donations from suppliers.

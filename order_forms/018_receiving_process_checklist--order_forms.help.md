@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to document and record the receiving process for goods or shipments at a warehouse or distribution center. The purpose of this form is to ensure accurate and efficient tracking of incoming deliveries, and to provide relevant information for inventory management, quality control, and other relevant processes. This form is not intended to be a comprehensive order management system, but rather a tool to support the receiving process. 
 
 # Receiving Process Checklist - Help Guide

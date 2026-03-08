@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from volunteers about their availability to work. The form includes fields for volunteer name, phone number, email address, and other relevant details such as availability dates, time slots, and hours per week. 
-The purpose of this form is to help volunteers share their availability so that the organization can better manage volunteer shifts and schedules. It is expected that volunteers will fill out this form to provide accurate and complete information about their availability.
-
-This form is not designed to be filled out multiple times, and each submission should contain unique information about the volunteer.
-
-Please note that some fields in this form might have been copied or duplicated during the initial design process. Please verify that each field is unique and only used once to avoid confusion or errors.
-</thinking>
-
 # Volunteer Availability Form - Help Guide
 ## Purpose
 This form is designed to collect information from volunteers about their availability to work. The purpose of this form is to help volunteers share their availability so that the organization can better manage volunteer shifts and schedules.

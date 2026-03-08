@@ -1,5 +1,3 @@
-<thinking>Shipping Carton Size Test Order Form is used for testing the shipping carton size, it's not a production order form, and it's meant to be filled out by customers or test users. It's likely used for testing the delivery process, and users should not fill it out for actual delivery purposes. If you're unsure, please check with your supervisor or delivery team to confirm whether you're supposed to use this form for production or testing.</thinking>
-
 # Shipping Carton Size Test Order Form - Help Guide
 ## Purpose
 The Shipping Carton Size Test Order Form is a test order form used for testing the delivery process. It should not be used for actual delivery purposes.

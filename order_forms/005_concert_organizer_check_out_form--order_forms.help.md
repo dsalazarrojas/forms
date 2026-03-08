@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for concert attendees to complete their order details for tickets, event selection, and payment information. The form ensures that attendees provide all necessary information, including event selection, date, ticket quantity, ticket type, payment method, and billing address. The form also offers options for add-ons, such as parking passes and merchandise packages. To prevent any potential errors, all required fields are marked as such in the form. The form is designed to be user-friendly and easy to navigate, allowing attendees to quickly and accurately complete their order. Please make sure to review all fields carefully before submitting the form.
-
-</thinking>
-
 # Concert Organizer Check Out Form - Help Guide
 ## Purpose
 This form is designed to collect information from concert attendees to complete their order details for tickets and add-ons.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to help us onboard new stores and collections onto our platform, ensuring that we have all necessary information to provide them with a smooth and successful experience. This form is intended for business owners and managers of existing or new stores who are interested in joining our online marketplace. Please make sure you're submitting this form as part of our onboarding process. Note that you should only submit one form per store/collection.
-
-</thinking>
-
 # Bhuntas Collection/E Store Onboarding Form - Help Guide
 ## Purpose
 This form is used to provide necessary information to onboard new stores and collections onto our platform, helping us to better understand your store's needs and ensure a successful experience.

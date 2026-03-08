@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about an individual's nail care habits, including how often they get their nails done, the frequency of nail polish usage, removal methods, and preferred brands and products. This form is designed to be a comprehensive survey, asking questions that cover various aspects of nail care behavior. It is intended for use in a research context, such as understanding consumer behavior or preferences related to nail care. To ensure the form's integrity, each question is carefully crafted to avoid duplication and ensure that the survey is easy to complete.
-</thinking>
-
 # nail_care_frequency_survey - Help Guide
 ## Purpose
 This guide will walk you through the "nail_care_frequency_survey" form, explaining each field and providing instructions on how to complete it.

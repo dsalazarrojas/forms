@@ -1,7 +1,3 @@
-<thinking>
-This form is for recording information about a shipment that has been received by a company or organization. The form is designed to capture details such as shipment ID, date received, temperature of the shipment, unit of measurement, and contact information for the shipper. The form does not require any mandatory fields, allowing users to provide relevant information as needed. This form is likely used for inventory management, quality control, or tracking purposes.
-</thinking>
-
 # receiving_temperature_form - Help Guide
 ## Purpose
 This form is for recording information about a shipment that has been received by a company or organization.

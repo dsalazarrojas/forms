@@ -1,5 +1,3 @@
-<thinking>...The "teacher-gift-certificate-order-form" is a form used for ordering a gift certificate for a teacher. This form is designed to collect information from the user to create a customized gift certificate... </thinking>
-
 # teacher-gift-certificate-order-form - Help Guide
 ## Purpose
 This form is used to order a gift certificate for a teacher, collecting information such as the recipient's name, email, gift amount, message, and order date and time. This form is typically used by school administrators or teachers to place an order for a gift certificate to be given to a teacher.

@@ -1,7 +1,3 @@
-<thinking>
-As a new hire, it's essential to complete the New Hire Onboarding Form accurately to ensure a smooth and efficient onboarding process. This form is used to gather essential information about the new hire, including their employee details, contact information, emergency contact details, and job-specific details such as job title, department, and supervisor. The form is divided into two main sections: Employee Details and Job Details. The Employee Details section includes fields such as Employee ID, name, and contact information. The Job Details section includes fields such as job title, department, and supervisor. Please ensure that you fill out the form correctly and thoroughly to avoid any potential issues during the onboarding process. 
-</thinking>
-
 # New Hire Onboarding Form - Help Guide
 ## Purpose
 The New Hire Onboarding Form is used to gather essential information about new hires to ensure a smooth and efficient onboarding process.

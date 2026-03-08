@@ -1,7 +1,3 @@
-<thinking>
-This template is designed for restaurants to take online orders during the COVID-19 pandemic. The purpose of this form is to collect customer information, order preferences, and payment details while ensuring social distancing and contactless order handling. It's essential to follow the guidelines provided to complete the form correctly. Please review this help guide before proceeding to avoid any duplication or confusion.
-</thinking>
-
 # COVID 19 Restaurant Online Ordering Template - Help Guide
 ## Purpose
 This form is created for restaurants to manage online orders during the pandemic while maintaining social distancing and contactless order handling. It's a crucial tool for customers to place orders with confidence and for restaurants to manage their orders efficiently.

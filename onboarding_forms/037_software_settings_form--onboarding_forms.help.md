@@ -1,5 +1,3 @@
-<thinking>As we aim to onboard our users smoothly, this form will aid the support team in understanding the users' software-related requests and settings. This includes capturing the user's request type, software category, and other relevant details to ensure that the team provides the best possible support experience.</thinking>
-
 # software_settings_form - Help Guide
 ## Purpose
 This form is designed to gather information from users about their software-related requests and settings to ensure that our support team can provide efficient and effective assistance.

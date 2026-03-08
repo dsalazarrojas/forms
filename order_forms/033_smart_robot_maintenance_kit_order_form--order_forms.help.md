@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the Smart Robot Maintenance Kit Order Form, a crucial tool for managing orders and ensuring efficient maintenance of robots. Before proceeding, please review the form's content and ensure that you are in the correct context for this specific form. This form is meant to gather information for order-related tasks, and any duplication or incorrect completion may lead to errors or loss of order data.
-
-</thinking>
-
 # Smart Robot Maintenance Kit Order Form - Help Guide
 
 ## Purpose

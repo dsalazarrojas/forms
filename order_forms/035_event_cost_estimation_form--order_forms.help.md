@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## event_cost_estimation_form - Help Guide
 
 ## Purpose

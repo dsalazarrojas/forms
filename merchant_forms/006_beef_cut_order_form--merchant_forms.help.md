@@ -1,9 +1,3 @@
-<thinking>
-The form is intended to collect order information for beef cuts from customers. It will ask for the order date, customer details, delivery information, desired delivery date, beef grade, cut types, quantities, special requests, packaging preference, payment method, and estimated total cost. This form will likely be used by butchers, meat markets, or beef suppliers to process and fulfill orders from customers. This form does not require any additional fields or logic outside of what is provided in the inputSchema.
-
-It is essential to ensure the form is filled out accurately and completely to avoid errors and miscommunication. The form should not be used for any other purpose but the intended use of collecting and fulfilling beef orders from customers.
-</thinking>
-
 # Beef Cut Order Form - Help Guide
 ## Purpose
 The Beef Cut Order Form is designed to collect order information for beef cuts from customers. This guide will walk you through each field of the form to help you fill it out accurately and efficiently.

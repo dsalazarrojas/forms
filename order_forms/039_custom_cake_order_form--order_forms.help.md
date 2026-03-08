@@ -1,8 +1,3 @@
-<thinking>
-The form is called "custom_cake_order_form" and its primary purpose is to collect information for a custom cake order. This form has multiple pages with various fields to gather details about the order, including customer information, cake design, and payment information. The form should be completed by customers to submit their custom cake orders. To prevent duplicate orders or incomplete submissions, it's essential to ensure that each field is filled out correctly.
-
-</thinking>
-
 # custom_cake_order_form - Help Guide
 ## Purpose
 The custom_cake_order_form is used to collect information for a custom cake order, ensuring that all required fields are filled out accurately.

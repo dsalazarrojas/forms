@@ -1,10 +1,3 @@
-<thinking>
-# This form is used to collect information from customers to pre-order a new health supplement product. 
-This form is designed for customers to input their details, shipping information, and payment method preferences. 
-This form will help us to get the customer's consent for shipping, payment method, and other details. 
-The form does not have a duplicate entry prevention mechanism, so users may fill in the form multiple times. 
-
-</thinking>
 # health_supplement_launch_pre_order_form - Help Guide
 ## Purpose
 This form is designed to collect information from customers to pre-order a new health supplement product. It will help us get the customer's consent for shipping, payment method, and other details.

@@ -1,13 +1,3 @@
-<thinking>
-A shelf price tag roll order form is used to record orders for shelf price tags, which are tags used to display prices on shelves or racks. The form helps to gather information about the order such as tag type, quantity, color, material type, size, shape, color type, font, font size, tag size, order date, notes, customer name, email, phone number, address, city, state, post code, and country. 
-This form is typically used by store managers or retail personnel to record orders for shelf price tags.
-This form is used for recording orders for one-time orders, so users should be aware of the following:
-* This form does not support partial quantities.
-* If the quantity is zero or less, the order will not be accepted.
-* This form does not allow for editing or updating existing orders.
-* This form is not designed to handle recurring orders.
-</thinking>
-
 # Shelf Price Tag Roll Order Form - Help Guide
 ## Purpose
 This form is used to record orders for shelf price tags.

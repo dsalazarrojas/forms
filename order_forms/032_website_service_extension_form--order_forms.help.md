@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Website Service Extension Form - Help Guide
 ## Purpose
 The Website Service Extension Form is designed to collect information from users about their website service extension needs and preferences. This form helps us understand what services users are interested in and how we can better serve them.

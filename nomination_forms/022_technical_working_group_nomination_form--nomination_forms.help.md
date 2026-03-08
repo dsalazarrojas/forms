@@ -1,15 +1,3 @@
-<thinking>
-This form is used to nominate a member or members to a technical working group. Nominations are reviewed by a committee to determine whether the nominated individual(s) have the necessary expertise and availability for the working group. The form is used to submit a nomination for a specific individual or multiple individuals.
-
-To determine whether a nomination is eligible, the form will check for the following:
-
-* The form must not already be in review.
-* The form must not already have a valid submission date.
-* The form must not already be closed.
-
-If a nomination is eligible, the committee will review the submission and make a decision.
-</thinking>
-
 # Technical Working Group Nomination Form - Help Guide
 ## Purpose
 This form is used to nominate a member or members to a technical working group.

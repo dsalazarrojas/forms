@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's break down the purpose and requirements of the Pacemaker Device Check Form. This form is likely used for monitoring the status and maintenance of pacemakers, which are medical devices implanted in patients to regulate heart rhythms. The form's purpose is to gather information about a patient's pacemaker device, including its model, type, and status. It also collects data on the device's performance, such as battery charge, software and hardware updates, and follow-up appointments. The form may be used by medical professionals to monitor patient data and ensure the pacemaker is functioning properly. To prevent duplication, it's essential to check for existing records before completing this form.</thinking>
-
 # Pacemaker Device Check Form - Help Guide
 ## Purpose
 The Pacemaker Device Check Form is used to monitor and maintain pacemaker devices, ensuring they are functioning correctly and efficiently.

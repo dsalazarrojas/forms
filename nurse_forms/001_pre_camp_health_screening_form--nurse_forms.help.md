@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Pre Camp Health Screening Form is to collect important health information from campers before their arrival at the camp. This form aims to identify any potential health risks or concerns that may impact the camper's ability to participate in camp activities. By completing this form, the camper's health status will be assessed, and any necessary precautions will be taken to ensure their safety and well-being during the camp. It is essential to provide accurate and honest information, as this will help the camp staff to provide appropriate care and attention. Please note that some fields are required to ensure that we can provide the best possible care for you.
-</thinking>
-
 # Pre Camp Health Screening Form - Help Guide
 ## Purpose
 The Pre Camp Health Screening Form is designed to collect health information from campers before their arrival at the camp. This form helps the camp staff assess the camper's health status and take necessary precautions to ensure their safety and well-being during the camp.

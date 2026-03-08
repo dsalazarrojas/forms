@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for book supply orders from various customers. It is intended for customers from different categories such as schools, libraries, bookstores, universities, businesses, and individuals. The form is meant to collect order details including customer information, shipping address, book titles, quantities, and payment methods. The form is required for every field marked as `required` in the input schema.
-</thinking>
-
 # Book Supply Order Request Form - Help Guide
 ## Purpose
 

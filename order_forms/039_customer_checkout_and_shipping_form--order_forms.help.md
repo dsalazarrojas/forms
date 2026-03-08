@@ -1,7 +1,3 @@
-<thinking>...The "Customer Checkout And Shipping Form" is a form designed to collect information from customers for the purpose of processing their orders and facilitating shipping. This form is intended to be used in a retail or e-commerce context, where customers need to provide their details and shipping information for their orders to be processed and delivered. The form is likely to be used in conjunction with an online store or e-commerce platform. This form should not be used for any other purpose, such as creating a survey or collecting sensitive personal data for other means.
-
-</thinking>
-
 # Customer Checkout And Shipping Form - Help Guide
 ## Purpose
 This form is used to collect customer information and shipping details for orders being processed in an online store or e-commerce platform.

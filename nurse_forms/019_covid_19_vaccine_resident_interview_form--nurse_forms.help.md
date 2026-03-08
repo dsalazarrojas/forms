@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information about residents who have received the COVID-19 vaccine. It is used to track and record the vaccine administration status of residents, including their medical condition, contact information, vaccine type, and follow-up schedules. The form is designed to help healthcare staff efficiently gather necessary data for resident care.
-Before filling out this form, please note that some fields are optional and are not required for all residents.
-</thinking>
-
 # Covid 19 Vaccine Resident Interview Form - Help Guide
 
 ## Purpose

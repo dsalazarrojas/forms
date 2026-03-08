@@ -1,7 +1,3 @@
-<thinking>
-The onboarding checklist verification form is a crucial tool used to verify employee information and ensure a smooth onboarding process. It's essential to understand the form's purpose and how to complete it correctly to avoid duplication of effort and ensure accuracy. This form is used to collect essential details about an employee's job title, department, reporting manager, job family, job function, hire date, employment terms, job classification, reporting line, work location, team, manager's email, direct manager, manager's phone, job level, job category, reporting line name, job type, and manager's email phone. The form is designed to be completed by employees during their onboarding process, and it's a vital document that helps the HR department verify the employee's information accurately.
-</thinking>
-
 # Onboarding Checklist Verification Form - Help Guide
 ## Purpose
 The onboarding checklist verification form is a critical tool used to collect and verify employee information during the onboarding process. It's essential to complete this form correctly to ensure that the HR department has accurate and up-to-date information about the new employee.

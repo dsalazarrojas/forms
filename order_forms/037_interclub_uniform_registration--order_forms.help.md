@@ -1,11 +1,4 @@
-><thinking>
-This guide is intended for users who are unfamiliar with the Interclub Uniform Registration form. It's designed to provide a clear and concise overview of the form's purpose, fields, and how to complete it.
-
-To start, the Interclub Uniform Registration form is used to collect information from users who wish to register for an event or join a club. The form is divided into several sections, each with its own purpose and set of fields. This guide will walk you through each section and field to ensure you understand what information is required and how to complete the form accurately.
-
-</thinking>
-
-# Interclub Uniform Registration - Help Guide
+># Interclub Uniform Registration - Help Guide
 ## Purpose
 The Interclub Uniform Registration form is used to collect information from users who wish to register for an event or join a club. This form helps our team to efficiently process registrations and ensure that all necessary information is gathered accurately.
 

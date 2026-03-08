@@ -1,11 +1,3 @@
-<thinking>
-This form is for customers who want to place a pre-order for home electronics, such as TVs, soundbars, and gaming consoles. The form will help customers provide necessary information for the order process, including their user information, delivery and shipping details, payment method, list of order items, any additional order notes, and contact information for customer support.
-
-The form is designed to be a simple and streamlined way for customers to provide all the required information in one place, reducing the need for multiple back-and-forth communication with the store staff.
-
-To prevent duplication of effort, the form is intended to be used by customers who are serious about placing an order and have all the necessary information ready to go. If a customer is unsure about any part of the form or needs additional assistance, they can always contact customer support directly.
-</thinking>
-
 # Electronics Home Entertainment Pre Order Form - Help Guide
 ## Purpose
 This form is designed for customers to place a pre-order for home electronics products such as TVs, soundbars, and gaming consoles.

@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to be a simplified order form for industrial air purifiers. The purpose of this form is to collect information about the air purifier model, quantity, and shipping details. This form is designed to be completed by customers who wish to purchase industrial air purifiers from the company.
-Before filling out this form, please ensure that you have reviewed the available air purifier models and their specifications to select the correct model for your needs. Also, double-check that you have entered the correct shipping details to avoid any issues with delivery.
-This form is a one-time order form, so you will not need to fill it out multiple times. If you have any questions or concerns, please contact our support team for assistance.
-</thinking>
-
 # industrial_air_purifier_order_form - Help Guide
 ## Purpose
 The industrial air purifier order form is designed to collect information for purchasing industrial air purifiers. Please fill out this form to place an order.

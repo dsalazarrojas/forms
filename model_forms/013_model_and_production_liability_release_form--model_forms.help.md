@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about participants and models involved in a project, including their consent to release models for production use. The form aims to ensure that all parties involved understand and agree to the terms of the project's release. It's essential to fill out this form carefully and thoroughly to ensure that all necessary information is provided.
-
-The following help guide will walk you through each section of the form to help you complete it accurately.
-
-Please note that this form is not a legal document and should not be relied upon as such. If you are unsure about any aspect of the form, please seek advice from a qualified legal professional.
-
-</thinking>
 # Model And Production Liability Release Form - Help Guide
 ## Purpose
 This form is designed to collect information about participants and models involved in a project, including their consent to release models for production use.

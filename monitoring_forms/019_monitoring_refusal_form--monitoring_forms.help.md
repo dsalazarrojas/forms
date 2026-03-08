@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Monitoring Refusal Form - Help Guide
 
 ## Purpose

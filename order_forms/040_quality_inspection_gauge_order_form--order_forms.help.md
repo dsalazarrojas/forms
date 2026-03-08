@@ -1,9 +1,3 @@
-<thinking>
-The "Quality Inspection Gauge Order Form" is a critical component of the quality control process, designed to capture essential information for the inspection and gauge order process. This form is intended to gather details about the shipment, gauge order, customer, and order specifics to ensure accurate and efficient processing. It is crucial to fill out this form accurately to prevent errors and miscommunications during the inspection and gauge order process.
-
-Before proceeding, please review the form carefully to ensure you are not duplicating any information that may already be known to the system or team members involved in the process. This will help maintain data accuracy and reduce the risk of unnecessary processing delays.
-</thinking>
-
 # Quality Inspection Gauge Order Form - Help Guide
 ## Purpose
 The Quality Inspection Gauge Order Form is a document used to order quality inspection gauges, which are essential for monitoring and maintaining the quality of products. This form ensures that all necessary information is collected to complete the inspection process accurately and efficiently.

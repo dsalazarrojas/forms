@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a towing service request. The form will help the end user provide details about the vehicle they wish to transport, the type of service needed, and other relevant information for the towing service company to fulfill the request effectively. This form will help in reducing the time spent on phone calls and emails for the service provider, making the entire process efficient.
-</thinking>
-
 # Towing-Service-Request-Form - Help Guide
 ## Purpose
 The purpose of this form is to provide a structured way for customers to submit a towing service request, including details about their vehicle, the type of service needed, and contact information.

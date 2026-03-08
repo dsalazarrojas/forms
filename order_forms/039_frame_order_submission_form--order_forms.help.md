@@ -1,7 +1,3 @@
-<thinking>
-To determine if a form is truly necessary, let's analyze the fields provided. The form has several sections, including frame order details, artwork upload, delivery preferences, and delivery information. The purpose of the form appears to be to collect information related to frame orders, specifically about the frame itself, the artwork associated with it, and the delivery details. This form does not seem to be a duplication of an existing form, as there is no identical form in the given context. Therefore, it is likely a new or supplementary form for specific business needs.
-</thinking>
-
 # Frame Order Submission Form - Help Guide
 
 ## Purpose

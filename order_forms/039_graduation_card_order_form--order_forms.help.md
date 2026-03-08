@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Graduation Card Order Form - Help Guide
 ## Purpose
 The Graduation Card Order Form is designed to capture relevant details from students and their parents/guardians to ensure a smooth graduation ceremony. This form should be filled out by students to provide accurate information for their graduation card.

@@ -1,10 +1,3 @@
-<thinking>
-This form is for generating a digital twin creation quotation for a customer.
-The form is designed to collect information from the customer to create a personalized digital twin, which is a digital replica of a physical object or system.
-Before filling out this form, please ensure that you are using it for the intended purpose and not duplicating work that has already been done. If you need to create a digital twin for a customer you are already familiar with, it's best to use an existing template.
-Please be aware that some fields might require additional information or clarification from you. In that case, you will need to contact the administrator for further assistance.
-</thinking>
-
 # Digital Twin Creation Quotation Form - Help Guide
 ## Purpose
 The Digital Twin Creation Quotation Form is used to generate a digital twin for a customer based on their information and requirements. The form is designed to be as straightforward as possible while ensuring that all necessary details are captured to create a accurate digital twin.

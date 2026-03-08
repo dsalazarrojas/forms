@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to guide users through the process of placing an order for material handling crane components. The purpose of this form is to gather necessary information from customers to facilitate accurate processing and fulfillment of their orders. This form should be used for new orders only, and any existing or duplicate orders should not be submitted through this form.
-</thinking>
-
 # Material Handling Crane Component Order Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information for placing a new order for material handling crane components. Please complete this form with your order details for our team to process and fulfill your request.

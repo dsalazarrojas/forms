@@ -1,27 +1,3 @@
-<thinking>
-The form purpose is to collect information for driver service inquiries, which is a crucial aspect of providing excellent customer service. This form is designed to gather details about the user's preferences and requirements for their driver service needs. By filling out this form, users can ensure that their requests are handled efficiently and effectively.
-
-To complete this form, follow these steps:
-
-1.  Select the "User" option that best describes your role in this inquiry.
-2.  Provide your phone number in the "Phone" field.
-3.  Enter your email address in the "Email" field.
-4.  Choose the type of service you require from the "Service Type" options.
-5.  If applicable, select "Yes" for pickup and dropoff services.
-6.  Provide detailed information in the "Inquiry Details" field.
-7.  If necessary, add additional comments in the "Additional Comments" field.
-8.  Add any relevant notes in the "Notes" field.
-9.  Confirm if you have an assigned tool from the "Assigned Tool" options.
-10.  Add any further comments or notes in the "Notes 2" field.
-11.  Confirm if you have any further signature requirements from the "Signature 2" options.
-12.  Enter the date and time for the signature in the "Date 2" and "Time 2" fields.
-13.  Confirm if you have an assigned tool 2 from the "Assigned Tool 2" options.
-14.  Enter your email address in the "Email 2" field.
-15.  Enter your phone number in the "Phone 2" field.
-
-Please ensure that all required fields are filled in accurately and thoroughly.
-</thinking>
-
 # driver_service_inquiry_form - Help Guide
 ## Purpose
 The driver service inquiry form is designed to collect information for driver service inquiries.

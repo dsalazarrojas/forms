@@ -1,5 +1,3 @@
-<thinking>As a Construction Safety Excellence Award Nomination Form, this form is designed to collect information from nominators about safety achievements or contributions that warrant recognition for safety excellence in the construction industry. It's essential to ensure that the nominee meets the eligibility criteria and that the nomination is not a duplicate. To complete this form accurately, please follow these steps:</thinking>
-
 # Construction Safety Excellence Award Nomination Form - Help Guide
 ## Purpose
 The purpose of this form is to recognize and celebrate individuals or teams that have demonstrated exceptional safety achievements or contributions in the construction industry.

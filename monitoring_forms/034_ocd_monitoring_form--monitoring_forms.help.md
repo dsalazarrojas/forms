@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended for monitoring the progression of patients with Obsessive-Compulsive Disorder (OCD). It is likely to be used by healthcare professionals, such as therapists or psychologists, to track the symptoms, treatment plans, and progress of patients with OCD. The form might be used in clinical settings or private practices. The questions in this form aim to gather information on the patient's symptoms, treatment responses, and progress, which can help healthcare professionals make informed decisions.
-
-The form is not intended for general public use and requires a medical professional to review and understand the data collected.
-
-</thinking>
-
 # OCD Monitoring Form - Help Guide
 ## Purpose
 This form is designed for healthcare professionals to monitor the progression of patients with Obsessive-Compulsive Disorder (OCD). It gathers information on symptoms, treatment plans, and progress to aid in making informed decisions.

@@ -1,10 +1,3 @@
-<thinking>
-This guide is intended to be a step-by-step help document for end users to understand the form's purpose, how to complete it, and what each field means. Before creating this guide, I will analyze the provided YAML input to ensure that the form purpose and its individual fields are clear and concise. Given the form's title, it is likely used to request inventory for nail art and design products. The form appears to be used by a business or organization, possibly for internal order processing. The provided form fields are likely used to collect necessary information for order fulfillment, such as the stylist's name, contact phone number, item description, and quantity required. 
-
-This guide will be tailored to the specific needs of the end user, aiming to provide a straightforward and easy-to-understand explanation of each field. The goal is to minimize confusion and maximize the efficiency of completing the form.
-
-</thinking>
-
 # Clone Of Nail Art & Designs By Cassandra Powers On Hand Inventory Orders - Help Guide
 ## Purpose
 This form is used for requesting inventory orders for nail art and design products. It is intended for internal use by a business or organization, possibly for order processing and fulfillment.

@@ -1,10 +1,3 @@
-<thinking>
-The form, "laundry_service_online_order_form", is a crucial tool for customers to place orders for laundry services online. This form is designed to collect detailed information from customers to ensure efficient and effective execution of their laundry orders. The form's primary goal is to gather essential details about the order, including the type of service required, the date and time for the service, and contact information for the customer.
-
-To prevent duplication, it's essential to review the form carefully before submission. Make sure to fill out all required fields and double-check the information provided. This guide will walk you through each section of the form to help customers complete it accurately and confidently.
-
-</thinking>
-
 # laundry_service_online_order_form - Help Guide
 ## Purpose
 The "laundry_service_online_order_form" is designed to collect detailed information from customers to process their online orders efficiently.

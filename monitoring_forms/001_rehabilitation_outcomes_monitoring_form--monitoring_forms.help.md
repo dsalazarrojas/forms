@@ -1,9 +1,3 @@
-<thinking>
-This form is used for monitoring rehabilitation outcomes. The purpose of this form is to collect data on patient progress, including their name, medical record number, and other relevant information. 
-The form is used for tracking patient outcomes, including dates of admission and discharge, to ensure that patients are receiving proper care and follow-up. 
-This form is intended for medical professionals to use in a clinical setting.
-</thinking>
-
 # rehabilitation_outcomes_monitoring_form - Help Guide
 ## Purpose
 The rehabilitation_outcomes_monitoring_form is used for monitoring patient progress and outcomes.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for collecting payment information from exhibitors for an exhibition. It appears to be a straightforward payment form, suitable for in-person events, conferences, or trade shows. To confirm its purpose and relevance, I'll review the form's schema and provide guidance on how to complete it and what each field is intended for.
-
-</thinking>
-
 # Exhibition Booth Payment Form - Help Guide
 ## Purpose
 This form is designed to collect payment information from exhibitors for an exhibition, typically for booth fees, merchandise, or other services. It's likely used by event organizers or staff to manage payments efficiently.

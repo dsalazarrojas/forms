@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Franchise Brand Onboarding Kit Order Form - Help Guide
 
 ## Purpose

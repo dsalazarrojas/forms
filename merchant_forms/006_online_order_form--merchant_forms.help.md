@@ -1,7 +1,3 @@
-<thinking>
-To create the help guide for the "Online Order Form", we'll need to understand the form's purpose and requirements.
-</thinking>
-
 # Online Order Form - Help Guide
 ## Purpose
 This guide explains how to complete the "Online Order Form" for sending orders or messages to a receiver. The form is designed for sending orders or messages to a specific person or address, and allows you to select options and add a personal message.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for users to provide information about the rental of gym equipment. The purpose of this form is to collect details about the equipment that needs to be rented, including the type of equipment, the quantity, and the rental start and end dates. This form is likely used by gym management to track and manage equipment rentals. To avoid confusion with other forms, it's essential to understand the distinction between this form and other forms in the system.
-
-This guide will walk through the completion of the Gym Equipment Rental form, explaining each field's purpose and required information.
-
-</thinking>
-
 # Gym Equipment Rental - Help Guide
 
 ## Purpose

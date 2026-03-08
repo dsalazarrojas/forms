@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # RPPNails PARTY Order Form! - Help Guide
 
 ## Purpose

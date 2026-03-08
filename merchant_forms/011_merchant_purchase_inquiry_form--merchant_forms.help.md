@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from merchants regarding their purchase inquiries. The form is designed to be simple and easy to navigate, with various fields that cover different aspects of the purchase process. It is likely used to facilitate communication between merchants and the organization, ensuring that all the necessary details are captured and recorded accurately.
-
-Before we dive into the explanation of each field, it would be good to clarify that the form seems to have some redundant fields (e.g., `purchase_terms_2`, `purchase_terms_3`, `purchase_terms_4`, `purchase_terms_5`), and `contact_phone` fields seem to have multiple instances (e.g., `contact_phone`, `contact_phone_2`, `contact_phone_3`, `contact_phone_4`). It would be best to review the requirements and decide which fields are truly necessary and should be included in the form.
-
-Assuming this has been done, here is a suggested help guide:
-</thinking>
-
 # Merchant Purchase Inquiry Form - Help Guide
 ## Purpose
 This form is designed to collect information from merchants regarding their purchase inquiries. This form will help the organization gather necessary details about the merchant's purchases, ensuring that all parties involved are on the same page.

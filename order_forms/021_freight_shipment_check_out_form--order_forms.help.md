@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, I'll review the form's purpose and ensure I'm not duplicating any existing resources. This form appears to be for checking out freight shipments, which suggests it's for tracking and processing shipment information for customer payments. Let's assume this form is part of a larger logistics or e-commerce system. I'll aim to provide a clear and concise guide for users to fill out the form correctly.</thinking>
-
 # Freight Shipment Check Out Form - Help Guide
 ## Purpose
 This form is used to record and verify information for customer shipments, ensuring accurate payment processing and tracking.

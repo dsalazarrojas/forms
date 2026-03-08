@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this "Supplies Order Form" is to gather information to create or update an order for supplies. This form is used within the internal workflow of the organization to facilitate the procurement process.
-
-Before proceeding to complete this form, check that you have a clear understanding of the supplies being ordered and the requirements of the order. Ensure that the form is not being duplicated, as this may lead to unnecessary work and potential errors. This form is designed to gather all the necessary details to ensure that the order is processed correctly and efficiently.
-
-</thinking>
-
 # supplies order form - Help Guide
 ## Purpose
 The "Supplies Order Form" is used to gather information to create or update an order for supplies within the organization's internal workflow.

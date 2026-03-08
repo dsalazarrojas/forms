@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to log and track details about SSH sessions. This information can be useful for troubleshooting and auditing purposes. Before proceeding, please ensure you have all the necessary information about the SSH session you want to log. You will likely be using this form in conjunction with other monitoring or audit logs.
-
-</thinking>
-
 # SSH Audit Log Form - Help Guide
 ## Purpose
 The SSH Audit Log Form is used to record and review details about SSH sessions. This form helps you keep track of session information for future reference and troubleshooting.

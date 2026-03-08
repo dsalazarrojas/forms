@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering a user for a Nonprofit Leadership Seminar. It is designed to gather essential information from users, ensuring that they provide their details correctly. Before completing this form, please review the instructions carefully and make sure that you have filled in all the required fields.
-</thinking>
-
 # Nonprofit Leadership Seminar Registration Form - Help Guide
 ## Purpose
 This form is for registering for a Nonprofit Leadership Seminar. It is used to gather information from users to ensure they have the correct details recorded.

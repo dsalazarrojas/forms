@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to be filled out by patients to provide information about their next of kin and emergency contacts. The purpose of this form is to ensure that healthcare providers have accurate and up-to-date information about a patient's next of kin and emergency contacts in case of an emergency.
-
-This form should only be filled out by patients, and not by healthcare providers. 
-
-The form is divided into several sections, each of which is meant to capture specific information about the patient's next of kin and emergency contacts. The "Main Page" section is a general introduction to the form, and the remaining sections are each focused on a specific type of next of kin or emergency contact.
-
-</thinking>
-
 # Next Of Kin Form - Help Guide
 ## Purpose
 This form is designed to provide healthcare providers with accurate and up-to-date information about a patient's next of kin and emergency contacts. It is essential to fill out this form completely and accurately to ensure that healthcare providers can contact the right people in case of an emergency.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for users who need to pre-order organic pet food. The form is used to collect pet details, owner information, contact information, and order preferences. To ensure accurate and efficient processing, please fill out all required fields. The form's purpose is to streamline the ordering process for pet food and reduce potential errors.
-</thinking>
-
 # Organic Pet Food Pre-Order Form - Help Guide
 ## Purpose
 The Organic Pet Food Pre-Order Form is designed to collect necessary information from pet owners to place a pre-order for organic pet food. This form helps us understand your pet's needs and preferences to provide the best possible service.

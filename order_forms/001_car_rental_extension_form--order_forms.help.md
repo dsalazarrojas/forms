@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Car Rental Extension Form - Help Guide
 ## Purpose
 This form is designed for customers to request an extension to their existing car rental agreement. Please use this form to provide your new return date and any additional information required for the extension.

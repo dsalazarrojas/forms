@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # gala_model_application_form - Help Guide
 ## Purpose
 The "Gala Model Application Form" is a form designed to collect information from users about their model submissions. It is intended to be used by users who wish to apply for model-related opportunities or participate in model-related events. The form is part of a larger process that involves multiple interactions with the user and other stakeholders.

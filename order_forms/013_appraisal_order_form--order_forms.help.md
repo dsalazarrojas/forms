@@ -1,17 +1,3 @@
-<thinking>
-This form is likely used for ordering an appraisal, which is a valuation assessment of a property's value. The purpose of this form is to collect information about the property and the order details. This form is likely used by real estate professionals or appraisal companies to gather necessary information for conducting an appraisal. It's possible that this form is used to order a home appraisal, and it's also possible that it's used to order other types of appraisals such as commercial or property value estimates. To determine the exact purpose, it's best to review the form's fields and instructions.
-
-The form seems to be used for different types of appraisals. However, without further context or information, it's hard to determine the exact type of appraisals this form is used for.
-
-The form is not likely used for internal purposes within a single company, but rather for external communication or submission to external parties. This form might be filled out by clients or end-users, and it seems to be a form that is submitted online or printed out.
-
-This form might be part of a larger application or order process, and it might be used by different teams or departments within the organization. Without more information about the organization, it's hard to make further determinations.
-
-The form has 15 fields, including fields for order information, dates, loan officer name, contact email, property information, address, state, zip, type of property, type of appraisal, loan amount, purchase price, special instructions, and needed-by date. Some fields are required, while others are not.
-
-To complete this form, the user needs to provide the order information, select the type of property, select the type of appraisal, enter the property address and state, select the loan amount, enter the loan officer name, enter the contact email, enter the purchase price (if applicable), and select the needed-by date. The user also has the option to provide special instructions.
-</thinking>
-
 # Appraisal Order Form - Help Guide
 ## Purpose
 This form is used to collect information for ordering an appraisal, which is a valuation assessment of a property's value.

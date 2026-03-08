@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to capture customer and payment information for a one-time payment through Braintree. The purpose of this form is to ensure accurate and complete payment data is collected, which will later be used for receipt generation and payment confirmation. This form should only be filled out once for each payment transaction. 
-</thinking>
-
 # Braintree One Time Payment Template - Help Guide
 
 ## Purpose

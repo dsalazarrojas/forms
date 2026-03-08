@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback from volunteers about their experience with the organization, aiming to improve their experience and the programs offered. The survey is designed to be a quick and straightforward way to collect valuable insights and suggestions from volunteers. Before completing this form, please ensure that the feedback is specific to your personal experience and not a general comment on the organization as a whole.
-</thinking>
-
 # Volunteer Feedback Survey Template - Help Guide
 ## Purpose
 This guide is designed to provide step-by-step instructions on how to complete the volunteer feedback survey template.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Factory Equipment Fastener Order Form - Help Guide
 ## Purpose
 This form is designed to facilitate the ordering of fasteners for factory equipment. Fill out this form to provide the necessary information for our team to process your order.

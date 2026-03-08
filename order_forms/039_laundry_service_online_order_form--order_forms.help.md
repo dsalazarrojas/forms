@@ -1,7 +1,3 @@
-<thinking>
-This form is used for customers to place an order with a laundry service. The form collects information about pickup and delivery services, payment methods, and special instructions. This form is not intended for other purposes, and its fields are not duplicated in other forms. The form's layout is optimized for easy completion, and each field's label and description provide a clear indication of what is expected from the user.
-</thinking>
-
 # Laundry Service Online Order Form - Help Guide
 ## Purpose
 The Laundry Service Online Order Form is a user-friendly tool designed to collect information for customers to place an order with a laundry service. This form helps the customer to easily provide details about their laundry needs and payment preferences.

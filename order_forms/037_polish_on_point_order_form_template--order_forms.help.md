@@ -1,9 +1,3 @@
-<thinking>
-To be honest, it seems like you're asking me to generate a help guide for a form with a bit of a unique structure. The form is called "polish_on_point_order_form_template", and it appears to be related to a specific collection or product line, possibly with different seasons (Fall) as options. The form has 4 fields related to "Fall Collection" and their corresponding status (Yes/No). I'm not entirely sure what the form is for or how it will be used. Could this be for an e-commerce or retail setting? Please bear with me as I provide a guide that assumes this form is used for order or sales purposes, but I may be wrong.
-
-If you have more information about the form's context or business rules, I'd be happy to get more accurate.
-</thinking>
-
 # polish_on_point_order_form_template - Help Guide
 ## Purpose
 This form is intended for ordering or sales purposes, possibly related to a specific collection or product line.

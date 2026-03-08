@@ -1,13 +1,3 @@
-<thinking>
-
-This form, "shipping_container_inspection_form", is designed for inspectors to document the condition and certification status of a shipping container. The form is used to gather detailed information about the container's type, condition, safety features, and certification status. This form is crucial for ensuring that shipping containers are properly inspected and certified before being used for transportation, and it helps identify any potential issues or concerns that need to be addressed.
-
-This form appears to be part of a larger inspection process, and its completion is likely required for regulatory compliance, risk assessment, and quality control purposes. The form's layout and fields suggest a high level of complexity, which may indicate that the form is used for both initial and routine inspections.
-
-To confirm, the following fields are included to collect information about the container's type, condition, and safety features. There are also fields for documenting certification status, additional comments, and contact information.
-
-</thinking>
-
 # shipping_container_inspection_form - Help Guide
 ## Purpose
 This form is designed for inspectors to document the condition and certification status of a shipping container. It is used for regulatory compliance, risk assessment, and quality control purposes.

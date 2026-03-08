@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to capture information from potential Donor Communication Specialists who are applying for a role within a nonprofit organization. The purpose of this form is to gather essential details about the applicant's contact information, availability, skills, work experience, and attachments. This will help the organization assess the suitability of the candidate for the position.
-
-To avoid duplication, ensure that you are not submitting multiple applications for the same position. Internal teams will review each application carefully to ensure that only relevant and eligible candidates are shortlisted for further evaluation.
-
-Before proceeding, please note that some fields are optional, and you can skip them if not applicable to you. However, be honest about your availability and availability preferences as it will impact your suitability for the position.
-
-</thinking>
-
 # Donor Communication Specialist Application Form - Help Guide
 ## Purpose
 This form is designed to gather information from potential Donor Communication Specialists who are applying for a role within a nonprofit organization. It is essential to fill out the form accurately and thoroughly to ensure that your application is reviewed correctly.

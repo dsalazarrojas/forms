@@ -1,9 +1,3 @@
-<thinking>
-This form is used for processing orders for streetwear merchandise. It's essential to ensure that all fields are completed accurately to facilitate order fulfillment and payment processing.
-This form is a template, so it's a good idea to review its purpose and usage before starting to fill it out.
-The form's layout is designed to gather information for shipping and payment purposes. The fields are organized logically, with the customer's details at the top, followed by shipping information, and finally, payment details.
-</thinking>
-
 # Streetwear Order Form Template - Help Guide
 ## Purpose
 The Streetwear Order Form Template is a comprehensive form designed to process orders for streetwear merchandise in an efficient and accurate manner.

@@ -1,7 +1,3 @@
-<thinking>
-A help guide for the Freight Service Requisition Form should explain that the form is intended for users to submit a request for freight services. This form is used to create a new freight request, and the information provided in the form will be used to manage and fulfill that request. The form should be filled out by a user who wishes to request freight services, such as shipping a package or cargo. The form should be filled out only once for each new freight request.
-</thinking>
-
 # Freight Service Requisition Form - Help Guide
 ## Purpose
 This form is used to create a new freight request for shipping a package or cargo. Please fill out the form with accurate information to help us better serve your freight needs.

@@ -1,14 +1,3 @@
-<thinking>
-This form is part of a larger system that automates payment processing with Square, a financial services company that provides a robust payment platform. This guide will walk you through completing the Demo Square Payment form, which captures essential customer and order information for payment processing.
-
-The form is designed to be used in a variety of scenarios, such as when a customer places an order online, in-store, or via phone. It is used by customer-facing staff, such as sales associates, customer support, or cashiers, to efficiently process payments and update order status.
-
-This form is likely to be part of a larger order management system, and its purpose is to provide a structured and accurate way to capture customer data and order details.
-
-The form is not intended to be used for duplicate data entry, as most fields are marked as optional or have validation mechanisms to prevent duplicate entries.
-
-</thinking>
-
 # Demo Square Payment - Help Guide
 ## Purpose
 The Demo Square Payment form is used for processing customer payments, capturing order details, and updating order status. Its primary function is to streamline payment processing and ensure accurate record-keeping for orders.

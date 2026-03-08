@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a simple form used for processing orders for dad sweatshirts. To complete this form, follow the steps below.
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>Checking if the form is a duplicate or irrelevant, considering its title, category, and industry... this form appears to be a unique, soccer cleat order form. Its category "order_forms" and industry "soccer" suggest a form for customers or end-users to order soccer cleats, likely from a sports equipment provider. This form has 4 fields, including a cleat order field, a payment method field, a delivery preferences field, and a customer details field. The form seems to have some optional fields, which might be intended for end-users to provide additional information or preferences. To verify, let's review the form fields:</thinking>
-
 # Soccer Cleat Order Form - Help Guide
 ## Purpose
 This form is designed for customers or end-users to order soccer cleats. To complete the form, follow the steps below.

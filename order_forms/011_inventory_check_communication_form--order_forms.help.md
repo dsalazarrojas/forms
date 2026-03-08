@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # inventory_check_communication_form - Help Guide
 
 ## Purpose

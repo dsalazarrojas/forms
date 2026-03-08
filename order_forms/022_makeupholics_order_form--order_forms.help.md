@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create the help guide for the "Makeupholics Order Form", let's start by analyzing the provided YAML fields and extracting the essential information needed to craft a clear and concise guide.
 
 From the inputSchema, we can see that the form has three pages with various fields. Here's an initial understanding of the form's purpose and the individual fields:

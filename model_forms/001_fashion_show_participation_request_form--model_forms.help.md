@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect participation information for the fashion show. Before completing the form, please ensure that you have not already submitted a participation request. If you are unsure or need to update your previous request, please contact the event team for guidance.
-</thinking>
-
 # Fashion Show Participation Request Form - Help Guide
 ## Purpose
 This form is used to request participation in the fashion show. Please fill it out if you wish to participate in the event.

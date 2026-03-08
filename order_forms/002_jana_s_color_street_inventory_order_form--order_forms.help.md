@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for inventory orders. The form's primary purpose is to gather essential details about the customer and their order, including contact information, order specifics, and any additional notes. This form will likely be used by sales or inventory teams to process orders accurately and provide the best possible service to customers.
-
-The form consists of 14 fields, each with a specific label, type, and hint. Some fields are required, while others are optional. The form's design ensures that all necessary information is collected, reducing errors and misunderstandings.
-
-Before completing the form, it is essential to review each field's label, type, and hint to ensure you understand its purpose and requirements. This will help you fill out the form accurately and efficiently.
-
-The form is divided into two main sections: customer information and order details. Customer information includes fields for contact details like email, phone number, name, and address. Order details include fields for color stations, quantity, and any additional notes.
-
-</thinking>
-
 # Jana's Color Street Inventory Order Form - Help Guide
 
 ## Purpose

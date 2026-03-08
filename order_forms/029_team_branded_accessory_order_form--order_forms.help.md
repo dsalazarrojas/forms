@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for ordering branded accessories for a team. The team name and school name are necessary to identify the team and the order items are asked to confirm whether or not they will be ordered. The quantity of the accessory is also required as well as the delivery date and time. The payment method is also confirmed, and the payment details are optional, as well as notes that can be added by the user.
-</thinking>
-
 # Team Branded Accessory Order Form - Help Guide
 ## Purpose
 This form is designed to facilitate the ordering of branded accessories for teams. It is intended for team members to submit their order requests, including team name, school name, order items, quantity, delivery date, delivery time, payment method, and any additional notes.

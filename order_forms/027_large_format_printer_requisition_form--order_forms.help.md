@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to requisition a large format printer for a customer's order. To complete this form, you need to ensure that it is not duplicated, which may lead to unnecessary work and costs. Before requisitioning the printer, please make sure you've checked with your team to avoid any potential duplication of effort. 
-
-</thinking>
-
 # Large Format Printer Requisition Form - Help Guide
 ## Purpose
 This form is used to request the requisition of a large format printer for a customer's order. It captures information necessary for the printer to be shipped and delivered to the customer.

@@ -1,17 +1,3 @@
-<thinking>
-This form is used for onboarding new hires to your organization by collecting necessary documents and information. Before filling out this form, please ensure you have gathered all the required documents and that this form is being used correctly.
-
-Please use this form to:
-
-- Collect new hire documents
-- Gather information about the new hire's name and hire date
-- Verify manager approval for documents
-- Track document status and type
-- Leave comments for the new hire's documents
-
-Please use this form only when onboarding new hires and ensure you have all necessary documents before proceeding.
-</thinking>
-
 # onboarding_document_submission_form - Help Guide
 ## Purpose
 The onboarding document submission form is used to collect necessary documents and information from new hires during the onboarding process.

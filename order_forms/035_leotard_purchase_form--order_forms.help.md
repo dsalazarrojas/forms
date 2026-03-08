@@ -1,13 +1,3 @@
-<thinking>
-The Leotard Purchase Form is a tool used by our team to collect information from customers who want to order leotards. This form will help us better understand their needs and preferences when it comes to size, color, and other customizations. We are checking for relevance and non-duplication of existing orders to ensure we provide the best possible service.
-
-This form is meant to gather information from customers who are interested in purchasing leotards, and it's crucial that we understand who they are and what they want. Please make sure to fill out the form accurately and completely, as this will help us provide a personalized experience for each customer.
-
-This form is not meant to be a duplicate of existing orders, so make sure to provide new and accurate information for each submission.
-
-The form will ask for the following fields: Leotard size, customer name, customer email, customer phone, leotard color, leotard size option, leotard color option, date, time, note, customer address, order type, order details, customer zip, customer city, customer state, customer country, and customer country code. Each of these fields is crucial in providing us with the information we need to fulfill the order accurately.
-</thinking>
-
 # Leotard Purchase Form - Help Guide
 ## Purpose
 The Leotard Purchase Form is a tool used by our team to collect information from customers who want to order leotards. This form will help us better understand their needs and preferences when it comes to size, color, and other customizations.

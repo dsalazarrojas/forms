@@ -1,6 +1,3 @@
-<thinking>
-We're creating a form to gather information from new clients during the onboarding process. The primary goal is to collect relevant data to ensure a smooth and effective collaboration. This form should not be used for existing clients or for other purposes, such as sales or general contact forms. Please fill out this form only for new clients to ensure accurate and complete data collection.</thinking>
-
 # SMM Management Client Onboarding Form - Help Guide
 
 ## Purpose

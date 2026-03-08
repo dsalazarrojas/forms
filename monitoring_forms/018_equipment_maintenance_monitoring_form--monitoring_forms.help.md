@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for monitoring equipment maintenance activities. It's likely used to track and record information about equipment maintenance schedules and performance metrics. I will create a user-facing help guide that explains the form's purpose, how to complete it, and each field's meaning. I will use the provided YAML fields to base my explanation.
-
-</thinking>
-
 # equipment_maintenance_monitoring_form - Help Guide
 ## Purpose
 The equipment maintenance monitoring form is designed to track and record information about equipment maintenance activities. This form will help you monitor and keep track of your equipment's maintenance schedules and performance metrics.

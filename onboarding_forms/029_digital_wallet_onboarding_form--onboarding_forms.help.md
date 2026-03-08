@@ -1,13 +1,3 @@
-<thinking>
-To create a user-facing help guide for a form, I need to consider the following:
-
-- The form is used for onboarding users to a digital wallet, likely for financial services or identity verification.
-- The form collects various user and business information to create a profile.
-- The form seems to be focused on gathering basic personal and business contact information, as well as sensitive data such as password and TIN/EIN.
-
-This form appears to be used for both individual and business onboarding, but there's a clear distinction between personal and business fields.
-</thinking>
-
 # Digital Wallet Onboarding Form - Help Guide
 ## Purpose
 The Digital Wallet Onboarding Form is used to create a user profile for a digital wallet service. This form collects essential information to verify and onboard both individuals and businesses, providing a secure and personalized experience.

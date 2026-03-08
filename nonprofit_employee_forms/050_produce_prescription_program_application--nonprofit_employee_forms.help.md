@@ -1,5 +1,3 @@
-<thinking>As this form is part of the Produce Prescription Program, we will be providing prescriptions to individuals who require them, while also providing information about the produce they require.</thinking>
-
 # Produce Prescription Program Application - Help Guide
 ## Purpose
 The Produce Prescription Program aims to provide fresh produce to individuals in need, while also gathering information about their medical conditions and produce requirements.

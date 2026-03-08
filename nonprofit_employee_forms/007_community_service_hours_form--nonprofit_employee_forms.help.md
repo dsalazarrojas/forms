@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to track the hours spent on community service by volunteers. The form is used to record the participant's details, service date, start and end time, total hours completed, activity description, and supervisor verification. This form is designed to ensure accurate record-keeping and to facilitate verification of volunteer hours.
-</thinking>
-
 # Community Service Hours Form - Help Guide
 ## Purpose
 This form is used to track the hours spent on community service activities by volunteers.

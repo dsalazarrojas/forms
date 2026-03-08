@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Food Sampling Equipment Order Form is designed for food manufacturers and suppliers to place orders for sampling equipment, which is used to collect samples of food products. This form is essential for accurately and efficiently managing sampling equipment orders. 
 
 The form is divided into several sections that capture critical information necessary for the smooth execution of the order. 

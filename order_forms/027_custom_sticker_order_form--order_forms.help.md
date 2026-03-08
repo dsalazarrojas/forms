@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for customers to place custom orders for stickers. 
-It is required to be completed by customers to facilitate the creation of their custom orders. The form collects information such as the order total, shipping and billing details, sticker quantity, and payment method. 
-
-Please ensure that you have all necessary information before starting the order form, to avoid any potential issues or delays. 
-
-If you are unsure about any of the fields or have any questions, please contact us for assistance.
-</thinking>
-
 # Custom Sticker Order Form - Help Guide
 ## Purpose
 The Custom Sticker Order Form is designed to collect information from customers for custom sticker orders. This form helps us to create the custom order and ensures that all the necessary details are included.

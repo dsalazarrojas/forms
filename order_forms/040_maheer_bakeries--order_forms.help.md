@@ -1,8 +1,3 @@
-<thinking>
-**Checking for relevance and non-duplication of help guides...**
-This form is used to take orders from customers. The form is designed to collect information about the customer's order, including their name, address, order details, and payment method.
-</thinking>
-
 # Maheer Bakeries - Help Guide
 ## Purpose
 The Maheer Bakeries form is a tool used to take orders from customers. It helps to collect necessary information about the customer's order, which is then used to process the order and facilitate delivery.

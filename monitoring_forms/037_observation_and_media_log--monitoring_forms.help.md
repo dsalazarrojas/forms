@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is a crucial tool for collecting and recording data on observations and media associated with a specific location. The form is designed to gather detailed information on observations made by observers, including the type of media involved, the observation date and time, and other relevant details. To ensure accurate and thorough completion of the form, it is essential to follow the instructions carefully.
 
 </thinking>

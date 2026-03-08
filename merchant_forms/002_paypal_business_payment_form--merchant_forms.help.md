@@ -1,18 +1,3 @@
-<thinking>
-This form is intended to collect payment information for a business-to-business payment process. To check for relevance and non-duplication, let's review the fields:
-
-*   `merchant_email` (email): This field is not required. It's not clear what type of information this field would contain or what purpose it serves in the payment process.
-*   `product_name`, `product_price`, `product_quantity`, and `shipping_price` (text, number, number, number): These fields are required and appear to be related to the product being sold. It seems that this form is meant to capture information about an order or transaction.
-*   `shipping_address` (text): This field is required and seems to be related to the shipping details of the product.
-*   `payment_method` (select_one): This field is required and has three options: `paypal`, `stripe`, and `square`. It appears that this form is asking the user to choose a payment method.
-*   `order_details` (text): This field is not required, which might be an oversight or a mistake. It's not clear what type of information this field would contain or what purpose it would serve.
-*   `payment_status` (select_multiple): This field is not required and has three options: `paid`, `partially paid`, and `unpaid`. It seems that this field is meant to track the status of payments.
-*   `order_id` (number): This field is not required, which might be an oversight or a mistake. It's not clear what type of information this field would contain or what purpose it would serve.
-*   `order_date` (date) and `order_time` (time): These fields are not required and seem to be tracking the timing of the order.
-
-The form has multiple pages with different fields, but it's not clear if this is intentional or if the form needs to be rearranged for better user experience.
-</thinking>
-
 # paypal_business_payment_form - Help Guide
 ## Purpose
 This form is designed to collect payment information for a business-to-business payment process. It's meant to capture details about the product or service being sold, including the product name, price, quantity, and shipping details.

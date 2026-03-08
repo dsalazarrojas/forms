@@ -1,29 +1,3 @@
-<thinking>
-
-To determine the purpose of this form, I'll first analyze its YAML structure. The form is called "Basketball T Shirt Order Form" and contains several sections with labels like "Customer Name", "Order Form", "Payment Method", etc. It appears to be an order form for basketball team apparel, designed for customers to place orders for customized team shirts.
-
-Next, I'll identify the required fields, which are:
-
-*   Customer Name
-*   Email Address
-*   Phone Number
-*   T-Shirt Style
-*   Shirt Color
-*   Shirt Size
-*   Quantity
-*   Would you like to add a custom name and number to the back?
-*   Payment Method
-*   How would you like to receive your order?
-*   Date of Order
-
-These fields are required to complete the form and place an order.
-
-I'll now review the form's structure and identify any potential issues or areas for improvement. The form is divided into several pages, each with a unique purpose, such as gathering customer information, selecting the T-Shirt style, color, size, and quantity, and choosing a payment method. The form also includes options for personalization, such as adding a custom name and number to the back of the shirt. The final page collects the date of the order.
-
-The form appears to be well-structured, and the fields are clearly labeled. However, the "Would you like to add a custom name and number to the back?" field might be confusing for users who do not understand the implication of this field. This field is actually asking if the user wants to add a custom name and number on the back of the shirt, which might be a common feature for sports team orders.
-
-</thinking>
-
 # Basketball T Shirt Order Form - Help Guide
 ## Purpose
 The Basketball T Shirt Order Form is designed for customers to place orders for customized team shirts. This form helps customers select their preferred team apparel, including T-Shirt style, color, size, and quantity. It also allows customers to choose their preferred payment method and shipping option.

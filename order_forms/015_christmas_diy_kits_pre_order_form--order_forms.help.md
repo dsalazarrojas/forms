@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to pre-order Christmas DIY kits. It gathers essential customer information, shipping details, kit preferences, personalization options, and payment information. This form will help us understand customer needs and preferences for the order. Please note that all fields marked as 'required' are necessary for us to fulfill your order.
-</thinking>
-
 # Christmas DIY Kits Pre Order Form - Help Guide
 ## Purpose
 This form is a pre-order form for Christmas DIY kits. It allows customers to provide their information, select kit preferences, and specify delivery and payment details.

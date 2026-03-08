@@ -1,7 +1,3 @@
-<thinking>
-We need to create a help guide for a form that is likely used for a modeling agency to collect information from potential models. The form appears to be used for personal details, physical attributes, experience, and availability. We should ensure that each field is clearly explained to help users understand what information is being collected and how to provide accurate responses. This guide will help users fill out the form correctly and efficiently. 
-</thinking>
-
 # Calendar Pinup Application Form - Help Guide
 ## Purpose
 The Calendar Pinup Application Form is used by potential models to provide personal and physical information, as well as experience and availability details, to modeling agencies. This form helps agencies evaluate and consider applicants for potential modeling opportunities.

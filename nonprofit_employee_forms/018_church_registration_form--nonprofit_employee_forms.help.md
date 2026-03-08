@@ -1,14 +1,3 @@
-<thinking> 
-The goal of this form is to gather information about an individual's registration as a member of a church. It collects demographic and contact information, as well as details about their attendance and interests. This form is likely used by church administrators to keep track of their members and their preferences. 
-
-This form is designed for individuals who want to register with the church, and it is assumed that the user is filling it out for personal reasons. The fields are all relevant to the registration process and the church's operations. This form does not seem to be designed for any other purpose, so there should be no duplication of effort.
-
-The form is designed for a single user and should only be filled out once. This form is not intended to be filled out by multiple users simultaneously, so there's no need for any special handling for concurrent access.
-
-The form is not intended to be filled out by non-human entities or automated processes. The answers should be given by an individual who is registering themselves with the church.
-
-</thinking>
-
 # Church Registration Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from individuals who want to register with our church. It collects contact and demographic information, as well as details about their attendance and interests. Please fill out this form accurately and thoroughly to ensure that we can effectively reach out to you and keep you informed about our church activities.

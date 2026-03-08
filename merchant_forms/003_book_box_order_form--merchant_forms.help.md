@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect order information for book boxes from customers. The form asks for information on the customer's name, email address, phone number, shipping address, and other relevant details. The form also includes fields for selecting book box size, genre preferences, and specific book titles. Additionally, it includes fields for gift wrapping and delivery preferences, including standard, express, and overnight shipping options. The form is designed to be completed by customers who wish to order book boxes, which can be customized to their preferences.
-</thinking>
-
 # Book Box Order Form - Help Guide
 ## Purpose
 The Book Box Order Form is a form used to collect information from customers who wish to order book boxes. The form helps to ensure that the customer's order is accurate and can be fulfilled efficiently.

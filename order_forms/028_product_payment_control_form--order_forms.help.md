@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Product Payment Control Form - Help Guide
 ## Purpose
 This form is used to control and monitor product payments, allowing users to input payment information and select payment methods for orders.

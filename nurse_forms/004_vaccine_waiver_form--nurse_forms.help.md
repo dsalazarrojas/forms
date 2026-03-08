@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to document a patient's waiver of a vaccine, typically used in a medical setting where a patient may refuse to receive a vaccine. The form is designed to collect essential information from the patient, including their identity, medical history, and understanding of the consequences of the refusal. The purpose of this form is to ensure that the patient has provided informed consent and that the doctor has taken necessary steps to assess risks associated with the vaccine. It's essential to complete this form thoroughly and accurately to avoid potential legal and medical implications.
-</thinking>
-
 # Vaccine Waiver Form - Help Guide
 ## Purpose
 This form is used to document a patient's waiver of a vaccine, ensuring that they have provided informed consent and that the doctor has taken necessary steps to assess risks associated with the vaccine.

@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Executive Onboarding Form, I'll first clarify the purpose and reasoning behind the form.
-
-The form appears to be designed to collect information from executives during the onboarding process, likely for administrative or HR purposes. The structure of the form includes multiple sections with labels such as "Executive Details," "Team Info," "Job Info," and "Executive Status." This suggests that the form aims to gather a range of information about the executive, their team, and their job role. The lack of options or specific instructions in the provided YAML fields implies that the form is intended to be filled out with general information, rather than requiring specific data or calculations.
-
-</thinking>
-
 # Executive Onboarding Form - Help Guide
 ## Purpose
 This form is designed to collect information from executives during the onboarding process. It includes multiple sections to gather details about the executive, their team, and job role.

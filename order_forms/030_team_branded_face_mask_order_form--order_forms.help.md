@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for customers to place orders for team-branded face masks. The form will gather information about the order, including the size and quantity of masks, payment method, and other relevant details. The form should not be used for other purposes, such as submitting a new team request or updating existing team information, as those use cases would require different forms.
-</thinking>
-
 # Team Branded Face Mask Order Form - Help Guide
 ## Purpose
 The Team Branded Face Mask Order Form is used to place orders for team-branded face masks. Fill out this form to provide details about your order, and a representative will be in touch with you to finalize the order.

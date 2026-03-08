@@ -1,14 +1,3 @@
-<thinking>
-
-This form is designed for LPNs (Licensed Practical Nurses) to register for shifts at a healthcare facility. It aims to gather information about their availability and preferences for different shifts. The form is divided into two pages, with the first page containing options for yes/no answers and the second page for more detailed information. The form fields are:
-
-* First Page: Select "Yes" or "No" for different shift preferences.
-* Second Page: Enter contact information (email and phone number), select start and end times, and provide additional notes.
-
-This form does not require any specific information and is intended for optional registration. The LPN can select the shifts they are interested in and provide any additional comments or questions they may have.
-
-</thinking>
-
 # LPN Assignment Registration Form - Help Guide
 ## Purpose
 

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed for customers to provide their details and quote requests for moving services. The form captures information about the customer, the service type, the moving date, and other relevant details. The fields are divided into several categories, including customer information, service details, and contact information. 
-
-The purpose of this form is to ensure that the customer provides accurate and complete information, which will be used to generate a quote for the moving services. The form is designed to be easy to navigate and complete, with clear labels and instructions for each field. The fields are also divided into sections to make it easier for the customer to focus on one area at a time.
-
-To avoid duplication and ensure that the customer provides accurate information, the form has built-in validation and checks for required fields. If a field is required but not filled out, an error message will be displayed with the error_details field.
-
-</thinking>
-
 # moving_service_quotation_form - Help Guide
 ## Purpose
 This form is designed for customers to provide their details and quote requests for moving services.

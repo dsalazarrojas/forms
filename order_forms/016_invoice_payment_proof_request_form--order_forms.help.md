@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # invoice_payment_proof_request_form - Help Guide
 
 ## Purpose

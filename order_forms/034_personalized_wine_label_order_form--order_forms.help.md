@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect personalized wine label order information from customers. It appears that the form is used to gather detailed data for an order, including customer details, label design choices, order date and time, and payment information. The form seems to be a comprehensive tool for wine label customization and order processing. I'm inferring that this form is used by a wine-related business or service that offers customized wine labels.
-
-Please let me know if this understanding is correct and if there's anything I can help you with next.
-</thinking>
-
 # Personalized Wine Label Order Form - Help Guide
 ## Purpose
 This form is designed to collect personalized wine label order information from customers. It allows you to gather detailed data for an order, including customer details, label design choices, order date and time, and payment information.

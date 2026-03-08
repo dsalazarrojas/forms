@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect global shipping information from customers, which is crucial for processing and delivering their orders smoothly. The fields are categorized under various sections to minimize confusion and facilitate the completion process.
-
-</thinking>
-
 # Global Shipping Information Form - Help Guide
 ## Purpose
 The Global Shipping Information Form is a tool used to gather essential details about your shipping address, shipping method, and delivery date for smooth order delivery. This form helps us process your order efficiently and ensure it reaches you on time.

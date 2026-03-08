@@ -1,9 +1,3 @@
-<thinking>
-The "Performance Equipment Check Out Form" is used to track the status of performance equipment being checked out for use. This form is typically filled out when equipment is borrowed or loaned to someone, and it's intended to help ensure that the equipment is properly accounted for and returned in a timely manner.
-Before filling out this form, make sure you are aware of the equipment you are checking out, and that you are authorized to do so.
-This form should not be used for duplicate transactions, or for checking out equipment that is already being used by someone else.
-</thinking>
-
 # Performance Equipment Check Out Form - Help Guide
 ## Purpose
 The "Performance Equipment Check Out Form" is used to track the status of performance equipment being checked out for use.

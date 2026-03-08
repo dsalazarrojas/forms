@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Deli Order Form For In Store Pickup - Help Guide
 ## Purpose
 The Deli Order Form For In Store Pickup is used to collect information from customers for in-store pickup orders. This form helps us understand the customer's order preferences, pickup details, and any additional comments.

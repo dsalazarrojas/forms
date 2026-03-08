@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to handle one-time payments, typically for a single product or order. It is likely used in a business or financial context, possibly in an online or offline environment, where customers or clients pay for a specific product or service. The form should be completed for each new payment made for a product or service, ensuring that all relevant information is accurately captured.
-
-To avoid duplication of effort, ensure this form is only used for new payments and not for recurring or subscription-based payments. 
-
-</thinking>
-
 # prepaid_one_time_payment_form - Help Guide
 ## Purpose
 This form is used to record one-time payments for products or services, ensuring accurate and complete information is captured for each new payment.

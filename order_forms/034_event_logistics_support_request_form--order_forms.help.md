@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect event logistics support requests from event planners. The form is designed to gather information about the event schedule, finances, equipment, and other logistical details that are essential for smooth event execution. The form is not affiliated with or derived from any form platform, and its design and content are original adaptations based on public survey topic metadata.
-
-This form is not intended to be a survey or a questionnaire, and it does not collect personal or sensitive information. The fields are designed to be simple text input fields, allowing event planners to provide brief descriptions or notes related to their support requests.
-
-Before filling out the form, ensure that you have a legitimate support request and that the information you provide is accurate and relevant. Please do not submit duplicate requests, as they will not be processed. Duplicate requests will be checked internally before processing.
-
-This form is for internal use only and is not intended for public submission. If you have any questions or concerns, please contact us at form@gic.mx.
-
-</thinking>
-
 # event_logistics_support_request_form - Help Guide
 ## Purpose
 The event logistics support request form is designed for event planners to submit support requests related to event finances, equipment, and other logistical details.

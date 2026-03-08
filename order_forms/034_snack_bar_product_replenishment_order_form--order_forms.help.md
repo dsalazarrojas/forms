@@ -1,7 +1,3 @@
-<thinking>
-This form is used to replenish snack bars, and the main goal is to create an order for the snack bar products. Before creating the order, make sure you understand the purpose of each field and fill it out accurately to ensure the order is processed correctly. This form will not be duplicated for the same order, so if you need to create multiple orders, please fill out the form multiple times. Each field in this form has a specific purpose, so please read the field explanations carefully before submitting your order.
-</thinking>
-
 # Snack Bar Product Replenishment Order Form - Help Guide
 ## Purpose
 The Snack Bar Product Replenishment Order Form is used to place an order for snack bar products. This form collects information to help us fulfill your order accurately and efficiently.

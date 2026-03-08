@@ -1,14 +1,3 @@
-<thinking>
-This is a form for customers or sales staff to place a commercial blender blade order. The form asks for various pieces of information to ensure accurate ordering, including customer contact details, product specifications, and payment information.
-
-To avoid confusion, please ensure that:
-- This form is only used for commercial blender blade orders.
-- The customer is not a new or existing customer.
-- The customer's order is not a duplicate of an existing order.
-
-Please review each field carefully to ensure accurate completion.
-</thinking>
-
 # Commercial Blender Blade Order Form - Help Guide
 ## Purpose
 

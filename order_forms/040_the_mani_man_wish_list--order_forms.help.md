@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to capture detailed information about a customer order, including customer details, order details, and status updates. The form is designed to be completed by customers to provide their wishes or requests, and the information collected will be used to manage and track orders.
-
-</thinking>
-
 # The Mani Man Wish List - Help Guide
 ## Purpose
 The "The Mani Man Wish List" form is a tool for customers to provide their wishes or requests to be fulfilled. This form captures essential details about the customer and their order, allowing us to effectively manage and track the order process.

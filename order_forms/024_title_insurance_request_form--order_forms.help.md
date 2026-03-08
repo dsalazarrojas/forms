@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for title insurance requests. Title insurance is a type of insurance that protects a property owner's interests by ensuring that the property's title is valid and free from any defects or liens. This form will help users provide essential details about the property, loan amount, and their preferences for title insurance services. It's essential to fill out this form accurately to ensure that the title insurance request is processed correctly. Please ensure that you are not duplicating an existing request, as this will cause unnecessary delays in processing your request.
-</thinking>
-
 # Title Insurance Request Form - Help Guide
 ## Purpose
 The Title Insurance Request Form is used to collect information for title insurance requests. It ensures that the property's title is valid and free from any defects or liens.

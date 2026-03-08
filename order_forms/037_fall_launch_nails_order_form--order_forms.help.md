@@ -1,7 +1,3 @@
-<thinking>
-The form is used to collect information for a fall launch nails order. The purpose of this form is to gather order details, product selections, and customer contact information.
-</thinking>
-
 # Fall Launch Nails Order Form - Help Guide
 ## Purpose
 The Fall Launch Nails Order Form is designed to collect order information, select products, and gather customer contact details. This guide will walk you through each section of the form, explaining what to expect and how to fill out the form correctly.

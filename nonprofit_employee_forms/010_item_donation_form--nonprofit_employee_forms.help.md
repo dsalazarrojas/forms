@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from donors about the items they wish to donate to the organization. The form is intended to gather details about the items being donated, as well as contact information for the donor. This form serves as a tool for the organization to process and track donations efficiently.
-</thinking>
-
 # Item Donation Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from donors about the items they wish to donate to the organization.

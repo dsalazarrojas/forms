@@ -1,7 +1,3 @@
-<thinking>
-This is a form for creating a shopping list, intended to be used by customers or shoppers to add and manage items they need to purchase from a store or other retail outlet. The form will help users keep track of items, quantities, prices, and other relevant details in a clear and organized manner. This form will likely be used by retail businesses, such as online marketplaces or brick-and-mortar stores.
-</thinking>
-
 # Universal Shopping List - Help Guide
 ## Purpose
 The Universal Shopping List form allows you to add, manage, and track items you need to purchase from a store or other retail outlet. Fill out the form with details such as item name, quantity, price, and other relevant information.

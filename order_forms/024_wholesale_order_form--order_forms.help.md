@@ -1,12 +1,3 @@
-<thinking>
-Before creating the user-facing help guide for the "Wholesale Order Form", let's ensure that the form's purpose, scope, and functionality are clear. This form appears to be designed for customers to place orders for wholesale products, providing details about the order, products, and customer information.
-
-The form has multiple pages with various fields, including customer details, order products, and product information. It seems that the form is intended to guide the user through the process of creating a wholesale order, ensuring that all necessary details are captured.
-
-To confirm, let's summarize the form's purpose: this guide will help users understand the "Wholesale Order Form" and its required and optional fields. It will cover the form's layout, field explanations, and tips for successful completion.
-
-</thinking>
-
 # Wholesale Order Form - Help Guide
 ## Purpose
 This guide will help you understand the "Wholesale Order Form" and its required and optional fields to successfully complete the form.

@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information from customers who place orders with merchants. The form has multiple pages with various fields to gather details about the customer, their order, shipping address, payment method, and other relevant information. 
-
-The form is intended to be used by merchants to collect information from their customers. It's not a form for customers to use themselves, but rather a tool for merchants to gather necessary details from their customers. The form fields are designed to be as concise and clear as possible, while ensuring all required information is collected. 
-
-The form does not have any validation or submission actions, so the user is free to fill it out as many times as needed without any consequences. However, the merchant should be aware that incomplete or incorrect information might lead to issues with order fulfillment or other consequences. 
-
-Each field is clearly labeled and optional, giving users the flexibility to provide as much information as they feel is necessary. 
-</thinking>
-
 # retail_customer_order_form - Help Guide
 ## Purpose
 This form is used by merchants to collect information from their customers for order fulfillment and other purposes.

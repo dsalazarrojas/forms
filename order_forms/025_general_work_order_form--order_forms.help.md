@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect general work order information from customers, including work order number, customer contact information, task description, materials needed, deadlines, and more. It is crucial that the form is not duplicated or submitted with incorrect information to avoid confusion and ensure accurate record-keeping. The form is likely to be used by the maintenance team or customer service team to manage and track work orders efficiently.
-</thinking>
-
 # General Work Order Form - Help Guide
 ## Purpose
 The General Work Order Form is used to collect and record information about work orders from customers. This form is essential for the maintenance team or customer service team to efficiently manage and track work orders.

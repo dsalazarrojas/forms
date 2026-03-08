@@ -1,7 +1,3 @@
-<thinking>
-The Top Refugee Support Nomination Form is used to nominate an employee from an organization for recognition and rewards related to their support of refugees. This form helps to ensure that all nominations are submitted with the correct information, in the correct format, and without duplication. It's intended for employees of organizations that support refugee causes. The form is designed to gather data from various fields related to the employee and their organization. Nominators should fill out the form accurately to provide clear and effective nominations.
-</thinking>
-
 # Top Refugee Support Nomination Form - Help Guide
 
 ## Purpose

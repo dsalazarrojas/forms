@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # theme_park_souvenirs_requisition_form - Help Guide
 
 ## Purpose

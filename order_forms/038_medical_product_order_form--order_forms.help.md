@@ -1,16 +1,3 @@
-<thinking> 
-This form is designed for customers to submit their orders for medical products. To confirm that this form is the correct tool for the task, let's review the fields:
-
-*   The form's title is "Medical Product Order Form", making it clear its purpose.
-*   The form is divided into 5 sections:
-    +   The "Order Form" section allows customers to choose whether they want to order or not.
-    +   The "Customer Info" section is a text field for collecting customer information.
-    +   The "Payment Method" section is a dropdown menu with payment options.
-    +   The "Order Items" section is another dropdown menu, likely for choosing what to order.
-    +   The "Shipping Details" section is a text field for collecting shipping information.
-*   The form is not required for completion, but it does appear that some fields are required for functionality, such as payment method.
-</thinking>
-
 # Medical Product Order Form - Help Guide
 ## Purpose
 This form is used to submit orders for medical products.

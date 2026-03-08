@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from users who are requesting to purchase chemicals for research purposes within the university. It is meant to be used by faculty, staff, and Principal Investigators (PIs) to provide details about the chemicals they need. The form is a simple text-based interface where users can input their chemical requirements. This form is likely used internally within the university to facilitate the ordering process, ensuring the correct chemicals are acquired for research projects.
-To prevent duplication, this form is probably used in conjunction with other systems that track orders and inventory levels within the university's research departments.
-</thinking>
-
 # University Research Chemicals Order Form - Help Guide
 ## Purpose
 This form is used to request chemicals for research purposes within the university. It is intended for use by faculty, staff, and Principal Investigators (PIs) to provide essential information about the chemicals they need.

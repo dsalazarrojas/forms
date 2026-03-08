@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is being used correctly and not duplicated for a specific type of event or client. It's worth noting that the form is designed to collect a comprehensive set of information for catering services, including menu options, event details, and special requests. 
-</thinking>
-
 # Catering Service Menu Selection - Help Guide
 
 ## Purpose

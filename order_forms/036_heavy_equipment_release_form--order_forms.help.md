@@ -1,11 +1,3 @@
-<thinking>
-The "Heavy Equipment Release Form" is designed to document the release of heavy equipment to customers, ensuring that all necessary information is captured for inventory tracking, maintenance, and customer communication. 
-This form is intended for use by equipment managers, maintenance personnel, and customers who need to release heavy equipment from inventory. 
-Before completing this form, ensure that you have the necessary permissions and approvals in place. 
-Please note that this form is not intended for use in situations where the equipment is being sold or transferred, but rather for releases within your own organization or between departments. 
-If you're unsure about the purpose or use of this form, please consult with your team or supervisor before proceeding.
-</thinking>
-
 # Heavy Equipment Release Form - Help Guide
 ## Purpose
 The Heavy Equipment Release Form is a documentation tool used to record the release of heavy equipment to customers. It helps in ensuring that all necessary information is captured, and it serves as a record for future reference.

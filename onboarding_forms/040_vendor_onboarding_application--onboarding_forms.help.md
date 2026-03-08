@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to be a vendor onboarding application, allowing us to collect information from new vendors. The goal is to get a better understanding of the vendor's business details, such as industry, services offered, business type, company size, and contact information.
-This form is intended for use by vendors who want to be listed in our directory and be considered for partnership opportunities. It is not required, but it is recommended that vendors fill out the form in order to be considered for partnership.
-The form has two main sections: contact information and business details. The contact information section includes fields for the vendor's name, email, phone number, and address. The business details section includes fields for the vendor's industry, services offered, business type, company size, and website URL.
-Before filling out the form, please review the options for each field carefully and make sure you are providing the correct information.
-</thinking>
-
 # Vendor Onboarding Application - Help Guide
 ## Purpose
 This form is designed to help us understand your business and determine if you are a good fit for partnership opportunities. It is recommended that you fill out the form in its entirety to increase your chances of being considered for partnership.

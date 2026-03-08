@@ -1,14 +1,3 @@
-<thinking>
-
-This form is used to request video conversions from one format to another. It is designed to collect essential information about the file to be converted and the desired conversion options.
-
-Before filling out this form, please ensure that:
-
-* You only need to fill this form once for each conversion request.
-* You have all the required information and files ready.
-
-</thinking>
-
 # Video Conversion Request Form - Help Guide
 ## Purpose
 

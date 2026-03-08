@@ -1,7 +1,3 @@
-<thinking>
-The Hospice Transfer Form is used to facilitate the transfer of patients between hospices. This form is intended to gather essential information for the smooth execution of patient transfers, ensuring that all necessary details are captured to maintain continuity of care. To avoid confusion, please ensure that you have reviewed the patient's current medical status and have obtained any necessary approvals before completing this form. This form should not be used for duplicate transfers or for transferring patients to non-approved providers. Please note that fields marked as "required" are essential for the form submission to be valid.
-</thinking>
-
 # Hospice Transfer Form - Help Guide
 ## Purpose
 The Hospice Transfer Form is used to transfer patients between hospices, ensuring continuity of care by capturing necessary details for a smooth transition.

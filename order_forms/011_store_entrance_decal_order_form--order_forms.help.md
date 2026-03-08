@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect order information from customers. The purpose of this form is to gather data about the customer, their business, the product they are interested in purchasing, and the shipping details. The form collects information such as the customer's name, business name, product style, color, type, quantity, shipping address, and any additional notes. It also allows the customer to confirm their order details.
-The form will be completed by a customer or user who wants to purchase a product.
-</thinking>
-
 # store_entrance_decal_order_form - Help Guide
 ## Purpose
 The store entrance decal order form is a tool used to gather information from customers about their decal purchase order.

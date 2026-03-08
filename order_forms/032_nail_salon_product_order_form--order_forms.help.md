@@ -1,12 +1,3 @@
-<thinking>
-We need to ensure that our form is clear and intuitive for end-users. To do this, let's review the provided YAML and craft a help guide that explains the form's purpose, how to complete it, and each field's meaning.
-
-The form purpose is to allow users to place orders for nail salon products, specifying the product name, type, quantity, and total cost. However, the form also asks for the salon's name and address, which might be confusing. We should clarify that these fields are likely used for internal purposes and are not necessarily part of the actual order data.
-
-Upon reviewing the form, we can break down its completion into the following sections: Form Header, Product Selection, Order Details, and Salon Information.
-
-</thinking>
-
 # Nail Salon Product Order Form - Help Guide
 
 ## Purpose

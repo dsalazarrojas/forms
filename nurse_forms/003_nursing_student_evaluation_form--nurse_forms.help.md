@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nursing Student Evaluation Form - Help Guide
 ## Purpose
 The Nursing Student Evaluation Form is designed to gather feedback from students about their experiences and perceptions of the nursing program. This form aims to collect both qualitative and quantitative data to help improve the quality of instruction and support services provided to nursing students. By completing this form, students will be able to share their thoughts, opinions, and suggestions on various aspects of the program, which will inform future improvements and development.

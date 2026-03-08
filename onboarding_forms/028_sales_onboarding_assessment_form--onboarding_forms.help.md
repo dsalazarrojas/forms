@@ -1,18 +1,3 @@
-<thinking>
-
-This form is intended to help users assess their sales experience and onboarding process. It will likely be used by sales managers or team members to evaluate an individual's sales performance and identify areas for improvement.
-
-The form is composed of four fields, each representing a different aspect of the sales process:
-
-* Page 1: "What is your sales experience?"
-* Page 2: "What is your sales team?"
-* Page 3: "Sales onboarding assessment" (note: this field type is likely intended to be a numerical score or rating)
-* Page 4: "Sales onboarding form 5" (no clear label, but likely an additional assessment or feedback field)
-
-Before starting to complete the form, it is recommended to review the purpose and fields to ensure relevance and non-duplication of effort.
-
-</thinking>
-
 # Sales Onboarding Assessment Form - Help Guide
 ## Purpose
 This form is designed to help users assess their sales experience and onboarding process. It will be used by sales managers or team members to evaluate individual sales performance and identify areas for improvement.

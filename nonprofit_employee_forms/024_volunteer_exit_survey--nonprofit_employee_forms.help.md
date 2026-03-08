@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the "Volunteer Exit Survey" form. This form is designed to collect information from volunteers who are leaving the organization. The purpose of this form is to understand the reasons behind their departure and gather feedback to improve the volunteer experience in the future. Before proceeding, please ensure that you have the necessary permissions to complete this form and that you are not duplicating your efforts by already having an existing survey or feedback mechanism in place.</thinking>
-
 # Volunteer Exit Survey - Help Guide
 ## Purpose
 The Volunteer Exit Survey is a form designed to collect information from volunteers who are leaving the organization. This survey aims to understand the reasons behind their departure and gather feedback to improve the volunteer experience in the future.

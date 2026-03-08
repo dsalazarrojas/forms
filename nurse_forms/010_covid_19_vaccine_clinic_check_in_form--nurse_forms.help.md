@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # COVID 19 Vaccine Clinic Check In Form - Help Guide
 ## Purpose
 This form is used for patients to check in at the clinic for a COVID-19 vaccination. It collects personal information, appointment details, insurance status, and vaccination specifics to ensure a smooth and efficient vaccination process.

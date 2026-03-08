@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is called "general_service_quotation_form" which is designed to collect information from customers for general service quotations. This form likely has a purpose of helping service providers to gather information and create quotations for customers who are interested in purchasing a service. This form might be used by service providers to create a standardized way of collecting customer data, service details, estimates, and other relevant information.
 
 ## general_service_quotation_form - Help Guide

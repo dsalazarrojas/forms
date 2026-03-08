@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this Simple Wine Order Form Template is to collect customer information and wine order details in an efficient and organized manner. This form is designed to be used by merchants to collect essential information from customers, such as name, order details, and possibly other relevant data. 
-
-The form is likely used in a retail or B2B setting, where customers place orders for wine products. This template is a generic form designed to be filled out by customers, and it might be adapted or customized to fit specific business needs.
-
-It is essential to check if your business already has a similar form in use, as this form can be easily modified to fit your specific requirements.
-</thinking>
-
 # Simple Wine Order Form Template - Help Guide
 ## Purpose
 This form is used to collect customer information and wine order details from merchants.

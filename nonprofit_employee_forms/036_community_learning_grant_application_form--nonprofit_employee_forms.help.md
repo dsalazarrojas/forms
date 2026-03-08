@@ -1,7 +1,3 @@
-<thinking>
-To confirm, this form is for organizations to apply for community learning grants. This form is used to collect information about the organization, the grant details, and the program being funded. Please ensure that you have all necessary information available before completing this form. Also, make sure you are not duplicating an application for the same grant program. This form is a one-time submission for the current grant cycle.
-</thinking>
-
 # Community Learning Grant Application Form - Help Guide
 ## Purpose
 This form is for your organization to apply for a community learning grant. We use this form to collect information about your organization and the grant details so we can review your application.

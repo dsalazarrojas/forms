@@ -1,12 +1,3 @@
-<thinking>
-This form is used for collecting donations from individuals or organizations to support the Ada Bible Church. The form collects basic donor information, payment details, and optional preferences for recurring gifts and anonymous donations. This form is designed for one-time and recurring donations through various payment methods including PayPal, credit card, and bank transfer.
-The form is intended for individuals and organizations interested in supporting the Ada Bible Church through donations. It is crucial that users understand the purpose of each field to ensure accurate and complete data collection.
-
-To complete this form, users will need to fill in the required fields and select their preferred payment method and donation frequency.
-
-The form is designed to be user-friendly, and users can easily navigate through it.
-</thinking>
-
 # Ada Bible Church Donation Form Paypal Standard - Help Guide
 ## Purpose
 ## How To Complete This Form

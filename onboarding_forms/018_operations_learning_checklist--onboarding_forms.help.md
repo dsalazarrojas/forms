@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture relevant information for new employees during their onboarding process, ensuring they can provide a comprehensive overview of their operations learning status and progress.
-</thinking>
-
 # Operations Learning Checklist - Help Guide
 ## Purpose
 This form is used to gather information from new employees about their onboarding experience, including team composition, supervisor feedback, progress status, training program, training confidence, and training progress. The information collected will help management evaluate the effectiveness of the onboarding process and make data-driven decisions.

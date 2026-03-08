@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for an athletic tape and wrap supply order. The form is used to gather order details from a customer, including contact information, order specifics, and shipping preferences. This form is likely used by organizations such as schools, clinics, or athletic departments to order tape and wrap supplies for their programs or teams. To avoid duplicating orders, this form should only be used for new orders, and not for reorder or reorder purposes.
-</thinking>
-
 # Athletic Tape And Wrap Supply Order Form - Help Guide
 ## Purpose
 The Athletic Tape And Wrap Supply Order Form is used to collect information for a new order of athletic tape and wrap supplies.

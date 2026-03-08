@@ -1,12 +1,3 @@
-<thinking>
-This form is for customers to place a pre-order for a new series. The form is designed to collect relevant information from the customer, including payment details, delivery address, and other important details such as quantity, price, and launch date/time. The purpose of this form is to facilitate the pre-order process and ensure that the customer's order is processed correctly.
-
-The form is not intended for general inquiries or other purposes outside of placing a pre-order. Please ensure that you only fill out this form if you are actually looking to pre-order a new series.
-
-Before completing the form, please ensure that you have all the necessary information and details ready.
-
-</thinking>
-
 # New Series Pre Order Form - Help Guide
 ## Purpose
 The New Series Pre Order Form is designed to collect information from customers who wish to pre-order a new series. This form helps to facilitate the pre-order process and ensures that the customer's order is processed correctly.

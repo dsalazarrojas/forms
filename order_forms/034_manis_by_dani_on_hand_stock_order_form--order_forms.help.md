@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to submit orders for Manis By Dani On Hand stock. The form requires a color, size, date, time, phone number, email, and main information submission. The color and size selections are critical fields as they determine the type of item being ordered, while the date and time fields capture the desired pickup time. The email field is essential for communication and phone number for further contact in case of any queries. The note field is optional and can be used to provide additional context or information about the order. To prevent duplication, users are asked to submit a valid email and phone number. The form will not allow users to proceed without these critical fields.
-</thinking>
-
 # Manis By Dani On Hand Stock Order Form - Help Guide
 ## Purpose
 The Manis By Dani On Hand Stock Order Form is a simple form designed for users to submit orders for stock from Manis By Dani On Hand. The form collects critical information about the order, including color, size, date, time, phone number, and email.

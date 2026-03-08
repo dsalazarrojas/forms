@@ -1,7 +1,3 @@
-<thinking>
-This form is used for ordering custom apparel items. It is used by customers to place orders for custom-made shirts, hoodies, hats, etc. This form is not for general contact form purposes. The form is split into two main parts: customer information and order details. Customer information includes fields for name, email, phone number, and a message. Order details include fields for apparel type, color, size, quantity, and date/time preferences. The form also includes a submit button with two options: "submit" and "save for later". This is a one-page form with 25 fields.
-</thinking>
-
 # custom_apparel_order_form - Help Guide
 ## Purpose
 The custom apparel order form is used for customers to place orders for custom-made apparel items.

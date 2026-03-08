@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect documentation and acknowledgment from employees for policy compliance. This form is typically used during the onboarding process, when new employees are being brought into the organization. It's essential to ensure that the employee understands and acknowledges the company's documentation policy, which includes information such as policy version, acknowledgment date, and manager's review.
-</thinking>
-
 # Documentation Policy Acknowledgment - Help Guide
 ## Purpose
 The Documentation Policy Acknowledgment form is a crucial part of the onboarding process, where new employees are required to acknowledge and confirm their understanding of the company's documentation policy. This form helps to ensure that employees are aware of the policies and procedures that govern their work and the company's operations.

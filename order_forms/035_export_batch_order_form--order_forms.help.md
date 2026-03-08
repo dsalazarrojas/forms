@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Export Batch Order Form - Help Guide
 
 ## Purpose

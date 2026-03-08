@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is for determining eligibility for the Emergency Rental Assistance Program. The purpose of the form is to gather information about a household's situation and needs in order to assess their eligibility for this program. 
 
 Before proceeding, please note that this is a non-duplicative form, meaning each household can only submit one form per household member. 

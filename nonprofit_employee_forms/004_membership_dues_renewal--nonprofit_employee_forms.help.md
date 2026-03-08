@@ -1,15 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Membership Dues Renewal" form, we need to understand the purpose of the form and its components. The form is likely used for renewing membership dues for individuals or organizations. 
-
-The form is divided into several sections: 
-- Section 1: Membership Dues Renewal Group 1 (text input)
-- Section 2: Membership Information (Membership ID, Member Name, Email, Phone, and Membership Status)
-- Section 3: Payment Information (Payment Method and Payment Amount)
-- Section 4: Comments
-
-The purpose of the form is to collect information about the membership renewal from the user.
-
-</thinking>
 # Membership Dues Renewal - Help Guide
 ## Purpose
 The Membership Dues Renewal form is used to collect information from members for renewing their membership dues.

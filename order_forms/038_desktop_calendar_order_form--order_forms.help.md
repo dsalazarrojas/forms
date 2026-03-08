@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for users to create orders for desktop calendars. 
-It collects user information for the order, product details, and order status.
-The form is likely used for e-commerce purposes, such as processing orders and tracking customer information.
-</thinking>
-
 # Desktop Calendar Order Form - Help Guide
 ## Purpose
 The Desktop Calendar Order Form is used to create orders for desktop calendars. This form collects user information, product details, and order status to process and track orders efficiently.

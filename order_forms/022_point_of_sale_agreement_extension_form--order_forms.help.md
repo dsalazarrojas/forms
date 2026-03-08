@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # point_of_sale_agreement_extension_form - Help Guide
 ## Purpose
 This form is used to extend a point of sale agreement, typically for a customer who has requested an extension on their payment terms. It is intended to capture relevant information for the sales team and customer service to manage and track the agreement.

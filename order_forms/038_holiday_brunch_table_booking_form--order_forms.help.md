@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for booking a holiday brunch table. The purpose of this form is to collect information from customers about their reservation details, including guest names, date and time of the brunch, party size, contact number, preferred diet, and any special requests. The form is required to be completed in its entirety, and each field is critical to ensuring that we can prepare and manage the holiday brunch event effectively.
-</thinking>
-
 # holiday_brunch_table_booking_form - Help Guide
 ## Purpose
 The holiday brunch table booking form is designed to gather essential information from customers to facilitate a smooth and enjoyable experience at the holiday brunch event.

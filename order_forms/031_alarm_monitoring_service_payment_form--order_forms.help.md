@@ -1,5 +1,3 @@
-<thinking>...This form is designed for users who are paying for an alarm monitoring service. To confirm that you are viewing the correct help guide, please check that you have accessed this form via a secure and authenticated route, and that the "title" field displayed at the top of the page matches the one described here: "Alarm Monitoring Service Payment Form". Additionally, make sure that the form fields and options match the ones described in this guide, and that the form purpose is to complete the payment for the mentioned service. If you're certain, proceed to the guide...</thinking>
-
 # Alarm Monitoring Service Payment Form - Help Guide
 ## Purpose
 This form is designed to collect payment information for the Alarm Monitoring Service. To complete this form, you will need to provide your account details, choose a monitoring plan and payment cycle, and specify payment and billing information.

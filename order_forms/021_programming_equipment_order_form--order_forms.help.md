@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used for customers to place orders for programming equipment. The form is likely used in a B2B (business-to-business) context where customers are other businesses or organizations ordering programming equipment from a supplier or manufacturer. The form is designed to collect customer information, order details, and other relevant data.
-
-The form has two pages: "Form Details" and "Equipment Details". On the first page, customers will be asked to provide their general information and order details. On the second page, customers will be asked to provide specific information about the equipment they are ordering, including whether it is equipment they are ordering or not.
-
-This form is not intended to be used by individual consumers, but rather by businesses or organizations.
-
-</thinking>
-
 # programming_equipment_order_form - Help Guide
 ## Purpose
 The programming equipment order form is designed for businesses or organizations to place orders for programming equipment. This form is used to collect customer information, order details, and other relevant data.

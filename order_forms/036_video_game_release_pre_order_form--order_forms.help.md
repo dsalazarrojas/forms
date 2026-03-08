@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from customers who want to pre-order a video game. The form asks for game details, customer information, payment information, and shipping address. This form is likely to be used for marketing and sales purposes, to collect data for customer communication and shipping. The form is not intended for any other use case.
-</thinking>
-
 # Video Game Release Pre Order Form - Help Guide
 ## Purpose
 This form is designed to gather information from customers who want to pre-order a video game. It collects details about the game, customer information, payment information, and shipping address.

@@ -1,13 +1,3 @@
-<thinking>
-
-We are designing a help guide for the Church Background Check Form, a crucial document used to verify the identity and background of individuals applying for various roles within the church. The purpose of this form is to ensure a comprehensive background check can be conducted, which helps maintain a safe and secure environment for all members and staff.
-
-The form is designed to collect sensitive and personal information, such as address history, employment, and potential past convictions. We want to ensure users understand the form's importance and the importance of providing accurate and truthful information.
-
-Before we start, it's essential to review our internal guidelines on non-duplication and relevance. We aim to cover essential fields and provide clear guidance to avoid misunderstandings.
-
-</thinking>
-
 # Church Background Check Form - Help Guide
 ## Purpose
 The Church Background Check Form is a document used to verify the identity and background of individuals applying for various roles within the church. It's essential to complete this form accurately and truthfully to ensure a thorough background check can be conducted.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about orders for a factory automation chipset. The purpose of this form is to provide a user-friendly interface for customers to input their order details, including company information, shipping address, selected chipsets, quantity, and any additional notes. 
-The form is divided into multiple pages, each with its own set of fields. This allows the user to complete the form in a step-by-step manner, reducing errors and increasing accuracy. Each field is clearly labeled and has a specific purpose, making it easy for the user to understand what information is required.
-This form is not intended for internal use within the company, but rather for external customers who will be interacting with the company's services. Therefore, the form should be clear and concise, with minimal confusion or ambiguity.
-The fields in this form are all optional, except for those marked as required. The required fields are those that must be completed for the form to be considered valid.
-</thinking>
-
 # Factory Automation Chipset Order Form - Help Guide
 ## Purpose
 The Factory Automation Chipset Order Form is designed to collect information about orders for a factory automation chipset. This form is intended for external customers who will be interacting with the company's services.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect and store information for new hires in the educational administration department. It includes personal details such as job title, job description, supervisor information, and district and school affiliations. The form also captures metadata related to the onboarding process, including status, submitted version, submitted at, and deleted at. This form will help to streamline and track the onboarding process for new hires, ensuring that all necessary information is collected and up-to-date.
-</thinking>
-
 # Educational Administration Onboarding Form - Help Guide
 ## Purpose
 The Educational Administration Onboarding Form is a comprehensive form used to collect and store information for new hires in the educational administration department. This form is used to gather essential details about the new hire, such as job title, job description, supervisor information, and district and school affiliations.

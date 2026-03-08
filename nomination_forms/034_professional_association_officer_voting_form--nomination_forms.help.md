@@ -1,9 +1,3 @@
-<thinking> 
-
-This form is used for nominations, allowing users to submit votes for the officers of the Professional Association. Users can select their preferred candidate for each available officer position, provide contact information, and confirm their submission. The form is designed to be completed once for each officer position. The form is not intended to be used for other purposes, and users are requested not to submit duplicate nominations.
-
-</thinking>
-
 # Professional Association Officer Voting Form - Help Guide
 ## Purpose
 This form is used to submit nominations for the officers of the Professional Association. Please use this form to cast your vote for the candidate of your choice for each available officer position.

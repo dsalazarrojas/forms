@@ -1,9 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the "Industrial Cutting Fluid Order Form" form, we'll need to carefully examine the provided YAML schema to determine the form's purpose, the step-by-step process to complete it, and a detailed explanation of each field.
-The form appears to be designed for ordering industrial cutting fluids, which are likely used in manufacturing or industrial processes. The form likely requires contact information, delivery details, product selection, and shipping information for processing the order.
-We'll focus on creating a user-friendly guide that explains the form's purpose, how to fill it out, and what each field means, making it easier for end-users to navigate the form and submit a successful order.
-</thinking>
-
 # Industrial Cutting Fluid Order Form - Help Guide
 ## Purpose
 The "Industrial Cutting Fluid Order Form" is designed for customers to place orders for industrial cutting fluids, providing contact information, delivery details, product selection, and shipping information for processing the order.

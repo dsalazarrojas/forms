@@ -1,5 +1,3 @@
-<thinking>... This form is designed to be completed by models for scheduling purposes, likely for photo shoots, fashion shows, or other modeling related activities. This form will be used by modelers to provide details about their availability, shoot dates and times, emails, phone numbers, portfolio, and other relevant information. The form is likely used by agencies or clients to gather information from models for upcoming shoots or events. The form should not be used for any other purpose other than as intended. Please ensure you are filling this form for its intended use only... </thinking>
-
 # Model Scheduling Form - Help Guide
 ## Purpose
 This form is designed for models to provide their availability and other relevant information for scheduling photo shoots, fashion shows, or other modeling related activities.

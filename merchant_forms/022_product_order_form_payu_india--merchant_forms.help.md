@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be a generic form for capturing product order information in India, possibly for a B2B or B2C platform. Upon further analysis, it appears to be a comprehensive form with various fields to collect customer details, order specifics, and payment options. However, some fields are not clearly labeled and may require further context for correct usage. I'll create a help guide based on the provided YAML structure.
-</thinking>
-
 # product_order_form_payu_india - Help Guide
 ## Purpose
 The product_order_form_payu_india is a form designed to collect detailed information about a product order for a platform in India. It is likely used for both B2B and B2C sales.

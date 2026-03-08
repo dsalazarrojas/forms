@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # custom_shed_order_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information for custom shed orders. Fill out this form to provide details about the shed you want to order, including the delivery date and time, size, location, and contact information.

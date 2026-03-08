@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Service Order Status Check Form - Help Guide
 ## Purpose
 This form is used to check the status of a service order. It allows users to select the status of their service order, specify the order details, and optionally add a message for further clarification.

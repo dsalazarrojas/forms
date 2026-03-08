@@ -1,7 +1,3 @@
-<thinking>
-This form is used for creating custom patches. The purpose of this form is to collect information about the customer and their order details. This information will be used to process the order and generate a quote for the customer.
-</thinking>
-
 # custom_patches_order_form - Help Guide
 
 ## Purpose

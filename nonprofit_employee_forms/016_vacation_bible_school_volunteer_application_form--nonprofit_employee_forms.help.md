@@ -1,8 +1,3 @@
-<thinking>
-This form is for volunteers who wish to participate in the Vacation Bible School program. To ensure accuracy and consistency, please fill out the form only once. If you are a returning volunteer, you can update your information without needing to fill out the entire form again. Please provide accurate and relevant information to help us best match you with suitable volunteer opportunities.
-
-</thinking>
-
 # Vacation Bible School Volunteer Application Form - Help Guide
 ## Purpose
 The Vacation Bible School Volunteer Application Form is designed to help us understand your qualifications, availability, and preferences to best match you with volunteer opportunities that suit your skills and interests.

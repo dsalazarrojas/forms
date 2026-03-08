@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect information for non-profit food drives, which are initiatives to collect and distribute food and other essential items to those in need. This form should be used to gather the required information for organizing and executing a successful food drive event. The form's fields are designed to capture specific details about the collected items, including the type of food and other essentials that will be distributed. Please ensure that all fields are completed accurately to facilitate proper sorting and distribution of the collected items.
-
-The form is divided into two main categories: "Food" and "Non-Food". "Food" includes questions about the type of food, toiletries, and baby items collected, while "Non-Food" covers personal care items and other essentials.
-
-Before starting, ensure that all fields are filled in according to the provided options and instructions. Some fields, such as "Toiletries", "Baby", and "Non-Food" have specific options to choose from, so pick the relevant ones. Date and Time fields require specific dates and times in the correct format. For other fields like "Phone" and "Email", ensure the format is correct to facilitate easy contact.
-
-</thinking>
-
 # Food Drive Form - Help Guide
 ## Purpose
 The Food Drive Form is used to collect information for non-profit food drives, helping to sort and distribute essential items to those in need.

@@ -1,9 +1,3 @@
-<thinking> 
-
-The patient screening questionnaire is a form designed to collect information from patients to ensure that they receive the best possible care and services. This form is meant to gather essential details about a patient's medical history, contact information, and preferences. It's crucial that we verify this information is accurate to provide personalized care. Please ensure that you complete this form with attention to detail and honesty. If you're unsure about any of the questions, please consult with the treating doctor or nurse.
-
-</thinking>
-
 # Patient Screening Questionnaire - Help Guide
 ## Purpose
 This questionnaire is designed to collect essential information from patients to ensure they receive personalized care.

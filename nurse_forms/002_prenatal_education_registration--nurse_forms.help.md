@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to gather information from expectant mothers who are interested in prenatal education, which is a crucial aspect of preparing for pregnancy and childbirth. The purpose of this form is to collect relevant details about the expectant mothers, such as their personal information, medical history, and contact details. It's essential to ensure that the information is accurate and complete to provide the best possible care and support during pregnancy and post-delivery. 
-</thinking>
 # Prenatal Education Registration - Help Guide
 ## Purpose
 The Prenatal Education Registration form is designed to collect information from expectant mothers to provide them with relevant prenatal education. This form helps us understand their needs and preferences to tailor our education and support services to their requirements.

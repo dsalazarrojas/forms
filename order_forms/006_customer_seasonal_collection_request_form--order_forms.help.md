@@ -1,11 +1,3 @@
-<thinking>
-This form is used by customers to request seasonal collections from a business or organization. The form allows customers to provide information about their collection preferences, such as when they would like to have their collections collected and what type of collections they are interested in. 
-
-This form should only be filled out by customers who are interested in having their seasonal collections collected and have not already submitted a collection request. 
-
-Please make sure to fill out the form accurately and completely, as this information will be used to determine the best collection schedule for your seasonal collections.
-</thinking>
-
 # Customer Seasonal Collection Request Form - Help Guide
 ## Purpose
 The Customer Seasonal Collection Request Form is used by customers to provide information about their seasonal collection preferences. This form helps the business or organization understand the customer's needs and schedule the collection accordingly.

@@ -1,10 +1,3 @@
-<thinking>
-To determine the best way to create this help guide, I need to analyze the form and its purpose. The form appears to be for registering moving services, likely for logistics or transportation companies. It seems to cover various details related to a move, including the type of move, dates, times, and contact information for the company and the person responsible for the move.
-
-To ensure that the help guide is clear and concise, I will group the fields into categories that make sense for the user to understand the form's purpose and how to fill it out.
-
-</thinking>
-
 # Moving Service Registration - Help Guide
 ## Purpose
 This form is for registering moving services, including details about the type of move, dates, and times, as well as contact information for the company and the person responsible for the move.

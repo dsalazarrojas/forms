@@ -1,16 +1,3 @@
-<thinking>
-To determine the purpose and requirements for this form, I will analyze the fields and their labels. 
-
-This form appears to be for capturing information about a nurse practitioner (NP) preceptorship program. The fields indicate that the form collects details about the rotation, student information, and the preceptor's involvement. The required fields are limited, suggesting that the form is designed to be flexible and adaptable to different scenarios.
-
-Upon further analysis, the fields can be grouped into three categories: rotation details, student information, and preceptor information. The rotation details section includes fields like rotation length, start and end dates, and notes. The student information section includes fields like student name, NPI, and rotation location. The preceptor information section includes fields like rotation supervisor, preceptor, and rotation status.
-
-The form does not appear to have any fields that require additional authentication or verification, suggesting that it is intended for internal use within an organization. 
-
-The fields' types (text, number, date, select_one) and labels suggest that the form is meant to be completed by the preceptor or the person responsible for managing the preceptorship program.
-
-</thinking>
-
 # Nurse Practitioner Preceptor Commitment Form - Help Guide
 ## Purpose
 This form is designed to collect information about the preceptorship program for a nurse practitioner, including rotation details, student information, and preceptor's involvement. The form helps track and manage the progress of the program.

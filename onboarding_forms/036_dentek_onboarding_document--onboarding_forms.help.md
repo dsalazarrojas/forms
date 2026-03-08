@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Dentek Onboarding Document - Help Guide
 ## Purpose
 The Dentek Onboarding Document is a form used to gather essential information from new users during the onboarding process. Its purpose is to collect contact details, such as name, phone number, and email address, to facilitate a smooth and efficient onboarding experience.

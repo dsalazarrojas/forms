@@ -1,5 +1,3 @@
-<thinking>...The Nursing Program Application Form is designed for individuals applying to participate in a nursing program. This form captures relevant details for the selection process. To ensure accuracy and thoroughness, it is recommended that applicants submit their applications in a single session. This form does not require any pre-existing login credentials, making it accessible to anyone. Please review each section carefully before proceeding... </thinking>
-
 # Nursing Program Application Form - Help Guide
 ## Purpose
 This form is for individuals applying to participate in a nursing program. It captures personal details, contact information, education history, professional certifications, a personal statement, and references.

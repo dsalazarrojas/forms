@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to place corporate gifts orders, which may include selecting gifts, specifying recipient details, choosing delivery preferences, and entering gift card details or specifying a delivery method and a gift message. To ensure the form is filled out correctly, we should check that the delivery method field is always filled out and that the form does not contain duplicate options for "Corporate" and "Individual" (in delivery_preferences), and that all other fields should be optional and not duplicated. If there are multiple gift selections, they should all be selected. If there is no selection of delivery method, we should display an error. If a gift card is selected, the gift card details field should be filled out. The form is likely used by employees to order gifts for corporate events or celebrations.
-</thinking>
-
 # Corporate Gift Order Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to report and pay for regulatory violations. It's essential for individuals or organizations to understand their responsibility and take the necessary steps to rectify their actions. Please ensure the form is filled out accurately and thoroughly to avoid errors. This form should be used when there is no other way to rectify the issue, and all other avenues have been exhausted.
-
-</thinking>
-
 # Regulatory Violation Payment Form - Help Guide
 ## Purpose
 This form is used to report and pay for regulatory violations. It is a crucial step in the process of rectifying any issues related to regulatory non-compliance.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for players, coaches, or staff members to be nominated for recognition or awards. To be eligible, nominations must be unique and not duplicate previous nominations for the same individual. Nominations will be reviewed for accuracy and authenticity before being considered for recognition.
-</thinking>
-
 # Player Nomination Form - Help Guide
 ## Purpose
 The Player Nomination Form is designed to allow players, coaches, or staff to nominate their peers for recognition or awards. Nominations are used to identify individuals who have made outstanding contributions to the team or organization.

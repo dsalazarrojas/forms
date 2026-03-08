@@ -1,10 +1,3 @@
-<thinking>
-This form is likely used for customers to place an order for lipstick, and it includes fields for selecting the lipstick color, quantity, order date, contact information, shipping details, and order comments. It's designed to collect relevant customer information and preferences to process their order.
-To confirm, this form is not intended to capture sensitive payment information, such as credit card details. This form's purpose appears to be focused on gathering order details, which could be used for customer service, order tracking, or marketing purposes.
-No duplicates in the form fields, but it seems like the form fields have been over-designed, with multiple comments fields. These might be redundant and could be reduced to a single field. 
-The form is designed to be completed by a customer, likely a end-user. The customer is expected to provide accurate and relevant information to ensure a smooth order process.
-</thinking>
-
 # Lipstick Order Form - Help Guide
 
 ## Purpose

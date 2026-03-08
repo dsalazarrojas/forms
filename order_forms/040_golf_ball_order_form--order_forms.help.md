@@ -1,11 +1,3 @@
-<thinking>
-
-The form "golf_ball_order_form" is used to order golf balls. The form is designed to collect information about the type of golf ball, quantity, customer's name, contact information, delivery details, and other relevant information. 
-
-The form is divided into multiple pages, but this explanation will focus on the entire form as a whole.
-
-</thinking>
-
 # golf_ball_order_form - Help Guide
 ## Purpose
 This form is designed to order golf balls.

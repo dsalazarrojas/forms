@@ -1,11 +1,3 @@
-<thinking>
-This form is used for shipping services to drop off packages at a specific location. The user needs to provide information about the package, such as its weight, length, and width, as well as the shipper's contact details. This form is used for internal purposes only and is not meant for external customers.
-
-Checking for relevance and non-duplication: 
-This form is not intended for external customers and is used for internal purposes. It is possible that this form might be used by other employees within the organization. However, it is unlikely that this form would be used by the same employee to create duplicate records.
-
-</thinking>
-
 # Shipping Service Drop Off Check In Form - Help Guide
 ## Purpose
 The Shipping Service Drop Off Check In Form is used by employees to check in packages at a shipping service location. This form is meant to gather information about the packages being dropped off, including package details and shipper contact information.

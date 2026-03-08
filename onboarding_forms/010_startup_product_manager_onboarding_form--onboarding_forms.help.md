@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Startup Product Manager Onboarding Form - Help Guide
 ## Purpose
 This form is designed to help new hires get on board with the team quickly and efficiently. It captures essential information about their preferences, role, and team coordination needs. Please take a few minutes to fill out this form, and we'll get you set up with the necessary tools and resources to succeed in your new role.

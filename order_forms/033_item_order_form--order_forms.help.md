@@ -1,8 +1,3 @@
-<thinking>
-The form "Item Order Form" is designed to collect data from customers or clients regarding their item orders. Its primary purpose is to gather information about the ordered item, including customer name and order date. This form may be used by businesses or organizations to streamline their order management process.
-To prevent duplication, ensure this form is used for its intended purpose and do not copy it or modify it excessively. If you need help with form customization or integration, please contact form@gic.mx.
-</thinking>
-
 # Item Order Form - Help Guide
 ## Purpose
 The Item Order Form is a simple data collection form designed to gather order information from customers.

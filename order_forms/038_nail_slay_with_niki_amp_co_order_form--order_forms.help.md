@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect customer information and order details from customers who are interested in purchasing products from Niki & Co. The purpose of this form is to streamline the ordering process, making it easy for customers to provide necessary information and for Niki & Co. to fulfill their orders efficiently. To avoid confusion, this form should only be used for customers placing orders, not for other purposes like product inquiries or customer service requests.
-</thinking>
-
 # nail_slay_with_niki_&_co_order_form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used for standard catering orders, gathering essential information from customers such as their name, order details, delivery date and time, catering service preferences, food type, order quantity, contact number, and email. This information will be used to create an order that meets the customer's needs and to communicate with them effectively. Before starting, ensure that this form is relevant to your current order needs and not a duplicate of any existing order form.
-</thinking>
-
 # Standard Catering Order Form - Help Guide
 ## Purpose
 

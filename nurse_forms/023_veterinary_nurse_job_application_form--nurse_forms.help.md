@@ -1,15 +1,3 @@
-<thinking>...
-This form is intended for veterinary nurse job applicants to provide information about their qualifications, experience, and contact details. The form is designed to collect data on the applicant's education, medical certifications, job experience, work history, and emergency contact information.
-
-Form fields may be optional or required depending on the context and the user's response to previous questions.
-
-When completing this form, please ensure that you answer every question carefully, as it will help us evaluate your application.
-
-Before submitting, review the form to avoid any errors and ensure that you have provided all the necessary information.
-
-This form is part of the larger application process. If you have any questions or need further clarification, please contact us.
-
-</thinking>
 # Veterinary Nurse Job Application Form - Help Guide
 ## Purpose
 The Veterinary Nurse Job Application Form is designed to collect information from applicants for veterinary nurse positions. This form will help us assess your qualifications, experience, and contact details.

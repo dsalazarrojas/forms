@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and usage of the Shelter Renovation Support Application Form. The form is designed to gather relevant information from applicants seeking support for shelter renovations. It is meant to be used by shelter staff, volunteers, or other authorized individuals to collect and process such applications. Please ensure that you are using this form for its intended purpose and that your input is accurate and truthful. If you are seeking general information or have already submitted a similar application, please do not reuse the same information.
-</thinking>
-
 # Shelter Renovation Support Application Form - Help Guide
 ## Purpose
 The Shelter Renovation Support Application Form is used to gather necessary information from applicants seeking support for shelter renovations. It is designed to help shelter staff assess and manage renovation requests efficiently.

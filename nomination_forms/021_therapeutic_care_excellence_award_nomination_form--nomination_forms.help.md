@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to submit nominations for the Therapeutic Care Excellence Award. Please ensure that you have a legitimate reason for nominating a healthcare professional or hospital. To avoid duplication, please check the current nominees list before submitting your nomination. The form should only be used for genuine nominations and not for promotional purposes or to nominate yourself or your organization. 
-</thinking>
-
 # Therapeutic Care Excellence Award Nomination Form - Help Guide
 ## Purpose
 This form is used to submit nominations for the Therapeutic Care Excellence Award, which recognizes outstanding therapeutic care and services provided by healthcare professionals and hospitals.

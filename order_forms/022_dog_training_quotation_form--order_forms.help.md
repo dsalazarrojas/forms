@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for customers or pet owners to request a quote for dog training services. The goal is to gather information from the customer about their dog and the type of training required, as well as their contact information and payment preference.
-The form should not be used to book actual dog training sessions, but rather to initiate a quote and potential future service. 
-This form is not meant to be used for duplicate submissions, so customers are expected to fill it out only once.
-</thinking>
-
 # Dog Training Quotation Form - Help Guide
 ## Purpose
 This form is designed to provide a quick and easy way for customers to request a quote for dog training services. Fill out this form to provide us with information about your dog and your desired training needs, and we will get back to you with a personalized quote.

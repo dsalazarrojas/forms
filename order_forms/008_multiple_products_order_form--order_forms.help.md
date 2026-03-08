@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Multiple Products Order Form - Help Guide
 
 ## Purpose

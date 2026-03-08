@@ -1,9 +1,3 @@
-<thinking>
-This form is for creating new job work orders. The purpose of this form is to collect necessary information for a job work order, which is an essential document for a business or individual to manage their work orders efficiently. Before proceeding, ensure that you have already checked the following:
-- You have not already submitted a job work order with this name.
-- You have already checked that you have all the necessary information to fill in the form completely and accurately.
-</thinking>
-
 # Job Work Order Form - Help Guide
 ## Purpose
 This form is used for creating new job work orders, which are essential documents for managing work orders efficiently.

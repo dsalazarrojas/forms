@@ -1,7 +1,3 @@
-<thinking>
-This form is used for resellers to place orders for products with the company. The form is designed to collect order details and payment information from customers, ensuring accurate and efficient processing of orders. To create a comprehensive help guide, we will review each field to provide a clear explanation of its purpose and requirements.
-</thinking>
-
 # Trends & Colours For Resellers - Help Guide
 ## Purpose
 This form is used to collect order details and payment information from resellers, enabling us to process orders accurately and efficiently.

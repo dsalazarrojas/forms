@@ -1,8 +1,3 @@
-<thinking> 
-This form is used for collecting signatures and information from concerned citizens, veterinarians, animal shelter staff, and other individuals interested in animal welfare. It is not affiliated with any form platform and was created by an AI using public metadata. The purpose of this form is to help raise awareness and gather support for an animal welfare petition, which can be used to drive legislative change. This form should not be used for commercial or financial purposes. 
-
-</thinking>
-
 # Animal Welfare Petition Form - Help Guide
 ## Purpose
 The Animal Welfare Petition Form is used to collect signatures and information from concerned individuals who support animal welfare causes. This form helps raise awareness and gathers support to drive legislative change for animal welfare issues.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Factory Air Duct System Order Form - Help Guide
 ## Purpose
 The Factory Air Duct System Order Form is designed to collect information required for the fabrication of custom air duct systems for factories. This form is crucial for accurately capturing the specifications of the system, ensuring that the manufactured product meets the customer's requirements.

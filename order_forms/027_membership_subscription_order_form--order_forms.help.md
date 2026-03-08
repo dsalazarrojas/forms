@@ -1,7 +1,4 @@
 >
-<thinking>
-This form is used to collect information for a membership subscription order. The form is designed to capture the necessary details to process a subscription order. This guide is meant to ensure that end users understand the form's purpose and how to correctly fill it out to avoid any errors or issues.
-</thinking>
 # membership_subscription_order_form - Help Guide
 ## Purpose
 This form is used to collect information for a membership subscription order, enabling efficient and accurate processing of subscription requests.

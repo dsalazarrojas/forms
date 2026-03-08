@@ -1,7 +1,3 @@
-<thinking>
-This form is used for generating QR codes for various purposes, likely for orders or other categories. This form likely serves as a front-end interface for processing and generating QR codes in a more user-friendly manner. This could potentially be used by internal teams to generate QR codes for orders, or perhaps for other purposes. It's essential to understand the context of this form and its intended use case to ensure proper completion and submission.
-</thinking>
-
 # QR Code Generation Form - Help Guide
 
 ## Purpose

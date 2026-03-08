@@ -1,5 +1,3 @@
-<thinking>This form is intended to help customers quickly create a purchase order for a custom-made shirt. Please use the following steps to complete the form and make a purchase. This form should not be used for any other purpose, and its completion implies that you are aware of and agree to our terms and conditions.</thinking>
-
 # Shirt Order Form - Help Guide
 ## Purpose
 This form is for creating a custom-made shirt order. Please provide the necessary information to create a unique and personalized shirt that meets your needs and preferences.

@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to collect information for a pizza order. The purpose of this form is to gather details about the customer's order, including their personal details, order preferences, and payment information. This form will be used to process the order and generate a receipt. I will assume that the form will be filled out by a customer, and the information will be used to create a pizza order.
-</thinking>
-
 # Pizza Order Form - Help Guide
 
 ## Purpose

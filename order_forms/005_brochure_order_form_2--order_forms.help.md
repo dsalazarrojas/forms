@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Brochure Order Form 2 - Help Guide
 ## Purpose
 This form is used to place an order for brochures. It gathers necessary information for brochure production, delivery, and any additional products you may want to order.

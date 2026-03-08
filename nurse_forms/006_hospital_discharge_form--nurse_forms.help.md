@@ -1,5 +1,3 @@
-<thinking>Checking to see if there are any duplicates or unnecessary fields... No, all fields are unique and seem to be relevant to the form purpose. This form is for recording discharge information for patients, and it covers essential details such as patient demographics, medical history, insurance information, and follow-up care instructions.</thinking>
-
 # prophets_hospital_discharge_form - Help Guide
 ## Purpose
 The prophets_hospital_discharge_form is a document used to record discharge information for patients. It includes details about the patient's hospital stay, medical treatment, and follow-up care instructions.

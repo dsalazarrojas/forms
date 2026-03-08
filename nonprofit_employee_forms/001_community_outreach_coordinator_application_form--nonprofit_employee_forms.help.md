@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, let's confirm the form's purpose and ensure it's not a duplicate. This form is for the Community Outreach Coordinator Application Form, which appears to be a critical component of the nonprofit organization's hiring process. We'll assume it's not a duplicate and proceed with creating the help guide.</thinking>
-
 # Community Outreach Coordinator Application Form - Help Guide
 ## Purpose
 The Community Outreach Coordinator Application Form is used to gather information from potential candidates applying for a Community Outreach Coordinator position within our nonprofit organization. This form helps us understand your personal and professional background, experience, and availability to determine the best fit for the role.

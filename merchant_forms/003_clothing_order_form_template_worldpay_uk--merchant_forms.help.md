@@ -1,15 +1,3 @@
-<thinking>
-The form is designed to collect information from customers for an online clothing order, including their personal details, delivery information, and order specifics. The purpose of the form is to facilitate the process of making a sale and to ensure that the customer's needs are accurately captured. 
-
-The form is divided into multiple fields that cover various aspects of the order, including customer identity (name, email, and phone number), address and delivery information, order specifics (items to purchase, sizes, and colors), payment details, and special requests or instructions.
-
-To prevent duplication, each order form submission is reviewed for accuracy and completeness before proceeding with the order. 
-
-To ensure consistency, all fields are clearly labeled and described, and options are provided for selection fields. 
-
-The form will guide users through each step of the process, helping them to complete their order with ease and accuracy.
-</thinking>
-
 # Clothing Order Form Template WorldPay UK - Help Guide
 ## Purpose
 This form is used to collect information from customers for an online clothing order. It is designed to ensure that your order is processed accurately and efficiently.

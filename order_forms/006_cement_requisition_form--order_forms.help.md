@@ -1,7 +1,3 @@
-<thinking>
-The cement requisition form is a tool for construction project managers to request materials from suppliers. The form is used to collect specific details about the project, such as its name, location, and the type and quantity of cement required. It also asks for the requisitioner's details, delivery information, and authorization from the approving manager. The form is divided into different sections, each covering a specific aspect of the requisition. This form is designed to be completed by the person responsible for the construction project, and it helps the supplier understand the requirements for the cement delivery.
-</thinking>
-
 # Cement Requisition Form - Help Guide
 ## Purpose
 The Cement Requisition Form is a tool for construction project managers to request cement from suppliers. It helps the supplier understand the project's specific needs and ensures accurate delivery of the required materials.

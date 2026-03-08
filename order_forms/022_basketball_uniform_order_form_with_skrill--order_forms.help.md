@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information for ordering basketball uniforms with Skrill payment processing. The form is divided into several sections, each with its own set of fields. The fields are designed to collect player and order information, including player name, contact email, and sizing options. The form also collects payment information using Skrill, including the email associated with the Skrill account and the total amount due. The form is intended for players who are ordering basketball uniforms for themselves or others.
 
 # Basketball Uniform Order Form With Skrill - Help Guide

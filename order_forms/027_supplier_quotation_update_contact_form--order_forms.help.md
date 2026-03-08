@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Supplier Quotation Update Contact Form - Help Guide
 ## Purpose
 This form is used to update information related to supplier quotations. The form is intended to gather updates from suppliers regarding their quotations, such as the updated quotation price, date, or other relevant information.

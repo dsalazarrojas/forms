@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Custom Printing Order Form - Help Guide
 ## Purpose
 This form is for customers to input their printing order details for custom printing services. Customers can select the desired printing type, size, color mode, quantity, paper quality, material, paper type, and provide their details to place an order.

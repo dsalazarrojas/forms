@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # E Book Requisition Form - Help Guide
 ## Purpose
 The E Book Requisition Form is a form used to request e-books from a catalog. The form is designed to collect information from the requester to facilitate the processing of the e-book request.

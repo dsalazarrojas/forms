@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from customers or users for digital downloads or products. The form likely serves as a purchase order form for digital goods or services. The form's purpose is to gather essential details about the customer, the product/download being purchased, and the status of the order.
-
-Before proceeding, check if the form is not a duplicate of any existing form. If so, consider merging or modifying the existing form instead of creating a new one.
-
-</thinking>
-
 # digital_download_purchase_order_form - Help Guide
 ## Purpose
 The digital download purchase order form is a tool used to collect customer information and details about digital downloads or products for processing and fulfillment purposes.

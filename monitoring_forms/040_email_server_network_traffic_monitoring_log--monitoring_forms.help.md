@@ -1,9 +1,3 @@
-<thinking>
-The form "email_server_network_traffic_monitoring_log" is used to collect and log information about email server network traffic. This form is used to monitor and analyze email server activity, which can help administrators identify potential issues with email servers or networks. This form is likely to be used by email server administrators or network administrators to gather data for troubleshooting and optimization purposes. It's possible that this form is also used for other use cases such as auditing or research, but its primary purpose is focused on email server network traffic monitoring.
-
-Given the provided YAML, I'll create a help guide that explains the form's purpose, how to complete it, and each field's meaning in plain language.
-</thinking>
-
 # email_server_network_traffic_monitoring_log - Help Guide
 
 ## Purpose

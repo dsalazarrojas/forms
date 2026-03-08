@@ -1,11 +1,3 @@
-<thinking>
-
-I'll check to make sure this form isn't duplicating an existing guide and confirm it's relevant for the given context. The purpose of this form is to collect information from couples seeking catering services for their wedding event. It's essential to have a comprehensive guide to help end-users complete the form accurately.
-
-The form is for wedding catering services, so the target audience is likely couples getting married. This guide will cover the form's purpose, the steps to complete it, and a field-by-field explanation of each section.
-
-</thinking>
-
 # Wedding Catering Quotation Form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information for customer invoices. It includes a series of text fields, number fields, date fields, time fields, and select fields. This form is not required for any specific business process, but rather it's a general-purpose form for customers to provide their information and preferences. Please ensure you fill out all required fields accurately and completely.</thinking>
-
 # Customer Invoice Checklist Form - Help Guide
 ## Purpose
 

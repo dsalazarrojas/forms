@@ -1,5 +1,3 @@
-<thinking>Here's a brief internal note on the purpose of this form and its relevance: This form is meant to gather information from customers for custom toolkit orders, allowing them to provide detailed inputs for their desired product configurations. The form has 26 fields that aim to cover various aspects of the order, including customer details, order specifics, and delivery preferences. The form's structure is quite extensive, but it appears to be designed to accommodate multiple sections or pages, each focused on a different aspect of the order. It's worth noting that some fields may be redundant or have similar purposes. To confirm the form's relevance and accuracy, it's essential to review the actual requirements and use cases for which this form is intended.</thinking>
-
 # Custom Toolkit Order Form - Help Guide
 ## Purpose
 The Custom Toolkit Order Form is designed to gather detailed information from customers for their custom toolkit orders. This form allows customers to provide specific inputs for their desired product configurations, enabling you to create a tailored order that meets their needs.

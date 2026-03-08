@@ -1,7 +1,3 @@
-<thinking>
-This guide will walk you through the Mobile Order Form, its purpose, and how to complete it. This form is designed to collect information from customers, specifically their order details and personal information. It is used to gather data for orders that will be fulfilled by your organization. This guide will help you understand the form's structure and how to fill it out correctly.
-</thinking>
-
 # Mobile Order Form - Help Guide
 ## Purpose
 The Mobile Order Form is a tool used to collect order details and customer information from customers. This form is used for orders that your organization will be fulfilling.

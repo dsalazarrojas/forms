@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to be used by artisanal product sellers to collect information from customers for orders, including order details, product information, payment details, and shipping information. It is a multi-page form that covers various aspects of the ordering process.
-
-The form is not affiliated with, endorsed by, or derived from any existing form platforms, and is instead a custom creation generated using AI-based tools. It is released under CC BY 4.0 license, allowing users to modify and distribute it as needed.
-
-The form's fields are designed to be simple and straightforward, with each section focused on a specific aspect of the order process. To ensure accuracy and consistency, it is recommended to review each field carefully before proceeding.
-
-</thinking>
-
 # Handcrafted Artisan Product Order Form - Help Guide
 ## Purpose
 The Handcrafted Artisan Product Order Form is designed to collect order information from customers for artisanal products, including order details, product information, payment details, and shipping information.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from clients and attendees for a Client Appreciation Event. The form is used to collect details such as attendee and guest information, dietary restrictions, transportation requirements, and other event-related preferences. It's essential to provide accurate and complete information to ensure a smooth and enjoyable experience for all attendees. Please review each field carefully and provide the necessary details to ensure your participation in the event.
-
-</thinking>
-
 # Client Appreciation Event Registration - Help Guide
 
 ## Purpose

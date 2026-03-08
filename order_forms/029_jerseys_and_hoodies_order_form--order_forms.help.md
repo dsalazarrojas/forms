@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for customers to place orders for jerseys and hoodies. It requires customers to provide their name, email, phone number, and other details. Customers can select the type and color of the jersey and hoodie they want to order. They also need to provide the size, quantity, and payment method for their order. After submitting the form, customers will receive an order number and order date/time status. This form is designed to be used by customers who are ordering jerseys and hoodies.
-
-</thinking>
-
 # Jerseys And Hoodies Order Form - Help Guide
 ## Purpose
 This form is used for customers to place orders for jerseys and hoodies.

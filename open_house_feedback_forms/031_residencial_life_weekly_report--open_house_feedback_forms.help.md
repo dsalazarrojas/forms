@@ -1,5 +1,3 @@
-<thinking>As this form is designed to gather feedback from residents in a living area, let's assume it's for a community or neighborhood association, housing management, or similar settings. The purpose of this form is to collect information about the resident's weekly experiences, activities, and management interactions. This could be used to monitor resident satisfaction, provide services, or facilitate communication between residents and management. Please ensure that this form is not used for soliciting sensitive or personal information, and that the submitted data is handled according to your organization's privacy policies. Before proceeding, ensure that you're not duplicating this form's data collection efforts within your organization.</thinking>
-
 # Residencial Life Weekly Report - Help Guide
 ## Purpose
 The Residencial Life Weekly Report form is designed to collect feedback and experiences from residents in a living area, helping you provide better services and communication with management.

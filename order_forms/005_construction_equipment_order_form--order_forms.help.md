@@ -1,9 +1,3 @@
-<thinking>
-We need to verify the purpose and relevance of the form to create a helpful guide. The form is designed for ordering construction equipment, which suggests it's likely used in the construction industry for requesting or renting heavy machinery like excavators, cranes, and loaders. However, it may also be used for other purposes or industries with similar forms. Let's assume it's primarily used in the construction industry for renting equipment. The form asks for basic information like requester name, contact phone number, equipment type, quantity, and delivery address, which seems standard for such a form. The required fields are "Requester name", "Contact phone", "Equipment type", and "Quantity", which indicates the minimum required information. The form also asks for optional fields like "Company name", "Rental duration days", "Preferred delivery date", and "Special instructions", which can be helpful for additional context or clarification.
-
-Please proceed with creating the help guide based on the above assumptions.
-</thinking>
-
 # Construction Equipment Order Form - Help Guide
 ## Purpose
 This form is designed to help you order construction equipment for your projects. Please fill out the form to request heavy machinery such as excavators, cranes, and loaders for your construction site.

@@ -1,5 +1,3 @@
-<thinking>As a nail artist, it's essential to keep track of your inventory and orders accurately. This form is designed to collect information about your nail strip inventory, including product details, quantity, color, and other relevant information. When completing this form, please ensure that you provide accurate and detailed information to help us process your orders efficiently.</thinking>
-
 # Nail Strips Inventory Order Form - Help Guide
 
 ## Purpose

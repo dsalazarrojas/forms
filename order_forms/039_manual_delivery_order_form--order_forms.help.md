@@ -1,21 +1,3 @@
-<thinking>
-This form appears to be for capturing information related to manual delivery orders, such as customer details, delivery information, and order items. It is designed to ensure that all necessary details are collected and recorded accurately.
-
-Form Purpose:
-This form is intended to be used for manual delivery orders, where customers or users need to provide information about their orders. The form will likely be used by delivery personnel to collect and update the status of orders.
-
-How to Complete This Form:
-
-To complete this form, follow these steps:
-
-1. Enter the customer's name and contact information on the "Customer Info" page.
-2. Enter the delivery details, including the date and time for the delivery, on the "Delivery Info" page.
-3. List the items to be delivered under the "Order Items" section.
-4. Record the delivery status and add any comments or notes, if necessary.
-5. Select the current status of the delivery, using the dropdown menu for "Delivery Status".
-
-</thinking>
-
 # Manual Delivery Order Form - Help Guide
 ## Purpose
 This form is for manual delivery orders, such as delivering items to customers or clients.

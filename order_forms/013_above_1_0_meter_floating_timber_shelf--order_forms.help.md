@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Above 1.0 Meter Floating Timber Shelf - Help Guide
 
 ## Purpose

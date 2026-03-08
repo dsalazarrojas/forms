@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about the patient's flu vaccine requirement status. This form is used to collect data on whether the patient has received the flu vaccine, the date and time of the vaccine administration, and any relevant notes or comments. This form should only be completed by patients who are required to submit their flu vaccine information.
-To ensure data accuracy, please review the form carefully and enter information in the correct fields.
-
-This form is not intended to be a comprehensive medical record, but rather a supplementary form to support the patient's medical history.
-
-Please note that this form should not be used as a substitute for a medical consultation or diagnosis. If you have any concerns about your flu vaccine status or any other medical issue, please consult a healthcare professional.
-
-</thinking>
-
 # Flu Vaccine Requirement Form - Help Guide
 
 ## Purpose

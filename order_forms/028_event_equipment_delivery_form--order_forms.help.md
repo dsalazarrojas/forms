@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Event Equipment Delivery Form - Help Guide
 ## Purpose
 The Event Equipment Delivery Form is used to collect information from customers or internal stakeholders about equipment delivery preferences and details. This form helps us better understand their needs and ensures timely and accurate delivery of equipment.

@@ -1,16 +1,3 @@
-<thinking>...
-Checking the form YAML, the "Serum Order Form" appears to be a simple form designed to collect information from customers or users regarding their serum orders. The form has two pages, with fields for:
-- **Name**: A text field to collect the customer's name.
-- **Phone**: An optional text field to collect the customer's phone number.
-- **Email**: An optional email field to collect the customer's email address.
-- **Product**: A select-one field to select the type of serum product ordered.
-- **Submit**: A submit button to finalize the order.
-
-This form is likely used in a business or commerce setting, perhaps in a pharmacy or medical supply store.
-
-The form's purpose is to gather essential information to process and fulfill the customer's order efficiently.
-...</thinking>
-
 # Serum Order Form - Help Guide
 ## Purpose
 The Serum Order Form is a straightforward form used to collect information from customers or users about their serum orders.

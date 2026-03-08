@@ -1,8 +1,3 @@
-<thinking>
-We are checking that the form is correctly configured as a "Catering Service Recommendation Form" for a specific purpose. This form will collect information from clients to better understand their needs for a catering service, which will enable us to provide personalized recommendations for their event. Please note that the form is split into multiple sections with clear labels and instructions for each field, making it easy to navigate and complete. There is no duplicate or unnecessary fields that could confuse or mislead the user. This form is designed to be user-friendly, efficient, and effective in gathering the required information.
-
-</thinking>
-
 # Catering Service Recommendation Form - Help Guide
 ## Purpose
 

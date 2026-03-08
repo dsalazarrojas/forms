@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a salad delivery order. It is intended for customers to fill in their contact information (name, email, phone) and order details (salad type, protein, price) to place an order. The form will likely be used by a restaurant or food establishment to gather order data for processing and delivery. Before starting, please make sure you are filling out a real order and not a duplicate or test form. If this form is being used for testing, please do not submit it.
-</thinking>
-
 # Salad Delivery Order Form - Help Guide
 ## Purpose
 The Salad Delivery Order Form is designed to collect order information from customers for a salad delivery service. 

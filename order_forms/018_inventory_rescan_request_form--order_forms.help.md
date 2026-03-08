@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request a rescan of the inventory, which is used to update the accuracy and completeness of the data stored in the inventory management system. The purpose of this form is to provide additional or updated information about a product's status in the warehouse.
-</thinking>
-
 # inventory_rescan_request_form - Help Guide
 ## Purpose
 The purpose of this form is to request a rescan of the inventory, which is used to update the accuracy and completeness of the data stored in the inventory management system.

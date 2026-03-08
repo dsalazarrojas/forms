@@ -1,11 +1,3 @@
-<thinking>
-
-To ensure that the form "Customer Shipping Location Details" is filled out correctly, let's first confirm its purpose and check for internal considerations. 
-
-This form is designed to gather customer shipping location details for processing and shipping orders. Each field in the form should be filled out accurately to ensure correct shipping information is captured. 
-
-</thinking>
-
 # Customer Shipping Location Details - Help Guide
 ## Purpose
 This form is used to collect information for shipping locations of customers who have placed an order. It's essential to fill out this form correctly to ensure efficient shipping and delivery of products or services to the customers.

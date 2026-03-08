@@ -1,9 +1,3 @@
-<thinking>
-
-**Internally, this form is used to collect information about international missions, which are projects or initiatives that take place outside of the user's country of origin. The form is designed to gather details about the mission's objectives, goals, and scope, as well as its dates, locations, expenses, and team members involved. This information is crucial for mission planners and stakeholders to understand the mission's context, risks, and potential challenges. To ensure accuracy and completeness, the form must be filled out carefully and thoroughly. Before proceeding, please confirm that you have the necessary permissions and approvals to access and share the mission details.**
-
-</thinking>
-
 # International Missions Form - Help Guide
 
 ## Purpose

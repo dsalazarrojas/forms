@@ -1,14 +1,3 @@
-<thinking>
-This form is intended for videography billing purposes, allowing clients to provide their billing information and payment details. The form is likely used for invoicing clients for services rendered in the videography field. The form should only be used by authorized users, and its purpose is to streamline the billing process for clients. This form is not intended for general public use and should not be accessible to non-authorized users.
-
-Form Purpose: The videography_billing_form is used to collect billing information from clients.
-
-Form Structure: The form is divided into multiple pages, each with its own set of fields. The fields include client information, billing information, payment details, and other relevant details.
-
-This help guide will cover the form's fields in detail, explaining each field's purpose and requiredness.
-
-</thinking>
-
 # videography_billing_form - Help Guide
 ## Purpose
 The videography_billing_form is used to collect billing information from clients.

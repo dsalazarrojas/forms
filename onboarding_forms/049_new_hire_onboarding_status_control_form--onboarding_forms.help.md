@@ -1,5 +1,3 @@
-<thinking>... We have to ensure that new hires are properly onboarded into our organization, and this form is the central tool in this process. The form should be filled out accurately and completely, and its purpose is to gather essential information about the new hire, such as their category, assigned tool, and output file. This form should not be filled out multiple times, as it could lead to data duplication and confusion. Please make sure to fill out the form correctly and only once per new hire... </thinking>
-
 # New Hire Onboarding Status Control Form - Help Guide
 ## Purpose
 This form is designed to provide essential information about new hires, helping them get started with their onboarding process. It's a crucial tool for our organization to track and manage new hires' progress.

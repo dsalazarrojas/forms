@@ -1,17 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about candidates or individuals, specifically to screen them for certain qualities or requirements. This form is likely used in a hiring or recruitment process, where the goal is to gather relevant details about the candidate's background, skills, and emergency contacts.
-
-To determine if this form is suitable for your specific use case, consider the following:
-
-* Is this form being used to collect sensitive or personal information about individuals?
-* Are you already using a similar form or process to collect this type of information?
-* Are there any specific requirements or fields that need to be filled out by the candidate or individual filling out the form?
-
-Before proceeding, ensure that you have reviewed and understand your organization's data protection and privacy policies, as this form will collect and store personal data.
-
-</thinking>
-
 # phone_screening_form - Help Guide
 ## Purpose
 The phone screening form is designed to collect essential information about candidates or individuals, including contact details, work history, and emergency contacts. This form helps in the initial screening process to gather relevant details before further evaluation.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for managing membership event ticket sales. It captures essential information about the event, attendee, and payment details. The purpose of this form is to process and confirm membership event ticket sales. To ensure accurate and complete data, please carefully review each field as described below.
-</thinking>
-
 # Membership Event Ticket Sales - Help Guide
 ## Purpose
 This form is designed to capture information about membership event ticket sales, including event details, attendee information, payment method, and order status. The form is intended to be used by customers or staff members to process and confirm sales.

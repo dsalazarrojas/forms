@@ -1,7 +1,3 @@
-<thinking>
-This is a template for generating a help guide for a School Nurse Visit Form. The form is likely used to record and track visits made by school nurses to students. It may be used by school administrators or medical professionals to gather necessary information about each visit, including student details, visit details, and follow-up information. Before filling out this form, ensure that you are using it for a valid purpose and that you are authorized to access and use this form. This guide is intended to help you fill out the form correctly and efficiently.
-</thinking>
-
 # School Nurse Visit Form - Help Guide
 ## Purpose
 The School Nurse Visit Form is a crucial tool for tracking and recording information about visits made by school nurses to students. It is used to provide accurate and consistent reporting of student health data, facilitate collaboration among school staff, and ensure that students receive quality care. This form should be used whenever a school nurse conducts a visit to a student.

@@ -1,11 +1,3 @@
-<thinking>
-# This form is intended for staff members of non-profit organizations to request the pickup of donations. 
-This form is to be filled out by the non-profit staff member who is making the request. 
-The form will help non-profit staff to request for pickup of donations that they have already collected. 
-The form will ask for the donor's information, pickup details and non-profit information. 
-This form is a simple tool to help non-profit staff request for pickup of their donations.
-</thinking>
-
 # Donation Pick Up Request Form - Help Guide
 ## Purpose
 The purpose of this form is to provide a simple and efficient way for non-profit staff members to request the pickup of donations that they have collected. This form helps to streamline the process of arranging for the pickup of donations from non-profits.

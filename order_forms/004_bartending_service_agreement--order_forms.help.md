@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Bartending Service Agreement - Help Guide
 ## Purpose
 This form is used to gather information about an event's details, including client information, event schedule, and service requirements. The form will help our team prepare for the event and ensure that we can provide the best possible service.

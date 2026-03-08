@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to collect data on a respondent's demographics, cigar-smoking habits, preferences, and purchasing behavior. It is intended to be used by cigar enthusiasts and professionals in the tobacco industry. To ensure the form is completed accurately and consistently, it is essential to follow the instructions and guidelines provided in this help guide.
-
-Before starting, please note that the form is divided into sections, each focusing on a specific aspect of the respondent's relationship with cigars. The sections are:
-
-*   Respondent Information: This section collects basic demographic information about the respondent.
-*   Cigar Experience: This section inquires about the respondent's history with cigars, including how long they have been smoking and how often they smoke.
-*   Cigar Preferences: This section explores the respondent's favorite cigar types, origins, sizes, and prices.
-*   Brand Preferences: This section asks about the respondent's favorite cigar brands and their level of loyalty to these brands.
-*   Purchase Behavior: This section inquires about where the respondent typically purchases cigars and the factors that influence their purchasing decisions.
-*   Satisfaction and Feedback: This section gathers information about the respondent's overall satisfaction with cigars and their desired improvements in cigar products.
-
-Please ensure that you answer the questions honestly and accurately to the best of your knowledge. If you have any doubts or concerns, please refer to this help guide for clarification.
-</thinking>
-
 # Cigar Survey - Help Guide
 ## Purpose
 This survey aims to gather information about your demographics, cigar-smoking habits, preferences, and purchasing behavior.

@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will help you create a user-facing help guide for the "Safety Gear Order Form" that explains its purpose, how to complete it, and what each field means in a clear and concise manner.</thinking>
-
 # Safety Gear Order Form - Help Guide
 ## Purpose
 The Safety Gear Order Form is used to collect information from customers for ordering safety gear. This form is designed to gather details such as customer contact information, order specifics, and other relevant details for processing orders.

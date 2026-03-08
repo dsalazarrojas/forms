@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from nonprofit employees about their volunteer management experiences. The purpose of this form is to gather feedback and suggestions from employees to improve the organization's volunteer management practices. It is expected that the form will be completed by nonprofit employees who are involved in various volunteer programs. It is not a form for external stakeholders or volunteers, and it is not intended to be a comprehensive performance evaluation or a formal complaint form.
-
-Before proceeding, please ensure that you are a nonprofit employee and that you are filling this form in a work-related context. If you are unsure about any of the fields or have questions, please contact the relevant department or supervisor for clarification.
-
-The form has 7 fields, each with a specific purpose. Please read each field carefully and provide clear and concise answers.
-
-</thinking>
-
 # Volunteer Management Audit Form - Help Guide
 ## Purpose
 This form is designed to collect information from nonprofit employees about their experiences and suggestions for improving volunteer management practices within the organization.

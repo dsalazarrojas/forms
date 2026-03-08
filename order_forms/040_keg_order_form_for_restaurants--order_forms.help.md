@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help customers order kegs for their restaurants. It is designed to collect relevant information about the customer, their preferences, and the delivery details. The form will guide the customer through a series of questions to ensure they are able to provide all the necessary information for their order. To avoid confusion, please note that this form is not intended for keg orders for events or other external orders, but rather for regular restaurant orders.
-</thinking>
-
 # Keg Order Form For Restaurants - Help Guide
 ## Purpose
 The Keg Order Form For Restaurants is a tool used by customers to place keg orders with their local restaurants. This form will guide you through the process of providing the necessary information for your order.

@@ -1,14 +1,3 @@
-<thinking>
-Form purpose: This form is designed to collect information for product bundle requests from customers. It is meant for internal use, likely to facilitate communication and organization within the company.
-
-To prevent duplication and ensure accurate completion of the form, we should be cautious to not fill out the form if we're not requesting a product bundle.
-
-The form should be filled out by customers or internal staff when requesting a product bundle, with the goal of streamlining the process and reducing miscommunication.
-
-Before starting, ensure that the form is relevant to your specific situation. If not, please stop and contact the relevant department.
-
-</thinking>
-
 # Product Bundle Request Contact Form - Help Guide
 ## Purpose
 This form is for customers or internal staff to request a product bundle. It will help us understand your requirements and facilitate the process of getting you the bundle you need.

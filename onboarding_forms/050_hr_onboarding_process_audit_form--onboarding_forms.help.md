@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to help HR teams streamline the onboarding process by collecting information about team members in a structured and efficient manner. It's intended to reduce errors and increase productivity by providing a centralized platform for tracking team member information. This form is used to audit and verify the accuracy of team member details such as team member names, email addresses, phone numbers, goals, start dates, and onboarding status. It's crucial to ensure that this form is filled out accurately to prevent any potential issues during the onboarding process.
 
 </thinking>

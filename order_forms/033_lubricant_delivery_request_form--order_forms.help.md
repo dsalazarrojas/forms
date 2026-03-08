@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for requesting delivery of lubricants to the maintenance team. The form is intended for use by maintenance team members to provide information for the delivery service. The form will be used to track and record the requests for lubricant delivery, ensuring that the correct lubricants are delivered to the right team at the right time. Before completing this form, ensure that you have the necessary information and authorization to make a request.
-</thinking>
-
 # Lubricant Delivery Request Form - Help Guide
 ## Purpose
 This form is used to request the delivery of lubricants to the maintenance team.

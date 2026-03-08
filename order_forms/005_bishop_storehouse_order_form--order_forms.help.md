@@ -1,17 +1,3 @@
-<thinking>
-
-The form purpose is to collect order information from customers, including their name, order date, and preferred pickup time. This information is likely used by the storehouse staff to process and fulfill the customer's order.
-
-The form has multiple sections: "Order Information", "Product Selection", "Special Requests", and a final section for additional items or special requests. Each section is separated by a header note field, which indicates the start of a new section.
-
-This form does not appear to be a complex form, but it does ask for specific product quantities, which suggests that the storehouse is likely a grocery store or warehouse that sells bulk food items. The form also allows customers to specify a preferred pickup time, which implies that the storehouse offers delivery or pickup services.
-
-To prevent duplicate orders, it's possible that the storehouse uses a database or inventory system to keep track of orders. However, it's also possible that the form is simply used as a template for phone or email orders.
-
-In any case, the form appears to be a straightforward order form that requires minimal information from customers. It does not ask for billing or payment information, which suggests that the storehouse may have an established relationship with customers or uses alternative payment methods.
-
-Overall, the form seems to be a simple and efficient way for customers to place orders with the storehouse.</thinking>
-
 # Bishop Storehouse Order Form - Help Guide
 ## Purpose
 The Bishop Storehouse Order Form is a simple form used to collect order information from customers.

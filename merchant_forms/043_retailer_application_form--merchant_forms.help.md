@@ -1,9 +1,3 @@
-<thinking>
-
-As a form designer and technical writer, I must note that the form purpose is to collect information from retailers for various business purposes, likely for marketing, inventory management, or other related tasks. Before starting to fill out the form, please review and verify that you have the necessary information and permissions to do so. This form is intended for individual users, and filling it out may create a record in your account. If you're unsure about any field or section, you may want to review your internal policies and procedures to ensure you're using the form correctly.
-
-</thinking>
-
 # Retailer Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from retailers for various business purposes. It is intended for individual use and may create a record in your account.

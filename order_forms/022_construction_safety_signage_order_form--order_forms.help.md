@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture information from users for the construction industry for safety signage needs. The purpose of this form is to gather order details and preferences for safety signage such as the type, quantity, and material of the signs, as well as contact information for order placement and delivery coordination. The form ensures that users select a valid type of signage and provide required contact information, quantity, and delivery address. This form is likely used by project managers, safety officers, or facility maintenance teams to ensure safety signage is ordered correctly and delivered to the correct location.
-</thinking>
-
 # Construction Safety Signage Order Form - Help Guide
 ## Purpose
 This form is used to order safety signage for construction projects. Please fill out the form accurately to ensure your safety signage needs are met.

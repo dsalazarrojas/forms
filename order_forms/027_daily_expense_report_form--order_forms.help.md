@@ -1,7 +1,3 @@
-<thinking>
-The goal of this form is to help users report their daily expenses for reimbursement. The form is designed to be simple and easy to fill out, with fields for the expense date, item, amount, category, description, location, and note. The category field is a dropdown list with two options: 'Yes' and 'No', which is likely intended to categorize the expense as reimbursable or not. The form also includes an email field for users to provide their contact information. However, it's worth noting that most users will not be entering their own email address as this field is likely meant for someone else to use for contact.
-</thinking>
-
 # Daily Expense Report Form - Help Guide
 ## Purpose
 The Daily Expense Report Form is a simple tool for users to report their daily expenses for reimbursement. This form is meant to be filled out by users to provide all necessary information for their daily expenses.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for healthcare billing purposes, likely for medical providers to record and manage billing information for patients. The form collects information about the patient, their insurance details, billing specifics, and follow-up contact details. It's possible that this form is used for internal administrative tasks, such as tracking and processing payments, or for external purposes, like sending bills to patients or insurance companies. The form might be part of a larger healthcare management system, and its completion is required for accurate and timely billing and payment processing. Ensure that the relevant information is accurate and up-to-date before completing the form, and that all fields are filled in correctly according to their required and optional status.
-</thinking>
-
 # Healthcare Billing Onboarding Form - Help Guide
 ## Purpose
 This form collects and manages billing information for healthcare services.

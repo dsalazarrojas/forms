@@ -1,15 +1,3 @@
-<thinking>
-This form is for customers to provide their order information and preferences. Customers will fill in the form with their details and make a selection of options to customize their order. 
-
-The form is composed of multiple pages, but each field has a clear label and purpose, making it easy to navigate and complete. 
-
-The form has fields for Customer Info, Select Items, Payment Method, Delivery Method, Rate Our Shop, and Feedback. 
-
-This form is designed to be simple and user-friendly, with required fields marked as such to prevent errors in submission. 
-
-Please review each field carefully to ensure a smooth and accurate order process.
-</thinking>
-
 # Simple Order Form - Help Guide
 ## Purpose
 The Simple Order Form is designed for customers to provide their order information and preferences.

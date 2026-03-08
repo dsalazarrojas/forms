@@ -1,12 +1,3 @@
-<thinking>
-This form is for wholesale inquiries, which means it's for businesses that want to purchase products in bulk from your company. The purpose of this form is to collect information from potential wholesale customers to facilitate communication and potential business arrangements. 
-
-This form should only be filled out once per company, to avoid creating multiple duplicate inquiries for the same company. If a company has already filled out this form and wants to make changes or inquire about new products, they should contact our support team directly for assistance.
-
-The form is divided into several sections, each with its own specific fields that need to be filled out to provide a complete and accurate inquiry.
-
-</thinking>
-
 # Wholesale Inquiry Form - Help Guide
 ## Purpose
 The Wholesale Inquiry Form is a tool used to collect information from potential wholesale customers to facilitate business arrangements. This form will help us understand your company's needs and preferences to provide the best possible service.

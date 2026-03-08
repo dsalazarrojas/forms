@@ -1,7 +1,3 @@
-<thinking>
-To ensure that this form serves its purpose effectively, we need to validate that the user is attempting to schedule a pet grooming service. This form should not be used for other purposes or by non-pet owners. The form should also not be used if the user is a pet groomer, as this form is designed to capture information from pet owners.
-</thinking>
-
 # Pet Grooming Subscription Form - Help Guide
 ## Purpose
 This form is designed for pet owners to schedule and manage their pet's grooming appointments. It captures essential information about the pet, the appointment, and the services required, allowing us to efficiently process and fulfill their requests.

@@ -1,35 +1,3 @@
-<thinking>
-This form is designed to collect customer information for jacket orders. It is intended to be used by customers or sales staff to create, view, and manage jacket orders. This form should not be used for other purposes, such as creating new users or updating existing user information. 
-The form has the following fields:
-- customer_email: the customer's email address
-- payment_method: the payment method used for the order (e.g., credit card, PayPal)
-- jacket_minimalist_design: the design style of the jacket (e.g., minimal, artistic)
-- order_total: the total cost of the order
-- payment_method_other: an additional payment method used for the order (e.g., cash)
-- payment_method_other_notes: notes about the additional payment method
-- order_date: the date the order was placed
-- order_time: the time the order was placed
-- order_notes: any additional notes about the order
-- customer_name: the customer's name
-- order_number: the order number for reference
-- customer_phone: the customer's phone number
-- order_status: the status of the order (e.g., pending, shipped)
-- jacket_size: the size of the jacket ordered
-- order_type: the type of order (e.g., custom, standard)
-- order_type_other: an additional order type (e.g., rush)
-- order_type_other_notes: notes about the additional order type
-- customer_address1: the customer's address line 1
-- customer_address2: the customer's address line 2
-- customer_city: the customer's city
-- customer_country: the customer's country
-- customer_zip: the customer's zip code
-- customer_state: the customer's state or province
-- customer_province: the customer's province (only for non-Canadian customers)
-- customer_notes: any additional notes about the customer
-- customer_comments: any additional comments about the order
-
-</thinking>
-
 # Jacket Order Form - Help Guide
 ## Purpose
 The Jacket Order Form is a tool for customers or sales staff to create, view, and manage jacket orders.

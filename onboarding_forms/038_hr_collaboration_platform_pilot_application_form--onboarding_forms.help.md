@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-This form is intended for teams interested in piloting the HR Collaboration Platform. To qualify for this pilot, teams must be from organizations with a strong interest in collaboration and innovation. This form will guide you through the necessary information required for application.
+> This form is intended for teams interested in piloting the HR Collaboration Platform. To qualify for this pilot, teams must be from organizations with a strong interest in collaboration and innovation. This form will guide you through the necessary information required for application.
 
 # HR Collaboration Platform Pilot Application Form - Help Guide
 ## Purpose

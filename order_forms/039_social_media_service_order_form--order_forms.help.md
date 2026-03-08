@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect order details for social media services.
-The form should only be used for ordering purposes only, not for other use cases.
-The form should not be filled out by non-authorized personnel.
-</thinking>
-
 # Social Media Service Order Form - Help Guide
 ## Purpose
 The Social Media Service Order Form is designed to collect information from customers ordering social media services. This form will help our team understand what services you need and what to expect from your order.

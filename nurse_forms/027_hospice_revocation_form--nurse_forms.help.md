@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to be used for the revocation of a patient's hospice care. The form should only be used in situations where the patient's condition has changed and the hospice care is no longer desired. The form should not be used for routine admissions or updates to the patient's care plan.
-
-Before completing this form, please ensure that you have a valid reason for revoking the patient's hospice care and that you have discussed this decision with the patient. Additionally, please check that the revocation form has not already been completed for this patient.
-
-To complete this form, follow the steps below:
-
-</thinking>
-
 # Hospice Revocation Form - Help Guide
 ## Purpose
 This form is used to revoke a patient's hospice care.

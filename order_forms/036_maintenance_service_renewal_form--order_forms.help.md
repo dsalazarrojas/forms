@@ -1,10 +1,3 @@
-<thinking>
-Maintenance Service Renewal Form is used to renew or modify existing service contracts. 
-This form should only be used when a service contract needs to be renewed or modified. 
-If the contract is new, please use the "New Service Contract Form". 
-The form purpose is to provide the necessary information for the service provider to process the renewal or modification. 
-</thinking>
-
 # Maintenance Service Renewal Form - Help Guide
 ## Purpose
 The Maintenance Service Renewal Form is used to provide the required information for service providers to process the renewal or modification of an existing service contract.

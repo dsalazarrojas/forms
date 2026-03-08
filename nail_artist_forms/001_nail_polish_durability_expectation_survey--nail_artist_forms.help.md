@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to gather user feedback on the durability and quality of nail polishes. The purpose of this form is to understand how users experience the performance of different nail polishes, specifically in terms of streaking frequency, overall quality, duration on nails, strengthening, color durability, reapplication frequency, wear quality, nail strengthening, quality assurance, and overall quality. This form will help the nail polish manufacturer understand what aspects of their product need improvement. The form is not meant to be a comprehensive evaluation, but rather a quick survey to gauge user satisfaction and expectations.
-
-This form does not need to be completed by the same user multiple times. Each user can only fill out the form once.
-
-This form is designed for individual use, and responses will be kept anonymous.
-
-The form contains 10 questions with different types of questions (select multiple, select one, number) and will take about 2-3 minutes to complete.
-
-The questions are self-explanatory and the user should be able to complete the form without any additional guidance.
-
-Please note that the questions may be subject to slight variations and changes over time.
-
-</thinking>
-
 # Nail Polish Durability Expectation Survey - Help Guide
 ## Purpose
 

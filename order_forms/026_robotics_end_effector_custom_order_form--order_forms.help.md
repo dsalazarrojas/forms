@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to place custom orders for robotics end effectors. It is designed to gather information necessary for the creation of a custom order. To prevent errors, ensure that you are not using this form to duplicate an existing order or to place a rush order. If you need to do so, contact your sales representative for assistance.
-</thinking>
-
 # Robotics End Effector Custom Order Form - Help Guide
 ## Purpose
 This form is used to collect custom order information for robotics end effectors.

@@ -1,8 +1,3 @@
-<thinking>
-This form is used to obtain consent from patients for the administration of the Nasal Flu Vaccine. The form ensures that patients understand the risks and benefits associated with the vaccine and have given their consent to receive it. To avoid duplication, the form should not be used for patients who have already received the Nasal Flu Vaccine or have a medical history that would contraindicate the vaccine.
-
-</thinking>
-
 # Nasal Flu Vaccine Consent Form - Help Guide
 
 ## Purpose

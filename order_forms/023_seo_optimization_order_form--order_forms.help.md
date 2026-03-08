@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to place orders for SEO services. The purpose of this form is to gather information about the client, contact details, project specifics, keywords, budget, expected launch date, and SEO techniques required for a specific SEO optimization service. This form will be used to create new SEO orders which will then be assigned to a developer for work. It is crucial to ensure that all required fields are filled and that the client information is accurate to avoid delays or miscommunication in the project execution.
-</thinking>
-
 # seo_optimization_order_form - Help Guide
 ## Purpose
 The "SEO Optimization Order Form" is a crucial tool for creating new SEO orders. It allows users to provide detailed information about their SEO needs and project specifics, which will then be assigned to a developer for work.

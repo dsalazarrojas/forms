@@ -1,14 +1,3 @@
-<thinking>
-We are about to create a user-facing help guide for a Halloween-themed cookie decorating kit order form. This form is used to collect customer information and order details for a custom cookie decorating kit order.
-
-We will cover the following topics in this help guide:
-
-1. Purpose of the form.
-2. How to complete the form.
-3. Explanation of each field in the form.
-
-</thinking>
-
 # halloween_cookie_decorating_kit_order_form - Help Guide
 ## Purpose
 The Halloween cookie decorating kit order form is used to collect customer information and order details for a custom cookie decorating kit order. This form helps us process orders efficiently and ensures that we have all the necessary information to fulfill the order correctly.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to approve fundraising campaigns for nonprofit organizations. It is used by administrators to review and approve or reject campaign proposals. Before starting the campaign, ensure that you have a clear and well-structured proposal, and that the campaign details are complete and up-to-date. Please note that this form is a one-time request and should not be used to make ongoing requests for funds.
-</thinking>
-
 # Fundraising Campaign Approval Form - Help Guide
 
 ## Purpose

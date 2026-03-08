@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for customers to select their internet data bundle plans and associated options. The form's purpose is to gather the user's selection of data bundle size (in Gigabytes) and type (Basic, Premium, Enterprise), as well as their desired data bundle duration (from 1 to 12 months). This form could be used in a business setting to collect customer information for billing or promotional purposes.
-</thinking>
-
 # Select Your Internet Data Bundle - Help Guide
 ## Purpose
 The "Select Your Internet Data Bundle" form is a tool designed to help customers choose their desired internet data plan. This form aims to simplify the process of selecting a suitable data plan that meets their needs.

@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to collect information from the borrower for mortgage payment authorization, which is a process used by financial institutions to verify the identity and creditworthiness of borrowers applying for a mortgage. This form helps to gather data on the borrower's name, loan amount, payment date, payment method, contact details, and authorization type. The form is designed to be completed by the borrower to provide accurate and up-to-date information, ensuring that the financial institution can process their mortgage application efficiently and securely.
-The form is a crucial part of the mortgage application process and is typically completed by the borrower after submitting their loan application. It is essential to provide accurate and honest information to avoid any delays or rejection of the application.
-In this guide, we will walk you through each field of the form, explaining what information is required and how to complete it correctly.
-</thinking>
-
 # Mortgage Payment Authorization Form - Help Guide
 ## Purpose
 The Mortgage Payment Authorization Form is a crucial document that financial institutions use to verify the identity and creditworthiness of borrowers applying for a mortgage. This form collects information from the borrower to ensure a smooth and secure mortgage application process.

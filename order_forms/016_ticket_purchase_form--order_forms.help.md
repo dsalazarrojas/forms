@@ -1,6 +1,3 @@
-<thinking>
-This form is a Ticket Purchase Form designed to allow users to buy tickets for a specific event or event series. This form should only be used for purchasing tickets and not for any other purpose. To ensure accuracy, please make sure to fill out the form correctly and not duplicate any existing tickets. This form is intended for individuals or businesses looking to purchase tickets, not for promotional or commercial use without explicit permission from the event organizers. If you're unsure about any of the information or have questions, please contact the event organizers before filling out this form.</thinking>
-
 # Ticket Purchase Form - Help Guide
 ## Purpose
 The Ticket Purchase Form is a user interface designed to collect information from individuals or businesses interested in purchasing tickets for a specific event or event series.

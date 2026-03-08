@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sales Tax Calculator - Help Guide
 ## Purpose
 The Sales Tax Calculator form is designed to estimate the total sales tax for a given subtotal and sales tax rate. This form is intended for sales professionals, business owners, and customers who need to calculate the sales tax for a specific transaction. 

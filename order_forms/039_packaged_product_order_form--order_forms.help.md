@@ -1,13 +1,3 @@
-<thinking>
-
-The form "packaged_product_order_form" is a user-facing form designed to collect information from customers for ordering packaged products. This form is likely used for e-commerce or sales purposes to gather details about the product being ordered and the customer's information.
-
-As a packaged product order form, it is likely that the form will be used by customers to place orders for products that are packaged and shipped to them. The form's purpose is to collect relevant information to facilitate the ordering process and ensure that the customer's needs are met.
-
-The form's design and fields are based on common practices in the industry and are intended to be easy to use and understand. Each field is carefully crafted to collect the necessary information to complete the order.
-
-</thinking>
-
 # packaged_product_order_form - Help Guide
 ## Purpose
 The packaged_product_order_form is a form designed to collect information from customers for ordering packaged products. It is intended to facilitate the ordering process and ensure that the customer's needs are met.

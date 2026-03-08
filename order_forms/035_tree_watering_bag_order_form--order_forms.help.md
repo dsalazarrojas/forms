@@ -1,6 +1,3 @@
-<thinking>
-To confirm, the form is for users to place an order for tree watering bags, which is likely a service offered by a gardening or landscaping business. This form will likely be used by customers or clients to place an order for a specific number of trees, specify the payment method, and provide details about the order, such as the date and time it's to be completed. The form will also ask for some additional information, like the category of the order (e.g., nurseries, land scaping, etc.) and the status of the payment. I'm assuming the form is used for both internal and external customers, so the explanation should be clear and concise for both groups. I will not invent any business logic, I will stick to the provided YAML fields for explanation.</thinking>
-
 # Tree Watering Bag Order Form - Help Guide
 ## Purpose
 This form is for customers to place an order for tree watering bags, a service provided by our gardening or landscaping business. It will collect the necessary information to fulfill the order.

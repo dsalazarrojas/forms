@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to allow users to place orders for food at a sports event. This form likely serves as a way for event organizers or administrators to capture information from attendees or customers, such as their name, contact information, and order preferences. The form might be used to track orders for food and drinks, and possibly even for other event-specific purposes, like managing RSVPs or surveying preferences.
-
-Form data is likely used for internal purposes, and users who complete this form can expect to have their information processed and stored within the event's management system. It is essential to ensure that users understand how to complete this form correctly to avoid errors and missing information.
-
-This form consists of several fields, each with a specific purpose, and users need to provide accurate information to ensure proper processing of their order. The following sections will break down each field and guide users on how to complete the form correctly.
-
-</thinking>
-
 # Sports Event Food Order Form - Help Guide
 
 ## Purpose

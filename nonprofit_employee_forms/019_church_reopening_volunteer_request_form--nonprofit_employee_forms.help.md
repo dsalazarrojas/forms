@@ -1,7 +1,3 @@
-<thinking>
-This help guide will help users understand the purpose and functionality of the Church Reopening Volunteer Request Form. The form is designed to collect information from potential volunteers to determine their eligibility and readiness to assist with various aspects of church activities. This form ensures that the church can effectively manage its volunteers and allocate tasks based on individual skills and availability.
-</thinking>
-
 # Church Reopening Volunteer Request Form - Help Guide
 ## Purpose
 The Church Reopening Volunteer Request Form is a comprehensive guide for potential volunteers to provide their details and preferences for assisting with church activities. This form helps the church to assess the individual's suitability for various roles and ensure a smooth reopening process.

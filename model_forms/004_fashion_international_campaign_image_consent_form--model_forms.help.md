@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the "Fashion International Campaign Image Consent Form" is used correctly by the end-users to capture the necessary information for the campaign images. This form is used to collect consent from individuals who will be featured in the images used for the fashion international campaign. The information collected will be used to understand who will be featured in the campaign and for which purposes (promotional, editorial, social, or other). We should not allow the form to be filled out by individuals without a valid email address, as it is required for communication purposes. We also need to ensure that the submission date and time are filled out correctly.
-</thinking>
-
 # Fashion International Campaign Image Consent Form - Help Guide
 ## Purpose
 The Fashion International Campaign Image Consent Form is used to collect consent from individuals who will be featured in the campaign images. This form helps us understand who will be featured and for which purposes (promotional, editorial, social, or other).

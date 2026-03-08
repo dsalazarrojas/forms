@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to claim a refund for a donation they have made. To prevent duplicate claims, this form is only accessible to users who have made a donation in the past and have not previously submitted a refund claim. This form is meant for users who have reason to believe that their donation should be refunded due to an error or other unforeseen circumstances. By filling out this form, users can provide necessary information to facilitate the refund process.
-</thinking>
 # Donation Refund Claim Form - Help Guide
 ## Purpose
 The Donation Refund Claim Form is used to claim a refund for a donation that should not have been made or for which a credit or adjustment is needed.

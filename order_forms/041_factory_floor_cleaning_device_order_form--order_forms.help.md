@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from customers regarding their order for a factory floor cleaning device. It appears to be a general form with multiple fields for collecting contact, delivery, and order information, but it lacks clear specificity in terms of what type of device is being ordered. I assume that the device type and model are related to the factory floor cleaning device, and the form is intended for internal use within the company that produces or sells these devices. Given the fields present, it seems that the form is focused on the logistics and details of the order rather than the specifics of the device. I will design the help guide accordingly.
-
-</thinking>
-
 # Factory Floor Cleaning Device Order Form - Help Guide
 
 ## Purpose

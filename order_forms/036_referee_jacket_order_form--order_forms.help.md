@@ -1,7 +1,3 @@
-<thinking>
-This form is used to record referee jacket orders, which are a crucial part of our organization's operations. It's essential to fill out this form correctly to ensure that orders are accurately and efficiently processed. Before proceeding, please ensure that you are not duplicating an existing order.
-</thinking>
-
 # referee_jacket_order_form - Help Guide
 ## Purpose
 This form is used to record referee jacket orders, which are a crucial part of our organization's operations. It helps to track and manage the status of referee jackets, ensuring accurate and efficient processing of orders.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect self-service booth payment information for orders. It is meant to be filled out by the customer to provide their payment details and order status after completing a self-service payment at one of our booths. This form helps us to efficiently record the customer's order details and payment method, reducing human errors and ensuring accurate records.
 
 Before filling out the form, please note that it is designed for in-person payments, and all fields are required unless otherwise stated. If a field is marked as optional, please fill it out if you have the information readily available.

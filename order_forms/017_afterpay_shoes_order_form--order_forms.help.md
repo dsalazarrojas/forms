@@ -1,7 +1,3 @@
-<thinking>
-The form is designed for customers to place an order for shoes with an "Afterpay" financing option. This form allows customers to provide their details and select their preferred shoes, including brand, model, size, color, and quantity. The form also allows customers to choose their payment method, which can be either Afterpay or a traditional credit card.
-</thinking>
-
 # Afterpay Shoes Order Form - Help Guide
 
 ## Purpose

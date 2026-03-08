@@ -1,7 +1,3 @@
-<thinking>
-This form is used to allow users to select their weekly menu preferences for a specific restaurant or set of restaurants. To ensure that each user can only select their preferences once per week, the form checks for duplicate submissions on a weekly basis. It is crucial to fill out this form accurately and thoroughly to ensure that the user's preferences are recorded correctly.
-</thinking>
-
 # Weekly Menu Selections Form - Help Guide
 ## Purpose
 This form is designed to collect users' menu selection preferences for the upcoming week. It helps users to easily select their desired options from a list of available restaurants and menu items.

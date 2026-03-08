@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to help employees order lunch for the week. It captures necessary information for catering services to provide the best possible experience. The form is designed to be simple and easy to use. To ensure a smooth experience, please fill out the form accurately and completely. 
-
-To prevent errors and confusion, please review each field carefully and make sure to fill out all required fields. If you are unsure about any field, please contact the relevant department for assistance.
-
-This form does not allow for multiple submissions from the same employee on the same day. If you have previously submitted a form, please check your email for the confirmation of your previous order.
-
-Please ensure that the meal selection options are mutually exclusive, meaning you should select only one option for the meal selection field.</thinking>
-
 # Weekly Lunch Order Form - Help Guide
 ## Purpose
 The Weekly Lunch Order Form is a digital form designed for employees to place their lunch orders. This form captures essential information for catering services to deliver the correct meal on the correct date and time. 

@@ -1,8 +1,3 @@
-<thinking>
-  This form is for customers to provide their order details, including customer information, order selection, order date and time, phone number, email, and any additional note. This form is intended to capture all necessary information from the customer in a structured and organized manner, facilitating easier processing and follow-up actions. To avoid duplication, please ensure that each customer has a unique order number, and if there's any update needed for a customer's order, use the provided update field.
-
-</thinking>
-
 # Retail Customer Order Form - Help Guide
 ## Purpose
 The Retail Customer Order Form is designed to gather essential information from customers for their orders. This form allows customers to provide their name, phone number, email, and any additional note.

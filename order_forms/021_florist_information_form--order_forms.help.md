@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect essential business information from florists for various purposes, such as marketing, sales, or partnership opportunities. The form should only be filled out by authorized individuals representing the florist's business and not by individual customers.
-</thinking>
-
 # Florist Information Form - Help Guide
 ## Purpose
 This form is intended to capture detailed information about a florist business, including business details, services offered, and other relevant contact and payment information.

@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to collect information from clients about work order completion, ensuring that clients acknowledge receipt of and acceptance of the completed work. The form is likely used in a business setting to keep records of client communication and ensure that the client's work is completed according to their expectations. This form does not collect sensitive or personal identifiable information, and it appears to be a straightforward acknowledgement form for work completion.
-
-</thinking>
 # Work Order Completion Acknowledgement Form - Help Guide
 ## Purpose
 The Work Order Completion Acknowledgement Form is used to obtain a client's acknowledgement of work completion, ensuring clear communication and documentation of the work's status. 

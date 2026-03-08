@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help customers place a meal kit order from Campus and Co. by providing necessary customer information, selecting meal types and quantity, choosing payment options, and confirming order details. This form ensures a smooth and efficient meal kit ordering experience for both customers and the company.
-</thinking>
-
 # Campus and Co. Meal Kit - Help Guide
 ## Purpose
 

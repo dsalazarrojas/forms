@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect order details for a specialty beverage trial pack. It is intended for customers interested in trying out various specialty beverages. The form has three fields: Order Details, Product Selection, and Payment Info. 
-
-To determine if this form is relevant to the customer, consider the following:
-* Are you a specialty beverage enthusiast interested in trying new products?
-* Are you looking for a convenient and efficient way to order a trial pack of specialty beverages?
-* Do you have all the necessary information required for ordering (address, payment method, etc.)?
- 
-
-Assuming the form is relevant, ensure you're not attempting to create multiple orders at the same time. 
-
-</thinking>
-
 # specialty_beverage_trial_pack_order_form - Help Guide
 ## Purpose
 This form is designed to collect order details for a specialty beverage trial pack.

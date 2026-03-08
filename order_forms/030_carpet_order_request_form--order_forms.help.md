@@ -1,17 +1,3 @@
-<thinking>
-
-We need to ensure that our end users understand the purpose and correct usage of this form. To achieve this, let's break down the form's purpose and required steps to complete it. This form is designed to gather information for a carpet order, which requires accurate and precise details to process the order efficiently and effectively.
-
-1.  **Customer Details**: We need to ensure that the customer's details are correct to facilitate smooth communication and order processing. This section includes the customer's full name, email address, and phone number.
-2.  **Product Selection**: The customer needs to select the right carpet product and provide its ID or SKU to avoid any confusion during order processing.
-3.  **Order Options**: We need to know how the customer wants to handle the installation, whether they require custom cutting, and what type of order they are requesting (materials only, materials and installation, or samples only).
-4.  **Payment and Shipping**: Accurate payment and shipping information is crucial for a smooth transaction. The customer needs to select their preferred payment method and shipping method.
-5.  **Authorization and Confirmation**: Finally, the customer must confirm their order details and agree to the sales terms.
-
-By ensuring that end users understand the form's purpose and required steps, we can minimize errors and ensure a smooth order processing experience.
-
-</thinking>
-
 # Carpet Order Request Form - Help Guide
 ## Purpose
 This form is designed to collect detailed information from customers to process their carpet orders efficiently and effectively.

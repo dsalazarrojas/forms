@@ -1,7 +1,3 @@
-<thinking>
-This form, Trina's Trendy Nails Order Form, is designed to collect information from customers for nail services. It's essential to fill out this form accurately to ensure that we can provide the best possible service to our customers. Please review the fields below to understand what's required and what's optional.
-</thinking>
-
 # Trina_s_Trendy_Nails_Order_Form - Help Guide
 ## Purpose
 This form is used to collect information from customers for nail services, including customer name, services requested, service time, number of customers, and date of visit.

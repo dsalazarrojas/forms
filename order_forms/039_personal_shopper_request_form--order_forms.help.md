@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Personal Shopper Request Form - Help Guide
 ## Purpose
 The Personal Shopper Request Form is used to gather information from personal shoppers for their shopping session preferences and requirements. This form is designed to help the shopper and the store staff prepare for a smooth and efficient shopping experience.

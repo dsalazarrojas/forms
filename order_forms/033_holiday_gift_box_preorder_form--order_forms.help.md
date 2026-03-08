@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Holiday Gift Box Preorder Form - Help Guide
 
 ## Purpose

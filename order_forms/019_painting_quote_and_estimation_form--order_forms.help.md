@@ -1,26 +1,3 @@
-<thinking>
-The form is intended for users to provide information to create a quote and estimation for painting services. This form will be used by the internal team to gather details about the customer, their contact information, and the service they require. The purpose of this form is to ensure that the customer's needs are accurately met and to provide a smooth experience for both the customer and the internal team.
-
-To avoid duplication of effort and ensure that the form is filled out correctly, it is essential to understand each field's requirement and purpose.
-
-The form will be used to gather the following information:
-
-* Customer's first name and last name
-* Email address
-* Phone number
-* Selected service(s)
-* Preferred time of service (AM/PM or 24/7)
-* Contact time (if applicable)
-* Message from the customer
-* Project details (if applicable)
-* Customer comments (if applicable)
-
-Each field is designed to provide the internal team with the necessary information to create an accurate quote and estimation for the painting service.
-
-The internal team will review the form submissions to ensure that all required fields are filled out correctly. This guide will help users understand the purpose and requirements of each field to avoid any confusion or errors.
-
-</thinking>
-
 # Painting, quote and estimation form - Help Guide
 ## Purpose
 The Painting, quote and estimation form is used to gather information from customers to create a quote and estimation for painting services. It is essential to provide accurate and complete information to ensure that the internal team can create a correct quote and estimation for the customer.

@@ -1,20 +1,3 @@
-<thinking>
-This form is designed to be a comprehensive guide for healthcare professionals to create a patient care plan. The form is intended to help nurses and caregivers collect and document essential information about a patient's medical conditions, care needs, and other relevant details. This template aims to provide a structured approach to creating a patient care plan that is tailored to the individual patient's needs.
-
-The purpose of this form is to gather information about the patient's medical conditions, including any allergies, medications, and medical history. This information is crucial for the healthcare team to develop an effective care plan that takes into account the patient's overall health and well-being.
-
-By using this form, healthcare professionals can ensure that the patient receives the best possible care and outcomes. The form is designed to be flexible and adaptable, allowing caregivers to add or modify sections as needed to accommodate each patient's unique situation.
-
-Before filling out the form, it is essential to review the patient's medical records and history to ensure that all relevant information is captured. This includes:
-
-*   Current medical conditions and allergies
-*   Medications and medical history
-*   Relevant medical records and test results
-
-It is also recommended that healthcare professionals use this form in conjunction with other care planning tools and resources, such as care plans and patient education materials, to provide comprehensive care to the patient.
-
-</thinking>
-
 # Patient Care Plan Template - Help Guide
 ## Purpose
 The Patient Care Plan Template is designed to help healthcare professionals create a comprehensive care plan for each patient. This form is intended to gather essential information about the patient's medical conditions, care needs, and other relevant details.

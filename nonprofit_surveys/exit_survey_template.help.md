@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # exit_survey_template - Help Guide
 ## Purpose
 This form is designed to gather feedback from individuals completing or leaving a nonprofit program or organization. It helps the organization understand what they did well and where they can improve to better serve their participants.

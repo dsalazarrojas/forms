@@ -1,7 +1,3 @@
-<thinking> 
-  This form is designed to check out items from the inventory. The user needs to provide information about the item they are checking out, including its name, type, quantity, and location. Additionally, the user needs to enter information about the employee checking out the item, such as their name, phone number, and email. The form also requires the item's status, return date, and return time. The manager's signature is also required. The form is used to track the status of items in the inventory and ensure that they are returned properly.
-</thinking>
-
 # Inventory Check Out Form - Help Guide
 ## Purpose
 

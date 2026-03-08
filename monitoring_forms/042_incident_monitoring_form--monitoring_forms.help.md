@@ -1,5 +1,3 @@
-<thinking>...the purpose of this form is to collect information about incidents, which are events that require attention and resolution. The form is meant to be filled out by users who are reporting and monitoring incidents. The goal is to gather relevant details about the incident, such as its status, priority, and resolution. This form will help users to keep track of incidents in a structured and organized manner... </thinking>
-
 # Incident Monitoring Form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Industrial Floor Safety Tape Order Form - Help Guide
 ## Purpose
 This form is used to collect information for an industrial floor safety tape order. Please fill out the form accurately and completely to ensure that your order is processed correctly.

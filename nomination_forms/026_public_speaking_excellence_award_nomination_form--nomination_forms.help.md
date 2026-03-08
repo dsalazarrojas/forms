@@ -1,7 +1,3 @@
-<thinking>
-The "Public Speaking Excellence Award Nomination Form" is designed to gather information for award nominations for public speaking excellence. This form helps in nominating individuals who have excelled in their public speaking skills, such as speakers, presenters, or lecturers, for recognition and appreciation. This form is not intended for self-nominations. Before filling out this form, please make sure you are nominating someone else, not yourself. Also, make sure the information you provide is accurate and up-to-date.
-</thinking>
-
 # Public Speaking Excellence Award Nomination Form - Help Guide
 ## Purpose
 This form is designed to gather information for award nominations for public speaking excellence.

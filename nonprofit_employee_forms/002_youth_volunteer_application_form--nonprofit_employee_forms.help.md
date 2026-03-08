@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in volunteering for a youth-focused organization. The form aims to gather relevant details about the applicant's contact information, availability, and qualifications for volunteering. To ensure the accuracy of the data collected, it's essential to fill out the form carefully and completely.
-</thinking>
-
 # Youth Volunteer Application Form - Help Guide
 ## Purpose
 This form is for individuals interested in volunteering for a youth-focused organization. It helps us understand your contact information, volunteer availability, and qualifications.

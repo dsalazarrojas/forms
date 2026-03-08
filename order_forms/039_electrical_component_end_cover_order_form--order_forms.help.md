@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to collect information from customers about an electrical component end cover order. The purpose of this form is to facilitate the ordering process by gathering necessary details from the customer. 
-
-This form will be used by electrical component suppliers and manufacturers to collect order details, delivery preferences, payment information, and customer data. 
-
-This form will likely be used by customers who are making a purchase or inquiry related to electrical components. 
-
-The user is not required to answer every field in the form. 
-
-</thinking>
-
 # electrical_component_end_cover_order_form - Help Guide
 ## Purpose
 This form is designed to collect essential information from customers to place an order for electrical component end covers. 

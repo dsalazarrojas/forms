@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-friendly help guide for the "Farm To Table Meat Order Form", I first need to understand the form's purpose and the context in which it will be used. This form is likely for customers or consumers who want to order farm-to-table meat products, such as organic or locally sourced meat, and provide their contact information and specific order details. The form should be easy to complete and provide a clear overview of what is being asked for.
-
-The form appears to be a standard order form with various fields to collect customer information and order details. The fields include customer name, email, phone number, product type, product sub-type, quantity, price, delivery date, delivery time, and order notes. These fields seem to be standard and straightforward, but the "product type" field is a select_one field with options "Meat", "Dairy", and "Poultry", which suggests that the form is specifically tailored for meat products. The "product sub-type" field is a select_multiple field with options "Ground", "Sausages", and "Cuts", indicating that the form is asking for specific types of products within the selected category. The "price" field seems to be a numeric field for collecting the price of the order, while the "delivery date" and "delivery time" fields are likely for scheduling the delivery of the ordered products. The "order notes" field is a text area for any additional comments or requests from the customer.
-
-</thinking>
-
 # Farm To Table Meat Order Form - Help Guide
 ## Purpose
 The Farm To Table Meat Order Form is for customers to place orders for farm-to-table meat products. To complete this form, please follow the steps below.

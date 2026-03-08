@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sock Order Form Template - Help Guide
 
 ## Purpose

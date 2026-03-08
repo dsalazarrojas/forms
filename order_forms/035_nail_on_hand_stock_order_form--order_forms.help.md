@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that users understand the purpose of this form is to collect and track information related to nail-on-hand stock orders, which are critical for maintaining inventory levels and ensuring timely delivery of products to customers. This form should be filled out by sales representatives when a customer places a stock order. 
-</thinking>
-
 # Nail On Hand Stock Order Form - Help Guide
 ## Purpose
 The Nail On Hand Stock Order Form is designed to collect essential information about a customer's stock order. This form helps the sales team to efficiently track and manage stock orders, enabling accurate inventory tracking and timely product delivery to customers. 

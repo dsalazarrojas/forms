@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Legal Benefits Order Form - Help Guide
 ## Purpose
 This form is used to request legal benefits, such as certificates or documents, from a legal benefits ordering system. It captures essential information from the requestor, including their contact details, the type of documents they are requesting, and any additional notes or instructions.

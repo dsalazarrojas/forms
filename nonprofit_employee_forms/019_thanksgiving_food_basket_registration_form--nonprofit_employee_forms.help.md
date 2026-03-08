@@ -1,7 +1,3 @@
-<thinking>
-This form is used by a nonprofit organization to register individuals for a Thanksgiving food basket program. The form collects contact information and demographic data to ensure accurate delivery and distribution of the food baskets. To prevent duplication and ensure the form is filled out correctly, please review the form carefully and ensure you are registering under your own information or an individual's information you are registering on behalf of.
-</thinking>
-
 # Thanksgiving Food Basket Registration Form - Help Guide
 ## Purpose
 The Thanksgiving Food Basket Registration Form is used by a nonprofit organization to register individuals for a Thanksgiving food basket program.

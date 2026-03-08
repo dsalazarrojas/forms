@@ -1,7 +1,3 @@
-<thinking>
-This form is a simple order form designed to gather contact information and order details for food and beverage services. It is divided into four pages: "Contact Details", "Order Options", "Timing and Payment", and "Additional Info". The form does not have any proprietary content and is an original adaptation of a publicly available metadata.
-
-</thinking>
 # food-and-beverage-order-quiz - Help Guide
 ## Purpose
 This form is designed to gather contact and order details for food and beverage services.

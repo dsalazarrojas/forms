@@ -1,13 +1,3 @@
-<thinking>
-To create a comprehensive and user-friendly help guide for the "Play Ticket Release Form", let's break down the form's purpose and requirements.
-
-The form is used to release play tickets, and its purpose is to gather necessary information from users regarding the ticket's performance details. This form likely pertains to live performances, theatrical events, or shows, and its goal is to ensure that the release process is smooth and accurate. 
-
-When creating this form, it's essential to consider that the ticket release process might involve multiple stages, such as processing special requests, handling delivery preferences, and verifying information accuracy. This implies that the form should be designed to accommodate these complexities while remaining user-friendly and easy to navigate.
-
-Given the form's structure, it appears that the primary objective is to gather information about the released tickets, including performance details, quantity, delivery preferences, and any special requests. The form's design should balance clarity with concision, making it easy for users to quickly understand what information is required and how to provide it.
-
-</thinking>
 # Play Ticket Release Form - Help Guide
 ## Purpose
 The "Play Ticket Release Form" is used to gather necessary information for releasing play tickets, ensuring a smooth and accurate process. This form will help us process your tickets efficiently.

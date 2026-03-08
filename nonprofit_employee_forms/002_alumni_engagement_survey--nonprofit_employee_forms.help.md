@@ -1,10 +1,3 @@
-<thinking>
-The "Alumni Engagement Survey" form is designed to collect information from alumni about their engagement with the institution. This form will help the institution understand their level of attendance, interests, and feedback on services. The survey aims to improve the experience of alumni by getting their suggestions and preferences for engagement. It seems there is no existing similar form for the same purpose.
-
-Please note that this form will be used to track engagement metrics and get feedback from alumni, so make sure to answer questions truthfully and thoroughly. 
-
-</thinking>
-
 # Alumni Engagement Survey - Help Guide
 ## Purpose
 The Alumni Engagement Survey is a form designed to gather information from alumni about their engagement with the institution. This form will help us understand your level of interest in attending events, participating in volunteering, and provide feedback on our services. The collected data will help us improve the experience of alumni by getting your suggestions and preferences.

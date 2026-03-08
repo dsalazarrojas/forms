@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for the onboarding process of participants in the Community Housing Initiative. This form is used to collect essential details about the participant, including their name, role, start date, and other relevant information. The onboarding process is a critical step in ensuring participants have the necessary knowledge and resources to navigate the community successfully. It's essential to complete this form accurately and thoroughly to avoid any potential issues or delays in the onboarding process.
-</thinking>
-
 # Community Housing Initiative Onboarding - Help Guide
 ## Purpose
 This form is used to collect information for onboarding participants in the Community Housing Initiative. It helps ensure that participants have the necessary knowledge and resources to navigate the community.

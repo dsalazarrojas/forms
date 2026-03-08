@@ -1,7 +1,3 @@
-<thinking>
-This form is for news anchors to fill out their onboarding information. This process should only be completed once. Please ensure that the information provided is accurate and up-to-date. If you've already completed this form, you do not need to do so again.
-</thinking>
-
 # News Anchor Onboarding Form - Help Guide
 ## Purpose
 The News Anchor Onboarding Form is a form that helps news anchors provide their onboarding information. It's a one-time process that ensures we have the most up-to-date information about you.

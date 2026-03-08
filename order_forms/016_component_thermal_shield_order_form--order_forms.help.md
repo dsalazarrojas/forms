@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for a thermal shield order, which is a custom-made component designed to provide thermal protection for various applications. The purpose of this form is to gather essential details about the order, including the order number, customer information, thermal shield specifications, and other relevant details that will help the manufacturer process the order efficiently.
-The form is designed to be completed by customers or their representatives who need to place an order for thermal shields. It is recommended that the customer fills in all the required fields accurately to ensure smooth order processing.
-</thinking>
-
 # Component Thermal Shield Order Form - Help Guide
 ## Purpose
 This form is designed to collect information for a thermal shield order. It is a custom-made component designed to provide thermal protection for various applications.

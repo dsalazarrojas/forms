@@ -1,9 +1,3 @@
-<thinking>
-To create a help guide for this form, I need to understand that the form is for booking a makeup service, specifically for a customer to provide their contact information, event details, makeup preferences, allergies, and order details. The form seems to be focused on collecting information for a single event or service appointment.
-
-I will use the provided YAML fields to create a clear and concise help guide for the end-users.
-</thinking>
-
 # makeup_service_order_form - Help Guide
 ## Purpose
 This form is for booking a makeup service for a specific event or appointment. It collects essential information to ensure that your makeup service request is processed correctly and efficiently.

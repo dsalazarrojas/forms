@@ -1,8 +1,3 @@
-<thinking>
-This help guide will cover all the fields of the "Beverage Dispenser Filter Order Form" to ensure users understand its purpose and complete it accurately.
-The form is designed to collect personal and order-related information from customers. It is essential to fill in the required fields to avoid missing information or invalid data. The form is divided into 12 fields, each with its own specific purpose. Please review the following sections for detailed explanations.
-</thinking>
-
 # Beverage Dispenser Filter Order Form - Help Guide
 ## Purpose
 The "Beverage Dispenser Filter Order Form" is a data collection tool used to gather relevant information from customers to process their orders efficiently.

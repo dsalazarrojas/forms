@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to gather data from healthcare professionals about their current hand hygiene practices, their knowledge about hand hygiene, and their experiences and challenges related to hand hygiene education. It is probably used to inform the development of hand hygiene education programs or to assess the effectiveness of existing ones. Before filling out this form, ensure that you have reviewed the relevant literature and guidelines on hand hygiene practices. This form does not appear to be identical to any other form, so it is likely safe to fill it out without duplication.
-</thinking>
-
 # Hand Hygiene Education Survey - Help Guide
 
 ## Purpose

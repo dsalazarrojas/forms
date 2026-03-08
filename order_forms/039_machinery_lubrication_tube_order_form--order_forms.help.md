@@ -1,13 +1,3 @@
-<thinking>
-
-The Machinery Lubrication Tube Order Form is a document used to record the details of an order for machinery lubrication tubes. The purpose of this form is to provide a concise and structured way for customers to place orders for the lubrication tubes that they require for their machinery, and for your company to process and fulfill the orders accurately.
-
-The form is designed to gather necessary information from the customer to ensure that the order is processed correctly and efficiently.
-
-Before filling out this form, please ensure that you have all the necessary information to complete the form accurately. If you are unsure about any of the fields or have any questions, please contact our customer support team for assistance.
-
-</thinking>
-
 # Machinery Lubrication Tube Order Form - Help Guide
 ## Purpose
 The Machinery Lubrication Tube Order Form is used to record the details of an order for machinery lubrication tubes.

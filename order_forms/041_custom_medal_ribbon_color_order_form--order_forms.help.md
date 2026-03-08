@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to allow users to provide input on custom medal ribbon color order. The form is a multi-page text input form, where each page is a separate input field for users to enter their thoughts and information.
-Please note that the form does not have any conditional logic, validation, or calculations, so users are free to fill in the information as they see fit.
-It is assumed that this form will be filled out by users who are familiar with the purpose and intent behind the form.
-</thinking>
-
 # Custom Medal Ribbon Color Order Form - Help Guide
 ## Purpose
 The custom medal ribbon color order form is designed to collect user input on the color order of custom medal ribbons. This form is a text input form with multiple pages for users to provide their thoughts and information.

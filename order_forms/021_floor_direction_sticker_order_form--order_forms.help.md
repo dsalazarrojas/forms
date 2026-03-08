@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for ordering floor direction stickers from a customer. The purpose of this form is to gather the necessary details for processing a successful order. This form should only be filled out when a customer wants to place an order for floor direction stickers. 
-
-</thinking>
-
 # floor Direction Sticker Order Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information for ordering floor direction stickers from a customer.

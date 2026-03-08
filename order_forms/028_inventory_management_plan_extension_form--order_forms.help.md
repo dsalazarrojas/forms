@@ -1,7 +1,3 @@
-<thinking>
-This form is used to extend the existing inventory management plan, allowing users to request additional inventory items or modifications to existing ones. The form is used by inventory managers to track and manage extension requests from users. Each field in this form has a specific purpose and requirement, so it's essential to complete it accurately and thoroughly. Before starting, please review the form carefully to ensure you're not duplicating an existing request or submitting an unnecessary extension.
-</thinking>
-
 # Inventory Management Plan Extension Form - Help Guide
 ## Purpose
 The Inventory Management Plan Extension Form is used to request additional inventory items or modifications to existing ones. This form helps inventory managers to track and manage extension requests from users.

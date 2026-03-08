@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to help new employees on their first day of work get a quick understanding of our team's processes and what they need to do to get started. 
-
-This form is not meant to be a comprehensive evaluation, but rather a starting point for further discussions and onboarding activities. 
-
-The form is intended to be completed by the new employee, and the answers will be reviewed by the onboarding team. 
-
-Please ensure that you are not duplicating work or effort, and that this form is used for its intended purpose only. 
-
-</thinking>
-
 # Dev Onboarding Survey Instant Scripts - Help Guide
 ## Purpose
 The purpose of this form is to help new employees get started on their first day of work by providing an initial survey of our team's processes and what they need to do to get started.

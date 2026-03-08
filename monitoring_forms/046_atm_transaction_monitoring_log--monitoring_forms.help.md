@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form appears to be designed for monitoring the performance of an ATM. It's used to capture details of an ATM's activity, including its identification, location, and operational data. This form seems to be relevant to banking or financial institutions that need to track and analyze ATM usage. The fields are mostly self-explanatory, and they cover all necessary aspects of the monitoring process. Before proceeding with the help guide, I'll make sure to provide accurate explanations for each field.
 
 # ATM Transaction Monitoring Log - Help Guide

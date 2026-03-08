@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to help users book theme park tickets in advance, allowing them to choose from different types of tickets, select a visit date and time, and provide additional information such as guest contact details and payment method. The form is not a required form, meaning that users do not need to complete it. However, providing accurate and valid information is crucial for a smooth ticket reservation process.
-
-The form is designed to be user-friendly, with clear labels and concise options to help users quickly and easily provide the required information. Users can also add any special instructions or additional information in the dedicated text fields.
-</thinking>
-
 # Theme Park Ticket Reservation Form - Help Guide
 ## Purpose
 This form is designed to help users book theme park tickets in advance. It is not a required form, but users must provide accurate and valid information to complete the process successfully.

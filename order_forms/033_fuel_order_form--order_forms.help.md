@@ -1,15 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the Fuel Order Form, we need to provide clear and concise explanations for each field, while ensuring that the form's purpose is well understood. This form is meant for users to place orders for fuel, likely for their vehicles, with various options for fuel type and vehicle information.
-
-Before we begin, a quick internal review:
-
-* The form is called "Fuel Order Form" and has multiple pages with various fields to gather information about the order.
-* The form has fields for vehicle information, fuel type, fuel amount, fuel card type, and more.
-* Some fields are required, while others are optional.
-
-</thinking>
-
 # Fuel Order Form - Help Guide
 ## Purpose
 The Fuel Order Form is designed to collect information for fuel orders. This form helps users place orders for fuel with various options for fuel type and vehicle information.

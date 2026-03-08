@@ -1,12 +1,3 @@
-<thinking>
-  Before proceeding with this guide, please ensure that:
-  - You are authorized to access and submit this form.
-  - You have the necessary permissions and approvals in place.
-  - You are submitting the request on behalf of the employee.
-  - The employee has provided the required medical documentation (if applicable).
-  - This form is not a duplicate or outdated version.
-</thinking>
-
 # Medical Leave Of Absence Request (Nurse) - Help Guide
 ## Purpose
 This form is used to request a medical leave of absence for a nurse. It gathers information about the start and end dates of the leave, the reason for the leave, and other supporting details.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information for an epidemic response fund donation. The primary purpose of this form is to gather details about the donor, their contact information, and the specifics of their donation. This form will be used for both online and offline submissions.
-
-Before proceeding, please ensure you've read and understood this guide to complete the form accurately. If you've already completed this form, please review the instructions to ensure you didn't miss any crucial information.
-
-Please note that this form has multiple pages, but they will be presented in a single document for the sake of clarity.
-
-</thinking>
-
 # epidemic_response_fund_donation_form - Help Guide
 ## Purpose
 The epidemic response fund donation form is designed to collect information about individuals who want to contribute to the fight against epidemics by making a donation. This form will help our team track and manage donations, ensuring that we can provide timely and effective support to those affected.

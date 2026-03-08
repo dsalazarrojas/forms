@@ -1,8 +1,3 @@
-<thinking>
-This form is for assessing the donor's expectations and transparency levels in various areas, such as communication channels, feedback mechanisms, and accountability. It is essential to understand the donor's preferences and needs to ensure a strong foundation for trust and partnership. The form will help identify trends, frequency, and levels of expectations in order to inform and improve the donor relations strategy. This form aims to avoid duplication of efforts by collecting comprehensive information about the donor's expectations once.
-
-</thinking>
-
 # Donor Transparency Expectation Poll - Help Guide
 ## Purpose
 The Donor Transparency Expectation Poll is a tool designed to understand the expectations and needs of donors in various areas related to trust, communication, and accountability. This form will help in identifying trends, frequencies, and levels of expectations to inform and improve the donor relations strategy.

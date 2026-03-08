@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to be used by customers to place an order for Macarons. It is intended to be a simple and straightforward form that collects necessary information from the customer, including order details, customer information, shipping details, and macaron details. This form is not affiliated with or endorsed by any form platform, and its creation and content are original. The form is released under a Creative Commons Attribution 4.0 license, which allows users to use, modify, and even sell forms derived from it, as long as credit is given to the original creator. 
-
-Please note that the form has 7 fields that are all optional, and it's intended to be completed by customers who are familiar with the product and its offerings. 
-</thinking>
-
 # Macarons Order Form - Help Guide
 ## Purpose
 The Macarons Order Form is designed to collect order information from customers. It's a simple form that helps you understand what they want to order and other relevant details.

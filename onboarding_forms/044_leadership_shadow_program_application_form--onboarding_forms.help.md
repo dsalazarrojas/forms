@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect information from applicants for the Leadership Shadow Program, a program designed for employees to gain leadership insights and experiences by shadowing a senior leader in their organization. This form will help the program administrators determine each applicant's eligibility and suitability for the program... (Please note that you should only apply for this form if you are an employee of the organization and you are interested in learning leadership skills. Please also note that if you are a duplicate applicant, your application will not be considered.)...</thinking>
-
 # Leadership Shadow Program Application Form - Help Guide
 ## Purpose
 The Leadership Shadow Program Application Form is a form used to collect information from applicants for the Leadership Shadow Program. This form is used to determine each applicant's eligibility and suitability for the program.

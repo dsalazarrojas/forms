@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to capture proof of COVID-19 vaccination information from patients. The form is likely to be used by healthcare professionals to verify the vaccination status of patients. It appears to be a comprehensive form covering various aspects of vaccination, including patient and doctor details, vaccination dates and times, vaccine type, dosage, and medical record number. The form is probably designed to be filled out by a patient or healthcare worker and submitted as evidence of vaccination.
-
-</thinking>
-
 # proof_of_covid_19_vaccination_form - Help Guide
 ## Purpose
 The proof of COVID-19 vaccination form is used to collect information about a patient's vaccination status, which can be used to verify the patient's vaccination details.

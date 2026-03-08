@@ -1,13 +1,3 @@
-<thinking>
-
-The Nurse Onboarding Form is designed to gather essential information from new nurses joining the organization or system. This form is used to onboard new nurses, ensuring they have a smooth transition into their role. 
-
-The form is divided into several sections, each focused on collecting specific details about the nurse. We've designed the form to be user-friendly and minimize the burden on new nurses.
-
-Before starting the onboarding process, it's essential to review the form carefully and ensure all required fields are filled out accurately. If you're unsure about any field, please don't hesitate to reach out to us for clarification.
-
-</thinking>
-
 # Nurse Onboarding Form - Help Guide
 ## Purpose
 

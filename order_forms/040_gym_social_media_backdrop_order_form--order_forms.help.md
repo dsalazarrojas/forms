@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Gym Social Media Backdrop Order Form - Help Guide
 ### Purpose
 The Gym Social Media Backdrop Order Form is a tool used to create and manage social media backdrop orders. It is intended to be filled out by gym staff or management to submit details about their orders, including backdrop type, image, and payment information.

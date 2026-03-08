@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals who want to support the rights of refugees. The form is part of an initiative to advocate for the rights of refugees in the community. It is essential to fill out the form accurately and thoroughly to ensure that the information gathered is helpful in advocating for the rights of refugees.
-</thinking>
-
 # Refugee Rights Petition Form - Help Guide
 ## Purpose
 The Refugee Rights Petition Form is designed to collect information from individuals who support the rights of refugees. This information will be used to advocate for the rights of refugees in the community. 

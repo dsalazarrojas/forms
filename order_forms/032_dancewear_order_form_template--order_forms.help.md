@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for ordering dancewear, providing a structured way to collect information about the dancer, their order, and payment details. The form is designed to be completed by dancers, instructors, or customers, and should only be filled out when a dancewear order is required. It's essential to fill out this form accurately to ensure the correct order is processed.
-
-</thinking>
-
 # dancewear_order_form_template - Help Guide
 ## Purpose
 The purpose of this form is to collect information from dancers to process their orders for dancewear correctly and efficiently.

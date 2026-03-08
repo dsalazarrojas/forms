@@ -1,15 +1,3 @@
-<thinking>
-
-This form appears to be designed for users to order course materials, specifically to collect information related to payment methods, quantities, and order details.
-
-It seems that the form has two pages: the "Order Details" page and the "Payment Information" page. The "Order Details" page appears to be used to select and order materials, while the "Payment Information" page is used to provide payment details.
-
-There may be some redundancy in the form, as some fields are similar in nature (e.g., "Payment Method" and "Payment Method" in "Order Details" and "Payment Information" pages), which could be simplified or removed for user clarity.
-
-To determine the correct usage of this form, we would need more context about the business process and the expected user behavior.
-
-</thinking>
-
 # Course Material Order Form - Help Guide
 ## Purpose
 This form is designed to collect information for ordering course materials. You will need to provide details about the course materials you want to order, as well as your payment information.

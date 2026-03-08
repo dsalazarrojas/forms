@@ -1,17 +1,3 @@
-<thinking>
-As I analyze the provided YAML, it appears that the form is designed for creating or updating payment orders. It requires several key pieces of information to be inputted by the user, including product-related details like product ID, product name, price, and quantity, as well as customer information like customer name, email, phone, and order date/time. The form also includes fields for payment method, payment status, shipping cost, and order comments.
-
-The purpose of this form is to gather necessary data for processing payment orders, ensuring that the customer's order is accurately reflected in the system. 
-
-The form is structured into two main sections: "Order Form" and "Customer Information". 
-
-The "Order Form" section includes fields for product ID, product name, price, quantity, shipping address, payment method, payment method details, order total, payment status, shipping cost, and order notes. 
-
-The "Customer Information" section includes fields for customer name, email, phone, order date, order time, payment gateway, payment status updated, order status, and customer notes.
-
-Given the form's structure and field names, it's clear that it's designed to capture comprehensive information for order processing. I'll now output the help guide in Markdown format.
-</thinking>
-
 # Paymentwall Product Order Form - Help Guide
 ## Purpose
 This form is designed to collect information for payment orders, ensuring accurate processing and tracking of customer transactions.

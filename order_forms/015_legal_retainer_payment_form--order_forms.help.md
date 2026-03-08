@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect legal retainer payment information from clients. The form should be used for clients who have agreed to pay for legal services on a retainer basis. This information is used to track client payments and ensure that retainer fees are paid on time. To avoid errors, please ensure that you only submit this form with accurate and up-to-date information. If you're unsure about any information, please contact your attorney or the client services team for clarification.
-</thinking>
-
 # Legal Retainer Payment Form - Help Guide
 
 ## Purpose

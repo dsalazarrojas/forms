@@ -1,6 +1,3 @@
-<thinking>
-We need to create a help guide for the "Cultural Festival Costume Order Request Form" to ensure end-users understand its purpose, how to complete it, and what each field means. This form likely captures information for vendors or individuals involved in cultural festival events, such as costume orders, deliveries, and confirmations. Before we begin, let's consider that the form might be used by vendors or event organizers to request costumes for an event, and they need to provide details about the order, including sizing, delivery preferences, and contact information.</thinking>
-
 # Cultural Festival Costume Order Request Form - Help Guide
 ## Purpose
 The "Cultural Festival Costume Order Request Form" is designed to capture information from vendors or individuals requesting costumes for an event. This form helps event organizers gather details about the costume order, including sizing, delivery, and contact information.

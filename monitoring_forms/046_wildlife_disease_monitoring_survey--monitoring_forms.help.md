@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information on wildlife disease monitoring from observers. The purpose of this form is to gather data on animal health observations, including the observer's details, animal species, and location information. This form is intended for use in the field, possibly by researchers, agencies, or citizen scientists. Before filling out this form, please ensure that you have not already completed this survey for the same species and location. This form is meant to be completed by one person, but in case there are multiple observers, you can select all relevant options. When filling out the "photos" field, select multiple options if there were any photos taken during the observation. In the "disease_info" field, select multiple options to describe the disease or injury observed. Please be as accurate as possible when providing information in each field.
-</thinking>
-
 # wildlife_disease_monitoring_survey - Help Guide
 ## Purpose
 This form is designed to collect information on wildlife disease monitoring from observers.

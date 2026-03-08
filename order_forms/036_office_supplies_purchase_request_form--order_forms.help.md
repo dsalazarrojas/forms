@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate a smooth and efficient office supplies purchase request process for employees. The purpose of this form is to gather necessary information from employees to fulfill their office supply needs. The form will be reviewed by the procurement team to ensure that the requested supplies are ordered and delivered accurately. Please ensure that you only submit this form once for each type of order. Duplicate submissions will be rejected.
-</thinking>
-
 # office-supplies-purchase-request-form - Help Guide
 ## Purpose
 The office-supplies-purchase-request-form is a form designed to collect information from employees to request office supplies. It is used by the procurement team to fulfill these requests and ensure timely delivery of the supplies ordered.

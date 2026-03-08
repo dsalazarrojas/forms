@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather account information and recharge details from users for account management and payment processing. To avoid duplication and ensure accuracy, users are only asked to provide necessary information, and fields with required status set to false are optional. This form is designed to be user-friendly and easy to navigate, guiding users through the process step-by-step.
-</thinking>
-
 # Account Recharge Form - Help Guide
 ## Purpose
 The Account Recharge Form is used to collect account information and recharge details for account management and payment processing.

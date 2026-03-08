@@ -1,9 +1,3 @@
-<thinking>
-This form is meant to allow customers to place a single product order. 
-It is intended to be completed by customers, who will provide details about themselves and the product they wish to purchase.
-To prevent over-ordering, we want to limit this form to a single product at a time.
-</thinking>
-
 # Single Product Order Form - Help Guide
 ## Purpose
 This form is designed to be used when a customer wants to place a single order for a specific product. It collects contact information and order details to efficiently process the order.

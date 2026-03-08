@@ -1,9 +1,3 @@
-<thinking>... (Internal reasoning block)
-
-This form is used for customers to provide delivery details for their educational kits. The form is designed to be simple and straightforward, allowing customers to easily input their delivery preferences. To ensure that the form is used correctly, it is recommended to fill it out only for educational kit delivery purposes.
-
-</thinking>
-
 # educational_kit_delivery_form - Help Guide
 ## Purpose
 This form is used to provide delivery details for educational kits.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users estimate the budget for a renovation project. The form should only be filled out for renovation projects, not for other types of projects. The form has several fields that need to be filled out to provide a complete estimation. Please make sure to fill out all the required fields before submitting the form.
-</thinking>
-
 # Renovation Budget Estimation Form - Help Guide
 ## Purpose
 This form is designed to help users estimate the budget for a renovation project. It is intended for renovation projects only and should not be used for other types of projects.

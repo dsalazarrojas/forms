@@ -1,7 +1,3 @@
-<thinking>
-This form is used for ordering Soccer Team T shirts. The primary purpose of this form is to collect customer information such as name, email, and payment details to complete a successful order. It's designed to be used by customers who want to order shirts in different sizes, colors, and quantities. To avoid duplication and ensure accurate order fulfillment, please make sure to provide accurate and up-to-date information.
-</thinking>
-
 # Soccer Team T Shirt Order Form - Help Guide
 ## Purpose
 The Soccer Team T Shirt Order Form is used for customers to place orders for custom t-shirts with their preferred color, size, and quantity. This form ensures accurate and efficient order fulfillment by collecting necessary customer information and payment details.

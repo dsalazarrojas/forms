@@ -1,10 +1,3 @@
-<thinking>
-This form is used for customers to place orders for cupcakes. It is used in a business setting, likely in a bakery or a cafe. The purpose of this form is to gather information from customers about their order, such as their name, order type, quantity, delivery date and time, email, and phone number. This form is likely used by customers who are ordering cupcakes for special occasions or personal consumption.
-
-To ensure that this form is being used correctly, please note that it is designed to be completed by customers, not employees or administrators. If you are an employee, you may need to refer to the internal documentation for more information on processing customer orders.
-
-</thinking>
-
 # Cupcake Order Form - Help Guide
 ## Purpose
 

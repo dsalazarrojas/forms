@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lockdown Nutrition Order Form - Help Guide
 ## Purpose
 This form is designed to gather information for ordering food products from customers during a lockdown. It collects the customer's name, email, phone number, selected products, order date, time, and any notes.

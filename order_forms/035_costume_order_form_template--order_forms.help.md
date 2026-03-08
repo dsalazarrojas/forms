@@ -1,7 +1,3 @@
-<thinking>
-A costume order form template is a form designed for customers to place and manage orders for custom-made costumes. This form should be relevant to customers who are interested in purchasing custom-made costumes, such as for theatrical performances, costume parties, or personal events. Before completing this form, ensure you have all necessary information about the customer and their order requirements. This form should not be used for general contact or inquiry purposes. Please ensure you are using this form to place an order for a custom-made costume.
-</thinking>
-
 # Costume Order Form Template - Help Guide
 ## Purpose
 The Costume Order Form Template is a form designed for customers to place and manage orders for custom-made costumes.

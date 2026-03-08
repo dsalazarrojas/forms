@@ -1,6 +1,3 @@
-<thinking>
-We need to create a help guide for the "Nightmare Before Christmas Pre Order Form" that explains its purpose, how to complete it, and what each field means. The form appears to be a pre-order form for a specific product (Option 1, 2, or 3) and requires various customer information such as name, email, shipping address, phone, date of birth, and more. The form also has a confirmation field to confirm the email address and date of birth. To ensure that the form is completed correctly, we need to ensure that the customer selects the correct product and confirms their email address and date of birth. This will help prevent errors and ensure that the order is processed correctly.</thinking>
-
 # Nightmare Before Christmas Pre Order Form - Help Guide
 ## Purpose
 The Nightmare Before Christmas Pre Order Form is a form used to collect information from customers to complete a pre-order for a specific product.

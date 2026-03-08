@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for individuals or businesses to subscribe to massage therapy services. The form collects information about the client, the massage therapy plan, and payment details. This form is not affiliated with any specific massage therapy platform and is designed for general use. There is no duplication of content or logic from existing forms, as it's an AI-generated adaptation.
-
-</thinking>
-
 # massageTherapySubscriptionForm - Help Guide
 ## Purpose
 This form is designed to collect information from clients or businesses who wish to subscribe to massage therapy services.

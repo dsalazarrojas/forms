@@ -1,12 +1,3 @@
-<thinking>
-The Nurse Deployment Project Application Form is designed to collect information from nurses who are interested in participating in a nurse deployment project. This form is used to gather details about the nurse's personal and professional experiences, the project they wish to undertake, and other relevant information that will help in assigning the nurse to a suitable project. 
-
-The form is divided into several sections, each focusing on a different aspect of the nurse's profile and project requirements. 
-
-Please ensure that you have read and understood the guidelines before filling out the form.
-
-</thinking>
-
 # Nurse Deployment Project Application Form - Help Guide
 ## Purpose
 

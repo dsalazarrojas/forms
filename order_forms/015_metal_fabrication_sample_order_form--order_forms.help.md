@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # metal_fabrication_sample_order_form - Help Guide
 
 ## Purpose

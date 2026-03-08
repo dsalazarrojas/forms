@@ -1,9 +1,3 @@
-<thinking>
-This is the September Good Hart Cloth Pre Order Form, a digital form for customers to pre-order their September collection from Good Hart Cloth. The form is designed to collect essential information from customers, such as their preorder details, selected preorder items, date, store name, order notes, email, phone number, and confirmations of these details. Before proceeding, please ensure you have the necessary information and authority to complete the form accurately.
-
-The form's internal logic checks for duplication and relevance to prevent errors and inconsistencies.
-</thinking>
-
 # September Good Hart Cloth Pre Order Form - Help Guide
 ## Purpose
 The September Good Hart Cloth Pre Order Form is a digital form designed for customers to pre-order their September collection from Good Hart Cloth. This form collects essential information necessary for the pre-order process.

@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about new employees who are joining the Cloud Architecture team, specifically to onboard them and ensure they have the necessary skills, access, and resources to perform their role. This form is not intended for existing employees who are already onboarding into the company, but rather for new hires who are starting their first day of work. This form should only be filled out once for each new employee.
-
-This form is designed to capture key information such as employee contact details, job title and responsibilities, primary responsibilities, primary cloud platforms used, key areas of expertise, systems requiring access, equipment needed, security clearance required, and additional onboarding notes. This information will help the team to provide the best possible support and resources to the new employee.
-
-Please ensure that you fill out this form accurately and completely to avoid any delays in onboarding process.
-</thinking>
-
 # Cloud Architect Onboarding Form - Help Guide
 
 ## Purpose

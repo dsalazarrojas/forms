@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to gather feedback from patients who have received care from the hospice program. The goal is to assess the quality of care provided, communication, and overall experience. It's essential to ensure that the form is filled out by the correct patient, with accurate and relevant information. Please ensure that this form is not filled out by anyone other than the intended patient, as responses may be skewed or inaccurate otherwise.
-</thinking>
-
 # Hospice Patient Satisfaction Survey - Help Guide
 ## Purpose
 The Hospice Patient Satisfaction Survey is designed to collect feedback from patients who have received care from our hospice program. This survey aims to evaluate the quality of care, communication, and overall experience of our patients.

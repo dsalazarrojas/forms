@@ -1,9 +1,3 @@
-<thinking>Form purpose: This form aims to collect basic information from customers, including their identification, product details, payment information, and shipping information. The form is designed to be a simple, user-friendly interface for customers to provide their data in a structured format.
-
-To ensure accuracy and relevance, the form has been created using public survey topic metadata. It is an original adaptation, not affiliated with or derived from any form platform. The form is released under CC BY 4.0, allowing users to modify, share, and even sell their adaptations while giving credit.
-
-Before creating this form, we checked for duplication of existing forms and made sure that it serves a clear purpose within the "order_forms" category. Our aim is to provide a reliable and useful form for data collection and analysis.</thinking>
-
 # primitive_order_form - Help Guide
 ## Purpose
 The primitive_order_form is a simple form designed to collect basic customer information and order details.

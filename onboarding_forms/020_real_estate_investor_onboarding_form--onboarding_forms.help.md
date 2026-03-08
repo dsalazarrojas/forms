@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Real Estate Investor Onboarding Form - Help Guide
 ## Purpose
 This form is intended to onboard real estate investors into your organization. It collects information about the company and individual investor, including their contact details, job title, and company address. By completing this form, you will be able to provide the necessary information to facilitate a smooth and efficient onboarding process.

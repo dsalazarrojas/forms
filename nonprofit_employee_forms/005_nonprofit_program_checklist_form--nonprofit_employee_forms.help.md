@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information about a nonprofit organization's program. The purpose of this form is to provide a structured way to collect data on a nonprofit's program, including its name, contact information, program type, budget, and other relevant details.</thinking>
-
 # Nonprofit Program Checklist Form - Help Guide
 ## Purpose
 The Nonprofit Program Checklist Form is a tool used to gather information about a nonprofit organization's program. This form helps the organization provide detailed and consistent information about its program to relevant parties.

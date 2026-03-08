@@ -1,8 +1,3 @@
-<thinking>
-This help guide will cover the "Furniture Supplier Form", designed for merchant use. This form is intended to capture essential information about a furniture supplier, which can be used for various purposes, such as creating a supplier profile, verifying contact details, or managing business relationships.
-To ensure accurate completion of this form, please review the following instructions carefully.
-</thinking>
-
 # Furniture Supplier Form - Help Guide
 ## Purpose
 The Furniture Supplier Form is a form designed to collect information about a furniture supplier. It helps merchants gather essential details about the supplier, including contact information, supplier profile, and business terms.

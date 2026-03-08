@@ -1,9 +1,3 @@
-<thinking>
-Form purpose: 
-The "po_request_form" is a form used to collect information about Purchase Orders (POs) in a company. It gathers essential details to facilitate the processing and management of orders. The form should only be used for new POs, not for editing or viewing existing orders.
-The form checks for duplication of orders to avoid creating duplicate requests.
-</thinking>
-
 # po_request_form - Help Guide
 ## Purpose
 The "po_request_form" is a form used to collect information about Purchase Orders (POs) for new orders. It ensures that all necessary details are gathered to facilitate the processing and management of these orders.

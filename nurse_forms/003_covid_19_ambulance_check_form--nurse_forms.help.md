@@ -1,7 +1,3 @@
-<thinking>
-Is the COVID-19 Ambulance Check Form a tool for tracking the safety and condition of ambulances? It should only be used in situations where the ambulance is about to be used in a medical emergency. It seems that it is primarily used for the inspection of ambulances. It's likely that the form will be used by ambulatory services or medical institutions. Before proceeding, verify that you are using the correct form and that no duplicate records exist for the same ambulance.
-</thinking>
-
 # COVID 19 Ambulance Check Form - Help Guide
 ## Purpose
 This form is designed to ensure the safety and readiness of ambulances for emergency medical situations. It helps identify any issues or defects that may compromise the vehicle's performance and safety.

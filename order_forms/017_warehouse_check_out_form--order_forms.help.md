@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a comprehensive check out form for warehouse operations. It ensures that employees can accurately track and document items checked out from the warehouse, including details such as item number, item type, date, and time. This information is crucial for inventory management and helps maintain accurate records for returns and restocking. The form also includes fields for employee information, comments, and supervisor notes, providing a thorough and structured way to handle check out and return processes.
-</thinking>
-
 # Warehouse Check Out Form - Help Guide
 ## Purpose
 The Warehouse Check Out Form is a critical tool for tracking and documenting items checked out from the warehouse. It helps employees and managers accurately record and maintain inventory, ensuring accurate tracking of items, dates, and times.

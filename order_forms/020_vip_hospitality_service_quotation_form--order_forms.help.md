@@ -1,16 +1,3 @@
-<thinking>
-I will create a user-facing help guide for the "vip_hospitality_service_quotation_form" form. To start, I will review the form YAML and identify the key components and their purpose.
-
-The form appears to be a quotation form for hospitality services, likely for a hotel or resort. It includes fields for quotation details, client information, service information, service level, service type, service duration, service start and end dates, contact information, quote value, quotation notes, terms and conditions, quotation terms agreement, additional VIP services, service location, event details, client requirements, quotation status, quotation sent date and time, quotation due date and time, and quotation comments.
-
-To create a comprehensive help guide, I will focus on the following key areas:
-
-1. Form purpose: The form is designed to collect quotation information for hospitality services.
-2. Form completion: I will break down the form into sections and provide step-by-step instructions on how to complete each section.
-3. Field-by-field explanation: I will provide a detailed explanation of each field, including its label, type, and purpose.
-
-</thinking>
-
 # vip_hospitality_service_quotation_form - Help Guide
 ## Purpose
 The "vip_hospitality_service_quotation_form" is a quotation form used to collect information for hospitality services, such as room services, food and beverage services, and other services. This form is used to provide a detailed quotation for the client, including service level, service type, service duration, and other relevant information.

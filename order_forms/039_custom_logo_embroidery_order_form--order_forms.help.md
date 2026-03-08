@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to gather information for custom logo embroidery orders. It is likely used for online stores or websites that offer custom embroidery services for products such as shirts, hoodies, or other apparel. The purpose of this form is to collect order details from customers, including logo design preferences, product choices, and payment information. The form will likely be used by a customer support agent or a salesperson to gather information and create an order.
-
-To confirm that this form is being used correctly, consider checking if the form is being used to collect information for a custom logo embroidery order and if it is not already available in the form builder's library or in use elsewhere in the system. If you find multiple forms with similar names, please ensure that each form has a unique purpose and is not a duplicate.
-</thinking>
-
 # Custom Logo Embroidery Order Form - Help Guide
 ## Purpose
 The Custom Logo Embroidery Order Form is designed to collect information from customers for custom logo embroidery orders.

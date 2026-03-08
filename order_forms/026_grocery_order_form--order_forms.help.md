@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect order information from customers, including order details, store details, customer information, customer address, order notes, and delivery time. The form is designed to be easy to complete and understand, with clear labels and instructions for each field. The form does not require any complex calculations or technical knowledge, making it accessible to a wide range of users. The fields are also designed to be flexible and adaptable to different types of orders, allowing customers to provide all the necessary information to complete the form.
-
-Before you start, please make sure that you have all the necessary information to complete the form, and that you have reviewed our <a href="https://example.com/terms-of-service">terms of service</a> and <a href="https://example.com/privacy-policy">privacy policy</a> before continuing.
-</thinking>
-
 # Grocery Order Form - Help Guide
 ## Purpose
 The Grocery Order Form is designed to collect all the necessary information from customers to process their orders efficiently and effectively.

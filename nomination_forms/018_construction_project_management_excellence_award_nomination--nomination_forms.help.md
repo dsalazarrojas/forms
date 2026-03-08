@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from team members or individuals to nominate a project or project team for the Construction Project Management Excellence Award. This award recognizes outstanding achievements in project management within the construction industry. The form ensures that the nominee's name and project details are accurately captured, allowing for a fair evaluation process. To avoid duplication, please ensure that only one nomination per project is submitted.
-</thinking>
-
 # Construction Project Management Excellence Award Nomination - Help Guide
 ## Purpose
 This form is intended to gather accurate and detailed information for the Construction Project Management Excellence Award nomination process.

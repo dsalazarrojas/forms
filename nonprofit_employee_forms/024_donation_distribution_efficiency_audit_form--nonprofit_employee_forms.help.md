@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information about the efficiency of the donation distribution process within a nonprofit organization. The purpose of this form is to identify areas of improvement and potential bottlenecks in the distribution process, which can help the nonprofit optimize its resources and better serve its donors. It is essential to complete this form accurately to get a clear picture of the distribution process. Please ensure that you only fill out this form once you have access to the necessary information and that you carefully review the fields to provide the most accurate responses.
-</thinking>
-
 # Donation Distribution Efficiency Audit Form - Help Guide
 ## Purpose
 This form is used to gather information about the efficiency of the donation distribution process within a nonprofit organization. The purpose of this form is to identify areas of improvement and potential bottlenecks in the distribution process, which can help the nonprofit optimize its resources and better serve its donors.

@@ -1,9 +1,3 @@
-<thinking>
-
-Before we proceed, let's ensure the form is well-received and understood by the end user. The form "Retail Shelf Mirror Display Order Form" is a collection of fields that aims to gather information from retailers and customers for order purposes. It is likely used for tracking and managing orders, including details about the retailer, customer, order products, shipping, payment, and other relevant information. This form should be filled out by retailers to create or manage orders, ensuring accuracy and consistency in the information collected.
-
-</thinking>
-
 # Retail Shelf Mirror Display Order Form - Help Guide
 ## Purpose
 The Retail Shelf Mirror Display Order Form is used to collect information from retailers and customers for order purposes. This form is used to create or manage orders, track order status, and gather relevant details about the retailer and customer.

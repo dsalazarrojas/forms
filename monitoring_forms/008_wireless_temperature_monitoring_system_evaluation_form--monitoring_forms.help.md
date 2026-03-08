@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wireless Temperature Monitoring System Evaluation Form - Help Guide
 ## Purpose
 This form is designed to evaluate the performance and usability of the Wireless Temperature Monitoring System. Please fill out this form to provide feedback and insights about your experience with the system.

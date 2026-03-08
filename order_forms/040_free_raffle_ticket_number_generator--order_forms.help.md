@@ -1,11 +1,3 @@
-<thinking>Free Raffle Ticket Number Generator form is a user-facing form used to generate unique raffle tickets with specific details such as ticket number, raffle ID, start and end dates, and draw details. To prevent duplicate entries, the form checks for unique raffle IDs. This form is designed for generating raffle tickets for events or contests with various settings for random draw, winner announcement, and draw results.
-
-The form consists of several sections to capture all necessary information for generating raffle tickets. Each section is designed to collect specific details about the raffle event.
-
-When filling out the form, please note that some fields are optional, and you can skip them if they are not relevant to your event. Also, some fields have specific options or types that are explained below.
-
-</thinking>
-
 # Free Raffle Ticket Number Generator - Help Guide
 
 ## Purpose

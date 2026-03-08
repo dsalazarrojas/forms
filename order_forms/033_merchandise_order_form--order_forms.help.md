@@ -1,6 +1,3 @@
-<thinking>
-We need to provide clear and concise help documentation for end-users to understand the purpose and usage of the Merchandise Order Form. This form is designed to collect essential information from customers for ordering merchandise. It consists of multiple sections, each with a specific set of fields that must be filled out accurately to ensure correct processing of the order. The form should be completed carefully, taking note of the required and optional fields. It's essential to fill out all the fields truthfully and accurately to ensure proper order processing.</thinking>
-
 # Merchandise Order Form - Help Guide
 ## Purpose
 The Merchandise Order Form is designed to collect essential information from customers for ordering merchandise. It's crucial to complete this form accurately to ensure correct processing of the order.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect order information for mounting brackets, ensuring that all relevant customer and order details are captured accurately. This form should not be used for any other purpose.
-</thinking>
-
 # Equipment Mounting Bracket Order Form - Help Guide
 ## Purpose
 This form is used to collect order information for mounting brackets, such as customer details, delivery preferences, and payment information.

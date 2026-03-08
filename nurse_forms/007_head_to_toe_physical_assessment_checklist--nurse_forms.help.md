@@ -1,7 +1,3 @@
-<thinking>
-The form is designed for performing a head-to-toe physical assessment. This guide will walk through each section of the form to help you understand its purpose and how to use it effectively.
-</thinking>
-
 # head_to_toe_physical_assessment_checklist - Help Guide
 ## Purpose
 This form is used to conduct a comprehensive physical assessment of a patient's head, neck, arms, hands, knees, legs, and feet. The form is divided into sections for each body part, and you will be asked to enter any abnormal findings or observations for each area.

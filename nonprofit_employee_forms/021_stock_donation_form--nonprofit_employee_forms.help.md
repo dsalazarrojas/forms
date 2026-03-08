@@ -1,5 +1,3 @@
-<thinking>This form appears to be designed for capturing stock donation information from non-profit employees. The purpose of this form is to collect details about stock donations, including the category of the donation, description, and various other relevant information such as the donor's name and email, phone number, and share value. The form also seems to be used for administrative purposes, as indicated by the presence of fields like "Form ID" and "Date Filed". There may be some redundancy in the form, with multiple fields having similar labels or functions, but it is likely that this form is used for different purposes, such as tracking donations and keeping records.</thinking>
-
 # Stock Donation Form - Help Guide
 ## Purpose
 The Stock Donation Form is used to collect information about stock donations from non-profit employees.

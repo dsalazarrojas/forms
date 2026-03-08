@@ -1,8 +1,3 @@
-<thinking>
-This form is used for users to request access to specific factory facilities. The purpose of this form is to gather information about the user and the facility they wish to access. This information will be used to determine the appropriate access level and schedule for the user. This form is not meant to be used for urgent or emergency requests. Please fill out the form accurately and thoroughly.
-
-</thinking>
-
 # Factory Access Control System Order Form - Help Guide
 ## Purpose
 The Factory Access Control System Order Form is used to request access to specific factory facilities. This form collects information from the user, such as their name, facility, and access level, to determine the appropriate access rights and schedule.

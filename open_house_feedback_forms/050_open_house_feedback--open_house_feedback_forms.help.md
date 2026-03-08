@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the open house feedback form is to gather information about an open house event, allowing event organizers to collect feedback from attendees about their experience. This form is intended to be filled out by attendees to provide their thoughts, comments, and ratings on various aspects of the event, such as the open house details, comments, and contact information. This information will help event organizers to identify areas for improvement and make data-driven decisions for future events.
-</thinking>
-
 # open_house_feedback - Help Guide
 ## Purpose
 This form is designed to gather feedback from attendees about an open house event. To provide your feedback, please fill out this form to help us improve future events.

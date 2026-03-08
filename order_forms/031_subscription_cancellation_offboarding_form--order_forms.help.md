@@ -1,5 +1,3 @@
-<thinking>This is a form for users to cancel their subscriptions and offboard from our service. It's essential to fill out this form carefully and thoroughly to ensure that we have all necessary information to complete the offboarding process smoothly. Before filling out this form, please ensure you have a clear understanding of why you're canceling your subscription, as it will help us to provide better service and make changes to our process if needed. It's also crucial to fill out all the required fields as it will ensure that we can complete the offboarding process as planned.</thinking>
-
 # Subscription Cancellation Offboarding Form - Help Guide
 ## Purpose
 This form is designed to help customers who want to cancel their subscriptions and complete the offboarding process. Please fill out this form with accurate information to ensure a smooth cancellation process.

@@ -1,8 +1,3 @@
-<thinking> 
-This form is intended to collect information for credit card checkout purposes, likely for e-commerce or online payment systems. It includes fields for billing address, card holder information, and terms and conditions acceptance. The fields are divided into two main sections: "Billing Address" and "Credit Card Information". The form does not require any personal data, making it a simple and secure way to collect credit card information for online payments. 
-
-</thinking>
-
 # credit_card_checkout_form - Help Guide
 ## Purpose
 The credit_card_checkout_form is designed to collect credit card information for online payment systems, such as e-commerce or checkout processes. It is a simple form that gathers billing address, card holder details, and terms acceptance for secure and efficient transactions.

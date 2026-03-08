@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Free Meal Order Form - Help Guide
 
 ## Purpose

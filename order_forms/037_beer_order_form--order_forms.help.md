@@ -1,7 +1,3 @@
-<thinking>
-A Beer Order Form should serve as an interface for users to place beer orders online. Its primary objective is to collect the necessary information for processing and delivery of the orders while being user-friendly. To ensure the form is used effectively, it’s essential that users understand its purpose and how to fill it out correctly. This guide will walk through the form’s layout, explaining each section and field to minimize confusion and ensure accuracy in submitting orders. This guide is a crucial resource for users to ensure their orders are accurate and successful.
-</thinking>
-
 # Beer Order Form - Help Guide
 ## Purpose
 The Beer Order Form is designed for customers to place their beer orders online. It collects essential details such as age verification, customer and delivery information, beer selection, and payment and delivery instructions. This form helps in streamlining the process of taking orders and ensuring that all necessary information is collected correctly.

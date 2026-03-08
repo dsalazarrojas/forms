@@ -1,5 +1,3 @@
-<thinking>...This form is for robot model release, which means the form is used for documenting and managing the release of a robot model, typically in a research or development context. It's likely used by researchers or developers to track and verify the release of a model, ensuring that necessary approvals and information are captured for reproducibility, accountability, and compliance reasons. This form is meant to be filled out by the model creators or approvers, and it should not be filled out by end users or consumers of the model. The form is designed to be simple and focused on the essential information needed for release, while allowing for additional notes or comments if necessary.</thinking>
-
 # Robot Model Release Form - Help Guide
 ## Purpose
 The Robot Model Release Form is a document that captures the essential information needed for the release of a robot model. This form helps ensure that all relevant details are recorded for reproducibility, accountability, and compliance purposes.

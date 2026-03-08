@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to check if a customer is eligible for a refund on an order. The form will ask for basic information about the order and the refund request, which will be used to verify the validity of the refund. I assume this form is part of a larger system for managing customer orders and refunds. I also assume that the form is intended for end-users who are not experts in the order and refund management system, so the explanations should be simple and practical.
-</thinking>
-
 # Refund Eligibility Check Form - Help Guide
 ## Purpose
 

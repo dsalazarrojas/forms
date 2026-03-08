@@ -1,5 +1,3 @@
-<thinking>...The form "paypal_purchase_order_form" is used for customers to complete a purchase order, including choosing a payment method and providing relevant details such as product name, quantity, price, and date/time information. This form ensures that customers can securely complete a payment transaction and attach any additional notes for the order... </thinking>
-
 # paypal_purchase_order_form - Help Guide
 ## Purpose
 The form "paypal_purchase_order_form" is designed to assist customers in completing a purchase transaction securely and efficiently. It collects necessary information such as product name, quantity, price, payment method, and additional details to facilitate a smooth purchase process.

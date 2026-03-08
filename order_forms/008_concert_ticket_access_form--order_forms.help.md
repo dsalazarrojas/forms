@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to provide concert ticket access to customers. It is essential to ensure that each attendee has a seat at the concert they want to attend. The form will guide the customer through a series of questions to gather the necessary information for ticketing and event access. To avoid duplication of efforts, it is crucial to ensure that each customer only submits one form per event. The purpose of this form is to gather the required information to complete ticket purchases and provide a smooth experience for both the customer and the event organizers.
-</thinking>
-
 # Concert Ticket Access Form - Help Guide
 ## Purpose
 This form helps concert-goers access and purchase tickets for various events. It is a comprehensive guide to ensure that each attendee has a seat at the concert they want to attend.

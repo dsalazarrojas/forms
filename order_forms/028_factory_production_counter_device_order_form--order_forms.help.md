@@ -1,9 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the "Factory Production Counter Device Order Form" that explains its purpose, the steps to complete it, and provides a clear field-by-field explanation of each section, making sure to base the explanation on the provided YAML fields and being concrete, concise, and practical.
-
-The form's purpose is to gather information for a factory production counter, allowing users to input customer details, order specifics, and production-related information in a structured and organized way. This guide will walk users through each section of the form, ensuring they understand what to fill in and why.
-
-</thinking>
-
 # Factory Production Counter Device Order Form - Help Guide
 ## Purpose
 The Factory Production Counter Device Order Form is a tool for users to record and track factory production counter data. By filling out this form, you'll be able to gather crucial information for efficient production and delivery processes.

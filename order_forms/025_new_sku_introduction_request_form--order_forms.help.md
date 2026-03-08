@@ -1,11 +1,3 @@
-<thinking>
-
-The "new_sku_introduction_request_form" is a form used to request new stock keeping unit (SKU) introductions, which are used to categorize and manage inventory in a warehouse. This form is likely used by inventory management teams to gather information about new products or products being introduced to the inventory for the first time.
-
-Before filling out this form, please ensure that you have all the necessary information about the product and that it's not already in the system.
-
-</thinking>
-
 # new_sku_introduction_request_form - Help Guide
 ## Purpose
 The "new_sku_introduction_request_form" is a form used to request new stock keeping unit (SKU) introductions. This form helps inventory management teams to gather information about new products and introduce them to the inventory system.

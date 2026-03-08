@@ -1,5 +1,3 @@
-<thinking>... This form is used for estimating the cost of mulch and straw for a project. It's designed to gather essential details about the project, including project type, size, and contact information. The form is structured into various sections, each covering different aspects of the project, such as project details, contact information, and job status. This form will guide users through the necessary fields to provide accurate estimates... </thinking>
-
 # Mulch And Straw Cost Estimator - Help Guide
 ## Purpose
 This form is used to estimate the cost of mulch and straw for a project, helping you gather essential details for accurate quotes.

@@ -1,11 +1,3 @@
-<thinking>
-The Freight Forwarder Referral Form is used by customers to refer their business partners, shippers, or other relevant entities to a freight forwarder's services. This form captures information about the referred business, their contact person, and other relevant details such as address and contact phone numbers.
-
-This form helps the freight forwarder to efficiently onboard new business partners and establish a connection with their referred contacts. 
-
-Please ensure that you are completing this form for valid business purposes only and that the information is accurate and up-to-date.
-</thinking>
-
 # Freight Forwarder Referral Form - Help Guide
 ## Purpose
 The Freight Forwarder Referral Form is a tool used to refer your business partners, shippers, or other relevant entities to a freight forwarder's services.

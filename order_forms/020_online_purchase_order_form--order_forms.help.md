@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for customers to provide their order information for online purchases. The purpose of this form is to collect essential details such as customer information, order specifics, shipping address, payment method, shipping cost, tax rate, order total, and customer notes. This form will be used to process and fulfill online orders efficiently. Before creating this guide, verify that the form fields and their respective types accurately represent the required information to be collected and processed.
-</thinking>
-
 # online_purchase_order_form - Help Guide
 ## Purpose
 This form is designed to collect order information from customers for online purchases. Fill out this form to provide your details and order specifics for a smooth and efficient processing process.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for e-commerce platform integration requests. It should only be used by authorized personnel to gather necessary data for setting up new integrations. Each field in this form is crucial for the integration process, and providing accurate information will help ensure a smooth integration process. Before proceeding, please ensure you have the necessary permissions and authorization to access sensitive information like email addresses and API credentials.
-</thinking>
-
 # E Commerce Platform Integration Order Form - Help Guide
 ## Purpose
 The E Commerce Platform Integration Order Form is designed to collect necessary information for setting up new e-commerce platform integrations. This form helps our team gather required data for a smooth integration process.

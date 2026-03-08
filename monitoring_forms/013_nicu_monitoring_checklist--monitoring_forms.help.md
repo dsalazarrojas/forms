@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to help caregivers and medical professionals conduct comprehensive monitoring in the Neonatal Intensive Care Unit (NICU). This form collects crucial information to ensure the well-being and safety of neonatal patients. The form is divided into several sections, each focused on a specific aspect of the patient's condition. This guide will walk you through the form's structure and each field's purpose, helping you understand what information to provide and what it means.
-
-</thinking>
-
 # NICU Monitoring Checklist - Help Guide
 
 ## Purpose

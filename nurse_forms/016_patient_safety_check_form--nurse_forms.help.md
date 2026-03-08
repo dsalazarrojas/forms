@@ -1,12 +1,3 @@
-<thinking>
-A patient safety check form is used to collect information on a patient's medical history, allergies, and potential safety concerns. This form is designed to ensure that medical staff have access to critical information about a patient's health status before providing care. It is essential to complete this form accurately and thoroughly to prevent potential risks and ensure the best possible outcomes for the patient.
-
-When filling out this form, please ensure that the information is up-to-date and accurate. If you are unsure about any of the fields, please consult with the patient or their healthcare provider.
-
-This form is split into multiple sections, each focusing on a different aspect of a patient's health. Please complete each section carefully and thoroughly.
-
-</thinking>
-
 # Patient Safety Check Form - Help Guide
 
 ## Purpose

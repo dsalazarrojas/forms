@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information about trade goods delivery details. It is designed to be used in a business setting to record and track delivery information for trade goods. 
 
 This form is likely used to process trade orders, manage inventory, or update customer records.

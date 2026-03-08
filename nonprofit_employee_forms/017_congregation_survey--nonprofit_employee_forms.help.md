@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback and opinions from congregation members on various aspects of the church's services, programs, and overall experience. The primary purpose of this form is to gather insights into areas that need improvement and to identify opportunities for growth and development. This will help the church leadership understand the congregation's needs, preferences, and concerns, enabling them to make informed decisions and provide better services.
-
-The form is structured to gather information on different aspects of the church's operations, including worship services, programs, and facilities. It also includes questions about communication, volunteer participation, and overall satisfaction with the church experience. By answering this form, respondents are providing valuable feedback that can help the church improve and better serve its members.
-
-Before proceeding, please ensure you have not already submitted this form. This will ensure that your feedback is recorded only once and that you are not duplicating effort.
-
-</thinking>
-
 # Congregation Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and opinions from congregation members on various aspects of the church's services, programs, and overall experience.

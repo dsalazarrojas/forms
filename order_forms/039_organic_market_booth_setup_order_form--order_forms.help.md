@@ -1,18 +1,3 @@
-<thinking>
-
-To create a helpful user-facing guide for the "Organic Market Booth Setup Order Form", we need to consider the form's purpose and the fields included. This form seems to be designed to collect information from vendors about their setup preferences for an organic market or similar event.
-
-The form appears to be used for:
-
-* Vendor registration and booth setup information collection
-* Payment terms and conditions agreement
-* Booth and market fee details
-* Setup schedule and timing information
-
-The guide should be clear, concise, and easy to follow, helping users complete the form correctly and efficiently.
-
-</thinking>
-
 # Organic Market Booth Setup Order Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from vendors for organic market booth setup. It includes various fields to capture vendor details, payment terms, setup dates, and other related information.

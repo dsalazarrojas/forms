@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from non-profit organizations applying for the Global Health Collaboration Fund. This form is used to gather essential details about the applicant organization, including their name, address, contact information, and other relevant data. It's crucial to fill out this form accurately and thoroughly to ensure that your application is complete and error-free.
-Before filling out this form, please check that you're not duplicating an existing application. If you're unsure, contact us at [support email] for guidance.
-</thinking>
-
 # Global Health Collaboration Fund Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from non-profit organizations applying for the Global Health Collaboration Fund.

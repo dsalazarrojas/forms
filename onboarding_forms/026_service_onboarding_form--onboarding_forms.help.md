@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to onboard new services to the system. It captures essential information about the service provider, including their name, address, email, and contact details. This form is part of the onboarding process, ensuring that all necessary details are captured accurately and efficiently. Before proceeding, please make sure you have not completed this form previously.
 
 # Service Onboarding Form - Help Guide

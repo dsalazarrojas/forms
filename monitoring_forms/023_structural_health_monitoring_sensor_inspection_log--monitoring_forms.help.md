@@ -1,19 +1,3 @@
-<thinking> 
-This form is designed to collect data for the structural health monitoring of sensors in a facility or building. The purpose of this form is to provide a structured and organized way of tracking the status and maintenance history of sensors. This form will likely be used by facilities management or maintenance teams to monitor and maintain the health of sensors in a building, and will help them to identify potential issues before they become major problems. The form is likely to be used in conjunction with other monitoring systems and procedures already in place in the facility.
-
-Before starting to complete this form, please ensure that you have access to the relevant data and information required to fill in the form accurately. It is also recommended that you consult with other team members or experts if you are unsure about any of the fields or options available.
-
-The form is split into different sections, each corresponding to a specific aspect of the sensor's health and status. The sections are designed to be easy to complete and follow a logical structure. The form can be completed on a one-time basis or as part of a regular inspection schedule, depending on the specific needs of the facility.
-
-Please take note of the following when completing this form:
-
-* Make sure to provide accurate and up-to-date information for each field.
-* If a field is optional, you can leave it blank if the information is not available or not applicable.
-* If you are unsure about any field, try to use your best judgment or consult with others for guidance.
-* Review the form carefully before submitting it to ensure that all necessary information is provided.
-
-</thinking>
-
 # Structural Health Monitoring Sensor Inspection Log - Help Guide
 
 ## Purpose

@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for delivering concert tickets to customers. It captures essential information to ensure secure and efficient delivery. The form is used in various scenarios, such as electronic ticket delivery, box office pickup, or mail delivery. Please confirm that this form meets your specific needs before proceeding.</thinking>
-
 # Concert Ticket Delivery Form - Help Guide
 
 ## Purpose

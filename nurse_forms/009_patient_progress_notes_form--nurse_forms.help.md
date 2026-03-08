@@ -1,7 +1,3 @@
-<thinking>
-The form "Patient Progress Notes Form" is used to collect information from patients during each visit. This form helps track and document the patient's progress and condition over time, providing valuable data for healthcare professionals to make informed decisions about treatment and care. By filling out this form, healthcare providers can ensure that all relevant information is collected and documented, helping to provide the best possible care for the patient. Before filling out this form, it's essential to verify that the patient's information is up-to-date and accurate. This form should not be used for any other purpose than as a progress note for the patient.
-</thinking>
-
 # Patient Progress Notes Form - Help Guide
 
 ## Purpose

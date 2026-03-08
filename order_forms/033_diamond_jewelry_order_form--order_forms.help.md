@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for their diamond jewelry orders. It's crucial to ensure this form is filled out correctly, so we'll review its purpose and relevance before proceeding. Please ensure you're using this form for its intended use case.
-</thinking>
-
 # diamond jewelry order form - Help Guide
 ## Purpose
 This form is intended for customers to provide their order details for diamond jewelry. It's used to collect information that will enable our team to process and fulfill their orders correctly.

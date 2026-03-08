@@ -1,12 +1,3 @@
-<thinking> 
-The purpose of this form is to collect information from applicants for the Nonprofit Fundraising Specialist position. It's intended for professionals seeking to fill this role within non-profit organizations. This form aims to streamline the application process, ensuring that all necessary details are provided in a structured and organized manner. This will help the hiring process and review process for the applicants.
-
-Please note that this form is not intended for general employment purposes, but rather for those specific individuals interested in fundraising roles within non-profit sectors. It's essential to ensure the provided information is accurate and up-to-date, as it will be reviewed by multiple parties. The applicant must understand and agree to the terms and conditions of this application process.
-
-Before proceeding, ensure you have a clear understanding of the job description and requirements. If you have any questions or need further clarification, please don't hesitate to reach out.
-
-</thinking>
-
 # Nonprofit Fundraising Specialist Application Form - Help Guide
 ## Purpose
 The Nonprofit Fundraising Specialist Application Form is designed for individuals seeking to fill a fundraising position within non-profit organizations. This form will guide you through the necessary steps to submit your application, ensuring that all required information is accurately and comprehensively provided.

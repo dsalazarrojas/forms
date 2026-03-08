@@ -1,9 +1,3 @@
-<thinking>
-This form is used for users to place orders with the food bank. To determine relevance and non-duplication, we'll consider the fields and their purposes. This form has multiple pages, with the first page being a selection of options for the order, the second page for donor information, the third page for address and contact information, the fourth page for order details and notes, and the last page for date and time of the order. Each page is meant to be filled out in sequence, with the user selecting options on the first page, providing details on the second and third pages, and finally specifying order details and date/time on the fourth and fifth pages. The form is designed to be completed in a step-by-step manner, with each page building upon the previous one.
-
-To prevent duplication, the form is designed to only allow one order to be placed per form submission. If the form is already open for an order, it will not be possible to submit another one.
-</thinking>
-
 # Food Bank Order Form - Help Guide
 ## Purpose
 The Food Bank Order Form is used by users to place orders with the food bank. It is designed to guide users through a step-by-step process to provide all necessary information to complete an order.

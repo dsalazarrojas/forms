@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for ordering patient supplies, which is a crucial aspect of medical care. The purpose of this form is to gather patient-specific details, medical supply information, and other relevant data to ensure accurate ordering and inventory management. This form will help medical staff to provide efficient and effective care to patients. I will make sure not to duplicate any information already known to the user.
-</thinking>
-
 # patient-supplies-order-form - Help Guide
 ## Purpose
 

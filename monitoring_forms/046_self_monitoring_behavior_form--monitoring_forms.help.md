@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information about an individual's self-monitoring behavior, which is a key aspect of their mental health and well-being. The form is intended to be completed by individuals who are looking to better understand their own self-monitoring habits and identify areas for improvement. The questions cover a range of topics related to self-monitoring, including sleep habits, exercise frequency, stress management, self-care, self-regulation, self-expression, self-mood management, self-goal setting, self-reflection, self-motivation, self-confidence, self-resilience, self-help seeking, self-support systems, goal progress, goal setting frequency, reflection frequency, progress, and conclusions.
-
-To prevent duplication, this form should only be completed by one person at a time. If you have already completed this form, you do not need to do so again.
-
-</thinking>
-
 # self_monitoring_behavior_form - Help Guide
 ## Purpose
 This form is designed to help individuals better understand their self-monitoring habits and identify areas for improvement.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to submit a return shipping claim. It gathers information about the customer, the order they are returning, and the reason for the return. The form should only be filled out when the customer is making a legitimate return request, and it should not be used for other purposes. Please ensure that you have reviewed the form carefully before filling it out. If you are unsure about any information, please contact us for clarification.
-</thinking>
-
 # Return Shipping Claim Form - Help Guide
 
 ## Purpose

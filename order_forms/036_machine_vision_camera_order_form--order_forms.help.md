@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for ordering machine vision cameras. It collects information for ordering purposes, including camera type, resolution, shipping details, and various application and sales information. This form is not affiliated with any specific platform or company. The form fields are organized into sections for order details, shipping, application, and sales/logistics.
-
-</thinking>
-
 # machine_vision_camera_order_form - Help Guide
 ## Purpose
 This form is used to collect information for ordering machine vision cameras, which are used for various applications such as machine vision, surveillance, and automation.

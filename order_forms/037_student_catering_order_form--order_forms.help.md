@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Catering Order Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information for student events, such as parties, functions, or other activities, to determine the catering requirements and options for the event. This form will help you to provide an accurate and efficient catering service.

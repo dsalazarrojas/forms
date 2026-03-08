@@ -1,5 +1,3 @@
-<thinking> This form is used to request a bulk bag order for a customer or business. It is intended to collect information about the order, including the customer's contact details, shipping information, and order specifics. This form should not be used for testing or non-business purposes. Please ensure that each order is unique and not a duplicate. </thinking>
-
 # Bulk Bag Order Request Form - Help Guide
 ## Purpose
 This form is used to request a bulk bag order for a customer or business.

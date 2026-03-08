@@ -1,7 +1,3 @@
-<thinking>
-This form is for customers to place orders for theme cakes. The purpose of this form is to gather information about the order, including flavor, size, custom design, delivery date, and other relevant details. This form is likely to be used by customers who want to order cakes for special occasions, such as birthdays, weddings, or corporate events.
-</thinking>
-
 # Theme Cake Order Form PagSeguro - Help Guide
 ## Purpose
 This guide will walk you through the steps to complete the theme cake order form. The form is designed to gather information about your order, including flavor, size, custom design, and delivery details.

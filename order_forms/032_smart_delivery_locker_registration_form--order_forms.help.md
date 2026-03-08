@@ -1,7 +1,3 @@
-<thinking>
-The form is designed for registering customers for smart delivery lockers, which are likely automated delivery containers that can be used to securely store and retrieve packages. This form should only be filled out once per customer, and it's likely that customers can be registered in advance of their first use. The purpose of this form is to collect relevant customer information for delivery purposes, such as shipping methods, contact information, and notes for the delivery personnel.
-</thinking>
-
 # Smart Delivery Locker Registration Form - Help Guide
 ## Purpose
 This form is used for registering customers for Smart Delivery Lockers. It collects relevant information for delivery purposes.

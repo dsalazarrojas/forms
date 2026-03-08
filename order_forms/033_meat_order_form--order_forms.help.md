@@ -1,9 +1,3 @@
-<thinking>
-We need to ensure that the form is clear and easy to use for end-users. The form is an "Meat Order Form" that is likely used by butcher shops or restaurants to record customer orders of meat. The form should be filled out for each order made. This form likely does not need any specific checks for duplication since it's an order form, which typically has different orders.
-
-This guide will cover each field and how to complete it for users.
-</thinking>
-
 # Meat Order Form - Help Guide
 
 ## Purpose

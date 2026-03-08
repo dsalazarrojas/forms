@@ -1,28 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Gardening Service Subscription Form", I need to understand the purpose and requirements of this form. This form is likely used to collect information from customers who want to subscribe to a gardening service. The main goal is to gather the necessary details from the customer to create and manage their subscription. 
-
-Let's break down the form into its components:
-
-1. **Customer Name**: This field is likely used to capture the customer's full name.
-2. **Email**: This field is used to collect the customer's email address for communication purposes.
-3. **Phone Number**: This field is used to store the customer's phone number for contact and communication.
-4. **Subscription Type**: This field offers multiple options (Yearly, Monthly) to select the type of subscription the customer wants.
-5. **Subscription Start Date** and **Subscription End Date**: These fields are likely used to determine the start and end dates of the subscription period.
-6. **Address**: This field is used to collect the customer's street address.
-7. **Service Frequency**: This field offers multiple options (Weekly, Bi-Weekly, Monthly) to determine how often the customer wants the service.
-8. **Payment Method**: This field offers multiple options (Check, Credit Card) to select the payment method.
-9. **Payment Terms**: This field is likely used to capture any additional payment terms or conditions.
-10. **Payment Schedule**: This field is likely used to store the payment schedule details.
-11. **Notes**: This field is used to capture any additional information or notes about the subscription.
-12. **Assigned Tool**: This field is used to store the tool assigned to the customer.
-13. **Assigned User**: This field is used to store the user assigned to the customer.
-14. **Assigned Group**: This field is used to store the group assigned to the customer.
-15. **Assigned Status**: This field offers multiple options (Active, Inactive, On-hold) to select the status of the subscription.
-
-The form is likely used in a business setting to manage customer subscriptions for a gardening service. The goal is to create and manage these subscriptions effectively.
-
-</thinking>
-
 # Gardening Service Subscription Form - Help Guide
 ## Purpose
 The Gardening Service Subscription Form is used to create and manage customer subscriptions for a gardening service. This form collects information from customers to determine their subscription type, start and end dates, service frequency, payment method, and other relevant details.

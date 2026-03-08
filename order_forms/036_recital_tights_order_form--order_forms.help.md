@@ -1,8 +1,3 @@
-<thinking>
-This form is used to record orders for recital tights, a type of performance attire typically worn by dancers. The purpose of this form is to collect necessary information from studios to process orders efficiently. The fields are designed to gather details such as studio name, student name, order date, product preferences, and other relevant order-specific information. To avoid confusion, the form is divided into sections to guide users through the process.
-
-</thinking>
-
 # recital_tights_order_form - Help Guide
 ## Purpose
 This form is used to record orders for recital tights, a type of performance attire typically worn by dancers. It is used to collect necessary information from studios to process orders efficiently.

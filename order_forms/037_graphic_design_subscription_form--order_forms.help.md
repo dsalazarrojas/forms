@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect contact and subscription information from graphic design clients. The form is intended to be used in conjunction with other internal processes to manage client relationships and track subscription details. This form should only be used for clients who have not previously submitted a form. If a client has already submitted a form, please use the existing data to update their information instead.
-</thinking>
-
 # graphic_design_subscription_form - Help Guide
 ## Purpose
 This form is used to collect contact and subscription information from graphic design clients.

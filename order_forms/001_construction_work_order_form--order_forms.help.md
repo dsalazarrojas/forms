@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a construction work order. It's intended for use by clients who need to request and manage construction services. Before proceeding, ensure this is the correct form for your needs and that you don't already have a similar form in your system that you'd rather use.
-</thinking>
-
 # Construction Work Order Form - Help Guide
 ## Purpose
 

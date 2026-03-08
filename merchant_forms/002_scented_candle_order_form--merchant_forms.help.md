@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from users for a scented candle order. The purpose of this form is to ensure that users provide accurate and complete information for their order, including their name, address, contact details, preferred scents, desired quantity, and total cost. This form should only be used for users who wish to order scented candles. 
-</thinking>
-
 # scented_candle_order_form - Help Guide
 ## Purpose
 This form is used to collect information from users for a scented candle order. It includes fields for the user's first name, last name, address, email address, phone number, desired scents, quantity of scented candles, and total cost.

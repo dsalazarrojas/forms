@@ -1,7 +1,3 @@
-<thinking>
-This form is used for nominating startups for an award. The form is intended for internal and external stakeholders to nominate startups that they believe are deserving of recognition. Please note that nominations are reviewed and evaluated by the incubator team to determine eligibility. To avoid duplication, please ensure that you are not nominating a startup that has already been nominated or has been previously nominated and is still active.
-</thinking>
-
 # Startup Incubator Venture Award Nomination Form - Help Guide
 ## Purpose
 This form is designed to gather information for nominating startups for an award. The goal is to highlight exceptional startups that meet the criteria set by the awarding organization.

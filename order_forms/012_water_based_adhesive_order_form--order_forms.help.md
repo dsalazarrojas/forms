@@ -1,15 +1,3 @@
-<thinking>
-The form seems to be a custom order form for water-based adhesive products, designed to capture relevant information from customers or internal orders. Given the fields, it appears to be primarily used for sales or inventory management purposes. However, without more context, it's uncertain if this form will be used for both customers and internal orders.
-The form consists of:
-* A form title (Water-Based-Adhesive-Order-Form)
-* Customer information (customer-name, email, customer-phone)
-* Product details (product-name, product-code, product-quantity)
-* Order information (delivery-date, delivery-time, customer-quantity)
-* Additional details (customer-quantity, assigned-tool, form-id)
-
-Considering the form fields, it seems that some of the fields may be redundant or have overlapping information (e.g., customer-quantity and product-quantity). To create an optimal user experience, ensure that the form layout, labels, and fields are well-designed for efficient and accurate completion.
-</thinking>
-
 # Water-Based-Adhesive-Order-Form - Help Guide
 
 ## Purpose

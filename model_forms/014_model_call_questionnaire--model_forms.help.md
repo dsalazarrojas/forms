@@ -1,7 +1,3 @@
-<thinking>
-We need to make sure that the form is used for its intended purpose and that users don't have to fill it out multiple times. The form is meant to gather information about the user's experience, skills, and preferences for potential modeling gigs. The form should only be filled once for each user. If a user has already submitted the form, they should not be shown the same form again.
-</thinking>
-
 # model_call_questionnaire - Help Guide
 ## Purpose
 This form is for users to provide information about their experience and preferences for potential modeling gigs. Please fill out this form to help us get a better understanding of you and your skills.

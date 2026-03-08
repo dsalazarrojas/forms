@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect nominations for the Jewish Professional Award, which recognizes individuals who have made significant contributions to their field or community. To avoid duplication, please do not nominate the same individual for the same award within a short period. Nominators are encouraged to consider the impact of their nominee's work and provide supporting documentation if possible. Before filling out this form, ensure that the nominee has not been previously nominated for the same award within the past [X] years.
-</thinking>
-
 # Jewish Professional Award Nomination - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-We'll assume that the form is intended for customers to request masonry services, such as construction, repair, or maintenance. The form is likely to be used by customers or clients who want to inquire about specific projects they have in mind, including details such as address, contact information, and project descriptions. 
-
-This form is designed to be user-friendly, so we'll keep the explanations concise and clear. We'll also assume that some fields might be optional but still important for providing a complete picture of the customer's needs.
-
-To avoid duplication, we'll check if the form has been filled out before and provide instructions on how to proceed if it has. For instance, if the customer has already filled out this form before, they might be prompted to review and update their previous submission.
-
-</thinking>
-
 # Masonry Service Quote Request - Help Guide
 ## Purpose
 This form is designed to collect information from customers to request masonry services such as construction, repair, or maintenance. Please fill out the form below to provide detailed information about your project.

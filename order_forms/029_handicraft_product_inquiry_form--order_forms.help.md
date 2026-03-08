@@ -1,7 +1,3 @@
-<thinking>
-This form is used for customers to inquire about handicraft products. It should be filled out by customers who are interested in learning more about a specific product or have a question about a product they've seen. This form is not intended for sales or purchase purposes.
-</thinking>
-
 # Handicraft Product Inquiry Form - Help Guide
 ## Purpose
 The Handicraft Product Inquiry Form is designed to gather information from customers about their interest in a specific product. Please fill out this form to help our team better understand your needs and provide you with more information about the product.

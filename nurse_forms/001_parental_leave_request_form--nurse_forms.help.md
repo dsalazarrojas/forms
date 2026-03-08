@@ -1,9 +1,3 @@
-<thinking>
-
-To confirm, this form is intended for requesting parental leave from an employee, and it includes fields for the requestor (employee) and the approver (manager). The form will be used to track and verify leave requests. The form should not be used to request other types of leave (e.g., medical, vacation).
-
-</thinking>
-
 # Parental_leave_request_form - Help Guide
 ## Purpose
 The "Parental Leave Request Form" is used to request parental leave for an employee, which includes information such as the start and end dates of the leave, reason for the request, and the type of leave. The form also requires the approver (manager) to review and approve or decline the request.

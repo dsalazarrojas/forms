@@ -1,15 +1,3 @@
-<thinking>...
-Internal reasoning: 
-The purpose of this form is to gather information for cloud computing subscription renewal. It's essential to understand that this form is used for existing customers to renew their current subscription plans. The form is divided into several sections, each focusing on a specific aspect of the renewal process.
-
-The form requires the customer to provide their account information, including account number, account holder name, and email address. It also asks for the current subscription details, such as the current cloud service, plan, and renewal date. 
-
-The customer can choose to continue with their current plan or opt for a different plan. If they choose to change plans, they can select the new plan and specify the estimated new cost. They also need to select the required features for the new plan and provide any additional information or special requests.
-
-Finally, the form asks for billing contact and payment method information.
-
-...</thinking>
-
 # Cloud Computing Subscription Renewal Form - Help Guide
 ## Purpose
 This form is designed for existing customers to renew their current cloud computing subscription plans. It gathers information required to process the renewal and provide the customer with the best possible service.

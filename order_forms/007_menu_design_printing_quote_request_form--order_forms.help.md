@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Menu Design Printing Quote Request Form - Help Guide
 
 ## Purpose

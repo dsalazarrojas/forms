@@ -1,5 +1,3 @@
-<thinking>Heritage Honoree Nominations forms are used to recognize and celebrate individuals who have made significant contributions to the field of heritage conservation. These forms are reviewed internally to prevent duplication of nominations and to ensure that only those with a clear and compelling case are presented for selection. This helps in maintaining the integrity and credibility of the process.</thinking>
-
 # Heritage Honoree Nominations - Help Guide
 ## Purpose
 This form is used to submit nominations for the Heritage Honoree Award, which recognizes individuals who have made significant contributions to the field of heritage conservation. To be eligible, nominations must be submitted through this form.

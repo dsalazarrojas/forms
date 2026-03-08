@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to monitor the progress of projects. It is used to track and update the status of projects, which will help project administrators and team members to get insights into project progress, identify potential issues, and make informed decisions. This form is likely to be used in a work environment, such as in a development team or a project management office. It is a good idea to use this form only for its intended purpose and not for any other use.
-</thinking>
-
 # Progress Monitoring Form - Help Guide
 ## Purpose
 The Progress Monitoring Form is used to track and update the status of projects, helping project administrators and team members get insights into project progress and make informed decisions.

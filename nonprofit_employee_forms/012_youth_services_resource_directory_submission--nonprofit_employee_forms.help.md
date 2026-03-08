@@ -1,7 +1,3 @@
-<thinking>**Purpose:** This form is designed to collect information from organizations that offer youth services and submit them to the Youth Services Resource Directory. The directory aims to provide a comprehensive list of services that cater to the needs of youth, making it easier for them to access resources and support. By filling out this form, organizations can showcase their services, including their description, location, and contact details, helping them reach a wider audience.
-
-**Non-duplication check:** Before proceeding, please ensure that your organization is not already listed in the directory. If you're unsure, please contact the administrator for further assistance.</thinking>
-
 # Youth Services Resource Directory Submission - Help Guide
 ## Purpose
 The Youth Services Resource Directory Submission form is a tool for organizations to submit their services to the Youth Services Resource Directory. The directory aims to provide a comprehensive list of services that cater to the needs of youth, making it easier for them to access resources and support.

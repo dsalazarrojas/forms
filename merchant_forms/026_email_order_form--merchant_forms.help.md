@@ -1,16 +1,3 @@
-<thinking>
-This form is for processing orders and customer information for merchant accounts. The form collects various details about the order, including customer name, email, address, and phone number, as well as order details such as date, total, and status. The form also asks for merchant-specific information like email and notes. To ensure that this form serves its purpose effectively, please review each field to understand its intended use case.
-
-The form has the following pages:
-
-1. Customer information page with fields for customer name, email, address, and phone number.
-2. Order details page with fields for order date, total, status, and notes.
-3. Delivery information page with fields for delivery date, time, and status.
-4. Additional fields for merchant information and order comments.
-
-When filling out this form, please ensure that you fill in the required fields accurately to avoid any errors.
-</thinking>
-
 # email_order_form - Help Guide
 ## Purpose
 This form is designed to process orders and customer information for merchant accounts. It allows you to collect and store details about customer orders, including contact information, order specifics, and delivery instructions.

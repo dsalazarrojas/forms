@@ -1,5 +1,3 @@
-<thinking>As the form designer and technical writer, I will analyze the provided YAML fields and create a comprehensive help guide for the Customized Apron Order Form. The form appears to be a multi-page form with various fields for customer information, order customization, and form configuration. Upon reviewing the fields, I notice that most of the fields are not required, which may lead to inconsistent data collection. I also notice that there are two "Assigned Tool" fields, which seems redundant. I will make sure to address these potential issues in the help guide.</thinking>
-
 # Customized Apron Order Form - Help Guide
 ## Purpose
 The Customized Apron Order Form is designed to collect customer information, order customization options, and form configuration settings. This form is used to create customized aprons for customers, allowing them to select from various styles, colors, and customization options.

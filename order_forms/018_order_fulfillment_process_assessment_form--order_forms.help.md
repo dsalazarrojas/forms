@@ -1,11 +1,3 @@
-<thinking>
-
-This help guide will cover the "order_fulfillment_process_assessment_form" form, which is used for assessing the order fulfillment process in a company. 
-
-The form is designed to gather information about the company's order fulfillment process, including its efficiency, accuracy, and other related aspects. The form is divided into several sections, each of which is described below.
-
-</thinking>
-
 # order_fulfillment_process_assessment_form - Help Guide
 ## Purpose
 The "order_fulfillment_process_assessment_form" is a tool used to assess the effectiveness and efficiency of a company's order fulfillment process. It covers various aspects of the process, including order fulfillment, product quality control, inventory management, and communication with team and customers.

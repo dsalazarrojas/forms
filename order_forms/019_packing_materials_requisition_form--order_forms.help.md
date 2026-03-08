@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure this form is being used correctly to avoid duplicate or incorrect orders. This guide will explain the purpose and usage of the Packing Materials Requisition Form to help users complete it correctly.
-</thinking>
-
 # Packing Materials Requisition Form - Help Guide
 ## Purpose
 The Packing Materials Requisition Form is a document used to request packing materials for a customer's order. This form is used to gather essential information from the customer, including their details, materials needed, and shipping information. It will be reviewed by the assigned staff member for processing.

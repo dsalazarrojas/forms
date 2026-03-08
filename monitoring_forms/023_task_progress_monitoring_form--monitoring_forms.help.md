@@ -1,9 +1,3 @@
-<thinking>... thinking...
-
-This form is designed to monitor the progress of tasks. It is intended to be filled out by team members to report on their progress towards completing tasks assigned to them. The form is not necessarily meant to be filled out in real-time, but rather as a regular check-in to provide updates on task progress. It is meant to be used by team members to communicate their status to team leads.
-
-</thinking>
-
 # Task Progress Monitoring Form - Help Guide
 ## Purpose
 The Task Progress Monitoring Form is used by team members to report on their progress towards completing tasks assigned to them. This form helps team members to provide regular updates on their status and enables team leads to track progress and make informed decisions.

@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about an event, including its name, type, date, time, and venue. The form also requests details about the client's preferences for the event, such as package type, email, and event description. This form is likely used for events related to music and video production, and is used to gather information from clients to determine the best package and details for their event.
-
-To ensure the correct and efficient completion of this form, please note that the form is divided into several sections, each with specific fields that are explained below.
-
-Before proceeding, please ensure that you are filling out the form for the correct event and that you are not duplicating an existing event.
-
-It is also important to note that some fields are optional and can be filled out or left blank, depending on the specific requirements of the event.
-</thinking>
-
 # Music And Video Package Request - Help Guide
 ## Purpose
 The Music And Video Package Request form is a tool used to gather information about an event, including its name, type, date, time, and venue, as well as the client's preferences for the event.

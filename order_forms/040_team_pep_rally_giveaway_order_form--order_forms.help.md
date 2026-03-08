@@ -1,9 +1,3 @@
-<thinking>
-This help guide is for the "Team Pep Rally Giveaway Order Form" which is designed to collect information from school teams participating in a pep rally event. The form is likely used by event organizers to gather data about the teams that are participating, including school details, order information, and contact details for the submitting team. The purpose of this form is to ensure that the event organizers have all the necessary information about the participating teams. This form may be used in the context of a school or university event where teams can place orders for supplies or services related to the pep rally event.
-
-Please note that the form does not appear to have any conditional logic or dependencies between the fields, so it seems to be a straightforward information collection form. The fields are mostly self-explanatory, but it might be helpful to provide a clear explanation of each field to ensure that users understand what information is being collected.
-</thinking>
-
 # Team Pep Rally Giveaway Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from school teams participating in a pep rally event. The purpose of this form is to gather data about the teams that are participating, including school details, order information, and contact details for the submitting team.

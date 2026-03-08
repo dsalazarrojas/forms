@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for an indoor air quality program registration. The form is designed to gather details about a facility's characteristics, contact information, service needs, and facility type. This information will be used to create a comprehensive understanding of the facility's air quality status and needs.
-</thinking>
-
 # Indoor Air Quality Program Registration Form - Help Guide
 ## Purpose
 The Indoor Air Quality Program Registration Form is a tool used to gather information from facilities about their air quality status and needs. By completing this form, facilities can provide valuable data to help monitor and improve their indoor air quality.

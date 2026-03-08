@@ -1,24 +1,3 @@
-<thinking>
-This help guide is designed to assist nonprofit employees in understanding the purpose and usage of the Senior Outreach Volunteer Registration form. The form is intended to collect information from senior citizens about their availability, interest areas, and volunteer experience. 
-
-The form should only be completed by senior citizens who are interested in volunteering for the nonprofit organization. 
-
-Before starting the form, ensure that you have not already registered for this program and that your information is up-to-date. 
-
-Please note that this guide explains each section of the form and provides instructions on how to fill it out correctly. 
-
-This guide is intended for senior citizens who are interested in volunteering with the organization. 
-
-Please fill out the form carefully and accurately to ensure that your information is recorded correctly. 
-
-The following fields will be used to determine your volunteer status and availability. 
-
-Please do not use this guide for any other purpose other than for volunteering with the nonprofit organization. 
-
-If you are unsure about any part of this guide, please contact the nonprofit organization for assistance. 
-
-</thinking>
-
 # Senior Outreach Volunteer Registration - Help Guide
 
 ## Purpose

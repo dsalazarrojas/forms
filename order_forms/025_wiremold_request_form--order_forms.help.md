@@ -1,5 +1,3 @@
-<thinking>Since this is an AI-generated form, the form purpose and design may not exactly match any real-world product or service. This form appears to be a simple, text-based form with 25 pages, each labeled as "text" with no specific instructions or hints. Given this, the form could be used for various purposes, such as data collection, survey, or information gathering. To determine the form's purpose, one would need more context or information about the form's intended use. However, based on the form's structure, it seems to be designed for a user to enter free-form text responses. This form does not appear to have any complex or conditional logic, so a simple, step-by-step guide should be sufficient.</thinking>
-
 # Wiremold Request Form - Help Guide
 ## Purpose
 The Wiremold Request Form is a 25-page text-based form designed for users to input free-form text responses. Its purpose is to gather information from users through a series of text input fields.

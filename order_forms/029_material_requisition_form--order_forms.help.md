@@ -1,7 +1,3 @@
-<thinking>
-This form is for requesting materials, which may include equipment, tools, or other goods. This form is likely to be filled out by employees or departments to communicate their material needs to management or procurement teams. The form is designed to gather information about the material requested, its type, description, quantity, and other relevant details.
-</thinking>
-
 # Material Requisition Form - Help Guide
 ## Purpose
 The Material Requisition Form is designed to gather information about materials needed by employees or departments, and to communicate these needs to management or procurement teams.

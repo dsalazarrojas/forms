@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed for fragile item delivery, allowing customers to provide details about the item being delivered, including its value, condition, and insurance information. This form helps streamline the delivery process, ensuring that all relevant details are collected and recorded accurately.
-
-It's essential to note that this form is used by customers to provide information about the delivery, whereas other forms (e.g., delivery staff forms) might be used by delivery staff to record their own experiences and observations during the delivery process.
-
-Before completing this form, ensure that you're authorized to submit this information and that the item is properly packaged and insured for its value.
-
-Please review the form carefully and fill it out accurately to avoid any issues or miscommunication during the delivery process.
-
-</thinking>
-
 # fragile_item_delivery_form - Help Guide
 ## Purpose
 The fragile_item_delivery_form is used by customers to provide essential details about the item being delivered, including its value, condition, and insurance information. This helps ensure accurate and safe delivery.

@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide for the Remote Boiler Monitoring Log Form, let's quickly review the form purpose and ensure it's relevant to its context. Upon examining the form's fields and properties, it appears to be designed for monitoring remote boilers, collecting data on their status, and tracking various details related to their operation. The form likely serves as a tool for maintenance, maintenance teams, or facility managers to record and track the performance of remote boilers in different locations. This form's purpose is likely to ensure the efficient operation of remote boilers and identify potential issues before they become major problems.</thinking>
-
 # Remote Boiler Monitoring Log Form - Help Guide
 ## Purpose
 The Remote Boiler Monitoring Log Form is used to track and monitor the status and performance of remote boilers. It captures essential details about each boiler, including location, status, and maintenance history. This form helps maintenance teams and facility managers to efficiently record and analyze data for effective boiler operation and maintenance.

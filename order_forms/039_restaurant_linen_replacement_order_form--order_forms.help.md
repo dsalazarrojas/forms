@@ -1,7 +1,3 @@
-<thinking>
-This form is used by restaurant staff to submit an order for linen replacements (tablecloths, napkins, etc.) when they are needed for a particular restaurant or event. The form helps to gather the necessary information to ensure the correct linens are ordered and delivered to the correct location.
-</thinking>
-
 # Restaurant Linen Replacement Order Form - Help Guide
 ## Purpose
 This form is used to submit an order for linens that need to be replaced in a restaurant or event. This form helps to gather all necessary information required to ensure the correct linens are ordered and delivered to the correct location.

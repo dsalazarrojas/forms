@@ -1,7 +1,3 @@
-<thinking>
-This form is part of the onboarding process for properties, and it's used to analyze a property's status, condition, and other relevant details. It's essential that the form is filled out correctly to ensure accurate and efficient property analysis.
-</thinking>
-
 # Property Onboarding Analysis Form - Help Guide
 ## Purpose
 The Property Onboarding Analysis Form is designed to collect and analyze property information in a structured and standardized format. It helps ensure that properties are properly documented and assessed, streamlining the onboarding process.

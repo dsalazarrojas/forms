@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to help users book a gala dinner lighting service. The user needs to provide client details, event date, venue address, lighting package selection, terms and agreement, contact details, and event details. 
-
-The form is not intended for duplicate submissions, hence the absence of a unique identifier or a timestamp in the fields. 
-The fields provided cater to the basic needs of the user and are designed to be completed by the end-user themselves without any assistance.
-
-</thinking>
-
 # gala_dinner_lighting_booking_form - Help Guide
 ## Purpose
 This form is used to book a gala dinner lighting service. It collects information required for arranging lighting for an event, including client details, event schedule, venue address, and other essential details.

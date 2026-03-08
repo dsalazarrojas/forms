@@ -1,12 +1,3 @@
-<thinking>
-This form is for ordering a promotional giveaway design for a specific promotional giveaway. The form is intended to collect information about the design requirements and details of the giveaway. This form is not intended for other purposes, such as general contact or feedback. 
-
-When ordering a promotional giveaway design, please ensure you complete all required fields to avoid any delays or issues with your order. 
-
-Please note that the fields in this form are designed to collect specific information about the giveaway, and each field has a unique purpose. 
-
-</thinking>
-
 # promotional giveaway design order form - Help Guide
 ## Purpose
 This form is used to order a promotional giveaway design for a specific promotional giveaway. It is intended to collect information about the design requirements and details of the giveaway.

@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to collect information from customers for a high-precision cutting blade order. The form will be used to gather details such as customer name, email, phone number, delivery address, and special instructions. This form is not intended to be a comprehensive order form but rather a simple way to capture necessary information for order fulfillment. It is crucial to ensure that the form is filled out accurately and completely to avoid any delays or errors in the order process.
-
-Before proceeding, please review the form carefully and ensure that you are filling it out for the correct purpose.
-
-To avoid errors, please ensure that you are filling out the form for the correct order and not duplicating any existing orders.
-
-Please fill out the form carefully to ensure accurate and prompt order fulfillment.
-
-</thinking>
-
 # high_precision_cutting_blade_order_form - Help Guide
 ## Purpose
 The purpose of this form is to collect necessary information from customers for a high-precision cutting blade order.

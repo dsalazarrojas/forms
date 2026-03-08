@@ -1,8 +1,3 @@
-<thinking>
-The School Lunch Order Form is designed to help students and staff members place orders for school lunches, making it easier for the school cafeteria or catering staff to prepare and manage orders efficiently. The form provides an opportunity for users to select their preferred meal options, including mains, snacks, drinks, and sides, while also allowing for extra juice and fruit selections. The form also includes a date, time, and note field for additional information and a contact email field for follow-up communication. This form serves as a simple and streamlined way to place orders and facilitate the ordering process.
-
-</thinking>
-
 # School Lunch Order Form - Help Guide
 ## Purpose
 This form is intended for students and staff members to place orders for school lunches, allowing them to choose from various meal options and add extra selections as needed.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track the progress and habits of smokers attempting to quit. It is not intended for medical diagnosis or treatment purposes. Please ensure that you have consulted with a medical professional before using this form. This form is not meant to be a substitute for professional advice or medical treatment. If you are a healthcare professional, please review the form fields to ensure they align with your professional standards and guidelines. 
-</thinking>
-
 # Smoking Cessation Monitoring Form - Help Guide
 
 ## Purpose

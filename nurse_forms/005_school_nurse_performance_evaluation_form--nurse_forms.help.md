@@ -1,5 +1,3 @@
-<thinking>As a school nurse, your performance evaluation is a crucial part of our assessment and development process. This form is designed to help us gauge your strengths and areas for improvement to ensure you are well-equipped to provide high-quality care to our students. Please fill out this form accurately and thoroughly, and be sure to provide specific examples to support your answers. Note that all fields are optional, but filling out all fields will help us get a more complete picture of your performance.</thinking>
-
 # School Nurse Performance Evaluation Form - Help Guide
 ## Purpose
 This form is designed to evaluate the performance of school nurses in our district, with the goal of promoting professional growth and development. We strive to create a supportive and inclusive environment for all our nurses, and your feedback will help us achieve this goal.

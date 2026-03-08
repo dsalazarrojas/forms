@@ -1,7 +1,3 @@
-<thinking>
-This form is used for customers to place an order for custom cookies for Father's Day. The form is designed to collect details about the order, including the type of cookie, shape, and quantity, as well as any personal message or gift recipient's name. By understanding the purpose and requirements, we can ensure that the form is completed accurately and efficiently.
-</thinking>
-
 # Fathers Day Cookie Order Form - Help Guide
 ## Purpose
 This form is used to order custom cookies for Father's Day. Please provide your order details, a personal message, and any other information required to create a special gift for your father.

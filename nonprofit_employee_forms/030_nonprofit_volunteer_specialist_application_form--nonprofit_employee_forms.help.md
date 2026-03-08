@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nonprofit Voluntter Specialist Application Form - Help Guide
 ## Purpose
 This form is intended to collect information from individuals interested in becoming a Nonprofit Voluntter Specialist. The goal of this form is to gather basic contact information, volunteer hours, and other relevant details to assess a candidate's suitability for the role. Please ensure you only submit this form if you are a legitimate volunteer looking to join the Nonprofit Voluntter Specialists team.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for ordering free meals, likely for employees or staff members of a company. The form is meant to streamline the process of requesting free meals for employees, making it easier for the staff to order and for the management to track and manage meal orders. The form is an adaptation of a public survey topic, created using AI and released under Creative Commons 4.0 license. This form does not copy or use proprietary content from any form creation or survey platform.
-
-</thinking>
-
 # ประก Free Meal Order Form - Help Guide
 ## Purpose
 The "free_meal_order_form" is designed for ordering free meals for employees, making it easier for staff to request and manage meal orders.

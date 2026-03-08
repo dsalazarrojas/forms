@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, I'll review the form and its fields to ensure I provide accurate and concrete explanations for end users.</thinking>
-
 # Equipment Borrowing Communication Form - Help Guide
 ## Purpose
 The Equipment Borrowing Communication Form is used to track and manage the borrowing process of equipment within your organization. It allows users to request or offer equipment, and to communicate about the status and details of equipment loans.

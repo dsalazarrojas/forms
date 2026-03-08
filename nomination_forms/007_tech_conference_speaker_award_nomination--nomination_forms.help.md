@@ -1,11 +1,3 @@
-<thinking>
-
-**Internal reasoning:**
-
-This form is designed for nominating speakers for a tech conference. The form is intended to gather information about the speaker, their presentation, and the person nominating them. The fields should be filled in according to the provided explanations below.
-
-</thinking>
-
 # Tech Conference Speaker Award Nomination - Help Guide
 ## Purpose
 The Tech Conference Speaker Award Nomination form is used to nominate speakers for a tech conference. This form helps the conference organizers to discover emerging talent and recognize outstanding contributions to the tech industry. You can use this form to nominate a speaker that you believe has made significant contributions to the tech world.

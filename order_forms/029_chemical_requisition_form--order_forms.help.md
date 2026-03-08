@@ -1,7 +1,3 @@
-<thinking>
-This form is used by researchers and laboratory staff to request chemical requisitions from the chemical inventory manager. The form is typically used to request chemicals for specific projects or experiments, and requires detailed information about the chemicals needed, their quantities, and the purpose of use. To ensure accuracy and efficiency in the requisition process, it is essential to complete the form thoroughly and truthfully. Before filling out this form, please confirm that you have checked the existing inventory and that your supervisor has approved the request.
-</thinking>
-
 # Chemical Requisition Form - Help Guide
 ## Purpose
 This form is used to request chemicals for specific projects or experiments.

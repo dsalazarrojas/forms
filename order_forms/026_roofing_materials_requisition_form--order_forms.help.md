@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Roofing Materials Requisition Form - Help Guide
 ## Purpose
 The Roofing Materials Requisition Form is used to request roofing materials from a supplier. This form gathers information about the customer's needs and the supplier's contact details. The form helps to ensure that the supplier has all the necessary information to fulfill the material requisition.

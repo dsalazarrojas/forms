@@ -1,8 +1,3 @@
-<thinking>
-This is a help guide for the Film Production Assistant Onboarding Form. It is used to collect information about new production assistants and help them get started with the team. This form is intended to be filled out by new production assistants during their onboarding process. It is not meant to be filled out by team members who have already gone through onboarding.
-
-</thinking>
-
 # Film Production Assistant Onboarding Form - Help Guide
 ## Purpose
 This form is designed to collect essential information about new production assistants during their onboarding process. It helps the team to better understand their strengths, availability, and contact details, and to prepare them for their new role.

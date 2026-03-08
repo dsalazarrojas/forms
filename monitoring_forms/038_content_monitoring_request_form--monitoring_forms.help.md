@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from the user for monitoring specific content on various platforms. The form asks for the requester's contact information, the type and scope of the content to be monitored, the platforms to monitor, specific URLs, keywords, and other details related to the monitoring request. The form aims to provide a structured way to submit a monitoring request, ensuring that all necessary information is collected for efficient and effective monitoring. Please make sure to complete the form carefully to avoid duplication or incomplete requests.
-
-</thinking>
-
 # Content Monitoring Request Form - Help Guide
 ## Purpose
 This form is designed to collect information for monitoring specific content on various platforms. It is essential to complete this form accurately to ensure that your request is processed efficiently and effectively.

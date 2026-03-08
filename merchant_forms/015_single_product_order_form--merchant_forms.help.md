@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Single Product Order Form - Help Guide
 ## Purpose
 This form is designed to collect general information and payment details from customers when ordering a single product. It is intended for merchants to easily gather the necessary data to process orders efficiently.

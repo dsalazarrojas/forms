@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to be filled out by nonprofit employees who wish to apply for research fellowships. The form's purpose is to collect information about the applicant's proposal, research interests, and other relevant details. 
-The form ensures that the applicant's information is organized and structured in a way that is easy to review and evaluate by our team. 
-Before filling out this form, it's recommended that the applicant carefully review the form to ensure they are providing accurate and complete information.
-
-To fill out this form, the applicant should:
-
-- Select the correct options from the dropdown menus as accurately and completely as possible
-- Fill in all necessary text fields, such as proposal title, proposal details, candidate CV, and candidate details
-- Make sure to select the correct locations and research fellowship statuses
-- Enter the dates accurately for research fellowship duration, proposal deadline, and research start date
-
-Please note that some fields have specific instructions or requirements that should be followed carefully to ensure a smooth and accurate application process.
-
-</thinking>
-
 # NGO Research Fellowship Application Form - Help Guide
 ## Purpose
 

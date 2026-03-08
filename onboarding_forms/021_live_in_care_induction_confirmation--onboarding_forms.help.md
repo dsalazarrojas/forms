@@ -1,7 +1,3 @@
-<thinking>
-We are creating a form to collect information about the live-in care induction confirmation, which is a process where carers are inducted into a care provider agency. This form is designed to gather essential details from both the client and care agency/provider to ensure a smooth onboarding experience.
-</thinking>
-
 # Live In Care Induction Confirmation - Help Guide
 ## Purpose
 This form is used to collect confirmation from clients and care providers on the live-in care induction process. It ensures that all parties involved in the care induction process have acknowledged and completed their parts of the process.

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to enable nonprofit employees to request access to sensitive data. By filling out this form, employees can provide their contact information, role and department details, and specify the type of access they need to sensitive data. The form is designed to be completed by nonprofit employees, and the information collected will be used to evaluate their access requests and ensure that they have the necessary permissions to view restricted data.
-To avoid duplication of effort, please note that the form is not intended for general inquiries or other unrelated purposes. Please ensure that you have a legitimate need to access sensitive data before submitting this form.
-</thinking>
-
 # Nonprofit Data Access Request Form - Help Guide
 ## Purpose
 This form is designed for nonprofit employees to request access to sensitive data. By filling out this form, you can provide the necessary information to support your access request.

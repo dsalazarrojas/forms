@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to be used by nurses to document and track patient information related to infection control. It will help healthcare providers to monitor and manage patient conditions that may be indicative of a potential infection, such as bloodborne, urinary tract, and surgical site infections. The form will be used in conjunction with other medical records and reports to ensure that patient care is delivered efficiently and effectively. Please note that this form is not intended to replace any other established medical protocols or procedures, but rather as a supplementary tool for healthcare providers to use in their daily practice.
-
-</thinking>
-
 # Infection Control Checklist - Help Guide
 ## Purpose
 The Infection Control Checklist is a form used by nurses to document and track patient information related to infection control. This form helps healthcare providers to identify potential infection control issues and ensure prompt treatment.

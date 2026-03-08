@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for order management workflow, allowing users to collect information related to customer orders, including customer details, shipping address, order details, order status, order products, payment method, order notes, and order date.
-The form is intended for use in an internal system and does not have any affiliation with or derivation from other form platforms.
-The form has been created by AI using public metadata from surveys in the "order_forms" category.
-</thinking>
-
 # Order Management Workflow Form - Help Guide
 ## Purpose
 The "Order Management Workflow Form" is a digital form designed to collect and manage order-related information. It is intended for use in order management workflows, such as retail, e-commerce, or B2B environments.

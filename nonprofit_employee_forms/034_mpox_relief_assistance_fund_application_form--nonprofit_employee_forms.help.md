@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to assist individuals affected by the mpox relief program in applying for assistance. The form is designed to collect information about the applicant's situation, including medical expenses, lost wages, and other costs related to the mpox relief program. Please note that this form is not a substitute for actual medical or financial advice. If you are experiencing symptoms or difficulties related to mpox, please seek medical attention or consult a financial advisor for guidance.
-
-Before starting this form, please ensure that you have all necessary documentation and information ready. If you are seeking assistance for multiple family members, you may need to complete the form multiple times. This form is for informational purposes only and will not be used for any other purpose.
-
-This form will ask for your contact information and other demographic details. Please provide accurate and up-to-date information to ensure that your application is processed efficiently.
-
-Please note that the form is divided into several sections, and each section is designed to collect specific information. You will be asked to provide details about your medical expenses, lost wages, and other costs related to the mpox relief program. You will also be asked to provide information about your financial support and any other relevant details.
-
-Before submitting the form, please review all the information you have entered to ensure it is accurate and complete. If you have any questions or concerns, please do not hesitate to reach out to our team for assistance.
-
-</thinking>
-
 # mpox_relief_assistance_fund_application_form - Help Guide
 
 ## Purpose

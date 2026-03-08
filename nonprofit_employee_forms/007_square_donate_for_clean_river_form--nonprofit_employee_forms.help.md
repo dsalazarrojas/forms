@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals who want to contribute to a non-profit organization's mission, specifically to help clean rivers. The form will help track donations, frequency, and method of donation, as well as contact information and other relevant details. This guide is designed to ensure that end-users understand the purpose and requirements of the form.
-</thinking>
-
 # Square Donate For Clean River Form - Help Guide
 ## Purpose
 The Square Donate For Clean River Form is a tool to collect donations and track information from individuals who want to contribute to a non-profit organization's mission of cleaning rivers. This form is used to gather details about the donor, including their name, contact information, and donation preferences.

@@ -1,7 +1,3 @@
-<thinking>
-This form is a custom packaging tape order form used to collect information required for custom tape orders. The form will be used for customers to provide order details, shipping information, art work, customer shipping info, customer info, and payment details.
-</thinking>
-
 # Custom Packaging Tape Order Form - Help Guide
 ## Purpose
 This form is designed to collect all the necessary details for a custom packaging tape order, including order information, shipping details, art work, customer shipping info, customer info, and payment details.

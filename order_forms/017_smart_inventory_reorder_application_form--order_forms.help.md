@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to help users request reordering of inventory items. The form captures essential information from the user, including their details, item information, and preferences for reordering. The form is intended to be completed by customers or users when they need to reorder items from the inventory. It's possible that a user may need to reorder an item that is currently out of stock or has been cancelled. However, the form's primary function is for reordering purposes, not cancellation.
-
-This form will help the admin team to efficiently process and manage reorders, ensuring that the correct items are reordered and delivered to the customer in a timely manner. It's essential to fill out the form accurately to prevent any confusion or delays in the reordering process.
-
-Before starting, ensure that you are authorized to access and use this form. If you have any doubts or concerns, please reach out to your admin for clarification.
-</thinking>
-
 # Smart Inventory Reorder Application Form - Help Guide
 ## Purpose
 This form is designed to help users request reordering of inventory items. It captures essential information from the user, including their details, item information, and preferences for reordering. The form is intended for use by customers or users when they need to reorder items from the inventory.

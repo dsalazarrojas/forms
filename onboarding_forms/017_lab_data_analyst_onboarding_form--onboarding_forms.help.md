@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lab Data Analyst Onboarding Form - Help Guide
 ## Purpose
 The Lab Data Analyst Onboarding Form is intended to help new staff members onboarding into the laboratory team by collecting relevant information about their roles, departments, and contact details.

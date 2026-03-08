@@ -1,16 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Custom Packaging Order Form" that is clear, concise, and practical, I will first analyze the provided YAML fields to understand the form's purpose and requirements. The form appears to be a general order form for custom packaging services, asking for customer and order details. Upon further analysis, the form seems to be collecting various types of information, including:
-
-* Customer contact information (customer_info, customer_phone, customer_email)
-* Order details (order_details, order_date, order_time, order_note)
-* Packaging specifications and options (custom_packaging_specifications, custom_packaging_options)
-* Payment details (payment_details, payment_gateway)
-* Shipping address (shipping_address)
-
-The form appears to be flexible and adaptable to different customer needs.
-
-</thinking>
-
 # Custom Packaging Order Form - Help Guide
 ## Purpose
 The Custom Packaging Order Form is designed to collect customer and order information for custom packaging services. This form will help you create and manage custom packaging orders efficiently.

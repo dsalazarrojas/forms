@@ -1,7 +1,3 @@
-<thinking>
-To create this user-facing help guide, we need to understand the form's purpose and fields. The form is for registering a company's or entity's monitoring status, which seems to be related to treasury compliance monitoring. This form is likely used by internal personnel or external partners to collect relevant information about the entities being monitored. The fields appear to be a mix of basic contact information and monitoring details. We should ensure that the form is easy to understand and fill out for the end-user.
-</thinking>
-
 # Treasury Compliance Monitoring Registration Form - Help Guide
 ## Purpose
 This form is used to register a company's or entity's monitoring status for treasury compliance purposes. Please fill out this form to provide the required information to monitor the entity's compliance status.

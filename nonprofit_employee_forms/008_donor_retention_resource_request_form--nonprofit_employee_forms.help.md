@@ -1,15 +1,3 @@
-<thinking>
-This form is for donors to request resources from the nonprofit organization. The purpose of this form is to gather information from donors about their resource needs, such as financial support, volunteer opportunities, or expert advice. This form helps the nonprofit understand the donor's requirements and allocate resources effectively.
-
-The form is divided into sections that guide the donor through the process of requesting resources. It ensures that the required information is collected in a structured manner, making it easier for the nonprofit to process and respond to the requests efficiently.
-
-The form is designed to be completed by the donor in a few simple steps, reducing the burden on them. Each section is self-explanatory and helps the donor to provide the necessary information without any confusion.
-
-The fields in the form are carefully designed to collect the necessary information to process the request.
-
-Before proceeding, please ensure you have reviewed the provided fields carefully and understood their purpose.
-</thinking>
-
 # Donor Retention Resource Request Form - Help Guide
 ## Purpose
 The Donor Retention Resource Request Form is a tool designed to help donors request various resources from the nonprofit organization. This form collects information about the donor's needs, allowing the nonprofit to allocate resources effectively and respond to the requests in a timely manner.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect demographic information from individuals who are widows or widowers. This form will help us to gather data on their personal details, such as their name, contact information, and professional affiliations. Before proceeding, please ensure that you are registering as a widow or widower and not as an organization or other type of entity. If you are unsure, please contact our support team for assistance.
-</thinking>
-
 # Widows And Widowers Registration - Help Guide
 ## Purpose
 The Widows And Widowers Registration form is designed to collect information from individuals who are widows or widowers. This form will help us to keep your contact information and professional details up to date.

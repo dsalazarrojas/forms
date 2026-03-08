@@ -1,6 +1,3 @@
-<thinking>
-This form seems to be a reference form for travel nurses, which is used to gather information about a travel nurse's reference information, such as their name, contact details, reference type, start and end dates, hours worked, and comments. This form is likely used for administrative purposes, perhaps for record-keeping or reporting requirements. There is no explicit indication that this form is meant for any specific industry or business context, so I'll assume it's a general travel nurse reference form. I'll design the user guide based on this assumption.</thinking>
-
 # Travel Nurse Reference Form - Help Guide
 ## Purpose
 The Travel Nurse Reference Form is used to collect information about a travel nurse's reference details for record-keeping and reporting purposes.

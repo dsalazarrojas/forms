@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for users who need to complete the direct debit authorization form. Before proceeding, please ensure you have the necessary information and permissions to complete this form. This form is for authorization purposes only and should not be used for actual transactions. Please note that some fields may be required or optional based on your specific use case.
-</thinking>
-
 # direct_debit_authorization_form - Help Guide
 ## Purpose
 The direct debit authorization form is used to set up and manage direct debit authorizations for customer accounts. This form collects necessary information for creating and updating direct debit authorizations.

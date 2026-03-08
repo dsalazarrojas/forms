@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to allow new employees to upload relevant documents necessary for onboarding, such as resumes, onboarding documents, proof of address, and other documents. This form is designed to simplify the process of collecting and storing employee documents in a centralized location.
-
-Before proceeding, please ensure that you have the necessary permissions and authority to upload these documents. If you're not sure, check with your HR representative or supervisor to verify.
-
-To complete this form, you will need to upload each of the required documents for onboarding.
-
-</thinking>
 # new employee document upload - Help Guide
 ## Purpose
 The purpose of this form is to collect onboarding documents from new employees, including resumes, onboarding documents, proof of address, and other documents.

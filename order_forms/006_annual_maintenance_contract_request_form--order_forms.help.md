@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed for customers or clients who are seeking maintenance services for their facilities. The Annual Maintenance Contract Request Form is used to gather information about the customer's facility, their contact information, and the specific services they require. The form aims to streamline the maintenance request process and ensure that all necessary details are collected to provide the best possible service. To prevent duplication of effort, it's essential that the form is filled out completely and accurately to ensure that our technicians have a clear understanding of the customer's needs.</thinking>
-
 # Annual Maintenance Contract Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers seeking annual maintenance services for their facilities. Please fill out this form to help us understand your maintenance needs and preferences.

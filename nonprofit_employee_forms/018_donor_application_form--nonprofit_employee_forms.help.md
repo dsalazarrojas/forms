@@ -1,5 +1,3 @@
-<thinking>Nonprofit Employee Forms are used to collect information from donors and other individuals who are interested in supporting the nonprofit organization. This form is designed to be filled out by those who want to donate their time, money, or resources to support the nonprofit's mission. It's crucial to fill this form out accurately and completely to ensure that the organization can process the application correctly and make informed decisions about the donor's involvement. This form is used internally by the nonprofit staff to assess and follow up with potential donors.</thinking>
-
 # Donor Application Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from individuals or organizations interested in supporting the nonprofit organization through donations, volunteering, or other forms of support.

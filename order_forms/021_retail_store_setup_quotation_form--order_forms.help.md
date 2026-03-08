@@ -1,8 +1,4 @@
-> <thinking>
-This form is designed for store employees to collect information and quotations from vendors and store customers. The form is used to gather details about store setup, vendor information, vendor quotes, and store quotes. This form is intended to be used by store employees to collect and organize the data in a structured format. This form should not be used for any other purpose other than what is described in the documentation. 
-</thinking>
-
-# Retail Store Setup Quotation Form - Help Guide
+> # Retail Store Setup Quotation Form - Help Guide
 ## Purpose
 The Retail Store Setup Quotation Form is a tool used by store employees to collect and organize data from vendors and customers.
 

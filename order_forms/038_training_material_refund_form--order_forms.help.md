@@ -1,7 +1,3 @@
-<thinking>
-To ensure this form is completed correctly and consistently with our refund policy, it's essential to understand the purpose and requirements of the "Training Material Refund Form". This form is designed to handle refund requests for training materials, so please only submit a request if you have actually received a training material and are requesting a refund due to a valid reason. Please note that submitting a refund request without a valid reason will not be processed. Also, please ensure you haven't already submitted a refund request for the same order or material, as this will be considered a duplicate request. Please make sure to fill out the form accurately with the required information to avoid any processing issues.
-</thinking>
-
 # Training Material Refund Form - Help Guide
 ## Purpose
 The "Training Material Refund Form" is used to request a refund for training materials that have been received but not used or found to be unsuitable. If you have a valid reason for requesting a refund, please fill out this form accurately to initiate the refund process.

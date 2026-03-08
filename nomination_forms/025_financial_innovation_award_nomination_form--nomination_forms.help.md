@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to allow users to nominate individuals or teams for the Financial Innovation Award. The purpose of this form is to collect relevant information about the nominee, including their name, organization, and position, as well as their contribution to the field of financial innovation. This information will be used to evaluate the nomination and potentially award the nominee. To avoid duplication of efforts, please ensure that you are not nominating the same person for the same award.
-
-</thinking>
-
 # Financial Innovation Award Nomination Form - Help Guide
 
 ## Purpose

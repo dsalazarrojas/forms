@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information about an inventory lot, allowing users to assess its attributes such as type, condition, quantity, value, and more. The form is likely used in an inventory management system, where the goal is to accurately categorize and track the lot's characteristics.
-
-This guide should cover the basic information needed to fill out the form, but it's essential to review the form's schema and ensure it's not redundant or unnecessary. The fields should be self-explanatory and clear in their intent.
-
-</thinking>
-
 # Inventory Lot Assessment Form - Help Guide
 ## Purpose
 

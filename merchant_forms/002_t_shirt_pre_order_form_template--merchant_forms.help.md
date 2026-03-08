@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the T Shirt Pre Order Form Template, I'll first check for the form's purpose and ensure that it's not duplicating any existing help guides. This form appears to be a template for collecting information from customers about their T-shirt pre-order preferences. The form seems to be designed to collect basic contact information (first name, last name, email, and phone number) and specific order details (T-shirt size, color, and order date). This form might be used by merchants or businesses to collect data for their pre-order process. I'll now create the help guide based on this understanding.
 
 # T Shirt Pre Order Form Template - Help Guide

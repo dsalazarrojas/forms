@@ -1,7 +1,3 @@
-<thinking>
-A Nursing Assessment Form is used to gather information about a patient's symptoms, medical history, and other relevant details to help healthcare providers make informed decisions about the patient's care. This form is often used in clinical settings, such as hospitals, clinics, and long-term care facilities. Before proceeding, please ensure that this is the correct form for your specific use case and that you are not duplicating effort. This form is intended to be a general guide for most use cases. If you have a custom use case, please consult with your local authorities for more specific guidance.
-</thinking>
-
 # Nursing Assessment Form - Help Guide
 ## Purpose
 The Nursing Assessment Form is a tool used to collect essential information about a patient's health status. It helps healthcare providers assess the patient's symptoms, medical history, and other relevant factors to determine the best course of action for their care.

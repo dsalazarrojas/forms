@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a funding request from a nonprofit organization. This form is used to evaluate the request and determine if it meets the necessary criteria for funding. It's essential to ensure that the form is filled out correctly to provide accurate and complete information.
-
-Before proceeding, please note that this form is not a duplicate of any other form, and it's not meant for any other purpose. This form is specifically designed for evaluating funding requests from nonprofit organizations.
-
-The fields on this form are designed to collect specific information about the funding request. Please make sure to fill out each field correctly to ensure that your request is thoroughly evaluated.
-
-</thinking>
-
 # Funding Evaluation Form - Help Guide
 ## Purpose
 The Funding Evaluation Form is a tool used to gather information about a funding request from a nonprofit organization. This form helps evaluate the request to determine if it meets the necessary criteria for funding.

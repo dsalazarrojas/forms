@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users to process their business card exchange kit order. This form is used to ensure that the user provides all necessary details for the order, including their business details, card specifications, shipping information, and any special instructions.
-
-To prevent duplication of effort, we only allow one order form to be processed at a time. If a user has already submitted an order, please contact support for assistance.
-
-The form collects personal and business contact information, card design options, and shipping details. The card specifications include card type, quantity, card stock type, finish type, and color printing options. The shipping information includes a mailing address, city, state, and zip code.
-
-This form is used to create a business card exchange kit order, which will be used for promotional and marketing purposes.
-
-</thinking>
-
 # Business Card Exchange Kit Order Form - Help Guide
 ## Purpose
 This form is designed to collect information for a business card exchange kit order. Please fill out the form carefully to ensure that all necessary details are provided.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather essential information from customers who want to pre-order products, allowing them to specify their preferred shipping method, payment method, and desired date for delivery. The form also captures customer contact information, product details, and other relevant data that will help in processing the order efficiently. This guide will help you understand what the form is for, how to fill it out, and what each field is used for.
-</thinking>
-
 # Product Pre Order Form - Help Guide
 ## Purpose
 The Product Pre Order Form is used to collect information from customers who want to pre-order products before they are available for immediate purchase. This information includes their contact details, shipping and payment preferences, and product-specific information.

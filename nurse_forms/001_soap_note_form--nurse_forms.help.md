@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a patient's medical history and treatment, specifically for recording notes from medical providers (e.g., nurses, physicians, or others). The form appears to be used for documenting patient information in a comprehensive and structured manner. Given the fields included, it seems that this form is intended for use in a clinical setting where patient data needs to be recorded accurately. Before proceeding, please ensure this is the correct form for your needs and that you have the necessary permissions to use it.
-</thinking>
-
 # Soap Note Form - Help Guide
 ## Purpose
 The Soap Note Form is designed to document a patient's medical information, including their name, medical provider's name, date and time of visit, patient condition, medical provider type, and other relevant details.

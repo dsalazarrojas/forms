@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information from sales staff members to ensure a smooth onboarding process. This form will likely be used by employees who are new to the organization or need to be onboarded as part of an existing team. The form fields are designed to capture essential details about the staff member, including their personal and professional information. The form is not intended for external use and is primarily used by internal teams for administrative purposes.
-</thinking>
-
 # Sales Staff Onboarding Form - Help Guide
 ## Purpose
 The Sales Staff Onboarding Form is used to collect information from sales staff members to facilitate the onboarding process.

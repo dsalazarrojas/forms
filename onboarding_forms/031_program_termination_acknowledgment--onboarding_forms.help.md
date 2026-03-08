@@ -1,7 +1,3 @@
-<thinking>
-This form is used to acknowledge the termination of a program. It is used to gather information about the participant's details, the date of termination, the reason for termination, and confirmation of the same. Before filling out this form, please ensure that you have the necessary permissions and approvals to do so. If the participant has already acknowledged the termination in a previous session, it is recommended to review their previous acknowledgment and ensure that the information is accurate and up-to-date.
-</thinking>
-
 # Program Termination Acknowledgment - Help Guide
 ## Purpose
 The Program Termination Acknowledgment form is used to document and confirm the termination of a participant's involvement in a program.

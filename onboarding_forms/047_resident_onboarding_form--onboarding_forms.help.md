@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to onboard new residents into an apartment complex. It collects personal and demographic information, emergency contact details, and lease-related data from the resident. The form is designed to be completed by the resident themselves, and its data will be used to populate the resident's profile in the complex's management system.
-
-To avoid duplication of effort and ensure that residents have the necessary information, this guide will provide clear instructions on how to complete the form accurately and efficiently.
-
-</thinking>
-
 # Resident Onboarding Form - Help Guide
 ## Purpose
 The Resident Onboarding Form is designed to collect essential information from new residents to facilitate a smooth transition into the apartment complex.

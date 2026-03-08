@@ -1,9 +1,3 @@
-<thinking>
-This guide is intended to help users understand how to fill out the Donor Thank You Letter Request Form.
-The purpose of this form is to gather information to create a personalized thank you letter for a donor.
-Before starting, ensure you have not submitted a similar request recently, as this form is meant to be used on a one-time basis.
-</thinking>
-
 # Donor Thank You Letter Request Form - Help Guide
 ## Purpose
 The Donor Thank You Letter Request Form is designed to collect information from donors to create a personalized thank you letter. This letter is a way to express gratitude to donors for their support and contributions to your organization.

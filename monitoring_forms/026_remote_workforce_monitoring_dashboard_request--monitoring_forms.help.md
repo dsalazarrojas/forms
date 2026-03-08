@@ -1,7 +1,3 @@
-<thinking>
-This form is used to create a new request for a remote workforce monitoring dashboard. The purpose of the form is to gather information about the dashboard request, including its title, category, description, assigned tool, form IDs, output file, and additional description. The form is designed to be completed by individuals who need to request a custom dashboard for monitoring a remote workforce. The form's fields are carefully crafted to ensure that the necessary information is captured in a clear and concise manner. Before completing this form, please ensure that you have all the required information and that you are not submitting a duplicate request. 
-</thinking>
-
 # remote_workforce_monitoring_dashboard_request - Help Guide
 ## Purpose
 This form is used to create a new request for a remote workforce monitoring dashboard. It is meant to collect essential details about the dashboard, such as its category, description, assigned tool, and output file, to ensure that the request is properly fulfilled.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Online Boutique Payment Form - Help Guide
 ## Purpose
 This form is designed to collect payment information from customers for online orders. It is a crucial step in the ordering process, ensuring that customers can securely provide their payment details.

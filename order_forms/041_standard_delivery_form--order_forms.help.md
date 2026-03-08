@@ -1,14 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Standard Delivery Form, we need to consider the following:
-
-* The form is used to capture details for delivering goods or services to customers.
-* It's essential to ensure that the form is completed correctly to avoid errors or miscommunication.
-* Each field should be explained to help users understand its purpose and how to fill it out correctly.
-
-The form includes 11 fields in total, each with different properties and types.
-
-</thinking>
-
 # Standard Delivery Form - Help Guide
 ## Purpose
 The Standard Delivery Form is designed to capture essential details for delivering goods or services to customers. This form helps in ensuring that all necessary information is provided to facilitate a smooth and efficient delivery process.

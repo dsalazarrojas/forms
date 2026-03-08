@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication and unnecessary work, please ensure that you have the necessary authority to place a banner requisition. This form is intended for requesting banners for events, promotions, or general advertising purposes. It is crucial to fill out the form accurately and thoroughly to ensure that your requirements are met.
-</thinking>
-
 # Banner Requisition Form - Help Guide
 ## Purpose
 The Banner Requisition Form is a tool used to request banners for various events, promotions, or general advertising purposes. This form collects essential information to ensure that your banner requirements are accurately met.

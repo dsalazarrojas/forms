@@ -1,8 +1,3 @@
-<thinking> 
-This form is for customers to provide their information and package choices for photography services. The form is used by the photography business to gather necessary details to provide quotes and schedule appointments. The form fields have been designed to be straightforward and easy to fill out. Please make sure to fill out the form accurately and thoroughly to ensure that the photographer can provide you with the best service.
-
-</thinking>
-
 # Kings and Queens Photography Order Form - Help Guide
 ## Purpose
 The kings-and-queens-photography-order-form is a simple order form designed for customers to provide their details and package choices for photography services.

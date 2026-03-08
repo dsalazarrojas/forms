@@ -1,7 +1,3 @@
-<thinking>
-Is this form a system upgrade quotation form? Yes, it is intended for a system upgrade quotation form. The form's fields and their types suggest that it collects information about a customer's upgrade intentions and preferences. The form likely aims to provide the customer with a quotation or offer for upgrading their system. The form's purpose could be to help the customer decide on an upgrade and potentially place an order for the upgrade.
-</thinking>
-
 # System Upgrade Quotation Form - Help Guide
 ## Purpose
 This form is designed to help you gather information about your system upgrade intentions and provide you with a quotation or offer for the upgrade.

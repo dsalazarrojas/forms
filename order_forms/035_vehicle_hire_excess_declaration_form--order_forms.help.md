@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information related to vehicle hire excess declarations, likely for insurance or administrative purposes. The form is meant to be completed by customers or vehicle hirers, and the fields included are meant to gather essential details about the vehicle being hired and the customer's declaration. It's essential to ensure that all necessary information is provided to avoid any potential issues or disputes during the hiring process.
-</thinking>
-
 # Vehicle Hire Excess Declaration Form - Help Guide
 ## Purpose
 This form is used to collect information about vehicle hire excess declarations. It's a critical document for customers or vehicle hirers to provide details about the vehicle being hired and their declaration. Please ensure all required fields are completed accurately to avoid any issues.

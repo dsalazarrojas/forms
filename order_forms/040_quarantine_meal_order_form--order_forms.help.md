@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to collect meal order information for patients or individuals in a quarantine setting. The form is likely used by healthcare professionals or authorized personnel to gather data on meal orders, which might include details on the type of food, quantity, and special requests. This form might be used in a hospital or a school setting, where meals are provided for patients or students in quarantine. The form is not intended to be a comprehensive meal planning system, but rather a simple tool to collect basic information on meal orders. This form might be used in conjunction with other systems or databases to track meal orders and nutritional information.</thinking>
-
 # Quarantine Meal Order Form - Help Guide
 
 ## Purpose

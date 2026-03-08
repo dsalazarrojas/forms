@@ -1,11 +1,3 @@
-<thinking>
-The form purpose is to collect information from clients who are requesting art services, such as custom illustrations, graphic design, portrait paintings, digital art, and logo creation. This form is essential for the company to understand the client's needs and preferences to deliver a tailored service. The form ensures that clients' requirements are accurately captured, and the company can proceed with their requested service. 
-
-To avoid duplication, it is recommended that clients fill out a separate form for each service they are requesting, as services may differ in scope and complexity.
-
-The form will guide the client through the process of providing essential details about their order, including their contact information, art service preference, project description, and payment method.
-</thinking>
-
 # Art Services Order Form - Help Guide
 ## Purpose
 The Art Services Order Form is a document used to collect information from clients for art services they are requesting. This form helps ensure that the company accurately captures the client's requirements for each service, allowing for efficient and high-quality service delivery.

@@ -1,7 +1,3 @@
-<thinking>
-This guide assumes the reader is familiar with the general concept of donation forms. The "donate_for_nature" form is meant to collect information from users on behalf of an organization's "nature" cause or initiative. This form is intended to be used for internal purposes, likely for the organization's records and reporting. To avoid duplication of effort, please ensure that only the "nature" team has access to this form for now.
-</thinking>
-
 # donate_for_nature - Help Guide
 ## Purpose
 The "donate_for_nature" form is a simple data collection tool used for internal purposes to track and record donations made to the organization's "nature" cause or initiative.

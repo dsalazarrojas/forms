@@ -1,14 +1,3 @@
-<thinking>
-This form is for requesting changes to e-commerce SEO (Search Engine Optimization) settings. The purpose of this form is to allow users to submit requests for modifications to their e-commerce site's SEO settings, such as changes to titles, descriptions, keywords, and other metadata. This form will be used by the e_commerce team to gather information about the requested changes and assign them to a suitable tool for processing.
-
-Before filling out this form, please ensure that you have a clear understanding of the requested changes and that you have not already submitted a similar request. This will help the team to efficiently process your request and minimize duplication of work.
-
-This form is not intended for emergency or urgent changes, but rather for planned and scheduled modifications. If you need to request an urgent change, please contact the e_commerce team directly.
-
-Please make sure to fill out the form completely and accurately to ensure that the team has all the necessary information to process your request.
-
-</thinking>
-
 # e_commerce_seo_change_request_form - Help Guide
 ## Purpose
 This form is used to request changes to e-commerce SEO settings, such as titles, descriptions, keywords, and other metadata.

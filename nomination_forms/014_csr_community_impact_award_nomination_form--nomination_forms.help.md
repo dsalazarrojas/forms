@@ -1,7 +1,3 @@
-<thinking>
-This help guide will be used to assist end-users in completing the CSR Community Impact Award Nomination Form. It's essential that this form is completed accurately and thoroughly to ensure the nominee's impact is effectively assessed and recognized. Before proceeding, please confirm that you've reviewed the nomination form carefully and understand the purpose of this guide. This form is not intended for personal nominations, and please ensure that you have the consent of the nominee before submitting their details.
-</thinking>
-
 # CSR Community Impact Award Nomination Form - Help Guide
 ## Purpose
 The CSR Community Impact Award Nomination Form is designed to recognize and acknowledge individuals or organizations that have made significant contributions to the community, promoting a better world for everyone.

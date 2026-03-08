@@ -1,34 +1,3 @@
-<thinking>
-We are creating a user-facing help guide for the "Hardware Evaluation Kit Request Form" form, which is used to request an evaluation kit from an internal system. The form is designed to collect information from the user to fulfill their request.
-The form is a multi-page form that collects the user's contact information, evaluation kit details, and shipping information. It is likely used in a business setting where evaluation kits are ordered and shipped to customers.
-To complete the form correctly, users should fill out all the required fields. This includes their name, email address, phone number, evaluation kit selection, delivery address, city, state, postal code, country, and follow-up information (if applicable).
-The form has a range of fields, including:
-* "First Name": The user's first name.
-* "Email": The user's email address.
-* "Phone Number": The user's phone number.
-* "Evaluation Kit Selection": The user must select one of the three options for the evaluation kit.
-* "Delivery Address": The user's delivery address.
-* "City": The city of the user's delivery address.
-* "State/Province": The state or province of the user's delivery address.
-* "Postal/Zip Code": The postal or zip code of the user's delivery address.
-* "Country": The country of the user's delivery address.
-* "Company": The user's company name (if applicable).
-* "Order Date": The date the order was made.
-* "Shipping Date": The date the order is expected to be shipped.
-* "Delivery Status": The status of the delivery (in stock, on order, or on production).
-* "Comments": Additional comments from the user (optional).
-* "Follow-up": Follow-up information (optional).
-* "Follow-up Date": The date of the follow-up (if applicable).
-* "Follow-up Status": The status of the follow-up (if applicable).
-* "Evaluation Kit Status": The status of the evaluation kit (approved, rejected, or pending).
-* "Evaluation Kit Notes": Additional notes about the evaluation kit.
-* "Evaluation Kit Requester": The person requesting the evaluation kit.
-* "Evaluation Kit Approver": The person approving the evaluation kit.
-* "Evaluation Kit Reviewer": The person reviewing the evaluation kit.
-* "Evaluation Kit Shipper": The person shipping the evaluation kit.
-* "Evaluation Kit Return Address": The address to return the evaluation kit.
-</thinking>
-
 # Hardware Evaluation Kit Request Form - Help Guide
 ## Purpose
 The "Hardware Evaluation Kit Request Form" is used to request an evaluation kit from an internal system. This form collects information about the user's contact details, evaluation kit selection, and shipping information to fulfill their request.

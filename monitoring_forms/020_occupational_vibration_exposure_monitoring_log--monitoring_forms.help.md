@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to collect information about occupational vibration exposure monitoring, which is crucial for maintaining employee safety and health in industries where vibration exposure can be a hazard. This form is likely used in conjunction with internal processes and procedures to ensure compliance with relevant regulations and standards. 
-To confirm, this form appears to be designed for use in a specific industry or organization, and its fields are mostly focused on job-specific information. I'll create a help guide based on this form's YAML configuration.
-</thinking>
-
 # Occupational Vibration Exposure Monitoring Log - Help Guide
 ## Purpose
 This form is used to record and monitor occupational vibration exposure in various industries. It helps in tracking and maintaining records of employee exposure to hazardous vibrations, which is vital for ensuring their safety and health.

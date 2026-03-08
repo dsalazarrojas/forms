@@ -1,7 +1,3 @@
-<thinking>
-This guide explains how to complete the Nonprofit Leadership Dinner RSVP form, which is designed to collect information from guests about their attendance and preferences for a leadership dinner event. The form is used by nonprofit organizations to plan and manage their events effectively. It's essential to understand that the form is intended for guests, not for event organizers or other stakeholders. Please complete the form carefully to ensure accurate and complete information.
-</thinking>
-
 # Nonprofit Leadership Dinner RSVP Form - Help Guide
 ## Purpose
 The Nonprofit Leadership Dinner RSVP form is designed to collect information about your attendance and preferences for a leadership dinner event hosted by a nonprofit organization.

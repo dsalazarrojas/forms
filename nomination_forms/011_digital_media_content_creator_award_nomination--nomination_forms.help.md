@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect nominations for the Digital Media Content Creator Award. This form is used by the award committee to gather information about a nominee, including their contact details, category, and submission details. To ensure accurate and non-duplicate submissions, please note that this form should only be filled out once per individual or team nomination. If you have previously submitted a nomination for the same person/team, it will not be accepted.
-</thinking>
-
 # Digital Media Content Creator Award Nomination - Help Guide
 ## Purpose
 The Digital Media Content Creator Award Nomination form is used to collect information about individuals or teams that are being nominated for the Digital Media Content Creator Award. This form is used by the award committee to review and evaluate nominations.

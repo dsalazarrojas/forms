@@ -1,8 +1,3 @@
-<thinking>
-This form is a tool for conducting interviews with nurses working in emergency rooms to gather information about their experience and responses to hypothetical scenarios. The purpose of this form is to collect data that can be used to evaluate the candidate's qualifications and fit for a position.
-Before proceeding with the form, please ensure that the nurse has a strong understanding of the questions being asked. This form should not be completed by anyone who does not have the necessary experience or knowledge to provide accurate and informed responses.
-</thinking>
-
 # ER Nurse Interview Form - Help Guide
 ## Purpose
 This form is a tool for conducting interviews with nurses working in emergency rooms to gather information about their experience and responses to hypothetical scenarios. The data collected will be used to evaluate the candidate's qualifications and fit for a position.

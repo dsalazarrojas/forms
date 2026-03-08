@@ -1,8 +1,3 @@
-<thinking>
-This form is used to process orders for CNC machine coolant. The form is used by customers to provide information about their order, including their name, email address, and phone number, as well as details about the coolant they need, such as type, brand, and concentration ratio. The form also collects information about the shipping address, machine compatibility, application type, materials being machined, and delivery urgency. The form requires the customer to select a payment method and preferred delivery date, and to provide any special instructions or additional comments. This information will be used to fulfill the order.
-
-The form is designed to be completed by customers to ensure that their orders are processed efficiently and accurately.</thinking>
-
 # CNC Machine Coolant Order Form - Help Guide
 ## Purpose
 This form is used to place an order for CNC machine coolant. It collects information about the customer, the coolant required, and the delivery details.

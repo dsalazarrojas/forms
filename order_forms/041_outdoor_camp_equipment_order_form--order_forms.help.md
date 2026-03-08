@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # outdoor_camp_equipment_order_form - Help Guide
 ## Purpose
 The outdoor camp equipment order form is used to collect customer information and order details for outdoor camp equipment. This form helps us understand what products the customer is interested in and what they need to know for delivery and communication purposes.

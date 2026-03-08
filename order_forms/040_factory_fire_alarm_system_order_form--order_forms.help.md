@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information for a Factory Fire Alarm System Order Form. The purpose of this form is to collect details from customers who are interested in ordering a fire alarm system for their factory site. The form requires minimal technical knowledge to complete, and the fields are designed to be self-explanatory.
-
-The form consists of 9 fields, each with a specific type and purpose. The form is not affiliated with or endorsed by any form platform, and is a original adaptation created by AI using public survey topic metadata. The form is released under CC BY 4.0, allowing users to use, modify, and even sell forms derived from it, as long as credit is given.
-
-Before proceeding, please note that this form is not a real form used in any production environment and is for demonstration purposes only.
-
-</thinking>
-
 # Factory Fire Alarm System Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers who are interested in ordering a fire alarm system for their factory site.

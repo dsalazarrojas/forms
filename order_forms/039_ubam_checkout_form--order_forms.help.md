@@ -1,12 +1,3 @@
-<thinking>
-We need to verify if the form purpose and required fields make sense based on the given YAML data. 
-- The form is called "UBAM Checkout Form". 
-- It seems to be a checkout form for an e-commerce platform, but it's not entirely clear what specific product or service is being sold or what kind of checkout experience this form is intended to facilitate. 
-- The form has fields for customer information (name, email, address, phone number), order details (order total, order date/time), payment method and status, and assigned staff member. 
-- Required fields are "Payment Method", "Order Status", "Assigned To" and "Payment Status". 
-- There may be an assumption or context that is not apparent in this information alone that could be used to clarify the purpose, but without additional context, we will need to focus on general information about the fields. 
-</thinking>
-
 # UBAM Checkout Form - Help Guide
 
 ## Purpose

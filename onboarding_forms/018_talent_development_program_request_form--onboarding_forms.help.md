@@ -1,35 +1,3 @@
-<thinking>
-We are creating a help guide for the talent development program request form. This form is used to request and track training programs for employees. The form is used to gather information about the employee, job title, job level, training type, training proposal, start and end dates, training duration, training frequency, trainer name, trainer email, training location, travel expense reimbursment, training funding, comments, submitter, approver, approver email, approver phone, approval date, approval status, approval reason, employee acknowledgement, and acknowledgement date.
-
-To ensure relevance, we will only include fields that are required and relevant to the form purpose. We will also avoid duplication of information and make sure that each field is explained clearly and concisely.
-
-This form is used by employees to request training programs and by approvers to track and manage these requests.
-
-The form has the following fields that need to be filled up:
-
-- Employee Name and Job Title
-- Job Level
-- Training Type (select one of the three options)
-- Start and End Date of the training
-- Training Frequency
-- Trainer Name and Email
-- Training Location
-- Reimbursment (optional)
-- Funding (optional)
-- Comments (optional)
-- Submitter (Employee, Manager, or Team Lead)
-- Approver (Employee, Manager, or Team Lead)
-- Approver's Email and Phone
-- Approval Date (optional)
-- Approval Status (select one of three options)
-- Approval Reason (optional)
-- Employee Acknowledgement (select one of three options)
-- Acknowledgement Date (optional)
-
-Note that some fields are required while others are optional, and some are select-one or select-many type fields.
-
-</thinking>
-
 # talent_development_program_request_form - Help Guide
 ## Purpose
 This form is used to request and track training programs for employees.

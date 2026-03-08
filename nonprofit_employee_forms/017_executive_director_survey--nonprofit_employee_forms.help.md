@@ -1,9 +1,3 @@
-<thinking>
-
-As the Executive Director Survey form is designed to collect information from executive directors in non-profit organizations, it's essential to ensure that each question aligns with the unique needs and goals of this specific role. This form is meant to gather insights into the executive director's leadership style, communication approach, management approach, employee satisfaction, and other areas of importance. To prevent duplication and ensure accurate representation of the executive director's thoughts, it's crucial to follow the guidelines and explanations provided below.
-
-</thinking>
-
 # Executive Director Survey - Help Guide
 ## Purpose
 The Executive Director Survey is designed to collect feedback and insights from non-profit executive directors, providing a comprehensive understanding of their leadership style, management approach, and other aspects that impact organizational performance. This survey will help non-profits gather valuable information to improve leadership development, communication, and overall organizational effectiveness.

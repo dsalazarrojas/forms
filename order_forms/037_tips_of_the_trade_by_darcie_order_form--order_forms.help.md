@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # tips_of_the_trade_by_darcie_order_form - Help Guide
 ## Purpose
 The "Tips of the Trade by Darcie Order Form" is used to collect information for a specific type of order. This form is typically used to capture details about a product or service ordered by a customer. The form is designed to be simple and easy to fill out, while ensuring that the required information is gathered accurately.

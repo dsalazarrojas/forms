@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect timecard submission information from users. 
-The form purpose is to ensure users submit accurate and complete timecards for their work hours, job details, agency and production team information. 
-Before filling out the form, please ensure that you haven't submitted timecard information for this time period before, as this form will not allow duplicate submissions.
-</thinking>
-
 # model_timecard_submission - Help Guide
 ## Purpose
 This form is used for submitting timecard information for your work hours, job details, agency, and production team.

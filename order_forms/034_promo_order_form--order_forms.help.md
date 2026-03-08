@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for collecting information related to promotions, specifically the details of orders. It will help users to provide accurate and relevant data for promotional purposes.
-</thinking>
-
 # Promo Order Form - Help Guide
 ## Purpose
 The Promo Order Form is designed to collect details about orders, including promotions. This form helps to gather information about the promotion name, image, price, currency, product name, order type, order date, order time, status, total, customer email, customer phone, order source, and other relevant details.

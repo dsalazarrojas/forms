@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to enable nonprofit organizations to collect necessary information from potential volunteers to facilitate their enrollment in volunteer opportunities. This form will help in streamlining the process of volunteer management and ensuring that all relevant information is collected in a consistent and organized manner.
-</thinking>
-
 # volunteer_opportunity_enrollment_form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is used for corporate clients to order catering services for events or personal occasions. The form is designed to gather all necessary information to provide accurate quotes and fulfill the client's needs. The form will likely be used for events that are not recurring, as the event date and time fields are optional and not required. This form should not be used for frequent or recurring orders, as it would be more suitable to use a different form for that purpose. Please fill out this form carefully to ensure accurate and complete information.
-
-</thinking>
-
 # Corporate Catering Menu Order Form Template - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for customers to provide detailed information about their cleaning needs for a specific property, including contact information, property details, service preferences, and quotation details. This form is likely designed for a cleaning services company to gather information from customers before providing a quote for their cleaning services. The purpose of this form is to collect relevant data and provide a clear and concise quote for the customer.
-</thinking>
-
 # Cleaning Service Quotation Form - Help Guide
 ## Purpose
 This form is designed to gather information from customers about their cleaning needs for a specific property. It is meant to help customers provide accurate details about their property and cleaning requirements, allowing the cleaning services company to provide a precise quote.

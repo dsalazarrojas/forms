@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Victoria's Personal Party Pack - Help Guide
 
 ## Purpose

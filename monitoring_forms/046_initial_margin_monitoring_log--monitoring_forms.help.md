@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to monitor the status of initial margin checks, allowing users to track and update the progress of these checks. It is likely used in a financial or accounting context, such as monitoring trades or transactions. The form may be used by financial professionals, such as traders or accountants, to track and report on the status of margin checks, including the margin amount, type, and status.
 
 </thinking>

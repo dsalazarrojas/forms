@@ -1,10 +1,3 @@
-<thinking>
-To create a helpful guide for users, I need to understand the form's purpose and the fields it contains. From the provided YAML, I see that the form is for a "Pet Rescue Adoption Application Form." It seems to be used by pet rescue organizations to gather information from potential adopters. The form collects contact information, pet details, and owner information. It also includes fields for emergency contact, adoption date, and signature. The adoption agreement field is a select_multiple type, suggesting it's a checklist of terms to be agreed upon. The form's purpose is likely to help the pet rescue organization assess the suitability of the applicant and ensure a smooth adoption process.
-
-Before creating the user-facing help guide, I will ensure that the form fields are not redundant and that the required fields are clear. I will also make sure to provide a concrete and practical explanation for each field. If any field labels seem unclear, I will provide a best-effort explanation without inventing unsupported business logic.
-
-</thinking>
-
 # Pet Rescue Adoption Application Form - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to be used by customers to place special orders for books at a bookstore. The form is intended to gather information about the customer, the book ordered, and the specifics of the order, including edition type, quantity, unit price, shipping method, and payment method. The form is likely to be used by the bookstore staff to process and fulfill the order accurately and efficiently. 
-
-The form is composed of 14 fields, including fields for customer information, book information, order specifics, and payment information. The form is designed to be user-friendly and easy to fill out, with clear and concise labels and hints for each field. Each field has a specific type and options to ensure that the customer provides accurate and consistent information. 
-
-The following fields are mandatory: Customer Name, Email Address, Order Date, Book Title, Book Author, Edition Type, Quantity Ordered, Unit Price, Total Price, Shipping Address, Shipping Method, and Payment Method. The other fields are optional but can provide additional context or instructions for the order. 
-
-Before proceeding with the form, please ensure that all mandatory fields are accurately filled out. If you're unsure about any field, refer to the field's label and hint for guidance. If you're still unsure, don't hesitate to contact the bookstore staff for assistance.
-</thinking>
-
 # Bookstore Special Edition Order Form - Help Guide
 ## Purpose
 This form is designed to be used by customers to place special orders for books at a bookstore. The form collects information about the customer, the book ordered, and the specifics of the order to ensure accurate and efficient processing.

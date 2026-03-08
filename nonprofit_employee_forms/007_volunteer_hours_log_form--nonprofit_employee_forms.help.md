@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of the "Volunteer Hours Log Form" is to collect information about volunteer hours worked by individuals. This form is used to track volunteer hours for internal record-keeping and reporting purposes. To ensure accurate and reliable data, please ensure that only one form is submitted per volunteer per day.
 
 Before starting, please note that this form is intended for single volunteer hours entries. If you need to log multiple volunteer hours for a single event, please create a separate entry for each day or session.

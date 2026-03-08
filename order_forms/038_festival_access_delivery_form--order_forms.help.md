@@ -1,11 +1,3 @@
-<thinking>
-
-To provide a clear and user-friendly help guide for the "festival_access_delivery_form" form, I'll analyze the form fields and purpose to create a concise and practical guide.
-
-The form purpose is likely to gather information for festival access delivery, which includes details about the festival attendee, ticketing, payment, and delivery preferences.
-
-</thinking>
-
 # festival_access_delivery_form - Help Guide
 ## Purpose
 The festival_access_delivery_form is used to collect information for festival access delivery, including attendee details, ticketing, payment, and delivery preferences.

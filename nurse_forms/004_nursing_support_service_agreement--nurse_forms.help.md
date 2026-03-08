@@ -1,7 +1,3 @@
-<thinking>
-Please note that the form purpose is to collect information from clients regarding their nursing support service requests and agreements. This form will help healthcare providers understand the client's needs and requirements, ensuring that the services are provided accordingly. The form has multiple sections to gather various types of information, such as client contact details, services needed, schedule requests, and agreements. The form is divided into different pages to make it more manageable and easy to fill out. Each field has been designed to cater to the specific needs of the healthcare services provided.
-</thinking>
-
 # Nursing Support Service Agreement - Help Guide
 ## Purpose
 This form is designed to collect essential information from clients regarding their nursing support service requests and agreements. It will aid healthcare providers in understanding the client's needs and requirements, ensuring that the services are provided accordingly.

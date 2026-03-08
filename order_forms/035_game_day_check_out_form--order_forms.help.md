@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure the form is only used for its intended purpose, i.e., to gather information for Game Day events. This form is not meant for general personal data collection or other unrelated purposes. We also want to make sure this form is not used as a template or for duplicate submissions. 
-</thinking>
 # Game Day Check Out Form - Help Guide
 
 ## Purpose

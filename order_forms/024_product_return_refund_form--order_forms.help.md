@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Product Return Refund Form", I will first consider the form's purpose and the fields included in the form. The form appears to be designed for customers to initiate a return or refund process for a product, and it includes various fields to gather relevant information about the customer, product, and return details.
-
-Before proceeding, I will ensure that this guide is concise and practical, focusing on the essential steps and explanations for the end user to complete the form accurately and efficiently. I will also avoid unnecessary details and business logic that may not be relevant to the user's experience.
-
-</thinking>
-
 # Product Return Refund Form - Help Guide
 ## Purpose
 

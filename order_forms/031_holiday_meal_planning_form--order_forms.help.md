@@ -1,9 +1,3 @@
-<thinking>
-This help guide will guide users through the "Holiday Meal Planning Form" which aims to collect preferences and details for holiday meals. This form is designed to be completed by hosts/guests to provide essential information for planning holiday events. It ensures that the host can plan and execute a successful and enjoyable event for all attendees.
-
-The form is divided into multiple sections, each containing different fields that cater to various aspects of the event.
-</thinking>
-
 # Holiday Meal Planning Form - Help Guide
 
 ## Purpose

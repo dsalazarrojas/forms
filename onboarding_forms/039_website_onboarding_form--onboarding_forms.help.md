@@ -1,6 +1,3 @@
-<thinking>**Internal Note:**
-This form is part of a general onboarding process for a website. Its purpose is to collect information from new customers, providing an entry point for them to provide their basic contact information and other details that are necessary for the website's functionality and operations. It should not be used for duplicate customer onboarding, and users should ensure that they are not already registered before filling out this form.</thinking>
-
 # website_onboarding_form - Help Guide
 ## Purpose
 The **website_onboarding_form** is designed to collect basic contact information and other essential details from new customers to facilitate their onboarding process on our website.

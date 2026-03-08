@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for customers to pre-order their Halloween nails. It's a collection of fields that allow users to specify their preferences for nail design, color, size, and quantity. The form is designed to be simple and easy to use, with clear labels and options for each field. The form is not intended for internal use, so there's no need for any internal reasoning or logic checks.
-</thinking>
-
 # Halloween Nail Pre Order Form - Help Guide
 ## Purpose
 This form is designed for customers to pre-order their Halloween nails, allowing them to choose from a variety of options such as nail theme, design, size, and color.

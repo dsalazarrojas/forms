@@ -1,7 +1,3 @@
-<thinking>Before creating the help guide, I need to understand the form's purpose and how it will be used. Based on the provided YAML fields, it seems that the form is for referring a patient to an external agency for home health services. This form is likely used by healthcare professionals to gather necessary information about the patient and their condition before making a referral.
-
-To ensure the form is not duplicated, I'll check with the healthcare team if this is the case. Let's assume it is, and I'll proceed with creating the help guide.</thinking>
-
 # Home Health Referral Form - Help Guide
 ## Purpose
 

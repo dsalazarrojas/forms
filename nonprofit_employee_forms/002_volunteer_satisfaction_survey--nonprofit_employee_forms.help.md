@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gauge the satisfaction of volunteers with our projects. It should be filled out by volunteers after they have participated in or interacted with our organization's projects. The purpose of this form is to gather feedback and comments from volunteers to help us understand how we can better support them and improve our project outcomes. Before creating this form, we have considered existing forms and surveys, and we are not duplicating efforts in this instance.
-</thinking>
-
 # Volunteer Satisfaction Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from volunteers after they have participated in or interacted with our projects. This will help us understand their satisfaction and experiences, allowing us to make improvements and provide better support.

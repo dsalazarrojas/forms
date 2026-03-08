@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information on conservation easement monitoring data. The purpose of this form is to gather detailed information on the monitoring visit, including report date, year, and details about the easement's property, landowner, and condition of conservation values. The form is used for internal record-keeping and may be used for reporting purposes. 
-This form is a one-time data collection form. It should not be used to collect ongoing monitoring data.
-</thinking>
-
 # Conservation Easement Monitoring Report - Help Guide
 
 ## Purpose

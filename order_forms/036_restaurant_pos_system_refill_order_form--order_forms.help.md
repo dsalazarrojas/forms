@@ -1,14 +1,3 @@
-<thinking>
-This form is used for refilling orders for the restaurant's POS system. The primary purpose of the form is to provide a clear and organized way for users to input details about the order that needs to be refilled. The form's purpose is likely to streamline the process of refilling orders, reduce errors, and improve overall efficiency. 
-
-The form is designed to be simple and user-friendly, with clear labels and instructions for each field. However, to confirm, I will review each field to ensure that the labels are clear and concise. 
-
-After reviewing the form, I have noticed that the "required" field is set to false for all fields, which means that users can input any information they want in each field without any specific constraints. However, in practice, it is recommended to make "product name", "quantity", and "price" fields required for the form to be effective. 
-
-This form has a single page with the following fields: Order Details, product name, quantity, price, date. The "Order Details" field is a free-text field where users can input any information they want. The "product name" field is a dropdown menu with three options: Option 1, Option 2, and Option 3. The "quantity" and "price" fields are numeric fields where users can input any positive or negative numbers. The "date" field is a date field where users can input a date in the format of MM/DD/YYYY.
-
-</thinking>
-
 # Restaurant POS System Refill Order Form - Help Guide
 ## Purpose
 This form is used for refilling orders for the restaurant's POS system. The primary purpose of the form is to provide a clear and organized way for users to input details about the order that needs to be refilled.

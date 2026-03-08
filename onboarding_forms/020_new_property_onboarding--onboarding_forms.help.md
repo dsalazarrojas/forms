@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used for onboarding new properties. It collects basic information about the property's check-in time, phone number, and other details. This form helps ensure that the property's information is accurate and up-to-date.
-
-The purpose of this form is to simplify the onboarding process for new properties, making it easier for administrators to input necessary details in one place. The form should be filled out by the property owner or their representative, and it's essential that they have the necessary information and permissions to complete the form accurately.
-
-Before starting, please ensure that you have the correct permissions to access this form and that you're filling it out for the correct property. If you're unsure, please reach out to your administrator for clarification.
-
-</thinking>
-
 # new_property_onboarding - Help Guide
 ## Purpose
 The new_property_onboarding form is used to collect basic information about new properties during the onboarding process.

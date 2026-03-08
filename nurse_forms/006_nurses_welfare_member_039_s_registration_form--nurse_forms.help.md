@@ -1,7 +1,3 @@
-<thinking>
-  This form is used for registering new members for the Nurses Welfare organization. Before filling out this form, ensure that you are eligible for membership and that your details are accurate. Please note that this form is not intended for current members who are renewing their membership. If you have previously registered with us, please contact us to confirm your status and avoid duplication of effort.
-</thinking>
-
 # Nurses Welfare Member's Registration Form - Help Guide
 ## Purpose
 The Nurses Welfare Member's Registration Form is designed to collect information from new members wishing to join the Nurses Welfare organization. This form is meant for individuals who are interested in becoming part of our community and receiving its benefits.

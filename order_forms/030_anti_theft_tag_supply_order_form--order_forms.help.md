@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Anti Theft Tag Supply Order Form - Help Guide
 
 ## Purpose

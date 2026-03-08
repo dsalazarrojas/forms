@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for customers to provide information about their automotive part delivery, including order details, customer information, delivery address, parts information, delivery details, and condition and signature. This form is crucial for ensuring that deliveries are made correctly and that customers are satisfied with the service. It's essential that this form is completed accurately to prevent mistakes and misunderstandings. Before proceeding, please review the form carefully and ensure that you have all the necessary information required to complete it.
-
-</thinking>
-
 # Automotive Part Delivery Form - Help Guide
 ## Purpose
 This form is used to gather essential information about your automotive part delivery, including order details, customer information, delivery address, parts information, delivery details, and condition and signature.

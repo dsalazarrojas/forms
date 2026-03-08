@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Car Rental Intake Form is used to collect essential information from customers for car rental purposes. This form is used to ensure that customers are 21 or older, have a valid driver's license, and understand their rental details. The form collects personal information, rental details, and preferences for the rental period. 
 
 </thinking>

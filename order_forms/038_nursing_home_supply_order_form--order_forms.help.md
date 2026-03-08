@@ -1,22 +1,3 @@
-<thinking>
-This form is designed to help nursing home administrators and caregivers create, review, and manage supply orders for the facility. The form will be used to select items for purchase, update inventory, and track orders. It's essential to ensure that each item is accurately selected and ordered to meet the facility's needs. Before proceeding, please note that this form is meant for internal use only, and any sensitive information should not be shared with external parties.
-
-Please ensure that each item is carefully chosen to prevent errors and maintain accuracy in the ordering process.
-
-After filling out the form, please review your selections carefully to avoid duplicate or unnecessary orders.
-
-This form is meant to be used for the following purposes:
-Order supplies for the nursing home's daily operations
-Track the status of orders
-Update the inventory list
-Review and confirm orders before submission
-
-This guide will walk you through each section of the form, so you can complete it accurately and efficiently.
-
-Please let me know if you have any questions or concerns about using this form.
-
-</thinking>
-
 # nursing_home_supply_order_form - Help Guide
 ## Purpose
 This form is designed to help nursing home administrators and caregivers create, review, and manage supply orders for the facility.

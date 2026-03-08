@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We are creating a user-facing help guide for the "Smart Meter Remote Monitoring Consent Form" under the "monitoring_forms" category. This form is designed to obtain consent from customers for remote monitoring of their smart meters. Its purpose is to inform customers about the monitoring process, its benefits, and their rights. The form should be completed by customers to indicate their willingness to participate in the remote monitoring program.
 
 # Smart Meter Remote Monitoring Consent Form - Help Guide

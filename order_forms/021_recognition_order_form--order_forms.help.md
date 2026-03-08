@@ -1,9 +1,3 @@
-<thinking>
-The purpose of the Recognition Order Form is to collect information about employee awards and recognition orders from management. 
-The form is used to create a formal recognition order with details such as employee name, department, award type, date of award, reason for award, nominees, and other relevant information.
-When filling this form, please ensure that you are not duplicating existing orders or awards. Check the employee's current status and ensure that the recognition order is not already in progress.
-</thinking>
-
 # Recognition Order Form - Help Guide
 ## Purpose
 This form is used to create a formal recognition order with all the necessary details. It is essential to provide accurate information to ensure a smooth process.

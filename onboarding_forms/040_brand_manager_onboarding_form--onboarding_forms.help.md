@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Brand Manager Onboarding Form - Help Guide
 ## Purpose
 This form is designed to gather information from new Brand Managers to help us onboard them efficiently and effectively. Please complete this form to provide us with the necessary details to start your onboarding process.

@@ -1,11 +1,3 @@
-<thinking>
-This form is used for customers to nominate their colleagues for a customer service award. It is designed to gather information about the nominee, the nominator, and the submission details. To ensure accurate nominations and avoid duplication, it's essential to review the submission carefully before submitting.
-
-Please note that this form requires specific information from both the nominator and nominee, including names, titles, and contact details. Make sure to fill out all required fields accurately and truthfully.
-
-Before submitting, double-check the submission date, time, and status fields, as they are optional but crucial for tracking and review purposes.
-</thinking>
-
 # Customer Service Award Nomination - Help Guide
 ## Purpose
 The Customer Service Award Nomination form is used to nominate colleagues for a customer service award. It allows you to recognize and appreciate outstanding service provided to customers.

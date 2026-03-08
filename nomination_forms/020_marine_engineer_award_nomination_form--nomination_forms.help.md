@@ -1,9 +1,3 @@
-<thinking>
-
-We're creating a help guide for the Marine Engineer Award Nomination Form. The purpose of this form is to collect information and nominations for the Marine Engineer Award, which recognizes the outstanding contributions and achievements of individuals in the field of marine engineering. Before proceeding, please ensure that the nomination is not a duplicate and that the information is accurate and up-to-date.
-
-</thinking>
-
 # marine_engineer_award_nomination_form - Help Guide
 ## Purpose
 The Marine Engineer Award Nomination Form is designed to collect nominations for individuals who have made significant contributions to the field of marine engineering. Please fill out this form to submit your nomination.

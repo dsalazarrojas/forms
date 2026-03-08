@@ -1,13 +1,3 @@
-<thinking>
-This form appears to be a game order form with optional paysafe and payment method fields. However, without further information about the game and its business context, the provided fields seem unclear. For the sake of this example, I will assume the form is for ordering games with optional payment methods like "Paysafe".
-
-The form has multiple pages but only a single page is visible as per the provided YAML fields, suggesting that this may be an incomplete or draft configuration.
-
-This form appears to be designed for users to enter game details and payment information. However, the game details seem limited to game name, player name, and game version. The payment section includes options for "Paysafe" and the method type.
-
-The purpose of this form is not explicitly stated, but it seems to be for users to create game orders with optional payment methods.
-</thinking>
-
 # Game Order Form With Paysafe - Help Guide
 ## Purpose
 This form is for users to create game orders with optional payment methods.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # safety_data_sheet_binder_order_form - Help Guide
 
 ## Purpose

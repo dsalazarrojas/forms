@@ -1,10 +1,3 @@
-<thinking>
-We're creating a user-facing help guide for the Employee Job Shadow Program Application Form. This form is used for employees to apply for the job shadow program, which allows them to observe and learn from experienced employees in various departments. The form is designed to gather information from employees who are interested in participating in the program. To ensure that employees only apply once, we'll be checking for duplication of submitted forms.
-
-The form consists of multiple sections, each focusing on different aspects of the job shadow program. Employees will be able to provide their personal information, job shadow preferences, and other relevant details. Some fields are optional, but providing accurate and complete information will help us better understand their needs and preferences.
-
-Before filling out this form, please note that some fields are designed to collect specific information that will help us tailor the job shadow experience to your needs. If you have any questions or concerns, please don't hesitate to reach out to us.</thinking>
-
 # Employee Job Shadow Program Application Form - Help Guide
 ## Purpose
 The Employee Job Shadow Program Application Form is used to apply for the job shadow program, which allows employees to observe and learn from experienced employees in various departments.

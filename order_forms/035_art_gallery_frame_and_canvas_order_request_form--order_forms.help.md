@@ -1,8 +1,3 @@
-<thinking>
-This form is used by customers to request a quote for framing an artwork at an art gallery. The form collects customer information, artwork details, order specifications, and delivery preferences. The goal is to ensure that the customer's artwork is properly framed and delivered according to their requirements.
-The form is designed to be completed by the customer, and the information will be used to generate a quote for the customer. The form is not for internal use, and the information will not be stored on the gallery's system, so it is recommended that the customer carefully review their submission before sending it.
-</thinking>
-
 # Art Gallery Frame And Canvas Order Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers to request a quote for framing an artwork at our gallery. Please follow the instructions below to complete the form accurately.

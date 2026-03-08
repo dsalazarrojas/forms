@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about an invoice, such as company details, contact information, payment terms, and payment method. This form is likely used for business-to-business or business-to-consumer transactions. The form should be completed by the company or business being invoiced. The form's fields should not be filled out if the company is not providing a service or goods to the business being invoiced.
-</thinking>
-
 # Invoice Information Collection Form - Help Guide
 ## Purpose
 The Invoice Information Collection Form is a tool used to gather essential details from a company or business being invoiced. It helps to ensure accurate and complete information is exchanged between the parties involved.

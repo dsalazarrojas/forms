@@ -1,8 +1,3 @@
-<thinking>
-This form is for general vendor information management and maintenance. It is intended for vendors with basic contact information and no specific business or financial details. This form does not collect any sensitive or personal information and is not related to sensitive data collection.
-This form is not intended for financial information, business operations, or other high-risk or high-sensitivity data.
-</thinking>
-
 # vendor_maintenance_form - Help Guide
 ## Purpose
 The vendor_maintenance_form is designed to collect basic vendor contact information for general maintenance and communication purposes.

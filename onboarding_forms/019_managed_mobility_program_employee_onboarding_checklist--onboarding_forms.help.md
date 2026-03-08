@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for end-users who are filling out the Managed Mobility Program Employee Onboarding Checklist form. This form is used to onboard employees to the managed mobility program, which likely refers to a program designed to help employees work from anywhere, remotely. However, without further context, it's difficult to say with certainty what the program entails exactly. The form has multiple fields that require input from the employee, including employee information, mobility program access, and other details. This guide will walk the user through each field in a step-by-step manner, explaining what information is required and what the purpose of each field is.
-</thinking>
-
 # Managed Mobility Program Employee Onboarding Checklist - Help Guide
 ## Purpose
 The Managed Mobility Program Employee Onboarding Checklist is a form used to onboard employees to the managed mobility program. This program is designed to provide employees with the flexibility to work from anywhere, and this form ensures that all necessary details are collected for program management.

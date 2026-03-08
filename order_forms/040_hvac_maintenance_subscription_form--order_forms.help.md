@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I'll first need to understand the form's purpose and the fields it contains. Based on the provided YAML, it appears that this form is for customers to subscribe to HVAC maintenance services. The form collects various types of information from the customer, including their contact and payment details, maintenance schedule, and service preferences. I will now create a concise and practical help guide for the users.
-
-</thinking>
-
 # HVAC Maintenance Subscription Form - Help Guide
 ## Purpose
 The HVAC Maintenance Subscription Form is designed for customers to subscribe to various HVAC maintenance services provided by a company. This form helps to collect the necessary information from customers, including their contact details, payment preferences, and service requirements.

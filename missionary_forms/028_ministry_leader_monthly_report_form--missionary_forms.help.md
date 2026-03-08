@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, I want to ensure I understand the form's purpose and its components. This form appears to be a report submission form used by ministry leaders to provide information about their monthly activities, finances, and other relevant details. Each page has a different section, and the fields are a mix of text, number, note, email, and text input types. I will now create a help guide based on this information.</thinking>
-
 # Ministry Leader Monthly Report Form - Help Guide
 ## Purpose
 The Ministry Leader Monthly Report Form is designed to gather information from ministry leaders on their monthly activities, finances, and other relevant details. This form helps the organization track and analyze the progress and performance of its ministry leaders.

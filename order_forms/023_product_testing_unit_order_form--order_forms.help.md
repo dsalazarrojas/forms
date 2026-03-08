@@ -1,6 +1,3 @@
-<thinking>
-This form is for ordering testing units for products. It likely belongs to a business or organization that offers testing and verification services for products. The form may be used internally or externally to streamline the ordering process and gather necessary information from customers or testers. The form is likely a part of a larger system for managing product testing, and its purpose is to capture relevant details about the product, the testing process, and the customer or tester involved.</thinking>
-
 # Product Testing Unit Order Form - Help Guide
 ## Purpose
 The Product Testing Unit Order Form is used to order testing units for products. This form collects essential information from customers or testers to facilitate the testing process.

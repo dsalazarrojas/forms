@@ -1,13 +1,3 @@
-<thinking>
-This form is used for users to provide payment information for invoices. It is intended for users to enter their name, email address, phone number, payment method, amount paid, and payment date. This form will collect all necessary information to process payments efficiently and effectively.
-
-Upon reviewing the provided YAML, I've noticed the fields for user name, email, phone number, payment method, amount, and payment date. Each of these fields should be completed according to the guidelines specified in the form.
-
-The form does not require a unique username, email, or phone number. This might be because the form is not intended for users to log in or sign up, but rather to provide payment information.
-
-Before proceeding, please ensure that the payment method and payment date are accurate and correct. This will prevent any issues with payment processing.
-</thinking>
-
 # invoice_payment_form - Help Guide
 ## Purpose
 The invoice payment form is used for users to provide payment information for invoices.

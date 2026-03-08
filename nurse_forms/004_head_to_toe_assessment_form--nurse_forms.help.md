@@ -1,5 +1,3 @@
-<thinking>This form is designed to assess the head, neck, shoulders, elbows, hands, and fingers of a patient from the left to right side of the body. This is done to ensure that the patient's overall physical condition is evaluated in a systematic and thorough manner. The form is intended for medical professionals to use in clinical settings, such as hospitals or doctor's offices. It is not intended for personal use or entertainment purposes. The questions are designed to be simple and easy to understand, with each section focused on a specific body region. Please make sure to complete the form accurately and thoroughly, as it is intended for medical professionals to assess the patient's condition.</thinking>
-
 # Head To Toe Assessment Form - Help Guide
 ## Purpose
 The Head To Toe Assessment Form is a tool used by medical professionals to evaluate a patient's overall physical condition, focusing on different body regions from head to toe.

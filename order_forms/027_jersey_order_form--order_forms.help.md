@@ -1,9 +1,3 @@
-<thinking>
-This form is used for team members and staff to submit an order for a custom jersey for a specific team. Before proceeding, please ensure that:
-- The team is already registered in the system and has a valid team ID.
-- The order is not a duplicate, i.e., an order with the same team and player information has been already placed.
-</thinking>
-
 # Jersey Order Form - Help Guide
 ## Purpose
 The Jersey Order Form is used to create a custom jersey order for a specific team. This form is designed for team members and staff to submit the necessary information for the order.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # digitalForensicsToolRequisitionForm - Help Guide
 
 ## Purpose

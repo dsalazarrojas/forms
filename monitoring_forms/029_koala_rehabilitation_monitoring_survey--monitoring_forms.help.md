@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to monitor the progress of koalas in a rehabilitation program. The purpose of this form is to gather information on the health status, behavior, and treatments of the koalas, as well as the start and end dates of their rehabilitation. This information will be used to track the progress of the koalas and make informed decisions about their care.
-
-Before proceeding, please ensure that this form is not a duplicate of any existing form, and that the data being collected is relevant to the rehabilitation process.
-
-</thinking>
-
 # Koala Rehabilitation Monitoring Survey - Help Guide
 ## Purpose
 The Koala Rehabilitation Monitoring Survey is designed to track the progress of koalas in a rehabilitation program. This form collects information on the health status, behavior, and treatments of the koalas, as well as the start and end dates of their rehabilitation.

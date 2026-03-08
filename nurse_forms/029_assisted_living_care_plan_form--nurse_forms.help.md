@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a resident in an assisted living facility. It is used to create a comprehensive care plan for the resident. The information collected will be used by care providers to understand the resident's medical, physical, and emotional needs. This form is a crucial document for the care team to understand the resident's situation and provide appropriate care. Please note that some of the fields are optional, but all required fields are marked as such. This form should only be filled out by authorized personnel.
-</thinking>
-
 # Assisted Living Care Plan Form - Help Guide
 ## Purpose
 The Assisted Living Care Plan Form is a crucial document used to create a comprehensive care plan for residents in assisted living facilities. This form collects information about the resident's medical, physical, and emotional needs.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The internal reasoning block for this form is as follows: This form is designed for registering equipment assets that are being sold. The purpose of this form is to collect information from both the seller and the buyer, including details about the equipment, sale price, and status. This form is intended for internal use and is not meant for general public access. 
 
 Please note that all fields are optional, which means that users can skip filling out any of the fields if they don't need to provide the information. Also, the form doesn't have any validation for data consistency and relationships between fields.

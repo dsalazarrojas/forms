@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Travel Planning Excellence Award Nomination Form - Help Guide
 
 ## Purpose

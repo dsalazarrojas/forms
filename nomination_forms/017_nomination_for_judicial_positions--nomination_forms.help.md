@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to nominate candidates for judicial positions. To be eligible for nomination, the form must be completed and submitted for review. Please note that nominations are non-duplicative and should only be submitted once.
-
-</thinking>
-
 # Nomination For Judicial Positions - Help Guide
 ## Purpose
 This form is designed to collect information from the nominee and the nominator to facilitate the nomination process for judicial positions.

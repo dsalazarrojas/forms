@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used for stock availability confirmation requests. It helps the team to confirm whether a stock can be fulfilled on a specific date. This form will help ensure accurate and timely fulfillment of orders. Please ensure you're using the correct form for your specific use case and not duplicate this request unnecessarily. This form will be used by our team to review and confirm stock availability. Please review the form carefully and ensure you're providing accurate information to avoid any discrepancies.
-</thinking>
-
 # Stock Availability Confirmation Request Form - Help Guide
 ## Purpose
 The Stock Availability Confirmation Request Form is used to request confirmation on stock availability for a specific order.

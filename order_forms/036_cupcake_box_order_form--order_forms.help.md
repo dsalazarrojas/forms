@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning is to create a form for customers to submit their orders for cupcake boxes. The main purpose of this form is to collect customer information, cupcake details, shipping address, payment method, and any special instructions. The form is designed for end-users, so it should be easy to fill out and understand. The form fields are all text or select_one types, which are straightforward to fill out. The form does not require any specific knowledge about the business logic or internal processes, making it user-friendly.
-</thinking>
-
 # Cupcake Box Order Form - Help Guide
 ## Purpose
 The Cupcake Box Order Form is a form designed for customers to submit their orders for cupcake boxes. It helps us collect necessary information to process and fulfill their requests.

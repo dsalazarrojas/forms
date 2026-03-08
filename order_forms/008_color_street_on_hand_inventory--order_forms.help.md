@@ -1,11 +1,3 @@
-<thinking>
-This form is used for tracking Color Street's on-hand inventory, which is crucial for managing and maintaining an accurate record of available items. The form is used to capture information on the number of solid sets, glitter sets, art and design sets, French sets, pedicure sets, holiday/seasonal sets, and samples available at the time of count. The form is a part of the inventory management process, ensuring that the stock levels are up-to-date and accurate. 
-
-Please note that the form is designed to be completed by the inventory manager, hence the label "Inventory Manager Name" is required to be filled in. The date of count is also a required field, as it helps in tracking the historical data. 
-
-The notes field is optional but can be used to capture any other relevant information about the inventory.
-</thinking>
-
 # Color Street On Hand Inventory - Help Guide
 ## Purpose
 This form is used to track and manage Color Street's on-hand inventory, ensuring accurate stock levels and historical data for future reference.

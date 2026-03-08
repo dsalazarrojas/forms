@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to be used for the delivery of documents. The goal is to collect contact information and delivery details from users. However, upon reviewing the provided YAML, I notice that all fields are optional, which may not be the intended behavior. I assume that all fields should be required for the form to be completed. If this is not the case, further clarification is needed.</thinking>
-
 # Document Delivery Form - Help Guide
 ## Purpose
 This form is used for the delivery of documents. It requires users to provide contact information and delivery details.

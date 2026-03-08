@@ -1,7 +1,3 @@
-<thinking>
-We need to create a comprehensive help guide for this Plant Based Milk Order Form that will educate end-users on its purpose, how to complete it, and what each field means. This will ensure that users know exactly what to expect and can fill out the form accurately and efficiently.
-</thinking>
-
 # Plant Based Milk Order Form - Help Guide
 ## Purpose
 The Plant Based Milk Order Form is a digital form designed to collect information from customers for their plant-based milk orders. The form allows users to select their preferred type of milk, specify the quantity they want, choose their delivery options, and provide any additional notes or instructions.

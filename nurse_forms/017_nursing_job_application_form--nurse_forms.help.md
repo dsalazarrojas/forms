@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to be used by individuals who are interested in applying for nursing jobs. The form gathers personal details, medical certifications, experience, education, contact information, and uploadable documents such as resumes, cover letters, and certifications. This form is likely to be used in a hospital or healthcare setting, where medical certifications and experience are crucial for nurse positions. There might be a requirement for candidates to submit their application form, but this is not explicitly stated in the provided YAML.
-
-This form has multiple pages, each with its own set of fields. To ensure that the form is completed correctly and efficiently, follow the instructions below.
-</thinking>
-
 # Nursing Job Application Form - Help Guide
 ## Purpose
 This form is designed to gather information from candidates interested in applying for nursing jobs in a hospital or healthcare setting. It collects personal details, medical certifications, work experience, education, and contact information, as well as documents such as resumes, cover letters, and certifications.

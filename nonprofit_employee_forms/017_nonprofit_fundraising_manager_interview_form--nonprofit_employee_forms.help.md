@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nonprofit Fundraising Manager Interview Form - Help Guide
 
 ## Purpose

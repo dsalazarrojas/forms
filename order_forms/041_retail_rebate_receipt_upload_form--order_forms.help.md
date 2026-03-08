@@ -1,7 +1,3 @@
-<thinking>
-The form is used by customers or employees to upload and track retail rebate receipts for rebates claimed. This form is likely to be used for internal auditing and record-keeping purposes. The form should not be used for external purposes, such as for customers who have not been approved for rebates, or for employees who are not authorized to claim rebates. This form should be filled out only once per rebate receipt, and not for duplicate or redundant rebates. The form is designed to be easy to fill out, and requires minimal information to get started.
-</thinking>
-
 # Retail Rebate Receipt Upload Form - Help Guide
 ## Purpose
 This form is designed for customers or employees to upload and track retail rebate receipts for rebates claimed. It is used for internal auditing and record-keeping purposes.

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to capture information for a medical device requisition. The form will be used by healthcare professionals to request medical devices for patients. This form is meant to be used in a clinical setting, such as a hospital or medical facility. The purpose of this form is to ensure that the requested medical devices are properly documented and can be tracked for inventory management purposes.
-
-Before completing the form, please ensure that you have the patient's consent and that the device request is necessary and not duplicate. If you have already submitted a form for the same patient and device, please do not resubmit. This form should only be completed by authorized healthcare professionals.
-
-Please follow the instructions carefully and ensure that all required fields are completed accurately and completely.
-</thinking>
-
 # Medical Device Requisition Form - Help Guide
 ## Purpose
 This form is used to request medical devices for patients in a clinical setting.

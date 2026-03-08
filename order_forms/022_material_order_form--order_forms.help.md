@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used for its intended purpose, which is to collect information from customers about material orders. This form should only be used for customer materials orders, and not for other purposes such as customer service requests or product returns. Additionally, we want to avoid duplication of effort by ensuring that this form is not used for orders that can be easily handled through other means, such as phone or in-person orders.
-</thinking>
-
 # Material Order Form - Help Guide
 ## Purpose
 The Material Order Form is a form designed to collect information from customers about material orders. This form is used to gather necessary details such as customer contact information, material type, quantity, and pricing information to facilitate efficient order processing and delivery.

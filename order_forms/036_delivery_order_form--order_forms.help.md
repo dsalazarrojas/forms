@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for customers to provide delivery information, including their details and order details. The form is used by customers to place orders and provide instructions for delivery.
-The form should only be used for customers who are placing an order. It is not intended for other types of delivery information.
-The form should not be used multiple times for the same customer. If a customer needs to place multiple orders, they should fill out a new form for each order.
-The form requires a valid email address and phone number from the customer.
-</thinking>
-
 # Delivery Order Form - Help Guide
 ## Purpose
 This form is designed for customers to provide delivery information, including their details and order details.

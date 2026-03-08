@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Daycare Caregiver Onboarding Form - Help Guide
 ## Purpose
 This form is designed to help daycare centers onboard new caregivers with their details, availability, and emergency contact information.

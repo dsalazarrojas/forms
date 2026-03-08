@@ -1,7 +1,3 @@
-<thinking>
-This onboarding form is designed to collect essential information from new homeowners, including their personal details, home address, and property type. The form is not meant to be a comprehensive assessment of their ownership experience, but rather a way to understand their background and circumstances.
-</thinking>
-
 # New Homeowner Onboarding Including Homeowner Checklist - Help Guide
 ## Purpose
 This form is used to collect information from new homeowners for [insert purpose of collection, e.g., account setup, survey, etc.].

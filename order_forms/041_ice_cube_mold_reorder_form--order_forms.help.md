@@ -1,12 +1,3 @@
-<thinking>
-This form is used for reordering ice cube molds. It is a multi-page form that collects various information from the user, including contact information, shipping details, and order details. This form is intended for use by individuals who need to reorder ice cube molds, and it is likely used in a business or industrial setting.
-
-To avoid duplication of effort and ensure that the user is aware of what they are submitting, it's essential to carefully review the form and its purpose before proceeding.
-
-The form is divided into several pages, each with its own set of fields. Some fields are required, while others are optional. Please make sure to fill out all required fields to ensure that your submission is processed correctly.
-
-</thinking>
-
 # ice_cube_mold_reorder_form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from users for reordering ice cube molds.

@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-# Audio Master Delivery Request Form - Help Guide
+> # Audio Master Delivery Request Form - Help Guide
 ## Purpose
 The Audio Master Delivery Request Form is a form designed to collect information for the audio mastering process. This form is used to gather essential details from clients and artists to ensure accurate and efficient audio mastering delivery. Please ensure that all fields are filled out correctly to avoid delays or mistakes in the mastering process.
 

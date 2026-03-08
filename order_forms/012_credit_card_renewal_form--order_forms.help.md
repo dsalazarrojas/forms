@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to facilitate the process of renewing a credit card. It is essential to ensure that the user provides accurate and complete information to ensure a smooth and secure renewal process.
-
-It is crucial to note that this form will collect the necessary details for credit card renewal, including the card number, expiration date, and personal information such as email and phone number. This data will help the system to update the credit card details in the relevant systems. 
-
-Before proceeding, please ensure that all required fields are filled in accurately. 
-
-Also, be aware that some fields, like CVV, are sensitive information and should be entered with care and attention to detail. 
-
-Please do not enter fake or test data, as this may affect the outcome of the process. 
-
-</thinking>
-
 # credit_card_renewal_form - Help Guide
 ## Purpose
 This form is designed to collect information for the credit card renewal process. 

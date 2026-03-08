@@ -1,13 +1,3 @@
-<thinking>
-
-The internal reasoning block is used to verify that the form purpose is understood and that the form is not duplicated in the system.
-
-The form is likely used to collect information for an online store or e-commerce platform, specifically for customers to place orders for luxury beds and mattresses. The form may be used for customers to provide their contact information, delivery details, and payment methods.
-
-Before proceeding with the help guide, let's review the form structure and ensure that it's not duplicated in the system.
-
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is used to collect information from customers for orders in an online store or e-commerce platform. Customers can use this form to provide their details, choose their preferred luxury bed and mattress, select their preferred color and price options, and specify their payment and delivery details.

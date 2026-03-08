@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used by franchisees to request marketing materials from the marketing team. The marketing team will use this form to gather information about what materials are needed, who is requesting them, and where they should be delivered. It is essential to fill out this form accurately to ensure that the marketing team can fulfill the request correctly.
-</thinking>
-
 # Franchise Marketing Material Order Form - Help Guide
 ## Purpose
 The purpose of this form is to order marketing materials from the marketing team. Please fill out the form completely and accurately to ensure that your request is processed correctly.

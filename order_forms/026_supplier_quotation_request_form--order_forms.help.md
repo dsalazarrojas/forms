@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for suppliers to submit quotations for their products or services. The form is used by the buying organization to gather information about the supplier's quote and ensure that they are meeting the organization's requirements. This form will help the supplier provide a detailed quote that includes all necessary information for the buying organization to make an informed decision.
-
-The form will not be duplicated or repeated unless a new quote is needed for a different purpose, such as revising an existing quote. This form is only used for supplier quotations, and not for other types of requests or orders.
-
-</thinking>
-
 # Supplier Quotation Request Form - Help Guide
 
 ## Purpose

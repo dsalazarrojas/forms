@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect vendor information for the purposes of managing and tracking vendor relationships. The form should only be used for active and inactive vendors, and not for duplicate or non-existent vendors. To avoid duplication, ensure that the form is not submitted for vendors that have already been registered in the system. 
-</thinking>
-
 # Vendor Information Collection Form - Help Guide
 ## Purpose
 This form is used to collect information about vendors, including their name, company name, email, phone number, services offered, address, website, vendor status, and creation and update dates.

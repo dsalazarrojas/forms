@@ -1,7 +1,3 @@
-<thinking>
-This is a form for onboarding new employees, likely used by HR departments or managers to track and record information related to the onboarding process. The form likely serves to ensure that all necessary information is collected and documented for new employees. It's essential to complete this form accurately to avoid duplication of work and maintain consistency in the onboarding process.
-</thinking>
-
 # Onboarding Form - Help Guide
 ## Purpose
 This form is used to collect information about the onboarding process for new employees, including orientation, training, and employee status updates.

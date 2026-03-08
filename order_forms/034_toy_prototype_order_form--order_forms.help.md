@@ -1,5 +1,3 @@
-<thinking>...</thinking>
- 
 # Toy Prototype Order Form - Help Guide
 
 ## Purpose

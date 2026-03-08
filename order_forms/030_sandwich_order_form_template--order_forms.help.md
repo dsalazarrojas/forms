@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for a sandwich order. It's a simple template that can be used in various contexts, such as restaurants, cafes, or food establishments. The form has eight fields, each with a specific purpose.
-</thinking>
-
 # Sandwich Order Form Template - Help Guide
 ## Purpose
 This form is a template for customers to provide their sandwich order details. It's intended for use in restaurants, cafes, or food establishments to collect customer orders efficiently.

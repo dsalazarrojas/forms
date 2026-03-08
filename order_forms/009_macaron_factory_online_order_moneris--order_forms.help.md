@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to gather information for a macaron factory online order moneris. To avoid duplication, please do not fill out this form if you have already ordered from the macaron factory. 
-
-The form has multiple pages, each with its own set of fields. Please complete each page according to the instructions below.
-
-The form is used to capture general information, delivery details, and payment methods. The "Macarons" field allows you to select multiple flavors of macarons you would like to order. The "Delivery Or Pickup Information" field allows you to choose between delivery and pickup options. The "Images Of Your Macarons" field is not currently functional, so you can skip it. 
-
-The "Order Notes" field is a text area where you can add any additional comments or notes about your order.
-
-Please complete each field according to the instructions and ensure that you provide accurate and complete information.
-
-</thinking>
-
 # Macaron Factory Online Order Moneris - Help Guide
 ## Purpose
 This guide is intended to assist users in understanding how to complete the Macaron Factory Online Order Moneris form. The form is designed to gather information for a macaron factory online order moneris.

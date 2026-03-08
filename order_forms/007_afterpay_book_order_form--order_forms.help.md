@@ -1,8 +1,3 @@
-<thinking>
-This help guide will cover the Afterpay Book Order Form.
-The form is designed to allow customers to order books in installments, with the ability to select multiple books, specify shipping details, and choose a payment method. The form is used by customers to order books from the website.
-</thinking>
-
 # Afterpay Book Order Form - Help Guide
 ## Purpose
 The Afterpay Book Order Form is used by customers to order books in installments. This form is designed to collect relevant information such as customer's name, email address, phone number, shipping details, book titles, quantity, book format, payment method, and estimated total amount for the order.

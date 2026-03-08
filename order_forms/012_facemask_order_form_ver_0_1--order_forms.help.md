@@ -1,7 +1,3 @@
-<thinking>
-This form is likely intended for customers to order facemasks, which are face coverings designed to protect against COVID-19. The purpose of this form is to gather customer information and preferences for the order. The fields in this form are likely to be used by the internal sales team to process the order.
-</thinking>
-
 # facemask order form (ver 0.1) - Help Guide
 ## Purpose
 This form is designed to collect information from customers who want to order facemasks. It is intended to gather customer details and preferences for efficient order processing.

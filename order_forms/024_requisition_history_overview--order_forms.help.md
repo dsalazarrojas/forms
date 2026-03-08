@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # requiision_history_overview - Help Guide
 ## Purpose
 The "Requisition History Overview" form is used to track and view the status of requisitions. It allows users to select multiple requisitions, view their respective requisition numbers, dates, approved amounts, and status. This form is essential for administrators to have a comprehensive overview of all requisitions.

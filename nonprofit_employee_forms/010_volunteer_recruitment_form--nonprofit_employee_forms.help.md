@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from potential volunteers to help them get involved with the nonprofit organization. It's essential to understand that the form is not a commitment, and the information collected will be used to tailor volunteer opportunities to the individual's availability and preferences. Before proceeding, please ensure that you are not already part of an existing volunteer group or have a similar form pending approval. Please fill out the form accurately and thoroughly to ensure the best possible match for volunteer opportunities.
-</thinking>
-
 # Volunteer Recruitment Form - Help Guide
 ## Purpose
 This form is designed to collect information about yourself as a potential volunteer. Please fill it out carefully to help us understand your availability and preferences for volunteer opportunities.

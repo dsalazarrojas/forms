@@ -1,6 +1,3 @@
-<thinking> 
-This form is intended to be used for users to order custom laptop sleeves. The form is used to collect information about the laptop model, color, sleeve type, name tag, shipping address, order date, price, and payment method. This form does not require any personal information such as email or phone number. The purpose of this form is to facilitate the creation of custom laptop sleeves with the specified options. Please note that this form is not intended for any other purpose than ordering custom laptop sleeves.</thinking>
-
 # custom-laptop-sleeve-order-form - Help Guide
 ## Purpose
 This form is used to collect information for ordering custom laptop sleeves. It allows users to select the laptop model, color, sleeve type, name tag, shipping address, order date, price, and payment method.

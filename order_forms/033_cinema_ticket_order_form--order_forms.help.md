@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for ordering cinema tickets. The form will be used by customers to place orders for tickets at a movie theater. Each field is designed to collect necessary information for the order to be processed. To avoid duplication, customers should only submit one order per form. The form is designed to be completed with the customer's full name, email address, phone number, preferred cinema location, selected movie, show date and time, ticket type, number of tickets, seating preference, concession package, payment method, and ticket delivery method.
-</thinking>
-
 # Cinema Ticket Order Form - Help Guide
 ## Purpose
 The Cinema Ticket Order Form is a tool used to collect information for ordering cinema tickets. The form is designed to gather all necessary details for each ticket order, ensuring that the order is processed accurately and efficiently.

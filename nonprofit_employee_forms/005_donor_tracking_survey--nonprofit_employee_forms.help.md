@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about donors, including their personal details, frequency of donation, and the channels through which they first interacted with the organization. This form is likely used for internal tracking and analysis purposes to better understand donor behavior and preferences. It's essential to fill out this form accurately to ensure the data is reliable and useful for decision-making.
-</thinking>
-
 # Donor Tracking Survey - Help Guide
 ## Purpose
 This guide will walk you through the Donor Tracking Survey form, explaining each field and how to complete it correctly.

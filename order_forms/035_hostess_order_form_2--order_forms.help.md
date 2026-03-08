@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to capture information from a hostess who is interested in placing orders. The form is designed to collect contact information and other relevant details. The purpose of this form is to streamline the order process, ensuring that all necessary information is collected and communicated effectively. This is likely a form used in a sales or customer service context, where the hostess needs to provide details about their order.
-The form does not have any conditional logic or specific requirements, so it can be assumed that this form is meant to be filled out in its entirety. This form has a large number of fields, which may be overwhelming for some users. It is essential that the instructions and explanations are clear and concise to ensure the hostess completes the form accurately and efficiently.
-</thinking>
-
 # Hostess Order Form 2 - Help Guide
 ## Purpose
 This form is used to capture contact information and order details from a hostess who is interested in placing an order.

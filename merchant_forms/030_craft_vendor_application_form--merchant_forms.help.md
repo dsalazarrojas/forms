@@ -1,12 +1,3 @@
-<thinking>
-The "Craft Vendor Application Form" is a tool for merchants to submit their applications to become vendors on your platform. It collects information about the vendor's business, such as their event name, contact details, and vendor requirements. The form is divided into different pages to make it easier for merchants to provide the necessary information in a structured and organized way.
-
-This guide is intended to help merchants understand how to fill out the form correctly and what each field means, reducing potential errors and confusion. Please follow the instructions carefully to ensure that your application is submitted successfully.
-
-If you have any doubts or questions, please reach out to our support team for further assistance.
-
-</thinking>
-
 # Craft Vendor Application Form - Help Guide
 ## Purpose
 

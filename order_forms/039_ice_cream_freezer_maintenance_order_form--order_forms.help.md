@@ -1,7 +1,3 @@
-<thinking>
-This form is used to order maintenance for the ice cream freezer. It is designed to collect information about the freezer type, equipment model, maintenance request, appointment details, and other relevant fields. This form is used by staff to schedule and perform maintenance on the ice cream freezers.
-</thinking>
-
 # ice_cream_freezer_maintenance_order_form - Help Guide
 ## Purpose
 The purpose of this form is to submit a maintenance request for the ice cream freezer. Please fill out the form to schedule maintenance and ensure your freezer is in good working condition.

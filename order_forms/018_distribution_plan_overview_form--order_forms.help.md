@@ -1,13 +1,3 @@
-<thinking>
-This form is for users to create a distribution plan for their organization. It will help them create a basic outline of their distribution process, timeline, and resource plan. 
-
-The form is divided into several fields where users can provide information about their distribution process and timeline. The "distribution_process" field asks whether the process is in place, the "timeline" field is for inputting the timeline details, the "resource_plan" field is for writing a plan for resources, the "target_area" field allows the selection of target areas, the "review" field can be used to provide feedback or comments, and the "submit" field for submitting the form.
-
-The form will ensure that all relevant information is captured before it is sent for processing and review. This way, the team or manager will have a clear understanding of the distribution process and can make informed decisions.
-
-The form's purpose and process are clear and simple, making it user-friendly and efficient. It helps in reducing confusion and errors during the distribution process.
-</thinking>
-
 # Distribution Plan Overview Form - Help Guide
 ## Purpose
 This form is designed to help you create a distribution plan for your organization. It guides you through the key components of your distribution process, timeline, and resource plan.

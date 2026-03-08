@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to collect information for QR shelf label printing orders. It's essential to fill out this form accurately to ensure that the order is processed correctly. Before proceeding, please make sure you're filling out this form for the correct order and that you're aware of the specific instructions and requirements for QR shelf labeling.
-
-To determine if this form has already been completed for the same order, please review the "Order ID" field. If you've already filled out this form for the same order, please do not repeat the process. 
-
-</thinking>
-
 # qr_shelf_label_printing_order_form - Help Guide
 ## Purpose
 The qr_shelf_label_printing_order_form is a form used to collect information for QR shelf label printing orders. This form helps our team process and prepare labels efficiently. Please fill this form out with accurate and up-to-date information about the order to avoid any errors or delays in printing.

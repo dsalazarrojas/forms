@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the "Meal Order Form With Dietary Suggestions" form, we'll follow the provided YAML structure and provide a clear and concise explanation for each field. We'll use the required fields and options to provide the most relevant information.
 
 **Meal Order Form With Dietary Suggestions - Help Guide**

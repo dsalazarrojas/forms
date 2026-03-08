@@ -1,13 +1,3 @@
-<thinking>
-This form is used to collect information from food vendors who want to participate in sampling events. The form helps event organizers and vendors to communicate and coordinate the logistics of the sampling event. The form will be used to collect vendor requests, event details, booth placement, sampling items, sampling dates, vendor contact information, event team details, booth size, and any additional notes or requirements from the vendor. This form is only meant to be used for food brand sampling events. 
-
-To ensure accuracy and consistency in the form completion, the following guidelines should be followed: 
-- Each field is only for the intended purpose and should not be used for any other reason. 
-- The required fields should not be left blank. 
-
-Please, make sure to carefully review this guide and complete the form accordingly to ensure accurate submission. 
-</thinking>
-
 # Food Brand Sampling Booth Order Form - Help Guide
 ## Purpose
 The Food Brand Sampling Booth Order Form is a tool that helps event organizers and vendors communicate and coordinate the logistics of food brand sampling events. This form is designed to collect necessary information from vendors and event teams to ensure a successful event.

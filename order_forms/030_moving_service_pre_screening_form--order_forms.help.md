@@ -1,5 +1,3 @@
-<thinking>Understanding the form purpose and fields can help in completing it efficiently. The form is used to collect pre-screening information for moving services. This form is used to ensure that the company has all the necessary information to process a move request correctly. Please review each field carefully and answer accordingly. Ensure that you have all the required information to avoid missing fields. If you have any questions or concerns, please contact the moving company. Please do not submit the form if you have any doubts or uncertainties about any field.</thinking>
-
 # Moving Service Pre Screening Form - Help Guide
 ## Purpose
 This form is used to collect pre-screening information for moving services. It ensures that the company has all the necessary details to process a move request correctly.

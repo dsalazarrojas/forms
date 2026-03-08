@@ -1,8 +1,3 @@
-<thinking>
-Form purpose: The CRM Customization Quote Request Form is designed to collect information about a customer's existing CRM system and their customization requirements. This form is used by the customization team to better understand the customer's needs and prepare a quote for the customization work.
-Internal checks should be performed to ensure that the form is not being used for duplicate requests or for non-relevant purposes. This will help to prevent unnecessary work and ensure that the form is used correctly.
-</thinking>
-
 # CRM Customization Quote Request Form - Help Guide
 ## Purpose
 The CRM Customization Quote Request Form is designed to collect information about a customer's existing CRM system and their customization requirements. This form is used by the customization team to better understand the customer's needs and prepare a quote for the customization work.

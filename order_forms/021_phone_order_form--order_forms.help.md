@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect customer contact information and order details for phone orders. The customer's name, email, and phone number are mandatory fields. The form also asks for the company name (if applicable), order date and time, order details, and shipping method. The customer needs to select a shipping method (Cash, Pickup, or Shipping). The form is designed to be completed by customers who are placing phone orders.
-</thinking>
-
 # Phone Order Form - Help Guide
 ## Purpose
 The Phone Order Form is used to collect customer contact information and order details for phone orders.

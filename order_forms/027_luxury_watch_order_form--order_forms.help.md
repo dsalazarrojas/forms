@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for ordering luxury watches. The form is intended to be used by customers who wish to purchase a luxury watch from a specific brand, such as Rolex, Omega, Cartier, or Audemars. This form will collect basic customer information, watch preferences, and shipping details.
-
-The form will help the customer select a watch brand, choose a specific model, select a color and price range, and provide their contact information for order fulfillment. The shipping address field is a notes field, which suggests that the customer will be entering a full shipping address that includes their street address, city, state, and zip code.
-
-Before filling out this form, please make sure you have all the required information available, and avoid duplicating your order by not resubmitting the form multiple times.
-</thinking>
-
 # Luxury Watch Order Form - Help Guide
 
 ## Purpose

@@ -1,34 +1,3 @@
-<thinking>
-This form is for ordering a Factory Equipment Grounding Kit, which is a kit used for safety grounding of electrical equipment. The purpose of this form is to collect information about the order from customers, including details about the equipment being ordered, shipping information, and contact details of the customer and their company.
-The form is designed to collect information about the equipment being ordered, shipping information, and contact details of the customer and their company. This information will be used to process the order and communicate with the customer.
-The form has multiple pages, but all fields are located on the first page. The form requires the following information:
-* Order details (text)
-* Equipment id (number)
-* Equipment type (select one: yes or no)
-* Equipment size (select multiple: yes or no)
-* Grounding type (select one: yes or no)
-* Quantity (number)
-* Price (number)
-* Shipping method (select one: yes or no)
-* Shipping address (text)
-* Shipping city (text)
-* Shipping state (text)
-* Shipping zip (text)
-* Shipping country (text)
-* Shipping phone (text, optional)
-* Shipping email (text, optional)
-* Customer name (text)
-* Customer phone (text, optional)
-* Customer email (text)
-* Company name (text, optional)
-* Company phone (text, optional)
-* Company address (text)
-* Company zip (text)
-* Company country (text)
-
-Note: The optional fields are not required and can be left blank if not applicable.
-</thinking>
-
 # Factory Equipment Grounding Kit Order Form - Help Guide
 ## Purpose
 This form is for ordering a Factory Equipment Grounding Kit, which is a kit used for safety grounding of electrical equipment. The form will collect information to process the order and communicate with the customer.

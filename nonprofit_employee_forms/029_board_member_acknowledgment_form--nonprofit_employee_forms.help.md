@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to gather acknowledgment from Board Members regarding their roles, responsibilities, and potential conflicts of interest. This form is essential for maintaining accurate and up-to-date records for the nonprofit organization. It's crucial to ensure that all Board Members have reviewed their responsibilities and disclosed any conflicts of interest to avoid any potential issues or disputes. 
-The form will be used to verify that the Board Member has acknowledged their duties and has not misrepresented their interests. This will help the organization maintain transparency and accountability within the Board.
-The form will be reviewed and stored in the organization's records. Please ensure that the information provided is accurate and truthful.
-</thinking>
-
 # Board Member Acknowledgment Form - Help Guide
 ## Purpose
 The Board Member Acknowledgment Form is a crucial document used by the nonprofit organization to gather acknowledgment from its Board Members regarding their roles, responsibilities, and potential conflicts of interest. This form ensures that all Board Members have reviewed and acknowledged their duties and have not misrepresented their interests, maintaining transparency and accountability within the Board.

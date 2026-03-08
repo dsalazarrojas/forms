@@ -1,7 +1,3 @@
-<thinking>
-We are creating a help guide for an International Volunteer Application Form, which is used to collect information from volunteers who wish to participate in non-profit activities. This form helps us understand their background, skills, and availability for volunteering. Before filling out this form, please make sure you have not already submitted an application for the same volunteer opportunity. If you are unsure, you can contact our team to check for any existing applications.
-</thinking>
-
 # International Volunteer Application Form - Help Guide
 ## Purpose
 This form is designed to gather information from volunteers who are interested in participating in our non-profit activities. Please fill out this form completely and accurately to help us better understand your background, skills, and availability.

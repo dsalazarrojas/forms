@@ -1,5 +1,3 @@
-<thinking>Before filling out the form, it's essential to ensure that you're eligible for the Thanksgiving Dinner Box program and haven't already submitted a request. Please review the form carefully and ensure that all required fields are filled out. You can request a box for yourself or on behalf of a family member. If you're unsure about any information, please contact us for assistance.</thinking>
-
 # Thanksgiving Dinner Box Request Form - Help Guide
 ## Purpose
 The Thanksgiving Dinner Box is a program designed to provide families in need with a free, pre-cooked, and pre-packed dinner box for Thanksgiving. This form is for requesting a dinner box for a family member or for yourself.

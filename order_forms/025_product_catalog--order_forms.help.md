@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Product Catalog - Help Guide
 
 ## Purpose

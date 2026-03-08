@@ -1,5 +1,3 @@
-<thinking>As a workplace, it's essential to ensure that all employees understand and acknowledge the company's drug policy, which is the purpose of this form. This form is not for employees who have not been properly onboarded or have not received a previous acknowledgment form. Please ensure you have been onboarded and have received previous acknowledgment forms before filling out this form.</thinking>
-
 # Workplace Drug Policy Acknowledgment - Help Guide
 ## Purpose
 This form is used to have employees acknowledge and confirm their understanding of the company's drug policy. Completing this form is mandatory for all new employees or those who have not been properly onboarded.

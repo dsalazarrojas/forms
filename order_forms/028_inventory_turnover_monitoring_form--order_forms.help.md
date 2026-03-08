@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to monitor inventory levels and turnover for various items in an inventory. It is used to track the quantity, cost, and selling price of an item, as well as other relevant metrics such as reorder level, reorder quantity, and inventory turnover. This form is intended for order forms, but it can also be used for other types of forms. It is not a general-purpose form, but a specific tool for inventory monitoring. This form is designed to collect specific data related to inventory turnover and monitor the levels of items in stock.
-</thinking>
-
 # Inventory Turnover Monitoring Form - Help Guide
 ## Purpose
 The Inventory Turnover Monitoring Form is a specialized form used to track and monitor inventory levels and turnover. It is designed to collect specific data related to inventory metrics such as quantity, cost, and selling price.

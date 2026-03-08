@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to onboard new physical therapists onto the system. The purpose of this form is to gather essential information about the therapist, such as their name, contact details, medical license details, and availability. This form is used to populate the system's database with the required information. The therapist's input is crucial for the system's scheduling and communication processes.
-
-Before proceeding, please ensure you have not completed this form in the past. Completing this form twice can lead to duplicate entries and errors in the system.
-
-Please note that this form is divided into two sections: personal details and professional details. The personal details section (fields 1-5) captures general information about the therapist, while the professional details section (fields 6-14) captures their professional information.
-
-</thinking>
-
 # Physical Therapist Onboarding Form - Help Guide
 
 ## Purpose

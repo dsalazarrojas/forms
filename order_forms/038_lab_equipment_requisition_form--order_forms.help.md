@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to be used by lab administrators or researchers to request new lab equipment or supplies. The form will help the lab manager to collect information about the requested equipment, its purpose, and other relevant details. It is not a mandatory form, but it will help to track and process equipment requisitions in an organized manner.
-
-</thinking>
-
 # Lab Equipment Requisition Form - Help Guide
 ## Purpose
 The Lab Equipment Requisition Form is a tool used by lab administrators or researchers to request new lab equipment or supplies. This form ensures that all necessary information is collected in an organized manner, allowing the lab manager to track and process equipment requisitions efficiently.

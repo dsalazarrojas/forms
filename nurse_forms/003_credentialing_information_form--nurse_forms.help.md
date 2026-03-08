@@ -1,10 +1,3 @@
-<thinking>
-The form purpose is to collect information about a healthcare provider's education, training, and qualifications.
-The form should only be used for providers who have completed at least 8 years of post-graduate training.
-The form is used to verify a provider's credentials for various medical groups.
-The form should only be completed by providers who have not already submitted this information in the past year.
-</thinking>
-
 # Credentialing Information Form - Help Guide
 ## Purpose
 This form is used to collect and verify a healthcare provider's education, training, and qualifications to ensure their credentials are up-to-date and compliant with medical group requirements.

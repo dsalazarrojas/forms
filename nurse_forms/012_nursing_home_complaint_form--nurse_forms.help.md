@@ -1,16 +1,3 @@
-<thinking>
-To create a comprehensive user-facing help guide for the "Nursing Home Complaint Form", I'll first provide a brief internal reasoning block explaining the form's purpose and checking for relevance and non-duplication.
-
-**Purpose:**
-This form is designed to collect complaints and incidents reported by staff members, caregivers, or visitors in a nursing home setting. It aims to gather detailed information about the incidents, allowing nursing home administrators to investigate and take necessary actions to prevent similar incidents in the future.
-
-**Form Relevance:**
-This form is relevant to any nursing home setting, where staff members or visitors may encounter incidents that require reporting and investigation.
-
-**Non-Duplication:**
-This form does not duplicate any existing forms in our inventory, and its creation is justified by the specific needs of the nursing home industry.
-
-</thinking>
 # Nursing Home Complaint Form - Help Guide
 ## Purpose
 This form is designed to collect complaints and incidents reported by staff members, caregivers, or visitors in a nursing home setting. It helps nursing home administrators to gather information and take necessary actions to prevent similar incidents.
