@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Professional Development Plan Declaration Form - Help Guide
 ## Purpose
 The Professional Development Plan Declaration Form is used to declare and document an employee's professional development goals and progress. This form is intended to support career growth and development within the company. To ensure that you are filling out the correct form, please note that this form is specific to your department and job title.

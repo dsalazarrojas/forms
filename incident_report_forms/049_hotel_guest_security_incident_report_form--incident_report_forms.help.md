@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about security incidents that may have occurred at a hotel. The form can be completed by a hotel staff member to report and document incidents that may have compromised the safety and security of guests. This information can be used by hotel management to investigate and take corrective actions to prevent similar incidents in the future. This form does not require all fields to be completed, allowing staff to report only the information that is relevant to the incident. To prevent duplication of effort, please ensure that each incident report is submitted once all relevant information is available.
-</thinking>
-
 # Hotel Guest Security Incident Report Form - Help Guide
 ## Purpose
 This form is designed to collect information about security incidents that may have occurred at a hotel, allowing hotel management to investigate and take corrective actions.

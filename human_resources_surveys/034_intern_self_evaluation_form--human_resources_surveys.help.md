@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Intern Self Evaluation Form", I will first clarify the internal reasoning behind the form's purpose and purposefulness.
-
-The form is designed to help interns assess their performance and progress during their internship. The form is a tool for the intern to reflect on their experiences, skills gained, and areas for improvement. It is a self-evaluation tool, where the intern will answer questions about their performance, experiences, and growth throughout their internship. The supervisor, in this case, will also provide their feedback and assessment on the intern's performance. The form is used to gather information for the evaluation and development of the intern's skills and performance.
-
-</thinking>
-
 # Intern Self Evaluation Form - Help Guide
 ## Purpose
 The Intern Self Evaluation Form is a tool used to assess your performance and progress during your internship. This form will guide you through a series of questions to help you reflect on your experiences, skills gained, and areas for improvement.

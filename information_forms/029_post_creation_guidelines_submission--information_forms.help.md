@@ -1,8 +1,3 @@
-<thinking>
-The form `post_creation_guidelines_submission` is a structured submission form designed to collect information about a post, file, or other type of submission. This form is meant to streamline the submission process and ensure that creators follow established guidelines.
-To ensure that the form is used correctly and efficiently, please make sure to review the guidelines and submission requirements before starting to fill out the form. If you have already submitted a form with similar information, please do not resubmit. If you are unsure about any field or have questions, please contact the form's administrator.
-</thinking>
-
 # post_creation_guidelines_submission - Help Guide
 ## Purpose
 This form is used to collect and track information about submissions. It is used to guide creators through the submission process and ensure that their work meets the necessary guidelines.

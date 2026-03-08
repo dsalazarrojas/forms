@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to request access to a webinar archive. The form will be used to collect information from users about their intended use of the archive, ensuring that the archives are being used for legitimate purposes. This form is also used to check for duplication of requests, preventing users from requesting archives that are already available or have been denied access. It is also used to collect user details, such as email addresses and dates of request, which can be used to track and manage access to the archives.
-
-</thinking>
-
 # Webinar Archive Access Request - Help Guide
 ## Purpose
 The Webinar Archive Access Request form is used to request access to a webinar archive. To use this form, select the correct answers for each field below.

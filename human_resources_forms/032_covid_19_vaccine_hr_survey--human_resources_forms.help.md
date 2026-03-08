@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning block: This form is intended to gather information from employees regarding their interest and preferences for COVID-19 vaccination, including their willingness to receive the vaccine, preferred vaccine type, and potential concerns or medical conditions that may impact their decision. This data will help HR departments and management teams to better understand employee needs and tailor their vaccination programs accordingly. This form should not be filled out by employees who have already received the vaccine or have been vaccinated off-site.
-</thinking>
-
 # COVID 19 Vaccine HR Survey - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the COVID-19 Vaccine HR Survey form. The form is designed to gather information from employees about their interest in receiving the COVID-19 vaccine, their preferences and concerns, and their logistical needs for vaccination.

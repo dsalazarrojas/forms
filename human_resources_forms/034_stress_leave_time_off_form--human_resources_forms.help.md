@@ -1,10 +1,3 @@
-<thinking>
-This form is for requesting time off for an employee. The purpose of this form is to document and track an employee's request for time off, including the start and end dates of the leave, the reason for the leave, and the status of the approval or acknowledgement. This form is likely to be used in an HR or personnel context.
-
-To avoid duplication and ensure that all necessary information is captured, please ensure that you are filling out this form for a single instance of time off per submission.
-
-</thinking>
-
 # stress_leave_time_off_form - Help Guide
 ## Purpose
 The purpose of this form is to document and track an employee's request for time off, including the start and end dates of the leave, the reason for the leave, and the status of the approval or acknowledgement.

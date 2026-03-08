@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to help employees request wellbeing tools and resources that support their mental and emotional health and wellbeing. The form is used to gather information from employees about their wellbeing needs, which will help the organization provide targeted support and resources to improve employee wellbeing.
-
-Before filling out this form, please note that:
-
-- You must be an employee of the organization to access this form.
-- You can only submit one wellbeing tool request at a time.
-- If you have already submitted a wellbeing tool request, please do not resubmit. Instead, contact the wellbeing team to inquire about the status of your previous request.
-
-</thinking>
-
 # Employee Wellbeing Tool Requisition Form - Help Guide
 ## Purpose
 The Employee Wellbeing Tool Requisition Form is designed to help employees request wellbeing tools and resources that support their mental and emotional health and wellbeing.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # School Intent Form - Help Guide
 
 ## Purpose

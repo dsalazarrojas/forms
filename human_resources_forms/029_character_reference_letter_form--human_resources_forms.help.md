@@ -1,11 +1,3 @@
-<thinking>
-To confirm the relevance of this form, let's break down its purpose and potential users. The Character Reference Letter Form is designed for individuals who have had a significant relationship with the applicant (e.g., supervisors, colleagues, mentors, or educators). The form aims to gather their professional assessment and feedback on the applicant's character, integrity, and work ethic. This form is typically used in employment, academic, or professional settings where an independent, unbiased evaluation is required for applicant assessment.
-
-To avoid duplication of efforts, the form should not be used in cases where the relationship between the author and the applicant is of a personal or family nature (e.g., parents, family friends), as these types of relationships can introduce biases and compromise the objectivity of the evaluation.
-
-The form consists of several sections that cover essential aspects of the applicant's character and professional behavior. Each section is designed to elicit specific information that provides a comprehensive overview of the applicant. The overall purpose of this form is to provide a detailed character reference letter that can be used as a valuable reference tool for the applicant in their professional or academic endeavors.
-</thinking>
-
 # Character Reference Letter Form - Help Guide
 
 ## Purpose

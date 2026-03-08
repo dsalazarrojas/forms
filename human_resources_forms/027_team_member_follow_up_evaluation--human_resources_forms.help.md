@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a form for evaluating team members' performance after a follow-up meeting. The form is designed to gather feedback from team members on their progress, successes, and areas for improvement. To ensure the most accurate and helpful feedback, please use this form as a guide to provide detailed and actionable insights. Please note that this form is not meant to be a comprehensive evaluation, but rather a snapshot of your current state. It is recommended to fill out this form only once, as repetitive submissions are discouraged and will not contribute valuable information.
 
 # Team Member Follow Up Evaluation - Help Guide

@@ -1,17 +1,3 @@
-<thinking>
-
-To determine the purpose of this form, let's analyze the provided YAML fields. The form is titled "Contact A Manufacturing Technology Advisor" and has sections for company information, technology inquiry details, advisor routing, and submission date. The form seems to be designed for companies seeking advice or guidance on manufacturing technology, and the fields suggest that the respondents are expected to provide information about their company, their technology needs, and the advisor's routing information.
-
-To determine the relevance and non-duplication, let's consider the following:
-
-* The form is likely used for companies seeking advice on manufacturing technology.
-* The form fields cover various aspects of the company and their technology needs.
-* The form is likely used by companies in different industries, such as Aerospace and Defense, Automotive, Electronics, Food and Beverage, Medical Devices, Consumer Goods, Energy/Utilities, and Other.
-
-Considering these factors, the form appears to be a legitimate and necessary tool for companies seeking manufacturing technology advice. The form fields are comprehensive and seem to cover all the necessary information for the advisor to provide relevant guidance. However, it would be good to double-check the requirements and make sure that this form does not duplicate other forms or tools within your organization.
-
-</thinking>
-
 # Contact A Manufacturing Technology Advisor - Help Guide
 ## Purpose
 This form is designed for companies seeking advice or guidance on manufacturing technology. It gathers information about the company, their technology needs, and the advisor's routing information.

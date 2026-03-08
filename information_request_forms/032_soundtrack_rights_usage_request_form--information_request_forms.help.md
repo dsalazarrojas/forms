@@ -1,11 +1,3 @@
-<thinking>
-This form is for requesting the rights to use a sound track, and is intended to be filled out by a project team or individual who wishes to use the music. The form will ask for information about the user's contact details, project details, music licensing details, usage terms, and payment terms. The form is intended to be completed by the person who will be using the music, and will help to ensure that all necessary information is collected for the music licensing process.
-
-Before starting to fill out this form, please check to see if you have already submitted a request for this specific sound track. If you have already submitted a request, please do not submit another. This will help to avoid duplication of effort and ensure that the correct contact person is reached.
-
-To fill out this form, please follow the instructions below.
-</thinking>
-
 # Soundtrack Rights Usage Request Form - Help Guide
 ## Purpose
 This form is for requesting the rights to use a sound track. It is intended to be filled out by the person or project team who wishes to use the music.

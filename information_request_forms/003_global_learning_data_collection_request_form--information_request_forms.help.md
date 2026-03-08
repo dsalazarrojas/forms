@@ -1,8 +1,3 @@
-<thinking>
-The "Global Learning Data Collection Request Form" is used to collect information from users for the purpose of learning and improvement. It appears to be a general form designed to gather details such as form IDs, personal contact information, department preferences, and comments. This form might be used in various contexts, including internal or external use cases. It's possible that this form is used to collect feedback or suggestions from users in a specific department or team. To ensure that you're using the correct form for your specific purpose, please verify that you're not duplicating an existing form and that the form's purpose aligns with your needs.
-
-</thinking>
-
 # Global Learning Data Collection Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from users for the purpose of learning and improvement. It can be used for various reasons, such as collecting feedback, suggestions, or other types of information.

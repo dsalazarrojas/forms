@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Academic Honesty Form - Help Guide
 ## Purpose
 This form is for students to declare academic honesty in relation to any incident that occurred during the academic year. The purpose of this form is to provide a clear and transparent process for students to acknowledge and address any misconduct or issues that may have happened.

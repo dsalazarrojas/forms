@@ -1,11 +1,3 @@
-<thinking>
-The form is used by HR teams, training providers, or associations to collect leadership skills renewal application information from employees or leaders. The purpose of this form is to gather relevant data about an individual's leadership skills and experience for consideration in leadership skills renewal programs.
- 
-To avoid duplicates, only one form should be submitted per individual.
- 
-Please fill out the form carefully and accurately.
-</thinking>
-
 # Leadership Skills Renewal Application Form - Help Guide
 ## Purpose
 The purpose of this form is to collect leadership skills renewal application information from employees or leaders. This form is used by HR teams, training providers, or associations to gather relevant data about an individual's leadership skills and experience for consideration in leadership skills renewal programs.

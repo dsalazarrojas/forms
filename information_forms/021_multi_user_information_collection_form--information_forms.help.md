@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from multiple users, likely for internal purposes such as data collection or analysis. The form is designed to be completed by multiple users, with each field intended to capture specific information about the user. The form is not intended for public-facing use and is likely used within an organization or business.
-</thinking>
-
 # Multi User Information Collection Form - Help Guide
 ## Purpose
 This form is used to collect information from multiple users, likely for internal purposes such as data collection or analysis.

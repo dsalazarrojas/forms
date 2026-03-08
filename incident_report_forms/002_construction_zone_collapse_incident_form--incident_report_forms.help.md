@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a construction zone collapse incident. This form should only be used in case of a real incident. It is meant to be filled out only once the incident has occurred and not as a regular or routine report. This form is used by the construction company's safety team to document and report the incident.
-</thinking>
-
 # Construction Zone Collapse Incident Form - Help Guide
 ## Purpose
 The Construction Zone Collapse Incident Form is a crucial document used to report and document construction zone collapses. It is used to record details about the incident, including the date, time, project name, location, and other relevant information.

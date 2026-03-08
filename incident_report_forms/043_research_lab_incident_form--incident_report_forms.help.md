@@ -1,9 +1,3 @@
-<thinking>Research Lab Incident Form - Help Guide
-
-This form is used to report and manage incidents that occur in a research lab environment. To ensure accurate and efficient reporting, please follow the instructions below to complete this form correctly.
-
-</thinking>
-
 # research_lab_incident_form - Help Guide
 ## Purpose
 The Research Lab Incident Form is designed to document and track incidents that occur in the lab setting. This form will help investigators gather information about the incident, including its type, date, time, location, and status.

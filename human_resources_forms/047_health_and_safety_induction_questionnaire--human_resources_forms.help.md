@@ -1,5 +1,3 @@
-<thinking>Before designing this form, we should first understand the purpose and requirements of the Health and Safety Induction Questionnaire. This form is used to gather information from employees about their health and safety procedures, emergency contacts, and other relevant details. It is likely used to ensure that employees are well-informed about the safety protocols and procedures in the workplace, which is a critical aspect of maintaining a safe working environment. It's essential to design this form in a way that is clear, concise, and easy to understand for users.</thinking>
-
 # Health and Safety Induction Questionnaire - Help Guide
 
 ## Purpose

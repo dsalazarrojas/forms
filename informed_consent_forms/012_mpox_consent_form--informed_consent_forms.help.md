@@ -1,12 +1,3 @@
-<thinking>
-This form, "Mpox Consent Form," is intended to be used for obtaining informed consent from patients before administering vaccines. The form should be used only for patients who have not previously been vaccinated against MPOX, a fictional vaccine. This guide assumes the form will be used in a clinical setting, such as a hospital or medical facility, and is not intended for mass production or use by non-qualified medical professionals.
-
-To ensure accuracy and relevance, please note that the form fields are designed to collect patient contact information, medical history, and consent for vaccine administration. The form should be reviewed and completed thoroughly to avoid duplication of information or errors in recording patient data.
-
-It is crucial to note that some fields may have specific requirements or restrictions based on the patient's medical history or vaccine type. Medical professionals should review each field carefully to ensure they provide accurate and relevant information for each patient.
-
-Please use this guide to fill out the form correctly and ensure patient data is accurately recorded.</thinking>
-
 # Mpox Consent Form - Help Guide
 ## Purpose
 The Mpox Consent Form is used to obtain informed consent from patients before administering the MPOX vaccine. The form collects patient contact information, medical history, and consent for vaccine administration. 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form was designed to collect information about a seller's identity and business details from customers, partners, or other stakeholders who need to onboard sellers on a platform. The purpose of this form is to provide a standardized and structured way to gather relevant information, ensuring accuracy and completeness. 
 
 When you complete this form, you will be creating an account for a seller on our platform. The form will ask for your basic information, such as your name and email, as well as some additional details about your business. This information will help us understand your needs and provide you with the best possible experience on our platform.

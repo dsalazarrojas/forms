@@ -1,15 +1,3 @@
-<thinking>
-
-The purpose of the Resource Management Training Acknowledgement form is to confirm that a resource management training session has taken place and to gather feedback from both trainers and participants. This form helps in documenting the training session's attendance, topics covered, and any feedback or suggestions from trainers and participants. It is a crucial tool for trainers and training administrators to evaluate the effectiveness of the training session and make necessary improvements in future sessions.
-
-This form should be completed by both trainers and participants after the training session. Trainers are expected to sign the form to acknowledge that they have delivered the training, while participants are expected to provide feedback and acknowledge their attendance.
-
-Before filling this form, please make sure that you have completed all the training sessions for which you are providing feedback. If you have completed multiple sessions, you may need to create a new form for each session.
-
-After filling the form, make sure to save your response and share it with the relevant parties for further action.
-
-</thinking>
-
 # Resource Management Training Acknowledgement - Help Guide
 ## Purpose
 The Resource Management Training Acknowledgement form is used to record attendance, topics covered, and feedback from both trainers and participants in a resource management training session.

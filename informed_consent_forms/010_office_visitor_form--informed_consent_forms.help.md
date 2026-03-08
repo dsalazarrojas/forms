@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be an "Office Visitor Form" designed to collect information from visitors when they arrive at an office or workplace. The form's purpose is to ensure visitors provide necessary contact and identification information, as well as their reason for visiting. This form might be used for security, visitor management, or HR purposes. Before filling out this form, ensure you're not duplicating a previously submitted form, as this might lead to unnecessary processing and storage of redundant data.
-
-</thinking>
-
 # Office Visitor Form - Help Guide
 ## Purpose
 The Office Visitor Form is a document that collects information from individuals visiting the office. It is used to ensure a smooth and secure experience for both visitors and office staff.

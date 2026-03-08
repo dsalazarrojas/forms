@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from potential candidates for a club director position. It is crucial to ensure that only relevant and eligible candidates are considered for this critical role. Before filling out this form, please make sure you have a genuine interest in the position and are willing to commit to the required time. This form should not be filled out by individuals with no intention of serving as a club director or those who are not able to devote the necessary time and effort to the role. 
-</thinking>
-
 # Club Director Candidate Profile Form - Help Guide
 ## Purpose
 The Club Director Candidate Profile Form is designed to gather essential information from candidates vying for the position of club director. It will help the selection committee evaluate their suitability, vision, leadership experience, and other relevant skills. Please fill out this form to showcase your qualifications and demonstrate your commitment to the role.

@@ -1,7 +1,3 @@
-<thinking>
-The Location Detection Form is used to collect information on an event's location, team member, and team name.
-</thinking>
-
 # Location Detection Form - Help Guide
 ## Purpose
 This form is used to detect locations, teams, and events.

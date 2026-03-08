@@ -1,5 +1,3 @@
-<thinking>This form is used to report and document workplace safety violations. It's essential to fill it out accurately and thoroughly to ensure that incidents are properly recorded and addressed. Please note that this form is not for reporting personal injuries or near misses, but rather for reporting incidents that violate workplace safety policies and procedures. If you're unsure about what to report, check with your supervisor or HR representative.</thinking>
-
 # Workplace Safety Violation Claim Form - Help Guide
 
 ## Purpose

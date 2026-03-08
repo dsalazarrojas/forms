@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to help users evaluate their individual accomplishments and progress, which is crucial for personal and professional growth, self-awareness, and goal setting. This form can be used by team members, department heads, or HR representatives to monitor and assess employee performance, provide feedback, and identify areas of improvement. The form is designed to be completed by the employee in collaboration with their supervisor or manager. This form may not be suitable for every employee or situation, and its use should be evaluated on a case-by-case basis to avoid duplication of effort. 
-</thinking>
-
 # Individual Accomplishment Report Form - Help Guide
 
 ## Purpose

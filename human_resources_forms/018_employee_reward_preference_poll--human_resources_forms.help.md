@@ -1,6 +1,3 @@
-<thinking>
-The form "Employee Reward Preference Poll" is used to collect employee preferences for rewards and recognition programs. This form is part of the Human Resources Forms category and is used to gather information about employee preferences, categories of rewards, frequency of rewards, and potential rewards amount. This form should only be used when creating or updating employee reward programs, and should be filled out by authorized HR personnel. Please ensure that you have the correct permissions and clearance to access and edit this form.</thinking>
-
 # Employee Reward Preference Poll - Help Guide
 
 ## Purpose

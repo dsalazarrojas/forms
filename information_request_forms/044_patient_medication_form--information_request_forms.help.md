@@ -1,13 +1,3 @@
-<thinking>
-
-The form is designed to gather information about a patient's medication history. This includes contact information (name, phone number, email, and address), medical history, allergies, and medication details such as name, dosage, frequency, start and end dates. This form is intended for healthcare professionals to collect relevant information about patients for better treatment planning and care.
-
-Before you start, check if you've already filled out this form for the patient. If you've already submitted the form, please ensure that the updated information is reflected in the current instance of the form.
-
-Please note that the form fields are designed to be as comprehensive as possible to help healthcare professionals understand the patient's medication history. Each field is labeled and explained below for your convenience.
-
-</thinking>
-
 # Patient Medication Form - Help Guide
 ## Purpose
 This form is designed to collect comprehensive information about a patient's medication history for better treatment planning and care.

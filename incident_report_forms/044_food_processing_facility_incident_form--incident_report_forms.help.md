@@ -1,5 +1,3 @@
-<thinking> This form is designed to record incidents that occur in a food processing facility. When submitting an incident, please ensure that all relevant fields are filled out accurately and completely. You do not need to fill out all fields, as some are optional. If a field is marked as "required" it must be completed for the submission to be accepted. Please use the provided options for select_one and select_multiple fields to select the correct facility(s) and incident cause(s) involved in the incident. If you are unsure or need clarification on any field, please reach out to your supervisor or contact the facility's management team. </thinking>
-
 # Food Processing Facility Incident Form - Help Guide
 ## Purpose
 

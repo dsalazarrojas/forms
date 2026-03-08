@@ -1,5 +1,3 @@
-<thinking>Internal note to authors: This form is designed to collect information from patients and doctors for the purpose of dental health submissions. It is expected that patients and doctors provide accurate and relevant information to facilitate better care and collaboration. To avoid duplication, please fill out this form only once for each patient. If you have already submitted a dental narrative submission form, please do not submit another. Please fill out the form carefully to ensure that all required fields are completed.</thinking>
-
 # Dental Narrative Submission Form - Help Guide
 ## Purpose
 The dental narrative submission form is a tool to collect information from patients and doctors for dental submissions. It helps to gather necessary details for better dental care and collaboration.

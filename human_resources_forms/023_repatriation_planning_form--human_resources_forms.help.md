@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to gather information for repatriation planning, which is a process of returning employees who are working overseas to their home country. The form is not a required part of the repatriation process, but rather a supporting document to help facilitate the process. The fields on this form should only be filled out if the employee is indeed undergoing repatriation.
-
-This form will be used by HR personnel and other stakeholders to track and manage repatriation cases. It is essential to fill out this form accurately and completely to ensure that all relevant information is captured.
-
-Please note that this form is not a replacement for the official repatriation policy or procedure. It is a supporting tool to help implement and track the repatriation process.
-
-</thinking>
-
 # repatriation_planning_form - Help Guide
 ## Purpose
 This form is used to gather information for repatriation planning, a process of returning employees working overseas back to their home country.

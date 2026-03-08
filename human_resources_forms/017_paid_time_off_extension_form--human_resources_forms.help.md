@@ -1,9 +1,3 @@
-<thinking>
-The Paid Time Off Extension Form is a document used by employees to request an extension of paid time off, which is a period of time when employees are paid to take care of personal or family-related matters without being required to perform work duties.
-The form is used to gather information from the employee to process their request and ensure that it aligns with company policies and procedures. This form is usually filled out by employees when they need to extend a previously approved paid time off period.
-The form does not require any additional information that could be inferred from other sources, and it is intended to be a comprehensive and self-explanatory form.
-</thinking>
-
 # Paid Time Off Extension Form - Help Guide
 ## Purpose
 The Paid Time Off Extension Form is used by employees to request an extension of a previously approved paid time off period. This form helps employees to provide the necessary information to process their request and ensure it aligns with company policies and procedures.

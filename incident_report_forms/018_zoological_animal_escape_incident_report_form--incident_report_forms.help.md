@@ -1,6 +1,3 @@
-<thinking> 
-This form is used for reporting incidents of animals escaping from a zoological institution. The purpose of the form is to collect information about the incident, including the date it occurred, the type of incident (escape or no escape), the location, and other relevant details. This form will help the institution's management to quickly and accurately gather information about the incident, which will aid in preventing future escapes and ensuring the safety and well-being of both humans and animals. Please fill out this form only if you have witnessed or reported an animal escape incident. If you have already reported the incident, you do not need to fill out this form again.</thinking>
-
 # Zoological Animal Escape Incident Report Form - Help Guide
 ## Purpose
 This form is used for reporting incidents of animals escaping from a zoological institution.

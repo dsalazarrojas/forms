@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for background checks on nannies or caregivers. The form helps parents or caregivers request background checks on their nannies or caregivers in a standardized and efficient way. This form is intended to be used by parents or caregivers who need to request background checks on their nannies or caregivers. It is not intended for internal use within an organization or for other purposes.
-</thinking>
-
 # Nanny Background Check Form - Help Guide
 ## Purpose
 This form is designed to collect information for background checks on nannies or caregivers. It is intended for parents or caregivers who need to request background checks on their nannies or caregivers.

@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from potential influencers who wish to collaborate with the brand. The form is intended for influencers who have an established presence on social media and are looking to partner with the brand for sponsored content or other collaborative opportunities. The purpose of the form is to help the brand assess the suitability of the influencer for collaborations based on their profile and past performance. This form should not be filled out by individuals who are not genuine influencers or who are seeking to spam the system with fake accounts.</thinking>
-
 # Influencer Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential influencers who wish to collaborate with the brand. The form is intended for influencers who have an established presence on social media and are looking to partner with the brand for sponsored content or other collaborative opportunities.

@@ -1,12 +1,3 @@
-<thinking> 
-  This form is a comprehensive, informed consent form for individuals using amenities provided by the facility. It covers a wide range of topics, including participant information, medical conditions, physical limitations, emergency contact information, amenity selection, risk acknowledgment, rules and regulations, medical consent, and photo/video release. The purpose of this form is to ensure that participants are aware of the risks associated with using the facilities and that they are able to provide informed consent before participating.
-
-  Before filling out this form, it's crucial to read through each section carefully and understand the implications of the answers given. This form should not be duplicated for any individual or used for any purpose other than the specified amenity use.
-
-  Below is the user guide for filling out this form. Please make sure to follow the instructions carefully and ask for help if you are unsure about any part of the form.
-
-</thinking>
-
 # Amenity Release Waiver - Help Guide
 ## Purpose
 This form is designed to obtain informed consent from participants before they use the amenities provided by the facility. It ensures that participants are aware of the risks associated with using the facilities and that they are able to provide informed consent before participating.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Faculty Contact Request Form - Help Guide
 ## Purpose
 This form is used to submit a request to be contacted by a faculty member. It helps to collect information about the faculty member's name, department, email, phone number, and any message you'd like to share. This information will be reviewed and followed up by the relevant contact person in the department.

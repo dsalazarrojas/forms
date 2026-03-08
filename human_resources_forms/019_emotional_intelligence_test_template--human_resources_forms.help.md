@@ -1,7 +1,3 @@
-<thinking>
-This form is for evaluating the emotional intelligence of individuals or groups by gathering information on their emotional awareness, empathy, and behavioral aspects. The goal is to provide an assessment of how well the respondent is attuned to their emotions, can recognize and manage them, and demonstrate empathy towards others. This form aims to be a tool for personal or team development, coaching, or training sessions. It is designed to be a comprehensive and engaging assessment that helps individuals reflect on their emotional well-being and growth.
-</thinking>
-
 # Emotional Intelligence Test Template - Help Guide
 ## Purpose
 This template is a tool for assessing emotional intelligence in individuals or groups, covering emotional awareness, empathy, and behavioral aspects. It's designed to be used in personal or group settings for development, coaching, or training.

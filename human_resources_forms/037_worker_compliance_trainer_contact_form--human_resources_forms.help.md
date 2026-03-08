@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to collect information about the Worker Compliance Trainer contact, which is a part of the human resources process for ensuring employee compliance with company policies and procedures. This form will help to gather details such as first name, email, phone number, and any additional note or time of contact. It's a one-time contact form, hence no submission button is provided.
-The type of complaint field is used to categorize the complaint into three categories: Compliance, Non-compliance, or Other.
-Before filling out this form, ensure that the "Type of Complaint" is selected correctly, and do not forget to fill out all required fields as indicated by the asterisk symbol (*).
-</thinking>
-
 # Worker Compliance Trainer Contact Form - Help Guide
 ## Purpose
 The Worker Compliance Trainer Contact Form is used to collect information from employees who need to report compliance or non-compliance issues with the company's policies and procedures.

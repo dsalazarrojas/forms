@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-friendly help guide for the "Agriculture Cooperative Member Information Form", let's ensure that the form's purpose and each field's intent are clearly understood by the end user.
-
-This form is designed to gather essential information from agriculture cooperative members, providing the necessary details for the cooperative to better understand their operations, needs, and contact preferences. It's likely that this form is used for member onboarding, data collection, or regular updates.
-
-The form should not be duplicated for the same member, and users should ensure they're filling out this form for a new member.
-
-</thinking>
-
 # Agriculture Cooperative Member Information Form - Help Guide
 ## Purpose
 This form is used to collect and update information from agriculture cooperative members. It helps the cooperative understand their operations, needs, and contact preferences.

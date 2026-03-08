@@ -1,11 +1,4 @@
-> <thinking>... internal form purpose: this form is used to request threat intelligence feeds from our internal team, used for security analysis and reporting. 
-  This form is not for external use, it's intended for internal requests only. 
-  Please ensure you have the correct permissions to use this form. 
-  Also, please be aware that duplicate requests will not be processed, please ensure the feed you are requesting has not been previously submitted or is not under evaluation. 
-  If you submit a request for a feed that is already under development, your request will be denied. 
-  Lastly, please be aware that submitting false information will be met with strict consequences...</thinking>
-
-# Threat Intelligence Feed Request Form - Help Guide
+> # Threat Intelligence Feed Request Form - Help Guide
 ## Purpose
 The Threat Intelligence Feed Request Form is used to submit requests for threat intelligence feeds to our internal team. Please ensure you have the correct permissions to use this form.
 

@@ -1,13 +1,3 @@
-<thinking>
-We have to create a user-facing help guide for a "Patient Record Lookup Form" that is used to retrieve patient information. This form is used to gather specific details about a patient's record, and it is likely used by healthcare professionals to verify patient data. The form has multiple fields that allow users to input various types of information, including text, dates, times, and selections. To ensure that the form is used correctly, we need to clearly explain each field and its purpose.
-
-To prevent duplication of patient records, the form should be used only for looking up existing patient records. If a patient record does not exist, the user should not attempt to create a new one using this form.
-
-The form has a mix of required and optional fields, which is normal for a lookup form. Users should fill in all the required fields and select from the options for the fields that are not required.
-
-Before we begin, please make sure you understand that this form is intended for existing patient records lookup. If you need to create a new patient record, you should use the "Create Patient Record Form".
-</thinking>
-
 # Patient Record Lookup Form - Help Guide
 ## Purpose
 This form is designed for healthcare professionals to quickly look up patient information, including dates, times, and selection options. It is not intended for creating new patient records. Please use it only for retrieving existing records.

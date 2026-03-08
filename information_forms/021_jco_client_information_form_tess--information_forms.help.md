@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect client information for the purpose of booking a service or appointment. The form is designed to be completed by the client, and the data collected will be used to confirm the client's details and schedule the booking. This form should only be used for new clients, as it is not intended for repeat clients or existing clients with previously confirmed bookings. Please ensure that the form is filled out with accurate and complete information before submitting.
-</thinking>
-
 # jco_client_information_form_tess - Help Guide
 ## Purpose
 The jco_client_information_form_tess is a form designed to collect client information for booking a service or appointment.

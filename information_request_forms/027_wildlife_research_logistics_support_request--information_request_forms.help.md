@@ -1,9 +1,3 @@
-<thinking>
-We are checking that you are an expert form designer and technical writer, and we are about to create a user-facing help guide for the "wildlife_research_logistics_support_request" form. This form is designed to collect information related to wildlife research logistics support requests.
-We need to ensure that the form fields are clear and concise, and that the user can easily understand what information is required and what type of input is expected.
-We will use the provided YAML fields to generate the help guide.
-</thinking>
-
 # wildlife_research_logistics_support_request - Help Guide
 ## Purpose
 This form is designed to collect information related to wildlife research logistics support requests. It helps in gathering details about the project, team, and study logistics.

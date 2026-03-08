@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication and ensure accurate information, it's essential to understand the purpose and context of this form before proceeding. This "Client Information Checklist Form" is designed to gather essential details about clients, including their personal and contact information, service requirements, and agreement terms. It's crucial to review each field carefully to ensure completeness and accuracy.
-</thinking>
-
 # Client Information Checklist Form - Help Guide
 ## Purpose
 The Client Information Checklist Form is a comprehensive tool used to collect and verify essential information from clients. This form is typically used for onboarding new clients or for clients seeking services.

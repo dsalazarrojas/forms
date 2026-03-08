@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # home_appraisal_form - Help Guide
 
 ## Purpose

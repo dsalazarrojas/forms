@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Community Safety Consultation Application Form - Help Guide
 
 ## Purpose

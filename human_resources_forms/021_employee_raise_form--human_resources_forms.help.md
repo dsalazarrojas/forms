@@ -1,15 +1,3 @@
-<thinking>
-
-This form is used to document an employee's raise request. It captures necessary information from both the employee and their manager to process the raise request. The goal is to ensure a clear and transparent process. 
-
-The employee is required to provide their personal details and the manager is also required to provide their approval and comments. The final approval status is a select_multiple field which will capture the approval status from both employee and manager sides.
-
-This form does not aim to replace or replicate any existing process, but rather to supplement it. The data collected here should be used as input for further review and evaluation in the current process.
-
-The fields should be clear and concise and the user experience should be smooth and easy to navigate. 
-
-</thinking>
-
 # Employee Raise Form - Help Guide
 ## Purpose
 This form is used to document an employee's raise request, capturing information from both the employee and their manager to process the raise request.

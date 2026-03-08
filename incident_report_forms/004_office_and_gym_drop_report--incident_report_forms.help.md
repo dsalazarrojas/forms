@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for reporting incidents or issues related to office and gym facilities. The purpose of the form is to gather information about specific incidents, such as accidents, injuries, or other problems that occurred at the office or gym. The form may be completed by facility staff, management, or maintenance personnel to report and document these incidents.
-</thinking>
-
 # Office And Gym Drop Report - Help Guide
 ## Purpose
 This form is used to report incidents or issues related to office and gym facilities. Please complete this form to provide detailed information about the incident, including location, description, and any evidence collected.

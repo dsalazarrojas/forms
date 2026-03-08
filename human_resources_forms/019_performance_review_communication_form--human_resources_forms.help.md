@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a Performance Review Communication Form used to facilitate communication between employees and their reviewers during performance reviews. This form helps reviewers to effectively provide feedback and suggestions for improvement to their employees, while ensuring that the necessary information is recorded and communicated. Before using this form, make sure to review the current review period and employee's performance history to ensure relevance and accuracy of the feedback.
-
-</thinking>
-
 # Performance Review Communication Form - Help Guide
 ## Purpose
 The Performance Review Communication Form is used to gather feedback and suggestions from reviewers to provide to employees during performance reviews. This form helps in documenting the review process, providing a structured way to communicate feedback and expectations.

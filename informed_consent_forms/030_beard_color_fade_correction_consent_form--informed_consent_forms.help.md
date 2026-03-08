@@ -1,30 +1,3 @@
-<thinking>
-The form is for clients to provide informed consent before undergoing a beard color correction treatment. This form ensures that clients are aware of the risks and procedures involved in the treatment and have given their consent to proceed. The form requires personal and demographic information, medical history, and a statement of consent. The fields include:
-- First Name
-- Last Name
-- Date of Birth
-- Email Address
-- Phone Number
-- Appointment Date
-- Barber or Stylist Name
-- Current Beard Color
-- Desired Color Result
-- Previous Color Treatments
-- Hair Dye Allergies
-- Patch Test Required
-- Scalp or Skin Conditions
-- Understanding of Treatment Risks
-- Understanding of Possible Reactions
-- Understanding of Aftercare Instructions
-- Understanding of Color Results Variability
-- Consent to Proceed
-- Client Signature
-- Signature Date
-
-Each section of the form is designed to collect specific information necessary for the treatment process. The fields are categorized into personal and demographic information, medical history, and consent statement.
-
-</thinking>
-
 # Beard Color Fade Correction Consent Form - Help Guide
 ## Purpose
 This form is designed to obtain informed consent from clients before undergoing a beard color correction treatment. It ensures that clients are aware of the risks and procedures involved in the treatment and have given their consent to proceed.

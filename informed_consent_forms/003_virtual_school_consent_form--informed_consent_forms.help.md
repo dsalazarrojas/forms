@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Virtual School Consent Form - Help Guide
 
 ## Purpose

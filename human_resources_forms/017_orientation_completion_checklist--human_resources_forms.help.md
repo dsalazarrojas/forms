@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture information about an employee's orientation process, likely for HR purposes. It's likely used to track employee attendance, progress, and other relevant details. The form should only be filled out once per employee.
-</thinking>
-
 # Orientation Completion Checklist - Help Guide
 ## Purpose
 The Orientation Completion Checklist is a form used to track an employee's orientation process. It captures essential information about the employee's experience, ensuring that they have a smooth transition into the company.

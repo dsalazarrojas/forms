@@ -1,7 +1,3 @@
-<thinking>
-This help guide will cover the Team Member of the Month voting form. The form is used to cast votes for team members of the month, which is a recognition program to encourage team spirit and camaraderie. To be eligible for the vote, the team member must be in good standing and have been with the company for at least six months. The form is meant to be filled out by team members, not by managers or administrators.
-</thinking>
-
 # team_member_of_the_month_voting_form_template - Help Guide
 ## Purpose
 The Team Member of the Month voting form is designed to allow team members to vote for their colleagues they deem deserving of recognition for their outstanding work and behavior. This recognition program aims to foster a positive work environment and encourage teamwork.

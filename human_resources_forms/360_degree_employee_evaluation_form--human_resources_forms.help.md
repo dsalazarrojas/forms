@@ -1,14 +1,3 @@
-<thinking>
-This form is intended for human resources or management personnel to conduct a comprehensive evaluation of an employee's performance over a specific period. The evaluation form gathers essential information about the employee's work history, job performance, and areas of development or improvement. By using this form, managers can identify an employee's strengths and weaknesses, set realistic goals, and make informed decisions about their career progression.
-
-Please note that this form is designed to be a general template for 360-degree evaluations, which means it may need to be tailored to suit the specific needs and context of your organization.
-
-Before filling out this form, please ensure that you have reviewed the employee's work history, performance data, and any relevant feedback from colleagues or peers. This form is meant to be a comprehensive assessment, not a one-time evaluation.
-
-Also, please be aware that some fields are optional, and you should only fill them out if the information is applicable to the employee being evaluated.
-
-</thinking>
-
 # 360 Degree Employee Evaluation Form - Help Guide
 ## Purpose
 The purpose of this form is to provide a comprehensive evaluation of an employee's performance, strengths, and areas for improvement.

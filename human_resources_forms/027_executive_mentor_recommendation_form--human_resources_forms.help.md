@@ -1,11 +1,3 @@
-<thinking>... internal reasoning block to ensure we're creating a help guide that aligns with the form's purpose and requirements...
-
-We're creating a help guide for the "Executive Mentor Recommendation Form" to facilitate understanding and accurate completion for end-users. This guide will explain the form's purpose, step-by-step instructions, and a breakdown of each field to ensure clarity and consistency.
-
-Given the form's structure and fields, it seems that this form is used for recommending an executive mentor, likely for a project or program, and requires essential information about the mentor. We'll aim to create a guide that's both informative and concise, covering all the necessary details...
-
-</thinking>
-
 # executive_mentor_recommendation_form - Help Guide
 ## Purpose
 The Executive Mentor Recommendation Form is used to recommend an executive mentor for a project or program. This form helps to gather essential information about the mentor, including their name, organization, contact details, and the nature of their relationship with the project or program.

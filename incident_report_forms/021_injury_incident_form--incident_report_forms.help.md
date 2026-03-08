@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information about an injury incident that has occurred within an organization, gathering details about the incident, the injured party, and any subsequent medical attention received. This form will help ensure that incidents are reported in a standardized and thorough manner, reducing the likelihood of duplication or miscommunication.
 
 To complete this form, please follow the instructions below:

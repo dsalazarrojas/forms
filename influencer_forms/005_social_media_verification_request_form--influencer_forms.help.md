@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is an internal reasoning block to ensure I understand the form's purpose and fields. The form appears to be for social media verification, where the user is required to provide their personal information, such as name, email, phone number, date of birth, and other details to be verified on their selected social media platforms. The form has multiple sections for confirming and verifying the information provided. 
 
 Given this understanding, here is the final help document in Markdown format:

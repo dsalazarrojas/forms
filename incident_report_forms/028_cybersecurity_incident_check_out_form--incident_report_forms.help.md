@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about a cyber security incident. It is meant for internal use within an organization. The purpose of this form is to provide a quick and easy way to report and track incidents. Before filling out this form, please ensure that you have not already reported this incident and that you have a clear understanding of the incident's details.
-
-This form is not intended for external use and is only for internal reporting. Please do not share this form with anyone outside of the organization.
-
-If you are unsure about what type of incident to report or how to fill out this form, please reach out to the incident response team for assistance.
-
-</thinking>
-
 # cyber_security_incident_check_out_form - Help Guide
 ## Purpose
 This form is used to report and track cyber security incidents within the organization. It gathers information about the incident type, date, time, location, description, reporter, status, and assignee.

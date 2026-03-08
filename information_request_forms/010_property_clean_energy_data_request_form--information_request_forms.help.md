@@ -1,10 +1,3 @@
-<thinking>
-This form is a data collection tool for requesting clean energy data from building owners and property managers. The purpose of this form is to gather information on a property's energy usage, type, and clean energy sources. This form will help the user understand their energy usage and make informed decisions about their energy consumption. Please ensure this form is only completed by the relevant person or authority, and that you are not duplicating this form submission.
-
-Please note that this form should only be filled out for properties that require clean energy data.
-
-</thinking>
-
 # property_clean_energy_data_request_form - Help Guide
 ## Purpose
 This form is a data collection tool for requesting clean energy data from building owners and property managers.

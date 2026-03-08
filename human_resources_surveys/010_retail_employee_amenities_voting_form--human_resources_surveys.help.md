@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from retail employees about the amenities they find most valuable in their workplace. The form is designed to help managers understand what matters most to their employees and make informed decisions about how to improve the work environment. To avoid duplication, please only fill out this form once per employee.
-</thinking>
-
 # Retail Employee Amenities Voting Form - Help Guide
 ## Purpose
 This form is used to collect feedback from retail employees on the amenities they value most in their workplace.

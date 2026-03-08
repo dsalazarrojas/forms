@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Severity 1 Incident Report Form - Help Guide
 ## Purpose
 This form is designed to collect information about Severity 1 incidents, which are incidents that significantly impact business operations, critical systems, or pose an imminent threat to safety. The goal is to document the incident and its resolution in a structured and detailed manner, allowing for efficient incident management and reporting.

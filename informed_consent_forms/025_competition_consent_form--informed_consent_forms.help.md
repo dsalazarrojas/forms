@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect informed consent from participants in a competition. This form serves as a legal and administrative requirement to ensure that participants understand and agree to the competition rules, regulations, and potential risks associated with participation. It's crucial to fill out this form accurately and truthfully.
-
-Before proceeding, please check that you have not completed this form previously. If you have any doubts or concerns, please reach out to the competition organizers for clarification.
-
-</thinking>
-
 # Competition Consent Form - Help Guide
 ## Purpose
 The Competition Consent Form is a document that requires competitors to provide informed consent to participate in a competition. This form is a mandatory part of the competition registration process, and it helps ensure that participants are aware of the rules, regulations, and potential risks involved.

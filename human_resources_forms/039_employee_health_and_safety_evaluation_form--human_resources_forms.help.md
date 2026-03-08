@@ -1,20 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about employee health and safety within a workplace setting. The form is designed to assess various factors that may affect an employee's well-being, including contact information, health risk factors, workplace risks, health conditions, evaluation date and time, and comments. This information will be used to identify areas for improvement and help ensure a safe working environment.
-
-To complete this form, please follow these steps:
-
-1.  Start by providing contact information for the employee.
-2.  Proceed to provide information about the employee.
-3.  Next, assess health risk factors, selecting all that apply.
-4.  Then, identify workplace risks, selecting all that apply.
-5.  Indicate whether the employee has a health condition.
-6.  Provide the evaluation date.
-7.  Specify the evaluation time.
-8.  Finally, include any comments that may be relevant to the evaluation.
-
-Please note that some fields are required, denoted by asterisks. If a field is required, ensure that you fill it out accordingly.
-</thinking>
-
 # Employee Health And Safety Evaluation Form - Help Guide
 ## Purpose
 This form is used to collect employee contact information, health risk factors, workplace risks, health conditions, evaluation date, evaluation time, and comments.

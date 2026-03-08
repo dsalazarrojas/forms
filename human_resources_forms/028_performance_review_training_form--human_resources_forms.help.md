@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 <dl class="docutils">
 <dt>What is the purpose of this form?</dt>
 <dd>This form is designed to gather information about an employee's performance and training needs for a company's performance review process.</dd>

@@ -1,7 +1,3 @@
-<thinking>
-To be honest, creating a help guide for a form like this seems a bit strange, as it doesn't seem like the usual type of form where a lot of thought and attention is put into its design and functionality. Nonetheless, I will do my best to create a helpful document for the form's creators and users.
-</thinking>
-
 # Podcast Guest Form - Help Guide
 ## Purpose
 

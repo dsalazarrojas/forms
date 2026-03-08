@@ -1,7 +1,3 @@
-<thinking>
-The hiring bonus requisition addendum form is used to request a hiring bonus for an employee. The form should only be completed by authorized personnel, such as HR representatives or department managers. This form is typically used to request a one-time or recurring bonus payment for an employee in relation to their job performance or other relevant factors. To ensure that the bonus requisition is valid, the form should not be submitted for an employee who has already received a bonus in the past 30 days. This form should be reviewed and approved by the HR department before it is finalized.
-</thinking>
-
 # hiring_bonus_requisition_addendum_form - Help Guide
 ## Purpose
 The hiring bonus requisition addendum form is used to request a bonus for an employee in relation to their job performance or other relevant factors. This form should only be submitted by authorized personnel.

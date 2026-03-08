@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to provide a simple and intuitive way to create a job description for job postings. By filling out this form, users can quickly and easily generate a basic job description that can be used for internal purposes or shared externally. The form is designed to be flexible and adaptable to various job scenarios. Before proceeding, please note that this form is not affiliated with any specific form platform, and the generated content may not perfectly match the exact requirements of your organization or industry.
-
-</thinking>
 # Job Description Builder Tool From Jay Inc - Help Guide
 
 ## Purpose

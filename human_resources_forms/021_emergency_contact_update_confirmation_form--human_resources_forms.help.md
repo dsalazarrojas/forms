@@ -1,7 +1,3 @@
-<thinking>
-This form is used for updating the emergency contact information of an individual, ensuring that the information is accurate and up-to-date in case of an emergency. It is essential to fill in this form only if you are an authorized personnel who needs to update an employee's or a contractor's emergency contact information. Please ensure you only update the fields that have changed.
-</thinking>
-
 # Emergency Contact Update Confirmation Form - Help Guide
 ## Purpose
 This form is intended to collect and update the emergency contact information of an individual. It should be completed by authorized personnel to ensure that the information is accurate and up-to-date in case of an emergency.

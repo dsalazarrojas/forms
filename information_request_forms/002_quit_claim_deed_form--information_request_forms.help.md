@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for a Quit Claim Deed, a legal document that transfers ownership of a property from one individual (Grantor) to another (Grantee). The form requires information about the property's description, Grantor's name, Grantee's name, date of record, consideration (the value of the transfer), property address, Grantor's address, Grantee's address, county, and state. This form is used to facilitate the transfer of property ownership between individuals. The fields are designed to gather the necessary information to complete the Quit Claim Deed process. Please ensure the form is filled out accurately and completely to avoid any issues with the transfer process.
-</thinking>
-
 # Quit Claim Deed Form - Help Guide
 ## Purpose
 The Quit Claim Deed Form is a legal document that transfers ownership of a property from one individual (Grantor) to another (Grantee). This form is used to collect the necessary information to complete the transfer process.

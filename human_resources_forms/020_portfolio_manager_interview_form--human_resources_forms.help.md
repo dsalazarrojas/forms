@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "portfolio_manager_interview_form" is to collect information from individuals about their work history and experiences. This form can be used for HR purposes, such as evaluating candidate suitability for a specific role or tracking employee data. Please ensure that the form is not used for any other purpose without proper authorization.
-</thinking>
-
 # portfolio_manager_interview_form - Help Guide
 ## Purpose
 The "portfolio_manager_interview_form" is a tool designed to gather information about an individual's work history and experiences.

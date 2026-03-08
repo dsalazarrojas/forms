@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from new employees as part of the onboarding process. The purpose of this form is to ensure that all necessary details are collected in a structured and efficient manner, reducing the risk of missing crucial information. To prevent duplication of effort, please use this form for all new hires. This form will help streamline the onboarding process and improve the accuracy of employee records.
-</thinking>
-
 # Employee Onboarding Intake Form - Help Guide
 ## Purpose
 The Employee Onboarding Intake Form is designed to collect essential information from new employees, ensuring a smooth and efficient onboarding process.

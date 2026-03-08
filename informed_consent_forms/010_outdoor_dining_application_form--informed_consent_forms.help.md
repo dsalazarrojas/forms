@@ -1,11 +1,3 @@
-<thinking>
-This form is used to create a new outdoor dining application. The form is used to collect information about an event that will be hosted outdoors, including the form of payment, reservation details, and establishment contact information. It is a required field to ensure that the event is properly registered and accounted for by the establishment. 
-
-To avoid duplication, please make sure that the form is filled out completely and accurately. Incomplete or inaccurate information may lead to delays or rejections of the application.
-
-The form is divided into several sections. Please make sure to fill out each section accurately and thoroughly.
-</thinking>
-
 # outdoor_dining_application_form - Help Guide
 ## Purpose
 This form is used to create a new outdoor dining application for an event that will be hosted outdoors. It is required to be filled out completely and accurately.

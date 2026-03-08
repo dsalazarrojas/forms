@@ -1,9 +1,3 @@
-<thinking>...
-
-This form is intended to be used by HR (Human Resources) department to investigate incidents or events related to employees. The form captures relevant information about the event, including details about the employee involved, the type of investigation required, and the status of the investigation. The purpose of this form is to ensure that HR has all the necessary information to conduct a thorough and effective investigation. It is essential to complete this form accurately and in its entirety to avoid any potential duplication of efforts or missed information.
-
-</thinking>
-
 # HR Investigation Form - Help Guide
 ## Purpose
 The HR Investigation Form is a tool used by the HR department to gather information and track the progress of investigations related to employees. This form helps to ensure that all necessary details are captured, and the investigation is conducted efficiently and effectively.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about vehicle accidents. It will likely be used by fleet management, insurance companies, or law enforcement agencies to record and track vehicle accidents in various settings, such as company vehicles, public roads, or private parking lots. The form should not be used for any other type of incident or report that is not related to vehicle accidents. Please note that some fields might be used for additional purposes by certain organizations, but the primary intention of this form is for vehicle accident reporting.
-
-The form is composed of various sections that cover different aspects of the vehicle accident, including vehicle information, accident details, and witness information. Each field is designed to collect specific data, such as vehicle type, year made, and color. The form also includes fields for witness information, including witness name, phone, and email. Please make sure to fill out each field accurately and completely to ensure the form is completed correctly.
-</thinking>
-
 # Vehicle Accident Report Form - Help Guide
 ## Purpose
 The Vehicle Accident Report Form is designed to collect information about vehicle accidents for use by fleet management, insurance companies, and law enforcement agencies.

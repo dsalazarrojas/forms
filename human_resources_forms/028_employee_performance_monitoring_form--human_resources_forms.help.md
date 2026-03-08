@@ -1,5 +1,3 @@
-<thinking>...The Employee Performance Monitoring Form is used to evaluate employee performance, provide feedback and guidance, and document progress. It's essential that this form is filled out correctly to ensure accurate employee data is captured. To prevent errors, please fill out the form once you've confirmed that the form has been assigned to you and that there is a clear understanding of the form's purpose. Also, be mindful that this form is intended for individual employees and not for multiple employees at once. Please ensure you're filling this form for the correct employee to avoid duplication and errors. If you're unsure about filling this form, please reach out to your supervisor or HR department for assistance. This form should be filled out by one manager at a time and not shared among multiple managers...</thinking>
-
 # Employee Performance Monitoring Form - Help Guide
 
 ## Purpose

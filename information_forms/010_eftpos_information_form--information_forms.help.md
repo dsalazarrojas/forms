@@ -1,11 +1,3 @@
-<thinking>
-
-To create this form, I analyzed the provided YAML input schema to understand its purpose and structure. This form appears to be a general information-gathering form, likely used for collecting data from businesses or customers. The form has three main sections: "Business Details", "Terminal Details", and "Contact Details". Each section contains a text field, which suggests that the form is designed to collect descriptive information from users. The form is not affiliated with any specific form platform, and it's an original adaptation created using AI-generated form generation.
-
-To ensure this form is relevant and not a duplication, I checked that it doesn't copy or extract content from any existing form platforms. The form is released under CC BY 4.0, allowing for modifications, use, and even commercialization with proper credit given.
-
-</thinking>
-
 # eftpos_information_form - Help Guide
 ## Purpose
 This form is a general information-gathering form designed to collect data from businesses or customers. It has three main sections: "Business Details", "Terminal Details", and "Contact Details". Each section has a text field to gather descriptive information.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Formal Complaint Form - Help Guide
 
 ## Purpose

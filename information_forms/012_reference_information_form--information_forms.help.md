@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect reference information from users, which may be used for various purposes such as customer onboarding, data analysis, or identification verification. The form's design is based on the "Information Forms" category and "Reference Information" title, indicating its focus on collecting relevant details about individuals or entities. To ensure relevance and non-duplication, it is essential to understand the form's purpose and content before proceeding. This guide will walk you through the form's structure and each field's explanation to help users complete it accurately.
-</thinking>
-
 # reference_information_form - Help Guide
 ## Purpose
 The "Reference Information Form" is designed to collect essential details from users, which may be used for various purposes such as customer onboarding, data analysis, or identification verification.

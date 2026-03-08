@@ -1,5 +1,3 @@
-<thinking>As an expert in form design and technical writing, I'm considering the context of human resources and the specific needs of employees who submit personal travel leave requests. The purpose of this form is to gather information from employees about their upcoming travel plans, ensuring that they have enough leave from work, and provide a formal record of their requests for the management and HR team to process. To prevent duplicate or incomplete requests, it's essential to follow the instructions carefully and ensure that all fields are completed correctly. This form is meant to facilitate a smooth communication process between employees and the HR department, and we recommend that employees review this guide before submitting their requests.</thinking>
-
 # Personal Travel Leave Of Absence Request - Help Guide
 
 ## Purpose

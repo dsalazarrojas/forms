@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # submit_a_forum_post - Help Guide
 
 ## Purpose

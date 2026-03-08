@@ -1,9 +1,3 @@
-<thinking>
-
-**Internal Note:** This form is used to facilitate office key replacement requests within the organization. It's essential to ensure that each request is properly documented and reviewed to prevent duplication and miscommunication. Before submitting a request, please ensure that you have discussed it with your supervisor or department head to avoid unnecessary delays. If you're unsure about the purpose or requirements of this form, please reach out to your HR department for guidance.
-
-</thinking>
-
 # Office Key Replacement Request Form - Help Guide
 ## Purpose
 

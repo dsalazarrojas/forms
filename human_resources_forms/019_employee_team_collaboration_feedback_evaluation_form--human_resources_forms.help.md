@@ -1,11 +1,3 @@
-<thinking>
-This form is used to evaluate the team collaboration skills of employees within a team. It seems there may be some redundancy in the form questions, as several questions appear to be similar in nature (e.g., "what_skills_did_you_observe_in_your_team_members" and "overall_satisfaction_with_team_collaboration" may not be directly related, as the former is more focused on skills while the latter is about overall satisfaction). Additionally, "what_collaboration_tools_have_you_used" may not be directly related to the core concept of team collaboration skills. However, the overall structure and goals of the form seem to be well-defined and useful for evaluating team collaboration.
-
-This form has 10 fields, each representing a different aspect of team collaboration. The fields are designed to gather feedback from team members on their experiences and observations within the team. This form will help to identify areas of strength and weakness in team collaboration, allowing for targeted support and improvement.
-
-Please note that some fields may be optional, and the user can choose to skip them if they do not wish to provide feedback on those specific topics.
-</thinking>
-
 # Employee Team Collaboration Feedback Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from team members on their experiences and observations within the team collaboration process. It will help identify areas of strength and weakness in team collaboration.

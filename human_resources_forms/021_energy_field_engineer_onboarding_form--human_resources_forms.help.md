@@ -1,7 +1,3 @@
-<thinking>Before creating the help guide, let me make sure I understand the form purpose and requirements. The Energy Field Engineer Onboarding Form seems to be a comprehensive onboarding process for new hires, covering personal details, safety acknowledgments, emergency contacts, work hours, onboarding status, and supervisor approvals and comments. It appears to be designed to ensure that new employees have received necessary training, certifications, and orientation to begin their work safely and effectively. I will now create the user-facing help guide for this form.
-
-</thinking>
-
 # Energy Field Engineer Onboarding Form - Help Guide
 ## Purpose
 The Energy Field Engineer Onboarding Form is a mandatory form for all new hires in the energy field. It is used to gather necessary information for onboarding and ensure that new employees have received the necessary training, certifications, and orientation to begin their work safely and effectively.

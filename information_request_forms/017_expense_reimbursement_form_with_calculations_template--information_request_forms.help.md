@@ -1,5 +1,3 @@
-<thinking>Expense reimbursement forms are used by companies to track and process employee expenses. The purpose of this form is to collect information about employee business trips and expenses, allowing the company to accurately track and reimburse employees for their expenses. This form template includes fields for various types of information, such as dates, expense types, and amounts. This template is designed to be easily fillable and flexible, allowing users to quickly and accurately submit their reimbursement requests. It is also possible that this form has been duplicated in other areas of the company. Please ensure that you are filling this form for the correct purpose and that it is not a duplicate request.</thinking>
-
 # Expense Reimbursement Form With Calculations Template - Help Guide
 ## Purpose
 This form is used to request reimbursement for business-related expenses incurred during travel. It captures key information such as dates of travel, types of expenses, and calculations for tax and net amount.

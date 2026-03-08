@@ -1,5 +1,3 @@
-<thinking>Food diary templates are used to record the food and drink intake of individuals over a period of time. This form is designed to be simple and easy to use, asking for input on breakfast, lunch, dinner, snacks, and notes. By filling out this form, users can track their food consumption and identify patterns or areas for improvement in their diet.</thinking>
-
 # Food Diary Template - Help Guide
 ## Purpose
 The Food Diary Template is a tool to help users track their food and drink intake over a period of time. It's designed to be simple and user-friendly.

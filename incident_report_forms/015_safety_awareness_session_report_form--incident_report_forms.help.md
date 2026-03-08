@@ -1,11 +1,3 @@
-<thinking>
-This guide is for the "Safety Awareness Session Report Form" to help users understand its purpose and how to complete it. The form is likely used to report on safety awareness sessions, which are educational programs or meetings that focus on raising awareness about safety procedures, policies, and best practices within an organization. 
-
-To confirm, this form is meant to collect information about trainees, trainers, and sessions, including details about the topics covered, any safety concerns or concerns raised, and notes from the session.
-
-Before using this form, please ensure you haven't already completed it for the same session, as duplicate reports might lead to inaccurate records.
-</thinking>
-
 # Safety Awareness Session Report Form - Help Guide
 
 ## Purpose

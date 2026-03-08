@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather essential information about individuals seeking to find a suitable roommate or a place to live with. The form is designed to help match potential roommates based on their personal preferences and living requirements. This form is intended for people who are looking for a new living arrangement, whether it's a short-term or long-term stay. 
-
-To ensure accuracy and relevance of the matches, users should only fill out this form once, as duplicate submissions can lead to confusion in the matching process. Please make sure to fill out the form with accurate and up-to-date information to increase the chances of finding a suitable match.
-
-</thinking>
-
 # Roommate Matching Form - Help Guide
 ## Purpose
 The Roommate Matching Form is designed to help you find a suitable roommate or a place to live with. To increase the chances of a successful match, please fill out the form accurately and thoroughly.

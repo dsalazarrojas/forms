@@ -1,13 +1,3 @@
-<thinking> 
-
-**Internal reasoning block:**
-
-To ensure this help guide is accurate and relevant, let's first review the form's purpose and fields. The "Compliance and Certification Contact Form" is a form intended for organizations seeking guidance or certification on compliance matters. It collects information about the organization, its current compliance status, and its needs. The form's fields cover various aspects, including contact details, inquiry specifics, certification interests, and preferred contact methods. 
-
-Before proceeding with this guide, I confirm that the form is for informational purposes only and doesn't require any sensitive or confidential data. Additionally, there's no risk of duplication, as it appears the form is designed to handle a unique case per submission.
-
-</thinking>
-
 # Compliance and Certification Contact Form - Help Guide
 ## Purpose
 The "Compliance and Certification Contact Form" is designed for organizations seeking guidance or certification on compliance matters. This form will help us understand your needs and provide you with relevant information and support.

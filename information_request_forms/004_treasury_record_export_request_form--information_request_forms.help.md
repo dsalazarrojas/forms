@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to request a treasury record export, which is used to retrieve a financial record from the system. The purpose of this form is to gather necessary information from the user to fulfill the export request, including the type of record, date range, output format, and other relevant details. To avoid duplication, the system will check if a similar request has been made recently. Please ensure that the information you provide is accurate and complete to ensure a successful export.
-</thinking>
-
 # Treasury Record Export Request Form - Help Guide
 ## Purpose
 The Treasury Record Export Request Form is used to request a treasury record export, which is used to retrieve a financial record from the system.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to capture information from employees regarding their employee relations. The form is likely used by HR or management to track and manage employee concerns, grievances, or requests. It's essential to complete this form accurately and truthfully to ensure that their concerns are handled efficiently and effectively. Please ensure that you are submitting this form if you have a genuine reason for doing so, and not for frivolous purposes.
-
-</thinking>
-
 # employee-relations-application-form - Help Guide
 ## Purpose
 The employee-relations-application-form is used to capture information from employees regarding their employee relations.

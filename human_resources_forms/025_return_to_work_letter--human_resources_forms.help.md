@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Return To Work Letter - Help Guide
 
 ## Purpose

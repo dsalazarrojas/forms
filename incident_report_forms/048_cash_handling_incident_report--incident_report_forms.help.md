@@ -1,9 +1,3 @@
-<thinking>
-**Internal Reasoning Block:**
-This form, "Cash Handling Incident Report," is designed to collect information about incidents related to cash handling, such as cash shortages, overages, and other related issues. The form helps identify the root cause and prevent future occurrences. It's crucial to accurately and thoroughly fill out this form to ensure proper incident investigation and resolution. Please ensure that all required fields are filled out and that you are aware of the specific options available for each field.
-
-</thinking>
-
 # Cash Handling Incident Report - Help Guide
 ## Purpose
 The Cash Handling Incident Report is a form used to document and investigate incidents related to cash handling, such as cash shortages, overages, and other similar issues. This form helps identify the root cause and prevent future incidents.

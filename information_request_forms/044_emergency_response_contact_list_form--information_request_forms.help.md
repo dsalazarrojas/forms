@@ -1,14 +1,3 @@
-<thinking>
-**Purpose:** This form is designed to collect information about emergency contacts that can be contacted in case of emergency situations. It's used to gather data that can help in responding to emergency situations effectively.
-
-**Internal Reasoning Check:**
-
-* This form is meant to be used in scenarios where emergency response is critical, such as in crisis situations or disasters.
-* It should only be used when the organization is not already aware of the emergency contact list for the client.
-* Please ensure that the client's emergency contact information is not already available through other means, such as their case management record or other documentation.
-* If unsure, consult with the supervisor or team lead before submitting the form.
-</thinking>
-
 # emergency_response_contact_list_form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Veterinary Employee Self-Assessment Form - Help Guide
 ## Purpose
 

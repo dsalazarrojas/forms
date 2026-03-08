@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to gather and track information related to workplace training activities. It's intended to capture essential details about the training request, including the type of training, location, duration, start and end dates, approval status, and other relevant information. This form will be used by employees to request approval for training activities and will help the training approvers to make informed decisions about these requests. It's a critical tool in ensuring that training activities are properly managed and approved in a timely manner. It's essential to fill out this form accurately and thoroughly to ensure that your training request is processed correctly. Please make sure to fill out this form once for each training request and avoid duplicating your requests.</thinking>
-
 # workplace_training_approval_form - Help Guide
 ## Purpose
 The workplace training approval form is used to request and track approval for training activities.

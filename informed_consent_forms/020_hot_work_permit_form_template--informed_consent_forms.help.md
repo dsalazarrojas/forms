@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a well-structured help guide for the "Hot Work Permit Form Template", we'll follow the provided instructions and guidelines. First, let's break down the form's purpose and required fields to ensure we're creating a comprehensive guide that's easy to follow.
 
 Upon reviewing the input schema, we can see that the form is designed for workers and supervisors to report and manage hot work activities, which likely involves tasks that have a high risk of causing an electrical shock or explosion. The form likely serves as a record-keeping mechanism to ensure that all hot work activities are properly assessed, monitored, and authorized.

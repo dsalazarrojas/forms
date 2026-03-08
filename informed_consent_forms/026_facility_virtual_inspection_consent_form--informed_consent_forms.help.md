@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the "facility_virtual_inspection_consent_form", let's consider the following steps:
 
 The purpose of this form is to obtain virtual inspection consent from users, potentially for a facility or property inspection. This form aims to collect user information, preferred inspection time, consent status, and other relevant details. It's crucial to ensure that users understand what the form is for and what information it requires, to avoid confusion and ensure accurate completion.

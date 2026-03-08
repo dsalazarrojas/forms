@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect contact and job information from applicants for remote job interviews. The form consists of 8 sections: contact information, availability, job information, experience, skills, education, education_other, and language_proficiency.
-The form is not affiliated with any form platform, nor does it copy or extract proprietary content from any other form creation platform. It was AI-generated using public survey topic metadata.
-</thinking>
 # remote_job_interview_form - Help Guide
 ## Purpose
 This form is intended to gather essential details from remote job applicants, including contact information, availability, job details, and relevant skills and qualifications.

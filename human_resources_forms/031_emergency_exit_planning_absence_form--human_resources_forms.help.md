@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for recording information and plans for emergency exit drills within the company. The form is to be used in case of an emergency exit absence where an employee may be absent from work due to a situation that may require evacuation or other emergency response. The employee must be present to provide information about their emergency contact and the details of the drill.
-
-To prevent duplication, please fill out this form only once. If the employee has been through an emergency exit drill before, please refer to the previous record.
-</thinking>
-
 # Emergency Exit Planning Absence Form - Help Guide
 ## Purpose
 The Emergency Exit Planning Absence Form is designed to collect information about emergency exit drills. Please use this form to report your emergency exit absence to the company.

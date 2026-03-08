@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Website Planning Form - Help Guide
 ## Purpose
 This form is designed to collect information from website planners, developers, and stakeholders to better understand their website planning needs and requirements. It will help us gather essential details about the website's purpose, target audience, and features. By completing this form, you'll be providing valuable insights that will inform our planning and development process.

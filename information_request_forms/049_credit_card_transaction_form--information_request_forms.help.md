@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # credit_card_transaction_form - Help Guide
 ## Purpose
 The credit card transaction form is designed to collect information about a credit card transaction from a customer. This form is used for various purposes such as credit card applications, merchant inquiries, or other relevant transactions. Please ensure that you only fill out this form for legitimate transactions and not for unauthorized or duplicate purposes.

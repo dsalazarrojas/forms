@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to be used for mid-year performance reviews of employees in an organization. The form is meant to provide a structured framework for managers to assess an employee's performance, identify strengths and areas for development, set goals for the next six months, and document feedback and action items. This is a crucial tool for employee evaluation and growth, ensuring that the performance review process is thorough and fair.
-
-The mid-year performance review form is usually completed by both the employee and their manager, providing a 360-degree view of the employee's performance. The form is designed to be completed in a way that is both efficient and comprehensive, covering essential aspects of an employee's job performance, development needs, and future goals.
-
-Before starting the form, ensure that you have all the necessary information and approvals from your manager or HR department.
-
-</thinking>
-
 # mid_year_performance_review_form - Help Guide
 ## Purpose
 The mid-year performance review form is a tool for evaluating employee performance, identifying areas for growth, setting future goals, and documenting feedback and action items. It's a crucial part of the performance review process, ensuring a fair and thorough assessment of an employee's performance.

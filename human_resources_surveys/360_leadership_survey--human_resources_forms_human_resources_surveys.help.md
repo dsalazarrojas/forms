@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to help evaluate a leader's effectiveness in a 360-degree feedback survey. The purpose of this form is to gather insights from various perspectives, including direct reports, peers, and supervisors, to provide a comprehensive understanding of the leader's strengths and areas for improvement. This form is intended for use in a workplace setting, specifically in departments and teams.
-
-Before completing this form, please note that:
-
-*   This form is for assessing a specific leader, not a generic evaluation of the team or department.
-*   The form is designed to be completed by people who have had interactions with the leader in their professional capacity.
-*   The ratings and feedback are for the leader's personal growth and development, not for disciplinary or performance-based actions.
-
-</thinking>
-
 # 360 Leadership Survey - Help Guide
 ## Purpose
 The 360 Leadership Survey is designed to gather feedback from various perspectives to help leaders understand their strengths and areas for improvement. This guide will walk you through each section of the form.

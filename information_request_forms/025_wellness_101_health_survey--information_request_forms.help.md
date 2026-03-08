@@ -1,9 +1,3 @@
-<thinking>
-This form is a Wellness 101 Health Survey form used to gather personal information from users. 
-The purpose of this form is to collect basic demographic information, such as name, email, phone number, date of birth, and address. Additionally, the form includes some open-ended questions to gather more in-depth information on the user's health and wellness status. This form is intended for internal use within the organization, and the information collected will be used to better understand the user's needs and preferences.
-To avoid duplication, please note that you must be a registered user to access this form.
-</thinking>
-
 # Wellness 101 Health Survey - Help Guide
 ## Purpose
 The Wellness 101 Health Survey is a form used to collect basic demographic information and in-depth health and wellness status from users.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about students, including their general information, contact details, and academic information. It is likely used in an educational setting to create or update student records.
-To prevent duplication, you may want to check if the student already exists in the system before proceeding with the form submission.
-</thinking>
-
 # Student Information Collection Form - Help Guide
 ## Purpose
 This form is used to collect student information for educational purposes. You can use it to create or update student records.

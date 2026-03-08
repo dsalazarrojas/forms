@@ -1,11 +1,3 @@
-<thinking>
-
-The Hiring Form Template is designed to collect information about a job applicant, with the goal of providing a comprehensive and organized dataset to support the hiring process. This form is intended for internal use by HR personnel to efficiently manage job openings and candidate information.
-
-When creating a job posting, it's essential to consider the form's purpose and ensure that it's not being used for other non-related tasks to avoid confusion and data duplication.
-
-</thinking>
-
 # Hiring Form Template - Help Guide
 ## Purpose
 The Hiring Form Template is a tool used to gather information about job applicants and support the hiring process. It provides a structured way to collect and store data about job postings and candidates.

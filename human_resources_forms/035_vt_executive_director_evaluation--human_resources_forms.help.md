@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # vt_executive_director_evaluation - Help Guide
 ## Purpose
 This form is used to evaluate the performance of an executive director, providing a structured way to assess their leadership, communication skills, and overall effectiveness. The form is designed to be completed by evaluators who have worked closely with the executive director and have first-hand knowledge of their performance.

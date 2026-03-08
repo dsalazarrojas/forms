@@ -1,5 +1,3 @@
-<thinking> This is a form for assessing employee grooming standards and policies within the company. The purpose of this form is to ensure that employees are meeting the expected standards for their professional appearance. The form asks for input on whether employees are following company policies and standards, and also collects information on the employee's name, department, date and time of the assessment, and any additional notes or comments. The assessment is likely used to identify areas where employees may be falling short of the expected standards, and provide guidance on how to improve. This form is used by HR or management to conduct assessments and provide feedback to employees. </thinking>
-
 # Employee Grooming Assessment Form - Help Guide
 
 ## Purpose

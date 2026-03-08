@@ -1,7 +1,3 @@
-<thinking>
-This form is used to acknowledge and record employee completion of security awareness training. It helps track the progress of employees through the training process. To ensure accurate data, it's recommended that employees fill this form only once per training session. This form should not be filled in for multiple training sessions.
-</thinking>
-
 # Security Awareness Training Acknowledgement - Help Guide
 ## Purpose
 This form is used to record and track employee completion of security awareness training.

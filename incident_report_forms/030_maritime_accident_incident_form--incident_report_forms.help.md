@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Maritime Accident Incident Form is a crucial tool for reporting and documenting incidents that occur during maritime activities. It ensures that all relevant information about the incident is collected accurately and in a structured format, aiding in the investigation and analysis processes. The form should only be filled out for genuine incident reporting purposes, avoiding unnecessary duplication of work.
 
 </thinking>

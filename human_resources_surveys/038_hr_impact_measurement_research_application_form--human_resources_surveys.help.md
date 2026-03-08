@@ -1,5 +1,3 @@
-<thinking>Before diving into the help guide, let's take a moment to understand the purpose and requirements of this form. The HR Impact Measurement Research Application Form is used to collect information about research proposals, projects, and their associated details. This form likely serves as a tool for HR departments to measure the impact and effectiveness of research initiatives within their organization. It's essential to ensure that the form is completed correctly to avoid duplication of efforts and to provide accurate information for future reference.</thinking>
-
 # HR Impact Measurement Research Application Form - Help Guide
 
 ## Purpose

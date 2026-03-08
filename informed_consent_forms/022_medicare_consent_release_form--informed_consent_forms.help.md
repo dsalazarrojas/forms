@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather informed consent from patients for medical care. This form ensures that patients understand their rights, responsibilities, and the scope of care they will receive. It's essential to complete this form accurately and honestly to maintain a clear record of the patient's consent. Please note that this form is designed to be completed once for each patient, and any duplicate entries may lead to confusion and potential errors in care delivery.
-
-To check for duplicate entries, you can verify the patient's name, date of birth, and other identifying information. If you're unsure about any aspect of the form, please reach out to the patient's healthcare provider or the organization's administration for guidance.
-
-Before proceeding, ensure you have the patient's consent and understand their expectations. This form is meant to be a comprehensive record of the patient's rights and care delivery. Please complete this form carefully and accurately.
-
-</thinking>
-
 # medicare_consent_release_form - Help Guide
 ## Purpose
 This form is used to gather informed consent from patients for medical care. It helps ensure that patients understand their rights, responsibilities, and the scope of care they will receive.

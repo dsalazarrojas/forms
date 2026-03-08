@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from end-users to create a customized puppy clicker training guide. It's crucial to ensure that users fill out the form accurately and consistently. To prevent duplication of efforts, please verify that a similar form has not been completed previously. If you're unsure about the form's purpose, please contact the system administrator for clarification.
-</thinking>
-
 # Puppy Clicker Training Guide Request Form - Help Guide
 
 ## Purpose

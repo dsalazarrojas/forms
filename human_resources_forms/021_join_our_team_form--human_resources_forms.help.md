@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Join Our Team Form - Help Guide
 ## Purpose
 The Join Our Team Form is designed to collect applications from candidates interested in joining your organization. This form allows candidates to provide necessary information about themselves, their qualifications, and experience. It's essential to fill out this form to be considered for job openings within your company.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect medical employment information from users, likely for HR purposes or medical record keeping. It appears to be designed to gather essential details about an employee's contact information, medical insurance, and employment history. To ensure accurate completion, it's crucial to review the form carefully and ensure that all required fields are filled out. Please double-check that you are not duplicating any existing records.
-</thinking>
-
 # Medical Employment Information Form - Help Guide
 ## Purpose
 The Medical Employment Information Form is designed to collect essential details about an employee's contact information, medical insurance, and employment history. This form is meant to gather accurate and up-to-date information for HR purposes, medical record keeping, and other related administrative tasks.

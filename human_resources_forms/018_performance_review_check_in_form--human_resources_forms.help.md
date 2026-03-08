@@ -1,5 +1,3 @@
-<thinking>...Internal reasoning block: This form is used for employees to check in with their performance review progress. It is essential to complete this form accurately and truthfully to ensure a smooth performance review process. To confirm that the form is completed correctly, please ensure that all fields are filled out and the correct answers are provided, especially since "Page 2" is required.</thinking>
-
 # Performance Review Check In Form - Help Guide
 ## Purpose
 This form is used for employees to check in with their performance review progress. It is essential to complete this form accurately and truthfully to ensure a smooth performance review process.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about river overflow incidents, which is essential for monitoring and responding to such events. It's likely used in environments like water treatment facilities, river management organizations, or environmental agencies. This form should be filled out after an incident occurs to provide a structured and thorough description of the incident. To ensure consistency, please ensure you're submitting a report for each incident separately and only once.
-</thinking>
-
 # River Overflow Incident Form - Help Guide
 ## Purpose
 This form is designed to collect detailed information about river overflow incidents. Fill out this form to provide a comprehensive description of the incident, including its location, type, and response status.

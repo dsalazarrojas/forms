@@ -1,8 +1,3 @@
-<thinking>
-This guide is to ensure that the form is completed correctly and that users understand the purpose and requirements of the form. This guide will help prevent duplicate submissions and ensure that the form is filled out with accurate and relevant information. It will also serve as a reference for users who may need to fill out the form in the future.
-
-</thinking>
-
 # Mobile App Company Information Request Form - Help Guide
 ## Purpose
 This form is designed to gather essential information about your mobile app company. Please fill it out accurately and completely to help us understand your needs and provide you with the best possible service.

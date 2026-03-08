@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Judging Panel Information Form - Help Guide
 ## Purpose
 The Judging Panel Information Form is used to collect information from event organizers to provide a clear and accurate representation of the events submitted for judging. This form helps us better understand the event details and make informed decisions. Please fill out this form carefully, and make sure to provide accurate and complete information.

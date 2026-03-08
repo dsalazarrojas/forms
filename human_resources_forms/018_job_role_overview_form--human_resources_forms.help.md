@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to capture detailed information about a job role, including its description, responsibilities, expectations, and various attributes such as location, type, status, level, category, family, subcategory, tags, title, start and end dates, hours, salary, contact information, and more. This form helps users create a comprehensive overview of a job role, which can be used for various HR purposes such as job posting, reporting, and analytics.
-
-To complete this form, users should have the necessary information about the job role available. This form is designed to be filled out by HR professionals or those with similar responsibilities.
-
-The form consists of multiple fields, each with its own specific purpose. Please refer to the field-by-field explanation below for more details on each field.</thinking>
-
 # job_role_overview_form - Help Guide
 ## Purpose
 The job role overview form is used to capture detailed information about a job role, including its description, responsibilities, expectations, and various attributes.

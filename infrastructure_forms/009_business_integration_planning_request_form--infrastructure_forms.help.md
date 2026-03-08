@@ -1,15 +1,3 @@
-<thinking>
-This form is used to request business integration planning and potential integration solutions. The form is used to gather information about a business's integration needs and requirements. 
-To avoid duplicated effort and ensure that the correct teams are involved, please review this form carefully before submitting it to the business integration team. 
-
-This guide will help you understand what each field is for and what information is required to provide a comprehensive integration plan. 
-
-Please note that this form is a template and might need to be adjusted according to your company's specific needs and requirements.
-
-Please fill out this form completely and accurately to help the business integration team understand your integration needs.
-
-</thinking>
-
 # Business Integration Planning Request Form - Help Guide
 ## Purpose
 

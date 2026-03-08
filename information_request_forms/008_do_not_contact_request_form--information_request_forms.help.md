@@ -1,7 +1,3 @@
-<thinking> 
-This form is used to request that a contact method be removed or reduced. The form will ask for the user's preferred contact method and frequency, as well as any additional information or comments they may have. This form is likely used by users who do not want to be contacted as frequently or by their preferred method. The form may help identify users who are not responding to contacts and may need to be reviewed or adjusted. It's a good idea to ensure that this form is not submitted multiple times by the same user, so users should check if they have already submitted the form before starting.
-</thinking>
-
 # Do Not Contact Request Form - Help Guide
 ## Purpose
 The Do Not Contact Request Form is used to request that a contact method be removed or reduced. You can use this form to indicate your preference for how you would like to be contacted and why.

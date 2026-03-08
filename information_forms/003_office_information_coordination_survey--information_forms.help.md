@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from office staff about their office's communication preferences and challenges. It is likely to be used for internal coordination and improvement of communication within the office.
-</thinking>
-
 # Office Information Coordination Survey - Help Guide
 ## Purpose
 This form is designed to help us better understand the communication preferences and challenges of your office. Please fill it out carefully, and provide as much detail as possible.

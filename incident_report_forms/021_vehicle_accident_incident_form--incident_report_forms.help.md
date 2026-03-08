@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vehicle Accident Incident Form - Help Guide
 
 ## Purpose

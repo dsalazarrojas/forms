@@ -1,11 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the Influencer Marketing Communication Form, let's start by explaining the form's purpose. This form is designed to facilitate communication and collaboration between brands and influencers in the marketing industry. The goal is to collect relevant information about the brand and the influencer's preferences, expectations, and requirements. This form helps ensure a smooth and efficient communication process, preventing miscommunications and misunderstandings.
-
-We should check that this form is not a duplicate or redundant form. In this case, the form is a one-time collection of information for a single marketing campaign, so it is not a duplicate or redundant form.
-
-Now, let's focus on creating the help guide for the form users.
-</thinking>
-
 # Influencer Marketing Communication Form - Help Guide
 ## Purpose
 The Influencer Marketing Communication Form is a one-time collection of information for a single marketing campaign. This form ensures a smooth and efficient communication process between brands and influencers in the marketing industry.

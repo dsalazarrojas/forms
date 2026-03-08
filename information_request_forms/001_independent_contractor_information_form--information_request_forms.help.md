@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from independent contractors, allowing them to submit their details for processing. 
-- The form has three sections, each corresponding to different types of pages with specific fields.
-- This guide assumes you are familiar with the basic form structure.
-</thinking>
-
 # Independent Contractor Information Form - Help Guide
 ## Purpose
 The Independent Contractor Information Form is a three-page form designed to collect essential information from independent contractors. This form is crucial for our organization to process and manage contractor data efficiently.

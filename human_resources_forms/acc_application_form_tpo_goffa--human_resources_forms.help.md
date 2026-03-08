@@ -1,7 +1,3 @@
-<thinking>
-To prevent duplicate entries and ensure that users are using the ACC Application Form (TPO Goffa) correctly, we will be running automated checks to prevent users from submitting the form with incomplete or inaccurate information. This form is intended for gathering information about your personal and professional details, as well as feedback about your experience with the ACC Application Form (TPO Goffa). Please make sure to fill out all required fields and provide accurate information to ensure that your submission is processed correctly.
-</thinking>
-
 # ACC Application Form (TPO Goffa) - Help Guide
 ## Purpose
 The ACC Application Form (TPO Goffa) is used to collect information about your personal and professional details, as well as feedback about your experience with the form.

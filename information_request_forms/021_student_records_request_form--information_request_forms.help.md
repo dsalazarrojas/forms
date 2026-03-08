@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect student records requests from users. The purpose of this form is to gather information about a student's academic records, including exam results, homework results, and other relevant details. The form should only be filled out when a student's records are needed for a valid reason, such as academic verification or official certification. Please ensure that you only submit this form when it is necessary and not for personal or speculative purposes. Also, please note that this form should not be used to duplicate existing student records requests.
-</thinking>
-
 # Student Records Request Form - Help Guide
 ## Purpose
 The Student Records Request Form is used to collect information about a student's records, including exam results, homework results, and other relevant details. This form should only be filled out for valid reasons, such as academic verification or official certification.

@@ -1,9 +1,4 @@
-# <thinking>
-The purpose of this form is to allow customers to contact our organization for gift assistance. This form is designed to collect relevant information from the customer, including their name, email, phone number, and a brief message. This information will be used to provide assistance with gift-related inquiries or issues. To ensure accurate and efficient processing of customer requests, please complete this form with accurate and up-to-date information.
-To prevent duplication, customers should only use this form if they have not already contacted us via other channels or if their issue is not already in progress.
-</thinking>
-
-# Customer Gift Assistance Contact Form - Help Guide
+# # Customer Gift Assistance Contact Form - Help Guide
 ## Purpose
 The Customer Gift Assistance Contact Form is a tool for customers to contact our organization for gift-related assistance.
 ## How To Complete This Form

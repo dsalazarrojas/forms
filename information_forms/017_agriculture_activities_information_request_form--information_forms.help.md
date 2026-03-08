@@ -1,8 +1,3 @@
-<thinking>
-This help guide is designed to assist users in completing the Agriculture Activities Information Request Form (AIF) efficiently. The form is intended to collect information from requesters about their specific needs for agricultural activities, which can include crop production, livestock, training, input supply, or research. The purpose of this form is to gather essential details from users to provide targeted and relevant information. Please ensure that you fill in all required fields to ensure accurate and helpful responses.
-
-</thinking>
-
 # Agriculture Activities Information Request Form - Help Guide
 ## Purpose
 The form is designed to gather information from users about their specific needs for agricultural activities, such as crop production, livestock, training, input supply, or research. This information will help provide targeted and relevant responses to their queries.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Beneficiary Form - Help Guide
 ## Purpose
 This form is used to gather information about a deceased person and their beneficiary, including their personal details, asset information, and legal aspects. The form is required for processing claims and providing benefits to the designated beneficiaries.

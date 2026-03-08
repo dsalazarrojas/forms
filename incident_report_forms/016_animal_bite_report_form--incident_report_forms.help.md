@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about an incident involving an animal bite. It's essential to understand that the form is meant to gather details about a specific incident, and its purpose is to document the incident accurately and thoroughly. Before proceeding, ensure that you have all the necessary information and details about the incident to fill out this form completely and accurately. Please review the form carefully and make sure you are not duplicating any other incident reports.
-
-</thinking>
-
 # Animal Bite Report Form - Help Guide
 ## Purpose
 The Animal Bite Report Form is designed to collect information about incidents involving animal bites. It will be used to document the incident, gather necessary data, and help prevent future incidents.

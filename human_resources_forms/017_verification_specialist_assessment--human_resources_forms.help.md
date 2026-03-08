@@ -1,13 +1,3 @@
-<thinking> 
-  This form is for assessing the verification specialist's skills and experience in verifying candidate information. 
-  This form will help the verification specialist to gather and verify candidate information in a structured and efficient way. 
-  Before proceeding, ensure that you have reviewed the candidate's information carefully to avoid duplication or incomplete submissions. 
-  Please complete the form as thoroughly as possible, and do not leave any fields blank unless explicitly marked as optional. 
-  The information provided in this form will be used to update the candidate's profile and will help in making accurate decisions. 
-  If you are unsure about any field, please consult with the relevant authorities or seek clarification before submitting the form. 
-  Please make sure to attach any supporting documents or evidence as necessary. 
-</thinking>
-
 # Verification Specialist Assessment - Help Guide
 ## Purpose
 This form is designed to assess the verification specialist's skills and experience in verifying candidate information. The form is used to gather and verify candidate information in a structured and efficient way.

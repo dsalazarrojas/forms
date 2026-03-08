@@ -1,13 +1,3 @@
-<thinking>
-The Family Court Modification Response Form is used to collect information from parties involved in family court proceedings. This form is intended to gather relevant details that help the court make informed decisions. It is essential to complete the form accurately and thoroughly, as the information provided will be reviewed by the court to assess the current situation and any proposed changes.
-
-Before completing this form, ensure that you have reviewed the relevant documents and provided the necessary information. Some fields may seem repetitive, but this is to ensure that the court has a complete understanding of your position.
-
-To avoid duplication of efforts, please refrain from submitting multiple versions of the form with minor changes. Instead, provide all relevant information upfront to avoid delays and potential re-submission requests.
-
-Please take the time to carefully read and understand each field as you complete the form. If you have any doubts or concerns, please reach out to the relevant parties or seek guidance from a qualified professional.
-</thinking>
-
 # Family Court Modification Response Form - Help Guide
 ## Purpose
 The Family Court Modification Response Form is designed to collect information from parties involved in family court proceedings. This form helps the court understand the current situation and proposed changes, enabling informed decisions.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect demographic information, attitudes toward COVID-19 vaccination, and preferences regarding returning to work and receiving information from various sources. The form is intended for public use and aims to understand the community's perceptions and behaviors related to the pandemic. Please make sure to fill out the form accurately and honestly. Note that some fields are required for the form to be considered complete.
-</thinking>
-
 # COVID 19 Public Survey Form - Help Guide
 ## Purpose
 The COVID-19 Public Survey Form is designed to collect information about the public's demographic characteristics, attitudes, and behaviors regarding the COVID-19 pandemic. The form is intended to help understand the community's perceptions and preferences, which can inform public health policies and interventions.

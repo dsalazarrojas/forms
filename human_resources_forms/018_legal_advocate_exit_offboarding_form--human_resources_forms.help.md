@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document the offboarding process of a Legal Advocate, ensuring a smooth transition of responsibilities and maintaining a record of the reasons for departure. Before starting, please ensure that you have all necessary information and approvals in place. Also, note that some fields are optional, but filling them out will provide more context for HR and the offboarding process. This form is meant to be completed by the HR team and/or the Legal Advocate's supervisor. Please ensure that the information provided is accurate and up-to-date.
-</thinking>
-
 # Legal Advocate Exit Offboarding Form - Help Guide
 ## Purpose
 This form is used to document the offboarding process of a Legal Advocate, ensuring a smooth transition of responsibilities and maintaining a record of the reasons for departure.

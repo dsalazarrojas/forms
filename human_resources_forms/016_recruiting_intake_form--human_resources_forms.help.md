@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about a new job opening within the company. It's meant to be filled out by the HR team when creating a new job posting. The form will guide them through the process of capturing the necessary details about the job, including job title, requirements, available time and days, work location, job type, salary, benefits, and job status. This form will help ensure consistency and accuracy in job postings across the company.
-
-Before filling out this form, please ensure you have all the necessary information about the job and the company's hiring process. This form will help you create a comprehensive job posting, but it's not a substitute for other relevant company policies and procedures.
-
-Please note that some fields in this form are required and must be filled out. These are marked as "required" in the form.
-</thinking>
-
 # Recruiting Intake Form - Help Guide
 ## Purpose
 The purpose of this form is to collect and document job opening information for HR to use when creating a new job posting.

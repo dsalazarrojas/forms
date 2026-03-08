@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Spa Consultation Form - Help Guide
 ## Purpose
 The Spa Consultation Form is designed to collect information from clients interested in booking a spa service. This form helps us understand their needs, preferences, and availability to provide the best possible experience. It's essential to fill out this form accurately to ensure that we can tailor our services to your specific requirements.

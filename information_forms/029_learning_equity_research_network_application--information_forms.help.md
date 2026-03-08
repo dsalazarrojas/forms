@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to allow individuals to apply for membership in the Learning Equity Research Network (LERN), a platform that aims to connect researchers and organizations dedicated to advancing equity-focused research. By filling out this form, applicants will be able to provide background information, declare their research interests and participation level, indicate their university and nonprofit affiliations, and specify their team's research focus. This application will help the LERN team assess the eligibility and suitability of applicants for membership.
 
 ## How to Complete This Form

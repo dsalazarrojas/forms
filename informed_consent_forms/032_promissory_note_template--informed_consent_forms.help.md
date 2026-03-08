@@ -1,10 +1,3 @@
-<thinking>
-# This form is used to create a promissory note template for financial transactions.
-This form is intended for use in business or commercial settings where a promissory note is required.
-Please ensure that you are using this form correctly and in compliance with relevant laws and regulations.
-Please do not submit this form if you have already submitted a similar form.
-</thinking>
-
 # promissory_note_template - Help Guide
 ## Purpose
 The promissory note template form is used to document a promissory note for a financial transaction. It captures essential details such as deadline, due date, and payment method.

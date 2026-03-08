@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to help managers and administrators assess the employment status of employees within the organization. The form is used to record and verify employee details such as name, department, position, employment date, job title, and employment status. This form is crucial for maintaining accurate employee records and ensuring that employees are properly categorized and accounted for in the system. 
 
 Please note that the form has been carefully designed to ensure that all required fields are clearly marked, and any missing or incomplete information can be easily identified.

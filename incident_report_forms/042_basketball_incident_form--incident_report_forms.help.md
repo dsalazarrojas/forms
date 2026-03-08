@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Basketball Incident Form - Help Guide
 ## Purpose
 The Basketball Incident Form is a tool used by the athletic department to report and document incidents that have occurred during a basketball game or practice. This form is used to gather information about the incident, including the date and time it occurred, the location, and the details of what happened. The information collected will be used to make informed decisions about how to handle the incident and ensure the safety and well-being of all individuals involved.

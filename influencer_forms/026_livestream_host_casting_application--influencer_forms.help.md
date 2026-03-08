@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a form for potential Livestream hosts to apply for hosting duties. This form is designed to collect relevant information from interested hosts to determine their suitability for hosting a livestream. This form will be reviewed internally to ensure that the hosts are a good fit for our platform. If you're interested in hosting a livestream on our platform, please carefully fill out this form and we'll review your application.
 
 # Livestream Host Casting Application - Help Guide

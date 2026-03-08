@@ -1,9 +1,3 @@
-<thinking>
-This help guide will cover the pet_information_request_form, an interactive tool for collecting information from pet owners. The purpose of this form is to gather details about a pet, such as its type, age, weight, and the owner's contact information. This form serves as a template for data collection, ensuring that pet-related information is accurate and complete. 
-
-Before filling out this form, please ensure you're not submitting duplicate or unnecessary requests. Each submission will be reviewed for completeness and accuracy.
-</thinking>
-
 # pet_information_request_form - Help Guide
 ## Purpose
 The pet_information_request_form is a tool for collecting information from pet owners. This form is used to gather details about a pet, such as its type, age, weight, and the owner's contact information.

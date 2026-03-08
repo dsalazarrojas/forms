@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Event Information Sheet - Help Guide
 
 ## Purpose

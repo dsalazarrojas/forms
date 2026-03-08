@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for applicants who are interested in launching a career as a content creator for a skincare brand. The purpose of this form is to gather information about the applicant, including their experience, social media presence, and desired job details. This form is likely to be used by hiring managers or recruiters to review applications and assess a candidate's suitability for the position.
-
-Before filling out this form, please ensure that you have not applied for this position before, as duplicates will be automatically detected and removed.
-
-</thinking>
-
 # Skincare Launch Content Creators Job Application Form - Help Guide
 ## Purpose
 This form is for applicants who are interested in launching a career as a content creator for a skincare brand.

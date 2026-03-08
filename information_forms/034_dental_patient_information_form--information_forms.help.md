@@ -1,8 +1,3 @@
-<thinking>
-This form is for collecting basic patient information, likely for administrative or medical purposes. Its primary goal is to gather essential details about the patient, such as their name, contact information, and relationship to the patient, to help the dental clinic or hospital staff provide better services.
-The form will likely be part of a larger system, and its completion should only be done when it is necessary. It is not a replacement for in-depth medical history or diagnosis forms.
-Each field has its specific purpose in the form and is required or optional based on the provided YAML. Please fill out only the required fields for accurate and complete submission.</thinking>
-
 # Dental Patient Information Form - Help Guide
 ## Purpose
 The purpose of this form is to collect basic patient information for dental or administrative purposes.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form's purpose is to help users develop a logic model for their project or program. A logic model is a visual representation of a project or program's goals, activities, outputs, and outcomes. It's used to identify and analyze the logical relationships between these elements. This form is designed to guide the user through the process of defining their project's goal, activities, outputs, and outcomes, and creating objective statements that describe the desired results of their project.
 
 To complete this form, follow these steps:

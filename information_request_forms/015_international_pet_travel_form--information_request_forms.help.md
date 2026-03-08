@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for international pet owners to provide information about their pets traveling internationally. The form asks for pet information, owner information, pet health, pet medical history, trip details, travel documents, pet accommodations, pet diet, owner signature, and pet signature. The form is intended to be completed by pet owners or travelers who want to ensure their pets are well-prepared for their international trips. This form is not affiliated with any form platform and is an original adaptation created using AI.
-
-</thinking>
-
 # International Pet Travel Form - Help Guide
 ## Purpose
 This form is intended for international pet owners to gather essential information about their pets' travel requirements and preparations before international travel.

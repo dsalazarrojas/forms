@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from participants in a digital education transformation case. The form likely aims to gather demographic data, consent, and other relevant details from participants or their parents. The form is likely used in educational settings to collect information for research or evaluation purposes.
-</thinking>
-
 # digital_education_transformation_case_consent_form - Help Guide
 ## Purpose
 The digital education transformation case consent form is designed to collect information from participants in a digital education transformation case. This form is used to gather demographic data, consent, and other relevant details from participants or their parents.

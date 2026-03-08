@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about emergency contacts for residents in a facility or organization. The purpose of this form is to collect contact details such as name, phone number, and email address for individuals who can be reached in case of an emergency. This form should only be completed by residents who have been asked to provide such information and have a valid reason to do so. Please ensure that the same form is not submitted multiple times for the same resident.
-</thinking>
-
 # emergency_contact_pdf_form - Help Guide
 ## Purpose
 This form is designed to collect emergency contact information for residents in a facility or organization. Emergency contacts are individuals who can be reached in case of an emergency.

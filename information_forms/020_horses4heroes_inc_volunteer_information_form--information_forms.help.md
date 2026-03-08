@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the volunteer information form is completed accurately and efficiently. To check for duplication, we can store the submitted forms by email address. This will prevent duplicates and allow for easy tracking of submitted forms. This form is not mandatory, but it's crucial to provide accurate and complete information to help us best support you and allocate resources effectively.
-</thinking>
-
 # Horses4Heroes, Inc. Volunteer Information Form - Help Guide
 ## Purpose
 The Horses4Heroes, Inc. Volunteer Information Form is designed to collect relevant information about our volunteers, which will help us best support and engage with them.

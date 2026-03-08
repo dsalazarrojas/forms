@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Succession Planning Audit Form - Help Guide
 ## Purpose
 The Succession Planning Audit Form is designed to facilitate the process of evaluating an employee's readiness for leadership succession. This form helps identify key performance areas and transition planning status, ensuring a smooth transition of responsibilities and maintaining continuity within the organization.

@@ -1,13 +1,3 @@
-<thinking>Before creating the help guide for the "integrity_declaration_form", we should clarify the form's purpose and ensure that it's being used for its intended use case. This form might be for declaring the integrity of a company's dealings, such as financial transactions or business operations, but we need to verify this assumption.
-
-If our assumption is correct, we can continue with the creation of the help guide.
-
-Assuming the form is for integrity declaration, here is a brief internal reasoning block:
-
-The purpose of this form is to ensure that the company is declaring its integrity in certain aspects of its business operations. This can be used to verify that the company is being truthful and transparent in its financial transactions, business practices, and other related matters. This form is likely to be used by regulatory bodies or internal auditors to ensure that the company is adhering to laws and regulations. It's crucial to fill this form accurately and truthfully to avoid any potential issues or repercussions.
-
-</thinking>
-
 # integrity_declaration_form - Help Guide
 ## Purpose
 The integrity declaration form is used to declare the company's integrity in its financial transactions, business practices, and other related matters.

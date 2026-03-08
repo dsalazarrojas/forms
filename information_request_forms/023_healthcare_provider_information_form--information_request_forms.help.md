@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about healthcare providers for internal use. The form should only be completed by authorized individuals, as the information collected will be used to populate internal databases and systems.
-
-To ensure the form is completed correctly and accurately, please review each field carefully. If you are unsure about any field, refer to this help guide for clarification. Duplicate submissions will be rejected to prevent errors and ensure data consistency.
-
-Please ensure you only submit the form if you are an authorized user.
-
-</thinking>
-
 # Healthcare Provider Information Form - Help Guide
 ## Purpose
 This form is used to collect information about healthcare providers for internal use. It is essential to complete the form accurately and truthfully to ensure that healthcare providers are correctly registered and associated with their respective details.

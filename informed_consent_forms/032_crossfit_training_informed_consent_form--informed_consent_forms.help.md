@@ -1,11 +1,3 @@
-<thinking> 
-This form is designed to collect information from individuals seeking to participate in Crossfit training programs. The form aims to gather user demographics, emergency contact information, and medical conditions or equipment that may impact their participation. The purpose of this form is to ensure the safety and well-being of all participants. 
-
-It is essential to understand that this form is a template created using AI-generated data and is not affiliated with any specific training program or platform. 
-
-Before proceeding, please ensure that you have reviewed the information provided and that it accurately reflects your current situation.
-</thinking>
-
 # Crossfit Training Informed Consent Form - Help Guide
 ## Purpose
 This form is used to gather information from participants before they begin Crossfit training. It helps to ensure that trainers are aware of any medical conditions or allergies that may impact the participant's safety during training. This form is a mandatory requirement for all participants and should be completed thoroughly and accurately.

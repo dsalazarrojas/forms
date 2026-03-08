@@ -1,5 +1,3 @@
-<thinking>This form is designed for users to refer an employee to an Inventory Specialist. This process is typically initiated by a user seeking assistance with an existing or potential inventory-related issue or concern. To ensure that the referral is processed correctly and efficiently, please verify that you are using this form for its intended purpose. If you are unsure about whether the form is suitable for your specific needs, please consult with your supervisor or HR representative. Additionally, please be aware that this form should not be used for other purposes, such as reporting incidents or requesting time off. This will help maintain data quality and prevent duplication of information.</thinking>
-
 # Inventory Specialist Referral Form - Help Guide
 ## Purpose
 The Inventory Specialist Referral Form is used to refer an employee to an Inventory Specialist for assistance with inventory-related issues or concerns.

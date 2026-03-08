@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to provide a weekly progress report template for CASA (Casa Supervisor) staff supervisors to report on staff productivity, key tasks completed, challenges encountered, and overall performance. This template is designed to help supervisors monitor and track staff progress, identify areas for improvement, and provide constructive feedback. 
-
-To ensure this form is used consistently, it's essential to clarify the fields below to avoid confusion and misinterpretation.
-</thinking>
-
 # CASA Supervisor Weekly Progress Report - Help Guide
 ## Purpose
 The CASA Supervisor Weekly Progress Report is a template designed to track staff productivity and challenges. It's completed by site supervisors to provide a weekly snapshot of staff performance, identify areas for improvement, and facilitate constructive feedback.

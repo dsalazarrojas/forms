@@ -1,10 +1,3 @@
-<thinking>
-We'll create a help guide for the HR Communication Request Form that explains its purpose and usage.
-
-The HR Communication Request Form is a platform for employees to submit requests for HR-related issues, concerns, or questions to their designated HR personnel. The form helps to track and manage these requests efficiently, ensuring that HR can address each issue in a timely manner. To prevent duplication of effort, please use this form only for new, unique requests. For follow-up questions or updates, use the existing conversation thread where relevant.
-
-</thinking>
-
 # HR Communication Request Form - Help Guide
 ## Purpose
 The HR Communication Request Form is a platform for employees to submit requests for HR-related issues, concerns, or questions to their designated HR personnel.

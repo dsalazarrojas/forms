@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about incidents involving mobile food vendors. It is meant to be used in situations where a report needs to be filed regarding an incident that occurred at or in relation to a mobile food vendor's location or services. This form should only be used once for each incident, and users should not fill out multiple forms for the same incident. Please make sure to fill out the form as accurately and thoroughly as possible, and only report incidents that actually occurred. 
-</thinking>
-
 # Mobile Food Vendor Incident Report Form - Help Guide
 ## Purpose
 The Mobile Food Vendor Incident Report Form is a document used to report incidents that occurred at or in relation to a mobile food vendor's location or services.

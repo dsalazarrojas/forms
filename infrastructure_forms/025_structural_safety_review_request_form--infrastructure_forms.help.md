@@ -1,10 +1,3 @@
-<thinking>
-To determine the purpose of this form, the internal reasoning block checks the form's title and the fields it contains. The form is called "structural_safety_review_request_form", suggesting that it is related to reviewing the structural safety of a property or infrastructure. The form contains fields such as "property_id", "request_date", "description", "upload_supporting_documents", and "concern_id", indicating that it may be used for requesting reviews of properties or structures. This form also has a field for uploading supporting documents, which may include inspection reports or other relevant materials. The form's "review_status" field, on the other hand, suggests that it may be used for tracking the status of reviews, which could be used for ongoing monitoring or follow-up purposes. Based on this, it is likely that this form is used by property or structural safety inspectors to review and report on the structural safety of properties or structures.
-
-The form does not seem to be a duplicate of any other form, as it has a unique set of fields and appears to be focused on a specific task.
-
-</thinking>
-
 # structural_safety_review_request_form - Help Guide
 ## Purpose
 This form is used by property or structural safety inspectors to review and report on the structural safety of properties or structures. It allows users to request reviews, upload supporting documents, and track the status of reviews.

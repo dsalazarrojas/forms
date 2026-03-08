@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to gather information from individuals who are interested in requesting IV pricing information. It is a necessary step in the process for the medical facility's administration and billing team to gather necessary details before preparing an IV quote. The form is meant to be filled out by the individual making the request, and will be reviewed by a representative of the facility before following up with the individual.
 
 **IV Pricing Information Request - Help Guide**

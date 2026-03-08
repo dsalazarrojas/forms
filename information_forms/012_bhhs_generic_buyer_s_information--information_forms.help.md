@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from buyers about their preferences and requirements for a home purchase. The primary purpose of this form is to provide a standard and consistent template for collecting buyer information across different agents. This information will help the agent to better understand the buyer's needs and preferences, and to provide personalized service and support. The form is divided into different sections, each focusing on a specific aspect of the buyer's information. The fields are designed to be clear and concise, making it easy for the buyer to provide the necessary information. The required fields are marked as such, to ensure that the buyer has provided all the necessary information before proceeding.
-</thinking>
-
 # BHHS Generic - Buyer(s) Information - Help Guide
 ## Purpose
 This form is designed to collect information from buyers about their preferences and requirements for a home purchase.

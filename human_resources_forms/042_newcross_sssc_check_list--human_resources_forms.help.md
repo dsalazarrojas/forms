@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for human resources or personnel management purposes, specifically for checking employee information. The purpose of this form is likely to collect data about employees, including their name, job title, department, date of birth, job start date, manager's name, email, and employee type. This form may be used for administrative tasks such as employee onboarding, performance monitoring, or policy enforcement.
-</thinking>
-
 # Newcross SSSC Check List - Help Guide
 ## Purpose
 This form is designed to collect information about employees for human resources or personnel management purposes. It is likely used for administrative tasks such as checking employee data.

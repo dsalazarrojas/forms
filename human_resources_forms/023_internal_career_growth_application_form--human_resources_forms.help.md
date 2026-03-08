@@ -1,5 +1,3 @@
-<thinking>Before we dive into the detailed help guide, let's quickly review the purpose of the Internal Career Growth Application Form. This form is designed to help employees and job seekers submit their applications for career growth and development opportunities within the company. It captures essential information about the applicant, their background, skills, and preferences for career advancement. By filling out this form, applicants can demonstrate their interest in internal career growth and provide the necessary details for HR or management to review and consider their application.</thinking>
-
 # Internal Career Growth Application Form - Help Guide
 ## Purpose
 The Internal Career Growth Application Form is a tool for employees and job seekers to submit their applications for career growth and development opportunities within the company. This form helps capture essential information about the applicant, their background, skills, and preferences for career advancement.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document the waiver and release of liability for guests visiting a swimming pool. It is a legal document that acknowledges the guest's understanding of the pool's rules and safety guidelines. The form should only be used for guests who have not already completed a waiver or release of liability form. If the guest has already completed a waiver or release of liability form, do not use this form.
-</thinking>
-
 # swimming_pool_waiver_release_form - Help Guide
 ## Purpose
 This form is used to document the waiver and release of liability for guests visiting a swimming pool. It is a legal document that acknowledges the guest's understanding of the pool's rules and safety guidelines.

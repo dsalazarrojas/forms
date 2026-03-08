@@ -1,11 +1,3 @@
-<thinking>
-
-This form is a crucial tool for real estate professionals and homebuyers to gather and organize information about a house. The purpose of this form is to collect comprehensive details about a property, allowing users to create a thorough and accurate record of the property's features and characteristics. This information will be used to provide valuable insights and recommendations to potential homebuyers, making their decision-making process more efficient and informed.
-
-Before filling out this form, please ensure that the questions are relevant to the specific property you are considering. If you are unsure about any of the information or have any questions, please don't hesitate to reach out to our support team for clarification.
-
-</thinking>
-
 # House Buyers Information Checklist - Help Guide
 ## Purpose
 This form is designed to help you gather and organize crucial information about a house you're considering buying. This information will be used to provide you with valuable insights and recommendations to make your decision-making process more efficient and informed.

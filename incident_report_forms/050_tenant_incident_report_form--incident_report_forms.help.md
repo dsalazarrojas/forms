@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a form designed to collect incident reports from tenants. The form aims to capture relevant information about incidents that occur within a particular area or space, including the date and time of the incident, the category of the incident, and the current status of the incident. This form is likely used by facility managers or maintenance teams to track and manage incidents, ensuring they are addressed in a timely and effective manner. The purpose of the form is to provide a structured and standardized way of collecting incident reports, reducing the likelihood of duplication of effort and ensuring that all necessary information is captured in one place.
-</thinking>
-
 # Tenant Incident Report Form - Help Guide
 ## Purpose
 The Tenant Incident Report Form is designed to collect incident reports from tenants, providing facility managers and maintenance teams with a standardized and structured way of capturing information about incidents that occur within a particular area or space. The form helps to ensure that all necessary information is captured and reduces the likelihood of duplication of effort.

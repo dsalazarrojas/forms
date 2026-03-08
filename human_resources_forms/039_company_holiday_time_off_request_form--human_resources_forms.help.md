@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for employees to request time off for holidays, allowing them to submit their personal details and leave information. The form is meant to be filled out by employees who wish to take a break from work during holidays, providing the necessary information for their manager to approve or deny the request. To prevent duplication of efforts, it is recommended that employees submit their requests in advance to ensure that the manager has enough time to review and approve the request before the holiday period starts. 
-</thinking>
-
 # Company Holiday Time Off Request Form - Help Guide
 ## Purpose
 This form is intended for employees to request time off for holidays, providing essential details for manager approval.

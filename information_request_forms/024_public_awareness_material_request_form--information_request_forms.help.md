@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a form designed to collect information for public awareness materials requests. It's intended for requesting brochures, posters, digital assets, or other materials for public awareness purposes. Please ensure that you're submitting a new request for a specific reason, and not a duplicate of an existing one. If you're unsure about the purpose of the form, please contact the relevant department for clarification.
 
 # Public Awareness Material Request Form - Help Guide

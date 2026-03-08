@@ -1,15 +1,3 @@
-<thinking>
-
-The Board Member Information Form is a form used to collect personal and professional information from individuals interested in joining the organization's board of directors. This form is intended for prospective board members to provide their details, such as name, contact information, professional background, and availability. By filling out this form, you can ensure that your application is properly evaluated and considered for a spot on the board.
-
-Before submitting the form, please ensure that you are applying for the correct position and that you have a good understanding of the board's roles and responsibilities. You can find more information about the board on our website.
-
-Please note that the form will be reviewed internally to ensure that you meet the required qualifications and fit the current needs of the board. This includes considering your professional background, experience, and availability.
-
-Before proceeding, please make sure you have all the necessary information ready to be filled out accurately.
-
-</thinking>
-
 # Board Member Information Form - Help Guide
 ## Purpose
 This form is used to collect personal and professional information from prospective board members to evaluate their eligibility and suitability for a spot on the board.

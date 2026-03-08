@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # healthcareroboticsresearchfilmingconsentform - Help Guide
 
 ## Purpose

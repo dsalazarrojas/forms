@@ -1,10 +1,3 @@
-<thinking>
-Is this form a tool for managers to monitor the progress of employees in their career development programs? If so, this form will help them assess the effectiveness of the programs and identify areas for improvement. It should be used for regular check-ins with employees to discuss their progress and set new goals for the next review period.
-Is this form a one-time use case or a recurring task for managers? If recurring, the next review date field should be used to schedule the next review.
-Are there any fields that can be considered critical or high-priority for the manager to fill out? If so, those fields should be emphasized in the guide.
-Are there any fields that can be considered optional or secondary for the manager to fill out? If so, those fields should be noted as such.
-</thinking>
-
 # Career Development Progress Monitoring Form - Help Guide
 ## Purpose
 This form is designed to help managers monitor and track the progress of employees in their career development programs. It should be used during regular check-ins with employees to discuss their performance and set new goals for the next review period.

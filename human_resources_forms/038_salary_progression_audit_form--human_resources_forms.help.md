@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Salary Progression Audit Form - Help Guide
 
 ## Purpose

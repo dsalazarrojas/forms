@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect detailed information about a property, allowing users to input its name, type, address, email, phone number, date, time, and notes, as well as categorize it with relevant details like category, subcategory, status, and assign it to specific personnel. This form is designed for users to quickly and accurately capture property-related data for internal purposes. The form is composed of a series of pages, each with different fields for different pieces of information.
-</thinking>
-
 # property_info - Help Guide
 
 ## Purpose

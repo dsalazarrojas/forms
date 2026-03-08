@@ -1,8 +1,3 @@
-<thinking> 
-This form is used for authorizing the use of force in a given incident. It captures information about the incident, including the date and time it occurred, the officer in charge, the suspect involved, and the force used. The form is designed to provide a standardized way to document and authorize the use of force, ensuring that all required information is collected and that the officer in charge acknowledges their involvement. It is intended to be used by law enforcement officers to report and authorize incidents where force was used, and to ensure that the necessary steps are taken to protect the officer's and the suspect's safety. This form should not be used for any other purpose.
-
-</thinking>
-
 # Use Of Force Authorization Form - Help Guide
 ## Purpose
 This form is used for authorizing the use of force in a given incident, providing a standardized way to document and authorize the use of force.

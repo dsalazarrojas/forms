@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # exit interview audit form - Help Guide
 ## Purpose
 The exit interview audit form is designed to collect feedback and information from employees who are leaving the company. This form helps to identify areas of improvement and ensures a smooth transition for the departing employee. The form is a crucial tool for HR and management to understand the reasons behind an employee's departure and to make necessary changes to improve employee satisfaction and retention.

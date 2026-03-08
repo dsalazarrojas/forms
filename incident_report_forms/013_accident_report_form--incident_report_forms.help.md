@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to capture detailed information about accidents that occurred within the organization or involving personnel. The purpose of the form is to provide a standardized and systematic approach for reporting incidents, which can help in identifying patterns and trends, preventing future occurrences, and ensuring timely and effective response. 
-It is crucial to provide accurate and complete information for this form to be utilized as a valuable resource. Please ensure that you understand each field's purpose and requirements before completing this report.
-</thinking>
-
 # Accident Report Form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Staff Appraisal Form is a document used to evaluate and document the performance of staff members in an organization. It is essential to ensure that staff are performing their duties effectively and to identify areas that require improvement. This form should be used by staff members to provide a detailed and honest assessment of their performance over the past year.
 
 Before filling out this form, please ensure that you have reviewed and completed it thoroughly, and that your answers are accurate and truthful. If you are unsure about any part of the form, please consult with your supervisor or HR representative.

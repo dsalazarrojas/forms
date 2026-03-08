@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for researchers to register their interest in smart building research projects. The form is part of a system for managing participant and researcher information for these projects. This guide will walk you through the form's purpose, how to complete it, and explain each field in detail.
-</thinking>
-
 # Smart Building Research Registration Form - Help Guide
 ## Purpose
 The Smart Building Research Registration Form is designed to collect information from researchers interested in participating in smart building research projects. This form helps to:

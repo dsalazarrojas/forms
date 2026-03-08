@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning block to determine the form purpose and checks for relevance and non-duplication.
-</thinking>
-
 # Server Failure Report Form - Help Guide
 
 ## Purpose

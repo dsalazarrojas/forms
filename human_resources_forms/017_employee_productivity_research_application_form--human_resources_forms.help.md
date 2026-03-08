@@ -1,8 +1,3 @@
-<thinking>
-This form seems to be designed for collecting employee information and research interests. The fields appear to be related to understanding an employee's availability, study interests, and volunteer work, as well as collecting additional comments and submitting the form. The form likely serves as a tool for research purposes, such as understanding employee productivity and studying their interests. To confirm, I will provide a help guide that explains each field in a concrete and concise manner.
-
-</thinking>
-
 # employee_productivity_research_application_form - Help Guide
 ## Purpose
 This form is designed to collect information from employees about their productivity, research interests, and availability for volunteer work. The data collected will be used for research purposes.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information regarding distance learning opt-in preferences from users. The form is used to collect data from students, teachers, or other stakeholders regarding their preferences and experiences with distance learning. This information will help us understand the demand and feasibility of offering distance learning options within our organization. Please ensure you are filling this form for the intended purpose and are not duplicating efforts.
-</thinking>
-
 # Distance Learning Opt In Form - Help Guide
 ## Purpose
 This form is designed to collect information from students, teachers, or other stakeholders regarding their experiences and preferences with distance learning. This data will help us better understand the feasibility and demand of offering distance learning options within our organization.

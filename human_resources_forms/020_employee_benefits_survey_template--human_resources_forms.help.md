@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from employees about their benefits, job details, and contact information. It is intended to be used by HR departments to gather data and track changes in employee benefits and job status. 
-
-To avoid duplication, please ensure that this form is not filled out multiple times. If you have already filled out this form, you can simply update the information as necessary. 
-
-Please note that this form is not for reporting benefits or hours worked, but rather for surveying employee benefits and job details. If you need to report benefits or hours worked, please use a different form. 
-
-Please also note that this form is for general use, and you should not share your personal information with anyone else. 
-
-</thinking>
-
 # Employee Benefits Survey Template - Help Guide
 ## Purpose
 This form is used to collect information from employees about their benefits, job details, and contact information. It is intended to be used by HR departments to gather data and track changes in employee benefits and job status.

@@ -1,7 +1,3 @@
-<thinking>
-The "Cricket Coach Application Form" is designed to allow candidates to submit their application for the position of Cricket Coach. The form is part of the hiring process, and the information provided in this form will be used to evaluate the candidate's qualifications and suitability for the role. To ensure that the form is completed accurately and relevantly, please check the form against your resume or profile before submission. Duplicate applications may be automatically filtered out.
-</thinking>
-
 # Cricket Coach Application Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from candidates applying for the position of Cricket Coach.

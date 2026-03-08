@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect medical information from students, including contact details and medical history. The purpose of this form is to create a record of a student's medical condition and provide a way for parents or guardians to share this information with the school administration. This form is intended for use in educational settings to ensure student safety and provide necessary support. Before starting, review the form purpose to determine relevance to the individual filling it out, and ensure that it's not a duplicate entry.
-
-</thinking>
-
 # Student Medical Information Form - Help Guide
 
 ## Purpose

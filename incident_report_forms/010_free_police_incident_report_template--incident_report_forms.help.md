@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to guide users in reporting incidents to the police department in a clear and concise manner. The form will gather information about the incident date, time, location, details, and description of the incident. This form is designed to collect accurate and relevant information to help the police department investigate and respond to the incident.
-</thinking>
-
 # free_police_incident_report_template - Help Guide
 ## Purpose
 This form is designed to collect information from individuals or witnesses who have witnessed or reported an incident to the police department. The goal is to provide as much detail as possible to aid the police in investigating and responding to the incident.

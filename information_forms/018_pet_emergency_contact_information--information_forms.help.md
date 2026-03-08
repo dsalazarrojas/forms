@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect contact and medical information for a pet owner's emergency contacts, veterinary details, and medical history. This information is likely to be used in case of a pet emergency. It's essential to fill this form accurately to ensure that the pet's medical needs are met quickly and effectively in such situations.
-
-The form is likely to be used by pet owners who want to be prepared for any medical emergencies related to their pets. They may be pet owners who want to ensure that they have a system in place to quickly contact emergency services or veterinary clinics with relevant medical information about their pets.
-
-Before filling out this form, please check that the information is not duplicated or outdated. Ensure that you have the most up-to-date and accurate information about your pet's medical history and emergency contacts.
-</thinking>
-
 # Pet Emergency Contact Information - Help Guide
 ## Purpose
 This form is designed to collect contact and medical information for a pet owner's emergency contacts, veterinary details, and medical history.

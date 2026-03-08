@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from pet owners who are participating in a microchip study. The microchip study involves collecting data from pet microchips to gain insights on pet health and behavior. The purpose of this form is to obtain informed consent from pet owners before collecting their pet's microchip information.
-</thinking>
-
 # Pet Microchip Study Consent Form - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the Pet Microchip Study Consent Form.

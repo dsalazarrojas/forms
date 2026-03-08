@@ -1,5 +1,3 @@
-<thinking>...this form is intended for customers or internal employees to contact the process workflow analysts for support. This form is designed to be simple and easy to use. The fields should be completed with the required information to ensure the support request is processed efficiently...</thinking>
-
 # Process Workflow Analyst Contact Form - Help Guide
 ## Purpose
 This form is for customers or internal employees to contact the Process Workflow Analysts for support. It is designed to be simple and easy to use.

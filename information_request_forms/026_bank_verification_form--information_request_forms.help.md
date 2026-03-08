@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be a request for bank verification, used for various purposes such as loan applications, mortgage applications, rental applications, and government benefits. The form is likely used by financial institutions to verify account holder information, account balances, or account status. The fields included in the form suggest a focus on account holder information, account details, and verification methods. This form may be used for both internal and external requests for verification, and the fields indicate that the verification process may involve multiple stakeholders. To use this form correctly, users should ensure they have all necessary information and permissions before submitting it.</thinking>
-
 # Bank Verification Form - Help Guide
 ## Purpose
 The Bank Verification Form is used to request verification of bank account information from a financial institution. This form is used for various purposes such as loan applications, mortgage applications, rental applications, and government benefits.

@@ -1,5 +1,3 @@
-<thinking>Before you begin, please take a moment to understand the purpose of this form. The 10 Year Strategy Plan Questionnaire is designed to gather information about your personal and financial situation, goals, and investment preferences. This form will help us understand your needs and provide guidance on creating a tailored investment plan for you. Please ensure that you have not completed this form before and are answering these questions for your own personal and financial information. If you have any concerns or questions, feel free to ask!</thinking>
-
 # 10 Year Strategy Plan Questionnaire - Help Guide
 ## Purpose
 The 10 Year Strategy Plan Questionnaire is designed to gather information about your personal and financial situation, goals, and investment preferences. This form will help us understand your needs and provide guidance on creating a tailored investment plan for you.

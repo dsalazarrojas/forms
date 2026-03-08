@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about workforce flexibility consulting contacts. It is intended for internal use within the organization, and users should only submit this form if they have a legitimate reason to do so. Please ensure that you have reviewed and understood the form's purpose before proceeding. If you have already submitted a similar form, please do not submit this form again, as it may be considered redundant.
-
-</thinking>
-
 # Workforce Flexibility Consulting Contact Form - Help Guide
 ## Purpose
 

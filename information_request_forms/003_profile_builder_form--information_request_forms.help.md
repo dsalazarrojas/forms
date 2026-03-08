@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's quickly review the purpose and requirements of the Profile Builder Form. The form is designed to collect various types of information from users, including profile information, contact details, address, phone numbers, email addresses, notes, dates, times, numbers, and more. This form is likely used to create or update user profiles, and the fields are intended to collect a range of data types to suit different purposes, such as identification, communication, and demographic information.</thinking>
-
 # Profile Builder Form - Help Guide
 ## Purpose
 The Profile Builder Form is used to collect information from users to create or update their profiles. This form helps to gather relevant details such as contact information, demographics, and other relevant data.

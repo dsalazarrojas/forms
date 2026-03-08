@@ -1,13 +1,3 @@
-<thinking>
-This is an AI-generated form for an Academic Peer Review Publication Consent Form. 
-It aims to collect information for the peer review process, ensuring that the reviewer's identity and review comments are properly handled and consented to by the reviewer. The form's purpose is to obtain the reviewer's consent for their identity, review comments, and other related aspects. 
-The form is likely used by academic journals or publications to ensure that peer reviewers are properly informed and consented to the publication of their reviews. 
-The form's fields cover various aspects of the peer review process, including reviewer information, manuscript details, consent to open review, data sharing, citation, and conflict of interest declaration. 
-The form's fields are designed to be clear and concise, and the options provided for each field are straightforward and easy to understand. 
-By filling out this form, the reviewer can make informed decisions about how their identity and review comments are handled, ensuring their rights and interests are protected. 
-Please refer to the form's fields below for detailed instructions on how to complete it.
-</thinking>
-
 # Academic Peer Review Publication Consent Form - Help Guide
 ## Purpose
 This form is used to obtain your consent for the peer review process of an academic publication. It is essential to fill out this form carefully and honestly to ensure that your identity and review comments are handled according to your wishes.

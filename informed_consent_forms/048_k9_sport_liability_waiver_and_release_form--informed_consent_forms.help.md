@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # K9 Sport Liability Waiver And Release Form - Help Guide
 
 ## Purpose

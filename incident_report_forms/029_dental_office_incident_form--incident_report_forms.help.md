@@ -1,11 +1,3 @@
-<thinking>
-
-The "dental_office_incident_form" form is intended to gather information about incidents that have occurred in the dental office. This form is used to report, record, and analyze incidents in a standardized way to help with root cause analysis, prevention, and reporting. Each field in this form is designed to help gather specific information about the incident, such as its type, date, time, location, and the actions taken to address it. This form is essential for improving the office's incident management and patient safety.
-
-Please note that the form is not intended for duplicate incidents, and users should only submit one report per incident.
-
-</thinking>
-
 # dental_office_incident_form - Help Guide
 ## Purpose
 The "dental_office_incident_form" is designed to collect information about incidents that have occurred in the dental office. This form helps in recording, reporting, and analyzing incidents to improve the office's safety and prevention measures.

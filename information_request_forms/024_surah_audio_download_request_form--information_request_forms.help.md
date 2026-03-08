@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Surah Audio Download Request Form - Help Guide
 ## Purpose
 The Surah Audio Download Request Form is used to request audio materials from the library for educational purposes. This form helps library staff to understand the user's requirements and preferences for the requested audio materials. By filling out this form, users can provide accurate and detailed information about their needs, ensuring that they receive the correct audio materials for their educational activities.

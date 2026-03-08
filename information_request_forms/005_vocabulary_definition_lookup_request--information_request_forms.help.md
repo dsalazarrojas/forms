@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about user preferences and submit a form for further processing. This form is designed to be simple and straightforward, with four pages: Request Form, Submit Form, User Preferences, and Submit Button. The Request Form and Submit Form pages are required, while the User Preferences page is optional. The form is intended to be used by users who want to look up vocabulary definitions.
-
-</thinking>
-
 # Vocabulary Definition Lookup Request - Help Guide
 ## Purpose
 This form is designed to collect information about user preferences and submit a form for further processing.

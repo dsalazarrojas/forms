@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help employees apply for tuition assistance from the company. Before proceeding, please ensure that this is the correct form for your needs and that you have not already submitted a similar request. This form is intended to capture necessary information for HR to process and evaluate your tuition assistance application.
-</thinking>
-
 # hr_tuition_assistance_application_form - Help Guide
 ## Purpose
 The HR Tuition Assistance Application Form is a document used to process employee requests for tuition assistance. This form is for employees who wish to receive financial support for educational courses, training, or other educational expenses.

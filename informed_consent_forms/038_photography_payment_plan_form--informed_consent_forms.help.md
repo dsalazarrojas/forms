@@ -1,8 +1,3 @@
-<thinking> 
-This form is used to collect payment information for photography services. It is designed for use by photographers in their business-to-business (B2B) and business-to-consumer (B2C) clients. The form is meant to be completed by clients, who will provide their payment information and other details. This form does not require authentication or authorization checks for submission. This form is not intended for public display; it is primarily used for internal purposes.
-
-</thinking>
-
 # photography_payment_plan_form - Help Guide
 ## Purpose
 The photography payment plan form is a tool used to collect payment information for photography services provided to clients. It is designed to facilitate the payment process between the photographer and their clients.

@@ -1,17 +1,3 @@
-<thinking>
-Internal reasoning: This form is designed to gather information from potential customers for a software quote request. It includes various fields that help the company understand the user's company and project requirements. The form aims to ensure that the company receives accurate and relevant information to provide a tailored quote for the software. The form should only be used once per project, and users are advised to provide all required information to help the company understand their needs better.
-
-This form consists of 18 fields, including user contact information, project details, estimated dates, and more. Each field is clearly labeled, and users can choose from various options or provide free-text answers where necessary.
-
-The form's main goal is to gather enough information to provide an accurate quote and to establish a relationship with the user.
-
-Non-duplication is recommended: Users are advised not to fill out the form multiple times with the same information to avoid unnecessary work and to allow the company to focus on the actual quote request.
-
-Required fields are marked as required, so users should fill those fields accordingly to ensure their request is processed correctly.
-
-The following guide is intended to help users understand each field's purpose and how to fill it correctly.
-</thinking>
-
 # Influencer Outreach Software Quote Request Form - Help Guide
 
 ## Purpose

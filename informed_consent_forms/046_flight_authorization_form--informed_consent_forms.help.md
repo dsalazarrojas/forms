@@ -1,7 +1,3 @@
-<thinking>
-To determine the purpose and relevance of this form, let's review the provided YAML structure and field definitions. The form is called "Flight Authorization Form" and is part of the "informed_consent_forms" category. It seems to be designed for users to provide information about flights, likely for administrative or logistical purposes. The form is likely used by airport staff, air traffic controllers, or other personnel involved in flight operations. The presence of fields like "flight_status" and "submit" suggests that this form is used for tracking and managing flight activities. Given the structure and content, it appears that this form is intended for internal use within an organization, possibly for flight planning, coordination, or status updates. It's essential to ensure that end-users understand the form's purpose and relevance to avoid confusion or incorrect use.
-</thinking>
-
 # Flight Authorization Form - Help Guide
 ## Purpose
 This form is used for flight planning, coordination, and status updates. It's intended for internal use within an organization, likely for airport staff, air traffic controllers, or other personnel involved in flight operations.

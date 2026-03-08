@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # data_privacy_information_request_form - Help Guide
 ## Purpose
 This form is designed to gather information from individuals requesting access to their data, rights related to their data, or corrections to their data. Please fill out this form to provide a clear and concise overview of your request.

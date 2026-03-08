@@ -1,8 +1,3 @@
-<thinking>
-This form, "BHHS Generic - Seller(s) Information," appears to be designed for real estate sellers to provide crucial details about a property and themselves. The form seems to be intended for collecting contact information from both primary and secondary sellers, property details such as address and type, and other essential facts like asking price, outstanding mortgage payoff amount, and desired timeline for sale. The form does not appear to be a duplicate of any other known form in the context of this task, so it should be safe to proceed with creating a user-facing help guide.
-
-</thinking>
-
 # BHHS Generic - Seller(s) Information - Help Guide
 ## Purpose
 The purpose of this form is to gather information from sellers regarding their properties, including contact details and property specifics. This form is meant to be a comprehensive guide for sellers to provide accurate and complete information about their properties.

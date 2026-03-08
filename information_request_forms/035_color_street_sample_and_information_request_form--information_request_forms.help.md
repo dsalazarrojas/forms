@@ -1,7 +1,3 @@
-<thinking>
-**Internal Note:** This form is designed to collect information from customers who are requesting color samples from the company. The form should only be filled out by customers who have a legitimate reason for needing samples. To prevent duplication of effort, we should ensure that only one form per customer is submitted, and we should have a system in place to track and filter out duplicate requests. This will help us maintain a smooth and efficient sampling process.
-</thinking>
-
 # Color Street Sample And Information Request Form - Help Guide
 ## Purpose
 This form is intended for customers who are seeking color samples from us for their own use or demonstration purposes. It will help us understand their product needs and ensure that we provide the correct samples efficiently.

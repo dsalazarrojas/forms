@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to report incidents of unauthorized entry into a facility. The purpose of this form is to gather information about the incident, including the name of the facility, the date and time of the unauthorized entry, a description of the incident, the individuals involved, and the outcome of the incident. This form is intended for use by facility staff or security personnel who have observed or have been informed of an unauthorized entry incident and need to document the details of the incident. This form is not intended for use by individuals who have been involved in the incident themselves, as their testimony would be collected through other means.
-
-</thinking>
-
 # Facility Unauthorized Entry Incident Report - Help Guide
 ## Purpose
 This form is used to report incidents of unauthorized entry into a facility. It's an essential tool for documenting and tracking incidents for facilities with security protocols in place.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from local chamber members, including contact details and membership status. The form will be used to create and update chamber member records. It is crucial to fill out the form accurately and completely to ensure correct data entry. Please make sure to fill out the form only once for each member. If you've filled out the form previously, you don't need to fill it out again. If you're unsure about any information, please contact the local chamber staff for assistance.
-</thinking>
-
 # Local Chamber Contact Information Form - Help Guide
 ## Purpose
 The Local Chamber Contact Information Form is used to collect and update contact information for local chamber members. This form helps the local chamber maintain accurate and up-to-date member records.

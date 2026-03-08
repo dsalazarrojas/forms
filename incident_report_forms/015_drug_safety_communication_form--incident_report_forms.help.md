@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # drug_safety_communication_form - Help Guide
 
 ## Purpose

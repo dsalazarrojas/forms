@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for employees to apply for maternity leave. It is a mandatory form for all employees who are expecting to take maternity leave. Please ensure that you have not previously submitted this form before filling it out. This form is used to track and manage maternity leave requests within the organization.
-
-</thinking>
-
 # Maternity Leave Application Form Template - Help Guide
 ## Purpose
 The Maternity Leave Application Form Template is designed for employees to apply for maternity leave. It captures essential information about the employee, their leave duration, and the status of their leave application.

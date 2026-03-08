@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain informed consent from patients before providing telepsychiatric services. Informed consent is a legal and ethical requirement for any medical service, and it ensures that patients understand their rights, responsibilities, and the potential risks and benefits associated with treatment. This form should not be duplicated for patients who have already completed a similar form for the same purpose in the past.
-</thinking>
-
 # Telepsychiatry Consent Form - Help Guide
 ## Purpose
 This Telepsychiatry Consent Form is used to obtain informed consent from patients before providing telepsychiatric services. Informed consent is a legal and ethical requirement that ensures patients understand their rights, responsibilities, and the potential risks and benefits associated with treatment.

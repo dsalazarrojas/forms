@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to assess the psychological safety and satisfaction of individuals within a meeting setting. It aims to gauge how comfortable participants feel about speaking up during meetings, their ability to contribute, and their perception of the meeting facilitation. The form is used to identify areas for improvement and help create a more psychologically safe and engaging meeting environment.
-
-</thinking>
-
 # Meeting Psychological Safety Survey - Help Guide
 ## Purpose
 This form is intended to evaluate the psychological safety and satisfaction of meeting participants, aiming to create a more comfortable and effective meeting environment.

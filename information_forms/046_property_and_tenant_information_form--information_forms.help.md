@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about a tenant's property and employment history. It is intended to be completed by a tenant to provide relevant details about their current or past employment. The form should only be used to collect information from the tenant directly, and not from third-party references or sources.
-
-This form is used to verify a tenant's identity and employment history, and is a crucial part of the rental application process. Please ensure that you are completing this form accurately and truthfully, as incorrect or incomplete information may lead to delays or rejections in the rental application process.
-
-Please review the form carefully before completing it, and ensure that you have all the necessary information required to complete it. If you are unsure about any of the fields, please ask your leasing agent or property manager for clarification.
-
-</thinking>
-
 # Property And Tenant Information Form - Help Guide
 
 ## Purpose

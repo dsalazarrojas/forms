@@ -1,5 +1,3 @@
-<thinking>This form is used to capture custody consent information from the legal guardian of a patient. This form is essential for ensuring that the legal guardian is aware of and agrees to the treatment and care provided by the medical facility. The form requires the legal guardian to provide their information, including their name, address, contact details, and the medical facility's address. They must also provide the patient's medical information, including the date of admission, expected duration of care, and contact details of the medical facility. The form is designed to be completed by the legal guardian on behalf of the patient, and it is a required field, meaning that it must be completed in order to proceed with the treatment or care.</thinking>
-
 # Custody Consent Form - Help Guide
 ## Purpose
 The Custody Consent Form is used to capture the consent of the legal guardian for a patient's treatment or care. This form is essential for ensuring that the legal guardian is aware of and agrees to the treatment and care provided by the medical facility.

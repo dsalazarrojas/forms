@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather feedback and suggestions for HR policies within an organization. The purpose of this form is to help employees and HR personnel evaluate and improve policies that are currently in place or being reviewed. This form is intended for use within the organization's internal review process. Please ensure that you have the necessary permissions to access and complete this form.
-
-</thinking>
-
 # HR Policy Review Report Form - Help Guide
 ## Purpose
 The HR Policy Review Report Form is used to gather feedback and suggestions on HR policies from employees. This form is used to help HR personnel evaluate and improve existing policies, identify areas for revision, and ensure that policies are meeting the needs of employees and the organization as a whole.

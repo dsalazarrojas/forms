@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Kindergarten Graduation Information Form - Help Guide
 ## Purpose
 This form is used to capture information about kindergarten students who are graduating. It will help administrators to track and record the details of students, including their name, contact information, academic achievements, and other relevant data.

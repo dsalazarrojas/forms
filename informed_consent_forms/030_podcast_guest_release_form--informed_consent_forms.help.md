@@ -1,18 +1,3 @@
-<thinking>
-This is the Podcast Guest Release Form, designed to collect information about a guest's release preferences for their podcast episode. This form is intended for use by podcast hosts and producers to collect necessary details from their guests for copyright and liability purposes. The form is designed to be simple and easy to use, with fields that guide the guest through the necessary steps to understand and agree to their release preferences. 
-
-Please ensure you complete this form accurately and thoroughly to ensure that your podcast episode is released correctly and with the necessary permissions. 
-
-This form is not intended to be used for any other purpose than the one described above. If you are not a podcast host or producer, please do not fill out this form. 
-
-Before proceeding, please read the following: 
-
-*   You are free to use this form as is, or modify it as you wish, for your own podcast hosting and production purposes.
-*   You can share the form link with your guests, or embed it within your podcast hosting website, as you see fit.
-*   You can modify the form fields and their corresponding labels as necessary.
-*   Please give credit to the form author in any form you distribute, as per the original Creative Commons license.
-</thinking>
-
 # Podcast Guest Release Form - Help Guide
 ## Purpose
 This form is designed to collect information from guests about their release preferences for their podcast episode. It is intended to be used by podcast hosts and producers to gather the necessary details for copyright and liability purposes.

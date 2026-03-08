@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Transaction Coordinator Form - Help Guide
 ## Purpose
 The Transaction Coordinator Form is used to collect information from the end user to provide a comprehensive overview of a transaction. This form gathers details on various aspects of the transaction, including property details, dates, times, and other relevant information.

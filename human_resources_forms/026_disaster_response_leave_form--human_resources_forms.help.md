@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Disaster Response Leave Form - Help Guide
 
 ## Purpose

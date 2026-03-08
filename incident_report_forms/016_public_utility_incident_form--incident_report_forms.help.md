@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about public utility incidents, likely for reporting and tracking purposes within a utility company or organization. This form is part of a larger system for managing and tracking incidents affecting public utilities, such as water, gas, or electricity services. The form's design suggests it is meant for collecting detailed information about incidents, including customer details, incident specifics, and follow-up actions.
-</thinking>
-
 # public_utility_incident_form - Help Guide
 ## Purpose
 

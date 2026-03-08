@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for visual search purposes, likely for a search engine or image search functionality. It seems to be a form for users to submit images or video requests for search. The fields included suggest that it might be for indexing images in a database or for a visual search engine. The form has 8 fields: 1) Search Request, 2) Image Type, 3) Consent, 4) Image File, 5) Consent Type, 6) Context, 7) Image URL, and 8) Search Keywords and Description. Each field is explained below.
-</thinking>
-
 # Image Upload For Search - Help Guide
 ## Purpose
 This form is for users to submit images or video requests for visual search purposes.

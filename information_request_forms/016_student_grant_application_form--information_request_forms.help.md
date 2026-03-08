@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from students applying for grants. This form is not a replacement for the actual application process, but rather a supplementary tool to gather relevant details from the students. Please use this form to ensure that the student has provided the necessary information to support their grant application.
-
-Before proceeding, please ensure that the student has provided this information and that it is accurate. This form is not intended to be a substitute for the actual grant application, and the information collected here should only be used to support the student's application.
-
-</thinking>
-
 # Student Grant Application Form - Help Guide
 
 ## Purpose

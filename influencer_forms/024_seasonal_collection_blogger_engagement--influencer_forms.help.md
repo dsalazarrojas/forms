@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about blogger engagement related to seasonal collections. The purpose of this form is to provide an efficient way for users to input data about bloggers who are participating in or have participated in seasonal campaigns. The form includes various fields that cover different aspects of blogger engagement, including their social media presence, contact information, and outreach preferences. This form is used to track and analyze blogger engagement for business purposes.
-</thinking>
-
 # seasonal_collection_blogger_engagement - Help Guide
 ## Purpose
 This form is used to collect information about blogger engagement related to seasonal collections.

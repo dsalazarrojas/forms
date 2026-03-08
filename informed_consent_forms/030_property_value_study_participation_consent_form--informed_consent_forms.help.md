@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to gather information from property owners and researchers to participate in a study, including their details, consent, and agreement to participate. The form aims to collect data on property value studies.
-The form has multiple pages with different fields, such as text inputs for study participant details, property details, and researcher details, as well as select options for consent, survey type, and property value currency. Some fields are required while others are optional.
-To fill out the form, the user should start by completing the study participant details page, which includes fields like property owner, property manager, and researcher details. The next page is for property details, where the user can input information like address, city, state, zip, country, and property number. On the following page, the user can select the survey type and property value currency. The last page is for participant comments and agreement, where the user can input their comments and agree or disagree to participate in the study.
-</thinking>
-
 # property_value_study_participation_consent_form - Help Guide
 ## Purpose
 This form is designed to collect information from property owners and researchers to participate in a property value study.

@@ -1,6 +1,3 @@
-<thinking>
-This help guide is intended to support end users in completing the Student Information Form White And Responsive. The form collects information about a student's personal details, family background, and other relevant data. The purpose of this form is to gather essential information about students for various administrative and educational purposes. It's crucial to ensure that the form is completed accurately and thoroughly to avoid duplication of efforts and potential issues. Please review the following guide to understand the form's purpose and how to complete it successfully.</thinking>
-
 # Student Information Form White And Responsive - Help Guide
 ## Purpose
 The Student Information Form White And Responsive is designed to collect personal details and data about students for various administrative and educational purposes. It helps gather essential information for efficient management and support.

@@ -1,8 +1,3 @@
-<thinking>
-Is this form used to collect and store project-related information from project managers? The project information form seems to be used to gather details such as project title, description, start and end dates, project status, category, and contact preferences, as well as manager contact information like name, email, phone, and notes. This form is likely intended to be filled out by project managers or team leaders to provide a central repository of project information for administrative or tracking purposes.
-The form does not appear to be intended for public-facing purposes, so it's likely only used by internal users. The project category and contact preferences selections seem to be the only fields with multiple options, indicating that these fields may have varying requirements or categorizations.
-</thinking>
-
 # Project Manager Information Form - Help Guide
 ## Purpose
 The Project Manager Information Form is used to collect and store project-related information from project managers for administrative or tracking purposes.

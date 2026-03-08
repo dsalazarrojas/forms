@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about an employee's family emergency leave request, including the start and end dates, reason for the leave, and contact information for emergency contacts. This form is designed to be completed by the employee, who will submit it to the relevant authorities for approval. The form should only be completed if the employee is requesting leave due to a family emergency, and not for any other reason. 
-</thinking>
-
 # Family Emergency Leave Form - Help Guide
 ## Purpose
 The Family Emergency Leave Form is a document that employees can use to request leave from work due to a family emergency. This form is used to collect relevant information about the leave request, and ensure that all necessary details are provided.

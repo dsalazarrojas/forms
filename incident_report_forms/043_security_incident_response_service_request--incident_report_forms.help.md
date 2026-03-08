@@ -1,7 +1,3 @@
-<thinking>
-This form, "security_incident_response_service_request", is meant to be used when a user needs to report an incident or request a response from the security team. The fields in this form are designed to gather essential information about the incident, its type, severity, and resolution. This form helps the user to provide detailed incident details, which is then used by the security team to address the issue efficiently. Before filling out this form, ensure that you are not duplicating an existing incident report.
-</thinking>
-
 # security_incident_response_service_request - Help Guide
 ## Purpose
 This form is used to report and respond to security incidents within the organization. It is designed to gather essential information to help the security team address the issue effectively.

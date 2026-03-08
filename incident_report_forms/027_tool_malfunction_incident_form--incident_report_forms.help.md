@@ -1,6 +1,3 @@
-<thinking>
-This form is likely used to report malfunctions or issues with tools within the organization, and it might be used by various departments or teams. Before proceeding, ensure that this form is not already in use for similar purposes or that the issue has not been reported elsewhere, as duplicate reports could cause confusion and hinder the resolution process.</thinking>
-
 # Tool Malfunction Incident Form - Help Guide
 ## Purpose
 The Tool Malfunction Incident Form is used to report issues with tools within the organization, providing a structured way to document and track malfunctions.

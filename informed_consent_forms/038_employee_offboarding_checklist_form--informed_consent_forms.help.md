@@ -1,7 +1,3 @@
-<thinking>
-This form is used to ensure that all necessary steps are taken during the offboarding process for an employee leaving the company. It's essential to complete this form carefully and accurately to avoid any potential issues or delays. This form should only be completed if the employee has already been informed of their termination or resignation, and it's not intended to be used as a formal notice of termination. Please review the form carefully and ensure that all required fields are filled out before submitting it.
-
-</thinking>
 # Employee Offboarding Checklist Form - Help Guide
 ## Purpose
 This form is used to document the necessary steps taken during the offboarding process for an employee leaving the company. It helps to ensure that all parties involved are informed and all assets and access are properly updated and returned.

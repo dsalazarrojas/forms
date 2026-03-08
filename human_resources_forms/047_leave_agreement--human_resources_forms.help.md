@@ -1,13 +1,3 @@
-<thinking>... thinking about the form purpose and required fields...
-
-We are creating a "Leave Agreement" form. The form is used to record and process employee leaves such as vacation, sick, or family leave. It is intended for employees to provide information about their leave, including their company status, reason for leave, start and end dates, total hours taken, and hours used.
-
-This form is not intended for use in critical HR processes such as performance reviews or benefits enrollment.
-
-This form may be duplicated if multiple employees are filling out the form for the same purpose.
-
-</thinking>
-
 # Leave Agreement - Help Guide
 ## Purpose
 The "Leave Agreement" form is used to record and process employee leaves such as vacation, sick, or family leave. Employees are asked to provide information about their leave, including their company status, reason for leave, start and end dates, total hours taken, and hours used.

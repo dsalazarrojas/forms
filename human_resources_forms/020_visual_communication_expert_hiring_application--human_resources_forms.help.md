@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Visual Communication Expert Hiring Application - Help Guide
 
 ## Purpose

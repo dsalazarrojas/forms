@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Time Period Information Form - Help Guide
 ## Purpose
 This form is used to gather information about a specific time period. The purpose of this form is to provide a clear and concise description of a time period, including its start and end dates, a brief description, and any additional historical context.

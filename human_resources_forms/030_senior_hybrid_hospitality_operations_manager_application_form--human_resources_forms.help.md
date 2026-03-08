@@ -1,14 +1,3 @@
-<thinking>
-This form is used for senior hybrid hospitality operations manager applications. 
-The form is designed to collect information from applicants to evaluate their eligibility for the position. 
-Please only submit one application per person. 
-Ensure you are submitting your own application and not on behalf of someone else. 
-Please note that the form has no relation to the actual hiring process, it's solely for internal use in evaluating the application. 
-The form is not a replacement for the actual work experience, skills, and qualifications. 
-Ensure to fill out the form accurately and completely, any missing or incomplete information might lead to disqualification. 
-Please be aware that any incorrect or false information provided might lead to disqualification as well. 
-</thinking>
-
 # Senior Hybrid Hospitality Operations Manager Application Form - Help Guide
 ## Purpose
 The Senior Hybrid Hospitality Operations Manager Application Form is used to collect information from applicants for a senior hybrid hospitality operations manager position. This form helps evaluate applicants' eligibility for the position.

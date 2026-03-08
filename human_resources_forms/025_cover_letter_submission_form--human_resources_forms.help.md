@@ -1,5 +1,3 @@
-<thinking>Before diving into the help guide, let's consider the purpose of the form "cover_letter_submission_form". This form is designed for users to submit their cover letter applications for a job position. It collects essential information about the applicant, including contact details, job-related data, and submission details. The form is likely used in an HR context for hiring or recruitment processes.</thinking>
-
 # cover_letter_submission_form - Help Guide
 ## Purpose
 The "cover_letter_submission_form" is a form used to collect information for cover letter submissions, typically for job applications. It captures essential details about the applicant, including contact information, job-specific data, and submission details.

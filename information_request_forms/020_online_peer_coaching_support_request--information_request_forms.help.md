@@ -1,7 +1,3 @@
-<thinking>... internal reasoning block: This form is for requesting peer coaching support, a process where an individual receives guidance and support from a peer in their field or industry. The form will help users provide information about their request, including details about the type of support they need, the coaching program they are enrolled in, and their preferred date and time for the coaching session. This form will also help users request follow-up reminders for their coaching sessions. The form is designed to be completed by individuals who are seeking support and guidance from their peers. We need to ensure that users understand the purpose and requirements of the form to provide the best support possible.
-
-</thinking>
-
 # Online Peer Coaching Support Request - Help Guide
 ## Purpose
 The Online Peer Coaching Support Request form is designed for individuals to seek support and guidance from their peers. This form will help you provide information about your request, and our team will use this information to schedule a coaching session with a peer who can best support you.

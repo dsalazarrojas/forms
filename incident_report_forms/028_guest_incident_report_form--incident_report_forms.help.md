@@ -1,16 +1,3 @@
-<thinking>
-This form is intended to document and track incidents reported by guests. It is crucial for the hotel management to understand and address these incidents promptly to ensure guest satisfaction and resolve any issues promptly.
-
-This form is designed to be filled out for all incidents, including but not limited to:
-  • Guest complaints or compliments
-  • Guest injuries or accidents
-  • Any other incidents that need attention from the hotel management
-
-Please note that each form is unique and should be completed for each distinct incident. If you have previously reported this incident or if it is still being addressed, please do not report it again.
-
-Please be as detailed as possible when filling out this form, and make sure to report the incident accurately and honestly.
-</thinking>
-
 # Guest Incident Report Form - Help Guide
 ## Purpose
 The Guest Incident Report Form is used to document and track incidents reported by guests. This form is designed to provide the hotel management with the necessary information to understand and address the issue promptly.

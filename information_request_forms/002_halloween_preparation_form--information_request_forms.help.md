@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a comprehensive help guide for the Halloween Preparation Form, we need to consider the following:
 
 *   The form's purpose is to collect information about Halloween events, which includes details about the event, attendees, and contact information for the event organizers.

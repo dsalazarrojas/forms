@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect health-related information from clients for medical purposes. It may be used by healthcare professionals to assess a client's medical history, current health conditions, medications, and other relevant details. To prevent duplication, ensure that this form is not completed for clients who have already had their information collected and recorded.
-</thinking>
-
 # Health Client Information Form - Help Guide
 
 ## Purpose

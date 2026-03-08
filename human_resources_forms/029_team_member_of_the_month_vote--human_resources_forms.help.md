@@ -1,5 +1,3 @@
-<thinking>Before creating a help guide for the "Team Member Of The Month Vote" form, I'll review the form's purpose and structure to ensure it's clear and concise. The form seems to be designed for employees or team members to vote on a team member of the month, providing a way to recognize and appreciate individual contributions. I'll assume that this form will be filled out by multiple users, and the goal is to create a fair and transparent process for selecting the team member of the month. I'll also review each field's label and hint to ensure I provide an accurate explanation.</thinking>
-
 # Team Member Of The Month Vote - Help Guide
 ## Purpose
 The purpose of this form is to collect votes for a team member of the month. This form allows team members to submit their vote for a team member who has made significant contributions to the team. The selected team member will be recognized and appreciated for their efforts.

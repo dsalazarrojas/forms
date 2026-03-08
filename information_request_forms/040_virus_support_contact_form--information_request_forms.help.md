@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Virus Support Contact Form - Help Guide
 
 ## Purpose

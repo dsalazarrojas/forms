@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to collect user preferences for receiving daily currency exchange rate updates. The form is designed to be a one-time setup process for users to indicate their currency preferences. Users will be asked to select their preferred currencies, update frequency, delivery method, and other relevant settings. This form is likely used by users who need to stay up-to-date with exchange rates, such as traders, financial analysts, or travelers.
 
 To avoid confusion, users are not allowed to submit multiple instances of this form. 

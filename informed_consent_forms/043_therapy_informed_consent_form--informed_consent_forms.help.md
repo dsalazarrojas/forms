@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from patients or clients about their therapy sessions, medical history, contact details, and other relevant information. The form is typically used by therapists to understand the patient's goals, medical history, and emergency contact information before starting therapy sessions. The form's data collection will not be duplicated or shared with any third-party platforms.
-
-The form consists of several fields that ask for specific pieces of information, and it's essential to fill it out accurately and completely.
-
-</thinking>
-
 # Therapy Informed Consent Form - Help Guide
 ## Purpose
 The Therapy Informed Consent Form is a document used by therapists to gather essential information from patients before starting therapy sessions.

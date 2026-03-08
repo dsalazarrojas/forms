@@ -1,9 +1,3 @@
-<thinking>
-The Employee Pay Rate Form is used to document and track employee pay rates for employees within the organization. This form is intended to provide a structured format for collecting and maintaining accurate and up-to-date pay rate information. 
-This form should only be used for tracking regular pay rates and should not be used for other types of compensation or non-monetary benefits. 
-The form is designed to be completed by HR and management to ensure consistency and accuracy in pay rate information.
-</thinking>
-
 # Employee Pay Rate Form - Help Guide
 ## Purpose
 The Employee Pay Rate Form is used to document and track employee pay rates for employees within the organization. This form is intended to provide a structured format for collecting and maintaining accurate and up-to-date pay rate information.

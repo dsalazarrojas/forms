@@ -1,12 +1,3 @@
-<thinking> 
-# Covid 19 Aqua Park Assumption Of Risk And Release Of Liability Form is a form used to document an individual's assumption of risk and release of liability related to the COVID-19 pandemic at Aqua Park. 
-
-This form is likely to be used for various purposes such as emergency response, incident reports, or other applications where understanding an individual's level of risk and liability is required. 
-
-Please ensure you are using the correct form and context for your use case as this form was generated based on public domain data and may not cover all possible scenarios or requirements. 
-
-Please review the form carefully and ensure you understand its purpose and usage before filling it out.</thinking>
-
 # Covid 19 Aqua Park Assumption Of Risk And Release Of Liability Form - Help Guide
 ## Purpose
 The Covid-19 Aqua Park Assumption of Risk and Release of Liability Form is designed to gather information about an individual's understanding and acknowledgment of the risks associated with visiting Aqua Park during the COVID-19 pandemic. This form is a crucial tool for ensuring that individuals understand the potential risks and consequences of their actions and take responsibility for any liabilities that may arise.

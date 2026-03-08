@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect and store information about various forms. This form is likely used for internal purposes, such as keeping track of forms created, modified, or deleted within a system or organization. The form's fields are designed to capture a range of data, from simple text and date inputs to more specific fields like email addresses, phone numbers, and select options.
-
-To avoid duplication and ensure accuracy, please ensure that you're not creating multiple forms with the same information, such as form titles, categories, or descriptions.
-
-The fields on this form are designed to be flexible and adaptable to different types of forms, so feel free to use as much or as little information as needed.
-
-</thinking>
-
 # Isc Information Form - Help Guide
 ## Purpose
 The Isc Information Form is used to collect and store information about various forms. It is designed for internal purposes, such as keeping track of forms created, modified, or deleted within a system or organization.

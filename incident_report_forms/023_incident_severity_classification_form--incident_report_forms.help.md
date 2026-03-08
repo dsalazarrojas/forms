@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to classify incidents based on their severity and gather essential information about them. The purpose of this form is to categorize incidents as Critical, High, Medium, or Low, and to capture relevant details such as follow-up methods and status. This information is essential for tracking and resolving incidents in a timely and efficient manner. To ensure accuracy, please complete the form only once per incident, and do not duplicate entries.
-</thinking>
-
 # Incident Severity Classification Form - Help Guide
 ## Purpose
 The Incident Severity Classification Form is a tool used to categorize incidents based on their severity and gather relevant information for follow-up purposes.

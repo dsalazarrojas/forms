@@ -1,5 +1,3 @@
-<thinking>Internal Note: This form is designed to collect information for releasing tasks, and it is crucial to provide clear guidance to users to avoid duplication or incorrect submission. The purpose of this form is to gather essential details about a task, including its name, assigned team, due date, priority, and other relevant attributes. The goal is to ensure accurate and comprehensive task information is recorded and tracked. The form should be filled out by the task manager or a delegated team member, and it's essential to understand each field's significance to avoid missing crucial information.</thinking>
-
 # release_task_form - Help Guide
 ## Purpose
 The "Release Task Form" is used to collect and record information about a task for release and tracking purposes.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect employee survey results, which are used to gather feedback and suggestions from employees. The form is not mandatory, but it's recommended to be completed by all employees to ensure a complete and representative picture of the team's sentiments. Please note that the form is not meant to be used for any other purpose than collecting feedback.
-</thinking>
-
 # Employee Survey Results Report Form - Help Guide
 ## Purpose
 This form is designed to collect employee survey results, which are used to gather feedback and suggestions from employees. The form is not mandatory, but it's recommended to be completed by all employees to ensure a complete and representative picture of the team's sentiments.

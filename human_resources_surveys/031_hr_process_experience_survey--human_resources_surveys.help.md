@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure that the form is filled out completely and correctly. This survey aims to gather information on the experience of HR processes in the company. If you have previously filled this form out, please skip it. This form is used by the HR department to improve our processes and better understand your experience.</thinking>
-
 # HR Process Experience Survey - Help Guide
 ## Purpose
 The HR Process Experience Survey is designed to gather information about your experience with HR processes. This will help us improve the way we provide services and support.

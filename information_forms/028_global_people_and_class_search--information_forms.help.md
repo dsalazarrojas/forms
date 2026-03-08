@@ -1,11 +1,3 @@
-<thinking>
-This form is used to search for people and classes within the application. It is likely used by administrators or users who need to find specific information or classes within the application. It is possible that this form is used in conjunction with other forms or workflows to gather more information or to take further action. However, this should be verified by checking the form's usage and purpose within the application.
-
-The form appears to have multiple search inputs and fields, but it seems that the main goal of the form is to gather additional search information. However, the required fields are not specified, which may indicate that this form is optional or has a flexible usage.
-
-Before proceeding with the help guide, I assume that the form's purpose is to gather additional search information, and the main goal is to provide options for the user to search for people and classes within the application.
-</thinking>
-
 # Global People And Class Search - Help Guide
 ## Purpose
 This form is used to gather additional search information and provide options for users to search for people and classes within the application.

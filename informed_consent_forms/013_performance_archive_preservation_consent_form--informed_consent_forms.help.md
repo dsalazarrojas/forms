@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of the "performance_archive_preservation_consent_form" form is to obtain informed consent from users regarding the preservation and archiving of their performance-related data. This form likely exists within an institution or organization that archives performance data, such as a sports organization, university, or healthcare facility, to manage user consent for the storage and use of their data. The form ensures that users understand and agree to the terms of how their data will be handled, including where it is stored and for what purposes it will be used or shared.
-
-Before proceeding, please check that this guide is relevant to your specific situation and that you are not already familiar with this form. If you are unsure about any aspect of this form or its purpose, please seek clarification from the responsible parties.
-
-</thinking>
-
 # performance_archive_preservation_consent_form - Help Guide
 ## Purpose
 The performance_archive_preservation_consent_form is a form used to obtain informed consent from users regarding the preservation and archiving of their performance-related data. This form helps ensure that users understand and agree to the handling of their data, including storage and usage purposes.

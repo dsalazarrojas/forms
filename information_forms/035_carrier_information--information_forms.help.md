@@ -1,6 +1,3 @@
-<thinking> 
-This form is meant to collect information about a carrier company, which includes details about their company, physical address, and operational profile. The form is designed to be completed by the carrier company themselves, and the information collected will be used for tax reporting and other purposes. Before filling out this form, make sure you have not already completed it in the past. If you are a new carrier company, you will likely need to complete this form to provide necessary information about your business.</thinking>
-
 # Carrier Information - Help Guide
 ## Purpose
 This form collects information about a carrier company, including details about their company, physical address, and operational profile. The information collected will be used for tax reporting and other purposes.

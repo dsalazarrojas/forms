@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of the form, "flood_incident_report", is to capture and document information related to a flood incident, such as the incident location, date, time, and type, as well as the impact and areas affected by the incident. This form likely serves as a tool for emergency responders, disaster relief workers, or other personnel to collect and analyze data on flood incidents, helping them to respond effectively and provide necessary aid. 
-
-Checking for non-duplication and relevance is crucial as it prevents redundant data entry and ensures the form fields are correctly filled out with the correct information.
-
-</thinking>
-
 # flood_incident_report - Help Guide
 ## Purpose
 The flood_incident_report form is used to document and report on flood incidents, including locations, dates, times, types, and areas affected.

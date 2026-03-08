@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information regarding an employee's post-surgery recovery leave. This form should only be filled out by employees who have undergone surgery and are requesting leave to recover. The purpose of this form is to gather essential details about the employee's surgery, medical clearance, and planned return to work date. Please ensure that you only fill out this form if you have actually undergone surgery.
-
-</thinking>
-
 # Post-Surgery-Recovery-Leave-Form - Help Guide
 ## Purpose
 This form is used to document and process employee's post-surgery recovery leave. It is essential that employees only fill out this form after receiving medical clearance from their doctor.

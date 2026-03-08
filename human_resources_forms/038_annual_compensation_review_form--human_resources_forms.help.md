@@ -1,12 +1,3 @@
-<thinking>
-To determine the purpose of this form, we can look at the fields and their labels. It appears to be a form for an annual compensation review, which is typically a process used by employers to evaluate and adjust an employee's salary based on their performance and contributions. The form includes fields for employee information, employment history, salary history, performance ratings, and benefits satisfaction, suggesting that it is a comprehensive form for reviewing an employee's compensation package.
-
-The form also includes fields that suggest it is used to support salary increases, such as the "Proposed New Annual Salary" and "Justification for Increase" fields, indicating that the form may be used to make recommendations for salary adjustments.
-
-The form's purpose is likely to help managers or HR personnel review and adjust an employee's compensation package annually, taking into account their performance, salary history, and benefits satisfaction.
-
-</thinking>
-
 # Annual Compensation Review Form - Help Guide
 ## Purpose
 

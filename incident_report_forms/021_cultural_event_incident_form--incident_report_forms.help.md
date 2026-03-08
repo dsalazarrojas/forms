@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to report and document cultural events that have occurred within the organization. This form is used to gather information about the event, including details about the event itself, its location, and any witness statements. The form also captures information about the incident's status, cause, outcome, category, severity, priority, and whether an investigator was assigned or not. This form is meant to be a comprehensive tool for capturing all relevant details about cultural events.
-To prevent duplicate reports, ensure that the form is only used for new events, and not for revising or updating existing ones. If an event has already been reported, use the existing report instead of creating a new one. Similarly, if the event has a status that doesn't change, such as "resolved", do not update the form unless the status is changed to "ongoing" or "dismissed".
-</thinking>
-
 # cultural_event_incident_form - Help Guide
 ## Purpose
 This form is used to report and document cultural events that have occurred within the organization.

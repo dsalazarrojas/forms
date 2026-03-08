@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about a deceased individual's personal details and circumstances of their passing. It will be used for internal purposes, such as creating memorial pages, and should not be filled out if the individual is still alive. Please note that this form is not affiliated with any other form platforms or systems, and the information collected will be stored internally and handled according to our organization's policies. Before completing this form, please ensure that the individual has passed away and that you have the necessary permissions to share their information.
-
-</thinking>
-
 # Obituary Form - Help Guide
 ## Purpose
 

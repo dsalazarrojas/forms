@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # emergency_role_assignment_form - Help Guide
 
 ## Purpose

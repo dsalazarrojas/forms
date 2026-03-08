@@ -1,8 +1,3 @@
-<thinking>
-Internal note: This form is designed for sales people to apply for sales positions within the organization. It is meant to collect information about the applicants' personal details, work experience, and availability, so that HR can review and contact them for potential job openings.
-Before filling out the form, please make sure you haven't filled out the same form before, as this will help us prevent duplicate applications and ensure that we receive all the required information. 
-</thinking>
-
 # Sales Person Job Application Form - Help Guide
 ## Purpose
 This form is for sales people to apply for sales positions within the organization. It collects information about your personal details, work experience, and availability so that we can review and contact you for potential job openings.

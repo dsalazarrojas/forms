@@ -1,7 +1,3 @@
-<thinking>... 
-
-This form is used to collect information about an employee's gift and bonus preferences for the Christmas season. It's intended to ensure that employees receive a gift that suits their needs and preferences. To fill out this form, please make sure you have completed it for a single employee at a time to avoid duplication. This form is only meant for active, inactive, or retired employees who are eligible for gifts and bonuses during the Christmas season... </thinking> 
-
 # Employee Christmas Gift Form - Help Guide
 
 ## Purpose

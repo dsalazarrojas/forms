@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Local Experience Coordination Contact Form - Help Guide
 ## Purpose
 The Local Experience Coordination Contact Form is used to collect information from customers or users who want to get in touch with our local experience coordination team. This form is meant to be used for people looking for assistance or guidance on local experiences, such as planning a trip, getting recommendations, or asking questions about a specific location.

@@ -1,8 +1,3 @@
-<thinking>
-This form is meant to capture information related to workplace conflicts between employees. The goal is to provide a structured way for employees and their supervisors to report and refer conflicts to mediation services. This form should only be used when the conflict is not resolved through normal channels, and when mediation is the next step. This form will be used by HR to track and monitor workplace conflicts, and to help resolve them efficiently. Please ensure that you are using this form only when it's relevant to the situation, and not to re-report existing conflicts. This form is meant to be used for new conflicts that require mediation.
-
-</thinking>
-
 # Workplace Conflict Mediator Referral Form - Help Guide
 ## Purpose
 The Workplace Conflict Mediator Referral Form is a tool used by employees and their supervisors to report and refer workplace conflicts to mediation services. This form captures essential information about the conflict, including the employee's name, department, and conflict type, as well as the conflict's severity, duration, and frequency. The form also allows for the reporting of the conflict's resolution outcome and the employee's supervisor's name and department.

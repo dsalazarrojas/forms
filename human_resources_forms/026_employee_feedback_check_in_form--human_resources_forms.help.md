@@ -1,8 +1,3 @@
-<thinking>
-This form is used by HR department to collect employee feedback and check in their attendance. It should be filled out on the first day of the week (Monday). The form is designed to be completed by employees who attend a meeting or event, and it serves as a check-in process to ensure that all attendees are accounted for and to gather feedback. Please check if this form is not already filled out by you before proceeding.
-
-</thinking>
-
 # Employee Feedback Check In Form - Help Guide
 ## Purpose
 This form is a quick and easy way for employees to check in after a meeting or event. It helps the HR department to track attendance and gather feedback from employees.

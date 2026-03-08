@@ -1,6 +1,3 @@
-<thinking>
-This form is used to collect information from individuals applying to be a fire medic, which is a critical member of the fire department who provides medical care in emergency situations. This form ensures that all required fields are filled out accurately and completely, which is crucial for the fire department's hiring process. To avoid duplication of information, the form will only accept one submission per user.</thinking>
-
 # Fire Medic Application Form - Help Guide
 ## Purpose
 The Fire Medic Application Form is used to collect the necessary information from individuals applying to be a fire medic. This form is crucial for the fire department's hiring process and ensures that all required fields are filled out accurately and completely.

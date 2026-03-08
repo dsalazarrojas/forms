@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect job application information from candidates. It's essential to fill out this form accurately and completely to ensure that your application is reviewed and considered for the position you're applying for. Please note that this form is for general job applications, and if you're applying for a specific job posting, please ensure that you're using the correct form for that role.
 
 # sample_job_application_form - Help Guide

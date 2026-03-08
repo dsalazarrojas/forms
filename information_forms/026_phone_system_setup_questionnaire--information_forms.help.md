@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users to set up a phone system, which likely pertains to a business or organization's phone setup, maintenance, or repair. This form will ensure that all necessary details are captured accurately, avoiding any potential miscommunication or missed appointments. Before proceeding, it's essential to ensure that the form is relevant and not a duplicate of an already existing form.
-</thinking>
-
 # Phone System Setup Questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to collect essential information for setting up a phone system for a company or organization. It helps ensure accurate and efficient setup, maintenance, or repair of the phone system.

@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide that explains the purpose and requirements of the Size Information Collection Form. This form is designed to collect size information from users, which will be used for further processing and analysis. The fields in this form are intended to gather various measurements such as chest, waist, hip, jacket length, shirt length, inseam, pants length, sleeve length, pant pant inseam, and jacket sleeve length. It's essential to ensure users understand how to complete the form correctly and what each field represents to provide accurate and reliable data. Please note that all fields are optional, meaning users can fill out the form with as much or as little information as they desire.
-</thinking>
-
 # Size Information Collection Form - Help Guide
 ## Purpose
 The Size Information Collection Form is designed to gather various size measurements from users for further processing and analysis.

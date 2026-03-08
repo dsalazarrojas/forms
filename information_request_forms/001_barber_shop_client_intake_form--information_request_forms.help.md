@@ -1,7 +1,3 @@
-<thinking>
-To confirm, this is a client intake form for a barbershop. It's meant to capture basic client information, their preferences, and any allergies or sensitivities they may have. The form should only be filled out once, and any subsequent visits may require an updated version of this form. This will help us to get to know our clients better and provide them with the best service.
-</thinking>
-
 # Barber Shop Client Intake Form - Help Guide
 ## Purpose
 This form is designed to help our barbershop team understand your preferences and needs. It will help us tailor our services to provide you with the best haircut and overall experience.

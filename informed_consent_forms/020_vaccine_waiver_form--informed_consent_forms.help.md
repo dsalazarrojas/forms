@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to gather information for patients who wish to waive the vaccine requirement. The purpose of this form is to provide a clear and concise way for patients to indicate their intention to opt-out of vaccination, while still ensuring that the medical professional has all necessary information about the patient's medical history and current medical conditions.
-Before filling out this form, please note that the form is not intended to be a substitute for a comprehensive medical evaluation, and patients should be advised to consult their healthcare provider before making any decisions about vaccinations.
-The fields on this form are designed to be simple and straightforward, with clear labels and instructions to guide the user through the process.
-</thinking>
-
 # Vaccine Waiver Form - Help Guide
 ## Purpose
 This form is used to gather information from patients who wish to waive the vaccine requirement. It is intended for patients who have a medical reason for refusing vaccination and wish to document their decision with a healthcare provider.

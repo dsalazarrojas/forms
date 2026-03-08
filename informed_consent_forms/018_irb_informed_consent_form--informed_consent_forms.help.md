@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # irb_informed_consent_form - Help Guide
 ## Purpose
 This form is used to obtain informed consent from participants in a study or research project. The form includes fields for participant information, study details, and informed consent signatures. It is designed to ensure that participants understand the purpose and terms of the study, and that they provide their informed consent before proceeding.

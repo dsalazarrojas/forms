@@ -1,9 +1,3 @@
-<thinking>Before creating the user-facing help guide, I want to ensure that I fully understand the purpose and context of this form. The "Employee Motivation Survey" form is designed to gauge the level of motivation and satisfaction among employees in the company. This survey seems to focus on gathering feedback on various aspects of employee motivation, including overall satisfaction, job satisfaction, recognition, and motivation to learn, perform, and stay with the company. The form will help the organization understand the needs and concerns of their employees, providing valuable insights for HR and management decision-making.
-
-The form has eight fields, each collecting a different type of data: a select multiple-choice question, a number input, two text inputs, three number inputs, and two select inputs.
-
-Now, let's create the user-facing help guide in Markdown format.</thinking>
-
 # Employee Motivation Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from employees on their level of motivation and satisfaction within the company. Your input will help us understand what we do well and where we can improve to foster a more motivated and engaged work environment.

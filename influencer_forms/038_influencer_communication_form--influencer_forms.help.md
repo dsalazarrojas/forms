@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about an influencer's communication preferences and needs for effective collaboration and communication. The form is designed to help the brand understand the influencer's availability, communication methods, and frequency. This information will help the brand tailor its communication approach to suit the influencer's needs, ensuring a smoother and more productive partnership. It's essential to review and understand the form carefully to provide accurate and relevant information. Please ensure you're completing the correct sections and providing the necessary details to get the best outcome for your collaboration.
-</thinking>
-
 # Influencer Communication Form - Help Guide
 ## Purpose
 The Influencer Communication Form is designed to collect information about an influencer's communication preferences and needs for effective collaboration and communication between the brand and the influencer.

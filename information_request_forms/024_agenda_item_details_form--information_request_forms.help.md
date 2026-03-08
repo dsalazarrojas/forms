@@ -1,8 +1,3 @@
-<thinking>
-As a form designer and technical writer, I must understand the internal reasoning behind the form to create an effective user guide.
-This form appears to be part of a meeting or agenda management system, likely used to collect and manage agenda items for meetings. The form's purpose is to capture essential details about each agenda item, making it easier for meeting organizers and attendees to review, discuss, and decide on the items. I'll review the form's fields to ensure I provide a clear and concise guide for end-users.
-</thinking>
-
 # Agenda Item Details Form - Help Guide
 ## Purpose
 The Agenda Item Details Form is used to capture and manage essential information about each agenda item for meetings. This form helps meeting organizers and attendees to review, discuss, and make decisions about the items in a structured and organized way.

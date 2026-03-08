@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for employers to provide billing information for their group health plans. It is a crucial document that helps the insurance company understand the details of the billing process. The purpose of this form is to ensure accurate and efficient billing, which is essential for both the employer and the insurance company. It should only be used for legitimate business purposes.
-</thinking>
-
 # Group Health Plan Billing Information Form - Help Guide
 ## Purpose
 This form is designed to collect billing information for group health plans from employers. It is used to ensure accurate and efficient billing processes for both the employer and the insurance company.

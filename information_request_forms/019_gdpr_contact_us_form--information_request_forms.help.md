@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is for individuals to request information or provide feedback to our organization regarding the General Data Protection Regulation (GDPR). This form is a contact us page where users can provide their contact information and a detailed message, which will be reviewed and replied to by our team.
 
 To complete this form, follow these steps:

@@ -1,20 +1,3 @@
-<thinking>
-As an expert form designer and technical writer, I must admit that I need to make an assumption about the form purpose based on the provided YAML schema. I will infer that the "Professional Development Offboarding Form" is used to document an employee's departure from the company, including details such as the last day of work, reason for leaving, outplacement services, and next steps. It's used by HR or a similar department to maintain accurate employee departure records.
-
-Before creating the help guide, let's review the schema to ensure it's comprehensive. From the given YAML, I observe that the form covers various aspects of offboarding, including:
-
-1. Employee details (employee name, ID, and manager name)
-2. Transition plan
-3. Last day of work
-4. Reason for departure
-5. Outplacement services
-6. Exit interview
-7. Next steps
-
-This form appears to be a comprehensive guide for offboarding procedures, ensuring a structured and systematic approach to managing employee departures.
-
-</thinking>
-
 # Professional Development Offboarding Form - Help Guide
 
 ## Purpose

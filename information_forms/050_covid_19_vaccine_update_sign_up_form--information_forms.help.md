@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning: This form is intended to help collect information from users who are interested in staying up-to-date on COVID-19 vaccine updates. We will use this form to collect demographic information, preferred contact methods, and vaccination status to tailor our communications and provide more relevant and personalized updates. This form will help us ensure that we are not sending duplicate updates to users who have already received them. It also allows users to opt-out of updates at any time. The form will be reviewed and updated as needed to ensure it accurately reflects the evolving landscape of the COVID-19 pandemic and its vaccine rollout.
-</thinking>
-
 # COVID 19 Vaccine Update Sign Up Form - Help Guide
 ## Purpose
 This form is designed to help you stay up-to-date on COVID-19 vaccine updates tailored to your needs and preferences. We will use the information provided to send you personalized updates via your chosen contact methods.

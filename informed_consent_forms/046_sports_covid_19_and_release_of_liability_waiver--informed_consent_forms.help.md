@@ -1,16 +1,3 @@
-<thinking>
-To confirm, you want me to create a user-facing help guide for the "Sports COVID-19 And Release Of Liability Waiver" form with the following structure:
-
-*   "Sports COVID-19 And Release Of Liability Waiver - Help Guide"
-    *   "Purpose"
-    *   "How To Complete This Form"
-    *   "Field-by-Field Explanation"
-    *   "Tips"
-
-    The form appears to be a waiver that requires the user to provide some basic contact information (name, email, phone number), details about the patient (date of birth), and some form of acknowledgement for various points. It seems to be designed for medical or sports-related purposes.
-
-</thinking>
-
 # Sports COVID-19 And Release Of Liability Waiver - Help Guide
 ## Purpose
 The "Sports COVID-19 And Release Of Liability Waiver" form is a legal document that requires the user to provide their consent and acknowledgement on certain points related to medical or sports activities. It is likely used to inform and protect both the individual and the organization or individual providing the services involved.

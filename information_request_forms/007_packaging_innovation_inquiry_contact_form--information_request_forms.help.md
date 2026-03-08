@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather contact and project information from potential collaborators or clients. It is intended for individuals or organizations interested in learning more about packaging innovation or seeking collaboration opportunities. To ensure the form is filled out correctly, please verify that the required fields are completed before submitting. This form is a simple, one-page form with six fields. Each field is described below.
-</thinking>
-
 # packaging_innovation_inquiry_contact_form - Help Guide
 ## Purpose
 This form is for people interested in learning more about packaging innovation or seeking collaboration opportunities in the packaging industry.

@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect feedback on an employee's performance from their manager. The purpose of this form is to gather specific and objective information on an employee's strengths and weaknesses, areas for improvement, and goals for development. This form should not be used for other purposes, such as creating a performance improvement plan or disciplinary action.
-
-Before filling out this form, ensure that you have the necessary information and authority to complete it accurately and fairly.
-
-Please note that this form is a template, and the actual fields and options may vary based on your organization's specific policies and procedures.
-
-Please ensure that you complete this form in a professional and respectful manner, focusing on facts and specific examples rather than opinions or personal biases.
-
-Before submitting this form, review your responses carefully to ensure accuracy and completeness.
-
-</thinking>
-
 # Employee Performance Appraisal Feedback Form - Help Guide
 
 ## Purpose

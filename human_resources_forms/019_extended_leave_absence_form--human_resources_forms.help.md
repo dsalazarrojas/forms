@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Extended Leave Absence Form - Help Guide
 
 ## Purpose

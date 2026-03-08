@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from applicants to the Ethical Advisory Panel. This form is designed to capture the necessary details from the applicant, such as their organization, work experience, areas of expertise, and contact information. The form is also asking for the applicant's consent to be contacted via different channels (email, SMS, postal mail). The goal is to ensure that the applicant is informed about the purpose and scope of the Ethical Advisory Panel and that they are aware of how their information will be used. The information gathered through this form will be used to evaluate the applicant's suitability for the panel and to contact them with further instructions or requests for information.</thinking>
-
 # Ethical Advisory Panel Application Form - Help Guide
 
 ## Purpose

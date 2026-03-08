@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect data protection information from customers or employees to ensure that our organization meets its data protection and privacy obligations. This form will help us understand the type of data being collected, how it's collected, and how it's protected. Please make sure to fill out all relevant fields accurately and truthfully. If you're not sure about any field, please ask your contact person for clarification.
-</thinking>
-
 # Data Protection Form - Help Guide
 ## Purpose
 The Data Protection Form is a collection of information that helps us ensure our organization's data protection and privacy obligations are met. This form will help us understand the type of data being collected, how it's collected, and how it's protected.

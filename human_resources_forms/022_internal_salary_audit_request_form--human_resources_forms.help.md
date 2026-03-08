@@ -1,12 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly to avoid unnecessary processing and potential errors. Therefore, please take the following into consideration before proceeding:
-
-*   This form is intended for internal use only, so please refrain from sharing it with external parties.
-*   Before completing the form, please check that the employee has not already submitted a request for a salary audit within the past 6 months. If they have, you may need to review that request before submitting this form.
-*   Ensure that you have all necessary information and supporting documents before submitting this form.
-*   If you are unsure about the purpose or any specific field, please ask your manager or HR representative for clarification.
-</thinking>
-
 # Internal Salary Audit Request Form - Help Guide
 ## Purpose
 The Internal Salary Audit Request Form is used to request an internal salary audit for an employee. This form is intended to gather necessary information to accurately process the audit request.

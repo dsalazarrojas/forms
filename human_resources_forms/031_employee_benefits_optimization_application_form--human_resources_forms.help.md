@@ -1,9 +1,3 @@
-<thinking>
-The form is intended to gather information from employees for benefits optimization, which involves making informed decisions to optimize employee benefits packages. The goal is to provide a comprehensive form that covers all necessary details for benefits optimization, including personal and employment details, selected benefits, and submission status.
-The form will not collect sensitive or personal identifiable information, and all answers should be honest and accurate. The form will be reviewed and updated regularly to ensure that it is relevant and useful for the employees and management.
-This form is designed to be completed by employees, and managers will not be required to fill it out.
-</thinking>
-
 # Employee Benefits Optimization Application Form - Help Guide
 ## Purpose
 This form is intended to help employees submit their benefits optimization requests, providing a comprehensive overview of their current benefits package and any changes they would like to make to optimize it.

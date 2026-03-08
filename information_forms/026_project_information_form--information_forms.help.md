@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to collect basic information about a project, such as its name, description, and manager. This form is likely used for internal purposes within an organization to track and manage projects. The form is not affiliated with any specific form platform, and its purpose is to provide a general template for collecting project information. The form's fields are not mandatory, allowing users to fill in as much or as little information as they need.
-</thinking>
-
 # Project Information Form - Help Guide
 ## Purpose
 This form is designed to collect and store project-related information in a structured manner. It helps project managers and team members to have a centralized repository of project details.

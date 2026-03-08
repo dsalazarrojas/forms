@@ -1,18 +1,3 @@
-<thinking>
-The form purpose seems to be related to updating an invoice, allowing users to choose options for various invoice fields, select whether to create a new invoice, and input relevant customer information.
-
-Upon examining the form, I notice the following:
-
-- There are multiple pages, but they all appear to be on the same page. I will consider this a single-page form.
-- The form has a "Create New Invoice" option, implying that this is not for updating an existing invoice but for generating a new one.
-- The form has several input fields for customer information, including name, email, phone, address, and description.
-- There are options for selecting multiple "Yes" or "No" for the invoice fields, which might indicate these fields are for optional or additional features.
-- The form includes fields for date and time, which could be used to specify the invoice date and time.
-- The form also includes fields for total amount and customer currency.
-
-Before proceeding, I will check if all fields are being used and if there is any redundant or unnecessary information. Upon reviewing the fields, I see that all fields are being used and there doesn't seem to be any redundancy. I will proceed with creating the help guide.
-</thinking>
-
 # Invoice Update Form - Help Guide
 ## Purpose
 The Invoice Update Form is used to generate a new invoice. This form allows you to select options for various invoice fields and input relevant customer information.

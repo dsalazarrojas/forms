@@ -1,9 +1,3 @@
-<thinking>
-This form is for individuals to submit an immigration enquiry. The purpose of this form is to gather information about the enquirer's identity and preferences in order to provide them with accurate and relevant information on immigration procedures and requirements. To avoid duplication, this form should not be completed by individuals who have already submitted an enquiry or have received a response to a previous enquiry.
-
-Before filling out this form, please ensure that you are completing it for the correct reason and that you are not submitting duplicate information. If you have any doubts, please contact our support team.
-</thinking>
-
 # Immigration Enquiry Form - Help Guide
 ## Purpose
 The Immigration Enquiry Form is designed to gather information from individuals who are interested in learning more about immigration procedures and requirements. This form will help our team to understand your needs and preferences, enabling us to provide you with accurate and relevant information to assist you in your immigration journey.

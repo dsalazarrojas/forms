@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information from clients before undergoing microdermabrasion treatment. It is essential to ensure that the client's medical history, insurance information, and emergency contact details are accurately captured. Please note that this form is a requirement for all clients and must be completed before treatment can begin.
-
-</thinking>
-
 # Microdermabrasion Client Intake Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from clients before undergoing microdermabrasion treatment. It helps us understand your medical history, insurance details, and emergency contact information to ensure your safety and successful treatment.

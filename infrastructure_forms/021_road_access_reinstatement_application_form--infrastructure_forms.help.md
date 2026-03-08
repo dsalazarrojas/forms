@@ -1,6 +1,3 @@
-<thinking>
-We should consider the form purpose and ensure that users do not submit duplicate requests. The form is intended to gather information about road access reinstatement projects, which is a crucial process for municipalities and utility contractors to collaborate on. Users should be aware that submitting multiple requests for the same project may lead to unnecessary work and potential delays. To avoid this, users should only submit one request per project. This guide will walk you through the process of filling out the Road Access Reinstatement Application Form.</thinking>
-
 # Road Access Reinstatement Application Form - Help Guide
 
 ## Purpose

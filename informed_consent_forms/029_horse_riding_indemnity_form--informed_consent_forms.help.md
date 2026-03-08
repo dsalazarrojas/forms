@@ -1,7 +1,3 @@
-<thinking>
-The Horse Riding Indemnity Form is designed to ensure that riders have a clear understanding of the risks associated with horse riding and their responsibilities in case of an accident or emergency. This form is a mandatory document that riders must sign before participating in any horse riding activities. The form is intended to protect both the rider and the horse, and it's essential to fill it out accurately and completely.
-</thinking>
-
 # Horse Riding Indemnity Form - Help Guide
 ## Purpose
 The Horse Riding Indemnity Form is a critical document that outlines the terms and conditions of horse riding activities. It's essential to understand the potential risks involved and take responsibility for one's actions.

@@ -1,13 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "offense_incident_report_form" form, we need to consider the following internal reasoning:
-
-* The form is likely used to report incidents, which could be events or situations that have occurred within an organization.
-* The form's purpose is to collect information about these incidents, possibly for tracking, investigation, or resolution purposes.
-* Each field in the form should be clearly explained to ensure end-users understand what information they need to provide.
-* The form's structure and fields suggest it may be used in a workplace or business setting, where incidents might be reported by employees or team members.
-* We should avoid inventing business logic or making assumptions about the form's purpose or usage.
-</thinking>
-
 # offense_incident_report_form - Help Guide
 
 ## Purpose

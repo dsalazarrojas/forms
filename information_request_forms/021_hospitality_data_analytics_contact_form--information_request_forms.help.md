@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hospitality Data Analytics Contact Form - Help Guide
 
 ## Purpose

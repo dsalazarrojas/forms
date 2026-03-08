@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a subcontractor, including their personal and company details, contact information, and contract dates. This form is used to gather relevant data that can be used for various business purposes, such as communication, payment, and record-keeping. It is essential to ensure that all required fields are filled in accurately to avoid any issues with data accuracy and integrity.
-
-This form is designed to be completed by a subcontractor or their representative, so it is crucial to understand the fields clearly to prevent any confusion or omission of critical information.
-
-Before proceeding, please ensure that you have all the necessary details and that the information is up-to-date. The form can be completed in multiple pages, and each field is designed to collect specific information that is relevant to the subcontractor's profile.
-
-To ensure that the data collected is accurate and complete, please refer to this guide for a clear understanding of each field's purpose.</thinking>
-
 # Subcontractor Information Form Template - Help Guide
 ## Purpose
 The Subcontractor Information Form Template is designed to collect essential details about a subcontractor, including their personal and business information, contact details, and contract dates. This form is used to maintain accurate and complete records of subcontractors for various business purposes.

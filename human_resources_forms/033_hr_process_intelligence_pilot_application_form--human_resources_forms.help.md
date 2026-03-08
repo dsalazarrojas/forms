@@ -1,8 +1,3 @@
-<thinking>
-The HR Process Intelligence Pilot Application Form is designed to collect information from applicants participating in an HR Process Intelligence Pilot program. This form aims to gather relevant details about the applicant's background, challenges, and goals to better understand their fit for the program. 
-The form has 9 fields in total, including applicant details, HR challenges, goals, additional information, and contact information such as email and phone number. The purpose of this form is to assess the applicant's qualifications and ensure they are a good fit for the program. It is recommended that applicants review the form carefully before submitting their application to avoid any potential duplication of effort or submission of irrelevant information.
-</thinking>
-
 # HR Process Intelligence Pilot Application Form - Help Guide
 ## Purpose
 The HR Process Intelligence Pilot Application Form is a tool used to gather information from applicants participating in an HR Process Intelligence Pilot program. The form is designed to assess the applicant's qualifications and determine their fit for the program.

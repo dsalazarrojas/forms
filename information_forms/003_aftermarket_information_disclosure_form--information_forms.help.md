@@ -1,9 +1,3 @@
-<thinking> 
-
-This form is designed for customers to disclose information about their products or services. The purpose of this form is to gather necessary details for aftermarket services, such as warranty verification, safety recall information, technical support, legal compliance, or parts compatibility checks. By filling out this form, customers will provide essential data that will help us process their request efficiently. Please make sure you're only submitting this form if you've actually checked our FAQs and haven't already submitted a similar request.
-
-</thinking>
-
 # Aftermarket Information Disclosure Form - Help Guide
 ## Purpose
 The Aftermarket Information Disclosure Form is used to gather essential information about your products or services for aftermarket services such as warranty verification, safety recall information, technical support, legal compliance, or parts compatibility checks.

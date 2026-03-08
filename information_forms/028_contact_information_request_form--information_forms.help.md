@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect contact information from potential patients or attendees at institutions or clinics. The form is meant to help requesters (people submitting the form) gather the necessary contact details of the person whose information is being requested, which could be a patient or a contact person at an institution or clinic. This form is not intended for general inquiries or non-specific contact requests.
-
-</thinking>
-
 # Contact Information Request Form - Help Guide
 ## Purpose
 This form is used to request contact information from potential patients or attendees at institutions or clinics.

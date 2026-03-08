@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from clients who require an estimate for a book project. The form will be used by the project team to understand the client's needs and provide a detailed estimate for the project. This form should only be filled out once per project, and clients should not submit multiple forms for the same project. Please make sure to fill out the form accurately and thoroughly, and do not submit incomplete or duplicate requests.
-</thinking>
-
 # Book Estimate Request Form - Help Guide
 ## Purpose
 This form is used to request an estimate for a book project. It will guide the project team in understanding your project's needs and provide a detailed estimate for the project's scope, timeline, and budget.

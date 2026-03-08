@@ -1,7 +1,3 @@
-<thinking>
-This form is for collecting information about a person's personal and professional background, contact details, and answers to specific questions. It's designed to gather relevant data for internal use. To ensure accuracy, please fill in the form carefully and thoroughly. If you've already completed this form, do not submit it again.
-</thinking>
-
 # interview_questionnaire - Help Guide
 ## Purpose
 This form is used to collect personal and professional information from individuals, including their contact details and answers to specific questions. The data collected will be used for internal purposes only.

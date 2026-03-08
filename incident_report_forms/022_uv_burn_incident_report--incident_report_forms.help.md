@@ -1,12 +1,3 @@
-<thinking>
-...the form is designed for reporting incidents related to UV exposure among employees. It's meant to be filled out when an employee has experienced a sun-related injury or has been exposed to the sun for an extended period. The form captures information about the incident, including the date and time of the incident, the location where it occurred, details about the employee involved (name, job title, department), and a description of what happened.
-
-Before filling out this form, ensure that you have reported the incident to your supervisor or HR representative if it's not an emergency. This form is for record-keeping and follow-up purposes only.
-
-Please review each field carefully to provide accurate and complete information. If you're unsure about any field, refer to this guide for clarification.
-
-</thinking>
-
 # UV Burn Incident Report - Help Guide
 ## Purpose
 This form is used to report incidents related to UV exposure among employees, such as sunburns or excessive sun exposure.

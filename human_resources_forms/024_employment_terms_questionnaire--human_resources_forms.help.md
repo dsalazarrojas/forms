@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be a questionnaire designed to collect information about an employee's job details. The purpose of this form is to gather data about the employment terms, job type, job location, job description, and other relevant details. This form seems to be relevant to HR (Human Resources) departments or teams within organizations, and its primary use case is to document and track job information for internal purposes or reporting.
-
-Before proceeding, please ensure that this form has not been previously created or used in your organization. This guide will help you understand each field's purpose and requirements, making sure you complete the form accurately and efficiently.
-</thinking>
-
 # Employment Terms Questionnaire - Help Guide
 ## Purpose
 The Employment Terms Questionnaire is a form designed to collect detailed information about an employee's job details, including job title, job type, job location, job description, and employment terms.

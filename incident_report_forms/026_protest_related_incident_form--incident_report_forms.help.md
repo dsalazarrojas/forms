@@ -1,8 +1,3 @@
-<thinking>
-This form is used to report incidents related to protests. 
-The purpose of this form is to gather information about a protest-related incident, including details about the incident, the protest itself, the person reporting the incident, and the date and time of the protest. 
-</thinking>
-
 # protest_related_incident_form - Help Guide
 ## Purpose
 The "protest_related_incident_form" is used to report incidents related to protests. This form is intended to gather all necessary information to document and follow up on protests that may occur within the organization.

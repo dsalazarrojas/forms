@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for individuals to declare their estate distribution preferences after inheriting an estate. The form aims to collect necessary information to ensure a smooth distribution process. To ensure accurate completion, please note that this form should only be filled out once for each estate distribution.
-</thinking>
-
 # Inheritance Distribution Form - Help Guide
 ## Purpose
 The Inheritance Distribution Form is a tool used to document and manage the distribution of an estate after an individual inherits it. This form helps ensure a fair and efficient distribution process by collecting essential information about the estate and its beneficiaries.

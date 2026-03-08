@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to gather essential information for setting up a new employee in the company's HR system. The primary purpose of this form is to ensure that all necessary details are collected accurately and consistently for administrative and operational purposes.
-
-Before proceeding, it is essential to understand that this form is a one-time setup process for new employees. It is crucial to fill out the form carefully and accurately to prevent errors in employee data. If you have any prior experience or existing accounts with the company, please note that this form will update or replace any existing data.
-
-To avoid duplication of effort, please ensure that you only need to complete this form once. If you have already filled out this form previously, kindly disregard the instructions below and proceed directly to submission. The form is designed to be easy to navigate and understand. However, if you have any questions or concerns, please reach out to your HR department or IT for assistance.
-
-Please review the form instructions and ensure you have all necessary information before proceeding. This will save time and minimize errors.
-</thinking>
-
 # AP New Employee Set Up - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-To be eligible for Pilates sessions, you must complete the Pilates Client Information Form. This form is used to collect essential information about the client, including medical history and emergency contact details. Please fill out the form accurately and thoroughly, as it will be reviewed to ensure that you are a good fit for our sessions.
-</thinking>
-
 # Pilates Client Information Form - Help Guide
 ## Purpose
 The Pilates Client Information Form is a mandatory form that collects essential information about the client. Please ensure that you submit it accurately and thoroughly to avoid any miscommunication.

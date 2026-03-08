@@ -1,7 +1,3 @@
-<thinking>
-This form is a critical part of the business operations, as it outlines the terms and conditions between a seller and a buyer for a sales transaction. This form is used to document the agreement between the two parties, ensuring both sides are on the same page and understand their responsibilities. It's essential to complete this form accurately to avoid potential conflicts or misunderstandings. Before filling out this form, review the fields below to ensure you understand what's required and what's expected.
-</thinking>
-
 # Sales Agreement - Help Guide
 ## Purpose
 This form is used to document the terms and conditions between a seller and a buyer for a sales transaction.

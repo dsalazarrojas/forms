@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended to provide clear instructions for completing the Camper Personal Information Request Form. The form's purpose is to collect vital information about the camper's parent or guardian and the camper themselves, which will be used to tailor the camper's experience to their specific needs. This form should only be completed once per camper, and the information collected will be used to ensure the camper's safety and comfort during their stay.
-
-Before filling out this form, please note that the information collected will be kept confidential and used only for the purpose of providing a safe and enjoyable experience for the camper.
-
-The form is divided into several sections, each with its own set of fields. Please read the explanations for each field carefully to ensure you complete the form accurately.
-
-</thinking>
-
 # Camper Personal Information Request Form - Help Guide
 ## Purpose
 This form is intended to gather necessary information about the camper's parent or guardian and the camper themselves. This information will be used to provide a safe and enjoyable experience for the camper during their stay.

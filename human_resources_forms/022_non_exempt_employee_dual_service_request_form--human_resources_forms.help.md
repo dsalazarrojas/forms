@@ -1,7 +1,3 @@
-<thinking>
-To prevent non-duplication of dual service requests, this form ensures that only one employee can be assigned to a single task at a time. This form is intended for employees who need assistance with tasks that are not typically part of their main job responsibilities. The form should only be completed by an employee who needs to request assistance from another employee.
-</thinking>
-
 # Non Exempt Employee Dual Service Request Form - Help Guide
 ## Purpose
 This form is used to request assistance from another employee for tasks that are not typically part of your main job responsibilities. This ensures that tasks are properly assigned and prevents non-duplication of requests.

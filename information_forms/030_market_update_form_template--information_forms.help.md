@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from users for a specific purpose. However, to prevent duplication, this guide is only meant for the user who has not filled out the form before. Please make sure that the form is not intended for users who do not need to provide information. The form is used by internal stakeholders to update information related to the market. The user is required to fill in the following details to ensure the information is up-to-date.
-</thinking>
-
 # Market Update Form Template - Help Guide
 ## Purpose
 The Market Update Form Template is used to collect information from users for market updates. This form is meant to be filled out by internal stakeholders who need to provide updates on the market.

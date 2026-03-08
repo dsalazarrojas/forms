@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Incident Notification Form - Help Guide
 ## Purpose
 

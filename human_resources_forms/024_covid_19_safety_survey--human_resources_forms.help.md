@@ -1,10 +1,3 @@
-<thinking>
-This form is used to track the COVID-19 safety data of employees. The purpose of this form is to gather information about the employee's health status, medical history, and any potential exposure or reactions to the COVID-19 vaccine. This data will be used to provide personalized guidance and support to employees who may be experiencing symptoms or have concerns about their health.
-
-Before filling out this form, please ensure you have not already submitted a similar form for the same purpose. If you have any doubts or concerns, contact the relevant authorities or your HR department for clarification.
-
-</thinking>
-
 # covid_19_safety_survey - Help Guide
 ## Purpose
 This form is used to track the COVID-19 safety data of employees. It is essential to fill out this form accurately and completely to help our organization ensure a safe and healthy work environment.

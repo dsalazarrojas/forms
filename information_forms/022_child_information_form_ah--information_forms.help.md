@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information about a child, including their full name, date of birth, and contact details for a primary contact person. This form is likely used in the context of a program or project involving children, such as a summer camp, program or event registration. The form is intended to gather essential information for program administration and updates. Please ensure that you are not duplicating this form for other purposes as it contains sensitive information about children.
-</thinking>
-
 # Child Information Form AH - Help Guide
 ## Purpose
 The Child Information Form AH is a form used to collect essential information about a child, which is necessary for program administration and updates.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users request certification for data compliance, which is a process to ensure that data is handled and stored in a way that meets regulatory requirements. It's essential for users to fill out this form to initiate the certification process. To avoid duplication of efforts, please ensure that you have not previously submitted a certification request for the same data.
-</thinking>
-
 # Data Compliance Certification Request Form - Help Guide
 ## Purpose
 The Data Compliance Certification Request Form is used to request certification for data compliance. This form helps users initiate the certification process by providing necessary information about the data in question.

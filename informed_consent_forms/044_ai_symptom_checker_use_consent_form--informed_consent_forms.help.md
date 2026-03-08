@@ -1,8 +1,3 @@
-<thinking>
-This form is for users to provide informed consent to use an AI symptom checker, which is a tool that helps diagnose or provide information on medical symptoms. The form should be used to ensure that users understand the limitations of the tool and the implications of using it, and that they provide their contact information and signature for any follow-up or future reference. This form should be used only once per user, and any duplication of the form should be discouraged.
-
-</thinking>
-
 # AI Symptom Checker Use Consent Form - Help Guide
 ## Purpose
 The AI Symptom Checker Use Consent Form is a document that users must complete to provide their informed consent to use the AI symptom checker. The form is used to ensure that users understand the tool's limitations and the implications of using it, and to collect their contact information and signature for any follow-up or future reference.

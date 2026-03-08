@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect demographic information from influencers, allowing them to validate their demographic data. The form is used to ensure that influencers accurately represent their audience demographics. This form will help identify potential issues with demographic data and prevent misrepresentation.
-
-To complete this form, follow the instructions below:
-
-</thinking>
-
 # Influencer Demographic Validation Form - Help Guide
 
 ## Purpose

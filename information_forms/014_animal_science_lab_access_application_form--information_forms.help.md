@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure that users understand the purpose of the form and what it entails. This form is used to request access to the Animal Science Lab. The purpose of the form is to gather information from the applicant about their identity, research goals, and lab access requirements. To avoid duplication, users should ensure that they do not submit duplicate applications. If a user is unsure if they have submitted an application, they can refer to the lab's access management system for confirmation.</thinking>
-
 # Animal Science Lab Access Application Form - Help Guide
 ## Purpose
 This form is used to request access to the Animal Science Lab. It collects information about the applicant's identity, research goals, and lab access requirements.

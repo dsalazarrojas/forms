@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback from managers and employees on a tech startup's probationary employment period. It captures information on the start and end dates of the probation period, employee and manager names, job title, performance feedback, evaluation outcomes, recommendations, and comments from both the manager and employee. This form should only be used by authorized personnel within the organization to collect and document feedback during this specific period. 
-</thinking>
-
 # tech_startup_probation_feedback_employment_form - Help Guide
 ## Purpose
 This form is designed to collect feedback and information on the probationary employment period for employees in a tech startup.

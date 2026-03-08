@@ -1,13 +1,3 @@
-<thinking>
-
-To create a comprehensive user-facing help guide for this form, I will consider the provided YAML fields and aim to provide a clear, concise, and practical explanation of the form's purpose, how to complete it, and each field's meaning.
-
-The form purpose is to collect basic information from government officials for official purposes. This includes their first name, last name, date of birth, official title, email, and contact number. The form may seem straightforward, but understanding the correct input format for each field can be crucial for accurate and efficient processing.
-
-The form consists of six pages, each with a single field for input. This guide will cover each field and provide step-by-step instructions on how to complete the form.
-
-</thinking>
-
 # Government Official Information Form - Help Guide
 ## Purpose
 The Government Official Information Form is designed to collect basic information from government officials for official purposes. This information may be used for identification, communication, or other official purposes.

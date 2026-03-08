@@ -1,11 +1,3 @@
-<thinking>
-
-The Service Interruption Incident Form is used to report and document service interruptions that have occurred within the organization. This form ensures that all relevant details about the incident are captured, including the type of service interruption, duration, impact, and resolution status, among others. 
-
-Before filling out this form, please ensure you have all the necessary information at hand. If you've already reported an incident previously, please do not submit a duplicate report. If you're unsure about any of the fields or their requirements, please consult with your team or supervisor for guidance.
-
-</thinking>
-
 # Service Interruption Incident Form - Help Guide
 ## Purpose
 This form is designed to facilitate the documentation and management of service interruptions, enabling swift resolution and analysis of incidents.

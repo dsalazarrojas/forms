@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to request a base rate adjustment for an employee. The form collects various information about the employee, including their name, ID, department, job title, request date, manager's name and email, current and proposed base rates, rate type, percentage increase, effective date, reason for adjustment, justification for increase, current performance rating, last performance review date, time in current position, date of last rate increase, budget approval status, market data supporting the request, internal equity considered, retention risk level, HR approval, finance approval, additional comments, and manager and HR signatures. This form is used to ensure that all necessary information is collected and processed before a base rate adjustment can be made. To avoid duplicates, please ensure that no duplicate requests are submitted within the same period.
-</thinking>
-
 # Base Rate Adjustment Form - Help Guide
 
 ## Purpose

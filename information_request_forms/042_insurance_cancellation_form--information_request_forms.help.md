@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from users for insurance cancellation purposes. The form's purpose is to gather details such as the reason for cancellation, the insurance company involved, and the effective date of cancellation. The form also includes fields for signatures and dates to ensure that the cancellation process is properly documented. This form is likely used by insurance companies or their representatives to manage customer cancellations and ensure that all necessary information is collected in a clear and concise manner.
-
-Before filling out this form, please note that:
-
-*   This form is designed for insurance cancellation purposes only.
-*   Please ensure that you have the necessary authorization or permission to fill out this form.
-*   Please fill out all required fields to ensure that your cancellation request is processed efficiently.
-
-</thinking>
-
 # Insurance Cancellation Form - Help Guide
 ## Purpose
 The Insurance Cancellation Form is designed to collect information from users for insurance cancellation purposes. It gathers details such as the reason for cancellation, the insurance company involved, and the effective date of cancellation.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # HR Process Optimization Partner Contact Form - Help Guide
 ## Purpose
 This form is for partners interested in optimizing their human resources (HR) processes. It helps us understand your needs and goals, allowing us to provide tailored guidance and support. 

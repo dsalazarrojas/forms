@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # quit_claim_deed_form - Help Guide
 ## Purpose
 The Quit Claim Deed Form is used to document a property transfer where the grantor (seller) waives their interest in a property and transfers it to the grantee (buyer). This form is typically used for real estate transactions.

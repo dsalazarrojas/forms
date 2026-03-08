@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect employee network formation application information. This form is intended to be used by employees to apply for a position or opportunity within the company's employee network. The purpose of this form is to gather necessary information for the employee network formation process, which includes the employee's name, role, department, location, and any other relevant details. To avoid duplicate applications, please make sure to fill out the form carefully and accurately. If you have any questions or concerns, please contact the relevant department or HR representative.
-</thinking>
-
 # Employee Network Formation Application Form - Help Guide
 ## Purpose
 This form is used to collect employee network formation application information from applicants. It is essential to complete this form accurately and carefully to ensure that your application is processed correctly.

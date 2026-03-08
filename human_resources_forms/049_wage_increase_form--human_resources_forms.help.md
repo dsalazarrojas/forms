@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for requesting wage increases for employees. It is used to gather information for approval processes and tracking purposes. Ensure that you are submitting a valid reason for wage increase, and that the effective date is a valid date. The manager and supervisor approvals are optional, but they need to be filled in by the respective people in the organization. This form will be submitted on a date specified by the user. Ensure that there are no duplicate submissions for the same employee ID.
-</thinking>
-
 # Wage Increase Form - Help Guide
 ## Purpose
 The Wage Increase Form is designed to request and track wage increases for employees. To complete this form, please follow the steps below:

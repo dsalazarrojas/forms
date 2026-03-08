@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect information about an individual's COVID-19 symptoms, travel history, and vaccination status. It will help in tracking and monitoring the spread of the virus in a company or organization. This form is intended for employees of the company to report their daily symptoms, test results, and vaccination status. The form will also help in keeping track of the vaccination schedule and the next follow-up dates. It's essential that the employees fill this form accurately and truthfully to ensure effective monitoring and control of the virus.
-
-</thinking>
-
 # covid-19-daily-screening-form - Help Guide
 ## Purpose
 

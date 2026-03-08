@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used by healthcare providers to document and track the progress of a patient's care. It is meant to capture important information about the patient's visit, including their demographics, medical history, and treatment plan. This form will be used in conjunction with other tools and systems to improve the quality of care and outcomes for patients. 
-</thinking>
-
 # Patient Progress Notes Form - Help Guide
 ## Purpose
 This form is intended to be used by healthcare providers to document and track the progress of a patient's care.

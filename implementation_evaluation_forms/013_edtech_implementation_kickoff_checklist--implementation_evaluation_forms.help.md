@@ -1,8 +1,3 @@
-<thinking>
-The form titled "EdTech Implementation Kickoff Checklist" aims to guide project coordinators and stakeholders in initiating and evaluating EdTech projects. The form serves as a comprehensive checklist to ensure that all necessary details are captured and communicated during the implementation phase. This form is designed to be used during the kickoff meeting, helping teams to identify and prioritize key areas of consideration for a successful project outcome. This form has been generated using AI, based on a combination of public survey topic metadata for the education sector, making it an original and unbiased resource.
-This form does not duplicate or extract content from any commercial platform. It is released under CC BY 4.0, allowing users to modify, distribute, and even sell derivative forms while providing proper attribution.
-</thinking>
-
 # EdTech Implementation Kickoff Checklist - Help Guide
 ## Purpose
 The EdTech Implementation Kickoff Checklist is a comprehensive guide to ensure a successful EdTech project implementation. This guide helps project coordinators and stakeholders to identify and prioritize key areas of consideration for a successful project outcome.

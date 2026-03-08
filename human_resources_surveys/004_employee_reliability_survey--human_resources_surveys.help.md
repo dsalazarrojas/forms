@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to assess the reliability of employees within the organization. It is meant to evaluate the employee's behavior, performance, and overall contributions to the team. The purpose of this form is to gather feedback and ratings from team members, supervisors, and other stakeholders to determine the reliability of each employee. This form is typically used for performance reviews, promotions, or disciplinary actions.
-
-Please note that this form should only be filled out by authorized personnel, and the answers provided should be honest and based on the employee's actual performance. 
-
-Before proceeding, ensure that you are filling out this form for the correct employee and purpose. Also, be aware that this form will ask you to rate and provide feedback on various aspects of the employee's behavior and performance, so make sure to provide specific examples and justifications for your answers.
-
-Before submitting, double-check that you have answered all required fields.
-
-</thinking>
-
 # employee_reliability_survey - Help Guide
 ## Purpose
 The purpose of this form is to assess the reliability of employees within the organization. It helps evaluate their behavior, performance, and overall contributions to the team.

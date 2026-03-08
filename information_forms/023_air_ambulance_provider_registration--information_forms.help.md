@@ -1,11 +1,3 @@
-<thinking> 
-This form is for air ambulance providers to register their services with our organization. The purpose of this form is to collect information about the provider's name, contact details, aircraft types, service area coverage, licenses and certifications, and any other relevant information that can help us process and verify their services. This form is intended for new providers to register and existing ones to update their information. Please make sure you are registering as an authorized representative of the provider to avoid duplication of entries and miscommunication with our team. 
-
-Please fill out the form accurately and thoroughly. If you need help or have questions, you can contact us at [support email]. 
-
-After registering, you should receive an email with instructions on how to complete your registration.
-</thinking>
-
 # Air Ambulance Provider Registration - Help Guide
 ## Purpose
 This form is designed to collect information from air ambulance providers to register their services with our organization. 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Application Update Form - Help Guide
 
 ## Purpose

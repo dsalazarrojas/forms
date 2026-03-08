@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to collect information from multiple agents, typically used in scenarios where agents need to collaborate on a project or partnership. The form aims to gather relevant details such as project name, agent name, contact information, and project specifics like start and end dates, project type, and category. It also captures additional information like assigned tool, category, and a short description to provide context. The form is intended to be completed by agents who will be working together on a project. To avoid duplication, ensure that the form is not filled out for the same project multiple times.
-
-</thinking>
-
 # Multi Agent Information Collection Form - Help Guide
 ## Purpose
 The Multi Agent Information Collection Form is designed to collect information from multiple agents working on a project or partnership.

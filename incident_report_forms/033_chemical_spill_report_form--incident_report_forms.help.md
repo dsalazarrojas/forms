@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Chemical Spill Report Form - Help Guide
 
 ## Purpose

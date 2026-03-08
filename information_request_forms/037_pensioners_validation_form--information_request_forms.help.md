@@ -1,8 +1,3 @@
-<thinking>
-To avoid duplication, this form is intended for pensioners who are not already validated in the system.
-Please fill in the required fields accurately to avoid delays in processing your pensioner information.
-</thinking>
-
 # Pensioners Validation Form - Help Guide
 ## Purpose
 The Pensioners Validation Form is a required document used for verifying pensioners' information to avoid duplication and ensure accurate data entry. Please fill in the form accurately to avoid delays in processing your pensioner information.

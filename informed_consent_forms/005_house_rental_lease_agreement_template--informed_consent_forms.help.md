@@ -1,7 +1,3 @@
-<thinking>
-This form is a template for a House Rental Lease Agreement, which is a legal document outlining the terms and conditions of a rental property. This template was created using public metadata from a survey on property rental and lease agreements. It is not affiliated with any form platform and is released under a Creative Commons license. The form is designed to be used by tenants and landlords to document the terms of a rental property, including information about the tenant and landlord, property details, lease terms, payment terms, security deposit, and termination terms. 
-</thinking>
-
 # House Rental Lease Agreement Template - Help Guide
 ## Purpose
 This form is a template for a House Rental Lease Agreement, which is a legal document that outlines the terms and conditions of a rental property. It is designed to be completed by both tenants and landlords to document the details of the rental property and the agreement between them.

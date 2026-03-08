@@ -1,9 +1,3 @@
-<thinking>
-We need to ensure that the form is used for its intended purpose and not misused or duplicated for other unrelated purposes. This form is designed to gather information from the parent/guardian of a student, typically for administrative or educational purposes. It's crucial to understand the form's purpose and fill it out accurately to avoid any confusion or errors in handling the data.
-
-To prevent duplication, it's essential to review the form's fields and ensure that each one is filled out correctly. This will help maintain the integrity of the data and prevent any potential issues downstream.
-</thinking>
-
 # Parent Information Form - Help Guide
 ## Purpose
 The Parent Information Form is designed to gather essential information from the parents or guardians of a student. This form is used to collect details about the student's parent/guardian, including contact information, relationship, and any relevant medical conditions. The form is typically used for administrative or educational purposes.

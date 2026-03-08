@@ -1,7 +1,3 @@
-<thinking>
-We will assume this form is intended to evaluate the skills gaps of employees within an organization, specifically to identify areas where employees need training or support to perform their jobs effectively. The form will gather information on job titles, employee and manager names, job families, job functions, skills needed, training required, and performance evaluations. The form's purpose is to provide a framework for HR departments to conduct regular performance evaluations and identify areas for improvement.
-</thinking>
-
 # Employee Skills Gap Evaluation Form - Help Guide
 ## Purpose
 The Employee Skills Gap Evaluation Form is a tool used by HR departments to evaluate the skills gaps of employees within the organization. It helps identify areas where employees need training or support to perform their jobs effectively.

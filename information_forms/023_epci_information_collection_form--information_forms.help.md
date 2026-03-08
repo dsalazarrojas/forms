@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to collect information related to EPCI (Engineering, Procurement, and Construction, or Installation), which is a process of delivering projects. The purpose of this form is to gather essential details about a specific EPCI project for internal use.
 
 Before filling out this form, please ensure that you have relevant information about the project and that you are not duplicating any existing records.

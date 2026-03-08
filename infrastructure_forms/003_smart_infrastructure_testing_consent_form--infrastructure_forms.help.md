@@ -1,7 +1,3 @@
-<thinking>...the form "smart_infrastructure_testing_consent_form" is designed for testing purposes, used by various stakeholders in infrastructure testing, including testing participants, contractors, and project managers. This form helps gather information and obtain consent from these individuals before commencing testing activities. It is essential to complete this form accurately to ensure a smooth testing process. Please note that this form is not meant to be a substitute for actual agreements or contracts. Ensure you have read and understood the purpose and implications of this form before proceeding.
-
-</thinking>
-
 # smart_infrastructure_testing_consent_form - Help Guide
 ## Purpose
 This form collects information and obtains consent from testing participants and other relevant parties involved in infrastructure testing.

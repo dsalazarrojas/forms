@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for HR personnel to document and acknowledge employee discipline policies in an organization. The purpose of this form is to ensure that employees are aware of and understand the company's policies and procedures related to employee conduct and behavior. This form serves as a formal acknowledgment that employees have received and understood the policy, which is essential for maintaining a positive and respectful work environment.
-
-Before proceeding, please ensure that you are familiar with the company's employee discipline policy and have not completed this form previously. If you have any doubts or concerns, please consult with your HR representative or manager.
-
-The following guide will walk you through each field of the form and provide you with a clear understanding of what is required and expected from you.
-
-</thinking>
-
 # Employee Discipline Policy Acknowledgment - Help Guide
 ## Purpose
 This form is designed for HR personnel to document and acknowledge employee discipline policies in the organization. The primary goal is to ensure that employees are aware of and understand the company's policies and procedures related to employee conduct and behavior.

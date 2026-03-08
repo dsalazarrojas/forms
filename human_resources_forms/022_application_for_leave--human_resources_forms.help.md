@@ -1,5 +1,3 @@
-<thinking>...checking the provided YAML fields for relevance and non-duplication...it seems like the form is for employees to request leave from work, and it's likely used by HR departments to manage leave applications. The form is fairly straightforward, with fields for employee information, leave details, and managerial approval. I've reviewed the fields and won't be duplicating any information in the help guide... </thinking>
-
 # Application For Leave - Help Guide
 ## Purpose
 This form is used to submit a leave application to your manager for approval.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Industrial Workflow Architect Contact Form - Help Guide
 ## Purpose
 The Industrial Workflow Architect Contact Form is designed for users to provide contact information and a brief description of their inquiry or request. This form is intended for general inquiries or feedback related to industrial workflow architecture. Please note that you can use this form to get in touch with us, but if you have a specific issue or concern that requires immediate attention, please contact us directly at your organization's main phone number or email address.

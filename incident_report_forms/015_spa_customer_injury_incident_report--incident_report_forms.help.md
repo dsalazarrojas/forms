@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to report incidents involving customers, particularly those resulting in customer injuries. This form helps gather relevant information about the incident, including the date it occurred, details about the customer, a description of the incident, the type of incident, and any follow-up actions taken or planned. It also includes space for customer and staff signatures as a record of acknowledgement or approval. This form should only be completed for incidents that are not duplicates or have not already been reported.
-</thinking>
-
 # spa_customer_injury_incident_report - Help Guide
 ## Purpose
 This form is used to report incidents involving customers that result in injuries.

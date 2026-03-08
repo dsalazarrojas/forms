@@ -1,12 +1,3 @@
-<thinking>
-NDIA stands for (Name, Date, Income, Address)... but it's not clear from the provided YAML if this form is actually related to the National Disability Assistance Act. Without more context, I'll assume it's a general purpose form. 
-The form appears to be a consent form for a client, possibly for some kind of agreement or partnership. It contains a mix of client and witness information. 
-
-Please note that some fields have unclear or missing labels. I'll assume that "Client DOB" is a Date of Birth field and "NDIA Reference Number" could be a unique identifier or reference number. The form seems to be mostly text-based with some date fields and a select one field.
-
-The form requires user input for the client and witness information and seems to be optional. However, without more context, I cannot confirm the required fields or the purpose of the form.
-</thinking>
-
 # NDIA Information Consent Form - Help Guide
 ## Purpose
 This form is used to capture information related to a client and one or two witness(es). It appears to be used for a consensual agreement or partnership.

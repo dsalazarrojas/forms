@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about employee compensation needs and satisfaction. The primary purpose of this survey is to gather feedback from employees on their current salary range, target salary for the next fiscal year, and their perceptions of their compensation package. The form will also ask about their understanding of their pay and bonus structure, their satisfaction with pay frequency, and how inflation has impacted their satisfaction with their current pay. This information will help HR teams better understand employee needs and make informed decisions about compensation adjustments.
-</thinking>
-
 # Compensation Survey - Help Guide
 ## Purpose
 This form is designed to gather information about employee compensation needs and satisfaction. The feedback will help HR teams make informed decisions about compensation adjustments.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect general information from users, including background data, contact details, email, phone number, select one and multiple options, date, time, note, decimal, integer, text, textarea, checkbox, radio button, select one-text, date range, date and time, month, week, year, select multiple-text, and submit button. The form is likely used in various contexts, such as surveys, registration forms, or feedback forms. It's essential to ensure that the information collected is accurate and complete to prevent duplication and improve the form's relevance.
-</thinking>
-
 # General Information Collection Form - Help Guide
 ## Purpose
 The General Information Collection Form is a versatile form designed to gather various types of information from users. It includes fields for general information, background data, contact details, and specific data such as dates, times, numbers, and text inputs.

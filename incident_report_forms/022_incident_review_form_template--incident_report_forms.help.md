@@ -1,5 +1,3 @@
-<thinking>Incident Review Form Template is used to document and review incidents that occur in the workplace. This form ensures that relevant information is collected and stored in a centralized location for easy access and reference. To avoid duplication, ensure that each incident is reviewed only once using this template.</thinking>
-
 # incident_review_form_template - Help Guide
 ## Purpose
 The Incident Review Form Template is a standardized form used to document and review incidents that occur in the workplace. It helps ensure that relevant information is collected and stored in a centralized location for easy access and reference.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to record short-term disability leave information, which is essential for tracking employee absences due to health reasons. To ensure this form is used correctly, please make sure you have the necessary permissions to access the HR system and that you are submitting the form for the correct time period. Also, please note that if you're submitting a leave request that overlaps with another leave request, this form will automatically be marked as a duplicate. If you're unsure about any of these requirements, please contact your HR representative before proceeding.
-</thinking>
-
 # Short Term Disability Leave Form - Help Guide
 ## Purpose
 The Short Term Disability Leave Form is used to record employee absences due to health reasons, allowing for tracking and management of such absences within the HR system.

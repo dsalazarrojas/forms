@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information about an employee's role, job function, and succession planning needs. It is intended for human resources purposes and should only be completed by employees within an organization. Please ensure that you have the necessary permissions and clearance to access this form. If you are unsure, please contact your HR department for more information.
-
-To avoid duplication, please note that you can only complete this form once for each employee. If you need to update your information, please contact your HR department for assistance.
-
-The form is organized into several sections, each with its own set of fields. The sections and fields are designed to provide a clear and concise way of collecting information. 
-
-The form is not affiliated with or endorsed by any form platform, and it is an original adaptation created using AI.
-</thinking>
-
 # Succession Planning Needs Assessment Form - Help Guide
 ## Purpose
 The Succession Planning Needs Assessment Form is a tool used by human resources departments to identify and assess the succession needs of an employee. This form is used to gather information about an employee's job role, job function, and succession planning needs.

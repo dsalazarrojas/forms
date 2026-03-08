@@ -1,9 +1,3 @@
-<thinking>
-This form is used to register participants for the Smart Metering Initiative, a program that aims to collect data on smart metering practices in a specific industry. This registration form is designed to collect participant details, participant consent, participant preferences, and contact preferences. Before filling out this form, make sure you are eligible to participate in the initiative.
-
-To avoid duplication, check the participant list on our website to see if your name is already listed. If you're not sure, you can contact us to confirm.
-</thinking>
-
 # Smart Metering Initiative Registration - Help Guide
 ## Purpose
 This form is designed to collect information from participants in the Smart Metering Initiative. Please note that this form is for informational purposes only and does not imply any form of affiliation or commitment to the initiative.

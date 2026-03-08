@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Certification Renewal Assistance Request - Help Guide
 
 ## Purpose

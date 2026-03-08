@@ -1,16 +1,3 @@
-<thinking>
-This form is intended for collecting information related to lift truck work orders, providing a way to gather details about a specific work order in a structured format. This form is likely part of a larger workflow or process that involves tracking, managing, or reporting on work orders. 
-
-When designing a form that tracks work orders, especially one focused on lift trucks, it's essential to consider the following: 
-- What kind of information will be collected? (e.g., customer name, work order date, status)
-- How will this information be used? (e.g., for tracking, reporting, or follow-up)
-- Does this form duplicate or complement existing processes or forms?
-- Is the form part of a larger system or workflow that involves multiple forms or steps?
-- How will the data from this form be stored, managed, and accessed by the users or system?
-
-Considering these points, the form appears to be designed for general information collection and might not be part of a highly complex or automated workflow. It seems to cover basic information that is typically needed for tracking and follow-up on work orders, such as customer details and status updates. However, without further context, it's hard to determine if it's part of a larger process or if it's meant to be used independently.
-</thinking>
-
 # lift_truck_work_order_information_form - Help Guide
 ## Purpose
 This form is designed to collect and display information about lift truck work orders. The goal is to provide a standardized way to record and manage lift truck-related work orders, ensuring that all necessary details are captured and accessible for future reference.

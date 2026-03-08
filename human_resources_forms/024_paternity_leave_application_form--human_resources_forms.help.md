@@ -1,11 +1,3 @@
-<thinking>Internal reasoning: This form is used to collect information regarding employee's paternity leave requests. It is expected that only one employee submits a single form per occurrence of paternity leave. Ensure that you are completing the form for your own leave request or that the employee you are assisting has access to this form.
-
-Before proceeding, please ensure that the form is relevant to your current situation. If you are unsure, please reach out to your HR department for guidance.
-
-This form will guide you through the steps to complete a paternity leave application for an employee, and explain each field in detail.
-
-</thinking>
-
 # Paternity Leave Application Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about an employee's paternity leave request. Please follow the instructions below to complete the form correctly.

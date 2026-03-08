@@ -1,5 +1,3 @@
-<thinking>Workforce effectiveness research is a process used to identify the areas in which an organization's workforce can be improved to increase productivity and efficiency. This form is designed to capture relevant information about a research project, including personal details, job title, and research objectives. The information collected will be used to guide the research process and ensure that it aligns with the organization's goals and objectives. When filling out this form, please ensure that you are providing accurate and relevant information. If you have previously submitted a similar form, you may not need to submit another. In this case, please do not duplicate previous information.</thinking>
-
 # Workforce Effectiveness Research Application Form - Help Guide
 ## Purpose
 The Workforce Effectiveness Research Application Form is a tool used to capture information about a research project to help identify areas in which an organization's workforce can be improved to increase productivity and efficiency.

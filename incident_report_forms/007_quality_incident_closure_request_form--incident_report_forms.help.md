@@ -1,7 +1,3 @@
-<thinking>
-To begin with, the "Quality Incident Closure Request Form" is designed to document and track the closure of incidents reported to the quality team. This form will help the quality team to efficiently manage and close incidents, ensuring that issues are resolved and lessons are learned. Please use this form to report incidents that are already closed or on-going, as it is not intended for new incident reporting. Please do not report new incidents using this form, instead, use the new incident report form. This guide will walk you through the fields of the form and help you fill it out correctly.
-</thinking>
-
 # Quality Incident Closure Request Form - Help Guide
 
 ## Purpose

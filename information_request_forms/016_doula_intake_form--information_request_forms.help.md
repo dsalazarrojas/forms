@@ -1,10 +1,3 @@
-<thinking>
-This guide is intended to help end-users understand the purpose and usage of the Doula Intake Form. The form is designed to collect information from expectant mothers who are seeking doula services. The form is divided into several sections that cover various aspects of the mother's medical history, pregnancy information, and other relevant details. The goal of this guide is to ensure that users understand the purpose of each field and complete the form accurately and efficiently.
-
-To use this guide, please read it carefully and refer to it as needed while filling out the form.
-
-</thinking>
-
 # Doula Intake Form - Help Guide
 
 ## Purpose

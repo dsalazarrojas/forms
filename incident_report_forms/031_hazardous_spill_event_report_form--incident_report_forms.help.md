@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Hazardous Spill Event Report Form, I'll analyze the provided YAML fields and provide a clear, concise, and practical explanation of the form's purpose, how to complete it, and each field's meaning.
-
-The form's purpose is to document and report incidents involving hazardous materials. This guide will help users understand what information is required and how to fill out the form accurately.
-
-</thinking>
-
 # Hazardous Spill Event Report Form - Help Guide
 ## Purpose
 The Hazardous Spill Event Report Form is used to report incidents involving hazardous materials that have occurred on-site. This form is a critical tool for documenting and tracking incidents to ensure the safety and well-being of employees, visitors, and the environment.

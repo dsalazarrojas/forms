@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning behind this form is to gather relevant data for consultancy research analysts, which includes candidate information, research skills, and technical skills. This form is designed to be a straightforward and structured approach to collecting data for future reference and evaluation purposes. By filling out this form, users can accurately assess a candidate's research capabilities and provide a recommendation for hiring or further evaluation.
-</thinking>
-
 # Consultancy Research Analyst Interview Form - Help Guide
 ## Purpose
 This form is designed to gather information about a candidate's research skills, experience, and overall fit for the role of a consultancy research analyst. It is intended for use by interviewers to evaluate a candidate's suitability for the position and provide a recommendation for hiring or further evaluation.

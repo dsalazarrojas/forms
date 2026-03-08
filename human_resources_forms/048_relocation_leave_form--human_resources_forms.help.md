@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Relocation Leave Form - Help Guide
 ## Purpose
 The Relocation Leave Form is used to process employee relocations, such as when an employee is moving to a new location or returning to their previous location. This form ensures that all relevant details are captured and approved by relevant departments before the employee's relocation is finalized.

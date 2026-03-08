@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to collect information for the purposes of the Texas Addiction and Recovery Fund (TANF). It appears to be a critical form that requires accurate and relevant data. To ensure the form is filled out correctly, please double-check that each field is filled out accurately and only select the options that apply to your situation. If you are unsure about any field, please reach out to the relevant personnel for clarification. 
-</thinking>
-
 # TANF Information Disclosure Form - Help Guide
 ## Purpose
 This form is used to collect information for the purposes of the Texas Addiction and Recovery Fund (TANF). It is a critical form that requires accurate and relevant data to be filled out correctly.

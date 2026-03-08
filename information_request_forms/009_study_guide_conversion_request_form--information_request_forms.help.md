@@ -1,14 +1,3 @@
-<thinking> 
-This help guide is intended for end-users who are filling out the "Study Guide Conversion Request Form". The purpose of this form is to collect information from the submitter to facilitate the conversion of a study guide from one format to another. This form captures the submitter's details, the study guide information, and the requested format for the conversion. It also captures the review requester's information, in case they need to be contacted for further clarification or to provide additional information. This form should only be completed once per study guide conversion request, as multiple submissions may lead to duplicate requests and unnecessary processing time.
-
-Please note that the required fields are marked as such and are essential for the form to be processed. If a field is marked as optional, it is not mandatory but may be useful for additional context or details to be provided to the review requester or converter. If you are unsure about any field, it is best to fill it out with the information provided or leave it blank if not applicable.
-
-The review requester's information is not always required, but if they are to be contacted for further clarification or to provide additional information, it is recommended to fill in their details. The submitter's information is also not always required, but it is recommended to be filled in to provide context to the reviewer or converter.
-
-Before starting, please ensure you have all the necessary information and details ready. If you need help or clarification, please do not hesitate to reach out to the support team for assistance.
-
-</thinking>
-
 # Study Guide Conversion Request Form - Help Guide
 ## Purpose
 The Study Guide Conversion Request Form is designed to capture information from the submitter to facilitate the conversion of a study guide from one format to another. This includes capturing the submitter's details, the study guide information, and the requested format for the conversion.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide will cover the Waiver Brow Lamination Tint form. The form is intended to be used by professionals in the beauty industry, such as aestheticians or hairdressers, to obtain informed consent from clients for brow lamination and tint services. This form will help ensure clients understand the risks and liabilities associated with these procedures.
-</thinking>
-
 # Waiver_brow_lamination_tint - Help Guide
 ## Purpose
 The Waiver Brow Lamination Tint form is a document used by professionals in the beauty industry to obtain informed consent from clients for brow lamination and tint services.

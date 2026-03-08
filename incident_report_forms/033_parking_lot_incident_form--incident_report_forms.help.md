@@ -1,11 +1,3 @@
-<thinking>Here's a brief internal reasoning block that explains the purpose and checks for relevance and non-duplication:
-
-The purpose of the parking_lot_incident_form is to document and record incidents that occur within a parking lot, including incidents involving vehicles. The form aims to gather essential details such as the date of the incident, location, and description, as well as the type of vehicle involved, if applicable. The form also captures incident status and closure information, including the reason for closure, the user who closed the incident, and any relevant comments. This form serves to streamline incident reporting, ensure accuracy, and provide a clear understanding of what happened during an incident.
-
-After reviewing the YAML schema, it appears that this form is designed to gather comprehensive information about parking lot incidents. There is no duplication of fields, and the form covers various aspects of incident reporting, including the incident's status, closure, and closure comments.
-
-</thinking>
-
 # parking_lot_incident_form - Help Guide
 ## Purpose
 The parking_lot_incident_form is designed to document and record incidents that occur within a parking lot, including incidents involving vehicles. Its primary function is to collect essential details such as the date of the incident, location, and description, as well as the type of vehicle involved, if applicable.

@@ -1,5 +1,3 @@
-<thinking>As a user-facing help guide, this form is intended to collect various types of information from users, including contact details, demographic information, and other data points. The purpose of this form is to gather relevant and accurate data that can be used for analysis, reporting, or other business purposes. The form includes a mix of required and optional fields, with some fields having specific formatting or validation rules to ensure data quality. Before completing the form, please review the instructions carefully to ensure you provide accurate and complete information.</thinking>
-
 # data_collection_form - Help Guide
 
 ## Purpose

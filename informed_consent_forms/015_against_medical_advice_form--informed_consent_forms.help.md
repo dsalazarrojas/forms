@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Against Medical Advice Form - Help Guide
 ## Purpose
 The Against Medical Advice Form is a crucial document used in medical settings to record a patient's decision to refuse or leave medical treatment against the advice of a healthcare professional. This form ensures that the patient has been informed of the risks and alternatives to refusing treatment, and that they understand the potential consequences of their decision.

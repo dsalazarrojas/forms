@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a traffic violation incident. It is intended for use by authorized personnel to record incidents involving vehicles on the road. To ensure that only relevant and non-duplicative incidents are reported, please review the form carefully before submitting. This form should not be used for non-traffic related incidents or duplicate reports.
-
-</thinking>
-
 # traffic_violation_incident_form - Help Guide
 ## Purpose
 This form is used to collect information about traffic violation incidents, such as accidents or citations, involving vehicles on the road.

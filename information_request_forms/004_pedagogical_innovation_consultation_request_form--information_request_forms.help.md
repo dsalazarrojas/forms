@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pedagogical Innovation Consultation Request Form - Help Guide
 ## Purpose
 This form is used to gather information from users who are interested in discussing pedagogical innovation with our team. Please fill out this form to request a consultation on a specific pedagogical innovation topic or to ask for guidance on how to implement a particular pedagogical approach in your educational setting.

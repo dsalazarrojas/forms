@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect GPS location data, which is essential for various purposes such as mapping, tracking, and visualization. The form is intended to gather specific information about a location, including its latitude, longitude, altitude, and accuracy. The location source, description, and time zone are also collected to provide further context. Additionally, the form captures information about the creator and updater of the location data, as well as any users assigned to the location. This form serves as a comprehensive data collection tool for location-related information.
-</thinking>
-
 # gps_location_data_form - Help Guide
 ## Purpose
 The gps_location_data_form is designed to collect GPS location data for various applications such as mapping, tracking, and visualization.

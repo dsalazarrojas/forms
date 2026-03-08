@@ -1,7 +1,3 @@
-<thinking>
-The Machine Retrofit Program Contact Form is a crucial tool for users to get in touch with the program's team. This form helps the team understand the user's specific needs and requirements, allowing them to provide tailored assistance and guidance on machine retrofitting.
-</thinking>
-
 # Machine Retrofit Program Contact Form - Help Guide
 ## Purpose
 This form is designed to collect relevant information from users who are interested in the Machine Retrofit Program. By filling out this form, you'll be able to get in touch with our team and receive guidance and support on your machine retrofitting needs.

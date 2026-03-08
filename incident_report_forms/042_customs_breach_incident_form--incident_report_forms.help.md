@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users complete the "customs_breach_incident_form" form accurately and efficiently. Before proceeding, it is essential to ensure that this form is relevant and not duplicating any other reporting or documentation processes within the organization. This form is designed to gather specific information about incidents related to customs breaches, and filling it out correctly will help maintain accurate records and ensure that necessary actions are taken accordingly.
-</thinking>
-
 # customs_breach_incident_form - Help Guide
 ## Purpose
 This form is used to document and report incidents related to customs breaches. It helps to gather accurate information about the incident, including its date, type, location, and status, and provides a platform for reporting and tracking progress.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for Viva Toyota employees to declare their health status and report on any symptoms or potential exposure to the coronavirus. To complete this form, you will need to provide information about your current health status, any potential symptoms, and your work status. Please note that this is an internal form for company use only, and your information will only be used for employee management and safety purposes.
-</thinking>
-
 # Coronavirus Self Declaration Form VIVA TOYOTA - Help Guide
 ## Purpose
 This form is a confidential and internal document for Viva Toyota employees to declare their health status and report on any symptoms or potential exposure to the coronavirus. It helps the company to track and manage the health and safety of employees during the pandemic.

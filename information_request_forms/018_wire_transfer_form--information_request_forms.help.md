@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information for wire transfer requests. It seems like this form is for wire transfer requests, and it might be used by financial institutions or banks. I'll make sure to be concrete and concise in explaining this form's purpose.
-</thinking>
-
 # wire transfer form - Help Guide
 ## Purpose
 This form is used to collect information for wire transfer requests. It is likely used by financial institutions or banks to facilitate wire transfers. Please provide the required information to help process your transfer efficiently.

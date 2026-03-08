@@ -1,13 +1,3 @@
-<thinking>
-
-The "multi_agent_information_collection_form" is designed to collect various types of information from multiple agents or parties involved in a project or collaboration. This form aims to gather data on agent, contact, project, partnership, staffing, and other relevant information. 
-
-The main purpose of this form is to streamline the information collection process, making it easier for project managers and collaborators to access and analyze the data. By filling out this form, agents can provide accurate and up-to-date information, reducing errors and misunderstandings.
-
-However, it's essential to note that this form is not meant to collect sensitive or personal data, and any information collected is for internal use only. Before proceeding, please ensure that you have the necessary permissions and approvals to collect and process the data.
-
-</thinking>
-
 # multi_agent_information_collection_form - Help Guide
 ## Purpose
 The "multi_agent_information_collection_form" is designed to collect information from multiple agents or parties involved in a project or collaboration. This form aims to provide a centralized platform for collecting and organizing data on agents, contacts, projects, partnerships, staffing, and other relevant information.

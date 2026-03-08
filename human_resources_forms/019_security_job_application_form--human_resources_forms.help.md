@@ -1,6 +1,3 @@
-<thinking>
-The Security Job Application Form is intended to gather relevant information from applicants for security-related job positions within the organization. This form should only be used when the hiring process is open and no other application processes are ongoing for the same job position. Please do not submit duplicate applications. If you are unsure about submitting an application, contact your HR representative for clarification.</thinking>
-
 # Security Job Application Form - Help Guide
 ## Purpose
 This form is used to collect information from applicants for security-related job positions. It is essential to provide accurate and complete information to increase your chances of being considered for the position.

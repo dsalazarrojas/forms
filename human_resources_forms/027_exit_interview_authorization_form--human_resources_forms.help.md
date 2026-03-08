@@ -1,5 +1,3 @@
-<thinking>... this form is intended to capture employee information and authorization details when an employee is leaving the company. It's used to document the employee's departure and gather essential details for future reference. Ensure you're not using this form to circumvent official procedures or protocols. Also, please be aware that this form does not cover every possible scenario, so consult with the HR department if you need to address specific situations or concerns. Ensure you complete this form accurately and with the necessary approvals...</thinking>
-
 # exit_interview_authorization_form - Help Guide
 ## Purpose
 This form is used to document an employee's exit from the company, ensuring a smooth transition of information and resources. It captures essential details about the employee's departure, including their personal details, authorization, and reasons for leaving.

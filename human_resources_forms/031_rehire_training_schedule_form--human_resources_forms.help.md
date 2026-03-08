@@ -1,7 +1,3 @@
-<thinking>
-This form is used to create and schedule a rehire training for an employee. The purpose of this form is to collect information about the training schedule, including the date, time, type, and other relevant details. Before filling out this form, it's essential to ensure that there are no duplicate training sessions scheduled for the same employee and date. Please check the internal database for any existing records before proceeding.
-</thinking>
-
 # rehire_training_schedule_form - Help Guide
 ## Purpose
 This form is used to create and schedule a rehire training for an employee. It allows users to collect and store information about the training, including the schedule date, time, type, and other relevant details.

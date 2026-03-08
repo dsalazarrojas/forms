@@ -1,15 +1,3 @@
-<thinking>
-
-This form is intended for employees to request a breakdown of their energy bills for the current billing cycle. The purpose of the form is to gather specific details about the employee's account and billing questions to facilitate the breakdown process. This form is designed to be filled out by employees and then reviewed by the energy billing team to provide accurate and detailed breakdowns. To prevent duplication of effort, this form should only be filled out for the current billing cycle.
-
-The form is divided into multiple sections and asks for the following information:
-- Account details (including select one and select multiple fields)
-- Billing questions (multiple text fields)
-
-When filling out the form, please ensure that you enter the relevant information and questions accurately. The select one and select multiple fields allow you to choose multiple options, while the text fields are for providing detailed information. Make sure to submit the form once you have filled out all required and optional fields.
-
-</thinking>
-
 # Energy Billing Breakdown Request Form - Help Guide
 ## Purpose
 The Energy Billing Breakdown Request Form is used to collect information from employees to facilitate the breakdown process of their energy bills for the current billing cycle.

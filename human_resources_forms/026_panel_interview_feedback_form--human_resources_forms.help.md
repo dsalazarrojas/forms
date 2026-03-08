@@ -1,11 +1,3 @@
-<thinking>
-The Panel Interview Feedback Form is used to collect feedback from panelists and candidates after an interview. This feedback will help the interview committee to evaluate and improve their interviewing process. Please note that this form is a crucial tool for providing constructive feedback and helping the candidates and panelists grow.
-
-The form is divided into several fields to gather comprehensive feedback. Please ensure that you have read this guide carefully before submitting your feedback. Duplicate submissions will not be accepted. 
-
-This form is designed for panelists and candidates to provide feedback on their overall experience. The form is not intended for submitting final scores or grades.
-</thinking>
-
 # Panel Interview Feedback Form - Help Guide
 ## Purpose
 The Panel Interview Feedback Form is used to collect feedback from panelists and candidates after an interview. This feedback will help the interview committee to evaluate and improve their interviewing process.

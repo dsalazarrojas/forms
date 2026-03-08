@@ -1,8 +1,4 @@
-# <thinking>
-This form is designed to collect information about an employee's preferences for Christmas gifts. The purpose of this form is to ensure that gifts are tailored to each individual's tastes and limitations. This is especially important for employees with specific needs or requirements. By filling out this form, employees can communicate their gift preferences to their team members or the person buying the gifts.
-</thinking>
-
-# Christmas Gift List Form - Help Guide
+# # Christmas Gift List Form - Help Guide
 
 ## Purpose
 The Christmas Gift List Form is used to collect information about an employee's preferences for Christmas gifts, including their interests, budget, and any specific items they would like or avoid. This information will be used to select a suitable gift for each employee.

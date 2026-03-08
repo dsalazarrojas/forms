@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "Résumé 'Tune Up' Questionnaire" form is to collect information about the employee's job title, job description, company name, job type, education level, work experience, job status, years of experience, expected employment type, contact email, contact phone, contact address, and work hours. This form is likely used for HR purposes to update or maintain employee records.
-</thinking>
-
 # Résumé 'Tune Up' Questionnaire - Help Guide
 ## Purpose
 The "Résumé 'Tune Up' Questionnaire" form is designed to gather relevant information about an employee's work profile. By filling out this form, you will be able to update or maintain your employee records accurately.

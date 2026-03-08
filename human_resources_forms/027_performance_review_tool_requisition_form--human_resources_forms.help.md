@@ -1,15 +1,3 @@
-<thinking>
-
-This form, "performance-review-tool-requisition-form", is designed to capture information related to the requisitioning process for a performance review. It is used to gather data from employees, their managers, and reviewers in order to facilitate the performance review process. This form is typically used when an employee wants to initiate a performance review, which is a formal evaluation of an employee's performance over a specific period of time. This form helps to ensure that all necessary information is collected and documented accurately and efficiently.
-
-Before filling out this form, please ensure that:
-
-* You have the necessary permissions to initiate a performance review.
-* You are not duplicating an existing performance review.
-* You have the required information and attachments ready to be submitted.
-
-</thinking>
-
 # performance-review-tool-requisition-form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from real estate sellers, including their personal details, property details, and agency information. This form should only be used for sellers who are not already familiar with the system, and it's essential to ensure that the information provided is accurate and up-to-date. Before completing this form, please review the required fields carefully and ensure that you have all the necessary information available.
-</thinking>
-
 # Real Estate Seller Information - Help Guide
 ## Purpose
 This form is used to collect information from real estate sellers, including their contact details, property details, and agency information.

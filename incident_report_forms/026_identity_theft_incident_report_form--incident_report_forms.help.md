@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To determine the purpose of this form, I'll examine the fields and their labels. The form appears to be designed to collect information about an identity theft incident, including the incident date, location, and description, as well as details about the victim and suspect.
 
 Upon analyzing the fields, I notice that the majority of them are text fields, which suggests that the form is intended to collect free-form responses from the user. The presence of date fields and select-one fields (report type) indicates that the form may be used to track and categorize incidents. The fields related to the suspect and victim, such as their names, addresses, and contact information, suggest that the form is also used to collect information for potential law enforcement or investigation purposes.

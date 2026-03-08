@@ -1,10 +1,3 @@
-<thinking> 
-We will use this form to collect information from employees for employment verification purposes. This form is used to verify the accuracy of an employee's employment history, including their job title, dates of employment, and any other employment-related information. To prevent duplication, employees will not be able to submit this form multiple times, and the form will only be visible to authorized personnel. 
-
-This form must be filled out by employees who have been asked by HR or management to verify their employment records. Please note that this form is not for general employment purposes, such as onboarding or performance reviews.
-
-When filling out this form, please enter accurate and detailed information about your employment history. Ensure that you include any employment gaps or breaks in the "Reason for Leave of Absence" field.</thinking>
-
 # Employment Verification Records Release Form - Help Guide
 ## Purpose
 This form is used to verify the accuracy of an employee's employment history. It should only be filled out by employees who have been asked to do so by HR or management.

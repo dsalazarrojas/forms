@@ -1,18 +1,3 @@
-<thinking>
-The form "which_elements_are_you_quiz" is designed to help users identify their affinity or connection to various elements from fantasy worlds. This form is likely created for a community or game that has a strong fantasy setting, such as a role-playing game or a fantasy-themed social media platform.
-
-The form is structured to ask users to select which elements from a specific set they feel a connection to. This is done by presenting users with a series of binary questions, where they can choose between the given options or select "Other" if they don't identify with any of the provided choices.
-
-The goal of the form is to gather information about the users' elemental affinities, which can be used for various purposes such as:
-
-* User profiling or character creation in a game
-* Community engagement and interaction based on shared interests
-* Market research for fantasy-themed products or services
-
-It's essential to ensure that users complete the form accurately and consistently. Therefore, this guide aims to walk users through the form step-by-step, ensuring they understand the purpose and the process.
-
-</thinking>
-
 # which_elements_are_you_quiz - Help Guide
 ## Purpose
 The "which_elements_are_you_quiz" form is designed to help you identify your connection to various fantasy elements. Please take a few minutes to complete this form to share your affinity with others in the community.

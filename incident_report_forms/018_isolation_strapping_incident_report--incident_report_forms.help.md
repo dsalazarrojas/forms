@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about incidents that require strapping, which is a process to temporarily suspend or stop an incident from being escalated or investigated further. The form is intended to capture details about the incident, including the date and time it occurred, the location, the reporter's information, and the status of the incident. The fields are divided into categories to make it easier for users to provide the necessary information. This form is used to ensure that incidents are properly documented and managed within an organization.
-
-This form is not affiliated with any specific platform or company, and it is a generated form using only publicly available metadata. It is designed to be flexible and adaptable for different use cases.
-</thinking>
 # isolation_strapping_incident_report - Help Guide
 ## Purpose
 The Isolation Strapping Incident Report form is designed to collect information about incidents that require strapping, which is the process of temporarily halting or suspending an incident from being investigated or escalated further.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from users for nutrition consultations. The purpose of this form is to gather relevant details about the user, such as their contact information, preferred contact method, and medical history. This information will be used to provide personalized nutrition consultation services to the user.
-
-To prevent duplicate submissions, the system will check for existing user information before processing new submissions.
-
-</thinking>
-
 # nutrition_consultation_registration - Help Guide
 ## Purpose
 The purpose of this form is to collect information from users for nutrition consultations.

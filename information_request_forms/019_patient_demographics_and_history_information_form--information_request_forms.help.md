@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Patient Demographics And History Information Form - Help Guide
 ## Purpose
 This form is used to collect patient demographics and medical history information for new patient registrations. Please fill out this form to provide us with essential information about the patient. If you have already registered a patient with similar information, please do not fill out this form.

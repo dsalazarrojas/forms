@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for a buyer and a realtor to interact with each other to facilitate the purchase of real estate. The form is typically used in a real estate transaction to capture the buyer's information and the realtor's information. It is crucial to ensure that both parties are on the same page and have a clear understanding of the agreement. To avoid any miscommunication or confusion, please review each field carefully and ensure you are providing accurate information.
-
-</thinking>
-
 # Offer To Purchase Real Estate Form - Help Guide
 ## Purpose
 This form is intended for a buyer and a realtor to collaborate on the purchase of real estate. It captures essential information to facilitate a clear understanding of the agreement between the parties involved.

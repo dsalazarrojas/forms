@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about participants in a workplace investigation training program. This form will help trainers understand who participated in the training, their contact information, and specific details about their involvement in the training. The purpose of this form is to gather essential data to evaluate the effectiveness of the training program and identify areas for improvement.
-</thinking>
-
 # Workplace Investigation Training Form - Help Guide
 ## Purpose
 

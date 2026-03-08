@@ -1,11 +1,3 @@
-<thinking>
-This is a form used to gather information necessary for patient operations (Pre Op). 
-The primary purpose of the form is to collect and store a patient's medical history. 
-This form is required for all patients. 
-Please ensure that you have not already completed this form for this patient before filling it out. 
-If you are not sure, please check the patient's medical record first.
-</thinking>
-
 # Pre Op Clearance Form - Help Guide
 ## Purpose
 The Pre Op Clearance Form is used to collect and store a patient's medical history, which is essential for their pre-operative clearance.

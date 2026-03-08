@@ -1,13 +1,3 @@
-<thinking>... (internal reasoning)
-
-This form is designed to collect information about a hostile network incident, which is an event that occurs on the network that may compromise its security or cause disruptions to services. The form's primary purpose is to help the incident response team understand the scope, severity, and impact of the incident, and guide their response efforts accordingly. This form is typically completed by the person reporting the incident or their designee. 
-
-The form is divided into multiple sections, each corresponding to a specific part of the incident report. 
-
-The fields are organized in a logical manner to gather relevant information about the incident, making it easier for the incident response team to understand and address the issue efficiently.
-
-</thinking>
-
 # Hostile Network Investigation Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about hostile network incidents and guide the incident response team's efforts to address the issue effectively.

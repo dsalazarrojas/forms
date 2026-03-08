@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to request support for a research publication. It is crucial that users only submit one request per manuscript at a time. Repeated submissions for the same manuscript will be rejected. Please ensure that you have read and understand the submission guidelines before proceeding.
-</thinking>
-
 # Research Publication Support Request Form - Help Guide
 ## Purpose
 The Research Publication Support Request Form is designed to facilitate the submission of research publications for support. This form will be reviewed to ensure that all necessary information is provided, and that the submission is valid and complete.

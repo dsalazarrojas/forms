@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect informed consent from patients for medical procedures. Informed consent is a crucial aspect of medical ethics, ensuring that patients are aware of the risks and benefits of medical treatments and procedures. This form is used to document the patient's understanding of their medical condition, treatment options, and potential risks. It also serves as a legal document to protect both the patient and the medical provider. Before using this form, it's essential to ensure that the patient has not already completed this form, and that the information collected is relevant and accurate.
-</thinking>
-
 # medical_informed_consent_form - Help Guide
 ## Purpose
 The Medical Informed Consent Form is used to document a patient's understanding of their medical condition, treatment options, and potential risks. It is a legally binding document that protects both the patient and the medical provider.

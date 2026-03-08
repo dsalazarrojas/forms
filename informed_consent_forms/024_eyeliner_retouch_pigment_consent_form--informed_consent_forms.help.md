@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information from clients who are seeking retouching services for their eyeliner. The primary purpose of this form is to collect client details, medical information, and consent for the procedure. This form is part of a broader process for practitioners to obtain necessary approvals and consent before performing the service. It is also important to note that this form was generated based on public metadata and does not rely on proprietary content or services of other form platforms.
-
-To ensure that practitioners are able to provide accurate information and that clients understand the implications of their responses, it is crucial to follow this guide.
-
-The following is a step-by-step explanation of the form:
-
-</thinking>
-
 # Eyeliner Retouch Pigment Consent Form - Help Guide
 
 ## Purpose

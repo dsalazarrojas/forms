@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to gather information during the hiring process for new employees. This form can be used by HR professionals to assess a candidate's fit for a role. To use this form, make sure to review the fields carefully to provide accurate and relevant information.
-
-Please note that the form is not intended to be used for other purposes, such as creating a new employee profile or for external communication. This form is only for the hiring process.
-
-It's also worth mentioning that this form is not affiliated with, endorsed by, or derived from any form platform. It's an original adaptation created using public survey topic metadata.
-
-If you're unsure about any field, please refer to this guide for clarification.
-
-</thinking>
-
 # HR Interview Assessment Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from candidates during the hiring process.

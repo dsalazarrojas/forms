@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for users to create a virtual tip jar for service workers, allowing them to collect tips from customers. It's likely that this form will be used in a service-based industry where service workers interact with customers directly. To avoid duplication, ensure that the form isn't used for the same purpose more than once.
-
-</thinking>
-
 # Virtual Tip Jar - Help Guide
 ## Purpose
 

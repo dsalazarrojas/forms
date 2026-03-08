@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a pet, including its name, type, age, weight, health, and owner's contact information. This form is used by veterinarians or animal shelter staff to collect accurate and comprehensive data about pets in their care.
-To prevent duplication and ensure accurate data collection, please check the form's database to see if a similar entry exists before completing this form. If you find an existing entry, you can use the provided link to access and update the existing information.
-</thinking>
-
 # Pet Information Form - Help Guide
 ## Purpose
 The Pet Information Form is used to collect comprehensive data about pets, including their name, type, age, weight, health, and owner's contact information. This data is used to maintain accurate and up-to-date records about pets in shelters or under veterinary care.

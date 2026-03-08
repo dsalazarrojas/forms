@@ -1,12 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for the "Spoiled Food Incident Report" form, we need to first consider the purpose of the form and whether it's relevant to the target audience. This form is likely intended for food handlers, service providers, or other individuals involved in food handling to report incidents of spoiled food.
-
-The form is a collection of fields that gather information about an incident where food has spoiled or gone bad. This could be due to various reasons, such as poor storage conditions, improper handling, or contamination. The purpose of this form is to collect relevant details about the incident, allowing for swift and effective action to be taken to address the issue and prevent future occurrences.
-
-Before proceeding, please ensure that you have not submitted a similar report on the same incident. Duplicate reports are not only a waste of time but also hinder the effectiveness of the reporting process.
-
-</thinking>
-
 # Spoiled Food Incident Report - Help Guide
 ## Purpose
 This form is designed to report incidents of spoiled food. It's essential to accurately collect information about the incident to take swift and effective action and prevent future occurrences.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information for new hires, ensuring accurate and thorough data is captured during onboarding process. It's essential that the form is completed accurately and consistently to maintain employee records and support HR operations. Please ensure that each field is filled out according to the specified requirements, and if any questions are unsure, review the provided explanations below.
-</thinking>
-
 # new_hire_checklist_form_template - Help Guide
 ## Purpose
 This form is used to collect essential information for new hires, including contact details, personal details, employment status, job title, and other relevant job-related information.

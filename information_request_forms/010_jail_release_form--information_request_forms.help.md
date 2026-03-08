@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about an inmate's potential release from jail. This form will be used to track the inmate's details, including their name, facility location, release date, and contact information. This data will help the relevant authorities to manage the inmate's release process efficiently. To ensure accuracy, please note that this form should only be filled out for one inmate at a time. If you are attempting to submit information for multiple inmates, please create separate forms for each individual.
-</thinking>
-
 # Jail Release Form - Help Guide
 ## Purpose
 This form is designed to collect information about an inmate's potential release from jail. It contains fields for the inmate's name, facility location, release date, and contact information, which will help the relevant authorities manage the release process efficiently.

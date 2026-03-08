@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used for obtaining informed consent from individuals participating in research studies, ensuring that they are aware of and agree to the terms and conditions of the research project. It is a crucial step in maintaining the ethical integrity of research and ensuring that participants understand their role and responsibilities.
-
-The form is not required for every participant, but rather, it is a tool for researchers to verify that participants have provided informed consent.
-
-Before proceeding, check that you are not a duplicate entry. If you have already submitted this form, please do not re-submit.
-
-</thinking>
-
 # data_analytics_research_participation_consent_form - Help Guide
 ## Purpose
 This form is used to obtain informed consent from participants in research studies to ensure they are aware of and agree to the terms and conditions of the research project.

@@ -1,10 +1,3 @@
-<thinking>
-We are going to create a help guide for the "performance_evaluation_intake_form" form, which is used for capturing performance evaluations from managers. The form's purpose is to collect feedback on an employee's performance, including their strengths and weaknesses, areas for improvement, and action items. This form is likely used by HR or other management teams to track and analyze employee performance data.
-The form consists of various fields that require information from the employee, such as their first and last name, employee ID, manager's name, and job title. The form also includes fields for capturing feedback, evaluation dates, and areas of improvement. The performance rating field is likely a subjective measure of the employee's performance, while the review notes field is for any additional comments or notes from the manager.
-Before filling out this form, the employee should ensure they have all necessary information and approvals from their manager.
-
-</thinking>
-
 # performance_evaluation_intake_form - Help Guide
 ## Purpose
 The "performance_evaluation_intake_form" is used for capturing performance evaluations from managers. This form is designed to collect feedback on an employee's performance, including strengths and weaknesses, areas for improvement, and action items.

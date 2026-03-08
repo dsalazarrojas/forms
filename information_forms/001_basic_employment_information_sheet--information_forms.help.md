@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Basic Employment Information Sheet - Help Guide
 
 ## Purpose

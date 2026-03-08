@@ -1,5 +1,3 @@
-<thinking>Wage garnishment is a legal process where an employer is required to withhold a portion of an employee's earnings for the benefit of a creditor, typically for unpaid debts or taxes. This form is used to request wage garnishment assistance from the system.</thinking>
-
 # Wage Garnishment Assistance Request Form - Help Guide
 ## Purpose
 This form is used to request wage garnishment assistance from the system. You will need to provide detailed information to complete this form accurately.

@@ -1,10 +1,3 @@
-<thinking>
-... internal reasoning block ...
-This form is designed to gather information from potential pilots for the learning management platform. It is meant to be a starting point for the pilot application process, collecting details about the applicant, their contact preferences, pilot program details, application details, references, and other required information.
-The form's structure and fields are designed to be simple and easy to understand, making it accessible to a wide range of users. Each field is labeled clearly, and the form's language and instructions are concise and practical.
-Before completing the form, please ensure that you have a clear understanding of the purpose and requirements of the form. This guide will walk you through each field and provide additional tips to help you complete the form accurately and efficiently.
-</thinking>
-
 # learning_management_platform_pilot_application_form - Help Guide
 ## Purpose
 This form is a pilot application form designed for the learning management platform. It gathers essential information from potential pilots to assess their suitability and readiness for the platform.

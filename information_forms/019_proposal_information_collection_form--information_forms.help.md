@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Proposal Information Collection Form - Help Guide
 ## Purpose
 This form is used to collect information about a proposal. It helps to gather essential details such as title, category, summary, proposal date, contact name, contact email, and contact phone number, as well as any attachments related to the proposal. The collected information will be used for internal purposes and will not be shared with external parties.

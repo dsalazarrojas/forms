@@ -1,5 +1,3 @@
-<thinking>...This form is intended to collect information from clients and organizations regarding their consultancy service needs. This guide will walk users through the purpose and requirements of this form, as well as provide an explanation for each field. This will help ensure that users provide accurate and relevant information to enable us to provide better service...</thinking>
-
 # Consultancy Service Information Collection Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from clients about their consultancy service needs. It will be used by our team to understand their requirements and deliver tailored solutions.

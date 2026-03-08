@@ -1,12 +1,3 @@
-<thinking>
-The Disciplinary Action Communication Form is used to document and communicate disciplinary actions taken against employees in the organization. This form is typically used to inform employees of actions such as verbal or written warnings, terminations, or other disciplinary measures. To ensure that this form is used correctly and consistently, please review your company's policies and procedures for disciplinary actions before submitting a form.
-
-When using this form, please only include instances where disciplinary actions have been taken. If a warning or other measure was not taken, you should not submit this form. This form is meant to document and facilitate communication for actual instances of disciplinary actions.
-
-The information collected through this form is used to create documentation for internal and external use. The form should be completed by the manager or representative responsible for the disciplinary action.
-
-</thinking>
-
 # Disciplinary Action Communication Form - Help Guide
 ## Purpose
 The Disciplinary Action Communication Form is a document used to inform employees of disciplinary actions taken against them.

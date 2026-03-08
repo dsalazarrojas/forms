@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's make sure this form is intended for the purpose of collecting informed consent from participants in an academic video diary study. If you're unsure about the form's purpose or have already collected consent from participants, please proceed with caution and verify the form's intent before continuing. Additionally, ensure you're not duplicating efforts or forms for the same study.</thinking>
-
 # Academic Study Video Diary Consent Form - Help Guide
 ## Purpose
 This form is designed to collect informed consent from participants in an academic video diary study. The form is used to gather essential information about each participant, including their name, contact details, institutional affiliation, study title, principal investigator, and other relevant study information. By providing their consent, participants agree to participate in the video diary study, allowing researchers to collect video data for academic research purposes.

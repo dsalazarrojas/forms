@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to track the progress of patients undergoing speech and language pathology treatment. The purpose of this form is to provide a comprehensive overview of a patient's development, goals, and treatment plan. This form can be used by speech therapists to document patient progress, identify areas of improvement, and inform treatment decisions. It is essential to complete this form accurately and thoroughly to ensure that the patient's needs are being met and that treatment is tailored to their specific requirements.
-
-To avoid duplication, please ensure that each section is filled out completely and correctly. If you are unsure about any information, consult with the patient or your supervisor.
-
-Please note that this form is a template and may need to be adjusted based on your specific clinical needs and settings.
-</thinking>
-
 # Speech/Language Pathology Progress Note - Help Guide
 ## Purpose
 This form is used to track the progress of patients undergoing speech and language pathology treatment. It provides a comprehensive overview of a patient's development, goals, and treatment plan.

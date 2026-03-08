@@ -1,11 +1,3 @@
-<thinking>
-This form is used to record and track daily tasks, time spent, and tickets submitted by users. 
-The form is meant to be completed by employees or users to provide information about their daily activities and tasks. 
-It is likely used for reporting and tracking purposes within the organization. 
-This guide will walk you through each section of the form to help you understand what each field is for and how to complete it accurately.
-
-</thinking>
-
 # Daily Task, Time And Ticket Form - Help Guide
 ## Purpose
 The Daily Task, Time And Ticket Form is used to record and track daily tasks, time spent, and tickets submitted by users.

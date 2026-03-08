@@ -1,16 +1,3 @@
-<thinking>
-This help guide is intended for users who are completing the "entry-level-accountant-interview-form" form. As an entry-level accountant, this form captures relevant information to assess a candidate's qualifications and fit for potential employment. 
-
-The form is designed to be flexible, allowing for the collection of various details about the candidate's work experience, skills, and availability. 
-
-Please note that some fields are not required, as indicated by the "required" field in the form's metadata. This form is not meant to be exhaustive, and users can fill in as much or as little information as they deem necessary. 
-
-Before filling out the form, please ensure that you have the candidate's permission to access and share their personal data. 
-
-Also, please be aware that the form is not a replacement for a thorough interview process. It is intended to be a supplementary tool to aid in candidate assessments. 
-
-</thinking>
-
 # entry-level-accountant-interview-form - Help Guide
 ## Purpose
 This form is designed to collect information about entry-level accountants, including job title, contact information, availability, work schedule, salary range, experience, skills, education, references, and other relevant details. 

@@ -1,7 +1,3 @@
-<thinking>
-To determine the purpose of the Sick Leave Form, we must analyze its fields and structure. It appears that this form is intended to collect information and manage an employee's sick leave. This includes employee and manager details, dates, and reasons for leave. It also has sections for approval and status management. It's designed for human resources management within an organization, likely to streamline the process of processing and approving sick leaves. Before completing this form, please confirm that you're filling it out for a legitimate reason and not duplicating efforts. Ensure you're authorized to access and submit this form on behalf of an employee.
-</thinking>
-
 # Sick Leave Form - Help Guide
 ## Purpose
 The Sick Leave Form is a tool for employees and managers to manage and process sick leaves within the organization. It captures essential details for approval, tracking, and record-keeping purposes.

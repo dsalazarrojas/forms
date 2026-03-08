@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Quality Manager Application Form - Help Guide
 ## Purpose
 The Quality Manager Application Form is used to collect information from candidates applying to be a Quality Manager. This form helps us evaluate their suitability for the role and ensures that we receive the necessary details for the hiring process.

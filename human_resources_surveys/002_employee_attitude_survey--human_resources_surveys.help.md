@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Attitude Survey - Help Guide
 
 ## Purpose

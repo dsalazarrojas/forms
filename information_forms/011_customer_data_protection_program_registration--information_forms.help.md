@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # customer_data_protection_program_registration_form - Help Guide
 
 ## Purpose

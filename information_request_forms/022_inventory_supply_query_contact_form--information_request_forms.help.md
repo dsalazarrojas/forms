@@ -1,6 +1,3 @@
-<thinking>
-To avoid duplication, this form should only be filled out by authorized users who need to request inventory information from suppliers. This form should only be used for inquiries that require immediate attention from our supply team, so only select "Yes" or "No" in the inquiry_type field accordingly. The fields are designed to gather specific information about the supplier, contact information, and inquiry details. Please note that all fields are required for accurate processing.</thinking>
-
 # inventory_supply_query_contact_form - Help Guide
 ## Purpose
 The inventory supply query contact form is designed for authorized users to request information from suppliers. This form is intended for inquiries that require immediate attention from our supply team.

@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be designed for collecting information about new employee onboarding processes, specifically for recording new hires' details and emergency contact information. The fields suggest that the form is used to track employee records, including employment details, and may be used by HR departments or similar personnel management teams. Given the text-based nature of the fields, it's likely that this form is used in a more traditional, offline setting or for storing and sharing data between departments. I'll assume the form is used for internal purposes within an organization, such as a company or business. The form's simplicity and lack of conditional logic or branching suggest that it's intended for basic data collection, not complex decision-making or workflow automation. I'll proceed with creating the user-facing help guide based on these assumptions.</thinking>
-
 # Employee Onboarding Records Release Form - Help Guide
 ## Purpose
 This form is used to record and track new hire information for employee onboarding processes. It helps HR departments to collect and store essential details about new employees, including their personal and employment-related information.

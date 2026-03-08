@@ -1,23 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for this form, I need to understand the purpose and functionality of the form and each field. The form appears to be related to meeting minutes or reports, likely for an organizational or business setting. The fields are primarily focused on the person attesting to the meeting minutes, including their name, contact information, and signature.
-
-To complete this form, the user needs to fill out the form with the following information:
-1.  attester_name: Enter the name of the person attesting to the meeting minutes.
-2.  attester_name: Enter the name of the person or entity being attested to.
-3.  attested_by: Enter the name of the person attesting to the meeting minutes.
-4.  attested_by: Enter the title of the person attesting to the meeting minutes.
-5.  attested_by: Enter the organization of the person attesting to the meeting minutes.
-6.  attested_by: Enter the contact information (email, phone, fax, address, etc.) of the person attesting to the meeting minutes.
-7.  attested_by: Enter the country of the person attesting to the meeting minutes.
-8.  attested_by: Enter the zip code of the person attesting to the meeting minutes.
-9.  attested_by: Enter the city of the person attesting to the meeting minutes.
-10. attested_by: Enter the state of the person attesting to the meeting minutes.
-11. attested_by: Enter other organization information if the organization does not have a listed name.
-12. attested_by: Enter the type of organization the person attesting to the meeting minutes is associated with.
-13. attested_by: Enter any additional comments for the attestation.
-14. attested_by: Enter the date and time of the signature.
-</thinking>
-
 # meeting_minutes_attestation - Help Guide
 ## Purpose
 The meeting minutes attestation form is used to validate the authenticity of meeting minutes. The form is completed by the person attesting to the meeting minutes, providing their information and signature to confirm the accuracy and authenticity of the meeting minutes.

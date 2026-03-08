@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to collect information from a parent or legal guardian about a child's non-custodial parent arrangement. The form is designed to gather details about the requesting parent's relationship with the child, the custodial arrangement, and any additional comments or notes. The purpose of this form is to provide a clear and concise way to document the non-custodial parent arrangement, which is an important aspect of child care and custody.
-
-Before proceeding, please ensure that you have a clear understanding of the form's purpose and that the information you provide is accurate and up-to-date. This form should only be used for non-custodial parent arrangements and not for other types of child care or custody arrangements.
-
-Please note that this form is a generic template and may need to be adapted or modified according to your organization's specific needs and policies.
-
-</thinking>
-
 # Non Custodial Parent Form - Help Guide
 ## Purpose
 This form is designed to collect information about a child's non-custodial parent arrangement, including the requesting parent's relationship with the child and the custodial arrangement.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to update credit card information for both individual and business cardholders. It is used to collect updates to existing credit card information, including name, card number, expiration date, and contact details. This form should only be filled out by authorized users, as it contains sensitive information. There is no specific requirement for filling out every field in this form, but filling out all fields will result in a more complete and accurate update.
-</thinking>
-
 # Credit Card Update Form - Help Guide
 ## Purpose
 This form is used to update the information associated with a credit card, either for individual or business cardholders.

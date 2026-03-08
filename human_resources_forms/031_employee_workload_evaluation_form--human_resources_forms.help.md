@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to evaluate the workload of employees, gathering feedback on the number of tasks assigned to them, their satisfaction level with their current workload, and other relevant details. This form can be used by managers to assess the workload of their team members and make informed decisions to adjust tasks or resources accordingly. The form does not require all fields to be filled out, and the answers should reflect real-world situations, so please answer honestly and thoroughly.
-</thinking>
-
 # employee_workload_evaluation_form - Help Guide
 ## Purpose
 This form is used to gather feedback on employee workload from managers to evaluate and adjust tasks and resources accordingly.

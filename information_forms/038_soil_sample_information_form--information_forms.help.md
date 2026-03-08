@@ -1,14 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and use of the "Soil Sample Information Form". This form is designed to collect specific information about soil samples, including their identification, location, and condition. It is likely used in a laboratory or research setting where soil samples need to be accurately recorded and stored. The form may be used by lab technicians, researchers, or other personnel involved in soil analysis. 
-
-To ensure accuracy and consistency, users should carefully follow the guide provided below. 
-
-Please note that this form has fields for sensitive information (e.g. submitted_by field). Users should only input their own information and ensure that their input will be handled accordingly. 
-
-Also, ensure that you understand the purpose of each field before filling it out. If you're unsure about a particular field, please consult a supervisor or relevant documentation.
-
-</thinking>
-
 # Soil Sample Information Form - Help Guide
 ## Purpose
 This form is used to collect and record information about soil samples, including their identification, location, and condition.

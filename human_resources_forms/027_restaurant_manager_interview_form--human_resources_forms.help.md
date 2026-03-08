@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information about a restaurant manager interview. It's crucial to ensure that the form is completed accurately and consistently to maintain data quality. Please review each field carefully to ensure you're providing the correct information. Before filling out the form, make sure you're not duplicating any existing records.
-</thinking>
 # Restaurant Manager Interview Form - Help Guide
 ## Purpose
 The Restaurant Manager Interview Form is designed to collect data about a restaurant manager interview, including restaurant details, candidate information, and other relevant details.

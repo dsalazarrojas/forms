@@ -1,13 +1,3 @@
-<thinking>
-We need to create a user-friendly help guide for the "Remote Work Agreement Extension Form" that explains its purpose, how to complete it, and what each field means. This form is used for extending an existing remote work agreement, and its purpose is to gather information from employees, managers, and team members involved in remote work arrangements. It's essential to ensure that each field is filled out accurately to avoid duplication and ensure consistency across the company.
-
-This form is typically used when an employee's remote work arrangement needs to be extended or updated. It allows employees, managers, and team members to collaborate on the necessary information required for the extension.
-
-Before completing this form, please ensure that you have the necessary permissions and approvals to access the required information. If you're unsure about any field, please reach out to your manager or HR representative for clarification.
-
-Below is a step-by-step guide on how to complete this form:
-</thinking>
-
 # Remote Work Agreement Extension Form - Help Guide
 ## Purpose
 This form is used to extend or update an existing remote work agreement between an employee, their manager, and team members.

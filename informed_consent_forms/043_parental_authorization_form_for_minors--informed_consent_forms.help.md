@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Parental Authorization Form For Minors - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Device Testing Participation Consent Form - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>...internal explanation block for form purpose and relevance...
-
-The Carpooling Accident Incident Form is designed to collect detailed information about incidents that occur within a carpooling environment. It is intended to be used when an incident happens in the carpool, such as a vehicle accident. The form helps to gather essential information for reporting the incident, including details about the incident, participants involved, and any injuries or damages that occurred. Please use this form to report all incidents that occur during carpooling activities.
-
-This form is meant to be completed in a way that is clear and accurate, and the data collected will be used to improve the overall safety and well-being of carpooling participants.
-
-Before completing this form, please ensure that you are aware of all the incident details and that the information you provide is true and accurate.
-
-</thinking>
-
 # Carpooling Accident Incident Form - Help Guide
 ## Purpose
 The Carpooling Accident Incident Form is designed to collect detailed information about incidents that occur within a carpooling environment.

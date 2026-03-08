@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers who are reaching out for support. It is intended for customers who are not yet registered with our company and are looking for assistance. This form is not meant to be filled out by our existing customers, as their information is already stored in our system.
-
-This form should only be completed by the customer who is in need of support and does not need to be filled out by our company's internal staff.
-
-Please ensure that the form fields are filled out correctly and accurately, as this information will be used to provide the best possible support to the customer.
-
-</thinking>
-
 # Customer Support Interview Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from customers who are reaching out for support. It is intended for customers who are not yet registered with our company and are looking for assistance.

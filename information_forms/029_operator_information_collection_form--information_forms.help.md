@@ -1,6 +1,3 @@
-<thinking>
-This form is used to collect information about an operator, which is crucial for internal purposes such as HR, safety, or operational management. The form is designed to be completed by operators, who will provide personal and professional details about themselves. To ensure accuracy and consistency, please note that some fields are mandatory and others are optional. This guide will walk you through each field and help you fill it out correctly.</thinking>
-
 # Operator Information Collection Form - Help Guide
 
 ## Purpose

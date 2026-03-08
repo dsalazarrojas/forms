@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about the graduation ceremony. It is intended for individuals who are involved in the graduation ceremony, such as students, faculty members, or family members. The form is designed to gather general information, graduation details, and alumni information. 
-
-The form's purpose is not affiliated with any form platform and is an original adaptation created by AI using only public survey topic metadata as inspiration. The form is released under the Creative Commons BY 4.0 license, allowing users to use, modify, and sell derived forms while giving credit.
-
-Before proceeding, ensure that you have not completed this form before, as it is designed to gather unique responses. If you have previously filled out a similar form, please refrain from completing it again to avoid duplication of responses.
-
-</thinking>
-
 # Graduation Ceremony Questionnaire Template - Help Guide
 ## Purpose
 This form is designed to collect information about the graduation ceremony. It is intended for students, faculty members, or family members involved in the event.

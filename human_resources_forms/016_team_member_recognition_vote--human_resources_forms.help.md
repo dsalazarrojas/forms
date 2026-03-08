@@ -1,7 +1,3 @@
-<thinking>
-This form is used to allow team members to vote on which team members they want to recognize for their work. This vote is anonymous and allows users to select multiple nominees and specify their recognition type and impact rating. The form is meant to be completed by team members who want to suggest someone for recognition, and the data collected will be used to determine which team members are eligible for recognition. It's essential to complete this form accurately and honestly to ensure the recognition process is fair and effective. Please only complete this form if you are a team member, and avoid nominating yourself or duplicate nominations.
-</thinking>
-
 # Team Member Recognition Vote - Help Guide
 ## Purpose
 The Team Member Recognition Vote form is a tool used to allow team members to nominate and vote on team members for recognition.

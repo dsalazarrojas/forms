@@ -1,21 +1,3 @@
-<thinking> 
-To create a help guide for the Scrum Master Interview Form, we need to understand the form's purpose and the fields it contains. The form seems to be designed to collect information about a candidate for a Scrum Master position. It includes fields such as name, email, job title, job level, experience, education, skills, tools, work status, notice period, notice start and end dates, availability, work type, job type, salary, desired salary, notice salary, notice bonus, currency, and resume.
-
-To ensure relevance and non-duplication, let's review the form's fields and their purposes:
-
-*   Fields 1-2: First Name and Last Name are likely for personal identification.
-*   Fields 3-4: Email and Job Title are likely for contact and professional information.
-*   Fields 5-6: Job Level and Scrum Master Role are likely for job-specific information.
-*   Fields 7-8: Experience and Education are likely for work history and qualifications.
-*   Fields 9-10: Certification and Resume are likely for additional credentials.
-*   Fields 11-12: Languages and Skills are likely for language and technical skills.
-*   Fields 13-14: Tools and Availability are likely for work environment and work style.
-*   Fields 15-16: Work Status and Notice Period are likely for work conditions and notice.
-*   Fields 17-18: Notice Start and End dates are likely for notice period specifics.
-*   Fields 19-20: Notice Salary and Desired Salary are likely for compensation.
-
-</thinking>
-
 # Scrum Master Interview Form - Help Guide
 ## Purpose
 The Scrum Master Interview Form is a tool used to collect information from candidates for a Scrum Master position. It helps the hiring team to evaluate and compare candidates' qualifications, experiences, and preferences.

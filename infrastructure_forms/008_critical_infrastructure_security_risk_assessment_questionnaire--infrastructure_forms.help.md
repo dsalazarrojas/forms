@@ -1,8 +1,3 @@
-<thinking> 
-This form is intended to assess the security risks associated with critical infrastructure. It's essential to understand that the purpose of this form is to identify and address potential vulnerabilities and threats to critical infrastructure, which could impact the organization's operations, assets, or employees. This form is not intended to be a comprehensive risk assessment, but rather a starting point for further investigation and mitigation efforts.
-
-The form consists of 8 sections, each focusing on a different aspect of critical infrastructure security. To complete this form, please follow the instructions below.</thinking>
-
 # Critical Infrastructure Security Risk Assessment Questionnaire - Help Guide
 
 ## Purpose

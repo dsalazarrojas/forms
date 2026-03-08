@@ -1,10 +1,3 @@
-<thinking>
-This form is likely intended to collect information about a fan, such as their name, contact details, and social media presence. The form might be used to gather data for marketing, outreach, or internal communication purposes.
-The form is probably not intended for general public users and is meant for internal use only. It may be used by artists or their staff to provide information about themselves or their teams.
-This is a multi-page form, with each page having multiple fields to be filled out in sequence.
-The fields on this form are likely required to be filled out in order to get the required information.
-</thinking>
-
 # Fan Data Information Collection Form - Help Guide
 ## Purpose
 The Fan Data Information Collection Form is designed to collect essential details about a fan or artist. This form will help us understand more about our audience and provide a better experience for our community.

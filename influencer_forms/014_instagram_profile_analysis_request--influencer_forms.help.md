@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from Instagram users for analysis purposes. The goal is to gather data on their profiles, including names, contact information, and account details. This data will be used to analyze and provide insights on the user's online presence and engagement. Please ensure that you have a valid Instagram profile and that the information you provide is accurate. This form should not be completed multiple times for the same profile.
-</thinking>
-
 # Instagram Profile Analysis Request - Help Guide
 ## Purpose
 This form is designed to collect information from your Instagram profile for analysis purposes. The goal is to gather data on your profile, including names, contact information, and account details.

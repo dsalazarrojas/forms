@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their requests for sustainability education materials. The purpose of this form is to gather data about the type of resources the user needs, the audience they are intended for, and their preferred delivery method. This form will help us understand the needs of our users and provide more targeted support for sustainability education.
-
-To complete this form, follow these steps:
-
-1. Select the category for your organization: School, Nonprofit, or Other.
-2. Choose the types of resources you are interested in (e.g., Textbooks, Webinars, Workshops, Training, or Other).
-3. Specify the audience for whom you would like to request these resources (e.g., Students, Educators, Community Leaders, or Other).
-4. If you have specific availability dates and times for when you would like to receive the resources, enter them in the corresponding fields.
-5. Select your preferred delivery method (e.g., Email, Mail, Phone, or In-person).
-6. If you have any additional comments or requests, type them in the comments field.
-7. Review your selections to ensure they are accurate and complete.
-
-</thinking>
-
 # Sustainability Education Materials Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from users about their requests for sustainability education materials.

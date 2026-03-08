@@ -1,7 +1,3 @@
-<thinking>
-This form is used to update emergency contact information for a passport. It is intended for employees or administrators to enter contact information for a person who can be contacted in case of an emergency. This form is likely used in a government or travel-related context. The purpose of this form is to ensure that the emergency contact information is up-to-date and accurate. It is likely that this form will be used by HR or administrative staff to update contact information for employees.
-</thinking>
-
 # Passport Emergency Contact Information Update - Help Guide
 ## Purpose
 This form is used to update emergency contact information for a passport. It is a crucial step in ensuring that the relevant contact information is up-to-date and accurate in case of an emergency.

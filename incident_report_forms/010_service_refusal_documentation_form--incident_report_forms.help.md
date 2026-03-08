@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Service Refusal Documentation Form - Help Guide
 
 ## Purpose

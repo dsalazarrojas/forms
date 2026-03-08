@@ -1,15 +1,3 @@
-<thinking>
-To determine the purpose and relevance of this form, let's analyze the provided YAML fields.
-
-The form is for a Resume Questionnaire, which suggests that it's designed to collect information about an individual's personal and professional details. The fields present a mix of personal and professional data, including contact information (first name, last name, email, phone), educational background (experience start date, end date, education start date, end date), work experience (work experience 1-12), and career goals. The form also includes a section for selecting multiple skills and an objective field for additional context.
-
-Given the fields, it appears that this form is intended for job applicants, candidates for internships, or professionals looking to update their resume or LinkedIn profile. The form is likely used for HR and recruitment purposes to gather information about potential candidates.
-
-Considering the form's purpose and structure, it seems that it's designed for both personal and professional use cases. However, it's likely that the form is primarily used for job applications and professional profiles.
-
-To avoid duplication and ensure consistency, it would be beneficial to check if the individual has already submitted a similar form or if their information is already up-to-date in the system. This will help ensure that the form is only used for new or updated information.
-</thinking>
-
 # Resume Questionnaire - Help Guide
 ## Purpose
 The Resume Questionnaire is a form designed to collect personal and professional information from individuals, including contact details, work experience, educational background, and career goals. This form is intended for job applicants, candidates for internships, or professionals looking to update their resume or LinkedIn profile.

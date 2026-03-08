@@ -1,6 +1,4 @@
-### <thinking>...</thinking>
-
-This help guide will cover the purpose of the Fire Incident Discharge Form, how to complete it, and an explanation of each field.
+### This help guide will cover the purpose of the Fire Incident Discharge Form, how to complete it, and an explanation of each field.
 
 ### Fire Incident Discharge Form - Help Guide
 

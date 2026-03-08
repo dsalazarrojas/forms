@@ -1,5 +1,3 @@
-<thinking>**Internal reasoning block:** This form was created to collect information about a specific type of project, namely Care Continuity Improvement Projects. These projects aim to improve care services in healthcare settings. The form is designed to gather key project details to facilitate registration and tracking. The purpose of this guide is to help users understand the form's purpose and how to complete it successfully.</thinking>
-
 # Care Continuity Improvement Project Registration Form - Help Guide
 ## Purpose
 The Care Continuity Improvement Project Registration Form is designed to collect information about Care Continuity Improvement Projects, a type of project aimed at improving care services in healthcare settings. This form gathers essential details to facilitate project registration and tracking.

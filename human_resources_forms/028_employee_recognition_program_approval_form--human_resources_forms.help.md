@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used for employee recognition programs, where employees can be recognized for their work or achievements. To ensure that this form is completed correctly and efficiently, please follow the guidelines below:
-
-The form "Employee Recognition Program Approval Form" is used to request approval for employee recognition programs, which are programs that provide rewards or incentives to employees for their contributions to the organization. The form helps to streamline the process of submitting and approving recognition requests, ensuring that the employee's achievement is acknowledged and rewarded in a timely and standardized manner.
-
-Before filling out this form, please check if the recognition request has already been made through this system. If it has, please do not resubmit as it may cause duplication of efforts and affect the overall process.
-
-</thinking>
-
 # Employee Recognition Program Approval Form - Help Guide
 ## Purpose
 The Employee Recognition Program Approval Form is used to request approval for employee recognition programs, which provide rewards or incentives to employees for their contributions to the organization.

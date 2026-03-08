@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Home Purchase Leave Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking> 
-This guide is intended for HR teams and personnel who need to complete the HR Effectiveness Survey to assess performance and provide feedback. It is not intended to be completed by employees. Please ensure that you have the necessary permissions and authority to complete this form. If you are an employee, you may want to check with your HR representative or manager to see if you are authorized to access this form. 
-</thinking>
-
 # HR Effectiveness Survey - Help Guide
 
 ## Purpose

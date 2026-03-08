@@ -1,27 +1,3 @@
-<thinking>
-The Equipment Liability Form is used to collect information about equipment and its status. This form is used to gather data on equipment ownership, usage, maintenance, and certification levels. The form is used by [Company Name] to track and manage equipment across the organization. This form is not intended for public use and is only accessible to authorized personnel.
-
-To complete this form, follow these steps:
-
-1. Fill in your User Name and User ID.
-2. Enter your Company Name.
-3. Provide your contact information (Phone and Email).
-4. Choose the correct status for the equipment:
-   - Is this equipment active or inactive?
-   - Who owns the equipment?
-   - Is the equipment in use?
-   - Has the equipment been maintained recently?
-   - Is the equipment certified to a certain level?
-   - Is the equipment under warranty?
-   - When was the last maintenance performed?
-   - When is the next maintenance due?
-   - How many maintenance hours were performed in the last maintenance?
-5. Enter the equipment description, location, and any additional notes.
-
-Note: The form requires a valid Form ID and Form Version.
-
-</thinking>
-
 # Equipment Liability Form - Help Guide
 ## Purpose
 The Equipment Liability Form is used to collect information about equipment and its status within the organization.

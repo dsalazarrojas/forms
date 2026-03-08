@@ -1,7 +1,3 @@
-<thinking>
-This help guide will walk the user through the "Database Error Report Form" in order to ensure that they have a clear understanding of how to complete it correctly. The purpose of this form is to allow users to report errors that occur in the database. To prevent duplication, users should only submit one form per issue, and it's recommended that users check the system for existing reports before submitting their own.
-</thinking>
-
 # Database Error Report Form - Help Guide
 
 ## Purpose

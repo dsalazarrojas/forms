@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to capture essential information from employees regarding their clock-in activities, such as the date, start and end times, location, and any comments they may have. This form likely serves as a record-keeping mechanism for attendance or time-tracking purposes.
-
-Before filling out this form, please ensure you have all the necessary information required. If you're unsure about any field, refer to this guide for clarification.
-
-This form is designed for one-time use; there's no need to revisit this form for subsequent clock-in activities.
-
-Ensure the form is completed accurately and consistently to maintain record quality.
-
-</thinking>
-
 # Employee Clock In Form - Help Guide
 ## Purpose
 The Employee Clock In Form is a tool used to record employee clock-in activities. It captures information such as date, start and end times, location, and comments, which can be used for attendance, time-tracking, or other related purposes.

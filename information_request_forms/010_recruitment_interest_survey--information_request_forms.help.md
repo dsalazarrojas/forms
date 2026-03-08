@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect general information from potential recruits about their interests and availability. The purpose of this form is to gauge interest in different areas of recruitment and to gather contact information for follow-up purposes. Please note that this form is not intended to be a comprehensive application or assessment tool, but rather a way to initiate a recruitment process. Before filling out this form, ensure you have not already filled it out in the past to avoid duplication.
-</thinking>
-
 # Recruitment Interest Survey - Help Guide
 ## Purpose
 This form is designed to collect your interest in different areas of recruitment and gather contact information for potential recruitment opportunities.

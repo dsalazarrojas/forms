@@ -1,7 +1,3 @@
-<thinking>
-Please note that the form is likely used by law enforcement or other authorities to gather information about incidents involving hit-and-run incidents. The form is designed to collect details about the incident, including vehicle and witness information, in order to aid in the investigation and reporting process. It is possible that this form is part of a larger system for tracking and managing incident reports, and its purpose may be to reduce duplication of effort or to help with decision-making processes within the organization. However, without further information about the specific use case or business process, it's difficult to provide a more specific understanding of the form's purpose and relevance.
-</thinking>
-
 # Hit And Run Incident Report Form - Help Guide
 ## Purpose
 The Hit And Run Incident Report Form is used to collect information about incidents where a vehicle has been involved in a hit-and-run incident. This form helps to gather details about the incident, the vehicle involved, and any witnesses that may have seen what happened.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about academic innovations, including the contributor's details, innovation characteristics, and consent for archiving and publication. The form is intended to gather accurate and complete information about each innovation, while ensuring that contributors are informed about the potential uses and sharing of their work.
-</thinking>
-
 # Academic Innovation Archive Consent Form - Help Guide
 ## Purpose
 The Academic Innovation Archive Consent Form is a tool used to collect detailed information about academic innovations, such as teaching methodologies, assessment techniques, and technologies. This form helps contributors provide accurate and comprehensive information about their innovations, which can then be shared and archived for the academic community to learn from and build upon.

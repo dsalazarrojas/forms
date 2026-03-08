@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the eye_center_patient_information_form form, we must first clarify its purpose and ensure it's only used for that specific purpose. This form appears to be designed to collect general information about a patient visiting an eye center, such as their name, contact details, and medical history. It seems reasonable to assume this form is used for patient registration, but we should confirm this with the form's creators to avoid duplication of effort and to prevent the form from being used for other, possibly unrelated purposes.
-
-Assuming this is correct, the form is likely meant to be filled out by patients visiting the eye center, and the information collected will be used for administrative purposes, such as contacting the patient, scheduling appointments, and possibly for medical record-keeping.
-
-We should also note that some fields are optional, which could indicate that they're either secondary data or not crucial for the primary purpose of the form.
-
-</thinking>
-
 # eye_center_patient_information_form - Help Guide
 ## Purpose
 The eye_center_patient_information_form is a form designed to collect general patient information for administrative purposes, such as contacting the patient and scheduling appointments, at an eye center.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect information about corporal punishment incidents within an organization. The purpose of the form is to document incidents of corporal punishment, gather relevant details, and track the status of each incident. This form should only be completed for events where corporal punishment has occurred or is suspected. Please ensure that you only complete this form if you have witnessed or have evidence of an incident of corporal punishment.
-
-</thinking>
-
 # Corporal Punishment Form - Help Guide
 ## Purpose
 The corporal punishment form is used to document incidents of corporal punishment within an organization. This form is intended to collect information about the incident, including the user involved, date, location, and type of punishment. The form also tracks the status of each incident and the outcome of any investigation.

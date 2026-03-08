@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect informed consent from participants in a sports therapy session. The form is likely used in a clinical or sports therapy setting to document the participant's understanding and agreement to the observation process. This form ensures that the participant is aware of their rights and the purpose of the observation, which is to gather data for their own improvement. 
-
-This form should only be used for sports therapy sessions and not for other types of therapy sessions. If a participant has already completed this form, it should not be completed again for the same session.
-
-The form collects various fields including participant name, email, purpose of observation, date and time of observation, observation location, participant notes, participant agreement, signature of participant, and signature of the therapist. 
-
-Each field is crucial in ensuring that the participant's rights and the purpose of the observation are clearly understood. 
-</thinking>
-
 # Sports Therapy Session Observation Consent - Help Guide
 ## Purpose
 This form is used to gather informed consent from participants in a sports therapy session.

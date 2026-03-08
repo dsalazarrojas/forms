@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about service directory submissions. 
-The purpose of this form is to provide a structured way to collect data about services and organizations that users want to submit. The form includes a variety of fields that cover different aspects of a service or organization, such as name, description, email, phone number, category, address, and more. 
-This form is intended to be user-friendly and adaptable to various submission types. However, please note that the number of reviewers fields is unusually large, suggesting that this form may be intended for collaborative or peer-review processes. I will proceed with the assumption that the form is designed to be used by a small group or team.
-</thinking>
-
 # Service Directory Submission Form - Help Guide
 ## Purpose
 The Service Directory Submission Form is designed to collect information about service directory submissions.

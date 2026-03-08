@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Property Planning Support Contact Form - Help Guide**
 
 ## Purpose

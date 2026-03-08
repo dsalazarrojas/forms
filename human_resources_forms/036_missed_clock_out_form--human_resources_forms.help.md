@@ -1,9 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Missed Clock Out Form", I'll start by explaining its purpose and relevance. This form is designed to collect information about employee clock-out incidents where an employee fails to clock out at the end of their shift. The form helps in identifying the reasons behind missed clock-outs and facilitates the resolution of these incidents in a more structured and efficient manner. It's essential to fill out this form to ensure accurate record-keeping and prevent potential errors or discrepancies in payroll processing.
-
-</thinking>
-
 # Missed Clock Out Form - Help Guide
 ## Purpose
 The Missed Clock Out Form is used to document instances where an employee fails to clock out at the end of their shift. This form helps to gather information on the reason for missed clock-out and to facilitate a smooth resolution process.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect peer feedback on a colleague's performance and potential areas for improvement. It is typically used by supervisors, managers, or team leaders to assess and discuss an employee's skills, behavior, and work quality. The form should not be used for personal reasons or to gather feedback on a manager or supervisor.
-Please ensure that the person being reviewed is familiar with the form and understands that it's a tool for performance evaluation and growth. This form can be used in various industries, especially in office settings where teamwork is involved. 
-This form is meant to be completed by peers who work closely with the colleague being reviewed, so it's essential to have a good understanding of their working relationship and interaction.
-
-</thinking>
-
 # Annual Review (Peer) - Help Guide
 ## Purpose
 This form is designed to collect feedback on a colleague's performance from their peers, focusing on their strengths, areas for improvement, and overall quality of work. It's intended for use in office settings where teamwork is involved.

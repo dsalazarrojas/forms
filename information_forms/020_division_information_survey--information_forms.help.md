@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about a division within an organization. The purpose of this form is to provide a clear and concise way for users to submit data about their division, including its name, responsibilities, structure, challenges, head's name, position, and contact information. Before filling out this form, please make sure you have permission to do so and that the information you provide is accurate and up-to-date.
-
-To avoid duplication, please ensure that you are not submitting information that already exists in the system. If you are unsure, please check with your supervisor or the relevant department for guidance.
-
-</thinking>
-
 # Division Information Survey - Help Guide
 ## Purpose
 The Division Information Survey is a form designed to collect information about your division within our organization. This data will help us to better understand our internal structure and improve our operations.

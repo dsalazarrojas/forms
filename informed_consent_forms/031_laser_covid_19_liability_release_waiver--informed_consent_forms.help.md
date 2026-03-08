@@ -1,17 +1,3 @@
-<thinking>
-The purpose of this form is to obtain informed consent and medical information from individuals who are about to undergo a medical procedure. This form is used to waive liability and ensure that the individual is aware of the risks and benefits associated with the procedure. The form should only be used for individuals who are about to undergo a medical procedure and not for general purposes such as creating a patient record or obtaining medical history.
-
-Before filling out this form, please ensure that you have read and understand the information presented. This form is not intended to be a comprehensive medical history or a substitute for medical advice. The information provided will be used to document your informed consent and medical information for the procedure.
-
-Please note that some fields in this form are required, and it is essential to fill them out accurately and truthfully. If you are unsure about any of the information or have any questions, please ask your doctor or healthcare provider for clarification.
-
-Also, please make sure to fill out the form with your accurate contact information, as this will help us ensure that we can reach you in case of any emergency.
-
-Before proceeding, please review the form carefully and ensure that you understand all the information presented.
-
-If you have any questions or concerns, please don't hesitate to reach out to your healthcare provider or our support team.
-</thinking>
-
 # Laser Covid 19 Liability Release Waiver - Help Guide
 ## Purpose
 This form is used to obtain informed consent and medical information from individuals who are about to undergo a medical procedure.

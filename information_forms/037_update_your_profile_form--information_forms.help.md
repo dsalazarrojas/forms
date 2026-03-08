@@ -1,24 +1,3 @@
-<thinking>
-This form is used by administrators to update the profile information of a user or client. This form is used to gather updated information and settings from the user/client. It is likely used in a business or organizational setting. 
-
-The purpose of this form is to collect information about the user's category, description, and other details. It's possible that this form is part of a larger system for tracking user information and settings. 
-
-The form's fields may be used to update and track information such as category, description, and other details. 
-
-This form is not likely to be used for public-facing forms, such as user input or surveys, due to the field "Form ID". 
-
-The fields on this form may be part of a larger system for tracking and organizing user data. 
-
-This form is not likely to be used for data collection or survey purposes. 
-
-The "Other" field on the "Category" select field suggests that this form is for updating information that doesn't fit into one of the provided categories. 
-
-This form may be used for internal purposes only. 
-
-The "Required Check" field suggests that this form may have some conditional logic that depends on whether or not the information is required.
-
-</thinking>
-
 # update_your_profile_form - Help Guide
 ## Purpose
 The update_your_profile_form is used by administrators to update the profile information of a user or client.

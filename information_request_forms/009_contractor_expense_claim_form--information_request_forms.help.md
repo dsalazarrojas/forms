@@ -1,6 +1,3 @@
-<thinking> 
-We need to ensure that our user understands the purpose of this form: the Contractor Expense Claim Form is designed to help contractors report their expenses related to a specific project. This form collects detailed information about the expenses, including categorization, dates, and costs. To complete the form, please follow the guidelines below.</thinking>
-
 # Contractor Expense Claim Form - Help Guide
 ## Purpose
 This form is designed to help contractors report their expenses related to a specific project. It ensures that all necessary information is collected accurately and efficiently.

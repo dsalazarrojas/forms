@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be a template designed for collecting employment information from individuals or organizations. It may be used for job search, recruitment, or human resources purposes. Before filling out this form, make sure you're submitting information about your own employment details or that of another person, and that the information is accurate and up-to-date. If you're an HR manager or recruiter, you might already have similar forms in use, so double-check that this form's fields align with your existing procedures.</thinking>
-
 # Employment Information Request Form - Help Guide
 ## Purpose
 This form is designed to collect employment-related information from individuals or organizations. It can be used for job search, recruitment, or human resources purposes.

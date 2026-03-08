@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information about a project's solar roof implementation application. It's essential to ensure that all required fields are filled in accurately and truthfully. Please do not duplicate applications for the same project. The form is meant to be completed by project stakeholders or administrators. If you're unsure about any field, please reach out to the project team for clarification.
-</thinking>
-
 # Solar Roof Implementation Application Form - Help Guide
 ## Purpose
 The Solar Roof Implementation Application Form is a tool used to collect and store data for solar roof projects. This form serves as a starting point for project stakeholders to provide details about their solar roof projects.

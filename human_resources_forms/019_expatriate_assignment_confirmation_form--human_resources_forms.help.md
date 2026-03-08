@@ -1,10 +1,3 @@
-<thinking>
-To confirm an expatriate assignment, the Expatriate Assignment Confirmation Form is used to gather important information about the employee and the assignment details. This form is typically used by HR or management to ensure that all necessary steps are taken to facilitate a smooth and successful assignment. The purpose of this form is to collect data that will be used to track the assignment, communicate with the employee, and ensure compliance with company policies and regulations.
-
-Before completing this form, please make sure that you are not duplicating an existing record. If you are unsure, you can check with your HR or management team to confirm that the assignment has not already been processed.
-
-</thinking>
-
 # Expatriate Assignment Confirmation Form - Help Guide
 ## Purpose
 The Expatriate Assignment Confirmation Form is used to gather information about an employee's assignment details and to confirm their acceptance of terms and conditions.

@@ -1,10 +1,3 @@
-<thinking>
-We need to create a user-friendly help guide for the Covid 19 Daily Status Update Form, which is used to track and manage patient information and vaccination status. This form is likely used in a healthcare setting to ensure the medical team is aware of a patient's condition and vaccination status. The form should only be completed once a day, and the information provided should be accurate and up-to-date. If a patient's status changes, please update the form accordingly to reflect the new status.
-
-Before starting, ensure that you are not duplicating a patient's entry, and if you are unsure, you can check the internal database or consult with the medical team.
-
-</thinking>
-
 # Covid 19 Daily Status Update Form - Help Guide
 ## Purpose
 The Covid 19 Daily Status Update Form is used to track and manage patient information and vaccination status. Please complete this form accurately and once a day to ensure the medical team has up-to-date information.

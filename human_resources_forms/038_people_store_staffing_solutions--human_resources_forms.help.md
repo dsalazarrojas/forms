@@ -1,7 +1,3 @@
-<thinking>
-To confirm, we are creating a user-facing help guide for the "People Store Staffing Solutions" form, which appears to be used for managing staffing information for a store. This form likely helps store managers or staff to provide details about the store's needs, contact information, and other relevant details. This guide will ensure that end-users understand the purpose and requirements of the form, making it easier for them to complete it accurately and efficiently.
-</thinking>
-
 # People Store Staffing Solutions - Help Guide
 ## Purpose
 This form is used to provide staffing information for a store, including address, contact details, and other relevant information.

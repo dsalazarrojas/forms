@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to assess leadership skills in a specific context, likely within an organizational or corporate setting. The form's title, "leadership_skills_assessment_form", suggests that it is intended for evaluating or evaluating leadership abilities. 
-
-The form's structure includes various sections, each focused on different aspects of leadership skills, such as leadership styles, problem-solving, communication, and adaptability. This structure implies that the form is comprehensive and aims to cover essential leadership skills.
-
-The "options" fields, such as "Option 1" and "Option 2", suggest a multiple-choice or survey-like approach, which is often used in leadership assessments or evaluations. This format indicates that the form is designed for self-assessment or peer evaluation purposes, where individuals can choose from pre-defined options that best fit their experiences or perceptions.
-
-The presence of "required: false" flags in many fields implies that the form is not a mandatory or formal assessment, but rather a tool for personal reflection or feedback. This could be used for development, coaching, or feedback purposes, rather than for formal performance evaluations or promotions.
-
-Considering the context and the form's structure, it is likely that this form is intended for internal use within an organization, such as for leadership development programs, team-building, or performance evaluations. It may also be used in academic or research settings for assessing leadership skills among students or participants.
-
-The form's design and the fields' labels suggest a focus on self-assessment, feedback, and personal growth, rather than on formal evaluations or performance metrics. 
-
-</thinking>
-
 # leadership_skills_assessment_form - Help Guide
 ## Purpose
 This form is designed to help you assess your leadership skills, providing a comprehensive overview of your abilities in various leadership domains. It's intended for personal reflection, feedback, and growth within an organization, or in academic and research settings.

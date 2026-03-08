@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will first analyze the provided YAML form structure and identify its purpose and required fields. The Rental Property Tax Organizer Form appears to be designed for organizing and uploading relevant information related to rental properties for tax purposes. The form has 8 fields divided into two pages, with "Property Details" and "Tax Year" being required fields. The form's purpose is likely to gather essential information for calculating taxes owed on rental properties, such as property location, tax year, and tax rate. This guide will provide a clear and concrete explanation of each field and its purpose.</thinking>
-
 # Rental Property Tax Organizer Form - Help Guide
 
 ## Purpose

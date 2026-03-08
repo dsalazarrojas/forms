@@ -1,7 +1,3 @@
-<thinking>
-We are creating a help guide for the software issue reporting intake form. This form is designed to collect information about software issues reported by users. The purpose of this form is to gather relevant details about the issue, including the software version affected, issue description, affected users, and issue resolution status. This form will help our team to quickly identify and address the issues reported by users. It's essential to fill out this form accurately and completely to ensure that we can respond effectively to the issue reported.
-</thinking>
-
 # software_issue_reporting_intake_form - Help Guide
 
 ## Purpose

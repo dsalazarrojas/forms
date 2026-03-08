@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to obtain informed consent from individuals participating in footage data science projects. The purpose of this form is to ensure that participants understand how their data will be used, stored, and protected. The form is divided into several sections that cover various aspects of data collection and usage.
-</thinking>
-
 # Learning Footage Data Science Consent Form - Help Guide
 ## Purpose
 This form is designed to obtain informed consent from individuals participating in footage data science projects. It ensures that participants understand how their data will be used, stored, and protected.

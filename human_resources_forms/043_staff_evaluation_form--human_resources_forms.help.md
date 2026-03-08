@@ -1,7 +1,3 @@
-<thinking>
-This form is used for staff evaluations, which are used to assess an employee's performance and provide feedback. It's essential to complete this form to ensure accurate and consistent evaluations. Before filling out this form, please ensure that you have all the necessary information and that this evaluation is not a duplicate of a previous evaluation.
-</thinking>
-
 # Staff Evaluation Form - Help Guide
 ## Purpose
 The Staff Evaluation Form is used to evaluate the performance of staff members and provide feedback on their strengths and areas for improvement. This form is typically used by supervisors to assess an employee's performance during a specific evaluation period.

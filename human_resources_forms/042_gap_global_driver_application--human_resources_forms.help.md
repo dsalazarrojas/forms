@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## gap_global_driver_application - Help Guide
 ### Purpose
 This form is designed to collect information about a driver's application. It is meant to be used to gather data about the driver's name, email, job title, department, location, start date, end date, time, and various other details.

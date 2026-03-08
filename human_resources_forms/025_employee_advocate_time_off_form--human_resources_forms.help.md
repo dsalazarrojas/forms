@@ -1,8 +1,3 @@
-<thinking>
-This form is used to record and track employee time off requests. It's essential for HR managers to have a clear record of employee time off, including the dates and times of the requested time off, the reason for the request, and the approval status from the manager.
-Before completing this form, ensure that you're logging in with a valid account and have the necessary permission to access and complete this form.
-</thinking>
-
 # employee_advocate_time_off_form - Help Guide
 ## Purpose
 The employee_advocate_time_off_form is used to record and track employee time off requests.

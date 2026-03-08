@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect paralegal information. Before completing this form, ensure that you have all necessary permissions and that this form is not a duplicate. Please review the form fields and your responses carefully to ensure accuracy and completeness. This guide will walk you through each field's intended use, so feel free to review the form fields carefully.
-</thinking>
-
 # Paralegal Information Form - Help Guide
 ## Purpose
 The Paralegal Information Form is a collection of questions and fields meant to gather relevant information about a paralegal. This form is used to collect data that helps in managing and understanding paralegal's employment status, job details, and personal contact information.

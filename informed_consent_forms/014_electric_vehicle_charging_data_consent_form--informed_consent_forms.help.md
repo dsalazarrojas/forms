@@ -1,7 +1,3 @@
-<thinking>
-
-This form is designed to collect consent and information from users for electric vehicle charging data collection. The form will be used to gather driver information, vehicle details, location, and other relevant data. To ensure accuracy and relevance, please fill out this form carefully. If you have filled out this form in the past, please check that the information is up-to-date and accurate before resubmitting. If your circumstances have changed, please update your information accordingly.</thinking>
-
 # Electric Vehicle Charging Data Consent Form - Help Guide
 ## Purpose
 This form is used to collect electric vehicle charging data and gather information on drivers, vehicles, locations, and other relevant data for further analysis and research purposes.

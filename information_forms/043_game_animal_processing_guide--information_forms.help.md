@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for collecting information related to processing game animals, likely in a food or meat processing context. This form likely requires end-users to input details about the type of game animal, the person or organization that harvested it, the weight, length, and other specifics about the animal's state and processing. I'll base the help guide on these assumptions.
-</thinking>
-
 # game_animal_processing_guide - Help Guide
 ## Purpose
 The game_animal_processing_guide form is used to collect information related to processing game animals in a food or meat processing context. This form is used to provide detailed data about the animal, including its type, weight, length, and processing specifics.

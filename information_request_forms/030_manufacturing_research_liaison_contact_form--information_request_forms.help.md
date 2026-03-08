@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information from individuals or organizations seeking to collaborate with the manufacturing research team on a specific project or research area. The form will help the team to identify potential collaborators, understand their background and expertise, and determine if they have any relevant files or information to share. To prevent duplicate submissions, the form will be reviewed and confirmed by the research team before any further action is taken.
-
-</thinking>
-
 # Manufacturing Research Liaison Contact Form - Help Guide
 ## Purpose
 The Manufacturing Research Liaison Contact Form is designed to gather essential information from potential collaborators, researchers, or organizations seeking to work with the manufacturing research team. This form helps the team to efficiently identify and contact potential collaborators and to understand their research interests, expertise, and any relevant files or information they might have.

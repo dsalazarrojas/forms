@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about an employee's work from home arrangement, including their work arrangement, work setup, work location, team size, work hours, communication channels, work from home frequency, work hours of operation, work from home duration, work arrangement justification, work location description, work from home equipment, work from home space, home office equipment, work from home equipment description, communication channels justification, work from home challenges, work from home solutions, work from home benefits, work from home challenges justification, work from home solutions justification, comments, and submission. This form is intended to be completed by employees who are considering or have already started working from home.
-
-To determine whether this form needs to be completed, check if the employee's work arrangement involves working from home. If yes, this form should be completed to ensure that HR has all the necessary information to support the employee's work arrangement.
-
-Please note that some questions are marked as optional, but it's still essential to fill out as much information as possible to ensure that HR has a comprehensive understanding of the employee's work from home arrangement.</thinking>
-
 # Work From Home Business Questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to gather information about your work from home arrangement. This information will help HR understand your needs and requirements for working from home and ensure that you have the necessary support and resources to be productive and efficient.

@@ -1,9 +1,3 @@
-<thinking>
-
-The "Employee Satisfaction Drivers Survey" is a tool used to measure employee satisfaction and engagement in the workplace. This form is designed to gather feedback from employees on various aspects of their job, including their level of satisfaction with their work, manager's support, and overall engagement. The survey aims to identify areas of improvement and provide insights to help enhance the employee experience.
-
-</thinking>
-
 # Employee Satisfaction Drivers Survey - Help Guide
 ## Purpose
 

@@ -1,20 +1,3 @@
-<thinking>
-The purpose of this form is to request a report about a user's energy consumption. The form aims to gather necessary information about the user and their property to generate the report.
-
-To complete this form, users are required to fill out the following sections:
-
-- **User Details**: This section requests information about the user themselves, such as their name and contact details.
-- **Property Details**: This section asks for details about the property, like its address and type.
-- **Delivery Preferences**: This section inquires about how the user would like to receive the report, i.e., email, PDF, or another format.
-- **Consultant Details**: This section is optional and allows users to provide information about the energy consultant who will be working on the report.
-- **Additional Comments**: This is an open-ended field where users can provide any extra information they want to be included in the report.
-
-Please make sure to fill out all required fields and provide accurate information to ensure the report is generated correctly. You can also use the form multiple times without any restrictions. 
-
-Please be aware that if you have already requested a report about this property, your request will be ignored to avoid duplication. 
-
-</thinking>
-
 # Smart Energy Report Request Form - Help Guide
 ## Purpose
 The Smart Energy Report Request Form is a tool used to gather necessary information about a user's energy consumption and generate a report about it. This form is designed to be completed by users to request a report about their own energy consumption.

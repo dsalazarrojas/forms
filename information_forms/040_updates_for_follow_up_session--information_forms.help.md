@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information for a "Follow-up Session" in the context of updates, likely for a project management or customer support purpose. The form is designed to collect updates from a user, which can be used to track progress, identify issues, or provide feedback. This form should only be used for updates, not for general information gathering or other purposes. If you're unsure about the form's purpose or have already filled it out recently, please refrain from filling it out again to avoid duplication of effort.
-</thinking>
-
 # updates_for_follow_up_session - Help Guide
 ## Purpose
 This form is used to gather information for a "Follow-up Session" in the project management context.

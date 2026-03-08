@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my goal is to create a help guide that clearly explains the purpose and functionality of the "Historical Site Incident Form". This form is designed to record and document incidents that have occurred at a site. It's essential to ensure that the form is completed accurately and thoroughly to provide a detailed and accurate record of the incident. This guide will outline the purpose of the form, how to complete it, and a field-by-field explanation of each section, helping users understand what information is required and why.</thinking>
-
 # Historical Site Incident Form - Help Guide
 ## Purpose
 The Historical Site Incident Form is used to document and record incidents that have occurred at a site. This form is essential for maintaining accurate records and ensuring that necessary steps are taken to prevent similar incidents in the future. By completing this form, users can provide a detailed account of what happened, including the incident type, location, and description, as well as any hazards involved and the actions taken to address the incident.

@@ -1,15 +1,3 @@
-<thinking>... (Internal reasoning block)
-
-This form appears to be designed for collecting information about a QDRO (QDRO stands for "Qualified Domestic Relations Order" in the context of divorce law). The purpose of this form is likely to gather relevant details about a participant's or an individual's circumstances related to a QDRO.
-
-Assuming that the form is intended for use within a divorce or family law context, the form might be used by attorneys, mediators, or other professionals working with individuals going through a divorce. 
-
-However, the provided schema lacks explicit context about the specific use case and target audience. The form's design and content might be adapted for various use cases, including but not limited to divorce proceedings, property settlements, and other family law-related purposes.
-
-To maintain form consistency and avoid duplicating information, ensure users fill out the form completely and accurately according to the provided instructions.
-
-</thinking>
-
 # QDRO Information Form - Help Guide
 ## Purpose
 The QDRO Information Form is designed to collect relevant details about a participant or individual's circumstances related to a QDRO, which is used in divorce law proceedings to allocate property or assets between parties.

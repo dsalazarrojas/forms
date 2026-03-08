@@ -1,6 +1,3 @@
-<thinking>
-This form is used for requesting the deletion of a message. It is meant for end-users to provide the necessary information for this request. Please do not use this form for duplicate requests. If you are requesting the deletion of a message, please ensure you have not already submitted a deletion request for the same message.</thinking>
-
 # Message Deletion Request - Help Guide
 ## Purpose
 The Message Deletion Request form is used to request the deletion of a message. This form is for end-users to provide the necessary information for this request.

@@ -1,9 +1,3 @@
-<thinking>
-
-To create an effective help guide for the Paintball Waiver Form, we must first understand its internal purpose and potential usage patterns. This form likely aims to collect information from participants in a paintball event, gathering necessary details for emergency contact and liability release. The form might be used by event organizers or managers to ensure they have the required information to handle potential emergencies and release liability. To avoid duplication, it is assumed that this form will be completed only once by each participant.
-
-</thinking>
-
 # Paintball Waiver Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information from participants in a paintball event. It serves two main purposes:

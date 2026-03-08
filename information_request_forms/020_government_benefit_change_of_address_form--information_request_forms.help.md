@@ -1,6 +1,3 @@
-<thinking>
-The form purpose and fields should be relevant and not duplicated. It is a Government Benefit Change Of Address Form for individuals or entities to notify changes to their address, which can impact their benefits. This form is likely to be used by government agencies or organizations providing benefits, such as social services or tax offices. The form fields should be clear and understandable for end users. Upon reviewing the form, the fields and their labels seem to be mostly self-explanatory, but some fields could be improved for clarity. The "Category" field appears to be a redundant field, and the "Assigned Tool" field is not clear in its purpose. I will make an effort to explain each field to the best of my ability based on the provided information.</thinking>
-
 # Government Benefit Change Of Address Form - Help Guide
 ## Purpose
 This form is used to notify changes to your address, which can impact your government benefits. Please fill out this form to update your address with the relevant government agencies or organizations providing your benefits.

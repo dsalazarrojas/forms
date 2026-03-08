@@ -1,13 +1,3 @@
-<thinking> 
-
-This form is intended to support team cohesion improvement initiatives within an organization. It captures information about team programs, start and end dates, team members, and other relevant details. This form should only be used for initiatives that are not already active or under review. 
-
-To ensure accurate and consistent data, please check that:
-- The initiative is not already active or under review.
-- The form is not being used for an initiative that is already active or under review.
-
-</thinking>
-
 # Team Cohesion Improvement Initiative Application Form - Help Guide
 ## Purpose
 The Team Cohesion Improvement Initiative Application Form is designed to help teams submit applications for initiatives aimed at improving team cohesion within the organization.

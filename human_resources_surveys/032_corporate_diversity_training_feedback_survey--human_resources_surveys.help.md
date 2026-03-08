@@ -1,11 +1,3 @@
-<thinking>
-To ensure that you are completing the correct survey and provide relevant feedback, please note that this survey is designed to gather feedback on corporate diversity training sessions. It's crucial to provide feedback on the training type, date, instructor name, and rating, as these are key areas for improvement. Before starting, review the form carefully and ensure you're filling out the correct sections relevant to the specific training session you attended.
-
-Also, this survey is a multiple-page form, so ensure that you complete the form in the correct order. Some fields are optional, so feel free to skip sections that are not relevant to the session you attended. 
-
-Please take a few extra minutes to review the form and ensure that you provide thoughtful and honest feedback.
-</thinking>
-
 # Corporate Diversity Training Feedback Survey - Help Guide
 ## Purpose
 This form is for gathering feedback on corporate diversity training sessions. It will help us understand your experience and provide valuable insights for future improvements.

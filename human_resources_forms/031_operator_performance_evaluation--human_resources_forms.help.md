@@ -1,12 +1,3 @@
-<thinking>
-This form is used to evaluate the performance of an operator, which is likely a key role within an organization, such as a manager or executive. This form is used to document and analyze an operator's performance over a specific period, typically with the intention of identifying areas of improvement and providing guidance on development. 
-The form is designed to be completed by a supervisor or someone in a position of authority. The goal is to provide a structured evaluation that covers various aspects of the operator's performance, including rating and comments. The form may be used during regular performance evaluation cycles to track progress and provide support. 
-It is essential to review the form carefully to ensure that it accurately reflects the operator's performance and that all necessary information is captured. 
-
-Please note that the performance of this form may be part of a more comprehensive performance management system, and its usage should be aligned with organizational policies and procedures.
-
-</thinking>
-
 # Operator Performance Evaluation - Help Guide
 ## Purpose
 This form is designed to evaluate the performance of an operator, providing a structured framework to assess their strengths and weaknesses. It is used by supervisors or those in positions of authority to guide operators in their development and identify areas for improvement.

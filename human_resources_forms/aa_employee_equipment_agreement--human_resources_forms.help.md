@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from employees about company-owned or company-provided equipment they use for work-related purposes. The purpose of this form is to establish an official agreement between the employee and the company regarding the use, maintenance, and return of the equipment. This form ensures that employees understand their responsibilities and liabilities for the equipment, including reporting any damage or loss, using it only for authorized business purposes, and complying with company security policies.
-
-Before filling out this form, ensure that you have reviewed the company's equipment policies and procedures. This form should not be used for any other purpose than for the company's official equipment inventory and management.
-
-</thinking>
-
 # AA Employee Equipment Agreement - Help Guide
 ## Purpose
 The AA Employee Equipment Agreement is a form used to establish an official agreement between the employee and the company regarding company-owned or company-provided equipment. This form is used to collect information about the equipment, such as type, brand, serial number, and expected return date. It also outlines the employee's responsibilities and liabilities for the equipment, including reporting any damage or loss and using it only for authorized business purposes.

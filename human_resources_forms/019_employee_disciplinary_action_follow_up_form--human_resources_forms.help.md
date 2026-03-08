@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to document employee disciplinary actions and follow-ups after the action has been taken. It's crucial to fill out this form accurately and consistently to ensure that all necessary information is collected and stored correctly. Please make sure to fill out this form only when an employee has taken some kind of disciplinary action and you're following up on the progress or outcome. Don't use this form for other purposes as it may cause confusion and make data collection and analysis challenging.
-</thinking>
-
 # Employee Disciplinary Action Follow Up Form - Help Guide
 ## Purpose
 This form is used to record the status and follow-up information of disciplinary actions taken against employees. It helps in maintaining accurate records and tracking progress towards resolving the issues raised.

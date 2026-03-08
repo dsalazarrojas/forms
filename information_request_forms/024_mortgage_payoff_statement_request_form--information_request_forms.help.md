@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Mortgage Payoff Statement Request Form - Help Guide
 ==============================================
 

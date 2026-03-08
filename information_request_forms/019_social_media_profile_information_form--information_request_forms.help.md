@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to collect social media profile information from individuals and organizations. This form is designed to help gather data on their profiles across various social media platforms such as Twitter, Instagram, YouTube, Facebook, and TikTok. The form is used to create a comprehensive profile of the individual or organization, including their profile name, email, date joined, profile picture, profile link, and additional social media platforms used. The form is intended for internal use within the organization.
-
-Before filling out this form, please make sure you have not filled it out previously. If you have already filled it out, please do not fill it out again. This will help us ensure that the information is up to date and accurate.
-
-This form is designed to be completed by individuals and organizations who have social media profiles across various platforms. It is not intended for personal use or to create fake profiles.
-
-Please note that some fields are required, marked with an asterisk (*). These fields are essential to complete the form and cannot be left blank.
-</thinking>
-
 # social_media_profile_information_form - Help Guide
 ## Purpose
 The social media profile information form is designed to gather information about your social media profiles across various platforms.

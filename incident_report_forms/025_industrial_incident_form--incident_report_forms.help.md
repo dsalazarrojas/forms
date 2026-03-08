@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # industrial_incident_form - Help Guide
 ## Purpose
 The industrial incident form is used to collect information about incidents that occurred during industrial activities. This form will help you report and document incidents in a structured manner, ensuring that all relevant details are captured.

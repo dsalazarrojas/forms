@@ -1,12 +1,3 @@
-<thinking>
-This form is used to record incidents involving escalators, which are a type of moving stairway typically found in buildings. The purpose of the form is to document the incident and gather information on the circumstances surrounding it. This form will guide the user through the process of reporting an incident that occurred on an escalator.
-
-The form will be reviewed and acted upon by relevant teams to identify the root cause of the incident and prevent future occurrences. 
-
-The form can be completed by anyone who has witnessed or been involved in the incident. It is a mandatory form and must be completed in its entirety for the report to be considered complete.
-
-</thinking>
-
 # Escalator Incident Form - Help Guide
 ## Purpose
 

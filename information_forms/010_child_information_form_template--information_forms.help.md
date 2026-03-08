@@ -1,5 +1,3 @@
-<thinking>Form purpose: This form is used to collect information about a child, including demographic data, contact information, and behavioral characteristics. It appears to be designed for educational or research purposes, as the form includes sections on interests, strengths, and challenges. This form should be completed by parents or guardians to provide accurate and comprehensive information about the child.</thinking>
-
 # Child Information Form Template - Help Guide
 ## Purpose
 This form is designed to collect information about a child, including demographic data, contact information, and behavioral characteristics. It is intended to be completed by parents or guardians to provide accurate and comprehensive information about the child.

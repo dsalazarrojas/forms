@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect information about a study, including its status, the date of consent, and other relevant details. It is used by study coordinators to track and manage studies. This form is typically filled out by the study coordinator or researcher in charge of the study. The form is meant to be filled out once, when the study is first set up, and then updated as necessary.
-
-Please make sure to fill out this form accurately and completely. If you are unsure about any of the fields, please contact your supervisor or the study coordinator for clarification. 
-
-This form is not intended for use as a template for future studies. If you need to set up a new study, please fill out the 'Respondent Identification Questionnaire' form for that new study.
-</thinking>
-
 # Respondent Identification Questionnaire - Help Guide
 ## Purpose
 The Respondent Identification Questionnaire is a form used to collect information about a study, including its status, the date of consent, and other relevant details.

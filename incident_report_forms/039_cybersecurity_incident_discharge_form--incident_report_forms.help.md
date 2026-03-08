@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to document and discharge cybersecurity incidents. This form is intended for use by employees, contractors, and other stakeholders within an organization to report and track various types of cybersecurity incidents. 
-Please ensure that you have the necessary clearance and permissions to access and complete this form. If the incident is not related to the work you are performing, please do not report it. Also, please do not report duplicate incidents.
-</thinking>
-
 # Cybersecurity Incident Discharge Form - Help Guide
 ## Purpose
 The Cybersecurity Incident Discharge Form is used to document and discharge cybersecurity incidents within the organization.

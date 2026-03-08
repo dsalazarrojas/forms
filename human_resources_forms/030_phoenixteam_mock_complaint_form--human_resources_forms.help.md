@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to submit complaints or feedback about incidents or issues they experienced with the PhoenixTeam. This form is meant to be a simple and accessible way for users to report their concerns, and the information collected will be reviewed and addressed by the relevant team or department.
-Before filling out this form, please ensure that you have not previously submitted a complaint or issue about the same matter to avoid duplication.
-</thinking>
 # PhoenixTeam Mock Complaint Form - Help Guide
 ## Purpose
 This form is designed to collect information about complaints or feedback from users. It allows them to report incidents or issues they experienced with the PhoenixTeam, and the collected data will be reviewed and addressed by the team or department.

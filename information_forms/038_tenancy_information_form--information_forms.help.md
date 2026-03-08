@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create the user-facing help guide for the Tenancy Information Form, I will analyze the provided YAML fields and extract the necessary information.
 
 # Tenancy Information Form - Help Guide

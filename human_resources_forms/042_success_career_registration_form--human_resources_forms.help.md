@@ -1,6 +1,3 @@
-<thinking> 
-This form is used by HR teams to register users for career advancement opportunities within the organization. It is designed to gather information about the user's career aspirations and goals. The form is typically filled out by employees who are looking to take the next step in their career within the company. To complete this form, the user will be asked to select their career aspirations and goals, which will help HR teams to better understand their needs and provide relevant career advancement opportunities. The form is not a mandatory one, but it is highly recommended that employees fill it out to ensure that their career goals are aligned with the company's expectations.</thinking>
-
 # success_career_registration_form - Help Guide
 ## Purpose
 The Success Career Registration Form is designed to register users for career advancement opportunities within the organization. This form will help HR teams to better understand the users' career aspirations and goals, and provide relevant career advancement opportunities.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to update their mailing address information. The form is designed to collect specific data points related to the user's address, including but not limited to first name, last name, email address, phone number, street address, city, state, zip code, and country of residence. The form may only be completed if the user has a valid reason to update their address, and the information will be updated accordingly.
-</thinking>
-
 # mailing_address_update_form - Help Guide
 ## Purpose
 This guide explains how to complete the mailing address update form for users to update their address information.

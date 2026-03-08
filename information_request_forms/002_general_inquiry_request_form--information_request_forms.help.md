@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # General Inquiry Request Form - Help Guide
 
 ## Purpose

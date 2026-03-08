@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from users in a minimalist way, allowing them to submit requests quickly and efficiently. The form has been implemented to cater to a broad range of requests, including general inquiries, requests for information, and tasks that require prioritization and follow-up. To ensure that the requests are properly categorized and tracked, the form is set up to collect relevant information, including a brief general information section, a section for requestors' details, and fields for priority, description, assigned personnel, due date, and status. It is important to fill out the form completely and accurately to facilitate smooth processing and follow-up.
-
-</thinking>
-
 # Minimalist Request Form - Help Guide
 ## Purpose
 The Minimalist Request Form is designed to collect concise and essential information from users to help in processing and tracking requests efficiently.

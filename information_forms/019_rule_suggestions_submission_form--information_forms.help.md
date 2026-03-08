@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect rule suggestions from users, allowing them to submit their ideas for changes, additions, or deletions to rules. This form is intended for users to provide detailed descriptions of their suggestions, including the type of suggestion, its impact level, category, and priority. The form also asks for additional context, such as a suggestion image, video, audio, or document, if applicable. Furthermore, the form captures information about the submitter, including their name, email, phone number, department, job title, organization, location, date, time, and any additional comments or attached files. This form is crucial for the organization to collect and evaluate suggestions, which can lead to improvements and enhancements in their processes and operations.
-</thinking>
-
 # Rule Suggestions Submission Form - Help Guide
 ## Purpose
 The Rule Suggestions Submission Form is designed to collect suggestions from users for changes, additions, or deletions to rules. The form is meant to gather detailed information about each suggestion, including its type, impact level, category, and priority.

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form, "Management Representation Survey," is to collect feedback and insights from employees about their management and the working environment in their department or team. This survey is likely intended to help management identify areas of improvement and areas of success in order to make informed decisions about the well-being and productivity of their team members.
-
-Please check if the form is being used for other purposes and if it's not a duplicate of any existing forms in your organization.
-</thinking>
-
 # Management Representation Survey - Help Guide
 ## Purpose
 This survey is designed to gather information from employees about their experience with their manager and the department or team they are part of.

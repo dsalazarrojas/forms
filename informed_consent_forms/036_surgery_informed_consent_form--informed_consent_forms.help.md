@@ -1,22 +1,3 @@
-<thinking>
-The purpose of this form is to obtain informed consent from patients before undergoing surgery. The form is intended to ensure that patients understand the risks and benefits associated with the procedure, as well as their responsibilities and expectations after the surgery. This form is a crucial document that must be completed carefully to ensure the patient's safety and well-being.
-
-Checking for relevance:
-
-* The form is designed for medical procedures, specifically surgery, which is a high-risk and invasive medical intervention.
-* The form is used to obtain consent from patients, which is a critical aspect of the medical process.
-* The form is not intended for other purposes, such as patient feedback or surveys.
-
-Checking for duplication:
-
-* The form is a standard medical document, and similar forms are used in various medical settings.
-* The form is not a duplicate of another form, but rather a specific document designed for surgical procedures.
-* The form is designed to be clear, concise, and easy to understand for patients.
-
-Please note that the form is designed to be filled out by the patient, not by the healthcare provider. The healthcare provider is expected to review and sign the form as a witness or approver, but not as the primary filler-out.
-
-</thinking>
-
 # Surgery Informed Consent Form - Help Guide
 ## Purpose
 This form is designed to obtain informed consent from patients before undergoing surgery. It outlines the risks and benefits associated with the procedure, as well as the patient's responsibilities and expectations after the surgery.

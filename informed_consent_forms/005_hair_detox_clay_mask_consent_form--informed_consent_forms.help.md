@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to obtain informed consent from clients for a hair detox clay mask treatment. This form is intended to collect information about the client's details, health status, and treatment options, as well as obtain their electronic signature. It is essential to ensure that clients understand the treatment and its implications before proceeding.
-</thinking>
-
 # Hair Detox Clay Mask Consent Form - Help Guide
 ## Purpose
 This form is designed to obtain informed consent from clients for a hair detox clay mask treatment. It is meant to ensure that clients understand the treatment and its implications before proceeding.

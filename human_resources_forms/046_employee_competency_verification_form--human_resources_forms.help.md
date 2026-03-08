@@ -1,7 +1,3 @@
-<thinking>
-This form is used by HR department for verifying employee's competencies in order to ensure the organization is meeting the required standards in terms of job skills and knowledge. It is crucial to prevent non-duplication of work and ensure consistency throughout the organization. The form is designed to collect relevant information about the employee, including job title, years of experience, relevant skills, education background, previous work experience, and the date and time of the verification process. The employee's competencies will be evaluated based on the collected data and this will help HR department in taking necessary steps to upskill or reskill the employee as per the requirement. This form is meant for internal use only and should not be shared with external parties without permission from HR department.
-</thinking>
-
 # Employee Competency Verification Form - Help Guide
 
 ## Purpose

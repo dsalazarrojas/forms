@@ -1,9 +1,3 @@
-<thinking>
-  As the form designer and technical writer, I'm going to create a help guide that is concrete, concise, and practical for end-users to understand the purpose and completion of the Life Verification Submission Form.
-  The Life Verification Submission Form is a tool to collect information from users to verify certain aspects of their life. This form is designed to be filled out by users who need to confirm or deny certain details about their life.
-  Before starting the form, please note that each field is optional unless marked as required.
-</thinking>
-
 # Life Verification Submission Form - Help Guide
 ## Purpose
 The Life Verification Submission Form is a tool to collect information from users to verify certain aspects of their life.

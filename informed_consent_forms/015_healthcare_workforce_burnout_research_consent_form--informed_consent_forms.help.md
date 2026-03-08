@@ -1,14 +1,3 @@
-<thinking>
-This form is for obtaining informed consent from participants in a healthcare workforce burnout research study. It collects information from the participant, including their details, consent date, and signature. The form also includes fields for the researcher's signature and other options related to data collection and form building.
-
-Before proceeding, ensure that this form has not been previously created or used in your organization. If you're unsure, please review the form's metadata, which includes the category, title, and date it was created, as well as the "No Code Form Builder" options, which should match your organization's policies and procedures.
-
-Also, note that the "Drag And Drop Interface" field seems to be a placeholder for a field type that's not actually present in the "participant_details" field. It's possible that this field was intended for a different type of data collection or a feature that's not currently supported in this form.
-
-To complete this form, follow these steps:
-
-</thinking>
-
 # healthcare_workforce_burnout_research_consent_form - Help Guide
 ## Purpose
 The healthcare workforce burnout research consent form is designed to collect informed consent from participants in a research study on healthcare workforce burnout. The form ensures that participants understand the study's purpose, risks, and benefits, and provides a way for the researcher to obtain consent from them.

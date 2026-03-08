@@ -1,8 +1,3 @@
-<thinking> 
-This form is used to collect information on debt collection placements. It is essential to have this information to accurately track and manage debt collections, ensuring that all necessary data is gathered to resolve collections efficiently. This form should not be completed for customers whose debt has already been collected or for customers who are not currently active in debt collection.
-
-</thinking>
-
 # online_debt_collection_placement_form - Help Guide
 ## Purpose
 This form is designed to help collect and manage debt collection information for customers. Please complete this form to provide accurate and complete data for each customer's debt collection.

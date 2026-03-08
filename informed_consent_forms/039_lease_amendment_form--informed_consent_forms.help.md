@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lease Amendment Form - Help Guide
 
 ## Purpose

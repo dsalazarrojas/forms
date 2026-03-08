@@ -1,6 +1,3 @@
-<thinking> 
-This form is likely used to report failures or issues related to lighting systems or equipment. It's designed to gather information about incidents or problems encountered in the context of lighting failures. Given the repetitive structure of the form with 25 pages, it might be intended for detailed reporting or incident investigation. The form's name, "Lighting Failure Incident Form", suggests that it's focused on documenting specific incidents or events related to lighting failures. The form might be used by maintenance teams, facilities managers, or other personnel responsible for maintaining or managing lighting systems to report and investigate incidents such as equipment malfunctions, power outages, or other issues affecting lighting performance.</thinking>
-
 # Lighting Failure Incident Form - Help Guide
 ## Purpose
 

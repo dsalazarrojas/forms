@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Corporate Retreat Accommodation Form - Help Guide
 ## Purpose
 This form is used to gather information about participants attending a corporate retreat. The purpose of this form is to ensure that all participants have their accommodation preferences and contact information recorded for the event organizers. This form is typically filled out by participants in advance of the retreat.

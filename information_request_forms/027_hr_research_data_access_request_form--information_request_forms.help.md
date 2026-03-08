@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to request access to HR data for research purposes. The form is intended for employees who need to access specific HR data for legitimate business reasons, such as data analysis, compliance reporting, or employee development. It's essential to ensure that only authorized personnel submit this form to prevent unauthorized data access. To avoid duplication, please check the form's submission history before submitting a new request.
-</thinking>
-
 # HR Research Data Access Request Form - Help Guide
 ## Purpose
 The HR Research Data Access Request Form is a document that allows authorized personnel to request access to HR data for legitimate business purposes. This form is designed to ensure that only approved employees can access sensitive employee information.

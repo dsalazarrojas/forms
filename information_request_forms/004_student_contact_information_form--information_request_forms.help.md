@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect contact information from students. This form should only be used to collect new contact information. 
-The form is intended to be used by students to provide their contact details, which will be used for academic or other administrative purposes. 
-Please ensure you only submit this form once, as submitting multiple forms may lead to duplicate records.
-</thinking>
-
 # Student Contact Information Form - Help Guide
 ## Purpose
 The Student Contact Information Form is used to collect contact information from students for academic or administrative purposes.

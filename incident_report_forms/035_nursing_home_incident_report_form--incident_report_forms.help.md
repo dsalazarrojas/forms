@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to capture details of incidents that occur within a nursing home setting. It's a crucial tool for tracking and documenting incidents, ensuring timely and accurate reporting. To avoid duplication, please only submit one report per incident.
-
-This form will help you provide a clear and concise account of what happened, including information about the resident involved, the incident type, date, and time, as well as details about the staff members involved and the outcome of the incident. 
-
-The purpose of this form is to gather relevant information to aid in incident review and follow-up actions. Please ensure that all required fields are filled in for thorough incident reporting.
-
-</thinking>
-
 # Nursing Home Incident Report Form - Help Guide
 ## Purpose
 

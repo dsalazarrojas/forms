@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to be used by evaluators to assess a Junior Associate's performance, communication, and teamwork skills. It is designed to capture specific attributes of the Junior Associate's skills and behaviors, and is used to help inform their growth and development within the organization. Before proceeding, please note that this form should only be used for the evaluation of Junior Associates, and any feedback or evaluations should be specific to the individual being assessed. It is essential to avoid duplicating efforts and ensure that each form is filled out with a specific and unique assessment of the individual's skills and abilities.
-
-</thinking>
-
 # Junior Associate Evaluation Form - Help Guide
 ## Purpose
 The Junior Associate Evaluation Form is used to assess a Junior Associate's performance, communication, and teamwork skills, providing feedback for their growth and development within the organization.

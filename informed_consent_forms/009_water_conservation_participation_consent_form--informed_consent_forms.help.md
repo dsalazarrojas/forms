@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Water Conservation Participation Consent Form - Help Guide
 
 ## Purpose

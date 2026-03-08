@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect individual tax return information for tax filing purposes. It should only be used for individuals who need to submit their tax returns. This form is likely to be used by tax authorities, tax advisors, or individuals who need to file their taxes. To ensure accuracy and completeness, please review this form carefully before submitting. 
-
-The form is designed to be filled out by a single individual, hence the name "Individual Tax Return Information Form." It is not intended for businesses or other entities that may have different tax filing requirements. Please ensure that you are completing the form for yourself and not for someone else.
-</thinking>
-
 # Individual Tax Return Information Form - Help Guide
 ## Purpose
 This form is designed to collect individual tax return information for tax filing purposes. It is intended for individuals who need to submit their tax returns to the relevant tax authorities.

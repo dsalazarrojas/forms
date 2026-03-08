@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to gather informed consent for accessing digital library resources. 
-It is designed for users who wish to access library resources, including materials and permissions. 
-The form ensures that users understand and agree to the terms of use and access. 
-Please fill out the form accurately and completely, and make sure to review each field carefully to ensure you are meeting the required information. 
-If you have any doubts or questions, do not hesitate to reach out to us.
-</thinking>
-
 # digital_library_resource_case_consent_form - Help Guide
 ## Purpose
 The "digital_library_resource_case_consent_form" is a form used to gather informed consent for accessing digital library resources. It ensures users understand and agree to the terms of use and access to these resources.

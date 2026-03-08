@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for employees to request a fiscal leave of absence from work, allowing them to take time off for personal reasons such as family or medical leave, bereavement, or other approved reasons. The form is a simple text-based form that collects relevant information to process the leave request.
-
-Before starting, please review this form to ensure you are eligible for a fiscal leave of absence and that the leave duration is not excessively long, which may impact work performance and other employees' productivity. Also, check if you've already submitted a leave request for the same dates as you're requesting now. If so, this form will not be processed.
-
-</thinking>
-
 # Fiscal Leave Of Absence Request - Help Guide
 ## Purpose
 The purpose of this form is to help employees request a fiscal leave of absence from work. This form collects necessary information to process the leave request and ensure it is approved according to company policies.

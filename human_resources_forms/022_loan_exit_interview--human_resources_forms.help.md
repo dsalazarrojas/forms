@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # loan_exit_interview - Help Guide
 ## Purpose
 The loan exit interview form is used to collect information from employees who are leaving the company. This includes loan details, contact information, repayment options, and a summary of the employee's experience. This form helps the HR department to gather valuable insights and feedback from exiting employees to improve the company's loan policies and processes.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # public_sector_modernization_contact_form - Help Guide
 
 ## Purpose

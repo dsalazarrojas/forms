@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect sensitive information from clients about their medical history, contact information, and emergency contacts, as well as their agreement to participate in a skincare program. The form ensures that clients understand their rights and responsibilities, and the terms of the program they are about to participate in. This information will be used to ensure the safety and well-being of clients, and to provide them with the necessary care and attention they require. 
-Please note that the client agreement is not a legal document and is only meant to be a guide for the clients and the program administrators. It is essential to carefully read and fill out this form accurately and completely. Any inaccuracies or missing information may lead to miscommunication or misdiagnosis.
-</thinking>
-
 # Skincare Client Agreement Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from clients about their medical history, contact information, and agreement to participate in the skincare program.

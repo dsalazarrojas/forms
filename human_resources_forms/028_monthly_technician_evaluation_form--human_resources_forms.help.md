@@ -1,12 +1,3 @@
-<thinking>
-We have a requirement to create a user-facing help guide for the "monthly_technician_evaluation_form" form. This form is likely used by managers or administrators to evaluate a technician's performance on a monthly basis. It may be used to gather feedback on a technician's work, identify areas of improvement, and track progress over time.
-
-Before starting, we should confirm that this form is not already available in the system, and that it doesn't overlap with any existing forms or processes.
-
-This form has several fields, each with its own purpose and requirements. To create the help guide, we'll break down each field and explain its meaning and how to complete it.
-
-</thinking>
-
 # monthly_technician_evaluation_form - Help Guide
 ## Purpose
 The monthly technician evaluation form is used to gather feedback on a technician's performance, identify areas for improvement, and track progress over time.

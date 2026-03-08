@@ -1,7 +1,3 @@
-<thinking>
-The Volunteer Database form is a crucial tool for managing volunteer information, ensuring accurate and efficient volunteer management. This form is not meant to be a substitute for more extensive volunteer management systems, but rather a simplified way to collect and store basic volunteer details. It is expected that users will be using the form in conjunction with other systems to ensure consistency and accuracy in their volunteer management practices.
-</thinking>
-
 # Volunteer Database - Help Guide
 ## Purpose
 The Volunteer Database form is designed to collect and store essential information about volunteers. This information includes personal details, contact information, and volunteer-related data. The form is intended to be used in conjunction with other systems for comprehensive volunteer management.

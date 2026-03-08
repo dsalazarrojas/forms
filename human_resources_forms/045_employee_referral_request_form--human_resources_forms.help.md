@@ -1,7 +1,3 @@
-<thinking>
-This form is used for tracking and documenting job postings and job openings. It is designed to collect relevant information from employees and managers to facilitate the job posting process. Before completing this form, please ensure that you have reviewed the relevant company policies and procedures. If you have already submitted a job posting, do not submit it again, as it may cause duplication of work.
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is used to capture information about job postings and job openings, including job titles, job types, departments, job levels, job categories, job status, employee referrals, email, phone numbers, notes, submitted by information, submitted dates and times, job descriptions, job requirements, and job openings.

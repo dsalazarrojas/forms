@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a dam breach incident, which is a critical event that can have significant consequences on the environment and people. To ensure that the incident is properly documented and addressed, it's essential to fill out this form accurately and thoroughly. Before starting, please check that you're not duplicating the form for an incident that has already been reported. If you're unsure about the incident's nature or severity, consult with your team or supervisor before proceeding.
-</thinking>
-
 # Dam Breach Incident Form - Help Guide
 ## Purpose
 The Dam Breach Incident Form is used to document and report incidents of dam breaches, which can cause significant environmental and social impacts. This form is used to gather essential information about the incident, including emergency contacts, dam description, location, incident summary, type, and status.

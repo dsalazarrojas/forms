@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about fire safety protocols and measures in place at a site. It is crucial to ensure the accuracy and completeness of this information, as it will be used to assess the site's fire safety status. Before proceeding, please ensure you are filling this form for the correct site and have all the necessary information readily available. If you are unsure about any field, please consult with the site's authorities or refer to the relevant documents. Please note that some fields may require specific information, so make sure to answer accordingly.
-</thinking>
-
 # Fire Safety Information Collection - Help Guide
 ## Purpose
 This form is designed to collect fire safety information for a site. It is essential to fill this form accurately and thoroughly to assess the site's fire safety status.

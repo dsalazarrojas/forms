@@ -1,5 +1,3 @@
-<thinking>As a manager or supervisor, recommending an employee to a job opening is a crucial step in helping them grow professionally and personally in their career. This form is designed to help facilitate the process by providing a structured way to provide details about the employee and the job opening. To ensure that this form is filled out correctly, please check that the employee is eligible for the job opening and that it is not a duplicate recommendation. The goal is to provide a clear and concise way to recommend an employee for a job opening.</thinking>
-
 # Employee Recommendation Referral Form - Help Guide
 ## Purpose
 This form is used to recommend an employee for a job opening. Please provide as much detail as possible to help the candidate get the best possible outcome.

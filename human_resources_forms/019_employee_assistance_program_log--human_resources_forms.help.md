@@ -1,27 +1,3 @@
-<thinking>
-
-The purpose of the Employee Assistance Program Log form is to track the progress and history of employee assistance sessions, providing a clear and detailed record of the sessions' outcomes, next steps, and any follow-up actions required. This form ensures that all necessary information is collected and documented in a standardized manner, helping the HR team to efficiently manage employee assistance cases and provide consistent support to employees.
-
-Before starting to complete this form, please ensure that you are authorized to access and edit employee data. If you are unsure about the form's purpose or your role in completing it, please reach out to your HR representative for clarification.
-
-To complete this form, follow these steps:
-
-1. Enter the employee's ID number in the "Employee ID" field.
-2. Select the date of the assistance session in the "Session Date" field.
-3. Choose the topic of the session from the "Session Topic" field.
-4. Provide a brief description of the session in the "Session Notes" field.
-5. Indicate whether the session was referred by an internal or external source in the "Referral Source" field.
-6. Select the current follow-up status of the session in the "Follow-up Status" field.
-7. Enter the date for the next follow-up action in the "Follow-up Date" field.
-8. Provide any additional information or notes regarding the next steps in the "Follow-up Notes" field.
-9. Select the follow-up frequency and method in the "Follow-up Frequency" and "Follow-up Method" fields.
-10. Indicate whether the employee is active or inactive in the "Employee Status" field.
-11. Select the next follow-up status in the "Follow-up Status 2" field.
-12. Enter the date for the next follow-up action in the "Next Follow-up Date" field, if applicable.
-13. Leave any additional comments or notes in the "Notes" field.
-
-</thinking>
-
 # Employee Assistance Program Log - Help Guide
 ## Purpose
 The purpose of this form is to track employee assistance sessions and ensure consistent and efficient support.

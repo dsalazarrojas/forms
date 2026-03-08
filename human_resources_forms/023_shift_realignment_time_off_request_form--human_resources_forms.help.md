@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request a realignment of an employee's shifts. To be eligible to complete this form, an employee must be eligible for a shift realignment. This form is not intended for employees seeking time off for vacation, sickness, or other non-realignment reasons. Please do not submit this form if you are seeking time off for reasons other than shift realignment. Before completing this form, review the fields carefully and ensure all required fields are filled out completely.
-</thinking>
-
 # Shift Realignment Time Off Request Form - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-A Twitch Survey form is designed to collect feedback and ratings from users who watch streams on the platform. This form is intended for streamers to gather insights about their audience's preferences, such as what type of content they enjoy watching and how they perceive the streamer's performance. By completing this form, users can provide their feedback and rating, which can help streamers improve their content and engagement with their audience.
-
-This form should not be filled out by streamers themselves, as the purpose is to gather feedback from the audience. Streamers may use this information to adjust their content and strategy to better serve their audience.
-
-Please ensure you are only filling out this form if you are a valid Twitch user. If you are not a valid user, please do not fill out this form.
-
-This form is only to be filled out once by each user, and any repeated submissions from the same user will be ignored.
-</thinking>
-
 # Twitch Survey - Help Guide
 ## Purpose
 

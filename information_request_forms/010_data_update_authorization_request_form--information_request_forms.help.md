@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Data Update Authorization Request Form - Help Guide
 ## Purpose
 This form is used to request authorization for updating data. It is intended for employees who need to make changes to their personal data or other relevant information. The form is used to verify that the update is legitimate and to ensure that all necessary approvals are in place.

@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my first step is to analyze the provided YAML file and understand the form's purpose and structure. Based on the YAML, the form is a Restaurant Incident Report Form, which is likely used to report incidents or accidents that have occurred within a restaurant setting. Each field in the form seems to be designed to collect specific information about the incident, such as the date and time it occurred, the location, witnesses, and supporting documents. The form also asks if there were witnesses and if supporting documents are attached. The fields are mostly optional, which suggests that the form is designed to be used in various situations, not just in emergency situations.</thinking>
-
 # Restaurant Incident Report Form - Help Guide
 ## Purpose
 The Restaurant Incident Report Form is a tool used to report incidents or accidents that have occurred within a restaurant setting. This form helps to document the details of the incident, which can aid in investigations, risk management, and staff training.

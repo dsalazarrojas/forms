@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to request a work permit extension. It is meant to be filled out by employees who need to extend their work permit. This form is not intended for other purposes, and submitting a duplicate request will not be processed. The form is designed to gather essential information from the employee to support their work permit extension request. Before filling out this form, please ensure that you have a valid reason for requesting an extension and that you have not already submitted a similar request. If you are unsure about any of the fields, please refer to the explanation provided below.
-</thinking>
-
 # Work Permit Extension Form - Help Guide
 ## Purpose
 The Work Permit Extension Form is a document used to request an extension of a work permit. It is essential for employees who need to continue working on their current project beyond the original deadline.

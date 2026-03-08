@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to capture information about a permanent placement of a candidate in the company's human resources management system. The form is used to record and track permanent placements, including placement details, candidate information, and job details. Before filling out this form, please make sure that the placement is indeed permanent and that you are not duplicating an existing entry. This form is intended for use by authorized personnel only.
-
-</thinking>
-
 # Permanent Placement Form - Help Guide
 ## Purpose
 

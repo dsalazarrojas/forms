@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect general information from users, likely for internal purposes such as feedback, inquiries, or other non-specific uses not related to a particular issue or project. Please ensure that you fill out this form only if it's relevant to your needs, and not if you're just duplicating efforts or submitting unnecessary information.
-</thinking>
-
 # General Notes Collection Form - Help Guide
 ## Purpose
 This form is a collection of general notes and information from users. It's meant to be a catch-all for any non-specific feedback, inquiries, or other internal purposes.

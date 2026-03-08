@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to process fitness reimbursement claims from employees. The form is used by HR or management to verify employee information and approve or deny reimbursement requests. The form should only be filled out by employees who are submitting a request for reimbursement for gym memberships, class fees, or other fitness-related expenses. The form will be used to ensure that all required information is accurate and up-to-date.
-
-The form is not intended to be a one-time submission. Employees who have previously submitted a reimbursement form should not need to re-submit all their information again. However, any changes to their employment status, employee type, or other relevant information may require an updated submission.
-
-To ensure that the form is filled out correctly, it's essential to review each field carefully and provide accurate information.
-
-</thinking>
-
 # Fitness Reimbursement Form - Help Guide
 
 ## Purpose

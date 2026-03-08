@@ -1,11 +1,3 @@
-<thinking>
-This form is used to gather information about an employee's work from home arrangement, including their home address, work address, work from home start and end dates, work schedule, and other relevant details. The purpose of this form is to ensure that the employee's work from home arrangement is set up and managed properly.
-
-To avoid duplication of data and ensure accurate information, please ensure that you are using this form for a new or updated work from home arrangement, and not for duplicate purposes.
-
-Please note that some of the fields in this form are optional and are only required for specific scenarios or situations.
-</thinking>
-
 # Work From Home Business Questionnaire - Help Guide
 ## Purpose
 This form is used to gather information about an employee's work from home arrangement, including their home address, work address, work from home start and end dates, work schedule, and other relevant details.

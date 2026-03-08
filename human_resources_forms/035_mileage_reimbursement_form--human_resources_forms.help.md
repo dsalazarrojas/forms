@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help employees track and manage mileage reimbursement claims. The form captures important details about a travel, including travel dates, start and end times, mileage amount, and reimbursement amount. It also includes fields for providing reason for travel, business purpose, expense details, and comments. The form's approval status and reimbursement status are also tracked, allowing for efficient and organized management of mileage reimbursement claims. It's likely intended for internal use within a company or organization.
-</thinking>
-
 # Mileage Reimbursement Form - Help Guide
 ## Purpose
 This form is used to track and manage mileage reimbursement claims for company travels.

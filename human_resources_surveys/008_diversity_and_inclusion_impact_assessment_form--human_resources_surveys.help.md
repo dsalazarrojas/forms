@@ -1,7 +1,3 @@
-<thinking>...The purpose of this form is to collect data on the impact assessment of diversity and inclusion within an organization's team members and departments. This form is likely used by HR teams to analyze and improve diversity initiatives and inclusion practices within the company...
-
-</thinking>
-
 # Diversity And Inclusion Impact Assessment Form - Help Guide
 ## Purpose
 

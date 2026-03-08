@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for a piercing consultation, which is a crucial step in the process of getting a piercing. The form is designed to collect client information, piercing details, and contact information for emergency and follow-up purposes. By filling out this form, clients will be able to provide their consent for the piercing procedure, and the practitioner will have a clear understanding of their medical history, allergies, and contact information. This form ensures that the practitioner has all the necessary information to perform the piercing safely and effectively.
-</thinking>
-
 # Piercing Consultation Form - Help Guide
 ## Purpose
 The Piercing Consultation Form is a necessary step in the piercing process. This form helps the practitioner understand your medical history, allergies, and contact information, ensuring a safe and effective piercing experience.

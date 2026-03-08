@@ -1,11 +1,3 @@
-<thinking>
-
-To minimize duplication and ensure relevance, we will focus on providing clear and concise guidance on this form, assuming that end-users are familiar with basic form completion principles. We will also assume that the form's purpose is to gather information from users for strategic workforce planning within the Human Resources department. This form will help to centralize and standardize communication, making it easier to track and manage workforce requests.
-
-Before filling out this form, please make sure to review the information carefully and ensure that all required fields are completed accurately. If you are unsure about any field or section, please don't hesitate to ask for clarification or assistance from the Human Resources team.
-
-</thinking>
-
 # Strategic Workforce Planning Contact Form - Help Guide
 ## Purpose
 The Strategic Workforce Planning Contact Form is designed to facilitate communication and information gathering from users within the Human Resources department for workforce planning purposes. This form will help to centralize and standardize the request process, ensuring that all necessary information is collected and managed effectively.

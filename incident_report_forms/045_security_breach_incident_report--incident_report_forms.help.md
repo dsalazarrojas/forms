@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about security breaches or incidents that have occurred within an organization. The purpose of this form is to gather details about the incident, including the level of security involved, the location and time of the incident, and the actions taken to address it. This form is intended to be used by security teams, operations teams, or management to record and track security incidents.
-</thinking>
-
 # Security Breach Incident Report - Help Guide
 ## Purpose
 This form is designed to collect information about security breaches or incidents that have occurred within an organization.

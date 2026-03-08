@@ -1,18 +1,3 @@
-<thinking>
-This form is intended to gather feedback and perceptions from employees on diversity, equity, and inclusion (DEI) in the workplace. The purpose is to identify areas of improvement and track progress over time. This form is a tool for employees to express their thoughts and opinions on various DEI-related topics. It's recommended that employees complete this form thoroughly and honestly.
-
-To ensure consistency and accuracy, this form is being used for all employees. If you have already completed this form, please be aware that it may be reused in future surveys. 
-
-The survey questions are designed to be thought-provoking and encourage employees to share their genuine thoughts. Your responses will help create a more inclusive and equitable work environment. Please take your time and answer each question as thoroughly as possible.
-
-Before proceeding, please note that:
-
-*   All answers are anonymous, but they might be shared with HR and management to help improve workplace policies and procedures.
-*   Your feedback will be treated with confidentiality and respect.
-*   You will have the option to add any additional comments or feedback in the last section.
-
-</thinking>
-
 # DEI Perception Employee Survey Form - Help Guide
 ## Purpose
 This form is designed to gather information on employees' perceptions of diversity, equity, and inclusion in the workplace. Your responses will help us identify areas of improvement and create a more inclusive and equitable work environment.

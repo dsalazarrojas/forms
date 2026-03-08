@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Talent Management Strategy Effectiveness Poll - Help Guide
 
 ## Purpose

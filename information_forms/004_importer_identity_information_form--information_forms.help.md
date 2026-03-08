@@ -1,13 +1,3 @@
-<thinking>
-  To confirm, the form purpose is to collect information about importers for administrative and organizational purposes.
-  This form will be used to capture details such as first name, last name, email, and phone number for importers.
-  The form is not required and will not be used for any other purposes beyond the intended use.
-  No field is marked as required.
-  All fields are text or email type, except none are actually email.
-  There seems to be duplication of the "email" field with an id of 4.
-  It's possible that the field with id 4 is meant to be a phone number, but it has the same label as the "email" field with id 3.
-</thinking>
-
 # Importer Identity Information Form - Help Guide
 ## Purpose
 The Importer Identity Information Form is used to collect information about importers for administrative and organizational purposes. This form is meant to provide a way for importers to share their details with your organization.

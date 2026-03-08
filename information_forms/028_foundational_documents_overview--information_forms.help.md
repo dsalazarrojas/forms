@@ -1,8 +1,3 @@
-<thinking>
-This help guide will assist end-users in understanding the purpose and usage of the "Foundational Documents Overview" form. The form is designed to collect information about foundational documents, which are essential records that provide a foundation for other documents or processes. This form is typically used to maintain a comprehensive overview of these documents, ensuring that the organization has a clear understanding of its foundational documents.
-Before completing this form, ensure that you have reviewed the relevant organizational policies and procedures related to foundational documents. This form should not be used to create duplicate records; instead, it is designed to update or maintain existing ones.
-</thinking>
-
 # Foundational Documents Overview - Help Guide
 ## Purpose
 The "Foundational Documents Overview" form is used to collect and maintain information about the organization's foundational documents. This form is essential for tracking and managing these documents effectively.

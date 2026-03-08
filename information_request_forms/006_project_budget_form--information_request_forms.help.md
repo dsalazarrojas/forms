@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for project budget planning and estimation. It will guide project managers and team members in creating a comprehensive project budget plan. The form is designed to be completed in multiple pages, each focusing on a different aspect of project budgeting. To ensure accurate and complete responses, please review each page carefully and provide detailed information where required. Please note that all fields are optional unless marked as required. This form is not meant to be used for any other purpose.
-</thinking>
-
 # Project Budget Form - Help Guide
 ## Purpose
 The Project Budget Form is a tool used to estimate and plan project budgets for projects. It is designed to help project managers and team members gather and organize financial information necessary for project planning and execution.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to update employee records, collecting information such as employee ID, name, department, job title, date of birth, email, phone number, and the reason for the update. This form is likely used by HR or administration personnel to make changes to employee data in the organization's database. Before proceeding, please ensure you have the necessary permissions and authorization to access and update employee records.
-</thinking>
-
 # Employee Records Update Form - Help Guide
 ## Purpose
 The Employee Records Update Form is a tool for updating employee information in the organization's database. Use this form to make changes to existing employee records, ensuring that the data is accurate and up-to-date.

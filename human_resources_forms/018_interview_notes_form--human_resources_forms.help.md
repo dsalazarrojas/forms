@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from interviews conducted within the company. 
-The purpose of the form is to ensure that all relevant details of the interview are documented, and any feedback or assessments provided during the interview are captured. 
-The information gathered from this form will be used to improve future interviews and help in decision-making processes. 
-It is a general form and does not cater to any specific company. 
-The information provided in the form should be relevant to the interview and not a copy-paste or a duplicate of the content from the original interview notes. 
-</thinking>
-
 # Interview Notes Form - Help Guide
 ## Purpose
 This form is designed to collect detailed information from interviews, including candidate information, assessments, and feedback. It helps in documenting the process and providing valuable insights for future references.

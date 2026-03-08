@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to request additional score reports, which are used to verify student records and provide detailed information about a student's performance on a specific test or assessment. Before completing this form, please ensure that the request is legitimate and not an attempt to obtain sensitive information. Also, please be aware that duplicate requests may be denied.
-</thinking>
-
 # Additional Score Report Request Form - Help Guide
 ## Purpose
 The Additional Score Report Request Form is used to request additional score reports for students. This form is typically used by administrators or authorized personnel to verify student records and gather detailed information about a student's performance on a specific test or assessment.

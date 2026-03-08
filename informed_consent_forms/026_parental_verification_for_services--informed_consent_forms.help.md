@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information from parents or guardians regarding their consent for services and follow-up actions. The form is likely to be used in a business setting, such as a healthcare or educational institution, where parents or guardians need to provide permission for their children to participate in certain activities or programs.
-
-To ensure the form is used correctly, the following checks will be performed:
-
-*   Only one form should be filled out per child.
-*   The form should not be filled out by the person being verified (e.g., the child).
-</thinking>
-
 # Parental Verification For Services - Help Guide
 ## Purpose
 This form is used to gather parental consent and contact information for services provided to children or students. It is essential to fill out this form accurately and honestly to ensure the best possible outcomes for the child.

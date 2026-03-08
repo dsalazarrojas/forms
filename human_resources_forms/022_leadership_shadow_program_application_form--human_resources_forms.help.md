@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for employees to apply for the Leadership Shadow Program, which is a professional development initiative that allows staff members to work closely with senior leaders in various roles and projects to gain experience, build relationships, and develop leadership skills. This program is usually open to employees with at least 6 months of service. The form requires information such as name, contact details, program interest area, and essay for additional context. Please ensure that you have read this help guide thoroughly before submitting the application.
-</thinking>
-
 # Leadership Shadow Program Application Form - Help Guide
 ## Purpose
 The Leadership Shadow Program Application Form is a form designed for employees to apply for the Leadership Shadow Program. This program allows staff members to work closely with senior leaders, gain experience, build relationships, and develop leadership skills.

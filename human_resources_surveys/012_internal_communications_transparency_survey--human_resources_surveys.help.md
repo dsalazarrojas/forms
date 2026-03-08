@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended to assist employees in completing the Internal Communications Transparency Survey, which aims to gather insights into the current state of internal communications within the organization. The survey is not a performance evaluation tool, but rather a tool to help identify areas of improvement. Please ensure that your responses are honest and reflective of your true experiences. If you have already completed a similar survey, please do not duplicate your responses. Your feedback is essential in helping us better understand our internal communications and make informed decisions to improve the workplace.
-
-Please note that the survey includes questions that may seem similar, but they are designed to capture different aspects of internal communications. For example, questions about manager-employee communications and open communications initiatives are not meant to be redundant, but rather, they aim to understand the nuances of communication styles and practices within the organization.
-</thinking>
-
 # Internal Communications Transparency Survey - Help Guide
 ## Purpose
 

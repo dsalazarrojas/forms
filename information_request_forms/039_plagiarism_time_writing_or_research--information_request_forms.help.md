@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from students about plagiarism and its occurrence in academic settings. It's meant for faculty members or administrators to understand the reasons why students might plagiarize and what periods in the academic calendar are more prone to plagiarism. This form is meant to be a quick and straightforward way to gather anonymous feedback from students. Please fill out this form carefully, and only if you're genuinely interested in providing honest feedback. 
-</thinking>
-
 # Plagiarism Time, Writing Or Research? - Help Guide
 ## Purpose
 The purpose of this form is to understand why students plagiarize and identify the periods in which plagiarism is more common. Your input will help the school's academic community better address plagiarism and improve the writing and research environment.

@@ -1,8 +1,3 @@
-<thinking> 
-This is a form designer and technical writer, and I have access to the form's inner workings. The demo request form is used to gather information from businesses interested in requesting a demo of our product. This form is meant to be filled out by business representatives who want to schedule a demo of our product. The purpose of this form is to ensure that we have the necessary information to follow up with the interested party and schedule the demo at their requested time and date. 
-
-</thinking>
-
 # Demo Request Form - Help Guide
 ## Purpose
 The Demo Request Form is designed to collect information from businesses interested in requesting a demo of our product. It is meant to be filled out by business representatives who want to schedule a demo of our product and gather more information about their interests and preferences.

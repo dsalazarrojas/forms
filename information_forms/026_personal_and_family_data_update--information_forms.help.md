@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect and update personal and family data from individuals. This form ensures that the provided information is accurate and up-to-date. Please note that submitting this form will update the existing data, so make sure to review the current data carefully before making any changes. Also, be aware that some fields might be required for specific purposes or regulations, and failure to fill them in completely might lead to delays or issues with the submission process.
-</thinking>
-
 # Personal And Family Data Update - Help Guide
 ## Purpose
 The Personal And Family Data Update form is used to collect and update personal and family data from individuals. This form helps ensure that the provided information is accurate and up-to-date.

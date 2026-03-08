@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used by HR departments or recruitment teams within an organization to collect information from individuals applying for jobs. This form would be used during the initial hiring process where applicants need to submit relevant information about their qualifications. It's designed to streamline the hiring process by having all necessary details in one place.
-</thinking>
-
 # Application For Employment Form - Help Guide
 ## Purpose
 The Application for Employment Form is a tool for individuals to provide relevant details about their qualifications when applying for a job position within an organization.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Small Estate Affidavit Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a deceased person's funeral home assignment, including details about the deceased's identity, funeral home contact information, and assignment status. This form should only be used for funeral home assignments that have been previously approved and are not currently being reviewed. 
-</thinking>
-
 # Funeral Home Assignment Form - Help Guide
 ## Purpose
 The Funeral Home Assignment Form is used to collect information about a deceased person's funeral home assignment, including details about the deceased's identity, funeral home contact information, and assignment status. This form is used to update the assignment status in the system.

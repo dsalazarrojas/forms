@@ -1,5 +1,3 @@
-<thinking>This form is designed to facilitate flexible work schedules in the context of human resources management. It allows employees to submit their requested work schedule adjustments, and managers to review and approve or decline these requests. This form aims to streamline the process of managing work schedules, promoting flexibility and work-life balance. To confirm that this form is relevant and not a duplicate, please ensure that it aligns with your organization's specific policies and procedures regarding flexible work schedules. If you have any questions or concerns, please contact form@gic.mx.</thinking>
-
 # Flexible Work Schedule Approval Form - Help Guide
 ## Purpose
 

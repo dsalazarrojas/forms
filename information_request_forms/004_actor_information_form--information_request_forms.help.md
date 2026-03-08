@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect actor information for various purposes, such as talent casting, production, or other industry professionals. This guide will explain how to complete the form correctly and ensure you understand what each field represents.
-</thinking>
-
 # Actor Information Form - Help Guide
 ## Purpose
 The Actor Information Form is used to collect essential details about an actor's identity, physical attributes, professional affiliation, and skills. Please fill out this form accurately and thoroughly to ensure that your information is up-to-date and correct.

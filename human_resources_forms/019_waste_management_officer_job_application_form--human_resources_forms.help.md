@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for applicants to provide information for the Waste Management Officer position. Please note that the form is not a comprehensive application package, and additional information may be required. Before filling out this form, ensure you have not already submitted an application for this position and that you are eligible to work in the relevant industry.
-
-</thinking>
-
 # Waste Management Officer Job Application Form - Help Guide
 ## Purpose
 This guide is to assist you in completing the Waste Management Officer job application form. The form is designed to collect information about your background, work experience, and availability for the position.

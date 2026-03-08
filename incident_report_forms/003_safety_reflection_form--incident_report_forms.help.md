@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is being used correctly and for its intended purpose to prevent duplication and ensure that the form is used as a tool for reflection and improvement, not as a substitute for other processes. This form is meant to be used for documenting and analyzing incidents to identify root causes and implement prevention measures. To avoid duplication of effort, please ensure that this form is used in conjunction with other relevant processes and procedures.
-</thinking>
-
 # Safety Reflection Form - Help Guide
 ## Purpose
 This form is used for documenting and analyzing incidents to identify root causes and implement prevention measures.

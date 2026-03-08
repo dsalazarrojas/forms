@@ -1,10 +1,3 @@
-<thinking>
-This section will explain the purpose and relevance of the form for the internal stakeholders.
-The "office_inventory_information_record_form" is used to record office inventory information. 
-This form is primarily used for keeping track of items in the office such as computers, chairs, or other office equipment. 
-It is a required form for all offices to maintain accurate inventory records.
-</thinking>
-
 # office_inventory_information_record_form - Help Guide
 ## Purpose
 The "office_inventory_information_record_form" is used to record office inventory information for accurate tracking and management of office items.

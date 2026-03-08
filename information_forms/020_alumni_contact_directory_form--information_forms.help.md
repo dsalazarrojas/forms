@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Alumni Contact Directory Form - Help Guide
 
 ## Purpose

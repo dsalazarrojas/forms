@@ -1,11 +1,3 @@
-<thinking>
-
-This guide is intended to inform users on how to properly complete the "Counseling Informed Consent Form". The form is designed to gather essential information about a client's identity, contact details, and emergency contact information. Its purpose is to ensure that the client is aware of the services provided and the expectations involved in the counseling process.
-
-Before proceeding, it's essential to review this guide carefully to ensure that all the necessary information is provided.
-
-</thinking>
-
 # Counseling Informed Consent Form - Help Guide
 ## Purpose
 

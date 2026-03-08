@@ -1,8 +1,3 @@
-<thinking>
-To determine the form's purpose and ensure relevance and non-duplication, I will review the provided YAML fields. The form appears to be a support request form for online course redesign. The fields suggest that the form is intended to gather information from users who want to request support or modifications to their online course. The form includes fields for contact details, course information, support request, and additional information. This form likely serves as a means for users to provide input and feedback on their course redesign experiences.
-
-</thinking>
-
 # Online Course Redesign Support Request Form - Help Guide
 ## Purpose
 This form is used to submit a support request for your online course. Please fill out this form to provide us with necessary details to improve your course experience.

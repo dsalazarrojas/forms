@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to capture employee information and consent for biometric time clock system deployment. It ensures that employees are aware of how their biometric data will be collected, stored, and used. The form aims to provide transparency and inform employees of their rights and responsibilities regarding biometric data collection.
-The form should only be completed by employees who have not previously signed the biometric consent form.
-The form will serve as a record of employee consent and understanding of biometric data collection and usage.
-</thinking>
-
 # Biometric Time Clock Consent Form - Help Guide
 ## Purpose
 This form is intended to obtain your consent for the use of biometric data collection, storage, and usage for the biometric time clock system.

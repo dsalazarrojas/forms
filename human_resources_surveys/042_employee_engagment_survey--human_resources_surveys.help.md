@@ -1,9 +1,3 @@
-<thinking>
-This guide is intended for employees who want to provide their feedback on employee engagement within their department or team. This form will help employees understand their role in the organization and how they contribute to the team's overall well-being. It is also useful for the HR department to collect feedback and make adjustments to improve the work environment.
-
-This form is meant to be completed by employees, and it's not meant to be duplicated or reused. Each field is designed to be filled out once for each employee.
-</thinking>
-
 # employee_engagment_survey - Help Guide
 ## Purpose
 The employee engagement survey is a tool used to gather feedback from employees on their role and how they contribute to the team's overall well-being.

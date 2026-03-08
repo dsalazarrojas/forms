@@ -1,10 +1,3 @@
-<thinking>
-This help guide is to assist users in understanding the Child Education Case Research Consent Form, used for obtaining informed consent from parents or guardians for participation in a research study involving children in educational settings.
-
-Before proceeding, please note that this form is to be completed only once, and it's essential to have a clear understanding of each question. If you have completed this form previously, there is no need to do so again.
-
-</thinking>
-
 # Child Education Case Research Consent Form - Help Guide
 ## Purpose
 This form is for obtaining informed consent from parents or guardians for their child's participation in a research study. It ensures that the individual has a clear understanding of the study's purpose, procedures, risks, and benefits.

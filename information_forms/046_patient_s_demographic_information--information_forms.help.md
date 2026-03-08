@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Patients Demographic Information - Help Guide
 ## Purpose
 This form collects essential personal details about a patient, including their first name, last name, date of birth, contact email, and phone number. This information is crucial for our team to effectively communicate and provide personalized care.

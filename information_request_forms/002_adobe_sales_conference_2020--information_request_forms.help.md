@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect information from attendees of the Adobe Sales Conference 2020. The purpose of this form is to gather essential details about each attendee, including their name, contact information, job title, industry, company size, experience with Adobe products, areas of interest, and other relevant information. This form will help the conference organizers understand the attendee profile and tailor the conference experience accordingly. By filling out this form, attendees can also provide any necessary accommodations or special requests for the conference.
-
-The form is divided into several sections, each with a specific set of questions. The first section collects general information about the attendee, such as their name, contact information, and job title. The second section asks about the attendee's industry and company size. The third section inquires about their experience with Adobe products and their primary areas of interest. The form also includes questions about the attendee's attendance status, any additional attendees, and any special needs or requests. Finally, the last section allows attendees to provide any additional comments or feedback.
-
-To ensure accurate and efficient processing, please fill out the form completely and accurately. If you have any questions or concerns, feel free to ask.
-</thinking>
-
 # Adobe Sales Conference 2020 - Help Guide
 ## Purpose
 This guide will walk you through the Adobe Sales Conference 2020 form, explaining each field's purpose and how to complete it accurately.

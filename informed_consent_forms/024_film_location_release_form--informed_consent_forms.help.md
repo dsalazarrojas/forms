@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about a film location, including the owner of the location, its address, the production company involved, the date and time of shooting, and any additional details that may be relevant. The form is likely to be used by film producers, directors, or production managers to collect necessary information from location owners before commencing filming. The form does not appear to be a part of any specific survey or study, so it is unlikely that the answers will influence any business decisions or policies.
-</thinking>
-
 # Film Location Release Form - Help Guide
 ## Purpose
 This form is used to collect information about a film location, including its owner, address, and other relevant details. This helps film producers and production teams gather necessary information before filming at the location.

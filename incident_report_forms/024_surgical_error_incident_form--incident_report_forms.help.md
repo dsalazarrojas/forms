@@ -1,7 +1,3 @@
-<thinking>
-  This form is designed to collect information on surgical errors or incidents that may have occurred during a medical procedure. Before filling out this form, please ensure that you have not already reported the incident, and that you have the necessary permissions to report an incident, such as being authorized by your hospital's administration or being the surgeon who performed the procedure. It's also essential to fill out the form accurately and thoroughly, as it will help in maintaining a reliable and accurate record of incidents.
-</thinking>
-
 # Surgical Error Incident Form - Help Guide
 ## Purpose
 The Surgical Error Incident Form is designed to collect information on incidents that may have occurred during a surgical procedure. This form helps identify and report any potential errors that could impact patient care and safety.

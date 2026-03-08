@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect and verify personal information, including names, contact details, and dates. It also asks for a selection of options to ensure that the user has a basic understanding of various concepts.
-The form has been designed to be as comprehensive as possible, with multiple fields for different types of information. However, some fields have been made optional to allow for flexibility and adaptability.
-The purpose of this form is to gather information about the user and their preferences or habits.
-</thinking>
-
 # personal_information_vocabulary_quiz - Help Guide
 ## Purpose
 This form is designed to collect and verify personal information, including names, contact details, and preferences or habits.

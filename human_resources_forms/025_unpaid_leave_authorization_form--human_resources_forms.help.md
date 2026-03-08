@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to document an employee's request for unpaid leave, providing a formal way to request time off without pay and to track the associated approval process. This process aims to ensure that both the employee and their manager are on the same page regarding the request, including its approval status.
-The form is designed to be filled out by the employee, and then signed and approved by their manager, ensuring transparency and consistency across all leave requests. The form includes fields for various information, such as employee details, dates, hours of leave, reason for leave, and comments.
-The purpose of the form is to standardize and streamline the process for requesting and managing unpaid leave, making it easier to keep track of employee requests and approvals.
-</thinking>
-
 # Unpaid Leave Authorization Form - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-To ensure that this help guide is accurate and relevant, I will analyze the form's purpose and fields to create a comprehensive and concise user-friendly guide.
-
-The form's purpose is to collect background information from immigration clients. This information will help the immigration service or organization to assess the applicant's eligibility for their services. The form aims to gather essential details about the client's background, including their personal and immigration history, to facilitate the application process.
-
-The guide will be structured to explain each field in a clear and concise manner, helping users understand what information is required and how to complete the form accurately.</thinking>
-
 # Background Information Intake For Immigration Clients - Help Guide
 ## Purpose
 This form is designed to collect background information from immigration clients. The goal is to gather essential details about the client's background, personal history, and immigration status to facilitate the application process.

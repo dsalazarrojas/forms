@@ -1,12 +1,3 @@
-<thinking>
-You are about to create a user-facing help guide for the "Client Information For Real Estate" form. This form collects client information for real estate purposes, including contact details, property preferences, and financial status. It's designed to gather essential data to provide personalized services to clients. Please ensure that the form is completed accurately and thoroughly to facilitate efficient communication and service delivery.
-
-Before proceeding, ensure that this form is not a duplicate or outdated. Double-check that the form's purpose and requirements match the intended use case. If there are any discrepancies, please revisit the form's configuration and update accordingly.
-
-Assuming the form is valid, let's move on to the help guide creation.
-
-</thinking>
-
 # Client Information For Real Estate - Help Guide
 ## Purpose
 This form is designed to collect essential client information for real estate purposes. It helps us understand your needs and preferences, enabling us to provide you with personalized services.

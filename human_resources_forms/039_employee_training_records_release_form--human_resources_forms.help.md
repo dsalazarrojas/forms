@@ -1,28 +1,3 @@
-<thinking>
-This form is used to release employee training records. The purpose of this form is to provide a way for employees to request release of their training records, which are documents that record an employee's training history. The form is used to capture the employee's name, ID, and training records status, as well as the reason for release and the submitter's information. This form is likely used by HR or training departments to manage employee training records.
-
-The form has multiple pages, each with its own set of fields. The form requires the following fields to be filled in:
-
-* Employee name: This is the name of the employee requesting the release of their training records.
-* Employee ID: This is the ID number of the employee requesting the release of their training records.
-* Training records: This field is used to select whether the training records should be released or not.
-* Reason for release: This is the reason why the employee is requesting the release of their training records.
-* Release date: This is the date when the training records are to be released.
-* Review date: This is the date when the training records were reviewed.
-* Review status: This field is used to select the status of the review.
-* Submitter name: This is the name of the person submitting the form.
-* Submitter email: This is the email address of the person submitting the form.
-* Submitter phone: This is the phone number of the person submitting the form.
-* Submitter department: This is the department of the person submitting the form.
-* Submitter job title: This is the job title of the person submitting the form.
-* Submitter job ID: This is the ID number of the person submitting the form.
-* Release by: This is the person or department that is releasing the training records.
-* Release by other: This is the name of the person or department that released the records if not a manager or director.
-* Reason for release other: This is the reason why the records were released if not by a manager or director.
-
-The form does not require all fields, and the user can choose which fields to fill in depending on the situation.
-</thinking>
-
 # Employee Training Records Release Form - Help Guide
 ## Purpose
 This form is used to release employee training records.

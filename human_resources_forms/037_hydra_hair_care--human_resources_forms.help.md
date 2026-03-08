@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information about Hydra hair care employees, including company details, job title, job level, job type, benefits, and contact information. This form will help managers and HR personnel to track and manage employee data accurately. Please ensure that you are filling out this form for the correct purpose and only once for each employee to avoid duplication of efforts.
-
-</thinking>
-
 # Hydra Hair Care - Help Guide
 ## Purpose
 This form is used to collect information about Hydra Hair Care employees, including company details, job title, job level, job type, benefits, and contact information. 

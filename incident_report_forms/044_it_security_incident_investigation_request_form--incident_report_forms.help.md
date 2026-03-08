@@ -1,14 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the "it_security_incident_investigation_request_form" form. Before proceeding, please ensure that:
-* The incident is not a duplicate or a repeat of a previously reported incident.
-* The form is being used for its intended purpose, which is to report a security incident for investigation and resolution.
-
-To avoid duplication, ensure that you have not already submitted an incident report for this particular issue. If you are unsure or have questions about the form, please reach out to your IT security team.
-
-Please note that the form has multiple sections, each with specific questions to gather detailed information about the incident.
-
-</thinking>
-
 # it_security_incident_investigation_request_form - Help Guide
 
 ## Purpose

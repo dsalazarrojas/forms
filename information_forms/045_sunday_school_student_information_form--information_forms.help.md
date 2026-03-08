@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # sunday_school_student_information_form - Help Guide
 ## Purpose
 The "sunday_school_student_information_form" form is used to collect relevant information about a student attending Sunday school. The form includes fields for student name, address, phone number, email, date of birth, grade level, and contact information for a guardian and emergency contact person.

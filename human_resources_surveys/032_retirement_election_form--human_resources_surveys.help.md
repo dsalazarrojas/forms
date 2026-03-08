@@ -1,7 +1,3 @@
-<thinking>
-To ensure this form is used correctly and effectively, please check that the "Retirement Election Form" is required for all employees who are approaching their retirement. This form is used to collect demographic information and schedule details from employees who are choosing to retire. The form should not be used for other purposes, such as requesting vacation or leave. Duplicate entries should be avoided, as this can cause confusion and impact reporting accuracy.
-</thinking>
-
 # Retirement Election Form - Help Guide
 ## Purpose
 The "Retirement Election Form" is a document used to collect information from employees who are choosing to retire. This form helps the HR department understand the employee's retirement date, name, and other relevant details.

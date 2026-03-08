@@ -1,7 +1,3 @@
-<thinking>
-We're creating a form that allows users to request student information for various purposes such as school administration. This form will help us understand the requirements of each user and tailor our response to their needs. To avoid duplication, we'll ensure that users can only access this form once per semester.
-</thinking>
-
 # Student Information Request Form - Help Guide
 ## Purpose
 This form is a tool for requesting student information, which will be used to process and tailor our response to individual needs for school administration purposes.

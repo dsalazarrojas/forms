@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from employees who are leaving the company. It is designed to capture details about their job title, job description, reporting manager's response, department, job status, reason for leaving, and next move. This form is intended for use in an exit interview process, and the data collected will help in understanding the reasons for employee departures and improve the company's policies and procedures.
-</thinking>
-
 # exit_interview_declaration_form - Help Guide
 ## Purpose
 The exit interview form is used to collect information from employees who are leaving the company to capture details about their job title, job description, reporting manager's response, department, job status, reason for leaving, and next move.

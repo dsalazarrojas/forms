@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Dermal Filler Aftercare Form - Help Guide
 ## Purpose
 This form is used for clients to report their experiences and observations after receiving dermal fillers. It will help us track and monitor any potential side effects, ensuring we can provide the best possible care and follow-up.

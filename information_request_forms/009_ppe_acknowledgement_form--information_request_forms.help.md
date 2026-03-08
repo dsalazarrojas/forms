@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To help guide users through this form, I will base my explanation on the provided YAML fields.
 
 # PPE Acknowledgement Form - Help Guide

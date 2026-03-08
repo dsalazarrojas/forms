@@ -1,11 +1,3 @@
-<thinking>**To determine if this form is relevant and not duplicated for the user, please consider the following scenarios:**
-
-* The form is intended to handle requests for leaves of absence, such as vacation, sick leaves, or other types of absences.
-* The user is a manager or HR representative who needs to review and approve or deny leave requests.
-* The form should not be used for other purposes, such as employee performance evaluations or other non-leave related requests.
-
-</thinking>
-
 # leave_approval_form - Help Guide
 ## Purpose
 This form is used to request and manage leaves of absence for employees. It allows users to input their leave details and submit a request for approval or denial.

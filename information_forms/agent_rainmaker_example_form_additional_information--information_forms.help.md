@@ -1,7 +1,3 @@
-<thinking>
-This form is a feedback and evaluation tool designed to collect information from users about their experience with the "AGENT RAINMAKER Example Form Additional Information". It is intended to help the form's creators understand user satisfaction, preferences, and pain points. The form is divided into several sections, each containing a specific set of questions and fields. The goal is to gather data that can be used to improve the form's design, functionality, and overall user experience.
-</thinking>
-
 # AGENT RAINMAKER Example Form Additional Information - Help Guide
 ## Purpose
 This form is designed to collect feedback and evaluation from users about their experience with the "AGENT RAINMAKER Example Form Additional Information". The goal is to understand user satisfaction, preferences, and pain points to improve the form's design, functionality, and overall user experience.

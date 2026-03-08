@@ -1,11 +1,3 @@
-<thinking>
-This form is a tool used by the HR department to facilitate the onboarding process for new employees joining the Design Team. The purpose of this form is to collect relevant information about the new hire, including their contact details, job title, work location, job description, and other essential details. This form helps to streamline the onboarding process by ensuring that all necessary information is collected and documented in one place. 
-
-This form is typically used for internal purposes only and should not be completed by new hires themselves. Instead, it is filled out by the HR representative or team lead who is responsible for the onboarding process.
-
-The form will ask you to provide information about the new hire and the onboarding process. Please ensure that you enter all required and optional fields accurately and thoroughly.
-</thinking>
-
 # Design Team Onboarding Form - Help Guide
 ## Purpose
 The Design Team Onboarding Form is a tool used to collect relevant information about new hires joining the Design Team, helping to streamline the onboarding process.

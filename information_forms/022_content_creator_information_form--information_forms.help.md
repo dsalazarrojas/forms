@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from content creators who are interested in collaborating with the platform. The purpose of this form is to gather essential details about the creators, including their profile information, content creation experience, and collaboration preferences.
-
-Before filling out this form, please make sure to check if you have already submitted similar information through our platform. Duplicate submissions may cause confusion and waste our time.
-
-</thinking>
-
 # Content Creator Information Form - Help Guide
 ## Purpose
 This form collects information about you as a content creator, which will help us determine whether we can work together.

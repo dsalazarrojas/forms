@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather information and ensure efficient and accurate payroll processing. It's essential for payroll processing teams to accurately capture relevant details such as payroll dates, amounts, and frequency to facilitate smooth payroll operations. This form should only be used for legitimate payroll processing purposes and not for any other business purposes.
-This form is a checklist-based form, and users should be able to fill it out without requiring any additional information not present in the form. The form is designed to collect payroll-related data and should not be used for any other type of data collection.
-</thinking>
-
 # Payroll Processing Checklist Form - Help Guide
 ## Purpose
 The Payroll Processing Checklist Form is designed to help users accurately process payroll information, ensuring timely and accurate payments to employees. This form is a checklist-based form that collects essential details for payroll processing.

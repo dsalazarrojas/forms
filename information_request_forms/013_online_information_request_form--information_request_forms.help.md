@@ -1,7 +1,3 @@
-<thinking> 
-This form is used to collect information from users who are requesting an online service or product. The form helps us gather relevant details that will enable us to process their request efficiently. To avoid duplication of effort, please do not submit this form if you have already contacted us about the same topic. 
-</thinking>
-
 # Online Information Request Form - Help Guide
 
 ## Purpose

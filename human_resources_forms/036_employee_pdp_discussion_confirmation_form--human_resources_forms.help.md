@@ -1,7 +1,3 @@
-<thinking>
-This form is used to confirm employee discussions regarding performance issues or other matters. It is essential that this form is filled out accurately and truthfully. Please fill out this form only if you have a legitimate discussion with your manager. If you have already had a discussion about a performance issue, please do not fill out this form again.
-</thinking>
-
 # Employee PDP Discussion Confirmation Form - Help Guide
 ## Purpose
 This form is used to confirm and document discussions about employee performance, status, or other matters with management. It helps to track and verify the occurrence of such discussions.

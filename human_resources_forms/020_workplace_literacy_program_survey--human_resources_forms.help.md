@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, let's first understand the purpose and requirements of the "Workplace Literacy Program Survey". The form appears to be designed to collect information from employees, likely as part of a larger HR initiative aimed at assessing and improving workplace literacy skills. The fields are primarily focused on gathering demographic information (e.g., name, job title, education levels), work-related details (e.g., work experience, hours worked per week), and potentially educational background. There doesn't seem to be any duplication of fields, and the required fields are likely necessary for data collection and analysis. With this understanding, let's create a user-facing help guide that is clear, concise, and practical for end-users.</thinking>
-
 # Workplace Literacy Program Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information about your educational background, work experience, and other relevant details to help us better understand and improve our workplace literacy programs.

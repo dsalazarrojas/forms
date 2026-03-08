@@ -1,18 +1,3 @@
-<thinking>
-This form is intended to collect information related to car insurance claims. It's likely a template for policyholders to report and provide details about an accident involving their vehicle. The form's layout and fields suggest that it's designed for a straightforward and structured reporting process. Before proceeding, let's ensure that the form is being used correctly and not as a substitute for other existing processes or forms, especially for reporting severe or catastrophic events that require more in-depth investigation and reporting.
-
-The form has 24 fields divided into several sections, including policyholder information, accident details, other party involved, witnesses, and additional comments. Each section seems to focus on gathering specific information about the accident, the policyholder, and potential third parties involved.
-
-To confirm, this form will be used for:
-
-- Reporting and providing details about vehicle accidents involving policyholders.
-- Gathering information from policyholders to facilitate claim processing.
-- Capturing relevant data to assess and process claims efficiently.
-
-This form should not be used as a substitute for other reporting methods or for incidents that require more comprehensive reporting, such as serious crashes or injuries. The information collected through this form will be used to support the claim process and any subsequent actions taken by the insurance provider.
-
-Please proceed with the creation of the help guide.</thinking>
-
 # Car Insurance Accident Information Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from policyholders after a vehicle accident. It's a straightforward and structured process to gather the necessary details required for claim processing and assessment.

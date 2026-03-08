@@ -1,12 +1,3 @@
-<thinking> 
-The purpose of this form is to collect information about logistics, including details about delivery, shipments, contact persons, and other relevant information. This form is designed to be completed by end users who are involved in the logistics process, such as shipping and receiving companies, freight forwarders, and other stakeholders. 
-
-To ensure that the form is completed accurately and efficiently, it is essential to understand the purpose and scope of the information being collected.
-
-Before proceeding, review the form fields below to confirm that this is the correct form for your specific use case.
-
-</thinking>
-
 # Logistics Information Collection - Help Guide
 ## Purpose
 The Logistics Information Collection form is designed to gather essential information about deliveries, shipments, and contact details. This form helps to streamline communication and data collection for logistics-related tasks.

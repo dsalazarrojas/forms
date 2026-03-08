@@ -1,9 +1,3 @@
-<thinking>
-
-This form serves as a legal document to establish a confidential agreement between two parties, outlining what information is considered confidential and for how long. Its primary purpose is to ensure that sensitive information shared between parties is protected and not disclosed without consent. This form will be used to collect information about the disclosing and receiving parties, the purpose of the disclosure, and the terms of the agreement, including the duration of confidentiality and any additional requirements.
-
-</thinking>
-
 # Central Confidentiality Statement - Help Guide
 ## Purpose
 This form is used to document a confidential agreement between two parties, outlining what information is considered confidential and for how long.

@@ -1,9 +1,3 @@
-<thinking>
-The form's primary purpose is to collect information about a particle submitted to a database. This includes contact details of the submitters, description and characteristics of the particle, date and time of submission, and details about its status and publication. The form ensures that submitters can provide accurate and comprehensive information about the particle, and that this information is correctly stored in the database.
-The form's design is minimal, with each field focused on collecting a specific piece of information. This is intended to reduce cognitive load and make it easier for submitters to provide the necessary details.
-The form should only be used for submitting new particles, as it does not allow for editing or updating existing particles.
-</thinking>
-
 # new_particle_submission_form minimalist title - Help Guide
 ## Purpose
 The new_particle_submission_form is used to collect information about a particle submitted to a database. It gathers contact details of the submitters, description and characteristics of the particle, date and time of submission, and details about its status and publication.

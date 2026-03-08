@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect health-related information from individuals. It aims to gather a comprehensive view of a person's health profile, which includes personal details, medical history, allergies, vaccinations, and social history. The form is not affiliated with, endorsed by, or derived from any form platform, and it is an original adaptation created using public survey topic metadata. This form is released under CC BY 4.0, allowing users to use, modify, and distribute it freely while giving credit.
-</thinking>
-
 # Health Profile Form - Help Guide
 ## Purpose
 The Health Profile Form is designed to collect health-related information from individuals, providing a comprehensive view of a person's health profile.

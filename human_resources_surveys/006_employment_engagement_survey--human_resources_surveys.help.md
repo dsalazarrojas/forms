@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The following is the internal reasoning block:
 This form is for measuring employee engagement and satisfaction with the company. The purpose of this form is to gather data on how employees perceive their overall happiness and satisfaction with their job, as well as their perception of the company. This data will be used to inform HR policies and improve employee morale.
 

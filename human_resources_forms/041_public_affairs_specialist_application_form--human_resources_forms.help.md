@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from individuals interested in applying for a public affairs specialist position. The form is designed to collect relevant details about the applicant's job title, department, job summary, job description, qualifications, education background, work experience, certifications, and resume attachments. This form should not be completed by individuals who have already submitted an application for the same position or are not eligible for this role.
-</thinking>
-
 # public_affairs_specialist_application_form - Help Guide
 ## Purpose
 This form is for applicants interested in applying for a public affairs specialist position. Please fill out this form to provide your information and attach any relevant job attachments.

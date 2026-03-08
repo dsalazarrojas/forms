@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to gather information from researchers and collaborators for health informatics research projects. It helps to streamline the application process for research collaborations, ensuring that all necessary information is collected in one place. By filling out this form, you will be able to provide details about your research institution, project title, collaboration start and end dates, funding source, and more. Please ensure that you fill out the form accurately and thoroughly, as the information collected will be used to facilitate the review and approval process for your project. This form is not intended to be a duplicate of other forms you may have filled out in the past; if you have already provided similar information, please do not repeat it here. Instead, provide any updated or new information that is not already on file.</thinking> 
-
 # health_informatics_research_collaboration_application_form - Help Guide
 ## Purpose
 The health informatics research collaboration application form is designed to collect information from researchers and collaborators for health informatics research projects. This form helps to streamline the application process and ensure that all necessary information is collected in one place.

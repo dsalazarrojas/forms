@@ -1,5 +1,3 @@
-<thinking>This form is designed to assess an employee's job skills and performance. To ensure accurate and comprehensive evaluations, please note that only one form can be submitted per job position at a time. Duplicate submissions will be rejected. If you are unsure about any field, please seek clarification with your supervisor or HR representative. Please be concise and honest in your responses. You can complete the form online or print it out for offline completion.</thinking>
-
 # job_competency_assessment_form - Help Guide
 ## Purpose
 The job competency assessment form is used to evaluate and record the performance and competencies of an employee in their job role. It helps supervisors and HR to assess and monitor performance and identify areas for improvement.

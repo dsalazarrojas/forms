@@ -1,7 +1,3 @@
-<thinking>... internal reasoning block for relevance and non-duplication check ...
-
-This form is intended for customers to inquire about their timeshare exit process. It appears to be a general inquiry form for customers who want to exit their timeshare contract. The form likely helps the customer service or support team to understand the customer's situation and provide relevant assistance. I am assuming that the form is not meant for internal administrative purposes, such as tracking and managing customer data.</thinking>
-
 # Timeshare Exit Inquiry Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The Registration Identification Number Request Form is used to collect information from users requesting a registration identification number. This form is typically used for internal purposes and is not meant to be a publicly accessible form. It is likely used within an organization to verify user identities or for registration purposes. It should not be used to collect sensitive or personal identifiable information. To avoid duplicating effort, it's essential to only submit a new request if it's the first time you're requesting this information.
-</thinking>
-
 # Registration Identification Number Request Form - Help Guide
 ## Purpose
 The Registration Identification Number Request Form is used to collect information from users for registration purposes.

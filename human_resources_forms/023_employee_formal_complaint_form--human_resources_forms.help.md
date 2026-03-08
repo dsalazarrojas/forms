@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for employees to submit formal complaints about their work environment, colleagues, or work-related issues. It's essential to complete this form thoroughly and honestly to ensure that your concerns are heard and addressed.
-To avoid duplicate submissions, please check with your supervisor or HR department before filling out this form.
-</thinking>
-
 # Employee Formal Complaint Form - Help Guide
 ## Purpose
 The Employee Formal Complaint Form is a tool for employees to formally report grievances or complaints about their work environment, colleagues, or work-related issues.

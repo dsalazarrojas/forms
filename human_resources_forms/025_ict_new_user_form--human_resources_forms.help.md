@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to collect information from new users who will be joining the ICT team. The form will help us understand more about the new user, their role, and their team setup. Please ensure that you fill out this form with accurate and complete information to ensure that we can properly integrate you into our team.
-
-This form consists of 16 fields, each with its own purpose and requirements. Some fields are optional, and some are required. Make sure to review each section carefully and fill out all required fields to avoid any issues during the onboarding process.
-
-Before starting, please note that some fields may seem similar, but they serve different purposes. For example, "team" and "reporting_department" both deal with team affiliations, but they target different aspects of the team structure.
-
-Please fill out the form carefully, and don't hesitate to reach out if you have any questions or concerns.
-</thinking>
-
 # ICT New User Form - Help Guide
 ## Purpose
 The ICT New User Form is designed to collect essential information about new team members, including their personal details, job roles, and team affiliations. This form will help us ensure a smooth onboarding process and proper integration into our team.

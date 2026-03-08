@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Website Gather Contact Information Form - Help Guide
 ## Purpose
 This form is used to collect contact information from website visitors. It helps us understand who they are, how to contact them, and why they're visiting our site.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to facilitate the employee's process for requesting a review of their timesheet disputes. The form aims to collect detailed information and supporting documents related to the dispute, as well as the employee's and manager's involvement in the resolution process. 
-
-The form should only be used in the event of a legitimate dispute regarding a timesheet entry. Repeated submissions with the same reason and details may not be allowed as it may be seen as an abuse of the process.
-
-Before filling out the form, please ensure that you have reviewed and understood the company's timesheet policy and guidelines. If you're unsure about any aspect of the policy, consult with your supervisor or HR representative before proceeding.
-
-</thinking>
-
 # timesheet_dispute_review_request_form - Help Guide
 ## Purpose
 The timesheet dispute review request form is used to document and manage employee timesheet disputes. This form ensures that any discrepancies or errors are addressed and resolved in a fair and timely manner.

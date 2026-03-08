@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect feedback and satisfaction data from employees regarding the company's benefits package. The goal is to understand what employees think about the benefits offered and what aspects of the benefits package are most important to them. This data will help the HR department understand the effectiveness of the current benefits package and make informed decisions about future changes or improvements. 
-
-Before filling out this form, please make sure to only complete it if you have not already filled it out recently. This will help avoid duplicate submissions and ensure your feedback is accounted for in our analysis.
-
-</thinking>
-
 # Employee Benefits Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to gather data on employee satisfaction with the benefits package offered by your organization.

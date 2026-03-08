@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Counselor Exit Offboarding Form - Help Guide
 ## Purpose
 This form is used to collect information from counselors who are leaving the organization, including their personal details, reasons for departure, and next steps. It helps the HR department to efficiently process the exit process and keep a record of employee departures.

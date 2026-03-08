@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Veterinary Case Conference Filming Consent Form - Help Guide
 ## Purpose
 This form is used to obtain informed consent from participants in a veterinary case conference filming project. It ensures that participants understand the purpose, use, and risks associated with the filming and recording of their case discussions. The form helps to establish a clear agreement on the terms of participation and ensures that all parties involved are aware of their responsibilities and obligations.

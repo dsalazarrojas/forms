@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Summer Intern Application Form - Help Guide
 
 ## Purpose

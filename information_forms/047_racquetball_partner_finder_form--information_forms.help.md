@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is used to find potential racquetball partners for a specific time slot. To determine which form to display in the application, the following logic will be used: if the form is completed and submitted, it will be displayed in the application's UI; otherwise, a default form will be displayed. This is a one-time form that can be used to gather information for a specific time slot. The form will only show up once per user, per time slot. The user will be able to submit a new time slot and form will display again for that new time slot.
 
 </thinking>

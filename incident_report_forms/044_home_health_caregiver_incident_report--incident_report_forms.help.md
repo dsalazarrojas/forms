@@ -1,17 +1,3 @@
-<thinking>
-
-This form is a report for incidents related to home health care. The purpose of this form is to document and track incidents reported by caregivers or agencies. This form will help gather information about the incident, including the type, date, location, and resolution status. It will also help identify the follow-up contact and follow-up notes.
-
-To complete this form, start by selecting the type of incident. If the incident is related to a caregiver, select "Caregiver". If it is related to an agency, select "Agency".
-
-Next, fill in the incident date, the location where the incident occurred, and provide a detailed description of the incident.
-
-Select the follow-up method and date for the next contact with the caregiver or agency. This is where you will also select the contact person and their contact method (e.g. call, email, visit).
-
-Finally, add any additional notes or comments about the incident and the follow-up contact.
-
-</thinking>
-
 # home_health_caregiver_incident_report - Help Guide
 ## Purpose
 The purpose of this form is to document and track incidents reported by caregivers or agencies.

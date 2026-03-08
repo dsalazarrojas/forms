@@ -1,15 +1,3 @@
-<thinking>
-This form is designed for tanker drivers to apply for a job or submit updates to their information. The form is used to capture essential details about the driver, including their tanker driving experience, contact information, and professional history. 
-
-To complete this form, follow the steps below:
-
-1. Fill in the required fields with accurate and up-to-date information.
-2. Ensure you select the correct tanker vehicle type you have experience with.
-3. Provide a valid phone number and email address for contact purposes.
-4. Answer the questions truthfully, especially regarding your driver's license status and medical certificate.
-
-</thinking>
-
 # Tanker Driver Application Form - Help Guide
 ## Purpose
 This form is for tanker drivers to submit their applications or updates. It helps us gather essential information about you, including your experience, contact details, and driving history.

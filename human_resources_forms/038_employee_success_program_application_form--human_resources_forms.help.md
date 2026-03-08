@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form, "employee_success_program_application_form", is to gather information from employees who are interested in participating in a program designed to help them achieve their career goals or overcome specific challenges. This form will be used by HR or other relevant departments to collect data on various aspects of an employee's job, skills, language proficiency, and employment status. It is essential to ensure that this form is completed accurately and thoroughly to provide valuable insights for the employee success program.
-
-To avoid duplication, please check if you have already submitted this form before, especially if you have participated in the employee success program in the past. If you have submitted this form previously, please do not resubmit. If you are unsure whether you have already submitted this form, please contact the HR department for clarification.
-
-Please note that the information collected through this form will be used to identify areas of improvement and development opportunities for employees. It is a confidential and secure process.
-
-The form is designed to be completed by employees, and the information collected will be used to create a profile for each participant. This profile will help the employee success program team to provide personalized guidance and support.
-
-The form has multiple pages, each with its specific fields. Below is an explanation of each page and field.
-
-</thinking>
-
 # employee_success_program_application_form - Help Guide
 ## Purpose
 The employee success program application form is designed to help employees achieve their career goals and overcome specific challenges. It will be used to collect data on various aspects of an employee's job, skills, language proficiency, and employment status.

@@ -1,17 +1,3 @@
-<thinking>
-
-The purpose of this form is to request a Digital Twin Simulation Report. It appears to be a report template for a specific industry or category (digital twin), likely used for data collection or analysis. The form has multiple fields for various aspects of the simulation, including objectives, parameters, deadlines, requirements, and expected delivery date. The simulation type field has three options, and there are multiple fields for simulation objectives with varying labels.
-
-To determine if this form is relevant to the user's needs, consider the following:
-
-* Does the user need to request a report for a digital twin simulation?
-* Is the user familiar with the concept of digital twins and the purpose of the form?
-* Are the fields and labels clear and self-explanatory?
-
-To confirm the form is not a duplicate, review the form's metadata, which indicates it was created using AI and is not affiliated with any proprietary form platforms. The form is released under CC BY 4.0, making it available for use, modification, and even sale with credit.
-
-</thinking>
-
 # Digital Twin Simulation Report Request Form - Help Guide
 ## Purpose
 The Digital Twin Simulation Report Request Form is a template used to collect and document information about a digital twin simulation. This form helps the user to clarify their requirements and expectations for the simulation, ensuring that the report meets their needs.

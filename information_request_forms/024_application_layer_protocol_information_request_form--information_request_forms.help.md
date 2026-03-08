@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect information about the application layer protocol requested by the user. The purpose of this form is to gather details about the protocol used, its implementation, and the requirements needed to support it.
-The form is divided into several sections, each focusing on a specific aspect of the protocol. The first section asks for general information about the request, including the date and a unique ID for tracking. The second section collects more specific details about the protocol, such as its name, type, and version.
-The form also asks about the encryption and authentication methods used, as well as any supported features and system requirements. Additionally, it inquires about the availability of documentation and the current testing status of the protocol.
-</thinking>
-
 # Application Layer Protocol Information Request Form - Help Guide
 ## Purpose
 This form is used to collect information about the application layer protocol requested by the user.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help project leads and team members evaluate the success and effectiveness of their project, with a focus on evidence-based practices, evaluation methods, and outcomes. This form will be used to assess the project's progress, identify areas of improvement, and provide guidance on future project development.
-</thinking>
-
 # Evidence Based Practice Project Evaluation Plan - Help Guide
 
 ## Purpose

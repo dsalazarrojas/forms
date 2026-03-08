@@ -1,7 +1,3 @@
-<thinking>
-This help guide will help you understand what to do when an incident occurs at a public event. The purpose of this form is to record the details of an injury incident that occurred during a public event, which may involve a participant or a witness. It's essential to fill out the form accurately and thoroughly to ensure that all necessary information is captured. Please fill out the form only once the incident has been fully investigated and resolved. If you're unsure or need to submit multiple incidents, please contact your supervisor or event coordinator.
-</thinking>
-
 # Public Event Visitor Injury Incident Report Form - Help Guide
 ## Purpose
 This form is used to document and report injuries or incidents that occurred during a public event. It collects information about the event, participants involved, and witness details. This form is essential in gathering necessary information for follow-up actions and incident reporting.

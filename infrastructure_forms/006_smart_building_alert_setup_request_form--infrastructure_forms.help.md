@@ -1,10 +1,3 @@
-<thinking>
-This form is used to set up and customize smart building alerts for various types of events, such as temperature, humidity, or pressure changes. The form helps users select the building, alert type, trigger type, and notification preferences for the alerts. It also allows users to specify the alert name, description, and any relevant building notes. The form is designed to be flexible and adaptable to the needs of users, allowing them to set up alerts with various repetition frequencies.
-
-Before filling out this form, please check that the building has already been selected or that you are in the correct location. To ensure that alerts are not duplicated, please ensure that no identical forms have been submitted for the same building and alert type.
-
-</thinking>
-
 # smart_building_alert_setup_request_form - Help Guide
 ## Purpose
 This form is used to set up and customize smart building alerts for various types of events.

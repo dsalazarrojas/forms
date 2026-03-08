@@ -1,5 +1,3 @@
-<thinking>As a form expert, I'll create a user-facing help guide for the Yoga Informed Consent Form, ensuring that end-users understand the form's purpose, how to complete it, and what each field means. I'll review the provided YAML fields and craft a clear, concise, and practical guide in Markdown format.</thinking>
-
 # Yoga Informed Consent Form - Help Guide
 ## Purpose
 The Yoga Informed Consent Form is a document designed to gather essential information from participants before they begin yoga activities. This form helps ensure that participants are aware of the potential risks and benefits of yoga and provide informed consent for their participation. It's essential to fill out this form accurately and honestly to ensure a safe and enjoyable yoga experience.

@@ -1,6 +1,4 @@
-> <thinking>... internal reasoning block: This form is for requesting access to academic resources such as laboratory equipment, datasets, software licenses, physical archives, or intellectual property. The form helps ensure that the requesting institution has the necessary information and agrees to the terms of use. It's essential to complete this form accurately to ensure a smooth request process...</thinking>
-
-# Academic Resource Sharing Agreement Request - Help Guide
+> # Academic Resource Sharing Agreement Request - Help Guide
 ## Purpose
 The Academic Resource Sharing Agreement Request form is designed to gather information about a requesting institution's needs and intentions for accessing various academic resources. This form ensures that the requesting institution has the necessary details and agrees to the terms of use for the resource being requested.
 

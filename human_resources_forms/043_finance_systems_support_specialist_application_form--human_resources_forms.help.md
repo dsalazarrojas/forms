@@ -1,12 +1,3 @@
-<thinking>
-The form is designed to collect information from applicants for a finance systems support specialist position. This form is likely to be used by HR or recruitment teams to gather relevant details from potential candidates. The form's content suggests that it will be used to assess the qualifications, experience, and availability of candidates. The form does not appear to be a standard employment application form, but rather a more detailed questionnaire to help identify suitable candidates. There may be other forms in use for actual employment applications or other purposes. It's possible that this form is a supporting or supplementary tool for other HR processes.
-
-This form does not appear to be intended to be used in production or for live applications. Given the level of detail and the fact that some fields are optional or open-ended, it's likely that this form is designed for internal use within an organization to gather more detailed information about potential candidates before progressing them further in the hiring process.
-
-Before proceeding with this form, please ensure that you have checked the relevant job descriptions and requirements for the position, and that you have permission to share this form with applicants. Also, be aware of any relevant company or departmental procedures for handling personal data.
-
-</thinking>
-
 # Finance Systems Support Specialist Application Form - Help Guide
 
 ## Purpose

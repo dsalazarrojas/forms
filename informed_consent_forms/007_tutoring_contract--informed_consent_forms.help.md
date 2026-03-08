@@ -1,7 +1,3 @@
-<thinking>
-We are developing a form for users to create a tutoring contract that outlines the terms and conditions of the tutoring relationship between a client and a tutor. This form is designed to gather essential information for both parties to agree on, including client and tutor details, contract terms, and review and agreement sections. It's crucial that the form is completed accurately to avoid any misunderstandings or disputes in the future. To ensure consistency, please review the form carefully before submitting it. Ensure that you have filled out all required fields, as indicated by the "required" property in each field.
-</thinking>
-
 # Tutoring Contract - Help Guide
 ## Purpose
 The Tutoring Contract form is designed to document the terms and conditions of the tutoring relationship between a client and a tutor. It is used to ensure that both parties have a clear understanding of their roles and responsibilities.

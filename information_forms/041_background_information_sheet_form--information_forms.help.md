@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect background information from individuals to be used for various purposes such as employment, service, membership, loan, or rental applications. This information will be used to assess the applicant's eligibility and suitability for these purposes. The form is designed to be completed by the individual themselves, and it is intended to be a quick and straightforward process.
-
-This form does not collect sensitive or personal medical information. The information collected will be used for non-medical purposes only.
-
-Please note that the fields in this form are designed to be filled out by the individual, not by someone else on their behalf. If you are filling out this form on behalf of someone else, please make sure to include all required fields as instructed.
-</thinking>
-
 # Background Information Sheet Form - Help Guide
 ## Purpose
 The Background Information Sheet Form is designed to collect background information from individuals for various applications such as employment, service, membership, loan, or rental purposes.

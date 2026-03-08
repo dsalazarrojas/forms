@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to collect information about incidents that have occurred on a race track. The purpose of this form is to document the details of the incident, including the date and time it occurred, the location, and any other relevant details such as the type of incident, the name of the race track, and whether or not a vehicle was involved. This form should only be completed after an incident has occurred and is meant to be filled out by the race track officials or other authorized individuals.
-
-When filling out this form, it is best to ensure that the same incident is not reported multiple times. If you have already reported an incident, please do not submit this form again.
-
-The form will be reviewed and processed by the race track officials, who will use the information to determine the course of action to take in response to the incident.
-
-This form is designed to collect information about the incident in a standardized and efficient manner, allowing for quick and accurate processing by the race track officials.
-</thinking>
-
 # Race Track Incident Form - Help Guide
 ## Purpose
 The Race Track Incident Form is a tool used to collect and document information about incidents that occur on the race track. This form helps race track officials gather details about the incident, including the date and time it occurred, the location, and other relevant information.

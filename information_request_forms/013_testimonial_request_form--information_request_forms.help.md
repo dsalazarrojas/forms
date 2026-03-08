@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Testimonial Request Form - Help Guide
 ## Purpose
 The Testimonial Request Form is designed to gather user feedback and testimonials about our services. It's used to understand how we've met or exceeded your expectations, what we could improve on, and to share your positive experiences with others.

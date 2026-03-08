@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to capture informed consent from patients for blood draws. The primary purpose of this form is to ensure that patients understand the purpose and procedure of blood draws, as well as the potential risks and benefits involved. The form also aims to confirm that patients have discussed alternative procedures with their physician and that they have had the opportunity to ask questions. This form is a critical component of the patient's medical record and is intended to provide a legal record of the patient's informed consent. It is essential to ensure that the form is completed accurately and thoroughly to maintain patient safety and medical record integrity.
-
-</thinking>
-
 # Blood Draw Consent Form - Help Guide
 ## Purpose
 This form is designed to capture informed consent from patients for blood draws. It is a critical component of the patient's medical record and is intended to provide a legal record of the patient's informed consent.

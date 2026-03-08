@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Textbook Adoption Request Form - Help Guide
 ## Purpose
 This form is used to request textbook adoptions for upcoming classes. The form is designed to gather information about the textbook adoptions, including the department name, bookstore name, and ISBN number. The form also allows users to provide additional information such as the title and author of the textbook, as well as any additional notes or comments.

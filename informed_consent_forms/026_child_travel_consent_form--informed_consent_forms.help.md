@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from parents or legal guardians regarding the details of a child's travel itinerary, including their consent, contact information, and medical clearance. This form ensures that the child's travel is authorized and that the parent or guardian is informed and aware of all necessary details. The form also collects information for emergency contact and medical purposes in case of an unexpected event.
-</thinking>
-
 # Child Travel Consent Form - Help Guide
 ## Purpose
 The Child Travel Consent Form is a crucial document that provides parents or legal guardians with the opportunity to provide information about their child's travel plans, including their consent, emergency contact details, and medical clearance. This form helps ensure the child's safety and well-being during the trip.

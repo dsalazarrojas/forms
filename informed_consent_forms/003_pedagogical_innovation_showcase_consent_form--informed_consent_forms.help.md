@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect consent from users to participate in the Pedagogical Innovation Showcase, a platform that allows educators to share innovative pedagogical ideas and projects. The form is used to gather information from users, including their contact and project details, to better understand their needs and interests. 
-
-The form consists of various fields that cover different aspects of user information, including contact person, school, project, and category. The form also includes fields for consent, email, phone number, and notes. This guide will walk you through how to complete the form and what each field means.
-
-</thinking>
-
 # Pedagogical Innovation Showcase Consent Form - Help Guide
 ## Purpose
 The Pedagogical Innovation Showcase Consent Form is a crucial step in the process of sharing innovative ideas and projects between educators. This form is used to collect user information, project details, and consent to participate in the showcase.

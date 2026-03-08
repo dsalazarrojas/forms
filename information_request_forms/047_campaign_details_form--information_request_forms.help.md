@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Campaign Details Form - Help Guide
 
 ## Purpose

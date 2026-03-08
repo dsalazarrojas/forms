@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's ensure this form is relevant to your needs and hasn't been duplicated. This form, the "Employee Referral Questionnaire Centennial," is designed to collect information about job openings within a company. It's a helpful tool for HR (Human Resources) departments to gather details about job referrals from employees. To confirm, you're looking to gather data on employee referrals, correct? If you've already created a form with this purpose, please let me know, and we can discuss how to merge or modify it.</thinking>
-
 # Employee Referral Questionnaire Centennial - Help Guide
 ## Purpose
 The Employee Referral Questionnaire Centennial is a form designed to collect information about job openings within a company. This form helps HR departments gather details about job referrals from employees.

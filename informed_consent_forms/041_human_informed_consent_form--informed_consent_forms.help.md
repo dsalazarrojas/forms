@@ -1,9 +1,3 @@
-<thinking>
-We need to ensure that users understand the purpose of this form and how to fill it out correctly. This form is for human informed consent, which is the process of getting patients or participants to agree to participate in a study, research, or treatment. It's essential to fill out this form accurately and honestly to ensure the privacy and safety of the participants. Before proceeding, please review the form carefully and ask questions if you're unsure about any field.
-
-The form is split into several sections that ask for different types of information, including user contact details, patient information, consent date and time, and a signature. Please ensure you provide the correct information in each field to avoid errors.
-</thinking>
-
 # Human Informed Consent Form - Help Guide
 ## Purpose
 This form is for obtaining informed consent from patients or participants in various studies, research, or treatments. Fill out the form accurately to ensure their privacy and safety.

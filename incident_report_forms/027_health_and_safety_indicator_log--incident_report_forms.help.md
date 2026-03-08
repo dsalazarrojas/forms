@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help incident reporting and follow-up activities. It allows users to report incidents that occurred on site, track the status of follow-up actions, and assign tasks to specific individuals. This form is intended for use by employees or personnel who are responsible for maintaining site health and safety.
-The form is not meant for duplicate reporting. If an incident has already been reported, please do not complete this form again. Instead, refer to the existing report and update the follow-up status if necessary.
-</thinking>
-
 # Health And Safety Indicator Log - Help Guide
 ## Purpose
 This form is used to record and track incidents that occur on site, including the incident type, date and time it occurred, and follow-up status.

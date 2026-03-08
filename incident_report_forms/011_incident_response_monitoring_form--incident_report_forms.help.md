@@ -1,10 +1,3 @@
-<thinking>
-The Incident Response Monitoring Form is a tool used to collect and track incident data for monitoring and reporting purposes. It's likely intended for use by IT teams or incident response teams to gather information about incidents that have occurred or are occurring within their organization. This form will help you to collect relevant details about the incident, including its location, date, time, type, status, resolution time, respondeurs, and other supporting attachments such as reports, email attachments, images, audio, and video.
-To ensure the form is completed accurately and relevant information is captured, please check the following before starting:
-* Ensure you are using this form for the intended purpose, that is, incident response and monitoring.
-* Double-check that you are not duplicating data or information already captured in other systems.
-</thinking>
-
 # Incident Response Monitoring Form - Help Guide
 ## Purpose
 The Incident Response Monitoring Form is a tool used to collect and track incident data for monitoring and reporting purposes. It's likely intended for use by IT teams or incident response teams to gather information about incidents that have occurred or are occurring within their organization.

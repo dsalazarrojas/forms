@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a property, likely for real estate or related purposes. The form asks for details such as type, name, address, city, postal code, region, status, and other relevant attributes. It's essential to fill out this form accurately to ensure the correct information is recorded.
-</thinking>
-
 # Property Information Form - Help Guide
 ## Purpose
 This form is meant to collect property-related information for reference or record-keeping purposes. Please fill out this form to provide accurate details about the property in question.

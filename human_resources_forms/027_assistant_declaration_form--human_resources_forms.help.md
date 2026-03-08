@@ -1,9 +1,3 @@
-<thinking>
-
-The "Assistant Declaration Form" is designed to provide a clear and concise way for employees to declare their new assignments, including job title, start date, duration, and other relevant details. This form is intended to ensure that both the employee and their supervisor are on the same page regarding the terms of the new assignment. By filling out this form, employees can provide a formal declaration of their understanding, acceptance, and agreement to the conditions stated above.
-
-</thinking>
-
 # Assistant Declaration Form - Help Guide
 ## Purpose
 The Assistant Declaration Form is a critical document that ensures transparency and clarity on new assignments within the organization.

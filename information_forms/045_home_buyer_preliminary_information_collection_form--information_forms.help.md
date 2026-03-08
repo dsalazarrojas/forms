@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect preliminary information from potential homebuyers, helping the organization understand their initial preferences and requirements for a home purchase. This includes gathering basic contact information, such as first and last name, email, and phone number. Additionally, the form inquires about the homebuyer's status, preferred contact method, loan type, and property type, size, and location. This information will be used to provide personalized support and recommendations to the homebuyer in their home buying journey.
-
-To ensure the form is filled out correctly, please verify that you are not a duplicate entry, and that the information provided is accurate and relevant to your situation.
-
-This guide will walk you through each section of the form to ensure you complete it accurately and efficiently.
-
-</thinking>
-
 # Home Buyer Preliminary Information Collection Form - Help Guide
 ## Purpose
 This form is designed to collect preliminary information from potential homebuyers, helping us understand their initial preferences and requirements for a home purchase.

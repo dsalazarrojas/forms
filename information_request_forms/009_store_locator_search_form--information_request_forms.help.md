@@ -1,12 +1,3 @@
-<thinking>
-We need to confirm that we have the correct information to provide help for this form. Let's review the form definition:
-
-The form is called "Store Locator Search Form" and it seems to be a search form to help users find stores by various criteria such as category, location, and other attributes.
-The form has two select fields: "Select Category" and "Select Location", which allow users to narrow down the search results.
-There are also fields to input specific store details such as "Store Name", "Store Phone", "Store Email", "Store Website", "Store Hours", "Store Rating", and "Store Description".
-The form also includes options to further filter the search results by distance and sorting order.
-</thinking>
-
 # Store Locator Search Form - Help Guide
 ## Purpose
 The Store Locator Search Form is a tool to help users find stores by various criteria such as category, location, and other attributes. Fill out the form below to search for stores that fit your needs.

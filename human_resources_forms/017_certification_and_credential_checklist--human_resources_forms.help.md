@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the Certification and Credential Checklist form. The purpose of this form is to collect information on an employee's certifications and credentials, such as dates, statuses, and issuing bodies. This information is likely used by HR departments to track and verify employee credentials. The form appears to be designed for employees to input their own data, and then HR can review and verify it. This form likely serves as a standardization tool for tracking and reporting on employee credentials, and it's possible that it's used for compliance or audit purposes.</thinking>
-
 # Certification And Credential Checklist - Help Guide
 ## Purpose
 This form is used to collect and track information on employee's certifications and credentials. It is intended for employees to provide accurate and up-to-date information about their certifications, which can be reviewed and verified by HR.

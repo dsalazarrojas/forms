@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from motorcoaches (coaches or vehicles designed to transport people) about their travel plans, including trip details, departure and arrival cities, dates, and special requests. The fields are designed to be simple and intuitive to fill out, with the aim of collecting the most relevant information for motorcoach travel. Before filling out this form, please ensure you have all necessary information ready, and avoid duplicating entries if you're filling out multiple forms for the same trip or travel dates. This guide will walk you through each field to help you complete the form accurately and efficiently.
-</thinking>
-
 # Motorcoach Travel Information Form - Help Guide
 ## Purpose
 This form is designed to collect travel information from motorcoaches, including trip details, departure and arrival cities, dates, and special requests.

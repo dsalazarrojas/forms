@@ -1,16 +1,3 @@
-<thinking>
-To confirm the form's purpose, relevance, and non-duplication with the context:
-
-This form is for requesting maintenance on water drainage issues. The purpose of the form is likely to provide a structured way for users to submit information about maintenance requests, such as locations, photos, and priorities, to facilitate efficient handling of these requests. The form's category field suggests that it is part of a broader infrastructure management system, which is consistent with this context.
-
-Considering the form's fields, all options for required status fields are set to "false", which implies that users are not required to fill them out. However, to ensure the form serves its purpose, it would be beneficial to review and validate the data in the backend.
-
-The form has a mix of text, select_multiple, note, and date fields, indicating that users may be providing various types of information, such as text descriptions, photos, and dates. 
-
-To avoid duplication of effort, it would be beneficial to ensure that the form does not overlap with other forms that serve similar purposes within the organization.
-
-</thinking>
-
 # Water Drainage Maintenance Request Form - Help Guide
 ## Purpose
 This form is used to request maintenance on water drainage issues within the infrastructure management system. Please use this form to provide detailed information about the issues you'd like maintenance on.

@@ -1,9 +1,3 @@
-<thinking>
-This form, "Intern Performance Scorecard", is a tool used to evaluate and assess the performance of interns in a company. It should only be completed by managers or supervisors who have worked with the interns, and should not be used for any other purposes. Please ensure that you have the necessary authorization and permissions to access and complete this form.
-
-To ensure data consistency, please do not create duplicate forms, and make sure to save your progress frequently while working on this form.
-</thinking>
-
 # Intern Performance Scorecard - Help Guide
 ## Purpose
 The Intern Performance Scorecard is a form used to assess the performance of interns in a company, providing feedback on their skills, teamwork, punctuality, communication, and overall performance.

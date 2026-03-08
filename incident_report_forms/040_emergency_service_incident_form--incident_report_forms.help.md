@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # emergency_service_incident_form - Help Guide
 ## Purpose
 This form is used to report incidents that require emergency service assistance. Please use this form to provide detailed information about the incident, including its type, date, time, location, reporter, and any relevant notes or photos.

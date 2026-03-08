@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 </thinking>
 # Parent Authorization Form - Help Guide
 ## Purpose

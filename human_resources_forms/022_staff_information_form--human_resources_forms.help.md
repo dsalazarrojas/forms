@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication and ensure relevance, we need to consider the context and purpose of the "Staff Information Form". This form is likely used for HR purposes, such as maintaining employee information, tracking employee status, and providing contact details. Before proceeding, ensure you're not already using a similar form for the same purpose within your organization.
-</thinking>
-
 # Staff Information Form - Help Guide
 ## Purpose
 This form is designed to collect and store staff information, including contact details and employment status. It helps HR personnel to maintain accurate records and track staff data efficiently.

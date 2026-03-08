@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to provide a simple and straightforward way for employees to request access to employee files. This form is meant to be used when an employee requires access to a file that they do not currently have permissions for, and is typically reviewed and approved by HR or IT personnel. Before proceeding, please ensure that you have a legitimate reason for requesting access and that you have not already submitted a request for this file in the past. If you're unsure, please reach out to your supervisor or HR for guidance.
-</thinking>
-
 # Employee File Access Request Form - Help Guide
 ## Purpose
 

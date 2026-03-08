@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-This form is intended to collect medical information from users, including their personal details, medical conditions, medications, and health habits. It is likely to be used by healthcare professionals to assess the user's health status and provide personalized advice or treatment. This form should only be filled out by individuals who are authorized to access it, and the information collected is sensitive and should be handled with care.
+> This form is intended to collect medical information from users, including their personal details, medical conditions, medications, and health habits. It is likely to be used by healthcare professionals to assess the user's health status and provide personalized advice or treatment. This form should only be filled out by individuals who are authorized to access it, and the information collected is sensitive and should be handled with care.
 
 # Medical Information Form - Help Guide
 ## Purpose

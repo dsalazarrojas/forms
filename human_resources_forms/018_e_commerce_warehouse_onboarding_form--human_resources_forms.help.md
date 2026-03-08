@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure that the e-commerce warehouse onboarding form is completed correctly, and that the end user understands the purpose and fields of the form. This form is meant to gather information from new hires, including their personal and professional details, emergency contact information, and shift scheduling preferences. It's crucial that the user understands what each field means and how to fill it out correctly to ensure accurate and complete data. Before completing the form, the user should confirm that they've read and understood the form's purpose and the requirements for each field.</thinking>
-
 # e-commerce_warehouse_onboarding_form - Help Guide
 ## Purpose
 This form is designed to gather essential information from new hires for the e-commerce warehouse, including their personal details, emergency contact information, and shift scheduling preferences. This information is crucial for ensuring the smooth onboarding process and providing a safe and efficient work environment.

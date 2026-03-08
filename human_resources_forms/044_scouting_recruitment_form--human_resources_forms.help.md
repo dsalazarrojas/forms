@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a unit's scouting recruitment plan and other relevant details. It is intended for units that are seeking to recruit new members. The purpose of this form is to provide a structured way of gathering information about the unit's recruitment goals, target dates, and other important details.
-
-When using this form, ensure that the unit's ID and name are correctly filled in as they are required fields. Also, be aware that some fields are not required and can be left blank if not applicable. The unit's type and level are important fields that can impact the recruitment process. The form also asks for contact information and contact email to facilitate communication between the unit and the organization. If a flyer is needed, select the appropriate option from the drop-down menu.
-
-</thinking>
-
 # Scouting Recruitment Form - Help Guide
 ## Purpose
 The Scouting Recruitment Form is designed to help units gather and organize necessary information for the scouting recruitment process.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about a video storyboard template. The purpose of this form is to gather project details and storyboard-related information from users. The form should only be used for projects that have a storyboard template associated with them. To prevent duplication of effort, please ensure that you have obtained permission from the project manager or client before completing this form.
-</thinking>
-
 # Video Storyboard Template - Help Guide
 ## Purpose
 This form is used to collect information about a video storyboard template. It includes details about the project, such as project name, description, status, start and end dates, client and manager, budget, and notes. The form is designed to be completed by project managers or clients to provide a clear and concise summary of the project's storyboard template.

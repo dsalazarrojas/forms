@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # COVID 19 Consultation Form Station Nails and Beauty Ltd - Help Guide
 ## Purpose
 This form is designed to gather essential information from clients before undergoing a beauty service at Station Nails and Beauty Ltd. It helps the salon to identify potential risks associated with COVID-19 and ensure a safe environment for both clients and staff. Please complete this form to help us better serve you.

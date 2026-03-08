@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about students, specifically their personal details and contact information. 
-The form is intended for students, guardians, or administrators to input relevant details. 
-The form fields should not be duplicated if the user has already input the information elsewhere in the system.
-</thinking>
-
 # Student Information Sheet Form - Help Guide
 ## Purpose
 The Student Information Sheet Form is a collection of fields meant to record and store student information. This form gathers details like name, contact numbers, address, date of admission, and other relevant details.

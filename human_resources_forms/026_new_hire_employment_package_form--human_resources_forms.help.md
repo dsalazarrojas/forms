@@ -1,10 +1,3 @@
-<thinking>
-This form is used to create a new hire employment package for an employee, which is a critical document required for HR administration. It is used to collect employee information, job details, and employment contract details.
-
-Before filling out this form, please ensure you have the necessary information and approvals in place to avoid duplication of effort. Please also verify that the form has been properly reviewed and approved within the HR department.
-
-</thinking>
-
 # New Hire Employment Package Form - Help Guide
 ## Purpose
 The New Hire Employment Package Form is used to create a comprehensive package for new hires, including their personal details, job information, and employment contract details. This form is used to ensure that all necessary information is captured and that the new hire is properly onboarded.

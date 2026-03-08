@@ -1,7 +1,3 @@
-<thinking>
-A disciplinary record affirmation form is used to document incidents and disciplinary actions taken against employees. This form is used to ensure consistency and accuracy in recording disciplinary actions, and to provide a clear understanding of incidents and their outcomes. It's essential to complete this form accurately and truthfully to maintain a fair and transparent work environment. Please ensure that the information entered is correct and up-to-date, and that all fields are completed consistently with company policies and procedures.
-</thinking>
-
 # Disciplinary Record Affirmation - Help Guide
 ## Purpose
 The purpose of this form is to document and record disciplinary actions taken against employees, ensuring consistency and accuracy in maintaining a fair and transparent work environment.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to report an employee's absence from work due to a Fitness For Duty (FFD) reason. A FFD is a situation where an employee is unable to perform their duties due to a specific circumstance that is outside their control, such as a medical emergency or a personal issue. This form is used to document the absence and provide relevant information to management and HR.
 
 When completing this form, please ensure that you have a valid reason for your absence that is related to a FFD. If you are unsure about the purpose of this form or have any questions, please consult with your supervisor or HR representative.

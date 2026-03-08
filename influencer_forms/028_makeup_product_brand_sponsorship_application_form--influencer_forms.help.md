@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for makeup product brands to apply for sponsorship opportunities with us. To ensure that your application is considered, please fill out this form thoroughly and accurately. Before submitting your application, we review each form to avoid duplication and ensure that we are not already working with you. Please note that this form is for individual brand applications only; if you represent a company or organization, you may need to contact us separately for a company-level application.
-
-</thinking>
-
 # Makeup Product Brand Sponsorship Application Form - Help Guide
 
 ## Purpose

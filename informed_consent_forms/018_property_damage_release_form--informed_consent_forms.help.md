@@ -1,11 +1,3 @@
-<thinking>
-This form is used in a specific business context, likely related to property management or insurance, where property damage needs to be formally released. The purpose of this form is to collect information about a property damage incident, including its description, liability, release date, and other relevant details. The form is designed to gather information from both the party responsible for the damage and the party handling the release. The fields in this form should be filled in accordingly to ensure accurate and complete information is collected.
-
-Before filling out this form, please ensure that you are filling it out as the correct party (e.g., the party responsible for the damage or the party handling the release). If you are unsure which party you are, please contact your supervisor or relevant personnel for clarification.
-
-Also, please note that the fields marked as "required: false" are not mandatory, but providing accurate and complete information in those fields will help ensure a smooth and efficient process.
-</thinking>
-
 # Property Damage Release Form - Help Guide
 ## Purpose
 

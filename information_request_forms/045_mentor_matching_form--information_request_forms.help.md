@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect demographic and personal details from users to facilitate effective mentorship matching. The form will be used to gather relevant information to create a suitable mentorship relationship that meets the individual's needs and preferences. Please ensure that you are filling out this form only once, so the information is not duplicated.
-</thinking>
-
 # mentor_matching_form - Help Guide
 ## Purpose
 The mentor_matching_form is a form used to collect demographic and personal details from users to facilitate effective mentorship matching.

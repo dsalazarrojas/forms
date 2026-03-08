@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about items being moved, such as weight, description, condition, value, price, and inspection details. This form is likely used in a warehouse or inventory management context.
-To determine if this form is relevant to your process, check the following:
-
-* Are you responsible for tracking or inventorying items being moved or relocated?
-* Are you inspecting or appraising items for condition, value, or price?
-* Do you need to record weight or other physical attributes of the items?
-
-If you answered "yes" to any of the above questions, this form is likely relevant to your process. However, if you are unsure, please review the form fields below to see if they apply to your specific use case.
-
-</thinking>
-
 # moving_items_information_form - Help Guide
 ## Purpose
 The moving_items_information_form is used to collect information about items being moved or inspected. This form helps track details such as weight, description, condition, and value of the items.

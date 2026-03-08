@@ -1,7 +1,3 @@
-<thinking>
-We should create a help guide for the "streetlight_failure_incident_form" form to provide clarity to end users on its purpose, how to fill it out, and what each field means. The form seems to be designed for reporting a streetlight failure, gathering information about the incident, and capturing contact details of the submitter. We need to ensure that the form is completed correctly and all required fields are filled out to avoid any potential issues or duplication of efforts.
-</thinking>
-
 # streetlight_failure_incident_form - Help Guide
 ## Purpose
 The "streetlight_failure_incident_form" is a form designed for reporting streetlight failures. It is used to gather information about the incident, including the streetlight's ID, location, and condition, as well as contact details of the submitter.

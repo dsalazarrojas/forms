@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect filler information from end users, which will likely be used to provide customer service or other business-related activities. This form should only be used to collect information about a person's contact details and address, and should not be used for any other purpose. It's essential to fill this form out accurately and truthfully to ensure that the information collected is correct and useful for the intended purpose.
-</thinking>
-
 # Filler Information Form - Help Guide
 ## Purpose
 The Filler Information Form is designed to collect contact details and address information from end users for business purposes.

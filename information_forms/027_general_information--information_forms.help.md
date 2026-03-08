@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be collecting general information about an application or app used by a user. It seems to gather information about the user's interaction with the app, including how they used it, their favorite app, the last time it was used, and other details such as email, phone number, device details, and app specifics. The form also asks for a detailed reason for why the user uses the app ("Why Use App"). The fields appear to be mostly optional with a few required fields for user's first interaction with the app and the reason for using it.
-</thinking>
-
 # General Information - Help Guide
 ## Purpose
 This form collects general information about your app usage.

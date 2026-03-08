@@ -1,18 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Employee Wellbeing Audit Initiative Application Form", the goal is to provide a comprehensive and clear understanding of the form's purpose, requirements, and field explanations. The form is designed to support employee wellbeing initiatives within an organization, allowing HR representatives to assess employees' mental health, well-being, and work-related issues. The form should only be filled out by employees who are actively involved in or affected by the wellbeing audit initiative.
-
-Upon reviewing the form's structure, the following pages are present:
-
-1. The first page is for the employee to provide their personal details, including the audit initiative application date, time, location, and any additional comments.
-2. The following pages are dedicated to assessing the employee's involvement and manager's involvement in the wellbeing initiative.
-3. The remaining pages cover various aspects of the form submission, including the type of submission, version control, organization, and submission confirmation.
-
-Before proceeding, the form should be reviewed carefully to ensure that all fields are filled out accurately and completely. It is recommended that the employee take their time to read each field explanation thoroughly to understand the purpose and requirements of the form. If any questions or concerns arise, the employee should consult their HR representative for guidance.
-
-The form is a crucial tool for HR representatives to collect valuable information and support employee well-being initiatives. By understanding the form's purpose and requirements, employees can provide valuable input and contribute to a healthier work environment.
-
-</thinking>
-
 # Employee Wellbeing Audit Initiative Application Form - Help Guide
 
 ## Purpose

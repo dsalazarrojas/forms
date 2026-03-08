@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 This help guide will be useful for users who have to fill out the "Agent Information Survey" form, which is used to gather agent information. This form is likely used internally for record-keeping or reporting purposes, such as for training, evaluation, or compliance. The form should only be filled out once for each agent. If you're not sure whether you've already filled out the form or need to fill it out again, please check your internal records before proceeding.</thinking>
 
 # Agent Information Survey - Help Guide

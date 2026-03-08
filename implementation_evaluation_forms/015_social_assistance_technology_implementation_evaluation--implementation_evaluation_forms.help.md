@@ -1,11 +1,3 @@
-<thinking>
-
-**Internal reasoning block**
-
-Before we begin, let's clarify the purpose and constraints of this form. This form is designed to collect feedback from users about the social assistance technology implementation. It assesses the system's usability, usefulness, and satisfaction. Ensure that this form is used for its intended purpose and not to collect data for other purposes. Additionally, ensure that the responses are honest and reflective of the user's actual experience.
-
-</thinking>
-
 # Social Assistance Technology Implementation Evaluation - Help Guide
 ## Purpose
 This form is designed to collect feedback about the social assistance technology implementation. It will help us understand how well the system meets your needs and expectations.

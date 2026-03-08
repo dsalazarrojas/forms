@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from employees who wish to apply for the Corporate Learning Fellowship program. The form is used to gather details about the employee's background, experience, and interests in order to evaluate their eligibility for the fellowship. Please ensure that you are reading this guide to understand how to complete the form correctly, as any missing or incorrect information may affect your application's validity.
-</thinking>
-
 # Corporate Learning Fellowship Application Form - Help Guide
 ## Purpose
 This form is used to collect information from employees who wish to apply for the Corporate Learning Fellowship program.

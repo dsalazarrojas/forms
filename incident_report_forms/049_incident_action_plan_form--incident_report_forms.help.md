@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for users who need to create an incident action plan, such as responders and team members responsible for incident management. Please ensure that you have the necessary information and permissions before completing this form. If you are unsure about any field, please reach out to your team lead or support staff for clarification. This guide is not intended for duplicate reporting; if you have already submitted an incident report, please do not use this form. Please fill out this form accurately and thoroughly to help the team respond efficiently and effectively.
-</thinking>
-
 # Incident Action Plan Form - Help Guide
 ## Purpose
 The Incident Action Plan Form is used to document the actions taken in response to an incident. This form is intended for responders and team members responsible for incident management to record the necessary information to facilitate effective response and resolution.

@@ -1,6 +1,4 @@
-### <thinking> ... </thinking>
-
-# Company Profile Submission - Help Guide
+### # Company Profile Submission - Help Guide
 ## Purpose
 The purpose of this form is to collect comprehensive information about your company, including its legal name, website, location, and key personnel. This data will be used to create or update your company's profile in our directory.
 

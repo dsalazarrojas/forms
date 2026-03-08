@@ -1,9 +1,3 @@
-<thinking> 
-We're creating a user-facing help guide for a "Relationship Change Notification" form. This form is used to notify relevant parties when a relationship status changes. The purpose of this form is to provide a structured way to report changes to relationships, making it easier for everyone involved to stay up-to-date.
-The form can be completed in a few minutes, and it's recommended to submit the form as soon as possible after the relationship change happens.
-This form is meant to be used by people who have the necessary permissions and access to complete it. If you're not authorized, you might not see the form or might see an error message.
-</thinking>
-
 # Relationship Change Notification - Help Guide
 ## Purpose
 The Relationship Change Notification form is used to inform relevant parties about changes to relationships, such as updates to relationship status, dates, and other relevant details.

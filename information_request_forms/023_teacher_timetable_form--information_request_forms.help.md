@@ -1,12 +1,3 @@
-<thinking>
-This is a form for collecting information from teachers about their teaching schedule. The form is designed to gather details about the classes being taught, including the teacher's ID, class name, start and end times, and total class duration. 
-
-To avoid duplication, the system will check if a form with the same class number and start date has been submitted before. If a duplicate form is detected, the system will display a message indicating that the form cannot be submitted. 
-
-Please ensure that you are submitting a new class schedule that has not been previously submitted.
-
-</thinking>
-
 # Teacher Timetable Form - Help Guide
 ## Purpose
 This form is used to collect information from teachers about their teaching schedule, including class details and teaching hours.

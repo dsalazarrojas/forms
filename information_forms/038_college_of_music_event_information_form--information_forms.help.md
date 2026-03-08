@@ -1,39 +1,3 @@
-<thinking>
-
-To create a comprehensive help guide for the "College Of Music Event Information Form", I'll review the form's purpose and fields. This form likely provides detailed information about a music event, including its title, date, time, venue, and other important details. The form's purpose is to gather relevant data about the event, which can be used to promote or manage the event.
-
-Upon reviewing the fields, I notice that they are divided into several sections, including event details, venue information, performer details, and event management. The form requires the event title, date, start and end times, and venue name and location, indicating that these are crucial pieces of information.
-
-Each field seems to have a specific role in the overall context of the form:
-
-*   The "Event Title" field is used to enter the name of the musical performance or concert.
-*   The "Event Date" field is used to enter the date of the event.
-*   The "Event Start Time" field is used to enter the start time of the musical performance.
-*   The "Event End Time" field is used to enter the end time of the musical performance.
-*   The "Venue Name" field is used to enter the name of the concert hall, auditorium, or theater.
-*   The "Venue Location" field is used to enter the building and room number of the venue.
-*   The "On Campus or Off Campus" field is used to indicate if the event is held on or off campus.
-*   The "Type of Music Event" field is used to select the type of music event (e.g., concert, recital, performance, masterclass, music festival, etc.).
-*   The "Performing Groups or Ensembles" field is used to enter the name of the orchestra, choir, band, soloists, etc.
-*   The "Conductor or Director" field is used to enter the name of the music director or conductor.
-*   The "Featured Soloists or Guest Artists" field is used to enter the name of soloists or guest artists.
-*   The "Program Overview" field is used to enter a brief description of the music and composers.
-*   The "Detailed Program Information" field is used to enter a detailed list of pieces, movements, or selections.
-*   The "Estimated Performance Duration" field is used to enter the estimated length of the performance in minutes.
-*   The "Intermission Included" field is used to indicate whether an intermission is included.
-*   The "Venue Seating Capacity" field is used to enter the number of seats available.
-*   The "Admission Cost" field is used to enter the free or ticket price.
-*   The "Student Discounts Available" field is used to indicate whether student discounts are available.
-*   The "Where to Purchase Tickets" field is used to enter where to purchase tickets.
-*   The "Reservation or RSVP Required" field is used to indicate whether a reservation or RSVP is required.
-*   The "Accessibility Information" field is used to enter information about wheelchair access, parking, etc.
-*   The "Childcare Available" field is used to indicate whether childcare is available.
-*   The "Parking Information" field is used to enter available parking options.
-*   The "Special Notes or Announcements" field is used to enter any additional information.
-*   The "Event Contact Person" field is used to enter the name of the person to contact for questions or inquiries.
-
-</thinking>
-
 # College Of Music Event Information Form - Help Guide
 ## Purpose
 The College Of Music Event Information Form is a comprehensive form designed to collect details about a music event. This form helps to gather information such as event title, date, time, venue, and other relevant details to promote or manage the event.

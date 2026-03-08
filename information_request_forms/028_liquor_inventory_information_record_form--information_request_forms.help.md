@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information related to liquor inventory management, specifically sales data, purchase history, and other relevant details. This form should be used to record sales data for a specific liquor inventory item, including sales price, sales date and time, and other key information. Please ensure that you have the necessary permission to complete this form. Please also note that completing this form is not a replacement for other required processes or documentation. Before filling out this form, ensure that you have checked the relevant sections of the liquor inventory information record form and have not already completed this form for the same item.
-</thinking>
-
 # Liquor Inventory Information Record Form - Help Guide
 ## Purpose
 The Liquor Inventory Information Record Form is a document used to record and manage liquor inventory data, including sales information and purchase history.

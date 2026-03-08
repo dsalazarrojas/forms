@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # ugc_review_collaboration_agreement - Help Guide
 
 ## Purpose

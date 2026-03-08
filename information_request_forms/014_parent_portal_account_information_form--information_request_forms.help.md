@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the parent portal account. It's designed to gather essential details from parents or guardians, including student and parent contact information, and any additional messages they may have. The form is likely to be used by administrators or staff in schools or institutions to collect and store information for future reference. Before starting, please ensure you are filling out this form for your own account and not duplicating someone else's data.
-</thinking>
-
 # Parent Portal Account Information Form - Help Guide
 ## Purpose
 This form is used to collect information about your parent portal account for the purpose of updating or verifying your account details. Please fill out this form carefully as the information you provide will be used to ensure seamless interaction with our services.

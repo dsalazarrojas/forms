@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to document the details of an employee's departure from the company as they exit the performance improvement plan. This form should only be completed once an employee's performance improvement plan has been exited from the system. 
 
 </thinking>

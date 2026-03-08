@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect diversity and inclusion strategy contact information from various companies and stakeholders. This form is meant to gather details about the company, its size, and its industry, as well as the contact person's name and contact method. The form is designed to be a one-time entry point for companies to provide this information.
-
-We expect companies to be a mix of large, medium, and small businesses from various industries, and for the contact person to be able to fill out the form with ease. This information will be used to help us tailor our diversity and inclusion strategy to better serve the needs of the companies.
-
-This form should only be filled out by authorized company representatives, and it is expected that this information will not be duplicated. If a company has already provided this information, please do not fill it out again.
-
-Please make sure to fill out this form completely and accurately, and if you have any questions or need help, feel free to reach out to us.
-
-</thinking>
-
 # diversity_and_inclusion_strategy_contact_form - Help Guide
 ## Purpose
 This form is designed to collect diversity and inclusion strategy contact information from various companies and stakeholders.

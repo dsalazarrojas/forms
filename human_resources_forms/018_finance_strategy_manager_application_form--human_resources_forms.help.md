@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect information from candidates applying for the Finance Strategy Manager position. The form is divided into several pages, each with different fields that ask for specific information about the candidate, such as contact details, experience, certifications, education, and availability. The form is not meant to be a comprehensive assessment, but rather a means to gather relevant data to help with the hiring process. The fields are mostly text-based, with some select_one and select_multiple options for certain questions. The form is not a requirement for the candidate's application, but rather an optional tool to help us better understand their qualifications. It's essential to fill out the form accurately and thoroughly to ensure that we receive the necessary information to evaluate your application. 
-
-</thinking>
-
 # finance_strategy_manager_application_form - Help Guide
 ## Purpose
 This form is designed to collect information from candidates applying for the Finance Strategy Manager position. It is not a comprehensive assessment, but rather a means to gather relevant data to help with the hiring process.

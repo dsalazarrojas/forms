@@ -1,5 +1,3 @@
-<thinking>This form is designed to gather information about fire department incidents. The purpose of this form is to record details about emergency calls, training drills, and special events handled by fire departments. This form will help gather crucial data for reporting and analysis purposes. Please ensure you fill out this form accurately and completely to help the fire department optimize its response and services.</thinking>
-
 # Fire Department Incident Report - Help Guide
 ## Purpose
 This form is for reporting incidents handled by the fire department. It helps to record details about emergency calls, training drills, and special events.

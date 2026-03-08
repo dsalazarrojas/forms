@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect patient information for the Choices's Pregnancy Center. The purpose of this form is to gather essential details about the patient's personal and medical history to provide effective care and support. The form is divided into several sections, including Personal Information, Contact Information, Pregnancy Information, Medical History, Prenatal Care, and Healthcare Provider. To ensure that the form is completed correctly, it should be filled out by the patient or their authorized representative. Please note that the form may not be suitable for patients under 18 years old or those who are not pregnant or do not want to be identified as such.
-</thinking>
-
 # Choices's Pregnancy Center Patient Information - Help Guide
 ## Purpose
 

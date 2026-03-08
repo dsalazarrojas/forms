@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about incidents, including dates, locations, descriptions, causes, and statuses. It is used to report incidents that occurred, and the information collected will help in the incident investigation and follow-up processes. Please ensure that you are filling out this form correctly, as any incomplete or inaccurate information may lead to duplication of efforts or missed follow-up opportunities.
-</thinking>
-
 # Incident Report - Help Guide
 ## Purpose
 This form is used to report incidents and collect relevant details to aid in the incident investigation and follow-up process.

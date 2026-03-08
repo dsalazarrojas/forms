@@ -1,15 +1,3 @@
-<thinking>
-
-This form is used for employees to submit their internship leave applications. To ensure that only relevant and valid applications are submitted, please review the following guidelines before filling out the form.
-
-This form is intended for employees who are currently or will be on internship, and the purpose of this form is to request leave for a specific period. The form is used to track and manage leave requests, and ensure that all necessary information is provided for proper processing and approval.
-
-Please note that this form should not be used for regular leave requests, such as those for vacation or emergency purposes. If you are unsure about the type of leave you are requesting, please contact your HR department for guidance.
-
-Before starting the form, review the guidelines below and ensure you have all necessary information ready.
-
-</thinking>
-
 # internship_leave_application_form - Help Guide
 ## Purpose
 The internship leave application form is used for employees on internship to request leave for a specific period. This form is to be filled out with accurate and complete information to ensure proper processing and approval.

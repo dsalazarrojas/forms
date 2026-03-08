@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # New Hire 30 Day Check In Form - Help Guide
 
 ## Purpose

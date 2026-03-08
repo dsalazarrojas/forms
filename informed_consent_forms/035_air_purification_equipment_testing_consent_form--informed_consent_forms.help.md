@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to obtain informed consent from participants before performing tests on air purification equipment. This form is intended for use in a laboratory or testing environment where participants may be exposed to potentially hazardous substances or procedures. Before filling out this form, please ensure that you are a participant and that you have the necessary clearance and permissions to provide informed consent. Note that this form is a legal document and should be reviewed carefully before submission. If you have filled out this form previously, please check if you still have access to the relevant information before resubmitting.
-</thinking>
-
 # Air Purification Equipment Testing Consent Form - Help Guide
 ## Purpose
 The Air Purification Equipment Testing Consent Form is designed to obtain informed consent from participants before testing of air purification equipment. This form is intended for use in a laboratory or testing environment where participants may be exposed to potentially hazardous substances or procedures.

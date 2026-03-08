@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to classify independent contractors based on their contracts. The purpose of this form is to gather information about a contractor's company, contract details, payment information, and other relevant data. This form is likely used by businesses or organizations to manage their relationships with independent contractors. The form does not appear to be a redundant or duplicate effort, as it seems to be an original creation. The internal logic and fields suggest a need to classify contractors based on their contract types, statuses, and payment information. This form might be used for tax purposes, insurance purposes, or other administrative tasks related to managing independent contractors. The form's fields and structure seem to be designed to collect relevant data for such tasks.
-
-</thinking>
-
 # Independent Contractor Classification Questionnaire - Help Guide
 
 ## Purpose

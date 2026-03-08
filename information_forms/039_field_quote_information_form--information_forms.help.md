@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for gathering information from customers to provide an effective quote for their field work or services. This form is an AI-generated adaptation of a public survey topic and is not affiliated with any form platform. The form is designed to be easy to use and requires no technical expertise. Please fill out the form only once and do not duplicate your responses.
-</thinking>
-
 # Field Quote Information Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers to provide an effective quote for your field work or services. Please fill out this form to help our team provide a accurate quote for your needs.

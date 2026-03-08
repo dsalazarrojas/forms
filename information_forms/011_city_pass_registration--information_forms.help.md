@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # City Pass Registration - Help Guide
 ## Purpose
 This form is used to register an individual for a city pass, which is a type of identification that verifies an individual's eligibility to participate in city programs and services. The city pass is issued to local residents, seniors, students, and visitors, and it is required for various city programs and services.

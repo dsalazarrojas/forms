@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect travel-related information from users. It is crucial to ensure accuracy in the data submitted to maintain efficient travel planning. Before filling out this form, please ensure that the information you provide is up-to-date and relevant. To avoid confusion, please do not submit duplicate entries.
-</thinking>
-
 # Travel Information Form - Help Guide
 ## Purpose
 

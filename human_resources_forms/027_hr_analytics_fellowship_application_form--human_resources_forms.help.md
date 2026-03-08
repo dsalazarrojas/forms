@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to gather information from potential applicants for the HR Analytics Fellowship. The form is designed to collect relevant details such as personal contact information, work experience, and availability for the fellowship. The form will help the HR team to evaluate the applicants and make informed decisions about the fellowship selection process.
-
-To ensure that the applicants have a clear understanding of what is required, this guide will walk them through each field and what they should be expecting.
-
-</thinking>
-
 # HR Analytics Fellowship Application Form - Help Guide
 ## Purpose
 The HR Analytics Fellowship Application Form is designed to collect relevant information from potential applicants to support the evaluation and selection process for the HR Analytics Fellowship.

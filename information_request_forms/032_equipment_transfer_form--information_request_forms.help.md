@@ -1,7 +1,3 @@
-<thinking>
-The form is used to facilitate the transfer of equipment between locations within an organization. This form helps ensure that the equipment is properly recorded and tracked during the transfer process. 
-</thinking>
-
 # Equipment Transfer Form - Help Guide
 ## Purpose
 The Equipment Transfer Form is used to report the transfer of equipment between locations within an organization. This form helps in the accurate tracking and recording of equipment transfers, reducing errors and discrepancies.

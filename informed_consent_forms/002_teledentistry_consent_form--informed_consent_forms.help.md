@@ -1,11 +1,3 @@
-<thinking>
-
-This form, named "teledentistry_consent_form," is designed to capture patient information for tele-dentistry services. Its purpose is to inform patients about the consent process and gather essential details about their appointment. The form will guide patients through a step-by-step process, collecting contact and appointment information. As this form is intended for tele-dentistry services, it's likely used by dental clinics or offices that offer online consultations. This form should be used only once a patient has already scheduled an appointment.
-
-It is essential to note that this form was generated based on publicly available data, so it's possible that specific business logic may need adjustments or additions for your use case.
-
-</thinking>
-
 # teledentistry_consent_form - Help Guide
 ## Purpose
 

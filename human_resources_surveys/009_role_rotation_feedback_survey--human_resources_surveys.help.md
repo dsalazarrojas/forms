@@ -1,8 +1,3 @@
-<thinking>
-To ensure that this user-facing help guide is accurate and relevant, I need to confirm that it's based on the provided YAML schema. This guide will cover the purpose of the form, how to complete it, and what each field means. I will also provide concrete explanations for each field to help users understand what to expect and how to provide accurate feedback.
-
-</thinking>
-
 # Role Rotation Feedback Survey - Help Guide
 ## Purpose
 The Role Rotation Feedback Survey is designed to gather information about your experience with a specific rotation, allowing us to understand your overall satisfaction and suggestions for improvement. Please take a few minutes to provide your feedback, and it will help us make the rotation process better for everyone.

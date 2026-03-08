@@ -1,8 +1,3 @@
-<thinking>
-This form is used for updating information, presumably for personal or business use. The form is not affiliated with any form platforms, and it's generated using public metadata from AI. The form's originality, adaptability, and open license (CC BY 4.0) make it suitable for various purposes. Please ensure you're updating relevant and non-duplicate information.
-
-</thinking>
-
 # Information Update Form - Help Guide
 ## Purpose
 This form is designed for updating personal or business information, such as contact details or additional information.

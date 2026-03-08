@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to capture information related to an HR Compliance Workshop Absence. It is meant to be filled out by employees who have missed or will be missing a compliance workshop, and is used for tracking attendance and reasons for absence. This form ensures that employees are aware of their attendance status and submission status, and that relevant information is collected for record-keeping and potential follow-up actions. Please note that all fields marked as "required" must be filled out. If a field is marked as optional, it can be left blank if not applicable. This form is used for internal purposes only and should not be shared externally without proper clearance.</thinking>
-
 # HR Compliance Workshop Absence Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-An employee exit form is used to document employee departures and is typically used by HR or personnel departments to record the date, reason, and employee ID when an employee leaves the company. This form is essential for maintaining accurate records and ensuring a smooth transition.
-</thinking>
-
 # employee_exit_form - Help Guide
 
 ## Purpose

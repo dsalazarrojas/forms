@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about a building's accessibility features and certification status. This information is essential for ensuring that buildings provide equal access and opportunities for people with disabilities. By completing this form, you will be registering your building for accessibility certification, which is a process that evaluates the building's compliance with accessibility standards.
-
-Before proceeding, please ensure that you have the necessary information and permissions to complete this form accurately. If you are unsure about any of the fields, please refer to the guidelines or consult with the relevant authorities.
-
-Also, please note that some fields are required to be filled out, and incomplete forms may not be processed. If you are unable to fill out all the required fields, please contact us for assistance.
-
-</thinking>
-
 # Building Accessibility Certification Registration - Help Guide
 ## Purpose
 The Building Accessibility Certification Registration form is designed to collect information about a building's accessibility features and certification status. This process evaluates the building's compliance with accessibility standards and ensures equal access and opportunities for people with disabilities.

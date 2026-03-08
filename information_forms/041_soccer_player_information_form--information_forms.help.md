@@ -1,8 +1,3 @@
-<thinking>
-The Soccer Player Information Form is used to collect information about soccer players, specifically to create or update a player's profile. This form is typically used by administrators or coaches to collect essential details about players for administrative purposes, such as registration, communication, or emergency contact information.
-To ensure that the form is properly filled out, it should only be used for the intended purpose and not for duplicate or unnecessary submissions.
-</thinking>
-
 # Soccer Player Information Form - Help Guide
 
 ## Purpose

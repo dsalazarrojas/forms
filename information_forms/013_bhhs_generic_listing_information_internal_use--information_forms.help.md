@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used internally within BHHS to collect and display listing information for a property. This form is a template and is likely used by agents to enter details about a property and its listing status. To determine if this form meets your needs, consider whether you are an authorized user and if this is the correct form for your use case. If this is not the correct form, please refer to the form catalog for alternative options. 
-
-</thinking>
-
 # BHHS Generic - Listing Information (Internal Use) - Help Guide
 ## Purpose
 The purpose of this form is to collect and display essential details about a property, including its listing information and property features.

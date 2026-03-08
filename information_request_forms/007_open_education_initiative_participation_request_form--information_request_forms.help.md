@@ -1,7 +1,3 @@
-<thinking>
-Please note that this form is used to collect information from individuals interested in participating in the Open Education Initiative. The form is designed to gather details about the participant's background, interests, and how they heard about the initiative. Before completing the form, please ensure you have not already submitted a participation request form in the past. This form is not intended for current project team members.
-</thinking>
-
 # Open Education Initiative Participation Request Form - Help Guide
 ## Purpose
 The Open Education Initiative Participation Request Form is used to gather information from individuals interested in participating in the Open Education Initiative. This form helps us understand your background, interests, and how you heard about the initiative.

@@ -1,7 +1,3 @@
-<thinking>
-The form "Product Defect Incident Form" is designed to collect information about product defects or issues that have occurred. This form is intended to be used by employees to report incidents related to products, and its purpose is to gather data that can be used to improve product quality and resolve issues in a timely manner. To ensure that the form is filled out correctly, please note that each field is optional and the form is not intended to be filled out in duplicate. The fields are meant to provide a clear and concise overview of the incident, allowing for accurate identification and analysis of the issue.
-</thinking>
-
 # Product Defect Incident Form - Help Guide
 ## Purpose
 The Product Defect Incident Form is used to report product defects or issues that have occurred. This form helps to collect data on the incident, including date and time, product ID, defect description, category, location, status, employee ID, department, and any other relevant information.

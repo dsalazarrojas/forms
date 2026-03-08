@@ -1,7 +1,3 @@
-<thinking>
-This help guide is being created to assist end users in understanding the purpose and requirements of the "Simple Annual Performance Review Form". The form's purpose is to provide a straightforward method for employees to document their annual performance reviews, including strengths, areas for improvement, and recommendations. This guide will break down the form into its individual fields, explaining each section and its corresponding field label. It's assumed that users are familiar with the general concept of annual performance reviews and their importance in the workplace. Please read on to understand how to complete this form efficiently and effectively.
-</thinking>
-
 # Simple Annual Performance Review Form - Help Guide
 ## Purpose
 This form is designed to facilitate the completion of annual performance reviews. It helps employees and supervisors evaluate performance over the past year, identify areas of improvement, and outline goals and recommendations for future growth.

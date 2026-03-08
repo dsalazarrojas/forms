@@ -1,5 +1,3 @@
-<thinking>Before filling out the Cybersecurity Breach Intake Form, please make sure you have a clear understanding of the incident's severity, impact, and resolution. Also, confirm that this is not a duplicate report. The purpose of this form is to gather essential information about the incident, including its type, location, and impact, to help the incident response team triage and resolve the issue efficiently.</thinking>
-
 # Cybersecurity Breach Intake Form - Help Guide
 ## Purpose
 This form is designed to collect information about cybersecurity breaches or incidents that have occurred within our organization. It helps the incident response team to quickly identify and respond to the incident.

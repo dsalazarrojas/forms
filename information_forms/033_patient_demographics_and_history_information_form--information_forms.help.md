@@ -1,7 +1,3 @@
-<thinking>
-The patient demographics and history information form is designed to collect vital details about a patient's identity, medical history, and contact information. This form will help healthcare providers gather essential data for patient care and treatment.
-</thinking>
-
 # Patient Demographics And History Information Form - Help Guide
 ## Purpose
 The purpose of this form is to collect patient information, including their name, date of birth, medical history, and contact details, to provide comprehensive care and treatment.

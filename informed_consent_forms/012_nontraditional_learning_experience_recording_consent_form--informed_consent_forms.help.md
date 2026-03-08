@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect participant's consent and permissions for recording non-traditional learning experiences, such as audio, video, phone, computer, and other devices. The form aims to ensure that participants understand what they are consenting to and can provide their permission for recordings to be made. The form also includes fields for recording specific activities, such as meetings, interviews, and note-taking.
-
-Before starting, make sure to check if you've completed a similar form in the past. If you've already given permission for recording, you can skip this form. Please answer the questions honestly and accurately to ensure that your recordings are valid and compliant with any relevant regulations.
-
-</thinking>
-
 # Nontraditional Learning Experience Recording Consent Form - Help Guide
 ## Purpose
 The Nontraditional Learning Experience Recording Consent Form is designed to collect participant's consent and permissions for recording non-traditional learning experiences. This form ensures that participants understand what they are consenting to and can provide their permission for recordings to be made.

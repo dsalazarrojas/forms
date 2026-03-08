@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to help update the contact information for Fellow Program Alumni. It's likely used by administrators or staff members to collect and store data about alumni's updated contact details. The form might be used to ensure that alumni's information is up-to-date and accurate, enabling the organization to maintain a comprehensive database. This form could be part of a larger system that tracks alumni engagement, networking, or other activities. However, the exact use case and business logic behind this form might not be explicitly stated, so it's possible that the form is used for a different purpose.
-
-</thinking>
-
 # Fellow Program Alumni Contact Update Form - Help Guide
 ## Purpose
 This form is designed to collect and update contact information for Fellow Program Alumni. It's intended for administrators or staff members to use when gathering updated details from alumni.

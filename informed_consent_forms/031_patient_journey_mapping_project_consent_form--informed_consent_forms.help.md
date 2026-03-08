@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information and consent from patients participating in the Patient Journey Mapping Project. The form aims to understand the patients' demographics, contact details, and consent status for the project's research activities. Before filling this form, please ensure that you have not already submitted this information to the project team or any other entity. If you are unsure, kindly contact us to confirm.
-</thinking>
-
 # Patient Journey Mapping Project Consent Form - Help Guide
 ## Purpose
 The Patient Journey Mapping Project is a research initiative that aims to improve patient experiences and outcomes. This consent form is a crucial part of the project, and it's essential to complete it carefully and accurately to ensure your participation and information are properly recorded.

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of the "Puppy Contract Form" is to collect information about a puppy sale transaction, including details about the buyer, puppy, and seller. This form likely ensures that all relevant data is captured for record-keeping and potential legal or veterinary purposes. It's worth noting that the fields on this form seem to cover various aspects of the transaction, such as the buyer and seller's contact information, the puppy's medical history, and important details about the puppy's treatment. To ensure that this form is being used correctly, we should review the fields and explanations provided below to understand the expected input.
-
-</thinking>
-
 # Puppy Contract Form - Help Guide
 ## Purpose
 The "Puppy Contract Form" collects information about a puppy sale transaction, including buyer and seller details, the puppy's medical history, and other relevant data.

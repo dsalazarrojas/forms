@@ -1,7 +1,3 @@
-<thinking>
-This form is for collecting information from a new leader or employee regarding their commitments, responsibilities, and other details. The form aims to standardize the process of onboarding new leaders and ensuring they understand their role and expectations. Before proceeding, review the form carefully to ensure you understand its purpose and the information being requested. This form is not part of any specific platform's proprietary system, and any form adaptation or modification is allowed under the Creative Commons BY 4.0 license.
-</thinking>
-
 # Leader Agreement Form - Help Guide
 ## Purpose
 The Leader Agreement Form is a standard document for new leaders or employees to provide their details, commitments, and other essential information. It ensures a smooth onboarding process and clarifies their role and expectations.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # safety_compliance_officer_contact_form - Help Guide
 ## Purpose
 The safety compliance officer contact form is designed to allow employees to report incidents, safety concerns, and compliance questions to the safety compliance officer. This form is used to facilitate communication and reporting within the organization, ensuring that any potential safety issues are addressed promptly.

@@ -1,18 +1,3 @@
-<thinking>**Form Designer Note:**
-
-Before creating this help guide, let's briefly review the form purpose and check for relevance and non-duplication. This "Department Information Form" is designed to collect information about departments, which seems to be a crucial part of organizational structure. The form has a mix of fields, including text, email, select_one, and note types, suggesting it's meant to capture various types of data.
-
-Let's check for redundancy and potential issues:
-
-*   The `department_manager` field has a hint that could be filled in by providing a list of available managers, but there's no clear indication of who to choose from or any other guidance.
-*   The `department_email` field is an email type but does not have a clear label or explanation. We should make sure end users understand this is meant for email contact.
-*   The `department_status` field is a select_one type with only two options, Active and Inactive. This seems to be a simple toggle for the department's status.
-*   The `department_description` field is meant for a free-text description of the department.
-
-With these points in mind, let's create the help guide.
-
-</thinking>
-
 # Department Information Form - Help Guide
 ## Purpose
 The Department Information Form is designed to collect and store department-specific data for the organization. Fill out this form to provide details about your department's contact information, status, and other relevant details.

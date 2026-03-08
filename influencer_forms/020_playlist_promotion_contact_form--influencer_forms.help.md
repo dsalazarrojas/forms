@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to help artists and music promoters contact us about promoting their music on our playlists. We want to get to know more about you and your music, so we ask for your personal and professional information. Our team reviews each submission carefully and gets back to you with a decision. Please note that we only need each field once to get in touch with you. 
-- We have checked that this form is not being used for any other purpose. 
-- There is no internal duplicate logic to avoid using it for this form. 
-- We do not ask for the same information twice. 
-- This form should not be used for any other purpose. 
-</thinking>
-
 # Playlist Promotion Contact Form - Help Guide
 ## Purpose
 This form is designed for artists and music promoters to contact us about promoting their music on our playlists. We collect information about you and your music to get in touch with you and potentially feature it on our platform.

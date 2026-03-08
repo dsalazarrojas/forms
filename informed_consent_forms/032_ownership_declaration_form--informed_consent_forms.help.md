@@ -1,13 +1,3 @@
-<thinking>
-This form is used to collect information from the pet owner, ensuring that they have provided informed consent and accurate details about themselves and their pet. It's essential to understand that this form is not intended for pets that are not owned by the person filling it out. This form is used in conjunction with other forms that require pet ownership verification.
-
-Before filling out this form, please ensure you're only declaring ownership of your pet(s). If you're unsure about any part of the form, please reach out to our support team for clarification.
-
-The form is not intended to be filled out for:
-- Pets that are not yours (e.g. family members, friends, or colleagues' pets)
-- Duplicate declarations (e.g. if you've already declared ownership of your pet previously)
-</thinking>
-
 # Ownership Declaration Form - Help Guide
 ## Purpose
 The Ownership Declaration Form is used to collect information from the pet owner, ensuring that they have provided informed consent and accurate details about themselves and their pet. This form is used to verify pet ownership and is not intended for pets that are not owned by the person filling out the form.

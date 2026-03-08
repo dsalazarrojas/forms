@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for obtaining informed consent from research participants in social responsibility research interviews. The form aims to gather essential information from participants, including their permissions, contact details, and demographic data. This form is a critical component of the research process, ensuring that participants understand the nature of the research and their role in it. By using this form, researchers can ensure that participants provide their informed consent, which is a fundamental principle in ethical research practices.
-
-</thinking>
-
 # social_responsibility_research_interview_consent_form - Help Guide
 ## Purpose
 The purpose of this form is to gather informed consent from research participants in social responsibility research interviews.

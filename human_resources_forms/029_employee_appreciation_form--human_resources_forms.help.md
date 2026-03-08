@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information on employee appreciation, which can include recognition or rewards given to employees for their hard work and contributions. This form aims to provide a formal channel for managers, supervisors, and other personnel to express their gratitude and acknowledge employee achievements. It may be used for various purposes, such as recognizing an employee of the month or year, or for offering a gift or cash reward. To ensure the information gathered is accurate and complete, the form requires a unique employee ID, employee name, manager's and supervisor's name, department, division, job title, appreciation amount, and appreciation date. Optional fields include the event that led to the appreciation, the type of appreciation, and the employee's status (e.g., active, inactive, retired, on leave). The form also allows for free-form comments and notes to be provided by the person expressing the appreciation. This form will help maintain an accurate record of employee recognition and appreciation, which can be useful for future reference and evaluation.
-</thinking>
-
 # Employee Appreciation Form - Help Guide
 ## Purpose
 The Employee Appreciation Form is used to gather information on employee recognition or rewards for their hard work and contributions. It helps maintain a formal record of employee appreciation for future reference and evaluation.

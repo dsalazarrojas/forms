@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to be used for a specific type of interview, likely in the context of hiring or recruitment, where the form is meant for individuals who want to apply for a job. The form's purpose is to gather basic information about the candidate, including personal details, contact information, job application details, education, skills, experience, job history, and availability. The form is likely used by HR or recruitment teams to streamline the candidate evaluation process.
-Please ensure that this form is not used for any other purpose or in any other context that may be considered sensitive or regulated. The form's design and layout are meant to be simple and easy to use for end-users. Each field's label and description have been carefully crafted to provide clear and concise explanations for each field, making it easy for users to understand the form's intent and purpose.
-</thinking>
-
 # pre_interview_form_pen_brothers - Help Guide
 ## Purpose
 The pre-interview form for Pen Brothers is designed to collect essential information from candidates. This form helps the hiring team to evaluate and process candidate applications efficiently.

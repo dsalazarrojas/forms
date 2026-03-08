@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect information about clients, including their personal and business details, contact preferences, and relationship with the company. 
-This form will be used to create a client information card, which will be used to track and manage client interactions. 
-The form has multiple pages with various fields, and some fields have multiple options to choose from. The client information card will be created once all required fields are filled out.
-</thinking>
-
 # Client Information Card Form - Help Guide
 ## Purpose
 This form is used to collect essential information about clients and create a client information card to track and manage client interactions.

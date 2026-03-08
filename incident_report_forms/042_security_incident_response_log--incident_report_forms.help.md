@@ -1,26 +1,3 @@
-<thinking>
-  This form is designed to collect information about security incidents that have occurred within an organization. It is meant to provide a structured way of documenting and tracking the status of incidents, allowing for easy reference and review. When filling out this form, please ensure that you are providing accurate and complete information to ensure that the incident is properly documented and resolved.
-  Please note that some fields may be optional, but it's crucial to fill out as much information as possible to ensure that the incident is properly tracked and reported.
-  Before completing this form, please review the following fields to determine which ones apply to your specific situation:
-  * incident_type (e.g., Malware/Security Breach, Unauthorized Access, Data Theft, etc.)
-  * incident_location (where the incident occurred)
-  * incident_date_time (when the incident occurred)
-  * incident_status (Open, Closed, Resolved)
-  * incident_cause (briefly describe the reason for the incident)
-  * incident_description (provide a detailed description of the incident)
-  * incident_category (e.g., IT Security, Facilities, Physical Security, Network Security)
-  * incident_reporter (who reported the incident)
-  * incident_reviewer (who reviewed the incident)
-  * incident_review_status (Open, Closed, Completed)
-  * incident_reviewed_by (who reviewed the incident)
-  * incident_resolution (what was done to resolve the incident)
-  * incident_resolution_date_time (when the incident was resolved)
-  * incident_follow_up (any follow-up information related to the incident)
-  * incident_follow_up_date_time (when the follow-up was done)
-  * additional_comments (any additional comments about the incident)
-
-</thinking>
-
 # Security Incident Response Log - Help Guide
 ## Purpose
 This form is designed to collect and document information about security incidents that have occurred within an organization. It helps in tracking the status of incidents, facilitating easier reference and review.

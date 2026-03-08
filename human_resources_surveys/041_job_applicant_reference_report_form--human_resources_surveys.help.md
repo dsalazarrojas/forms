@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a reference report for job applicants, providing a way for employers to gather information about a candidate's job history, qualifications, and contact details. This form is likely used in a hiring process, allowing employers to assess a candidate's fit for a role. Before filling out this form, please ensure that you are authorized to access and share this information, and that you are not duplicating effort with similar forms. Ensure that you have the necessary permission and clearance to complete this form.
-</thinking>
-
 # job-applicant-reference-report-form - Help Guide
 ## Purpose
 This form is a reference report for job applicants, gathering information about a candidate's job history, qualifications, and contact details. It's used in the hiring process to assess a candidate's fit for a role.

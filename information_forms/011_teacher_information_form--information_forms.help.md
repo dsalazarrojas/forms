@@ -1,11 +1,3 @@
-<thinking>
-This form was created using AI and is intended to collect information about a teacher. It is not affiliated with, endorsed by, or derived from any existing form platform. The form's purpose is to collect basic contact and job information about the teacher. Please ensure that the submitted information is accurate and up-to-date.
-
-Before starting, please note that the form is divided into four sections, each with a specific field to fill in. Ensure you complete all fields to the best of your abilities and according to your personal information.
-
-This form is not intended to be used for any commercial purpose. If you would like to use this form for commercial purposes, please give credit accordingly.
-</thinking>
-
 # Teacher Information Form - Help Guide
 ## Purpose
 The Teacher Information Form is designed to collect basic contact and job information about a teacher.

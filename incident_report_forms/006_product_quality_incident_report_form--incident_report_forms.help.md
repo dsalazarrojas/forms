@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to collect information about incidents that have occurred related to the product, such as errors, bugs, or other issues. This form helps the product team to quickly gather details about the incidents and prioritize the issues for resolution. The form is intended to be completed by users who have encountered an incident while using the product. The purpose of the form is to provide a structured and organized way to report incidents and ensure that the correct information is captured for analysis and resolution.
-
-The form will likely be filled out by users who are reporting an issue with the product, and it will likely be used by the product team to determine the next steps to take for resolving the issue. To ensure the form is used correctly, it's essential to understand what each field is for and how to fill it out. This guide will walk through each field and provide an explanation of what it's for and how to complete it.</thinking>
-
 # Product Quality Incident Report Form - Help Guide
 
 ## Purpose

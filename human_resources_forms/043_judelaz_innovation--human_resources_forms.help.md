@@ -1,5 +1,3 @@
-<thinking> This form, "Judelaz Innovation", appears to be a job application form for a company looking to hire employees with specific skills and requirements. To ensure relevance, the form seems to be designed for candidates who have experience in the agriculture sector. The required fields indicate that the job is looking for specific skills, experience, and qualifications. The form also asks for details such as email, job title, department, and job category, which could be used to filter or categorize applicants. The required fields suggest that the company is looking for a specific type of candidate who has a certain level of experience, job status, and work schedule. There doesn't seem to be any duplication or redundancy in the form's design, so it's likely that it's a comprehensive form to gather all necessary information from applicants. </thinking>
-
 # Judelaz Innovation - Help Guide
 
 ## Purpose

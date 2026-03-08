@@ -1,5 +1,3 @@
-<thinking>...the form is designed to collect information from employees and managers about the sentiment and performance of their team members. This form will help the HR department to track and analyze employee performance and sentiment data. It is recommended that this form is only completed if the employee or manager has not submitted a similar request in the past 30 days. If you are unsure about the purpose of this form, please reach out to your HR department for clarification. Before completing this form, ensure that you have the necessary permissions and authorization to do so. If you are completing this form on behalf of another employee, please ensure that you have their explicit consent to do so.</thinking>
-
 # Employee Sentiment Summary Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from employees and managers about the sentiment and performance of their team members. It will help the HR department to track and analyze employee performance and sentiment data.

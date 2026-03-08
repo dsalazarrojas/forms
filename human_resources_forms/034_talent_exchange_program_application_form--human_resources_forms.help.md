@@ -1,9 +1,3 @@
-<thinking>
-**Internal Reasoning Block:**
-
-This help guide aims to ensure end-users understand the purpose and requirements for completing the Talent Exchange Program Application Form. The form is designed to collect information about an individual's exchange program, including their personal details (first name, last name, email, phone number, and start/end dates), team lead, rotation location, reason, and duration. The form is required to be completed accurately and thoroughly to ensure proper processing of exchange requests. Duplicate or incomplete submissions can cause delays in processing and may result in missed opportunities. Please review the form carefully and ensure all required fields are filled in correctly.
-</thinking>
-
 # Talent Exchange Program Application Form - Help Guide
 ## Purpose
 

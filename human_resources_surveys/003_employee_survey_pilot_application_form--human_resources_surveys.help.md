@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect data for the purpose of evaluating employee engagement and feedback for the organization's pilot survey initiative. This guide is intended to help users understand how to complete the form correctly and accurately. Please note that this form is not intended for production use and is currently in a pilot phase.
-
-</thinking>
-
 # Employee Survey Pilot Application Form - Help Guide
 ## Purpose
 This form is used to collect employee data for the pilot survey initiative, aiming to gauge employee engagement and feedback.

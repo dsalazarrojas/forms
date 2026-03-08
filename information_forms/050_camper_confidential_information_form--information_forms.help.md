@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect sensitive information about campers, including their full name, date of birth, and contact information for parents or guardians. The form also includes fields for allergies or dietary restrictions, medical conditions, and special care instructions. Additionally, it requests permission to use camper photos for camp purposes and requires an electronic signature from the parent or guardian. This form is intended to be completed by parents or guardians before their child arrives at the camp, and it is essential to understand the purpose and requirements of the form to ensure accurate and complete information is provided.
-</thinking>
-
 # Camper Confidential Information Form - Help Guide
 ## Purpose
 This form is used to gather essential information about campers, including their full name, contact details, and medical history. It is essential to complete this form accurately and thoroughly to ensure the camper's safety and well-being during their stay at the camp.

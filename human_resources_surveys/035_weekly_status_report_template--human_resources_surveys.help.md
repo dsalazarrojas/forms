@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect weekly status reports from employees, providing a structured template for tracking work progress, challenges, and next steps. It helps employees stay organized and ensures timely reporting to their managers. 
-
-To complete this form, start by filling out the basic information required in each field.
-
-</thinking>
-
 # Weekly Status Report Template - Help Guide
 ## Purpose
 

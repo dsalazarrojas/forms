@@ -1,9 +1,3 @@
-<thinking>
-
-To help create an effective and user-friendly incident report form for theme park ride malfunctions, we need to ensure that users understand the form's purpose and how to complete it accurately. This form is designed to collect information about incidents that occur during theme park ride malfunctions, such as ride stoppages, breakdowns, or other disruptions. Its purpose is to help theme park staff and management quickly gather and document details about these incidents, which can be used to identify causes, assess risks, and take corrective actions to prevent future malfunctions.
-
-</thinking>
-
 # theme_park_ride_malfunction_incident_report - Help Guide
 ## Purpose
 This form is used to document and report malfunctions that occur during theme park ride operations. It helps theme park staff and management gather information about the incident, including its date, time, status, and cause, to take prompt actions and prevent future malfunctions.

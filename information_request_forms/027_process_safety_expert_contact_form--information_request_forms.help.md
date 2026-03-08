@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to help users understand the purpose and usage of the "Process Safety Expert Contact Form". To the best of my knowledge, this form is used to gather contact information from individuals who want to reach out to the process safety experts in a company or organization. This form might be used internally within the organization to collect feedback, questions, or other information from external parties. However, I'm not aware of any specific business logic or rules that dictate the form's purpose. To avoid duplication, I will assume that this form is not meant to be used in a production environment and is rather for testing or proof-of-concept purposes.
-</thinking>
-
 # Process Safety Expert Contact Form - Help Guide
 ## Purpose
 The Process Safety Expert Contact Form is a contact form designed to gather information from individuals who want to reach out to process safety experts within an organization. This form can be used to collect feedback, questions, or other information from external parties.

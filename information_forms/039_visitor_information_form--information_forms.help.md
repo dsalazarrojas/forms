@@ -1,7 +1,3 @@
-<thinking>
-The form "visitor_information_form" is a simple form designed to collect visitor information, likely for visitor logs or records. It consists of six fields: First Name, Last Name, Email, Time In, Time Out, and Reason for visiting. The form does not have any dependencies or conditional logic, making it suitable for basic visitor information collection.
-</thinking>
-
 # visitor_information_form - Help Guide
 ## Purpose
 The "visitor_information_form" is a form used to collect visitor information, which can be used for visitor logs or records.

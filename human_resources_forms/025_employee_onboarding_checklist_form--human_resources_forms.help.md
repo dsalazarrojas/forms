@@ -1,11 +1,3 @@
-<thinking>
-This form is used to gather general information about new hires in the company, including their job title, job location, job start and end dates, supervisor and manager information, and emergency contacts. This form is not a comprehensive HR system, but rather a tool to help streamline the onboarding process for new employees.
-
-The form is divided into several sections, each representing a different category of information. To complete the form, users will select "Yes" or "No" for general information questions, enter relevant text or date fields for job details, contact information, supervisor and manager information, and emergency contacts, and choose dates for job start and end dates.
-
-The form's fields are designed to collect the necessary information for new hires, but the required fields are limited to job title and job start date. Other fields are optional and are intended to provide additional context and information.
-</thinking>
-
 # Employee Onboarding Checklist Form - Help Guide
 ## Purpose
 The Employee Onboarding Checklist Form is used to gather essential information about new hires in the company, making the onboarding process more efficient and accurate.

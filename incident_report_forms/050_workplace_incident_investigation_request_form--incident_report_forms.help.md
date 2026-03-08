@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather information about workplace incidents, including the type of incident, location, date and time, witness names, contact information, and investigation details. The form aims to facilitate a thorough and efficient investigation process, ensuring that all necessary information is collected and documented.
-
-Before filling out this form, please make sure that you are not duplicating an existing incident report. To ensure this, please review our internal incident reporting system to confirm that a similar incident has not been previously reported.
-
-</thinking>
-
 # workplace_incident_investigation_request_form - Help Guide
 ## Purpose
 This form is used to request an investigation into a workplace incident. It gathers essential information to aid in the investigation process, including the type of incident, location, and witness details.

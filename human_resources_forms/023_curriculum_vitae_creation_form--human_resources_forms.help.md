@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users create a comprehensive Curriculum Vitae (CV) that showcases their professional experience and qualifications. It allows users to input their personal and professional details, such as their name, job title, job dates, and employer information, as well as their work experience and status. This form aims to help users create a professional profile that can be used for job applications, networking, or other purposes.
-</thinking>
-
 # Curriculum Vitae Creation Form - Help Guide
 ## Purpose
 The purpose of this form is to help you create a comprehensive and professional Curriculum Vitae (CV) that showcases your experience, skills, and qualifications.

@@ -1,13 +1,3 @@
-<thinking>
-This form is used to report safety gear failures, which is an essential process for maintaining a safe working environment. Before filling out this form, please ensure you have not already reported this incident, as duplicate reports can cause confusion and lead to unnecessary resources being devoted to non-existent issues.
-
-This form is designed to gather detailed information about a safety gear failure incident. Please complete the form carefully, providing accurate and clear information to help the relevant authorities take necessary actions to prevent future incidents.
-
-Please note that some fields are optional and not all fields are required, depending on the specific circumstances of the incident. If a field does not apply to your situation, please leave it blank or select the appropriate option.
-
-Before starting, make sure to have all the necessary information and documentation ready, such as the safety gear serial number and last inspection date.
-</thinking>
-
 # Safety Gear Failure Incident Form - Help Guide
 ## Purpose
 This form is used to report and document safety gear failures, which is crucial for maintaining a safe working environment.

@@ -1,7 +1,3 @@
-<thinking>
-  Before creating this help guide, I'll assume that the purpose of the "CrowdStrike Outage Report Form" is to document incidents or outages that occur during a service, and the form's primary goal is to gather details about the incident for further analysis and resolution. I'll also assume that the fields in this form are meant to collect essential information about the incident, such as the service name, start and end times, duration, impact level, description, and cause.
-</thinking>
-
 # CrowdStrike Outage Report Form - Help Guide
 ## Purpose
 The Crow Strike Outage Report Form is used to document and report incidents or outages that occur during a service. This form provides essential information about the incident, which helps teams analyze and resolve issues efficiently.

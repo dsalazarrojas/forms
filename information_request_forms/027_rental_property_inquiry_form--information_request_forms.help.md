@@ -1,5 +1,3 @@
-<thinking>Is this form being used to collect rental property information for a specific location? If so, how does it handle scenarios where the user has multiple rental properties in the same location? Is there any specific validation or business logic being applied to certain fields?</thinking>
-
 # Rental Property Inquiry Form - Help Guide
 ## Purpose
 The Rental Property Inquiry Form is designed to collect essential information about a rental property. This form helps the rental agent or property manager to gather details about the property, including its type, location, amenities, and rental terms. The form is used to provide an efficient and accurate way of communicating with clients who are interested in renting a property.

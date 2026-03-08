@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended to assist end-users in completing the Fire Department Incident Form accurately and efficiently. The form's purpose is to gather information about incidents that have occurred, including the date and time of the incident, the location, type of incident, and other relevant details.
-
-Before proceeding, please ensure that the incident has not already been reported. To confirm, check the department's incident log or database, or ask a colleague if the incident is already documented.
-
-The form is designed to be user-friendly, with clear labels and instructions for each field. Each field is described below, along with its corresponding label, type, and any relevant guidance.
-
-</thinking>
-
 # Fire Department Incident Form - Help Guide
 ## Purpose
 The Fire Department Incident Form is used to report incidents that have occurred, including fires, medical emergencies, and rescues. This form helps the fire department gather essential information to respond effectively and efficiently.

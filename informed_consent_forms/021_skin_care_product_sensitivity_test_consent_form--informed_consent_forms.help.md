@@ -1,14 +1,3 @@
-<thinking>
-This form is intended for users to provide information about their skin type, skin history, and sensitivity to specific products. The form aims to gather data for a skin care product sensitivity test, which involves using various skin care products for 7 days to observe any sensitivity or allergic reactions. The form will help users understand their skin's sensitivity and potential reactions to different products. This form is part of a larger data collection effort to improve the accuracy of skin care product recommendations.
-
-The form has been designed with a clear and concise structure, and each field has been carefully crafted to gather relevant information. The form is not affiliated with or derived from any proprietary form platforms, and its purpose is for non-commercial use. The form is released under Creative Commons 4.0, allowing users to use, modify, and even sell forms derived from it, provided they give credit.
-
-Before starting the form, please note that the test involves using a variety of products for 7 days and being aware of potential reactions or irritations. It's essential to understand that this test does not replace medical treatment or diagnosis.
-
-Please fill out the form carefully, and if you have any questions or concerns, contact form@gic.mx.
-
-</thinking>
-
 # Skin Care Product Sensitivity Test Consent Form - Help Guide
 ## Purpose
 This form is designed to gather information about your skin type, history, and sensitivity to specific products. It will help us understand your skin's sensitivity and potential reactions to different products.

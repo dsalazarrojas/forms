@@ -1,7 +1,3 @@
-<thinking>
-We need to determine if the form is being completed for an actual fraudulent transaction, and ensure that it's not a duplicate report for the same transaction. This is crucial to avoid redundant work and potential mismanagement of resources. The form is a critical tool to aid in the detection and prevention of fraudulent activities. 
-</thinking>
-
 # Fraudulent Transaction Review Request Form - Help Guide
 ## Purpose
 The Fraudulent Transaction Review Request Form is a tool used to collect information about suspected fraudulent transactions. This form helps ensure that all necessary details are gathered and reviewed by the relevant team to prevent and detect fraudulent activities.

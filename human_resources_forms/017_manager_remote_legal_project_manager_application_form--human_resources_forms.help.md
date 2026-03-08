@@ -1,13 +1,3 @@
-<thinking>
-
-We're creating a help guide for the "Manager Remote Legal Project Manager Application Form" form. This form is used for managers who are interested in taking on a remote project management role within the company. The form is designed to gather information about the applicant's experience, skills, and availability to ensure they are a good fit for a project manager position. 
-
-To be eligible to take on a project management role, applicants must meet certain requirements, including having relevant experience, skills, and being available to work on specific dates. 
-
-To avoid duplication of effort, only one form should be filled out by each applicant.
-
-</thinking>
-
 # Manager Remote Legal Project Manager Application Form - Help Guide
 ## Purpose
 The purpose of this form is to help the selection committee quickly and accurately gather the necessary information for the project management position. This form ensures that we get a comprehensive view of your skills, experience and availability, making the selection process easier and faster.

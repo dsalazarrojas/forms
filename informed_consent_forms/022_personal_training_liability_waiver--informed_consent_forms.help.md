@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain informed consent from individuals participating in training programs, which helps protect the training organization and the individual from potential legal liabilities. It's essential to ensure that all necessary fields are completed accurately to avoid any issues. Before proceeding, please review the form carefully to understand the required information and its implications.
-</thinking>
-
 # Personal Training Liability Waiver - Help Guide
 ## Purpose
 This form is designed to gather information necessary for informed consent from individuals participating in training programs. The form is essential for the training organization to protect itself and the individual from potential legal liabilities.

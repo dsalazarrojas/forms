@@ -1,7 +1,3 @@
-<thinking>
-This form collects participant information for literature purposes. Before proceeding, ensure that the information is accurate and complete. Please note that this form is meant for one-time collection and is not intended for repeated submissions. Ensure that you've read through the form carefully before submitting it, as submission confirmation cannot be issued for duplicate entries.
-</thinking>
-
 # Literature Personal Information Form - Help Guide
 ## Purpose
 This form is designed to collect participant information for literature purposes, ensuring that the collected data is accurate and complete.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a scaffolding incident that occurred on a construction site. The form is meant to be completed by a person responsible for reporting the incident, and it will help them provide details about what happened, when, and where. This form is a crucial tool for site management and safety teams to gather information and analyze incidents.
-</thinking>
-
 # Scaffolding Incident Report - Help Guide
 ## Purpose
 This form is designed to help report incidents related to scaffolding on construction sites. It is used to gather information about incidents that have occurred, including details about what happened, when and where they occurred, and any other relevant information.

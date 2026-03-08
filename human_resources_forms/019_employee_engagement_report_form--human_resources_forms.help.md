@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to measure employee engagement, which is a critical factor in determining the overall health and productivity of an organization. It helps to gather feedback from employees on their feelings and experiences in the workplace, covering various aspects such as motivation, sense of purpose, communication, and support. The form is intended to be used in conjunction with other HR data and initiatives to create a comprehensive view of employee engagement. This form should not be completed if the employee has already done a similar survey or has provided feedback recently. Please complete the form honestly, and your responses will be kept confidential.
-</thinking>
-
 # Employee Engagement Report Form - Help Guide
 ## Purpose
 The Employee Engagement Report Form is designed to gather feedback from employees on their experiences and feelings in the workplace. This form helps to measure employee engagement, which is essential for creating a positive and productive work environment.

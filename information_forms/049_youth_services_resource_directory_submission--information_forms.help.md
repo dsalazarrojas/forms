@@ -1,5 +1,3 @@
-<thinking>As a user, you are submitting information to be listed in the Youth Services Resource Directory. Please ensure that the information provided is accurate and complete. This form is a one-time submission, and you will be contacted for updates and changes as needed. Before submitting, please ensure that you have reviewed all fields carefully and that the information you provide is consistent throughout the form. If you have any questions or concerns, please don't hesitate to reach out to us for assistance.</thinking>
-
 # Youth Services Resource Directory Submission - Help Guide
 ## Purpose
 The Youth Services Resource Directory Submission form is designed to collect information about programs and services offered to youth in our community. The form helps us to provide accurate and up-to-date information to youth, parents, and service providers.

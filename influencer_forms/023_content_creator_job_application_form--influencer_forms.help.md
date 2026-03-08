@@ -1,7 +1,3 @@
-<thinking>
-We will be using this form to screen applicants for content creation positions within our organization. To be eligible to apply, you must be at least 18 years old, have a valid email address, and be a resident of the United States or Canada. We do not accept applications from individuals with a history of dishonesty, harassment, or other forms of misconduct. This application will be used to assess your qualifications and fit for the position. We may also use this form to verify your employment history and any other information provided. Please ensure that you have carefully read and followed all instructions before submitting your application. This is the only valid application form for this position. Do not submit any other form.
-</thinking>
-
 # Content Creator Job Application Form - Help Guide
 ## Purpose
 This form is designed to help you apply for content creation positions within our organization. Please fill out the form completely and accurately to ensure that your application is properly reviewed.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form, "travel_expense_entry_form", is designed to assist employees in submitting their travel expenses. The form collects essential details about travel plans, including dates, destinations, and any additional remarks or comments. This form will help streamline the expense entry process, reducing the time and effort required for travel expense tracking and reimbursement.
-
-Before diving into the form's specifics, let's ensure the context is suitable for this form: this form should be used by employees to log their business-related travel expenses, such as work trips, conferences, or meetings.
-
-</thinking>
-
 # travel_expense_entry_form - Help Guide
 ## Purpose
 The travel_expense_entry_form is designed for employees to accurately report their business-related travel expenses, ensuring accurate tracking and potential reimbursement.

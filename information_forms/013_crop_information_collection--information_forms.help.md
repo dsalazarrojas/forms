@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Crop Information Collection - Help Guide
 ## Purpose
 The purpose of this form is to collect information from farmers regarding their crops. The form is designed to gather basic details about the crops, farmers, and contact information. This information is essential for various agricultural purposes, such as crop management, monitoring, or market analysis.

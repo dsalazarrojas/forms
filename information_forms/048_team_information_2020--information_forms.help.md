@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a team, including team name, team leaders, team leaders' contact information, and team members. This form will be used to gather data for various purposes, such as team management, reporting, and analysis. It's essential to ensure that the form is completed accurately and thoroughly to provide the most valuable information.
-
-This form appears to be a comprehensive collection of team-related information, but some fields may be redundant or unnecessary. For instance, the form includes both "Team Leaders" and "Team Members" sections, with some fields having similar labels. This may indicate that the form is designed to handle different types of team structures or configurations.
-
-Before proceeding, ensure that the form is not already in use or being updated elsewhere. This will save unnecessary work and prevent data duplication.
-</thinking>
-
 # team_information_2020 - Help Guide
 ## Purpose
 This form collects information about a team, including team name, team leaders, and their contact information.

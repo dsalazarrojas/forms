@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Marina Boat Collision Incident Report Form - Help Guide
 ## Purpose
 The Marina Boat Collision Incident Report Form is used to report incidents that occur in marina environments, such as boat collisions. This form is used to gather information about the incident, including details about the boats involved, the location and time of the collision, and the contact information of the reporting officer. The form is a crucial tool for marina authorities to quickly and effectively respond to and investigate incidents.

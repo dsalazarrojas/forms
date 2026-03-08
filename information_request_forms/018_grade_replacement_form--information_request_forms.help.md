@@ -1,7 +1,3 @@
-<thinking>
-This form is used to replace a grade for a course. To ensure that the form is completed correctly and not duplicate, the user should only submit it once for each grade they want to replace. If the same grade is being replaced, the user will be asked to confirm that they want to replace it again.
-</thinking>
-
 # Grade Replacement Form - Help Guide
 ## Purpose
 This form is used to replace a grade for a course.

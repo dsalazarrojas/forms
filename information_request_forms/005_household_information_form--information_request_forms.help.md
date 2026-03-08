@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended for users who are unfamiliar with the "Household Information Form." The purpose of this form is to collect information about a household's address, composition, income, and other relevant details. This form is not intended for use by individuals, but rather for households as a collective unit. To avoid duplicate submittals, please ensure that only one household representative completes this form.
-
-This form is designed to be completed by one person on behalf of the entire household. Please provide information in a way that is accurate and comprehensive.
-</thinking>
-
 # Household Information Form - Help Guide
 ## Purpose
 The Household Information Form is designed to collect essential details about a household, including its address, composition, income, and other relevant information. This form helps us better understand your household's needs and provide you with targeted support.

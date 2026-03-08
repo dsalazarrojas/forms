@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Body Contouring Intake Form - Help Guide
 
 ## Purpose

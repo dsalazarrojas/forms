@@ -1,5 +1,3 @@
-<thinking> This form is used by employees to submit a request for relocation support when they are transferring to a new location or office. The form must be filled out by the employee and approved by their manager before it can be submitted. Each field in this form requires information specific to the relocation request, including the employee's details, manager details, company details, and dates related to the relocation. The form is designed to gather all necessary information for processing the relocation request, which includes the employee's new location, start date, end date, reason for move, and more. It's essential that the employee fills out the form accurately and completely to avoid any potential issues or delays in processing their request. </thinking>
-
 # Employee Relocation Support Application Form - Help Guide
 ## Purpose
 The purpose of this form is to help employees submit a formal request for relocation support when they are transferring to a new location or office. This form gathers essential information for processing the request, ensuring a smooth transition for both the employee and the company.

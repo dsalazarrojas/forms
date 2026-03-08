@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to report and document storage facility incidents, providing crucial information for analysis, review, and potential investigation. To ensure accurate and comprehensive incident reporting, please review the following guide carefully. Before proceeding, please confirm that the incident has not already been reported or documented. If you are reporting an incident that has already been reported, please contact the relevant authorities or management for guidance on how to proceed.
-</thinking>
-
 # Storage Facility Incident Form - Help Guide
 ## Purpose
 The Storage Facility Incident Form is designed to gather essential details about incidents that occur within storage facilities. This form helps in the collection of accurate information, aiding in the prompt investigation, analysis, and resolution of the incident. It is crucial to report all incidents, regardless of their severity or nature, to ensure the safety and well-being of all personnel and stakeholders.

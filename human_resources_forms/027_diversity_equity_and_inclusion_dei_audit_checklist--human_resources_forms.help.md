@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Diversity, Equity, And Inclusion (DEI) Audit Checklist - Help Guide
 ## Purpose
 This form is designed to help organizations assess their progress in promoting diversity, equity, and inclusion (DEI) within their workplaces. The audit checklist covers various aspects of DEI, including diversity efforts, employee recruitment, leadership accountability, training and development opportunities, data and analytics, and communication. By completing this form, organizations can identify areas of strength and weakness and make data-driven decisions to improve their DEI initiatives.

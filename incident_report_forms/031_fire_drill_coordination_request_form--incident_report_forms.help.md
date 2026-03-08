@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information for fire drill coordination requests. It should only be filled out when a fire drill is necessary for safety reasons, such as a required bi-yearly drill for compliance. Please ensure that this information is only used for its intended purpose and not duplicated or filled out unnecessarily. Please fill out all the required fields (indicated by *) and use only valid options in select fields.
-</thinking>
 # Fire Drill Coordination Request Form - Help Guide
 ## Purpose
 This form is used to request coordination for a fire drill, which is necessary for safety reasons such as a required bi-yearly drill for compliance.

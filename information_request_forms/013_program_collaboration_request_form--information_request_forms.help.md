@@ -1,15 +1,3 @@
-<thinking>
-This help guide is intended to provide users with a clear and concise understanding of the "program_collaboration_request_form" and its purpose. This form is part of the "information_request_forms" category, which implies that it is used to capture and track collaborative requests within the organization. 
-
-When filling out the form, the user should first choose the collaboration type, which will likely determine the subsequent fields that are relevant to the request. The objectives and timelines fields can be filled out by the user to provide more specific details about the collaboration. However, these fields are not required and can be filled out at the user's discretion. 
-
-The collaboration_request_form field is likely used to describe the specific details of the collaboration request, and the collaboration_details field can provide more context and information about the request. The user is also asked to select a status for the request, which will likely determine the next steps within the organization. The assigned_tool and assigned_tool_name fields seem to be related to assigning a tool to the collaboration request, and the user is asked to select the status and name of the tool. However, it is unclear why these fields are not marked as required. 
-
-The form_id field is used to track the unique identifier of the form, and the output_file field is likely used to attach a file that contains additional information or results from the collaboration. 
-
-This guide will aim to provide a clear explanation of each field and help the user complete the form accurately and efficiently.
-</thinking>
-
 # program_collaboration_request_form - Help Guide
 
 ## Purpose

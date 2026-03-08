@@ -1,7 +1,3 @@
-<thinking>
-This guide will assist users in understanding the Apartment Search Criteria Form, which helps identify and filter potential apartments based on their individual needs and preferences. The form is designed to collect information on renter-specific criteria such as name, contact details, and search preferences. To avoid duplication, renters should only submit the form once.
-</thinking>
-
 # Apartment Search Criteria Form - Help Guide
 ## Purpose
 The Apartment Search Criteria Form is a tool to help you find your ideal apartment by specifying your search criteria.

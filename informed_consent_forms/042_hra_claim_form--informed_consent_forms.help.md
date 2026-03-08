@@ -1,12 +1,3 @@
-<thinking>
-Are you ready to create a user-facing help guide for the HRA Claim Form? This form is designed to collect important information from users, specifically to determine whether they are eligible for a certain service or resource. To ensure that this form is used correctly and efficiently, let's review the form's purpose and fields.
-
-Firstly, the form is intended to be used for claiming a resource or service. This might be for personal or business purposes, and it's essential to fill it out accurately to avoid any issues or delays. When completing this form, you'll be asked to provide information about your claim, which will be reviewed and processed accordingly.
-
-Before you start, please note that you should only fill out this form if you have a legitimate claim. If you've already submitted a claim, please don't submit another one, as this might lead to processing delays or duplicate claims.
-
-</thinking>
-
 # HRA Claim Form - Help Guide
 ## Purpose
 The HRA Claim Form is designed to collect information from users to determine their eligibility for a certain service or resource. Please fill out the form accurately to ensure a smooth processing experience.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Disciplinary Action Report - Help Guide
 
 ## Purpose

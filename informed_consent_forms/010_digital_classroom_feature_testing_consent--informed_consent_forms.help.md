@@ -1,8 +1,3 @@
-<thinking>
-The "Digital Classroom Feature Testing Consent" form is intended for users to provide their consent for testing and feature evaluation in the digital classroom environment. This form is likely to be used by educators or administrators to collect information from users for testing purposes. The form should only be filled out by users who are willing to participate in testing and feature evaluation of the digital classroom.
-Please ensure that you only fill out this form if you are actually willing to participate in testing and feature evaluation of the digital classroom. This form is not to be filled out more than once.
-</thinking>
-
 # Digital Classroom Feature Testing Consent - Help Guide
 
 ## Purpose

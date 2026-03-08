@@ -1,9 +1,3 @@
-<thinking>
-
-To prevent duplication, this form should only be filled out by artists who haven't previously filled out the form. This form gathers basic information about artists participating in events, including name, contact information, and artistic background. The purpose of this form is to collect information about artists for future event planning and to create a database of participating artists.
-
-</thinking>
-
 # Artist Information Form - Help Guide
 ## Purpose
 The Artist Information Form is used to collect information about artists participating in events. This form helps event organizers and staff get in touch with artists and plan future events more efficiently.

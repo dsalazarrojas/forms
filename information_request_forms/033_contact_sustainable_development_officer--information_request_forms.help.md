@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Contact Sustainable Development Officer - Help Guide
 
 ## Purpose

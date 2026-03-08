@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be designed to collect information related to liquidation, which is likely a business-related process. The purpose of this form could be to gather details about liquidated assets, inventory, or equipment. The fields appear to be focused on capturing the reason for liquidation, the type of liquidation, and any supporting documents. The non-required status of most fields may indicate that this form is intended for optional or supplemental information collection. It's essential to verify the form's purpose and fields with the stakeholders to ensure accuracy and relevance.
-</thinking>
-
 # liquidation_information_collection_form - Help Guide
 ## Purpose
 This form is designed to collect information related to liquidation, which may include the liquidation of assets, inventory, or equipment. The form is likely used to gather details that support this process.

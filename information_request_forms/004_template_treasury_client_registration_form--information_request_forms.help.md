@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for clients to register their information with the Template Treasury. The purpose of this form is to gather necessary details from clients, such as name, contact information, and other identifying details. To ensure accurate and complete data, each field is labeled clearly, and instructions are provided for users to follow. Please ensure you are completing this form with the most up-to-date and accurate information, as this will help us better serve you as a client.
-
-Please note that if you are not sure about any field, you can ask our support team for clarification. Also, please ensure that you are not duplicating your registration information with any other template or system we may have in the past.
-
-</thinking>
-
 # Template Treasury Client Registration Form - Help Guide
 ## Purpose
 The Template Treasury Client Registration Form is a tool used to gather essential information from clients to establish a relationship with them. This form is designed to collect details such as name, contact information, and other identifying details to ensure accurate and efficient communication and service.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to assess the details of a water evacuation issue, gathering information about the problem, its location, the evacuation method used, and any associated photos or notes. The purpose of this form is to collect data for analysis and potential use in water management and infrastructure planning. Please confirm that you are completing this form for a water evacuation issue and that the information gathered is accurate and relevant to the issue at hand.
-</thinking>
-
 # Water Evacuation Assessment - Help Guide
 ## Purpose
 The Water Evacuation Assessment form is designed to collect information about water evacuation incidents, including the issue description, location, evacuation method, and any photos or notes relevant to the incident.

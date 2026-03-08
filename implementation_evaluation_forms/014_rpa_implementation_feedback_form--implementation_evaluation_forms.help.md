@@ -1,7 +1,3 @@
-<thinking>
-To ensure that the form is completed accurately and effectively, we need to verify that it's being used for its intended purpose and not for testing or debugging purposes. This form is designed to collect feedback on the implementation of Robotic Process Automation (RPA) projects. We want to make sure that users are providing genuine feedback on their experiences, and not using the form to test or debug the form itself.
-</thinking>
-
 # RPA Implementation Feedback Form - Help Guide
 ## Purpose
 The RPA Implementation Feedback Form is designed to collect feedback on the success and areas for improvement of Robotic Process Automation (RPA) projects. This form helps us understand how well the project was executed, what worked well, and what could be improved.

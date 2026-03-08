@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for clients to provide information about themselves and their needs for permanent makeup services. The form is intended to be completed by clients before their first appointment with a permanent makeup artist or technician. The purpose of this form is to gather essential details about the client's preferences, contact information, and background to ensure a smooth and personalized experience.
-To prevent duplication, it's recommended to only complete this form once. If you need to update your information, please contact your permanent makeup technician directly.
-</thinking>
-
 # Permanent Makeup Client Intake Form - Help Guide
 ## Purpose
 The Permanent Makeup Client Intake Form is a questionnaire used to gather information from clients before their first appointment. This form helps the permanent makeup artist or technician to understand the client's needs, preferences, and background to provide an optimal experience.

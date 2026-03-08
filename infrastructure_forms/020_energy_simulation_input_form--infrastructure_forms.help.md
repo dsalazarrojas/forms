@@ -1,9 +1,3 @@
-<thinking>
-
-This form appears to be designed to collect project data for energy simulation purposes. The fields are likely intended to gather information about the project's characteristics, such as location, size, climate, and energy simulation method. It could be used to assess a building's energy efficiency and identify areas for improvement. To ensure the form is used correctly, we should verify that it is only being used for this specific purpose and not for any other internal or external use cases that could introduce incorrect or conflicting data.
-
-</thinking>
-
 # energy_simulation_input_form - Help Guide
 ## Purpose
 The energy_simulation_input_form is designed to collect project data for energy simulation purposes. This form helps gather necessary information about a building's characteristics to assess its energy efficiency and identify areas for improvement.

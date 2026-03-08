@@ -1,8 +1,3 @@
-<thinking>... internal reasoning block ...
-This form is intended to collect information about employee benefits and job performance. It's designed to capture general information about the employees, their benefits, job performance, and other relevant details. To avoid duplication and ensure accurate completion, please review the form carefully and only submit it once per employee.
-
-</thinking>
-
 # Employee Benefits Survey Template - Help Guide
 ## Purpose
 

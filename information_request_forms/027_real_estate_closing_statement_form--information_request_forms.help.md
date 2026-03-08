@@ -1,11 +1,3 @@
-<thinking>
-This form is likely to be used by real estate professionals to document the details of a closing statement in the real estate industry. The purpose of this form is to gather information about the transaction, including whether the seller is involved, the buyer's presence, the closing date, and the price of the property. The form is probably used internally or with clients to ensure accurate and comprehensive documentation of real estate closings.
-
-To avoid duplication of efforts and ensure relevance, I'll review this form's fields and provide a detailed explanation of each field, focusing on making it user-friendly for end-users.
-
-After this internal reasoning block, I'll provide the actual help guide in Markdown structure as requested.
-</thinking>
-
 # Real Estate Closing Statement Form - Help Guide
 ## Purpose
 The Real Estate Closing Statement Form is used to document the details of a real estate transaction, including the involvement of the seller, buyer, closing date, and property price.

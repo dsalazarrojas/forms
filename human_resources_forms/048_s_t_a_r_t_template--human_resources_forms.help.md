@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # s.t.a.r.t template - Help Guide
 ## Purpose
 The S.T.A.R.T template is a tool used to document and track important information related to tasks and projects. It helps to ensure that relevant details are captured and recorded accurately, providing a clear understanding of project progress and completion status.

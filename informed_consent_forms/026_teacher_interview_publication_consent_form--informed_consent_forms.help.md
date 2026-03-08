@@ -1,7 +1,3 @@
-<thinking>
-The "Teacher Interview Publication Consent Form" is designed to collect information from teachers about their consent to publish certain materials related to their interviews. This form is used to ensure that teachers are aware of and agree to the publication of their interview, and to provide a clear understanding of their role and responsibilities in the publication process. 
-</thinking>
-
 # Teacher Interview Publication Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to obtain consent from teachers regarding the publication of materials related to their interviews. 

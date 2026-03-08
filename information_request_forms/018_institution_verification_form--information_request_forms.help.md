@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Institution Verification Form - Help Guide
 ## Purpose
 The Institution Verification Form is a document that verifies the details of a student. It collects information about the student's name, date of birth, email, phone number, and other contact details. The form helps to ensure that the information provided by the student is accurate and up-to-date, and it serves as a reference for institutional purposes.

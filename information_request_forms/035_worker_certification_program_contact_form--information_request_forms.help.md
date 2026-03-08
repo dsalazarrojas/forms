@@ -1,16 +1,3 @@
-<thinking>
-**Internal Reasoning and Sanity Check**
-
-Before we create the user-facing help guide, let's make sure we understand the purpose and requirements of this form. 
-
-The form "Worker Certification Program Contact Form" is likely used for gathering information from workers who are interested in obtaining certification in various areas, such as Basic Life Support (BLS) or Advanced Cardiovascular Life Support (ACLS). The form is meant to collect essential details about the worker, including their first and last name, email address, and certification interest. The optional fields, like phone number and date of birth, may be used for follow-up communication or verifying the worker's identity.
-
-The form's purpose is to facilitate communication between the program administrators and workers who are eager to get certified. It's essential to ensure that the worker's certification interest aligns with the program's offerings and that the information gathered is accurate and complete.
-
-To avoid duplication, it's crucial to check if a worker has already completed this form or has been previously certified.
-
-</thinking>
-
 # Worker Certification Program Contact Form - Help Guide
 
 ## Purpose

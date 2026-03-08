@@ -1,12 +1,3 @@
-<thinking>
-An internal guide for the Return To Work Discussion Form would help users understand that the form is used for recording discussions or decisions made during an employee's absence and return to work. The form is used to discuss an employee's return to work, whether they were absent due to a valid reason, such as illness or bereavement, or due to misconduct, such as not reporting their whereabouts. The form helps in tracking the employee's status and the discussion made during their absence. It is also a record of the next action to be taken by the company in relation to the employee's absence.
-
-The form should be filled out by the HR manager or supervisor responsible for handling employee absences. They should fill out the form after discussing the matter with the employee, and the form should be updated as necessary.
-
-The following are the fields that need to be filled out on the form:
-
-</thinking>
-
 # Return To Work Discussion Form - Help Guide
 ## Purpose
 The Return To Work Discussion Form is used to record discussions or decisions made during an employee's absence and return to work.

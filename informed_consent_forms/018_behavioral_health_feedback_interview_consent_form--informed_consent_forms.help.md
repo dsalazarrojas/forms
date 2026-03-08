@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to gather informed consent from participants before conducting a Behavioral Health Feedback Interview. The form aims to ensure that participants understand the purpose and scope of the interview, their rights and responsibilities, and how their information will be handled. This form is a critical component of the interview process, as it protects the rights of participants and ensures a smooth and respectful interaction between the interviewer and the participant.
-
-This form is typically completed by participants before the interview takes place, and its content may vary depending on the specific context and the interviewer's organization. To ensure that the form is completed accurately and thoroughly, it is essential to carefully review each field and provide clear explanations for each section.
-
-Before filling out this form, make sure to review the fields carefully and provide accurate information. If you have any questions or concerns, please do not hesitate to reach out to the interviewer or the organization conducting the study.
-
-Please note that some fields are marked as optional, but it is recommended to complete them as they are crucial for the purpose of the interview and the organization's records.
-
-</thinking>
-
 # Behavioral Health Feedback Interview Consent Form - Help Guide
 ## Purpose
 The Behavioral Health Feedback Interview Consent Form is designed to gather informed consent from participants before conducting a Behavioral Health Feedback Interview.

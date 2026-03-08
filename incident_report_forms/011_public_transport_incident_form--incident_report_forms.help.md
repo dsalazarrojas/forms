@@ -1,9 +1,3 @@
-<thinking>
-
-This form was created to collect information about public transport incidents, which could be used for reporting and analysis purposes. To determine the relevance of this form, I considered the category "incident_report_forms" and the title "public_transport_incident_form". I did not find any similar forms in my training data that match this exact combination. If you are an incident report form creator, please let me know if this form meets your needs.
-
-</thinking>
-
 # public_transport_incident_form - Help Guide
 ## Purpose
 This form is designed to collect information about incidents related to public transport. It is intended for reporting and analysis purposes.

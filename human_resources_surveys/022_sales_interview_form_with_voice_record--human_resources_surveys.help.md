@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sales Interview Form With Voice Record - Help Guide
 ## Purpose
 This form is designed to gather information for a sales interview, allowing users to record their voice and provide additional details through text fields. The form is intended for sales professionals to capture relevant data for their interactions with customers.

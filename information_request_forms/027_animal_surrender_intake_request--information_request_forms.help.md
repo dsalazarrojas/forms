@@ -1,10 +1,3 @@
-<thinking>
-This form is used for the intake and surrender of animals in shelters. The form is designed to collect information from the current owner or caregiver of the animal. The goal is to gather essential details about the animal's species, breed, age, weight, and socialization status, as well as any medical conditions or health issues. This information will help the shelter staff make informed decisions about the animal's placement and care. 
-
-**Please note that this form should only be filled out by the current owner or caregiver of the animal, and not by someone representing the animal or a third party. Also, the information provided will be verified and confirmed during the intake process.**
-
-</thinking>
-
 # Animal Surrender/Intake Request - Help Guide
 ## Purpose
 This form is used to gather information about an animal being surrendered or admitted to the shelter. It helps us understand the animal's species, breed, age, weight, socialization status, and medical conditions, which aids in finding the best possible placement and care for the animal.

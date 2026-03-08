@@ -1,7 +1,3 @@
-<thinking>
-This form template is intended for use by training assessors to record information about the completion of a worksite classroom training certification, ensuring accurate and consistent data collection across all training sessions. It is essential to use this form to document each training session correctly, as it will help in tracking progress, identifying areas for improvement, and facilitating the certification process. This template should not be duplicated or reused for purposes other than training certification, and all necessary fields must be filled out accurately and thoroughly.
-</thinking>
-
 # Worksites Classroom Training Certification Form Template - Help Guide
 ## Purpose
 The purpose of this form is to record information about the completion of a worksite classroom training certification.

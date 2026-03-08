@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a help guide for the "Tax Deduction Detail Request Form".
 
 **Internal reasoning:**

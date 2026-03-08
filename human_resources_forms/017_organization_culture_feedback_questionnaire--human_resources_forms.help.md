@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from employees on various aspects of their work environment, including communication, leadership support, diversity and inclusion, feedback frequency and quality, and more. This information will help management understand employees' perspectives and identify areas for improvement in the organization's culture and policies. This form is intended for internal use and will not be shared externally. Please provide honest and thoughtful feedback to help us better understand your experiences and concerns.
-</thinking>
-
 # Organization Culture Feedback Questionnaire - Help Guide
 ## Purpose
 The Organization Culture Feedback Questionnaire is a tool for employees to provide feedback on various aspects of their work environment. This form will help management understand employees' perspectives and identify areas for improvement in the organization's culture and policies.

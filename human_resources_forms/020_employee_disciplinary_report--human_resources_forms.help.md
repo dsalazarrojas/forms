@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to document and report disciplinary actions taken against employees, providing a formal record of the incident and the actions taken. It is crucial that this form is filled out accurately and thoroughly, as it will be used for record-keeping and potentially for future reference. Before completing this form, please ensure that you are using it for its intended purpose and that you have the necessary information to fill it out correctly. 
-
-Please review the form carefully and make sure to complete it accurately, as it is used to document and report disciplinary actions taken against employees. 
-
-This guide is intended to help you understand each field and what information is required. If you're unsure about a particular field or have questions, please reach out to your supervisor or HR representative for clarification.
-
-</thinking>
-
 # Employee Disciplinary Report - Help Guide
 ## Purpose
 This form is used to document and report disciplinary actions taken against employees, providing a formal record of the incident and the actions taken. 

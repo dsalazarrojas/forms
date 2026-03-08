@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to help users select a safety representative and provide additional details about the incident. The form is not a formal incident report, but rather a supplementary tool to aid in the process of identifying and addressing safety concerns. It's recommended that users complete this form only when necessary, and ensure that they don't duplicate information that already exists in other records or reports.
-
-</thinking>
-
 # Select Your Safety Representative - Help Guide
 ## Purpose
 This form is meant to facilitate the selection of a safety representative and provide context about the incident. Users are advised to use it judiciously, ensuring that the information is accurate and not duplicated.

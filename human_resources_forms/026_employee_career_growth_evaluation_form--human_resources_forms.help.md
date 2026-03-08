@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Career Growth Evaluation Form - Help Guide
 
 ## Purpose

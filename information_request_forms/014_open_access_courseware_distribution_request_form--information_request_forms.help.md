@@ -1,9 +1,3 @@
-<thinking>
-This help guide is being created to assist users in understanding the purpose and requirements of the "Open Access Courseware Distribution Request Form". The form is likely used to request access to courseware (digital or physical materials) for courses, with the option for users to specify the type of access they need and the method of distribution. The form will be used by administrators or support staff to review and manage these requests. To ensure the form is completed accurately, please review the fields below.
-
-Please note that the form is designed to gather information from users who are requesting access to course materials, and it's essential to provide all required fields to ensure that the request is processed correctly.
-</thinking>
-
 # Open Access Courseware Distribution Request Form - Help Guide
 ## Purpose
 The Open Access Courseware Distribution Request Form is used to request access to course materials for courses. This form helps administrators or support staff review and manage these requests efficiently.

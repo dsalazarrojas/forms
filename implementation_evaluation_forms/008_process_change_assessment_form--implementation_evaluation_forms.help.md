@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to be completed by team members to assess and document changes to processes within an organization. 
-The form is meant to gather information on the nature of the change, its impact, and the associated risk level, as well as the review and approval process. 
-This form is intended for use in internal processes and does not require sensitive information or personal data.
-
-</thinking>
-
 # Process Change Assessment Form - Help Guide
 ## Purpose
 The Process Change Assessment Form is a tool used to track and document changes to processes within an organization. This form helps team members to assess and document changes, their impact, and the associated risk level, as well as the review and approval process.

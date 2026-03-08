@@ -1,12 +1,3 @@
-<thinking>
-We need to ensure that the form purpose and requirements are well understood by the end-users. The "leave_time_off_request_form" is used to collect information from employees about their leave requests. It is essential to fill out this form accurately to ensure that their leave requests are processed correctly. 
-
-Before filling out this form, check if you have already submitted a leave request. If you have, it's likely that this form is not necessary. However, if it's a new request, proceed with the following steps:
-
-* This form is designed for employees to submit a single leave request.
-* Each field is explained below, so please review them carefully.
-</thinking>
-
 # leave_time_off_request_form - Help Guide
 ## Purpose
 The "leave_time_off_request_form" is used by employees to submit a leave request. It is essential that this form is filled out accurately to ensure that their leave request is processed correctly.

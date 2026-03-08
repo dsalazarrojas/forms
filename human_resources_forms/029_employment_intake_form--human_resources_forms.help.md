@@ -1,9 +1,3 @@
-<thinking>
-This form is used to gather information about new employees for HR purposes. It is intended to be completed by candidates or existing employees who are going to start a new job or have recently changed their employment status. This form is used to streamline the process of collecting necessary information from the employee, which will be used for onboarding and administrative purposes. It's essential to ensure that all required fields are completed accurately to prevent any delays in the onboarding process.
-
-The form is divided into various sections that cover personal details, education and employment background, and contact information. Each field is labeled with a clear and concise description to help users understand what information is being requested. Please note that some fields may require additional information or documentation to be attached, which will be specified in the field explanations below.
-
-</thinking>
 # Employment Intake Form - Help Guide
 ## Purpose
 The Employment Intake Form is a document used to collect personal and employment-related information about an individual. It's intended to be completed by current or potential employees for HR purposes.

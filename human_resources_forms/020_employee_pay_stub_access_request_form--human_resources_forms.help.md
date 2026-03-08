@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to allow employees to request access to their pay stubs, which are electronic records of their compensation and benefits. This form is intended for employees who wish to access their pay stubs for a specific pay period, either currently active or inactive. The form will be used to determine the employee's request status, which can be either active or inactive. This form will be used to ensure that employees can easily access their pay stubs in a secure and efficient manner.
-Before filling out this form, please check with your supervisor to see if your pay stub is currently active or inactive. If you're unsure, you can also check the company's HR department.
-</thinking>
-
 # Employee Pay Stub Access Request Form - Help Guide
 ## Purpose
 The purpose of this form is to allow employees to request access to their electronic pay stubs.

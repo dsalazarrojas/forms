@@ -1,13 +1,3 @@
-<thinking>
-
-The Radiofrequency Treatment Consent Form is used to gather informed consent from patients for radiofrequency treatment. This form helps ensure that patients understand the risks and benefits of the treatment and are willing to proceed. To complete this form, please follow the instructions below.
-
-This form is intended for patients who are eligible for radiofrequency treatment. Before starting the form, please ensure that the patient has been assessed as a candidate for radiofrequency treatment and that the form is being completed in conjunction with a medical professional.
-
-Please note that this form should not be used for other purposes, such as general patient intake or demographic data collection.
-
-</thinking>
-
 # Radiofrequency Treatment Consent Form - Help Guide
 
 ## Purpose

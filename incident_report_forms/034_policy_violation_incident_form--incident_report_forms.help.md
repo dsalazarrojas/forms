@@ -1,8 +1,3 @@
-<thinking>
-This guide is intended to assist users in understanding the Policy Violation Incident Form, a tool used to document and report incidents related to policy violations within an organization. The form's purpose is to provide a structured and standardized way to gather information about incidents, which can help in investigations, documentation, and analysis. Before starting to complete the form, ensure that the reported incident is not a duplicate and that you have the necessary information and authority to report the incident.
-
-</thinking>
-
 # Policy Violation Incident Form - Help Guide
 
 ## Purpose

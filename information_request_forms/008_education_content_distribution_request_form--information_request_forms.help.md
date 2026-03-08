@@ -1,11 +1,3 @@
-<thinking>
-This form is used by educators to request distribution of educational content, such as videos, documents, or audios, to schools or other educational institutions. The form is designed to gather information about the content type, training needs assessment, content requests, content distribution request, contact information, submission date, and any other relevant details.
-
-To ensure that the form is completed correctly and efficiently, please check that you have the necessary permissions and approvals before submitting the form. 
-
-Also, please note that this form is used for requesting content distribution, so it's not suitable for other purposes such as event registration or other requests not related to content distribution.
-</thinking>
-
 # Education Content Distribution Request Form - Help Guide
 ## Purpose
 The Education Content Distribution Request Form is designed to facilitate the distribution of educational content to schools or other educational institutions. This form gathers information about the content to be distributed, including its type, the needs of the educational institution, and the contact information of the person or entity requesting the content.

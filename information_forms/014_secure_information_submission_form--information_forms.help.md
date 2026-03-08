@@ -1,17 +1,3 @@
-<thinking>
-The form is used for secure information submission, and the purpose of this form is to collect relevant information from users. This form is likely used by organizations or institutions to gather data from individuals for security or verification purposes. The form is designed to be completed by users, and its fields are intended to collect a range of information, including name, email, phone number, uploaded documents, and other relevant details.
-
-To confirm, this form is not intended for public use; it's likely a private form used internally within the organization. The fields and their labels should be reviewed to ensure they align with the organization's specific needs and requirements.
-
-This form is likely used for the following purposes:
-* Gathering information from individuals for security or verification purposes
-* Collecting documents for secure information submission
-* Providing a structured way to collect and categorize information
-
-Please ensure that the fields and their labels are clear and concise, and that the form is not being used for any other purpose. If you're unsure, please consult with the relevant stakeholders or the form's creator.
-
-</thinking>
-
 # Secure Information Submission Form - Help Guide
 ## Purpose
 This form is used for secure information submission and gathering purposes.

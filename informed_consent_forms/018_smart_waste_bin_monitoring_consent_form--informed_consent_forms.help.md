@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to obtain informed consent from participants in a waste bin monitoring study. Informed consent is a critical component of any research study, ensuring that participants are aware of the purpose, risks, and benefits of the study and that they agree to participate voluntarily. The form's purpose is to collect demographic information about the participant and their relationship with the waste bin being monitored, and to obtain their consent to be part of the monitoring program.
 
 The form is divided into several sections, each with its own set of fields. This guide will walk you through each section and explain the purpose and requirements for each field.

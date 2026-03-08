@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to help employees initiate a career path review process with their supervisor or HR representative. The form is meant to gather information about the employee's career aspirations, goals, and challenges, as well as their strengths and areas for development. The review process will provide employees with guidance and support to help them achieve their career objectives and overcome obstacles to their progress.
-
-This form should only be completed by an employee requesting a career path review. If you are not the intended recipient of this form, please do not complete it.
-
-To complete this form, please make sure to provide clear and concise answers to each question, and avoid leaving any fields blank if possible.
-
-</thinking>
-
 # Career Path Review Request Form - Help Guide
 ## Purpose
 The purpose of this form is to assist employees in requesting a career path review with their supervisor or HR representative. This process helps employees reflect on their career goals, identify areas for development, and receive guidance and support to advance in their careers.

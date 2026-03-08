@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information related to workers' compensation claims. It is intended for use by employees to provide their details and information about their workplace injuries. This form is not intended for medical purposes and should not be used as a substitute for medical advice. Please ensure that you have reviewed the form carefully and that the information provided is accurate and complete before submitting it.
-
-</thinking>
-
 # workers_comp_waiver_form - Help Guide
 ## Purpose
 The workers_comp_waiver_form is designed to collect information from employees about their workplace injuries, including their details and contact information.

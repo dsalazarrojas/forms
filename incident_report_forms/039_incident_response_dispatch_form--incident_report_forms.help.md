@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather information related to incidents that have occurred within the organization. It is likely used by staff or emergency response teams to document and track incidents such as environmental emergencies, security breaches, medical emergencies, and other types of incidents. The form is probably used to ensure that incidents are properly reported, assigned to relevant personnel, and followed up on in a timely manner. It may also be used to track the response time and status of incidents, as well as follow-up actions taken.
-
-Before filling out this form, ensure that the incident has been properly documented and reported. If it is being filled out for the first time, you may need to create an incident number for the purpose of tracking and referencing the incident.
-
-</thinking>
-
 # Incident Response Dispatch Form - Help Guide
 ## Purpose
 The Incident Response Dispatch Form is used to document and track incidents within the organization, ensuring that they are properly reported, assigned, and followed up on in a timely manner.

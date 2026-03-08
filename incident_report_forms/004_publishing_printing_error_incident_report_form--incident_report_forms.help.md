@@ -1,6 +1,3 @@
-<thinking>
-This form is used to report errors that occurred during the publishing and printing process. The form is meant to be filled out by production teams when they encounter an issue that needs to be documented and addressed. The form will be used to provide information about the error, its impact, and any affected materials or processes. This form is not meant to be filled out for every minor issue, but rather for significant errors that require investigation and resolution.</thinking>
-
 # publishing_printing_error_incident_report_form - Help Guide
 ## Purpose
 The publishing_printing_error_incident_report_form is used to report errors that occurred during the publishing and printing process. It is intended to gather information about the error, its impact, and any affected materials or processes.

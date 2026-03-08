@@ -1,5 +1,3 @@
-<thinking>... This form is designed to gather feedback and information about the level of clarity within an organization. It is meant to be filled out by team members to provide insight into how clear their roles and communication within their teams are. The form is split into sections for each team, allowing users to answer questions specific to their current team. This information will be used to identify areas of improvement and help the organization better communicate and clarify expectations. It's essential to fill it out for every team you're a part of... </thinking>
-
 # Organizational Clarity Survey - Help Guide
 ## Purpose
 The Organizational Clarity Survey is designed to gather feedback and information about the level of clarity within an organization. This form is meant to be filled out by team members to provide insight into how clear their roles and communication within their teams are.

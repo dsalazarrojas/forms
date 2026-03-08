@@ -1,5 +1,3 @@
-<thinking>This form is designed for the Traceability Blockchain Pilot Registration form, which helps users register their participation in a pilot project. To use this form, users will need to select a pilot program, provide their organization's name, description, and other relevant details. The form will guide users through the process of submitting their application. Before proceeding, please ensure that you are eligible for the pilot program and have not already registered. If you are not sure, please refer to the pilot program documentation or contact the program administrators for clarification.</thinking>
-
 # traceability_blockchain_pilot_registration_form - Help Guide
 ## Purpose
 The Traceability Blockchain Pilot Registration form is designed for users to register their participation in a pilot project.

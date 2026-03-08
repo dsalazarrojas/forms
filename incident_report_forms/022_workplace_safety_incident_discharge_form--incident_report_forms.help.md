@@ -1,14 +1,3 @@
-<thinking>
-The Workplace Safety Incident Discharge Form is a crucial document used to document and report incidents that occur in the workplace. This form is designed to gather information about the incident, including its details, investigation, reportee information, incident status, consequences, cause, and witness statements. The purpose of this form is to ensure that incidents are properly documented and reported, which helps in preventing future occurrences and ensuring a safe working environment.
-
-This form should only be used in conjunction with the company's existing incident reporting policies and procedures. Before filling out this form, please ensure that you have reviewed and understood the relevant policies and procedures.
-
-When filling out this form, please ensure that you provide accurate and detailed information about the incident. This includes the incident details, reportee information, incident status, consequences, cause, and witness statements. This information will help in identifying the root cause of the incident and taking necessary actions to prevent future occurrences.
-
-Please note that this form should not be used for purposes other than reporting workplace incidents. Misuse of this form can lead to inaccurate information and compromise the purpose of the form.
-
-</thinking>
-
 # Workplace Safety Incident Discharge Form - Help Guide
 ## Purpose
 The Workplace Safety Incident Discharge Form is a document used to document and report workplace incidents.

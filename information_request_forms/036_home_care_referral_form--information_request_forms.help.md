@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information from clients that can be used to create referrals for home care services. This form is designed to gather relevant details about the client, such as their name, contact information, and medical notes. The form will help to identify potential home care candidates and facilitate a smooth process for referral and intake. To avoid duplication of information, this form should only be filled out once for each client.
-</thinking>
-
 # home_care_referral_form - Help Guide
 ## Purpose
 The Home Care Referral Form is a tool to collect information for home care referrals.

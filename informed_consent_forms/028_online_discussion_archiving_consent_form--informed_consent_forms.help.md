@@ -1,7 +1,3 @@
-<thinking>
-This form's purpose is to gather user's online discussion archiving preferences, including their signed consent for data archiving. The form is designed to be user-friendly and straightforward, ensuring that users understand their options and preferences clearly. To avoid duplicating or misrepresenting user data, it's essential to follow the correct steps and provide accurate information. Please review the form carefully before proceeding.
-</thinking>
-
 # Online Discussion Archiving Consent Form - Help Guide
 ## Purpose
 This form is designed to gather users' online discussion archiving preferences, including their signed consent for data archiving. It is essential to understand that the form is not affiliated with, endorsed by, or derived from any form platform.

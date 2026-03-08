@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to gather information from clients for makeup services. It is likely used to collect contact information, service details, and other relevant data for internal use. To confirm, this form should only be used for clients who are not already registered in the system, and it is not intended to be used for clients who have already provided intake forms. 
-
-This guide will provide an explanation of each field for users who are not already familiar with the system.
-
-</thinking>
-
 # Makeup Intake Form - Help Guide
 ## Purpose
 The Makeup Intake Form is designed to collect information from clients for makeup services. This form helps to ensure that all necessary details are gathered for providing the best possible service to the client.

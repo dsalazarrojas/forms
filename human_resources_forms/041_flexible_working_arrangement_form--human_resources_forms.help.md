@@ -1,12 +1,3 @@
-<thinking>
-The Flexible Working Arrangement Form is used to document the arrangement made between an employee and their manager to adjust their working arrangement. This form is used to capture the details of the arrangement, including the start and end dates, flexible time, flexible days, and other relevant information. This form is intended to be used by employees and managers to communicate their approval and denial of such arrangements. The purpose of this form is to ensure that all parties involved understand and agree to the terms of the arrangement. 
-
-Before filling out this form, please note that:
-* The form can be completed by both employees and managers. 
-* All fields are optional unless otherwise stated.
-* The form can be used to record both approved and denied arrangements.
-</thinking>
-
 # Flexible Working Arrangement Form - Help Guide
 ## Purpose
 The Flexible Working Arrangement Form is used to document the arrangement made between an employee and their manager to adjust their working arrangement.

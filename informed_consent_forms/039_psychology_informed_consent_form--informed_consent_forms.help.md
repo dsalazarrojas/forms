@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's ensure this guide is relevant and well-structured for the end users. The provided YAML form definition seems to be mostly self-explanatory, but I'll do my best to make it user-friendly and concise. I'll cover the form's purpose, completion instructions, and field-by-field explanations. I'll aim for a clear and practical tone, avoiding any unaddressed business logic or ambiguous field labels.</thinking>
-
 # Psychology Informed Consent Form - Help Guide
 ## Purpose
 This form is designed to collect information from patients or participants for research purposes. The form is meant to inform them about the nature of the study or research and gather their consent before proceeding. This form is essential for ensuring that participants are aware of their rights and the study's objectives.

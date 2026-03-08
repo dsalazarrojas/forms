@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be a product dimensions information form, likely for products that have specific physical attributes such as width, height, length, weight, volume, material, color, packaging type, and packaging size. The form may be used to collect information from customers, suppliers, or internal staff for inventory management, logistics, or shipping purposes.
-The form is likely used in an e-commerce or retail context, where accurate product dimensions are crucial for shipping, storage, and handling. The form might also be used in product design or development processes to record and track product specifications.
-To avoid duplication or miscommunication, it is essential to ensure that each field has a clear and concise label and that the form is filled out correctly and consistently.
-</thinking>
-
 # Product Dimensions Information Form - Help Guide
 ## Purpose
 This form is used to collect and record product dimensions and attributes for accurate product management, shipping, and handling.

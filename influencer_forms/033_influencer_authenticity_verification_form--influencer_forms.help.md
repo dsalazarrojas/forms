@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Influencer Authenticity Verification Form - Help Guide
 
 ## Purpose

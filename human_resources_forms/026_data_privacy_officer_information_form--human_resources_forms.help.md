@@ -1,5 +1,3 @@
-<thinking> This form is designed to collect information about data privacy officers in an organization, including their contact details, role, and related compliance and security measures. This form will be used internally to manage and track data privacy officer data. The fields included in the form are: Company Name, Contact Name, Contact Phone, Contact Email, Role, Job Title, Department, Office Location, Contact Person, Company Address, Data Classification, Data Security, Compliance, Data Retention, and Certification. Each field is optional, but the form's purpose is to collect and document relevant information for data privacy officers in the organization. </thinking>
-
 # data_privacy_officer_information_form - Help Guide
 ## Purpose
 The "data_privacy_officer_information_form" is designed to collect information about data privacy officers in your organization. This form will help you gather and organize the necessary data for effective management and tracking of your data privacy officers.

@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users who want to apply for vanity mode, a special feature that allows users to customize their experience on the platform. This form is a required step for users who wish to be considered for vanity mode.
-
-When you fill out this form, you will be providing us with necessary details about yourself. We will use this information to review your application and determine if you qualify for vanity mode.
-
-Please note that this form does not collect any sensitive information and is intended to help us get to know you better. By providing us with your information, you will be helping us make informed decisions about your application.
-
-</thinking>
-
 # Vanity Mode Application Form - Help Guide
 ## Purpose
 The Vanity Mode Application Form is a necessary step for users who wish to be considered for vanity mode, a special feature that allows users to customize their experience on the platform. This form collects information about you, which we will use to review your application and determine if you qualify for vanity mode.

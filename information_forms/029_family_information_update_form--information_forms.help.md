@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to collect and update family information. The purpose of this form is to gather details about the family members associated with the user, including their relationships, genders, dates of birth, addresses, and phone numbers. This form is meant to be filled out by the user themselves, and the information collected will be used for internal purposes within the organization. It's essential to ensure that the form is filled out accurately and truthfully to maintain the integrity of the collected data.
-</thinking>
-
 # Family Information Update Form - Help Guide
 ## Purpose
 The Family Information Update Form is designed to collect and update family information for internal purposes within the organization. This form helps to maintain accurate and up-to-date family details.

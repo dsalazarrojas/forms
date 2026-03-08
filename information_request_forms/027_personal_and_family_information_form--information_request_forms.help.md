@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect personal and family information from individuals. It is intended to be completed by an individual or their representative, and the information collected will be used for [insert purpose here, e.g. insurance purposes, benefit enrollment, etc.].
-
-To avoid duplication, please only complete this form once. If you have already submitted this form, you do not need to complete it again.
-
-Please note that this form is a critical part of our process, and incomplete or inaccurate information may result in delays or errors in processing your request.
-
-Before starting, please make sure you have all the necessary information and documents ready.
-
-</thinking>
-
 # personal_and_family_information_form - Help Guide
 ## Purpose
 This form is used to collect personal and family information from individuals to [insert purpose here, e.g. update our records, process benefits, etc.].

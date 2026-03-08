@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to update contact information for students, their parents or guardians, and other contacts. This form is a crucial part of our internal database management, and filling it out ensures that your records are up-to-date and accurate. Please fill this form only if you need to update your contact information. To avoid duplication, please make sure to update your information only once, and do not submit new updates unless you have actually changed your contact information. Also, please note that some fields are required to ensure that we can contact you or your child in case of an emergency.
-
-</thinking>
-
 # Contact Information Update Form - Help Guide
 ## Purpose
 The purpose of this form is to update your contact information for our records.

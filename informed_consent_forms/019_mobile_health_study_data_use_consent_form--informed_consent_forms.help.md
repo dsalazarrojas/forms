@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To ensure that this form is used correctly and that users understand its purpose and fields, let's break down the form's purpose and the explanation of each field. This will help us provide clear and concise guidance to end-users. 
 
 - The purpose of this form is to gather informed consent from participants in a mobile health study, ensuring that their data can be collected, used, and shared according to their consent.

@@ -1,8 +1,3 @@
-<thinking>
-This form is likely used by HR or recruitment teams to gather information about potential seasonal job applicants. The form's purpose is to collect relevant data about applicants, such as name, job preferences, availability, and contact information. The goal is to efficiently manage the interview process while ensuring that all applicants are evaluated based on their qualifications and fit for the position. Before completing this form, please ensure that you're filling it out for a genuine reason, and not duplicating efforts.
-
-</thinking>
-
 # Seasonal Job Interview Form - Help Guide
 ## Purpose
 The Seasonal Job Interview Form is used to collect information from potential seasonal job applicants.

@@ -1,11 +1,3 @@
-<thinking>
-
-The form is used for employees to apply to the Employee Gamification Program. This program aims to enhance employee engagement and motivation through a points-based system, recognizing and rewarding employees for their achievements and contributions. Employees can earn points by participating in various activities, such as gaming, sports, reading, and more. The program encourages employees to develop new skills, build relationships, and have fun while working at the company.
-
-Before starting the application process, please ensure you have not already submitted an application for this program. Duplicate applications will not be accepted.
-
-</thinking>
-
 # Employee Gamification Program Application - Help Guide
 ## Purpose
 

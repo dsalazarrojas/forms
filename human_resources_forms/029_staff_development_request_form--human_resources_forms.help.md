@@ -1,11 +1,3 @@
-<thinking>
-This form is used for requesting staff development opportunities, such as training or educational programs. It is used to gather information about the requestor, the type of development opportunity requested, and details about the request. The form is meant to be completed by staff members when they are seeking support for personal or professional growth. It is also used by staff members to report on the status of their development requests.
-
-The form will be reviewed and updated internally to ensure that it accurately represents the current business processes and procedures. 
-
-It is possible that some of this information may be duplicated in other places, so we want to make sure that this form is being used as intended. For instance, the "department" field might be listed multiple times in other systems, so we want to be sure that this form is being used to request development opportunities and not used to create duplicate data entry work for staff members.
-</thinking>
-
 # Staff Development Request Form - Help Guide
 ## Purpose
 The Staff Development Request Form is used by staff members to request support for personal or professional growth opportunities, such as training or education.

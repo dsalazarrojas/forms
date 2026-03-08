@@ -1,8 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Reiki Client Information Form" form. This form is used to collect information from clients who are interested in or have already attended a Reiki session. The purpose of this form is to ensure that all relevant details are captured accurately and consistently, which helps in providing better service to clients and managing their information effectively. To complete this form, follow the steps below.
-
-</thinking>
-
 # Reiki Client Information Form - Help Guide
 
 ## Purpose

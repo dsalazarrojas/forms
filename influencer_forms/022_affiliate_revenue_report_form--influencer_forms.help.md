@@ -1,7 +1,3 @@
-<thinking>
-# This form is designed to collect affiliate revenue report information from affiliates who are part of the program. The report covers the time period specified, and the affiliate is required to input their affiliate ID and name for verification purposes. The form asks for details on sales, revenue, commission earned, and other relevant metrics. The affiliate needs to select their preferred payment method and provide their email associated with it. Additionally, the affiliate must indicate their tax classification and provide their tax ID (if applicable). They will also report their expenses and deductions for the period. After submitting the report, the affiliate's net earnings will be calculated based on their total earnings minus expenses and deductions.
-</thinking>
-
 # Affiliate Revenue Report Form - Help Guide
 ## Purpose
 The Affiliate Revenue Report Form is used to collect revenue information from affiliates who participate in the program. It provides a detailed overview of an affiliate's performance during a specified period.

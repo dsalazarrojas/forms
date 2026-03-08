@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help managers request a performance review meeting with their team members. The form should not be filled out if the meeting has already been requested or if the review has already been completed. The purpose of the form is to ensure that both the manager and team member are on the same page about the meeting's purpose, date, time, location, and duration. Please fill out the form carefully to ensure accurate information is collected.
-</thinking>
-
 # Performance Review Meeting Request Form - Help Guide
 ## Purpose
 The Performance Review Meeting Request Form is used by managers to request a performance review meeting with their team members. This form helps to clarify the meeting's purpose, date, time, location, and duration, ensuring both parties are on the same page.

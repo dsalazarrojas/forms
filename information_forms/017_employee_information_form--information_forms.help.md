@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect basic employee information in an easy-to-use format. 
-The form has a purpose of gathering employee details for administrative purposes. This information can be used for various tasks such as employee directory listings, contact management, and other HR-related tasks.
-The form is divided into 5 separate fields, each collecting a different piece of information: 
-1. First Name 
-2. Last Name 
-3. Email 
-4. Phone 
-5. Department and Position 
-The fields will help you gather a comprehensive employee profile. Please make sure you understand each field before filling out the form.
-</thinking>
-
 # Employee Information Form - Help Guide
 ## Purpose
 This form is used to collect and store employee details in a simple and straightforward manner, suitable for administrative uses such as employee directory listings and contact management.

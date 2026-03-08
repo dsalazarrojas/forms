@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Of The Month Nomination Form - Help Guide
 ## Purpose
 The Employee Of The Month Nomination Form is used to recognize and reward employees who have made significant contributions to the company. This form is intended to identify and celebrate the hard work and dedication of our team members. To ensure accurate and fair nominations, please make sure to nominate only once per month and for a specific employee.

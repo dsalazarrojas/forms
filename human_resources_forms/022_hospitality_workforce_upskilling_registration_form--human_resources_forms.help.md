@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from hospitality workers for upskilling training sessions. The form will be used to identify and record details about the worker, their training preferences and requirements, and any tools assigned to them for the upskilling process. To ensure accurate and relevant data collection, please review this guide carefully and fill out the form with the most up-to-date information. 
-</thinking>
-
 # Hospitality Workforce Upskilling Registration Form - Help Guide
 ## Purpose
 The Hospitality Workforce Upskilling Registration Form is designed to gather essential details from hospitality workers for upskilling training sessions. This form will help us better understand their preferences and needs, allowing us to tailor the training programs to meet their requirements.

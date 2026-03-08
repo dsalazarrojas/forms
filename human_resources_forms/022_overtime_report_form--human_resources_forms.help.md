@@ -1,7 +1,3 @@
-<thinking>
-The form "overtime_report_form" is used to report overtime worked by employees in various departments. The form is used to track employee work hours beyond their regular working hours, and is typically completed by employees to request reimbursement for extra hours worked. The form is used by management to review and approve overtime requests, ensuring accurate tracking and reimbursement of employee time.
-</thinking>
-
 # overtime_report_form - Help Guide
 ## Purpose
 The overtime_report_form is used to report overtime worked by employees to request reimbursement for extra hours worked.

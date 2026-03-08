@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form "speaker_information_and_agreement" is designed to collect basic information about the speaker, including details about their contact, email, and phone number, and a name for identification purposes. To complete the form, follow these steps:
 
 1.  Click on the "speaker_information_and_agreement" form.

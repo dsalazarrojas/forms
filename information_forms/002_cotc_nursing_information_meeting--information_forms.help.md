@@ -1,7 +1,3 @@
-<thinking>
-This form is for capturing information about the Nursing Information Meeting. It's intended for healthcare professionals to provide details about their experience with nursing information meetings. It's crucial to fill this form out accurately to help the meeting organizers understand their attendees' background and skills. Please ensure that you have the right to share this information and that it's not already included in your existing documentation.
-</thinking>
-
 # cotc_nursing_information_meeting - Help Guide
 
 ## Purpose

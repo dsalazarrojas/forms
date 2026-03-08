@@ -1,5 +1,3 @@
-<thinking>... </thinking>
-
 # executive_onboarding_form - Help Guide
 ## Purpose
 The Executive Onboarding Form is a document used to collect information about executives joining or leaving the company. This form is completed by the HR department to keep track of executive changes, ensuring a smooth transition of responsibilities and maintaining accurate records.

@@ -1,16 +1,3 @@
-<thinking>
-This form is used to record and acknowledge employment offers and related policies. The form is meant to capture details about the offer, including the date and time of the offer, the job position, and the start date and time of the job. It also includes fields for acknowledging receipt of the offer, including the date and time of acknowledgment, as well as contact information for the employee. This form is intended to be used by HR personnel to record and track employment offers and acknowledgments.
-Please note that the following fields are intended to be optional, but are included to provide flexibility and allow for additional information to be captured if needed:
-- offer_details
-- job_position
-- notes
-
-To avoid duplication of effort, ensure that the following fields are not filled out unless there are changes to the offer or acknowledgment:
-- offer_date
-- offer_expires_in
-- offer_details
-</thinking>
-
 # Employment Offer And Policy Acknowledgment Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from trainees on the effectiveness and satisfaction of Diversity, Equity, and Inclusion (DEI) training sessions. This feedback will help the training organizers understand what worked well and what can be improved in future sessions. This form will help ensure that the training content and structure are aligned with the needs and expectations of the participants.
-To ensure that this form is completed accurately and efficiently, please review the following instructions carefully.
-Please note that this form has multiple pages. You can navigate through the pages using the navigation buttons.
-</thinking>
-
 # DEI Training Feedback Survey - Help Guide
 ## Purpose
 The DEI Training Feedback Survey is designed to gather feedback from trainees on the effectiveness and satisfaction of Diversity, Equity, and Inclusion (DEI) training sessions. This feedback will help the training organizers understand what worked well and what can be improved in future sessions.

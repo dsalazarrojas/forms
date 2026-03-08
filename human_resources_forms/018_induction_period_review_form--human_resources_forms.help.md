@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Induction Period Review Form - Help Guide
 ## Purpose
 This form is designed to collect information for the Induction Period Review of new employees. It is used to evaluate the progress and performance of new hires during their induction period.

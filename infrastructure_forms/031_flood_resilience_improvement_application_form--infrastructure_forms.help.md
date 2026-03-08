@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about flood resilience improvement projects. The purpose of this form is to gather details about the project's status, location, and other relevant information. Before filling out this form, please make sure that you have all the necessary information and supporting documents required for the project. Additionally, please note that this form is not meant to be a comprehensive guide for project implementation, but rather a tool for project management and tracking.
-</thinking>
-
 # flood_resilience_improvement_application_form - Help Guide
 ## Purpose
 This form is used to collect and track information about flood resilience improvement projects, including project details, status, and supporting documents.

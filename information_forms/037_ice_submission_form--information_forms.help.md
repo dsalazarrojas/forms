@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # ICE Submission Form - Help Guide
 
 ## Purpose

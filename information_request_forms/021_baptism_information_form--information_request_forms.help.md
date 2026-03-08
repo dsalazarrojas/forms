@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Baptism Information Form - Help Guide
 
 ## Purpose

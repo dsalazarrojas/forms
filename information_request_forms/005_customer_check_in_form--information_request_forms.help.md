@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers upon check-in, including the reason for their visit, any reservation details, and further instructions they may have. This form aims to gather essential data to facilitate efficient and personalized customer service. Before proceeding, please ensure you have the necessary permissions to collect and process customer data. 
-</thinking>
-
 # customer_check_in_form - Help Guide
 ## Purpose
 The customer_check_in_form is a simple data collection tool designed for customers to check in and provide essential information upon arrival. This form helps the business provide tailored services and support during the visit.

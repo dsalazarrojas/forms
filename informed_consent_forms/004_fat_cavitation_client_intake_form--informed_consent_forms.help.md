@@ -1,6 +1,3 @@
-<thinking>...
-This form is designed to gather information from clients and clients' families members about their medical condition, history, and other relevant details for medical professionals to use in their practice. This form will be stored digitally and can be used for future reference. The purpose of this form is to ensure consistency and accuracy in data collection, reduce manual errors and increase the efficiency of the medical professionals.
-</thinking>
 # Fat Cavitation Client Intake Form - Help Guide
 ## Purpose
 This form is used to collect information from clients and their family members for medical professionals to assess and treat their medical conditions.

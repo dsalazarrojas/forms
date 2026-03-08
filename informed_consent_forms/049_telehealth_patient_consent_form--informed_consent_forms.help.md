@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to obtain informed consent from patients for telehealth services. The form is divided into sections that capture essential information about the patient, their medical history, and the consent process. It's essential to understand that this form is a legal document and should be completed accurately and truthfully. Please review the form carefully and ensure that you understand each section before proceeding.
-
-To complete this form, follow these steps:
-
-1.  Provide your basic patient information.
-2.  Share your medical history, including any previous illnesses or conditions that may impact your care.
-3.  Read and understand the consent statement.
-4.  Sign and date the form to confirm your consent.
-5.  Provide any additional comments or notes as necessary.
-
-</thinking>
-
 # Telehealth Patient Consent Form - Help Guide
 ## Purpose
 This form is used to obtain informed consent from patients for telehealth services. It ensures that patients understand their rights, responsibilities, and the terms of the care they will receive.

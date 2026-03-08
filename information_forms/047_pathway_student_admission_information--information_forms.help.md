@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # pathway_student_admission_information - Help Guide
 ## Purpose
 This form is used to collect pathway information for students who are enrolling in the pathway program. It gathers essential details such as student ID, name, date of birth, and pathway eligibility.

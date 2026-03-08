@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for medical treatment updates, allowing healthcare professionals to record and track patient information, medical history, symptoms, treatment plans, and other relevant details. The form is designed to gather information in a structured and standardized way, enabling healthcare providers to quickly and accurately update a patient's medical record. To ensure consistency and accuracy, please review this help guide carefully before completing the form.
-
-</thinking>
-
 # JemmaCo Medical Treatment Update - Help Guide
 ## Purpose
 

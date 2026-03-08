@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the "Influencer Authenticity Validation Form" that explains its purpose, how to complete it, and what each field means.</thinking>
-
 # Influencer Authenticity Validation Form - Help Guide
 ## Purpose
 The Influencer Authenticity Validation Form is used to collect information about an influencer's audience demographics and engagement metrics to validate their authenticity.

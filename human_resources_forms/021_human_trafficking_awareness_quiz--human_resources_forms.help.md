@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to assess an individual's understanding and awareness of human trafficking, a complex and serious issue. The goal is to gauge their knowledge and attitudes towards human trafficking, its signs, and its consequences. This form will likely be used in educational settings, such as schools or workplaces, to raise awareness and educate individuals about human trafficking. It is not a diagnostic tool for identifying actual victims or situations.
-This form is part of a series of questions aimed at testing the respondent's knowledge and understanding of human trafficking. Each question will cover a different aspect of the issue, from its definition to its consequences.
-Please note that this form is not designed to be a replacement for professional training or education on human trafficking. It is meant to be a starting point for further discussion and education.
-</thinking>
-
 # Human Trafficking Awareness Quiz - Help Guide
 ## Purpose
 This form is designed to assess an individual's understanding and awareness of human trafficking, its signs, and its consequences. It is intended for educational purposes, such as raising awareness and promoting education on the topic.

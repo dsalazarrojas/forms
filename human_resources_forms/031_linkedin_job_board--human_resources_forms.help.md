@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect job posting information for LinkedIn, allowing users to share job openings with a specified company name, job title, employment type, job category, salary range, job description, job requirements, benefits, location, contact information, and other relevant details. The form is likely used by human resources teams within a company to manage job postings.
-To ensure accuracy and prevent duplication, please review each field carefully before submitting. If you are unsure about any field, please ask your supervisor or HR representative for clarification.
-</thinking>
-
 # linkedin_job_board - Help Guide
 ## Purpose
 The LinkedIn job board form is used to collect and share job posting information within a company.

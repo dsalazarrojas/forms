@@ -1,9 +1,3 @@
-<thinking>
-To ensure that the user understands the purpose and correct usage of the Digestive Health Provider Information Intake Form, the following internal reasoning block clarifies the form's context and checks for non-redundancy and relevance:
-
-The Digestive Health Provider Information Intake Form is designed to gather essential details about a healthcare provider's credentials and contact information. This form aims to standardize the intake process for new providers, ensuring that all necessary details are collected uniformly. To avoid duplication and ensure data accuracy, providers are only required to complete this form once. This form serves as a one-time submission, and any subsequent updates or changes will be addressed through other established channels.
-</thinking>
-
 # Digestive Health Provider Information Intake Form - Help Guide
 ## Purpose
 The Digestive Health Provider Information Intake Form is designed to collect essential details about a healthcare provider's credentials and contact information for the purpose of standardizing the intake process and avoiding duplication.

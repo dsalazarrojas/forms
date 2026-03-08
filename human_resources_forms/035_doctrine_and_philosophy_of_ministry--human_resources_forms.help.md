@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information about the doctrine and philosophy of a ministry. The purpose of this form is to gather relevant details about the ministry's beliefs and principles, which will help in creating a comprehensive record of the ministry's doctrine and philosophy. This form will be used by staff members to provide input on the ministry's direction and focus.
-
-Before starting this form, please ensure that you have the necessary permissions to access and edit the ministry's doctrine and philosophy. If you are unsure, please check with your supervisor or the ministry's leadership.
-
-Please note that this form is for general guidance and should be used as a starting point for discussion and refinement with the ministry's leadership and other relevant stakeholders.
-
-This guide is designed to walk you through each page of the form, providing explanations and examples for each field.
-
-</thinking>
-
 # Doctrine And Philosophy Of Ministry - Help Guide
 ## Purpose
 This form is used to collect information about the doctrine and philosophy of a ministry. It will help staff members provide input on the ministry's direction and focus.

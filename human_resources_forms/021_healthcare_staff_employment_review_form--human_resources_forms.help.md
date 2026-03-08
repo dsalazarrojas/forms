@@ -1,16 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, we need to determine the purpose and requirements for the form.
-
-The form is for reviewing the employment performance of healthcare staff, likely for evaluation, feedback, and potentially, personnel decisions. The form is designed to collect information from employees, managers, or supervisors to provide a comprehensive assessment of an employee's performance during a specific period.
-
-Before creating the guide, we should check if there are any existing forms with similar purposes or fields to avoid duplication and ensure the guide is clear and concise.
-
-After reviewing the YAML fields, the form consists of 11 fields with varying types and requirements. Each field seems to be relevant to the purpose of the form.
-
-We can now create the user-facing help guide based on the form's structure and fields.
-
-</thinking>
-
 # Healthcare Staff Employment Review Form - Help Guide
 
 ## Purpose

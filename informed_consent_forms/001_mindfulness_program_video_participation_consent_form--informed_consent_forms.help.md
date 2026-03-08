@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather participant information and consent for a mindfulness program video participation. It will guide users through the required fields for both participant details and their contact information, as well as a section for explicit consent. The form is not affiliated with any form platform, but rather an original creation using public survey topic metadata.
-</thinking>
-
 # Mindfulness Program Video Participation Consent Form - Help Guide
 
 ## Purpose

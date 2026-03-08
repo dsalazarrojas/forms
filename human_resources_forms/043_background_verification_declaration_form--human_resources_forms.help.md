@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the background verification declaration form is completed accurately and consistently across all applicants. This form will be used to verify information provided by applicants, such as employment history, education, and personal details. To avoid duplication of effort, we will be using this form to check for any discrepancies between the applicant's declaration and the actual facts. This guide will explain each field in the form to help applicants complete it correctly.
-</thinking>
-
 # Background Verification Declaration Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is being used as intended and not for any other purpose. This form is specifically designed to collect information about a user's reading habits and preferences. We should verify that this form is being used to collect relevant information and not for any other reason. We should also check that the same information is not being collected through other channels, such as email or phone calls, as this could lead to duplicate efforts and unnecessary data storage.
-</thinking>
-
 # Reading Information Request - Help Guide
 ## Purpose
 The "Reading Information Request" form is used to collect information about a user's reading habits and preferences.

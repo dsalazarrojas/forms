@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the Clinical Ladder Application Form, which is used to advance clinical staff members through the clinical career development process. To confirm that the form is being filled out for the correct purpose, please ensure you are submitting an application for yourself, and not another employee. The form should not be used for purposes other than clinical career advancement.
-
-</thinking>
-
 # Clinical Ladder Application Form - Help Guide
 
 ## Purpose

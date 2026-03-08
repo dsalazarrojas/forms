@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's briefly discuss the purpose and relevance of this form. This form is designed to collect informed consent for research poster presentations, which is a crucial aspect of ensuring that participants understand the purpose and implications of their participation in research studies. The form is intended to be used by researchers and institutions to gather consent from individuals who have been invited to participate in a research study or poster presentation. The goal is to make sure that participants are aware of the study's scope, risks, and benefits, and that they are willing to contribute their time and data to the research.</thinking>
-
 # media_consent_for_research_poster_presentation - Help Guide
 ## Purpose
 This form is designed to collect informed consent from participants for research poster presentations. It is intended to be used by researchers and institutions to gather consent from individuals who have been invited to participate in a research study or poster presentation.

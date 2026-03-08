@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to record the attendance of employees in shifts and locations. This form is used to track employee check-in and check-out times, locations, and shifts. It's essential to use this form to ensure accurate attendance records and facilitate proper attendance tracking. Please ensure that you've selected the correct shift, location, and assigned individual before submitting the form. If you're unsure about the correct shift or location, please verify with your team or supervisor before proceeding.
-</thinking>
-
 # Employee Check In Attendance Form - Help Guide
 ## Purpose
 The Employee Check In Attendance Form is designed to track employee attendance, ensuring accurate and up-to-date records. This form is used to record check-in and check-out times, locations, and shifts, facilitating smooth attendance tracking and management.

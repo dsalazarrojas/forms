@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information for an Employee Retention Grant Application. This grant is intended for businesses that are struggling to retain their employees due to certain circumstances. The form is designed to gather necessary details about the business and its efforts to retain its employees. 
-
-Before proceeding, ensure that the business has not already applied for or received an Employee Retention Grant in the past year. If you have any doubts, please reach out to the relevant department for clarification.
-
-</thinking>
-
 # Employee Retention Grant Application - Help Guide
 
 ## Purpose

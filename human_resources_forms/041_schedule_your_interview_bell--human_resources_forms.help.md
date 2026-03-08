@@ -1,8 +1,3 @@
-<thinking>
-The "Schedule Your Interview Bell" form is designed to be completed by individuals seeking to schedule an interview with a representative. This form will help them select a suitable time, date, day, location, interviewer, and provide additional notes or contact information.
-To ensure accurate and relevant completion of the form, we'll review the fields and instructions provided. This form is not affiliated with or endorsed by any specific platform, and it's an original adaptation created by an AI.
-</thinking>
-
 # Schedule Your Interview Bell - Help Guide
 ## Purpose
 The "Schedule Your Interview Bell" form is a tool for individuals to schedule an interview with a representative. The form helps them choose a suitable time, date, day, location, and select an interviewer, with the option to provide additional notes or contact information.

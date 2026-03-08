@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## First Aid Incident Report Form - Help Guide
 ## Purpose
 This form is designed for reporting incidents that require immediate first aid attention. The purpose of this form is to gather essential information to provide prompt and effective care for the patient. It's meant for healthcare professionals, medical staff, or first aid responders to document and analyze incidents efficiently.

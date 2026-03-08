@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect personal information from farmers, including their first name, last name, email, phone number, home address, birthdate, birth time, age, and years of experience. The purpose of this form is to gather data on individual farmers, likely for administrative or marketing purposes.
-Please ensure that you only submit this form once to prevent duplication of efforts.
-</thinking>
-
 # Farmers Personal Information Form - Help Guide
 ## Purpose
 This form is designed to collect and store personal information from farmers, which will be used for administrative or marketing purposes.

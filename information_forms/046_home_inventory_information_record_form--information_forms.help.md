@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a user's home inventory, including contact details, home characteristics, and insurance information. It appears to be used for internal purposes, possibly for administrative or accounting tasks. There are no obvious indicators of duplication or redundancy, suggesting that this form is intended to be a one-time data collection instrument. The form's structure and field names suggest it may be used to record or report information about a user's property, such as ownership details, purchase history, and current status. The form's fields are generally straightforward and easy to understand, with most requiring text or number inputs.
-</thinking>
-
 # Home Inventory Information Record Form - Help Guide
 
 ## Purpose

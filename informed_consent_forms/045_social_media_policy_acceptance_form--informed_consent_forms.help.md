@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # social_media_policy_acceptance_form - Help Guide
 ## Purpose
 The social media policy acceptance form is used to obtain acceptance from employees on our company's social media policy. This form requires employees to provide their email address, phone number, and other relevant information. The form is required for all employees to complete, and the information collected will be used for internal purposes only.

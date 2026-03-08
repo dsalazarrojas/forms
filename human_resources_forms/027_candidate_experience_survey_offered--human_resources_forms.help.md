@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from candidates about their experience during the offer stage of the recruitment process. It aims to collect feedback on the overall quality of the offer, timeliness, and communication from the recruitment team. This data will help us identify areas for improvement and provide insights on how to refine the offer process for future candidates.
-</thinking>
-
 # Candidate Experience Survey (Offered) - Help Guide
 ## Purpose
 

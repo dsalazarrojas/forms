@@ -1,7 +1,3 @@
-<thinking>
-This form is used by HR personnel to update the status of employee records. It is a crucial form used for tracking and maintaining accurate employee information. Before proceeding, please ensure that you have the necessary permissions and authorization to access this form. This form should not be filled out as a duplicate or redundant action. If you are updating an employee's status for the first time, make sure to fill out the form accurately and thoroughly.
-</thinking>
-
 # Employee Change Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,4 @@
-> <thinking>
-This form is likely intended to gather information from patients regarding their experiences with placental encapsulation, a process of encapsulating a postpartum placenta to prevent hemorrhage and reduce pain. The form is likely designed to gather information on patient demographics, medical conditions, and treatment history. The form may be used in conjunction with clinical trials or as a standard intake form for healthcare providers.
-</thinking>
-
-# Placenta Encapsulation Agreement Form - Help Guide
+> # Placenta Encapsulation Agreement Form - Help Guide
 
 ## Purpose
 This form is designed to collect information from patients about their experiences with placenta encapsulation. It is meant to be completed by patients to provide healthcare providers with essential information about their medical history and treatment history.

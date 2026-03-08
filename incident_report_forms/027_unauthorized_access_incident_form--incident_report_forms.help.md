@@ -1,7 +1,3 @@
-<thinking>
-This form is for reporting unauthorized access incidents to the relevant authorities. This form is designed to ensure that incidents are recorded accurately and consistently, making it easier to identify patterns and trends. This is not a duplicate or unnecessary task, as it is a critical process to maintain network security and integrity. Please make sure to fill in all required fields to ensure a thorough report.
-</thinking>
-
 # Unauthorized Access Incident Form - Help Guide
 ## Purpose
 The Unauthorized Access Incident Form is a tool used to report incidents of unauthorized access to network resources. This form helps gather information about the incident, including date, time, location, and other relevant details.

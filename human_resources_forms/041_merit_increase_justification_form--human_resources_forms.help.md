@@ -1,11 +1,3 @@
-<thinking>
-
-Merit Increase Justification Form is used by managers and employees to document and track salary increase requests. Before filling out this form, please ensure that you have reviewed and understood the company's merit increase policy and that the request is not a duplicate. If you are not a manager or authorized personnel, please do not proceed with the form.
-
-This form is intended to be filled out by managers who have been delegated the authority to approve or deny merit increases. Employees can also use this form to provide a detailed justification for their salary increase request.
-
-</thinking>
-
 # Merit Increase Justification Form - Help Guide
 ## Purpose
 The Merit Increase Justification Form is used to document and track salary increase requests.

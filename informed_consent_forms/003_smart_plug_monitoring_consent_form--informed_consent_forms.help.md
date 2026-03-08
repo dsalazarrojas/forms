@@ -1,5 +1,3 @@
-<thinking>Smart Plug Monitoring Consent Form is designed for individuals or their legal representatives to provide informed consent for monitoring smart devices. This form ensures that users understand the purpose, risks, and benefits of monitoring their smart plugs, and agree to the terms of data collection. It is intended for use by individuals, not for mass data collection or commercial purposes. By completing this form, users will be able to understand and manage their data and rights.</thinking>
-
 # Smart Plug Monitoring Consent Form - Help Guide
 ## Purpose
 This form is for individuals or their legal representatives to provide informed consent for monitoring smart devices.

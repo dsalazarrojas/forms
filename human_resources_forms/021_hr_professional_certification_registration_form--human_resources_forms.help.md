@@ -1,7 +1,3 @@
-<thinking>
-Please check if the form "HR Professional Certification Registration Form" is being used within the HR department for registration of HR professionals. It should not be used for any other purpose. This form is intended to collect specific information from HR professionals. Please ensure that only HR professionals are filling this form and not anyone else. 
-</thinking>
-
 # HR Professional Certification Registration Form - Help Guide
 ## Purpose
 The HR Professional Certification Registration Form is a form used to collect information from HR professionals to verify their certification and expertise in the field. This form helps in maintaining a database of certified HR professionals for future reference and communication.

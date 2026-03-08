@@ -1,9 +1,3 @@
-<thinking>
-
-The form is designed to capture contact information from workers who have inquiries or concerns about the Worker Welfare Program. The form helps to ensure that the program's administrators receive necessary feedback and concerns from workers, which can aid in identifying and addressing potential issues promptly. To avoid duplication, the form should only be submitted once per issue or concern. 
-
-</thinking>
-
 # Worker Welfare Program Contact Form - Help Guide
 ## Purpose
 This form is designed to collect contact information and concerns from workers about the Worker Welfare Program. It helps the program's administrators to understand workers' needs and provide timely support.

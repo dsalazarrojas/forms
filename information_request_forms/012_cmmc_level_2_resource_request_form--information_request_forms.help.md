@@ -1,8 +1,3 @@
-<thinking>
-The CMMC Level 2 Resource Request Form is used to gather information from organizations seeking resources and support related to the Cybersecurity Maturity Model Certification (CMMC) framework. This form helps assessors and other stakeholders understand the organization's current certification level, specific needs, and requirements for CMMC Level 2 certification.
-To ensure accurate and consistent responses, please review this form carefully before submitting. If you have already submitted a request, please do not resubmit; instead, update your existing request.
-</thinking>
-
 # CMMC Level 2 Resource Request Form - Help Guide
 ## Purpose
 The CMMC Level 2 Resource Request Form is used to gather information from organizations seeking resources and support related to the CMMC framework.

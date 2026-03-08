@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Community Incident Form is to collect detailed information about incidents that have occurred within the community. This form is intended to be completed by individuals who witness or are involved in an incident and need to report it to the relevant authorities or management. The form is designed to be simple and straightforward, allowing users to provide essential details about the incident in a structured and organized manner. By submitting this form, users can help ensure that incidents are reported accurately and thoroughly, which can aid in preventing future incidents and promoting community safety.
-</thinking>
-
 # Community Incident Form - Help Guide
 ## Purpose
 The Community Incident Form is a crucial tool for reporting incidents that have occurred within the community. This form helps gather essential information about the incident, which is then used to take appropriate actions and prevent similar incidents from happening again.

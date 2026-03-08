@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from potential customers or clients who are interested in apartments or rental properties. The form collects data on various aspects of the individual's or household's situation to help the property management team better understand their needs and provide relevant information and services. This form will likely be filled out by someone who has already been pre-qualified or has shown interest in a particular property. To avoid duplicating efforts, the internal team should ensure that the inquiry is not already registered or has already been contacted.
-</thinking>
-
 # Apartment Information Request Form - Help Guide
 ## Purpose
 This form is used to gather information from potential customers or clients who are interested in apartments or rental properties. It helps the property management team understand their needs and provide relevant information and services.

@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to recognize a standout employee of the month. The goal is to identify a deserving employee who has demonstrated exceptional performance and contributions to the organization. To ensure that only one employee is selected each month, we'll be using this form to gather relevant information about the employee. It's essential that the information provided is accurate and consistent. Please note that this form is designed to capture the details of the employee of the month award for a specific month and year. If an employee is being selected for multiple months or years, you will need to complete this form multiple times.</thinking>
-
 # Employee of the Month Form - Help Guide
 ## Purpose
 The employee of the Month form is used to recognize a standout employee for exceptional performance and contributions to the organization. This form is designed to capture key information about the employee of the month, including the department they belong to, the reason for the award, and other relevant details.

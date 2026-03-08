@@ -1,5 +1,3 @@
-<thinking>Transfer of Dog Ownership Form is used to facilitate the transfer of ownership of a dog from one individual to another. This form is designed to collect necessary information from both the current owner and the new owner to ensure a smooth transition of ownership. The purpose of this form is to gather information about the dog, its current and new owner, and any relevant circumstances surrounding the transfer of ownership. This information will be used to update the dog's records and to ensure that all parties involved are aware of their responsibilities and rights regarding the dog.</thinking>
-
 # Transfer Of Dog Ownership Form - Help Guide
 ## Purpose
 

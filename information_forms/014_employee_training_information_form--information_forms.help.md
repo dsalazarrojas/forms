@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from employees about their training history and preferences. The form will help the Training Team to track and analyze employee training records, making it easier to identify areas for improvement and allocate necessary resources. This form is a crucial tool for employees to provide accurate and up-to-date information about their training experiences. Please ensure that you complete this form carefully and accurately, as any discrepancies may lead to incorrect training recommendations or allocation of resources.
-</thinking>
-
 # Employee Training Information Form - Help Guide
 ## Purpose
 The Employee Training Information Form is a mandatory form designed to collect information from employees about their training history, preferences, and needs. This information will help the Training Team to better understand employee requirements and provide tailored training programs.

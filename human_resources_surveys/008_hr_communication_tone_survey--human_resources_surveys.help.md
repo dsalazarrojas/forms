@@ -1,20 +1,3 @@
-<thinking>
-The goal of this form is to collect feedback on the internal communication tone within the HR department. This feedback will help identify areas of improvement and provide suggestions for changes that can be made to enhance the communication tone. The form will be used to gather information on how employees perceive the tone of internal communication, specifically in the HR department, and suggest areas that require improvement.
-
-This form is designed to be completed by employees of the HR department and will help to:
-
-- Understand employee perceptions of internal communication tone
-- Identify areas of improvement
-- Enhance the overall communication tone within the HR department
-
-Before starting, please ensure that you are in the correct location and have a clear understanding of the purpose of this form. If you have already completed this form, please make sure to review the changes made to your previous responses.
-
-Please note that some fields may be optional or have specific instructions to help guide you through the completion process. Please take your time and answer the questions as accurately as possible.
-
-This form is intended for internal use only and will not be shared externally.
-
-</thinking>
-
 # HR Communication Tone Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on the internal communication tone within the HR department, aiming to improve employee satisfaction and perception of the communication tone.

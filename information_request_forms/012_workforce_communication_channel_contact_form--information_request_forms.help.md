@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Workforce Communication Channel Contact Form - Help Guide
 ## Purpose
 This form is intended for employees to submit requests or concerns regarding workforce communication channels. It allows them to contact the relevant department or team for assistance or clarification. By using this form, employees can ensure that their messages are directed to the right people, facilitating timely and accurate responses.

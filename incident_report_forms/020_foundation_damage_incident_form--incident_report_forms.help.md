@@ -1,7 +1,3 @@
-<thinking>
-The Foundation Damage Incident Form is used to report and record incidents of damage to foundations, including contact information for follow-up, incident location, date, and time, and a brief description of the incident. This form is typically filled out by individuals or teams who have observed or are involved in the incident, and it's meant to be completed accurately and thoroughly to ensure proper investigation and resolution of the incident.
-</thinking>
-
 # Foundation Damage Incident Form - Help Guide
 ## Purpose
 The Foundation Damage Incident Form is a crucial tool for reporting and recording incidents of damage to foundations. It ensures that all relevant details are captured accurately and consistently, facilitating effective investigation and resolution of the incident.

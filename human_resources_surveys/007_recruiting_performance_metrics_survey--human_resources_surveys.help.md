@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to assess the performance of recruiters in terms of their skills and behavior. To ensure that this form is completed accurately, it's essential to review the job opening details before answering. The survey has multiple sections, so please ensure that you've read the entire form carefully before submitting it. This form may be similar to others, so please take a moment to review the questions to understand their relevance to this specific job opening. Please answer all questions that apply to the job opening you're providing feedback on. If you're unsure about the relevance of a question, please contact the recruiter directly for clarification.
-</thinking>
-
 # Recruiting Performance Metrics Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on the performance of recruiters in terms of their skills and behavior. It will help us understand how well they're doing in different areas and identify areas for improvement.

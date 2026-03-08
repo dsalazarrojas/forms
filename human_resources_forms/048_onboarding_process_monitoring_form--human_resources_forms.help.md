@@ -1,5 +1,3 @@
-<thinking>...This form is intended to facilitate the monitoring and tracking of the onboarding process for new employees. It allows the completion of several key tasks and checks to ensure a smooth transition into the company. By filling out this form, users can report on the onboarding status of new employees, provide feedback, and identify potential issues or areas for improvement. This form can be used by HR or management teams to monitor and assess the progress of new employees through the onboarding process... </thinking>
-
 # Onboarding Process Monitoring Form - Help Guide
 ## Purpose
 The Onboarding Process Monitoring Form is used to track and monitor the progress of new employees through the onboarding process. This form helps to ensure a smooth transition into the company and identifies potential issues or areas for improvement.

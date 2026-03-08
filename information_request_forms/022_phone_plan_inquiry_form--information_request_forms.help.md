@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Phone Plan Inquiry Form - Help Guide
 ## Purpose
 The Phone Plan Inquiry Form is a tool used to gather information from customers or clients to better understand their phone plan needs. This form helps us understand their current and desired plans, allowing us to provide more accurate and relevant information to support their inquiries.

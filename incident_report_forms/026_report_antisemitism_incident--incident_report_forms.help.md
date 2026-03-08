@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect incident reports related to antisemitism from students, teachers, parents, or witnesses. This form helps to document and track incidents of antisemitism, ensuring that the incident is thoroughly investigated and addressed. **Please note that this form should only be used for actual incidents, not for general feedback or complaints. Duplicate reports may be removed or marked as duplicates.**
-</thinking>
-
 # Report Antisemitism Incident - Help Guide
 ## Purpose
 The Report Antisemitism Incident form is designed to collect incident reports related to antisemitism that occur within the community.

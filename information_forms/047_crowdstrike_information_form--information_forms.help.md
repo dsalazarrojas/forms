@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their experiences with CrowdStrike, a cybersecurity company that provides AI-powered security solutions. The purpose of this form is to gather insights on how users interact with their products and services, which will help the company improve its offerings and support. The form is divided into sections that cover various aspects of the user's experience, including user information, product details, security insights, and additional comments. This form is not intended to be a one-size-fits-all solution, so users are encouraged to provide as much information as possible to help the company better understand their needs.
-
-</thinking>
-
 # crowdstrike_information_form - Help Guide
 ## Purpose
 The **crowdstrike_information_form** is designed to gather insights on how users interact with CrowdStrike's AI-powered security solutions. Your input will help us improve our services and better support you in the future.

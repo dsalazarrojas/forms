@@ -1,11 +1,3 @@
-<thinking>
-
-This form, called "Seller Input Sheet", is designed to collect feedback and information from customers. It is meant to be filled out by customers after they have had an interaction with a seller, allowing them to share their thoughts on the product and experience. This form is not meant to be completed by sellers themselves, but rather by customers. 
-
-Before filling out this form, please ensure that you have not already provided feedback. Duplicating feedback is not only unnecessary but also may cause confusion for our team. If you have already submitted feedback, you can simply close this page and return to the main product page.
-
-</thinking>
-
 # Seller Input Sheet - Help Guide
 ## Purpose
 This form is intended to gather feedback and information from customers about our product after they have had an interaction with a seller.

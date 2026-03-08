@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # terms_and_conditions_form - Help Guide
 ## Purpose
 

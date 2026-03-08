@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # life_insurance_beneficiary_form - Help Guide
 ## Purpose
 This form is used to gather information from a beneficiary of a life insurance policy. It captures details such as the beneficiary's personal information, relationship to the insured, contact details, and witness information for verification purposes.

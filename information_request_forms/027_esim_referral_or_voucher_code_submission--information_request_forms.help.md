@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for users who need to submit an eSIM referral or voucher code. The form is used to collect information from customers who are referring or voucher-code-holders for a specific eSIM service. The form will help you understand the referral or voucher code submission details. 
-</thinking>
-
 # esim_referral_or_voucher_code_submission - Help Guide
 ## Purpose
 This form is used to collect and store information from customers who are using eSIM referrals or voucher codes. It is used for the processing and management of these codes.

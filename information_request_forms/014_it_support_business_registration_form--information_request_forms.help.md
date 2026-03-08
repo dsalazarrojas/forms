@@ -1,10 +1,3 @@
-<thinking>
-The main goal of this form is to gather information about your business, such as its name, contact details, and services offered. However, we must ensure that the form is completed for the right purpose and that the business is not registered multiple times. This form will help us verify your business identity and provide relevant support and services accordingly.
-
-Before proceeding, please review the purpose of this form and ensure that you are the authorized representative of your business. If you are unsure or have any concerns, please contact our support team for clarification. Once you have completed the form, you will be able to view and manage your business profile, and we will use the information provided to tailor our support and services to your business needs.
-
-</thinking>
-
 # it_support_business_registration_form - Help Guide
 ## Purpose
 This form is designed to gather essential information about your business, enabling us to provide tailored support and services.

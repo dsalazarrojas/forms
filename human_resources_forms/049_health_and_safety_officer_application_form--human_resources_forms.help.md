@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from applicants for the Health and Safety Officer position within an organization. This form is used to gather essential details about the applicant, including their personal information, work experience, education, and emergency contact details. The form also requires applicants to upload relevant documents, such as resumes, licenses, and certifications.
-
-Before filling out this form, please ensure that you have all the necessary information required for the job application. The form is designed to be completed by the applicant, and the information collected will be reviewed and evaluated as part of the hiring process.
-
-Please note that some fields are not required, but providing complete and accurate information will help the reviewer assess your qualifications and application.
-
-</thinking>
-
 # Health and Safety Officer Application Form - Help Guide
 ## Purpose
 The Health and Safety Officer Application Form is used to collect information from applicants for the Health and Safety Officer position.

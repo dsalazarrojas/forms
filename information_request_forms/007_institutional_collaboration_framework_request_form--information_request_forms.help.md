@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information from users who are interested in proposing a collaboration framework with our institution. The form will help us understand their objectives, scope, and timeline for the collaboration, as well as gather additional information such as their budget, partner contacts, and submission method. We will review the submissions and use this information to decide on next steps. Please note that this form is required for all collaboration proposals. If you've already submitted a proposal, please do not resubmit. Also, please ensure you've reviewed the terms of service and user agreement before submitting this form.
-</thinking>
-
 # Institutional Collaboration Framework Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from users interested in proposing a collaboration framework with our institution.

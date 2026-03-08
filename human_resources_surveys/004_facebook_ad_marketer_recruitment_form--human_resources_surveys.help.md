@@ -1,7 +1,3 @@
-<thinking>
-This form aims to collect information from recruiters for the purpose of evaluating potential candidates for Facebook Ad Marketer roles. This form ensures that all necessary details are captured and helps in the process of shortlisting candidates. Recruiters can use this form to input relevant details of the job, which will help in filtering and evaluating potential candidates. The form will not be duplicated in the database to prevent redundancy.
-</thinking>
-
 # Facebook Ad Marketer Recruitment Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential candidates for Facebook Ad Marketer roles. It will be used to evaluate and shortlist potential candidates.

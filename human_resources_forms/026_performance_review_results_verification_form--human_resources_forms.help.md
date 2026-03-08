@@ -1,16 +1,3 @@
-<thinking>
-This form is used to verify the results of performance reviews for employees. It ensures that reviewers have completed the necessary steps to finalize the review process. To use this form, you need to have a clear understanding of the employee's current status in the review cycle. 
-
-Before filling this form, make sure to check if the review is already marked as completed or verified. If it's already verified, there's no need to fill the form. 
-
-This form should be used for every employee that has a completed review that needs verification.
-
-Please fill this form accurately to ensure the review is marked as completed and the employee's status is updated correctly. 
-
-This form is meant to be a quick and straightforward process to verify review results. Please fill it out as quickly and efficiently as possible. 
-
-</thinking>
-
 # Performance Review Results Verification Form - Help Guide
 ## Purpose
 The Performance Review Results Verification Form is used to confirm the completion status of employee performance reviews. This is a crucial step in the review process to ensure accuracy and completeness.

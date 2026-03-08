@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a courier load, which is an important task for logistics and shipping companies. The form helps in gathering necessary details such as pickup and dropoff locations, load type, weight and size, and other relevant information. This information is crucial for efficient delivery and tracking of the load. Before proceeding, we need to ensure that the load information request form is not submitted with duplicate entries to avoid confusion and inaccuracies in the delivery process.
-
-</thinking>
-
 # Courier Load Information Request Form - Help Guide
 ## Purpose
 The Courier Load Information Request Form is used to collect essential details about a load, including its pickup and dropoff locations, type, weight, size, and other relevant information. This form is designed to ensure accurate and efficient delivery of the load.

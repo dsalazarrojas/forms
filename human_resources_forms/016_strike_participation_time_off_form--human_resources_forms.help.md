@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Strike Participation Time Off Form - Help Guide
 
 ## Purpose

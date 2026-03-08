@@ -1,9 +1,3 @@
-<thinking>
-This form is used to request a treasury audit schedule, which is a crucial process to ensure the accuracy and integrity of financial transactions. The form helps in identifying any discrepancies or errors in financial records, which can be addressed before they escalate into major issues. 
-The form is used to gather information about the audit schedule, including the preferred date, start and end dates, audit type, contact person, audit location, preferred contact method, and attachment requirements. It is essential to complete this form accurately and thoroughly to facilitate a smooth and efficient audit process.
-
-</thinking>
-
 # Treasury Audit Schedule Request Form - Help Guide
 
 ## Purpose

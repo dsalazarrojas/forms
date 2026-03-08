@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the "Telecommunications Service Incident Report Form", I will go through the following steps:
 
 1. Define the purpose of the form and check for relevance and non-duplication.

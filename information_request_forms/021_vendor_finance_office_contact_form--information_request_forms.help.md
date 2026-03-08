@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect contact information and inquiry details from vendors who need to reach out to the Vendor Finance Office. The form should be used by vendors who have questions or concerns regarding their financial matters, such as payment requests or credit inquiries. Please ensure that this form is only used for genuine inquiries and not for repetitive or duplicate requests. This will help the finance team to efficiently manage their workload and provide timely assistance to vendors.</thinking>
-
 # Vendor Finance Office Contact Form - Help Guide
 ## Purpose
 The Vendor Finance Office Contact Form is designed to provide a channel for vendors to reach out to the finance team with their financial inquiries, concerns, or requests.

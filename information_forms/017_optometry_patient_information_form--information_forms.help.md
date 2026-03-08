@@ -1,8 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the optometry patient information form, ensuring it's clear, concise, and practical for end-users. This guide will cover the form's purpose, the step-by-step process of completing it, and a detailed explanation of each field, including their labels and types. This will help users understand the form's relevance and prevent duplication of efforts.
-
-</thinking>
-
 # optometry_patient_information_form - Help Guide
 ## Purpose
 The optometry patient information form is a crucial tool for collecting and documenting patient data. It helps our optometry team gather essential information about patients, ensuring they receive the best possible care and services.

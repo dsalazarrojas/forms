@@ -1,11 +1,3 @@
-<thinking>This form is designed to collect information from parents or legal guardians, likely for the purpose of scheduling a contact or meeting. The form is likely used to streamline communication between staff and parents, and reduce the time spent on phone calls or emails.
-
-Before filling out this form, please ensure that:
-* You have the consent of the parent or legal guardian to share their information.
-* You have not filled out this form recently. This form is meant to be filled out only once per parent or legal guardian.
-
-This form consists of multiple fields that will help us better understand your needs and schedule a contact time that suits you best. Below is a guide on how to complete this form.</thinking>
-
 # Parent Contact Form - Help Guide
 ## Purpose
 The Parent Contact Form is designed to collect information from parents or legal guardians to schedule a contact or meeting.

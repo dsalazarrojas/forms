@@ -1,11 +1,3 @@
-<thinking>
-
-The Off-Label Consent Form is used for patients to provide off-label consent, which means they are agreeing to use a medication that is not approved for their specific condition. This form is used to document the patient's understanding and agreement to use a medication that has not been tested or approved by regulatory agencies for its intended use. This form ensures that the patient and healthcare provider are both aware of the potential risks and benefits associated with using an off-label medication.
-
-We should check that this form is being used for its intended purpose and not for other types of consents or agreements. We should also verify that the patient's signature is properly recorded on the form, including the date and time of consent. This form is typically used for patients who are considering alternative or experimental treatments.
-
-</thinking>
-
 # Off Label Consent Form - Help Guide
 ## Purpose
 The Off-Label Consent Form is used to document a patient's agreement to use a medication that has not been approved for its intended use. This form ensures that both the patient and healthcare provider are aware of the potential risks and benefits associated with using an off-label medication.

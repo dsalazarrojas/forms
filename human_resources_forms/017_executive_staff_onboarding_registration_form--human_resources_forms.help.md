@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect onboarding information from executive staff members, allowing HR to gather crucial contact and professional details. It is essential to fill this form accurately and completely, as it will help the executive staff to be properly integrated into the organization's systems and processes. Before starting, make sure that you don't have any existing onboarding records or that your information is up-to-date. This guide will walk you through the process of filling out this form.
-</thinking>
-
 # executive_staff_onboarding_registration_form - Help Guide
 ## Purpose
 This form is used to collect onboarding information from executive staff members, including contact and professional details. It is crucial to fill this form accurately to ensure a smooth onboarding process.

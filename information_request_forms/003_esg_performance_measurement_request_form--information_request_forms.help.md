@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information about ESG (Environmental, Social, and Governance) performance measurements. It's used to gather data on various aspects of ESG performance, such as the requester's category, subcategory, request type, status, priority, request date, requester, department, and any additional comments or attachments.
-Before proceeding, ensure that the form is being filled out for a valid reason and that the information requested is not duplicating existing data. This form is intended to help the relevant teams and departments track and evaluate ESG performance measurements effectively.
-</thinking>
 # ESG Performance Measurement Request Form - Help Guide
 ## Purpose
 This form is designed to collect information on various aspects of ESG (Environmental, Social, and Governance) performance measurements.

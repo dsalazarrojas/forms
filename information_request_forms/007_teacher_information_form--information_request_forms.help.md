@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to collect information from teachers to help with administrative tasks and communication. This guide is intended to assist users in completing the form correctly and efficiently. To confirm, this form is not meant for students or other non-teachers.
-
-Please review each field carefully to ensure accurate and complete submission.</thinking>
-
 # Teacher Information Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect consultation requests from clients for entertainment technology projects. The purpose of this form is to gather necessary information from clients to better serve them, ensuring that their technology needs are met effectively. It is crucial to fill out this form carefully and accurately to avoid duplication of work and miscommunication. Please ensure that all required fields are completed before submitting the form. Note that some fields require specific formats or options for accurate processing.
-</thinking>
-
 # Entertainment Tech Consultation Request Form - Help Guide
 ## Purpose
 This form is designed to collect consultation requests for entertainment technology projects from clients. It helps our team to understand client needs and requirements, allowing us to provide better services.

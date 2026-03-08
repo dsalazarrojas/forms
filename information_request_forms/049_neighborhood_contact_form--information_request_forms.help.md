@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect contact information from neighborhood residents to facilitate communication and address specific issues or requests from the neighborhood. This form is not intended for general comments or inquiries that may be better suited for a different channel. Ensure that the form is used for legitimate reasons and not for spamming or soliciting information from other users. Duplicate submissions from the same user are not encouraged or accepted.
-</thinking>
-
 # Neighborhood Contact Form - Help Guide
 ## Purpose
 The Neighborhood Contact Form is a crucial tool for collecting information from neighborhood residents to enable efficient communication and issue resolution. It's designed to gather essential details for addressing specific concerns or requests within your neighborhood. 

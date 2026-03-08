@@ -1,14 +1,3 @@
-<thinking>
-This guide explains the purpose and usage of the Moderna Booster Form, a crucial tool for healthcare professionals to gather essential information from individuals seeking vaccination options. The form is designed to collect personal data and preferences for vaccination, ensuring informed consent and efficient decision-making.
-
-To determine the relevance and potential duplication of the form, we first need to check if the user has filled out the form before. If they have, this guide will guide them through the process of updating their information.
-
-For those who are new to the form, this guide will walk them through each section and field, ensuring they understand the purpose and correct usage of each.
-
-Please note that the Moderna Booster Form is not a medical consultation, but rather a tool to gather information for healthcare professionals to assess individual needs.
-
-</thinking>
-
 # Moderna Booster Form - Help Guide
 ## Purpose
 This form is designed to gather essential information about individuals interested in the Moderna booster. Please fill out the form accurately and truthfully to ensure you receive the right guidance and recommendations for your vaccination needs.

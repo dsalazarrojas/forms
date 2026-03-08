@@ -1,10 +1,3 @@
-<thinking> 
-This form is an Anti-Harassment Compliance Declaration Form, a document used to ensure that employees understand and comply with the organization's anti-harassment policy. It's essential that employees complete this form to acknowledge their understanding of the policy and their commitment to treating others with respect and dignity.
-
-Before starting, please ensure you are not duplicating this effort. This form is a crucial part of the organization's compliance and risk management process.
-
-</thinking>
-
 # Anti Harassment Compliance Declaration Form - Help Guide
 ## Purpose
 This form is used to declare your compliance with the organization's anti-harassment policy. It ensures that you understand the policy's requirements and agree to treat others with respect and dignity.

@@ -1,10 +1,3 @@
-<thinking>
-To confirm that the form purpose and fields are correct for this specific use case, I'll review the form YAML. The form is designed for data protection and consent, likely in the context of homeless outreach services. This form is used to collect information from individuals in need of services, and it's crucial to ensure that the collected data is used responsibly and with the individual's consent. The form seems to cover essential aspects of personal information, outreach preferences, and medical conditions, with fields for emergency contact details and data use consent.
-
-I'll create a concise and practical help guide for the form, using the provided YAML fields as a basis for the explanation.
-
-</thinking>
-
 # Homeless Outreach Data Protection Consent Form - Help Guide
 
 ## Purpose

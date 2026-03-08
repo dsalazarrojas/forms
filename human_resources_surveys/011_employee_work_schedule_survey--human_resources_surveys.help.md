@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather feedback from employees about their work schedules, specifically regarding their shift preferences, satisfaction with their schedule, and other related aspects. This form should help the management understand the employees' needs and improve the scheduling process to better fit the team's work style. Before starting, please ensure that you're not familiar with the current shift schedule or have any pre-conceived notions about what is being asked. Answer truthfully and provide as much detail as you can, especially if you have any suggestions or complaints.
-
-</thinking>
-
 # Employee Work Schedule Survey - Help Guide
 
 ## Purpose

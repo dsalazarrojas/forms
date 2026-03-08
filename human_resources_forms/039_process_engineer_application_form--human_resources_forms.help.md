@@ -1,13 +1,3 @@
-<thinking>
-This help guide is intended to provide a clear and concise understanding of the "Process Engineer Application Form" and its various fields. To ensure that end-users have a comprehensive knowledge of the form and its purpose, let's break down the form's purpose and requirements. 
-
-The "Process Engineer Application Form" is designed to collect information from individuals applying for process engineer positions within the organization. The form aims to gather essential details about the candidate's job title, job type, department, and other relevant details that will be used in the hiring process. The form also requires information from the submitter, including their name, contact details, and job description. 
-
-Please note that the "Process Engineer Application Form" is a general template and might not be specific to a particular company or location. This form is meant to be used as a starting point for more tailored application forms that fit the specific needs and requirements of your organization. 
-
-Before completing this form, ensure that you have reviewed the requirements and have all necessary information ready. This guide will walk you through each field of the form, making it easier for you to provide accurate and comprehensive details.
-</thinking>
-
 # Process Engineer Application Form - Help Guide
 ## Purpose
 The "Process Engineer Application Form" is a comprehensive application form designed to collect information from candidates applying for process engineer positions within the organization.

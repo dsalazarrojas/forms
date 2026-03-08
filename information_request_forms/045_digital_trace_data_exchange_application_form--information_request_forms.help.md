@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information from users for the Digital Trace Data Exchange application. To be eligible to fill out this form, you should be a representative from an eligible organization seeking to access the data exchange system. Please note that this form will help us understand your needs and determine the feasibility of your application. 
-
-To be considered for a response, your form should include all required fields and be free of errors. Required fields are marked with an asterisk (*) in their labels. 
-
-This form will be reviewed and considered complete when you submit it. We will then reach out to you with further instructions.
-
-</thinking>
-
 # Digital Trace Data Exchange Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from users for the Digital Trace Data Exchange application. Please fill out this form with accurate and detailed information to help us understand your needs and determine the feasibility of your application.

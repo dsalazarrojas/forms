@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from users on a specific topic or scenario, likely for research or educational purposes. The form consists of multiple questions with various types of input fields, including text, select-one, and select-multiple options. To ensure accuracy, users should carefully review each question and provide honest answers.
-</thinking>
-
 # demo_questions_and_answers_form - Help Guide
 ## Purpose
 This form is for users to provide answers to a series of questions. Please answer each question truthfully to help with the purpose of this form.

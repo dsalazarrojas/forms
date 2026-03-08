@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a comprehensive incident report form for refrigeration leaks, designed to collect information about the incident, the person completing the report, and the actions taken to correct and prevent future leaks. The purpose of this form is to gather details about the incident, including the date, time, location, and description of the leak, as well as the category and priority of the leak. It also asks for information about the reporter's contact and department involved. The form seems to be primarily focused on gathering data for internal use within an organization or facility with refrigeration systems.
-</thinking>
-
 # Refrigeration Leak Incident Report Form - Help Guide
 
 ## Purpose

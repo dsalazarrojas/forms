@@ -1,8 +1,3 @@
-<thinking>
-To create a help guide for the "Product Inventory Information Record Form", we first need to understand its purpose and the fields it contains. This form is used to record information about products, including product ID, description, quantity, location, status, category, color, price, weight, image, and notes. It seems to be used for tracking and managing products in a database.
-The form consists of 17 fields, each with its own label, type, and options. We can categorize the fields into different groups, such as "Product ID", "Product Information", "Product Status", "Product Category", "Product Price and Weight", "Product Image and Notes", and "Additional Information". Each group will be explained in detail in the "Field-by-Field Explanation" section.
-</thinking>
-
 # Product Inventory Information Record Form - Help Guide
 ## Purpose
 The Product Inventory Information Record Form is used to record and manage product information for tracking and inventory purposes.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for surgery scheduling purposes. The form is likely to be used by medical facilities or hospitals to collect relevant information from patients before scheduling a surgery. This information may include medical history, allergies, diagnosis, procedure steps, anesthesia type, and contact information for emergency contacts and medical staff.
-The following fields are included to ensure that the relevant information is collected in a structured and organized manner, allowing for easier and more efficient processing of the data. The fields are designed to be completed by patients or their representatives, and the options provided are intended to guide them through the process.
-</thinking>
 # Surgery Scheduling Information Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is used for subcontractors to submit their materials and documents to the construction project team. The form is a standardized template for collecting necessary information from subcontractors. Before completing this form, please ensure that you have all the required documents and information ready. This form should not be used for other purposes, such as general inquiry or proposal submission.
-
-</thinking>
-
 # Construction Submittal Form - Help Guide
 ## Purpose
 This form is used to collect information and documents from subcontractors for construction projects. It ensures that all necessary submittals are properly received, reviewed, and processed.

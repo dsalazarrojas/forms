@@ -1,7 +1,3 @@
-<thinking>
-To ensure that the form is filled out correctly, can you please confirm that the form's purpose is for collecting feedback on employee leave management software usage and satisfaction? And can you please double-check that the fields provided are the correct ones for this purpose? 
-</thinking>
-
 # employee_leave_management_software_review_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on employee leave management software usage and satisfaction. It aims to gather information from employees about their experiences with leave management software, including their current software of choice, satisfaction levels, and areas for improvement.

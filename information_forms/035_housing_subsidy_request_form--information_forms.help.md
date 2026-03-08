@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide is intended to assist users in understanding the Housing Subsidy Request Form, which is designed to collect information from individuals seeking housing subsidies. The form is a simple, multi-page layout that captures relevant details about the user's housing program needs, household information, contact details, reason for requesting housing subsidies, and any additional information they wish to provide. This guide is not affiliated with any form platform, but rather an original adaptation created using public survey topic metadata.
 
 # Housing Subsidy Request Form - Help Guide

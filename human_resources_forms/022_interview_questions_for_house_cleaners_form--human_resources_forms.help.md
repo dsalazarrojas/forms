@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect information for house cleaning professionals. The form is designed to be completed by the house cleaners and is used to gather details about their background, job experience, and availability. It's essential to ensure that the form is filled out correctly to provide accurate and up-to-date information.
-
-When completing this form, please note that some fields are optional, but providing accurate information will help the hiring process.
-
-To complete this form, follow the steps below:
-
-</thinking>
-
 # Interview Questions For House Cleaners Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from house cleaners, including their background, job experience, and availability, to support the hiring process.

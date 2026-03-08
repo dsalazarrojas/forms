@@ -1,7 +1,3 @@
-<thinking>
-This form is used for staff members to provide medical information. This form is meant for employees who have medical concerns or requirements that need to be documented in the staff database. This form ensures that all necessary medical information is collected, including first and last name, date of birth, medical history, medical license information, and emergency contact details. 
-</thinking>
-
 # Staff Application Form Medical - Help Guide
 ## Purpose
 The Staff Application Form Medical is used to collect medical information from staff members to ensure accurate and up-to-date records in the staff database. This form is designed to gather information in a clear and concise manner to prevent any potential health risks and ensure compliance with regulatory requirements.

@@ -1,5 +1,3 @@
-<thinking>...the form designer must consider the purpose of this form is to gather information from customers or customers' representatives about a particular product that is being recalled, likely due to manufacturing defects or safety concerns. This form would be used to collect relevant details such as product identifier, customer information, and communication preferences in order to follow up on the recall effectively. The form should not be filled out by the manufacturing team as they would already have access to this information. Additionally, this form should not be filled out by customers who have already reported the recall issue, so we should add a check to prevent duplication of effort in the system...</thinking>
-
 # Safety Recall Information Request - Help Guide
 ## Purpose
 This form is used to gather information from customers or their representatives about a product that is being recalled. This helps in following up on the recall effectively and ensures that necessary communication is made with the customer.

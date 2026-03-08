@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect the weekly status report from employees, which is crucial for monitoring and managing work progress, employee performance, and resource allocation. The report will likely be used by department managers, team leads, or other stakeholders to review the status of ongoing projects and tasks. It's essential to ensure that each employee fills out this form accurately and consistently to facilitate effective tracking and analysis. To avoid duplication of effort, it's best to review the form fields carefully and only enter relevant information.
-
-</thinking>
-
 # Weekly Status Report Template - Help Guide
 ## Purpose
 This form is designed to collect the weekly status report from employees, which is essential for monitoring and managing work progress, employee performance, and resource allocation.

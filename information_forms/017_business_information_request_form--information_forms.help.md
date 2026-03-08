@@ -1,7 +1,3 @@
-<thinking>
-This form is for requesting business information from the "information_forms" category, which likely involves collecting details about a business or organization. The form is designed to gather specific details from the requester, including their name, organization, contact email, and the purpose of their request. The form also asks for a brief description of the information requested, the urgency of the request, and the preferred format for receiving the information. This guide will help users understand the purpose and requirements of the form.
-</thinking>
-
 # Business Information Request Form - Help Guide
 ## Purpose
 The Business Information Request Form is used to gather information from businesses or organizations. It's essential to fill out this form to ensure that your request is processed efficiently and you receive the information you need in the format you prefer.

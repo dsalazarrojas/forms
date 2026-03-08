@@ -1,23 +1,3 @@
-<thinking> 
-We need to ensure that the end-users understand the purpose and usage of this form to accurately collect data on safety equipment demonstrations. This form is intended to gather information on the safety equipment used, the location of the demonstration, and the conditions under which it was used. It is crucial that the form is filled out correctly to provide accurate data for future reference and safety evaluation. It's essential to review the form carefully to avoid duplication or misclassification of information.
-
-The form is meant to capture the following data:
-* Safety equipment used during the demonstration
-* Location where the demonstration was held
-* Instructor's name and organization
-* Participant's name and organization
-* Informed consent status
-* Safety equipment condition and usage details
-* Demonstration date and time
-* Duration of the demonstration
-* Number of participants
-* Safety equipment inspection and testing data
-* Other equipment used (if applicable)
-
-Each field on this form is designed to collect specific and accurate information to help evaluate the safety equipment used during the demonstration.
-
-</thinking>
-
 # Safety Equipment Demonstration Consent Form - Help Guide
 ## Purpose
 This form is designed to collect data on safety equipment demonstrations to ensure accurate and reliable information for future reference and safety evaluation.

@@ -1,5 +1,3 @@
-<thinking>...This form is used for patients to provide informed consent for telemedicine services in California. It captures general information, patient details, provider information, telemedicine consent, telemedicine agreement start and end dates, patient and provider signatures, and other relevant contact information. This form is a required document for healthcare providers to obtain patient consent before initiating telemedicine services. Please ensure that the form is not used outside of California due to state-specific regulations. It's also essential to review and update this form according to any changes in regulations or laws. This form is designed to be completed and signed by both the patient and the provider, and it should be saved and stored securely for future reference.</thinking>
-
 # Telemedicine Informed Consent Form California - Help Guide
 ## Purpose
 This form is used to obtain informed consent from patients for telemedicine services in California. It is a required document for healthcare providers to ensure compliance with state regulations.

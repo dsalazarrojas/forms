@@ -1,7 +1,3 @@
-<thinking>
-The Employment Opportunities Feedback Survey Form is designed to gather feedback from individuals who have applied for or responded to a job posting. This form aims to improve the job posting process by understanding how job seekers discover job postings, their interest in the role, what they know about the company, and their experience with the hiring process. The form is not required for all respondents, but it will help the HR team better understand the effectiveness of their job posting strategies and identify areas for improvement.
-</thinking>
-
 # Employment Opportunities Feedback Survey Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-We're collecting information for corporate travel purposes. This form is not intended for personal travel or other types of travel not related to work. Please ensure you have a valid reason for your trip as stated in our travel policy. 
-</thinking>
-
 # Corporate Travel Information Collection - Help Guide
 ## Purpose
 This form is designed to collect information about corporate travel, including company address, travel date, start and end times, travel destination, and other relevant details.

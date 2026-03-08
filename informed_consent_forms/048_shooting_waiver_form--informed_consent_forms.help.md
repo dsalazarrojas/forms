@@ -1,8 +1,3 @@
-<thinking>
-Internal reasoning block: This form is intended to collect participant information and emergency contact details for shooting events or activities. The participant is required to agree to the form's conditions and provide their signature. The form will be reviewed and signed by an instructor. This form is for internal use within the organization and is not intended for external distribution.
-
-</thinking>
-
 # Shooting Waiver Form - Help Guide
 ## Purpose
 The Shooting Waiver Form is a document that requires participants to provide their information and emergency contact details, and to agree to the form's conditions. The form is designed to be completed by participants before participating in shooting events or activities.

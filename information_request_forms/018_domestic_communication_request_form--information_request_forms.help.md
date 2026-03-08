@@ -1,8 +1,3 @@
-<thinking>
-This form is used to capture information about a domestic communication request. It is typically used by customers or internal staff to request communication with a customer service team. This form is designed to gather essential details to facilitate efficient and effective communication.
-Before filling out this form, please ensure you are not duplicating an existing request. If you are unsure, contact the customer service team to clarify.
-</thinking>
-
 # Domestic Communication Request Form - Help Guide
 ## Purpose
 The Domestic Communication Request Form is a tool to help you communicate with our customer service team. This form allows you to submit a request for assistance, ask questions, or provide feedback about our domestic communication services.

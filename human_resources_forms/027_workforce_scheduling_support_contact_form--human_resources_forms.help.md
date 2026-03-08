@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Workforce Scheduling Support Contact Form - Help Guide
 ## Purpose
 This form is designed to gather general information from users who need support with workforce scheduling. It helps the support team to understand the user's concerns and provide timely assistance.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect contact information from patients or their representatives to facilitate communication and information exchange. It is intended to be used when a patient or their representative needs to request information from our team. This form will help us ensure that we have the most up-to-date and accurate information about the patient.
-The form is not intended for duplicate requests, and we will not process duplicate submissions. Please ensure that you have not already submitted this form before.
-</thinking>
-
 # Contact Information Request Form - Help Guide
 
 ## Purpose

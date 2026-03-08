@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about an individual's skills, experience, and certifications. This form is likely used in a business or HR setting to collect data about employees' skills, training, and professional development. The form asks for details such as the skill type, level, and rating, as well as experience start and end dates, and certification information.
-
-It is recommended that users complete this form accurately and thoroughly to ensure that their skills and experience are properly documented and up-to-date.
-
-To ensure that the form is completed correctly, please review the field-by-field explanation below.
-</thinking>
-
 # skills_inventory_form - Help Guide
 ## Purpose
 The skills_inventory_form is used to document an individual's skills, experience, and certifications.

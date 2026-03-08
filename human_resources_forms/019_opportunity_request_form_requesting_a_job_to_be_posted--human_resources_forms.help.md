@@ -1,16 +1,3 @@
-<thinking>
-The Opportunity Request Form is a tool for requesting the creation of a new job posting within the company. This form serves as a standardized means of gathering essential information about the job posting to be created, ensuring that all necessary details are provided and accurately reflected in the job posting. It's crucial to fill out this form carefully, as it will be used to generate the actual job posting, which will be shared with internal and external stakeholders.
-
-Before filling out this form, please ensure that:
-
-*   You have the necessary approval from the relevant departmental manager or decision-maker.
-*   You have all the required information and details for the job posting at hand.
-*   You have verified that the job posting does not duplicate an existing job posting.
-
-If you're unsure about any of these points, please consult with your departmental manager or the person in charge of job postings.
-
-</thinking>
-
 # Opportunity Request Form (requesting A Job To Be Posted) - Help Guide
 ## Purpose
 The Opportunity Request Form is used to gather essential information about a job posting to be created within the company.

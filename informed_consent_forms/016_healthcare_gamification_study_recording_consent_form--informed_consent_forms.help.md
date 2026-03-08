@@ -1,10 +1,3 @@
-<thinking>
-The main purpose of this form is to collect user consent and other relevant information for a healthcare gamification study, ensuring that users understand the purpose and implications of participating in the study, and agree to the terms and conditions for data recording and tracking.
-This form is designed to be used in conjunction with other forms to ensure that users' data is collected and stored properly and securely.
-To avoid duplication of effort, the form fields should be filled out carefully and only once.
-The form consists of several fields, each with specific labels and options. The goal is to make the form easy to understand and fill out for the end-user.
-</thinking>
-
 # Healthcare Gamification Study Recording Consent Form - Help Guide
 
 ## Purpose

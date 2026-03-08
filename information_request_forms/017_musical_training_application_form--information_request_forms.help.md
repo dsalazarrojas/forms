@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to gather personal and contact information from users who wish to apply for musical training. The form collects information on the user's personal details, contact information, skills and experience, and a slot for the user to choose their preferred appointment time. This form is likely used by musical trainers or instructors to collect information from potential students.
 
 ## Musical Training Application Form - Help Guide

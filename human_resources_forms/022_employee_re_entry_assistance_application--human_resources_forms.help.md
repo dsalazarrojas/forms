@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to assist employees in the HR department to re-enter employees into the company's system. This form is used to gather information about the employee's contact details, department, reason for re-entry, and other relevant information. The goal is to provide a structured and efficient way to facilitate re-entry processes. The form is not intended to be used for any other purpose.
-</thinking>
-
 # Employee Re Entry Assistance Application - Help Guide
 ## Purpose
 This guide is designed to assist employees in understanding how to fill out the Employee Re Entry Assistance Application form. The form is a crucial tool for HR staff to gather essential information for employee re-entry processes.

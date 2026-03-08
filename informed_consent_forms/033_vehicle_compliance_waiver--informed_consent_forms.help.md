@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to obtain vehicle compliance waivers from customers, typically for fleet management or logistics purposes. It's intended to be completed by customers or their representatives. Ensure you have permission to complete this form, and be aware that the information provided will be used for legitimate business purposes only. 
-
-Please note that this form does not store any sensitive information, but it's essential to complete it accurately to ensure accurate records and compliance. 
-
-Before starting, ensure you have the relevant information and documentation required for the vehicle upgrades or compliance needed.
-
-</thinking>
-
 # Vehicle Compliance Waiver - Help Guide
 ## Purpose
 This form is used to obtain vehicle compliance waivers from customers for vehicle upgrades or other relevant modifications.

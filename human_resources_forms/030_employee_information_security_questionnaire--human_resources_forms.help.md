@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about employees and their security-related needs, awareness, and training requirements. This form will be used to gather relevant data for security purposes, ensuring that employees are informed and trained on the necessary security measures for their roles. It's essential that users fill it out accurately to avoid any potential issues. Please verify that you are filling out the correct form and ensure that it's not a duplicate submission.
-</thinking>
-
 # Employee Information Security Questionnaire - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This is an internal form used by HR personnel to request access to the HR system for employees. It's essential to ensure that only authorized personnel have access to sensitive HR system data. The form is used to track and manage employee access requests, providing a standardized process for HR administrators to grant or deny access. The form is used in conjunction with the company's HR system, which stores and manages employee data, benefits, and other sensitive information. To avoid confusion, please ensure you're filling out the form with accurate information and that it's relevant to the employee's role and position in the company. If you're unsure about any field or have questions, please reach out to your HR department for clarification. Please complete the form carefully to avoid delays in processing your request.
-
-</thinking>
-
 # HR System Access Form - Help Guide
 ## Purpose
 The HR System Access Form is used by HR personnel to request access to the company's HR system for employees. This form ensures that only authorized personnel have access to sensitive HR system data, promoting security and data integrity.

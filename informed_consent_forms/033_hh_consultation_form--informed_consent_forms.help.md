@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the "Hh Consultation Form", let's first understand the form's purpose and requirements. The form's primary goal is to collect basic contact information and a consultation request from users. This form likely serves as an initial step in a consultation process, where users can provide their details and schedule a consultation with the relevant personnel.
 
 Given the form's structure, we can see that it collects the following information:

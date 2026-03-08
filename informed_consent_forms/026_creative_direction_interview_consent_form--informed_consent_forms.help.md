@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect informed consent for creative direction interviews. It aims to ensure that participants understand the project's purpose, scope, and potential risks involved. To avoid duplication, please ensure that you have not already received consent from the participant before filling out this form. Also, please note that this form should be completed for each participant individually.
-</thinking>
-
 # creative_direction_interview_consent_form - Help Guide
 ## Purpose
 This form is used to collect informed consent from participants for creative direction interviews. It is essential to have participants' understanding and agreement on the project's purpose, scope, and potential risks involved.

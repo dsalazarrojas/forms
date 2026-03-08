@@ -1,18 +1,3 @@
-<thinking>
-The Consultancy Registration Form is used for registering and providing basic information about a consultancy that wants to be listed on our services directory. It is a crucial step in ensuring that we have accurate and up-to-date data about our service providers. 
-
-Before proceeding, please ensure that you are representing a legitimate consultancy with a genuine intention to provide services. If you have already submitted this form or a similar one in the past, please check your existing registration to avoid duplicate entries.
-
-This form should be completed by the primary contact person for the consultancy. If you are submitting on behalf of another individual, please obtain their explicit consent before proceeding.
-
-Please ensure that the information you provide is accurate and complete. Incomplete or inaccurate information may lead to delays in processing your registration or even rejection of your application.
-
-Please note that the estimated budget field is optional, but providing an estimate can help us better understand your needs and facilitate a more efficient registration process.
-
-The form is divided into several sections, each with its specific purpose. Please follow the instructions in the section titled "How To Complete This Form" for guidance on filling in each section.
-
-</thinking>
-
 # Consultancy Registration Form - Help Guide
 ## Purpose
 The Consultancy Registration Form is designed to gather essential information about a consultancy that wants to be listed on our services directory. This includes contact details, consultancy needs, and other relevant information to facilitate a smooth registration process.

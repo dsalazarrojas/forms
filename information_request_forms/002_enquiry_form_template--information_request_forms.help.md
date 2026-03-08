@@ -1,6 +1,3 @@
-<thinking>
-The Enquiry Form Template is used to gather information from users who are interested in learning more about our services or have questions about existing services. This form is meant to be a basic template for users to reach out to us with their queries. Please note that this form is not meant for actual customer support or issue reporting, but rather for users who are interested in learning more about our services.
-</thinking>
 # Enquiry Form Template - Help Guide
 ## Purpose
 The Enquiry Form Template is a tool for users to reach out to us with their questions or interest in our services.

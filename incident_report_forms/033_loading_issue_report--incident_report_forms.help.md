@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about loading issues that customers or users may encounter when interacting with a system or application. The purpose of this form is to gather details about the problem, its impact, and any relevant context to help diagnose and resolve the issue. Before completing this form, please ensure that the problem you are reporting is not a duplicate or ongoing, as this form is intended for new and unresolved issues only.
-</thinking>
-
 # Loading Issue Report - Help Guide
 ## Purpose
 The Loading Issue Report form is a tool for reporting and collecting information about loading issues that you have encountered. Your feedback is valuable to us and helps us improve the system's performance.

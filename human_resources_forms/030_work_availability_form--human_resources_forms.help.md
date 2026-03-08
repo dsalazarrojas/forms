@@ -1,8 +1,3 @@
-<thinking>
-The purpose of the Work Availability Form is to collect information about an employee's work schedule and availability. This form is typically used to manage and coordinate work tasks, assignments, and projects within the team. It's essential for employees to be able to accurately report their availability and work hours to ensure smooth communication and efficient resource allocation. 
-Before proceeding, ensure that this form is not a duplicate entry or submitted in error. Please review the current employee's work schedule and availability information to avoid overwriting existing data.
-</thinking>
-
 # Work Availability Form - Help Guide
 ## Purpose
 The Work Availability Form is designed to gather information about an employee's work schedule, availability, and other relevant details to facilitate team coordination and resource allocation.

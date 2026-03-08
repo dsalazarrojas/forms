@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from volunteer coordinators, typically in a non-profit or community organization setting. It is used to gather essential details about the person's role, contact information, and affiliation with the organization they are working with.
-
-To complete this form, start by filling in your first name, last name, and email address. You do not need to provide your last name if you prefer not to. Then, specify your role within the organization, and provide your phone number if you want to be contacted. If you are affiliated with an organization, please provide the name of the organization where you are volunteering. 
-
-</thinking>
-
 # Volunteer Coordinator Information Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from volunteer coordinators, typically in a non-profit or community organization setting.

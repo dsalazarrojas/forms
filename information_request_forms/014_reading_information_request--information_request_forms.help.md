@@ -1,8 +1,3 @@
-<thinking>
-This help guide will assist users in understanding the purpose and functionality of the "Reading Information Request" form, which is designed to gather information from users about their reading habits and preferences. The form is divided into multiple pages, and each page is dedicated to a specific aspect of the user's reading information. By completing this form, users can provide valuable insights about their reading habits, which can be used to tailor recommendations or services to their needs. To avoid duplication, users should not submit multiple forms with the same information.
-
-</thinking>
-
 # Reading Information Request - Help Guide
 ## Purpose
 The "Reading Information Request" form is designed to gather information about your reading habits and preferences. This information will help us better understand your interests and provide you with personalized recommendations or services.

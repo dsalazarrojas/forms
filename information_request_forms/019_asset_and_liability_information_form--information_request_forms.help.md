@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect asset and liability information from businesses. This form will be used to track and record business financial data. It is intended for businesses to use in their internal processes, and it is likely used for accounting and tax purposes. This form is not intended for external use. To prevent duplication of work, ensure that you only submit one form per year.
-</thinking>
-
 # Asset And Liability Information Form - Help Guide
 
 ## Purpose

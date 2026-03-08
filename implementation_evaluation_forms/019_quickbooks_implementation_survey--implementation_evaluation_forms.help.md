@@ -1,7 +1,3 @@
-<thinking>
-This form is likely part of a company's internal process to evaluate the implementation of QuickBooks, a popular accounting software. The purpose of the form is to gather information about the current status, benefits, challenges, and satisfaction of the implementation. The form is likely used to monitor and improve the performance of QuickBooks within the organization. It's assumed that the form will not be filled out by non-relevant individuals, i.e., those without access to the implementation process, and that there will be no need for duplicate submissions.
-</thinking>
-
 # QuickBooks Implementation Survey - Help Guide
 ## Purpose
 This form is part of the company's internal process to evaluate the current status and performance of QuickBooks implementation.

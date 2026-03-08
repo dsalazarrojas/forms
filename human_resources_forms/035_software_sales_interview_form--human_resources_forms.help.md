@@ -1,5 +1,3 @@
-<thinking>Software Sales Interview Form is used to document the details of a candidate's software sales interview, including their information, contact details, sales skills, and review status. This form helps interviewers to evaluate candidates based on their sales skills, product knowledge, and overall fit for the role. Please note that this form is intended for internal use and should not be shared with candidates.</thinking>
-
 # software_sales_interview_form - Help Guide
 ## Purpose
 The software sales interview form is designed to collect information about a candidate's fit for a software sales role. It helps interviewers to evaluate candidates based on their sales skills, product knowledge, and overall fit for the role.

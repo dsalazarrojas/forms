@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Community Regeneration Partner Contact Form - Help Guide
 
 ## Purpose

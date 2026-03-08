@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to obtain informed consent from participants in a fire drill exercise, ensuring they are aware of and agree to the necessary information and procedures. This form is typically used to gather contact information, medical conditions, and emergency contact details, and to confirm the participant's acknowledgment of the process. It's essential to complete this form accurately and thoroughly to ensure the participant's safety and the success of the fire drill.
-
-When filling out this form, please make sure to provide accurate and up-to-date information, and that you have the necessary approvals or permissions to complete it. If you're unsure about any field, refer to the specific instructions below.
-
-</thinking>
-
 # Fire Drill Participation Consent Form - Help Guide
 
 ## Purpose

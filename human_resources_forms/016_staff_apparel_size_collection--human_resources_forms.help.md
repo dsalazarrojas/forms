@@ -1,15 +1,3 @@
-<thinking>
-**Why this form exists**: The "Staff Apparel Size Collection" form is used to collect information about employee clothing sizes for HR purposes. This form will help administrators keep accurate and up-to-date information about employee attire requirements for uniforms, promotional items, and other staff clothing needs.
-**Assumption**: The form is intended for administrators to use when creating new employee accounts or when requesting size updates. It's not clear if there will be any validation rules in place after form submission.
-
-**Form design considerations:**
-- The form collects size information for both tops and pants.
-- There is no option for "medium" size for pants.
-- There is no validation rule for "T-shirt Medium" size field, it is not required but still present.
-
-**Form fields and their meanings**:
-</thinking>
-
 # Staff Apparel Size Collection - Help Guide
 ## Purpose
 The "Staff Apparel Size Collection" form is used to collect information about employee clothing sizes for HR purposes, including uniforms, promotional items, and other staff clothing needs.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # patient information - Help Guide
 
 ## Purpose

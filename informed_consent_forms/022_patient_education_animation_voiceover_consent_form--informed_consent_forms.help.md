@@ -1,9 +1,3 @@
-<thinking>
-This form is used to obtain informed consent from patients for a patient education animation voiceover. The purpose of this form is to ensure that patients understand their rights, responsibilities, and the scope of the animation voiceover, and to obtain their consent for its use.
-It is essential to complete this form carefully and accurately, as it is a legal document that confirms the patient's understanding and agreement.
-Before proceeding, please ensure that you have the necessary permissions and authorizations to collect and store this information.
-</thinking>
-
 # Patient Education Animation Voiceover Consent Form - Help Guide
 ## Purpose
 The Patient Education Animation Voiceover Consent Form is a document that ensures patients understand their rights, responsibilities, and the scope of the animation voiceover. It is used to obtain their informed consent for its use.

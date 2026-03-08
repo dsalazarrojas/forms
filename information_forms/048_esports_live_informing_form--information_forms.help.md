@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed for users to input information about esports events and strategies. It has several fields to capture details such as event name, date, location, and attachments. The form also has fields for capturing live updates, comments, and additional information. Users can input text, select one or multiple options, or upload attachments. The fields are divided into several sections, including user input, event information, strategy, attachments, and event status. The form is designed to be completed by a single user, but some fields are optional, allowing users to fill in only the necessary information. It is likely that this form is used for internal tracking and reporting purposes within an esports team or organization.</thinking>
-
 # esports_live_informing_form - Help Guide
 ## Purpose
 This form is designed for users to input information about esports events and strategies, for internal tracking and reporting purposes.

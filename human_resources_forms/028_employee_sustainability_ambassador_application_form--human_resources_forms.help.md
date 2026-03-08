@@ -1,5 +1,3 @@
-<thinking>Employee Sustainability Ambassador Application Form is used to gather information and facilitate the employee ambassador program. This form is not meant for daily work hours or performance data collection. Please do not fill out this form if you are already an existing Sustainability Ambassador. This form will be reviewed and approved internally to ensure consistency and accuracy. This will prevent duplicate applications and ensure a smooth onboarding process. Please fill out this form accurately and completely as per your work hours and schedule.</thinking>
-
 # Employee Sustainability Ambassador Application Form - Help Guide
 ## Purpose
 

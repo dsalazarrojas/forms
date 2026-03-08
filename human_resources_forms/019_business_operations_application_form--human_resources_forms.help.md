@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to collect information from applicants for business operations positions within the company. The form will be used to assess the candidate's qualifications, work experience, and other relevant details to determine their fit for the role. It is essential to fill out this form accurately and completely to ensure that your application is reviewed promptly and efficiently.
-
-To ensure that your application is complete and accurate, please follow these steps:
-
-1.  Make sure to fill out all the required fields marked with an asterisk (\*).
-2.  For date fields, use the MM/DD/YYYY format.
-3.  For select_one fields, choose the most suitable option that best represents your situation.
-4.  Be honest and provide accurate information about your education, experience, and previous employers.
-5.  If you have any relevant certifications or technical proficiencies, please list them in the respective fields.
-6.  For professional references, provide 2-3 contact information for your references.
-7.  Ensure that you are authorized to work in the country and agree to a background check.
-
-</thinking>
-
 # Business Operations Application Form - Help Guide
 
 ## Purpose

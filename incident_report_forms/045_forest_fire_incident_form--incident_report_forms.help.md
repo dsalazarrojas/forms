@@ -1,20 +1,3 @@
-<thinking>... internal reasoning block ...
-
-This form is intended to collect information about forest fire incidents. The purpose of this form is to gather essential details about the incident, including the date, time, location, and circumstances surrounding the incident. It is not intended to be a comprehensive or exhaustive report, but rather a concise and practical guide for reporting incidents in a forest fire scenario. 
-
-The form includes fields for the incident details, date, time, location, vehicles involved, weather conditions, injuries, and deaths. The fields are designed to be easy to understand and complete, with clear labels and concise instructions. 
-
-To ensure that the form is used correctly and efficiently, users should be aware of the following: 
-
-*   This form is not intended for reporting non-forest fire incidents. 
-*   The date and time fields are designed to capture the exact date and time of the incident. 
-*   The location field should include the specific location where the incident occurred. 
-*   The "Incident Vehicles" field is a multiple-choice option to indicate if any vehicles were involved in the incident. 
-*   The "Incident Weather Conditions" field is intended to capture any relevant weather conditions that may have contributed to the incident. 
-*   The "Injuries" and "Deaths" fields are designed to capture the number of people injured or killed in the incident. 
-
-</thinking>
-
 # Forest Fire Incident Form - Help Guide
 ## Purpose
 The Forest Fire Incident Form is a tool used to gather essential information about forest fire incidents. The form helps responders collect details quickly and efficiently, ensuring that the information is accurate and comprehensive.

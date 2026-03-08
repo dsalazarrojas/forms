@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback from employees on the workplace culture of a startup, aiming to gather insights on what they liked and disliked about their experience, what they think the startup did right and wrong, and to gather their overall feedback. This form will help the startup to identify areas of improvement and better understand their employees' perspectives.
-
-To avoid duplication or irrelevant data, it is essential to complete this form only once. Please do not fill out this form if you have already provided feedback in the past.
-
-Before proceeding, ensure that you have read and understood the form's purpose and guidelines.
-
-</thinking>
-
 # Startup Workplace Culture Employment Review - Help Guide
 ## Purpose
 This form is designed to collect feedback from employees on the workplace culture of a startup. It aims to gather insights on what they liked and disliked about their experience, what they think the startup did right and wrong, and to gather their overall feedback.

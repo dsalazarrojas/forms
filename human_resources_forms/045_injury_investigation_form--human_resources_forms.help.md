@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information about an incident that occurred at the workplace. The form is used to document and investigate workplace incidents, including injuries, illnesses, and near misses. Before filling out this form, it is essential to review the following:
-* Ensure you have the necessary permission to complete the form.
-* Check if an investigation has already been conducted on this incident to avoid duplication of effort.
-* If the incident has already been investigated, do not complete this form.
-</thinking>
-
 # Injury Investigation Form - Help Guide
 ## Purpose
 This form is designed to gather information about an incident that occurred at the workplace, including injuries, illnesses, and near misses.

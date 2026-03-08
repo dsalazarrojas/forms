@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to verify the authorization and distribution of the employee handbook, ensuring that employees have access to the necessary information and resources. Before filling out this form, please ensure that you have the necessary approvals and permissions to distribute the employee handbook. If you have already completed this form in the past, please check if you have any updates or changes that need to be reflected in this new submission.
-</thinking>
-
 # employee_handbook_distribution_authorization_form - Help Guide
 ## Purpose
 This form is used to authorize and track the distribution of the employee handbook to employees. It helps to ensure that employees have access to the necessary information and resources.

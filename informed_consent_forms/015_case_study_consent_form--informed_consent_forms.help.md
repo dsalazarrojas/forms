@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to obtain informed consent from participants before they begin a case study. The form is designed to gather essential information about the study, its purpose, procedures, and potential risks and benefits associated with participation. It also aims to establish confidentiality and data protection measures to ensure participant safety and privacy. This form is a critical component of the case study process, ensuring that participants are aware of their rights and responsibilities before contributing to the study. The information collected through this form will help the researchers understand the participant's consent and ensure that they are able to provide informed consent. It is essential to complete this form accurately and truthfully to ensure that the participant's rights are protected and that the study proceeds ethically.
-
-Before starting the form, please review each section carefully and answer the questions truthfully. If you have any questions or concerns, do not hesitate to ask your researcher or principal investigator.
-
-Please note that some fields are marked as "required," indicating that they must be completed to proceed with the study. These fields are essential to ensure that the participant's consent is informed and voluntary.
-
-</thinking>
-
 # Case Study Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to obtain informed consent from participants before they begin a case study. This form gathers essential information about the study, its purpose, procedures, and potential risks and benefits associated with participation.

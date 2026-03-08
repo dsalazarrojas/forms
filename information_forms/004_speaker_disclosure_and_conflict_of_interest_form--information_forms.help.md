@@ -1,5 +1,3 @@
-<thinking>This form is intended to gather information about the speaker's affiliation with an organization, including their speaker name, position, organization, and any potential financial conflicts of interest. This information will be used to maintain the integrity and transparency of the event. Please fill out the form accurately and thoroughly to ensure that the information is complete and up-to-date. If you have any questions or concerns, please contact the event organizers. This form is intended for speakers only.</thinking>
-
 # Speaker Disclosure And Conflict Of Interest Form - Help Guide
 ## Purpose
 This form is a required part of the speaker application process to ensure that all speakers disclose their affiliation with an organization and any potential conflicts of interest.

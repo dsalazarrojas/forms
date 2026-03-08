@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to report incidents related to the power grid, such as power outages, disruptions, or failures. The form is designed to gather information about the incident, including its date and time, location, and details of what happened. This information will be used to investigate and resolve the issue. Please ensure that you are filling out this form for a legitimate incident, and not duplicating an existing report.
-
-</thinking>
-
 # Power Grid Failure Incident Form - Help Guide
 ## Purpose
 This form is used to report incidents related to the power grid, such as power outages, disruptions, or failures.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to capture contact information from partners who are interested in learning about enablement opportunities. The purpose of this form is to facilitate communication and provide support to these partners. It is designed to be completed by the partner in a few minutes.
-</thinking>
-
 # Enablement Partner Contact Form - Help Guide
 ## Purpose
 The Enablement Partner Contact Form is a tool used to collect contact information from partners who are interested in learning about enablement opportunities. This form helps to facilitate communication and provide support to these partners.

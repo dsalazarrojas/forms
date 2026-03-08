@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Disciplinary Meeting Invitation Form - Help Guide
 ## Purpose
 This form is designed to invite employees to attend a disciplinary meeting. The meeting may be related to a specific issue or concern that affects the employee's performance, behavior, or conduct in the workplace.

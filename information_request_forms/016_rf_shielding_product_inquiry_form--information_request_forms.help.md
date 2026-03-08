@@ -1,5 +1,3 @@
-<thinking>This guide is intended to provide clear instructions and explanations to users on how to complete the RF Shielding Product Inquiry Form accurately and effectively. The form is designed to gather necessary information from users who are interested in our RF Shielding products and services.</thinking>
-
 # RF Shielding Product Inquiry Form - Help Guide
 ## Purpose
 The RF Shielding Product Inquiry Form is designed to gather information about the user's product inquiry needs. This includes specifying product categories, descriptions, and desired frequencies, as well as contact information.

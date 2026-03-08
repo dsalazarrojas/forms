@@ -1,10 +1,3 @@
-<thinking>
-The form is used by employees to request access to the Employee Assistance Program (EAP). The EAP provides confidential support for mental health and wellness concerns, and this form allows employees to seek help when needed. To prevent duplication, the form will check for existing requests or approvals. The goal is to ensure that employees have a clear and simple process to access the EAP services.
-
-The form is designed to be completed by employees who need support from the EAP. It is recommended that managers review and approve requests to ensure that the employee is able to access the services they need. The EAP counselor will be assigned to the employee based on their request and department.
-
-This guide will walk through the steps to complete the form and explain each field in detail.</thinking>
-
 # Employee Assistance Program Access Request Form - Help Guide
 
 ## Purpose

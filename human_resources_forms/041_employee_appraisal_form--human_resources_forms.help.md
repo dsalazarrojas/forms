@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Appraisal Form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and evaluation on an employee's performance, providing a structured approach to assess an employee's strengths and areas for improvement. This form is used to help employees grow professionally and improve their job performance.

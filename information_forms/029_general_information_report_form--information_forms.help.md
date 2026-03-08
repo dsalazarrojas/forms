@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect general information regarding employee reports. The form's purpose is to gather data on reports submitted by employees, including the report date, employee details, department information, location, issue description, issue priority, status, assigned personnel, and report type. This form does not require any specific technical knowledge or expertise to complete, making it accessible to a wide range of users.
-</thinking>
-
 # General Information Report Form - Help Guide
 
 ## Purpose

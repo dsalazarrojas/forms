@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Care Questionnaire - Help Guide
 ## Purpose
 The purpose of this care questionnaire is to gather information about the patient's current condition, medical history, and social well-being to provide a comprehensive assessment for care planning and decision-making. This form is designed for care providers, caregivers, or family members to gather valuable insights into the patient's physical, emotional, and social needs, and to identify potential concerns or needs that require attention.

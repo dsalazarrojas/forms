@@ -1,7 +1,3 @@
-<thinking>
-This form is used to record and track progress of gifts made to an organization or individual. The form helps in keeping a record of donors, the amount donated, and the frequency of donations. The purpose of this form is to provide an accurate record of donations made to the organization. This form will be used by authorized personnel to collect and review information on donations. To ensure accurate and complete records, please ensure that each field is completed thoroughly and correctly. This form will be reviewed internally to prevent duplication of entries.
-</thinking>
-
 # Gift Progress Record Form - Help Guide
 ## Purpose
 The Gift Progress Record Form is used to record and track the progress of gifts made to an organization or individual.

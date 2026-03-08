@@ -1,7 +1,3 @@
-<thinking>
-This form is used for HR practices observation, where an HR representative or designated individual observes an employee's performance and fills out a comprehensive sheet to document their findings and recommendations. This form aims to standardize the observation process and improve communication between employees and HR staff.
-</thinking>
-
 # Observation Sheet For HR Practices - Help Guide
 ## Purpose
 The Observation Sheet for HR Practices is used to document and track employee performance observations. HR representatives or designated individuals fill out this form to observe an employee's practices and behaviors, providing a detailed record of their findings and recommendations.

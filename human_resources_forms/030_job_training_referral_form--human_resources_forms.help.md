@@ -1,12 +1,3 @@
-<thinking>
-This form is for requesting job training referrals, which are used to facilitate internal job openings. To ensure the form is being completed correctly, please make sure you are only using it for this purpose and not for other types of requests or inquiries. Also, double-check that the fields you fill out are accurate and relevant to the referral you are requesting.
-
-Before you start, consider having all the necessary information ready. This includes details about the candidate you are referring and the job they are applying for, such as the job title, job description, job location, job type, and job category. Having this information handy will save you time and ensure the referral is processed correctly.
-
-Also, ensure you are using the correct format for dates and numbers.
-
-</thinking>
-
 # job_training_referral_form - Help Guide
 ## Purpose
 The job_training_referral_form is used to request job training referrals from the system. This form helps internal staff to refer candidates to job openings within the organization.

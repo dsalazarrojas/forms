@@ -1,8 +1,3 @@
-<thinking>
-This form is a tool for users to submit accuracy reports related to smart meters. The purpose of this form is to gather information about the accuracy of a smart meter, including the meter's ID, readings, and test results. This form is likely used by utility companies or energy providers to track and manage meter accuracy issues.
-Before filling out this form, ensure that you have all the necessary information and attachments ready. The form may be duplicated or submitted multiple times, so please review your entries carefully before submitting.
-</thinking>
-
 # Smart Meter Accuracy Report Form - Help Guide
 ## Purpose
 This form is used to report any accuracy issues with a smart meter. It collects information about the meter's ID, readings, test results, and other relevant details.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to collect information from individuals or families who wish to pre-plan a funeral. The purpose of this form is to gather essential details that will be used to tailor the funeral services according to the individual's or family's preferences. This form is designed to be completed by the person who is pre-planning the funeral or by a family member or representative.
-
-Before proceeding, please confirm that you are authorized to pre-plan this funeral.
-
-To ensure that we provide the best possible service, please complete this form carefully and accurately. If you have any questions or concerns, please don't hesitate to contact us.
-
-</thinking>
-
 # Pre Plan Funeral Form - Help Guide
 ## Purpose
 This form is used to collect information for pre-planning a funeral. It is essential to provide accurate and complete information to ensure that the funeral services are tailored to your preferences.

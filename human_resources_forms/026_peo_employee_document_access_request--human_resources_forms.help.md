@@ -1,12 +1,3 @@
-<thinking>
-To ensure consistency and accuracy, we'll review the form purpose and fields before creating the user-facing help guide.
-
-The form is for PEO (Personnel and Executive Officer) Employee Document Access Request. The purpose of this form is to collect information for the requested employee documents, which can be ID cards, benefits cards, or other specific documents as specified. It's used to track and manage the access to these documents by employees in different departments and locations. The fields in this form are designed to collect employee and document details, access and approval information, and other relevant data.
-
-To avoid duplication and ensure the user understands the form's purpose and requirements, we'll check for any potential issues with the provided YAML. All fields seem to be properly defined, and there's no indication of any conflicts or errors. This form appears to be well-structured and ready for users to complete.
-
-</thinking>
-
 # PEO Employee Document Access Request - Help Guide
 ## Purpose
 The PEO Employee Document Access Request form is used to collect and manage information for employee documents, such as ID cards, benefits cards, and other specific documents. This form helps track and verify the access to these documents by employees in different departments and locations.

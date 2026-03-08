@@ -1,12 +1,3 @@
-<thinking>
-This guide is intended to provide clarity on how to complete the Cemetery Mapping Form, a tool used to gather information for cemetery mapping purposes. To ensure accurate and efficient completion, please read this guide carefully before proceeding.
-
-Before starting, note that this form is designed to collect information about a specific individual who has passed away, and the form is intended to be completed by someone with a legitimate reason for requesting this information. Please do not attempt to submit duplicate requests, as this may cause unnecessary delays in processing.
-
-The form consists of multiple fields, each with its own specific purpose and requirements. Completing the form accurately and thoroughly will ensure that the requested information is gathered correctly and efficiently.
-
-</thinking>
-
 # Cemetery Mapping Form - Help Guide
 
 ## Purpose

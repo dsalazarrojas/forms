@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # sms Opt In Form Template - Help Guide
 ## Purpose
 This form is for businesses to opt in or out of transactional text message communications. It is used to gather information about a business's preferences and settings for transactional communications.

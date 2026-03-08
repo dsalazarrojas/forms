@@ -1,12 +1,3 @@
-<thinking>
-The form "Smart Security Partner Contact Form" is designed to collect information from security partners who want to collaborate with our company. The form helps us gather necessary details to initiate a partnership and understand their capabilities. 
-
-This information is used to ensure that we are aware of who they are and what they offer, which aids us in our decision-making process for partnership. We also use this information to follow up on potential opportunities and agreements. 
-
-Please fill out the form carefully and accurately. If you have filled this form in the past and have not had a response from us, please note that it may be due to our internal processing time or that we might have contacted you via other means. We appreciate your patience and cooperation.
-
-</thinking>
-
 # Smart Security Partner Contact Form - Help Guide
 
 ## Purpose

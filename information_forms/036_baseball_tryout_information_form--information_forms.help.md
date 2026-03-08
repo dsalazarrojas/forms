@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about a baseball player, their contact information, school data, and baseball experience. This form will likely be used by baseball teams, coaches, or leagues to gather necessary data for tryouts, team selection, or player development programs. Please ensure that all required fields are completed accurately to ensure proper processing and consideration for tryouts or team selection.
-</thinking>
-
 # Baseball Tryout Information Form - Help Guide
 ## Purpose
 This form is designed to gather essential information about a baseball player's background, experience, and goals, as well as their contact and school details.

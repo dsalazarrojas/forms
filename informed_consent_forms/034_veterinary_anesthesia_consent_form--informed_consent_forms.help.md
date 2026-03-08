@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture information from the owner of a pet, specifically for purposes of veterinary care and anesthesia administration. It's essential to ensure the accuracy and completeness of the information provided. Please ensure that this form is completed with care and attention to detail.
-</thinking>
-
 # veterinary_anesthesia_consent_form - Help Guide
 ## Purpose
 The purpose of this form is to gather essential information from the pet owner regarding the pet's health, anesthesia type, and medical history before veterinary procedures. This information is crucial for the veterinarian to provide safe and effective care.

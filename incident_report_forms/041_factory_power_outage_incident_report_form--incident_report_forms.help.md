@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to capture incident report data for power outages in the factory. The form is intended to gather information on the incident's type, date, time, location, and impact on personnel and equipment. The data collected will help the factory's maintenance and management teams to identify the root cause, develop maintenance actions, and plan next steps for the incident.
-The form will not be used for other incident types or purposes. Please ensure that you have a genuine reason for filling out this form and are not duplicating an incident that has already been reported.
-</thinking>
-
 # Factory Power Outage Incident Report Form - Help Guide
 ## Purpose
 The Factory Power Outage Incident Report Form is designed to gather information on power outages that have occurred in the factory. The form is meant to be completed by individuals who have witnessed or responded to the incident.

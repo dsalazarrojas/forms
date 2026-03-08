@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to report incidents related to equipment failures within our organization. The purpose of this form is to provide a clear and concise way to document and track these incidents, ensuring that our maintenance teams have the necessary information to repair or replace the affected equipment. Before starting to fill out this form, please ensure that you have a valid reason for submitting an incident report and that you have not already reported the same incident.
 
 # Equipment Failure Incident Form - Help Guide

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed for the Runway And Taxiways Inspection Survey, used by inspectors to document the condition of runway and taxiways. The purpose of this form is to gather information about the inspection findings, including photos and descriptions of the runway and taxiways, issues observed, and conditions of the runway and taxiways.
-
-To determine if this form has been completed previously, please check the "Runway And Taxiways Inspection Survey" database for any existing records. This will help prevent duplicate entries and ensure accurate data is collected.
-
-</thinking>
-
 # Runway And Taxiways Inspection Survey - Help Guide
 
 ## Purpose

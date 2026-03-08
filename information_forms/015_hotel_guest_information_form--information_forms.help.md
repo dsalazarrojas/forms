@@ -1,10 +1,3 @@
-<thinking>
-The Hotel Guest Information Form is designed to collect essential information from guests staying at the hotel. The form is used to track and manage guest data for efficient hotel operations. The form is divided into two main sections: guest information and room details. The form is not mandatory, allowing guests to provide as much or as little information as they feel necessary. However, providing complete information can help the hotel staff provide better services during their stay.
-
-The form is designed to be user-friendly and easy to understand. Each field is explained below:
-
-</thinking>
-
 # Hotel Guest Information Form - Help Guide
 
 ## Purpose

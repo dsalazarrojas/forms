@@ -1,7 +1,3 @@
-<thinking>
-Before we dive into the help guide, let's take a moment to consider the purpose and context of the Business Continuity Advisory Application Form. This form is designed to gather information from organizations about their business continuity needs and requirements. The form aims to understand the organization's current state of continuity planning, identify potential challenges and gaps, and provide guidance on how to develop and implement a comprehensive business continuity plan. This form is intended for organizations that need expert advice on how to enhance their resilience and preparedness for potential disruptions.
-</thinking>
-
 # Business Continuity Advisory Application Form - Help Guide
 
 ## Purpose

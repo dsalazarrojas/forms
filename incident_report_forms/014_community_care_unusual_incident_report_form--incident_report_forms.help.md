@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about unusual incidents that occur in a community care setting. It is designed to gather data on the details of the incident, including the date and time it occurred, the location within the facility, and the people involved. The purpose of this form is to facilitate reporting and investigation of incidents, and to aid in taking appropriate actions to prevent or address future incidents. To ensure accuracy and thoroughness, it is essential to fill out the form carefully and completely.
-</thinking>
-
 # Community Care Unusual Incident Report - Help Guide
 ## Purpose
 

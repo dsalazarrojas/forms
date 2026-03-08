@@ -1,7 +1,3 @@
-<thinking>
-This form is for requesting a new initiative, which can include a new project, process, or other business activity. Before starting, please make sure that the proposed initiative does not duplicate existing work or projects. The goal is to gather all necessary information to evaluate and potentially initiate the new project.
-</thinking>
-
 # New Initiative Request Form - Help Guide
 ## Purpose
 The New Initiative Request Form is used to gather information and request a new initiative. This form helps to ensure that all necessary details are collected before a new project or activity is initiated.

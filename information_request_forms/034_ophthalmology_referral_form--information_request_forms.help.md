@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from patients or their representatives for referrals to ophthalmology medical facilities. The form will be used to gather details about the patient's medical condition, contact information, and other relevant details to facilitate a smooth referral process. Before filling out this form, please ensure that you have the necessary information and permissions to proceed. If you have already submitted a referral for the same patient, please do not resubmit the form to avoid duplication of efforts.
-</thinking>
-
 # Ophthalmology Referral Form - Help Guide
 ## Purpose
 The Ophthalmology Referral Form is designed to collect essential information from patients or their representatives for referrals to ophthalmology medical facilities. This information will help the medical staff to assess the patient's needs and provide the best possible care.

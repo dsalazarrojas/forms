@@ -1,14 +1,3 @@
-<thinking>
-To ensure that the Cloud Architect Onboarding Form is filled out correctly and consistently, it's essential to have a clear understanding of its purpose and the requirements for each field. This form is used to gather employee information for the onboarding process, which is crucial for setting up access, training, and other necessary processes for new employees.
-
-Before filling out the form, ensure that it's relevant to your specific role and situation, and that all necessary fields are completed accurately. The form is split into several sections, each with its own set of fields. If you're unsure about any field, refer to this guide for clarification.
-
-When filling out the form, please ensure that you have all the necessary information ready before starting. Some fields may require additional documentation or verification, so be prepared to provide supporting evidence when requested.
-
-This guide is designed to walk you through each field, explain their purpose, and provide clear instructions on what you should input.
-
-</thinking>
-
 # Cloud Architect Onboarding Form - Help Guide
 ## Purpose
 This form is used to gather essential information from new employees to facilitate their onboarding process. It's crucial for setting up access, training, and other necessary processes for a smooth transition into your new role.

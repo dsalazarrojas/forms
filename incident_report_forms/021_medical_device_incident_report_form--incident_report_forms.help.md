@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to collect information about incidents involving medical devices. The form aims to gather details about the incident, including the medical device involved, the location and time of the incident, and the reporter's contact information. This helps in tracking and investigating the incident, and in providing necessary actions to prevent future occurrences. It also ensures that the reporter's contact information is captured correctly.
-
-</thinking>
-
 # Medical Device Incident Report Form - Help Guide
 ## Purpose
 

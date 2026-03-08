@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # sport_trading_warranty_claim_form - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information about family legacy and bylaws, likely for a family or business setting. To determine the relevance and non-duplication of this form, consider the following:
-- This form is not affiliated with any form platform, nor is it a copy of any existing form.
-- It was generated using AI, but based on public metadata.
-- The form's purpose appears to be for collecting structured information.
-- The form has several fields for text input.
-
-To ensure this form does not collect duplicate information, review each field carefully and provide input as needed.
-</thinking>
-
 # Family Legacy Bylaws Form - Help Guide
 ## Purpose
 This form is intended to collect and organize information about family legacy and bylaws, allowing you to gather and review essential details.

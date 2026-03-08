@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Production Downtime Investigation Report - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to register employees for an integration workshop, which aims to bring together team members from different departments to collaborate and share knowledge. The form is not meant for external users, so only internal employees should be filling it out. Before filling out this form, ensure that you have not already registered for the workshop or are not trying to register multiple employees in one session. This will help us avoid duplicates and unnecessary registrations.
-</thinking>
-
 # Employee Integration Workshop Registration - Help Guide
 ## Purpose
 This form is used to register employees for the integration workshop, a collaboration event among team members from different departments.

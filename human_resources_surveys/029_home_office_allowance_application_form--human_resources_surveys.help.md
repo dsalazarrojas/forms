@@ -1,5 +1,3 @@
-<thinking>Before diving into the form help guide, we need to ensure that the form is being filled out for the correct purpose. Please note that the purpose of this form is to request home office allowance for employees. To confirm, the form should only be filled out by employees who are requesting allowance for their work hours. If you're not an employee, please don't fill out this form. Also, please check if you've already filled out this form in the past; if so, you don't need to fill it out again.</thinking>
-
 # Home Office Allowance Application Form - Help Guide
 ## Purpose
 This form is meant for employees to apply for home office allowance. If you're an employee seeking to work from home, this form will help us understand your needs and determine the feasibility of allowing you to work from home.

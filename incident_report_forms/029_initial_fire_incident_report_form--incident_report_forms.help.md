@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Initial Fire Incident Report Form - Help Guide
 ## Purpose
 The Initial Fire Incident Report Form is used to report incidents of fire in a specific location, providing essential details about the incident, including its location, type, date, time, description, and other relevant information.

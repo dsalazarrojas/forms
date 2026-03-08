@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # First Aid Incident Report Form - Help Guide
 ## Purpose
 The First Aid Incident Report Form is designed to collect information about incidents that require first aid attention. This form helps gather essential details to provide the necessary support and care for the affected individual. Please fill out this form as accurately and thoroughly as possible to ensure the best possible outcome.

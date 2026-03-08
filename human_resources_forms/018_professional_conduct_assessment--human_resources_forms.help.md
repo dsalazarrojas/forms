@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Professional Conduct Assessment - Help Guide
 ## Purpose
 

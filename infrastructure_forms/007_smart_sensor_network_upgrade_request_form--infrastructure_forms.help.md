@@ -1,12 +1,3 @@
-<thinking>
-This is a form for requesting an upgrade to the smart sensor network. Before proceeding, please confirm that you have read and understood the purpose and scope of this form. To ensure that your request is processed efficiently, please make sure you're not duplicating existing requests.
-
-This form is used to request an upgrade to the smart sensor network. You can submit it to request a new upgrade or edit an existing one. Please note that the fields below are required for a valid submission.
-
-Please ensure that you have read and understood the form before proceeding.
-
-</thinking>
-
 # smart_sensor_network_upgrade_request_form - Help Guide
 ## Purpose
 The "smart_sensor_network_upgrade_request_form" is a form used to request an upgrade to the smart sensor network. You can submit this form to request a new upgrade or edit an existing one.

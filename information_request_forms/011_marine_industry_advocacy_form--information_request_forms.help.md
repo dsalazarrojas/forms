@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from marine industry stakeholders who want to report an issue or concern they have regarding a particular aspect of the marine industry. The form is designed to be simple and easy to use, while ensuring that all necessary information is collected for further investigation and resolution. It's essential to fill this form out only once for each specific issue, as duplicate submissions may cause confusion and lead to delays in processing. Please make sure to provide accurate and detailed information in each field to help us better understand the issue and provide effective support.
-</thinking>
-
 # Marine Industry Advocacy Form - Help Guide
 
 ## Purpose

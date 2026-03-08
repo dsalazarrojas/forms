@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll provide a detailed help guide for the Arrest Record Collection Form. This form is designed to collect information about an individual's arrest history, including their name, date of birth, driver's license number, and information about previous arrests. It is essential to fill out this form accurately and truthfully. Before proceeding, please note that this form is intended for personal or official use, and it is not for public disclosure. Please ensure that you have the necessary authority and permission to submit this information. If you are unsure about any field or its relevance, please contact the relevant authorities or the form's administrator.</thinking>
-
 # Arrest Record Collection Form - Help Guide
 ## Purpose
 The Arrest Record Collection Form is used to gather information about an individual's arrest history. This form is crucial for official or personal purposes, such as background checks, employment screening, or other legitimate investigations. It is essential to fill out this form accurately and truthfully to ensure that the submitted information is reliable and valid.

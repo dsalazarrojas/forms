@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback and suggestions from employees who have achieved long service milestones, such as 10, 15, 20, 25, 30, 35, 40, or 50 years of service. The purpose of this form is to gather comments and ideas for future milestone celebrations to recognize and reward these employees' dedication and commitment to the organization.
-
-Before filling out this form, please ensure that you are completing it for a valid long service milestone achievement. If you are submitting this form for an invalid reason, please do not proceed.
-
-To complete this form, follow the instructions below:
-
-</thinking>
-
 # Long Service Award Recipient Survey - Help Guide
 ## Purpose
 

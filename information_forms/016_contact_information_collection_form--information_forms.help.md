@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect contact information from users, which will be used to follow up with them regarding their interests or needs. The form is divided into multiple pages, each with a specific set of fields. To ensure that users understand the purpose and relevance of this form, it is essential to review the form schema carefully. Please note that the form is meant to be used for contact information collection and should not be used for other purposes.
-</thinking>
-
 # Contact Information Collection Form - Help Guide
 ## Purpose
 The purpose of this form is to collect contact information from users, which will be used to follow up with them regarding their interests or needs. This form is designed to gather essential contact details, such as name, email addresses, phone numbers, and address information.

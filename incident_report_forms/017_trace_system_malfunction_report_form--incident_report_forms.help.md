@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a system malfunction that has occurred. It is meant to be completed by the person reporting the incident, and will help to gather details about the malfunction, its cause, and any actions taken to rectify the situation. Before completing this form, please ensure that you have not already reported this incident. If you are unsure, please consult with your supervisor or team lead to confirm.
-</thinking>
-
 # Trace System Malfunction Report Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about system malfunctions that have occurred. This will help identify the cause of the malfunction, assess the impact, and implement measures to prevent similar issues in the future.

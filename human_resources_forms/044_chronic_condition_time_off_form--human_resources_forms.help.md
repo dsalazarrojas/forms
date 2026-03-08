@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to be used by employees to request a time off for their chronic condition. The form should only be used for legitimate medical reasons and not for other types of time off requests. The form is intended to be filled out by the employee, and the information provided will be reviewed and approved by HR or the relevant department. The form is meant to be used for both short-term and long-term time off requests. 
-
-Please note that this is not a form for requesting vacation or other types of leave, and the employee should not use this form for that purpose. The employee should also not attach any unnecessary documents or information to the form, such as unnecessary medical certificates or other irrelevant information. If an employee has a chronic condition, they are advised to fill out this form to ensure that their workplace is aware of their needs and can provide the necessary accommodations.
-
-To avoid duplication of effort, please use this form to request time off only once per condition. If the employee has multiple conditions, they should fill out the form for each condition separately. 
-
-The form has two main sections: "Employee Information" and "Time Off Details". The "Employee Information" section is used to collect the employee's basic information, such as their name, employee ID, and department. The "Time Off Details" section is used to collect information about the employee's chronic condition, such as the condition name, type, and frequency of absences.
-
-Please ensure that the employee fills out the form accurately and truthfully. The employee's manager and HR will review the form and make necessary arrangements for the employee's accommodation.
-</thinking>
-
 # Chronic Condition Time Off Form - Help Guide
 ## Purpose
 This form is used to request time off for chronic conditions. Please fill out this form accurately and truthfully to ensure that your workplace is aware of your needs.

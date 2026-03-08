@@ -1,9 +1,3 @@
-<thinking>
-This form is a feedback survey aimed at collecting information from employees about their experiences with accessibility features and barriers in the workplace. It is designed to help organizations understand the current state of accessibility and identify areas for improvement. The survey is anonymous and will not be shared with anyone outside of the organization.
-The form is not meant to be used for any other purpose, and respondents are encouraged to provide honest and detailed feedback. Please ensure that you have read and understand the purpose and scope of this survey before proceeding.
-Please note that this form is a public adaptation of a generic template, and any answers or information gathered will be used for internal purposes only.
-</thinking>
-
 # hr_accessibility_feedback_survey - Help Guide
 ## Purpose
 The hr_accessibility_feedback_survey form is designed to collect feedback from employees on accessibility features and barriers in the workplace. This survey aims to gather information to help the organization improve accessibility and provide better support to employees.

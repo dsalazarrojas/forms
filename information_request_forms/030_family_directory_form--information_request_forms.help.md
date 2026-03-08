@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about family members for a directory. It is likely used in a setting where family relationships are relevant, such as a healthcare organization or a family services agency. The form does not seem to have any specific business logic or validation rules beyond being a simple text input form. This form does not appear to be a part of a larger form collection or workflow, and its purpose is not immediately clear without further context.
-</thinking>
-
 # Family Directory Form - Help Guide
 ## Purpose
 The Family Directory Form is designed to collect information about family members for a directory. Fill out this form to provide details about your family, including their names, relationships, and other relevant information.

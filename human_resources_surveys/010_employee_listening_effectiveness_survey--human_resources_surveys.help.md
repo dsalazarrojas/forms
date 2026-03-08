@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from employees about the effectiveness of their manager's communication. This information will help management understand how well they are doing in communicating with their team members and identify areas for improvement. This form is not intended to be a comprehensive evaluation of the manager's performance, but rather a way to gather specific feedback on their communication style. Please ensure that you have reviewed the form carefully and provide honest and constructive feedback. If you have already completed a similar survey, please do not submit this form as it may be redundant.</thinking>
-
 # Employee Listening Effectiveness Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback on the effectiveness of your manager's communication. Your responses will help us understand how well they are doing and identify areas for improvement.

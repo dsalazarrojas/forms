@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from nonresident aliens visiting or living in a particular region. The purpose of this form is to gather necessary details about their citizenship, visa status, reason for stay, and other relevant information to facilitate smooth entry and stay processes. This form is intended for internal use by authorities or organizations handling nonresident alien matters. To avoid duplication, please ensure that the information provided is accurate and up-to-date. 
-</thinking>
-
 # Nonresident Alien Information Survey - Help Guide
 ## Purpose
 The Nonresident Alien Information Survey is a form designed to collect essential details about nonresident aliens visiting or living in a particular region. This form will help collect accurate and complete information for internal purposes related to immigration, visa, and stay procedures.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended for employees to update their address information, including their old and new addresses, cities, states, and countries. It is crucial to accurately record this information to maintain up-to-date employee data and facilitate communication, benefits, and other administrative tasks. This form should only be completed by employees who have a legitimate reason to change their address.
-
-</thinking>
-
 # Employee Change Of Address Form - Help Guide
 ## Purpose
 This form is designed to help employees update their address information, ensuring that your organization has the most accurate and up-to-date data about them.

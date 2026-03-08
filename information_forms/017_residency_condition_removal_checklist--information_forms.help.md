@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to help users remove their residency conditions, allowing them to transition out of residency programs. To ensure that you complete this form correctly, please review the form's purpose and requirements carefully to avoid duplication and inaccuracies. This form is a critical step in the residency removal process, and incorrect or incomplete information may result in delays or complications. 
-
-Before proceeding, confirm that all required fields are filled out, and review your answers carefully to ensure they accurately reflect your residency status. If you are unsure about any section of the form, please contact the relevant authorities or consult the relevant documentation for guidance. 
-
-Additionally, please be aware that some fields may have specific formats or restrictions, such as date and time fields. Ensure that you enter the correct format for these fields to avoid errors. 
-
-Now, let's break down the form into its individual sections to ensure a smooth completion process.
-
-</thinking>
-
 # Residency Condition Removal Checklist - Help Guide
 ## Purpose
 The purpose of this form is to help users remove their residency conditions, allowing them to transition out of residency programs. This form is a critical step in the residency removal process and requires accurate and complete information to ensure a smooth transition.

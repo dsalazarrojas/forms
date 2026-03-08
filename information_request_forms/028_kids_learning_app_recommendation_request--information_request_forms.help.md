@@ -1,18 +1,3 @@
-<thinking>
-We need to create a user-facing help guide that explains the purpose of this form, how to complete it, and what each field means. This form is a "Kids Learning App Recommendation Request" form, designed to collect information from users about their learning needs and preferences. The form's purpose is to gather data for recommending kids learning apps that suit the user's requirements.
-
-To complete this form, users should follow these steps:
-
-1. Fill in their basic user information on the "User Information" page.
-2. On the "Learning Preferences" page, provide their learning preferences and needs.
-3. On the "Contact Information" page, enter their contact details.
-4. On the "Suggested Apps" page, choose the learning apps they are interested in or that they currently use.
-5. In the "App Comments" section, provide any additional comments about their experience or preferences.
-6. On the "Email" and "Phone" pages, enter their contact email and phone number respectively.
-7. Finally, in the "Additional Notes" section, provide any additional information that might be helpful for the recommendations.
-
-</thinking>
-
 # Kids Learning App Recommendation Request - Help Guide
 ## Purpose
 This form is designed to collect information from users about their learning needs and preferences, in order to recommend suitable kids learning apps.

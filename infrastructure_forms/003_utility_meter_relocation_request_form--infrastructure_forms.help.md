@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from utility meter installers for relocation requests. This form is used internally to streamline the process of moving or transferring utility meters between locations. Before filling out this form, please ensure that you have the necessary authorization from your supervisor or relevant stakeholders to perform the relocation. Also, please double-check that you have not already submitted a similar request recently. This will help prevent duplication of effort and ensure that your request is processed efficiently.
-</thinking>
-
 # Utility Meter Relocation Request Form - Help Guide
 ## Purpose
 The Utility Meter Relocation Request Form is used to collect information for relocating or transferring utility meters between locations.

@@ -1,6 +1,3 @@
-<thinking>... internal reasoning block to check for redundancy and duplicate forms...
-The purpose of this form is to collect information regarding Family and Medical Leave Act (FMLA) submissions. This form is used to gather employee and manager details related to leave requests, which will help the HR department to process and evaluate the leave request efficiently. To ensure that the form is filled out accurately and completely, please review the following instructions and field explanations carefully...</thinking>
-
 # FMLA Notice Submission Form - Help Guide
 
 ## Purpose

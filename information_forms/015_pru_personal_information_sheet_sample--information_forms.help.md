@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # personal_information_sheet_sample - Help Guide
 ## Purpose
 The personal information sheet is a form used to collect and document personal details of an individual. This form is used to gather information for administrative and insurance purposes.

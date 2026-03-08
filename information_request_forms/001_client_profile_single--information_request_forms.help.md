@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about a client's profile, including their personal details, contact information, and any additional notes. The purpose of this form is to gather data that can be used to tailor services or support to the client's specific needs. This form should only be completed by clients who have not previously submitted a profile.
-</thinking>
-
 # Client Profile Single - Help Guide
 ## Purpose
 The Client Profile Single form is designed to collect essential information about a client's personal details, contact information, and any additional notes. This information will help us better understand the client's needs and tailor our services accordingly.

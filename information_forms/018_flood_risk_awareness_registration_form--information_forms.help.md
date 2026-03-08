@@ -1,7 +1,3 @@
-<thinking>
-To ensure that users understand the purpose and relevance of the "Flood Risk Awareness Registration Form", we need to verify that it is being used for a legitimate reason. This form is meant to collect information about an individual's flood risk awareness and emergency contact information in case of a flood event. It should only be filled out by individuals who are registering for flood risk awareness purposes or have a legitimate need to provide emergency contact information. Please do not register for this form if you are not a member of the flood risk awareness program or do not have a valid reason to provide emergency contact information.
-</thinking>
-
 # Flood Risk Awareness Registration Form - Help Guide
 ## Purpose
 This guide explains how to complete the Flood Risk Awareness Registration Form. The form is used to collect information about you, your emergency contact, your location, and your preferences for emergency situations and contact.

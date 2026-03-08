@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect basic player information for the purposes of registration, communication, or other related activities. It's a general information request form that doesn't seem to have any specific restrictions or requirements for completion. To ensure the form is being used correctly, it's essential to understand its purpose and the type of information it's supposed to collect.
-</thinking>
-
 # Player Information Form - Help Guide
 ## Purpose
 The Player Information Form is designed to collect basic details about players, such as their name, contact information, and team affiliation. This information is likely used for registration, communication, or other related activities within a team or organization.

@@ -1,7 +1,3 @@
-<thinking>
-To determine if the form's purpose and fields are relevant, let's analyze the provided YAML fields. The form is called "Supporter Information Form" and it seems to be a form for collecting information about supporters. Upon reviewing the fields, we can identify a few common categories and themes such as contact information (contact phone, contact email), supporter preferences (support preferences, support interests), and financial information (supporter amount, supporter currency). This suggests that the form is likely used for collecting data on supporters who may be contributing financial support or other kinds of aid. It's possible that this form is used for internal tracking and reporting purposes within an organization or community. However, it's essential to clarify the form's purpose with the stakeholders to ensure that it's being used correctly.
-</thinking>
-
 # Supporter Information Form - Help Guide
 ## Purpose
 The Supporter Information Form is a form designed to collect information about supporters who may be contributing financial support or other kinds of aid to an organization or community. This form helps the organization track and understand the supporters' preferences, interests, and financial contributions.

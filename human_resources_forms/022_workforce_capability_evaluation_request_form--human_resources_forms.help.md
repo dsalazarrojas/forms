@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to evaluate the capability of a workforce to complete a task or achieve an objective. The form helps to determine the suitability of a team or individual to perform a specific task or set of tasks, considering factors such as the objective, timeframe, and priority of the task.
-The form's objective is to gather information on the team's ability to accomplish the task within the given timeframe, taking into account the priority level and the number of objectives and priorities involved.
-This form is not intended to be filled out for every task or objective. It's suggested that it's used for high-priority, strategically important, or time-sensitive tasks that require specific team or individual capabilities.
-Please ensure that you're using this form when the task's objective is not already known or assumed, and when the team or individual's capabilities are not already understood.
-Before filling out this form, review the objectives and priorities of your task to ensure you're evaluating the correct capabilities.
-When filling out this form, keep in mind that the objectives and priorities listed are for informational purposes only, and they should be reviewed and validated with your team or individual before finalizing the form.
-</thinking>
-
 # workforce_capability_evaluation_request_form - Help Guide
 ## Purpose
 The workforce capability evaluation request form helps to assess the capability of a team or individual to complete a task or achieve an objective.

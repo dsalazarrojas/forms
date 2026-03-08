@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for students who are international students, typically those who are visiting or studying in a foreign country. The form is meant to collect basic information about the student, including their name, date of birth, passport details, address, nationality, language, and student ID.
-It's worth noting that this form does not have any specific requirements or restrictions mentioned in the YAML, so it's up to the form creator to decide what information to gather and why.
-The form appears to be intended for some form of student registration or identification purposes, and the fields gathered are likely to be used for tracking or authentication purposes.
-</thinking>
-
 # international_student_information_sheet - Help Guide
 ## Purpose
 

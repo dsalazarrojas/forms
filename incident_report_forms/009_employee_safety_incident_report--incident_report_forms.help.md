@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning behind this form is to capture incident details from employees after a workplace injury or incident has occurred. The purpose of this form is to gather relevant information about the incident, including the employee's name, the date and time of the incident, the location where it happened, and a description of what happened. It also asks if any people were affected by the incident and who reported it. This form aims to be filled out by employees as soon as possible after the incident occurs to ensure a thorough and accurate record of the incident. Please review the fields below to complete this form properly.
-</thinking>
-
 # Employee Safety Incident Report - Help Guide
 ## Purpose
 This form is designed to capture incident details from employees after a workplace injury or incident has occurred.

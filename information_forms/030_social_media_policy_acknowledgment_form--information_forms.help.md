@@ -1,20 +1,3 @@
-<thinking>
-The form is designed to capture employee acknowledgment of the social media policy, which is an essential aspect of ensuring that employees understand and agree to the company's social media usage guidelines. This form is likely used in a workplace setting to document employee understanding and agreement to the policy, which is a crucial step in maintaining a positive and respectful online presence. This form appears to be a comprehensive acknowledgment form, capturing personal and managerial information, as well as the acknowledgment of the policy itself.
-
-To ensure that this form is used correctly, it's essential to check that it's not a duplicate of any existing form on the market and that it's not affiliated with any proprietary form platforms. This form was created using only public survey topic metadata and is released under a Creative Commons license, allowing users to adapt and modify it as needed.
-
-The form is likely used to:
-
-* Capture employee personal information (e.g., name, email, department)
-* Obtain acknowledgment from employees that they have read and agreed to the social media policy
-* Record managerial information (e.g., manager's name, department)
-* Document the date and time of acknowledgment
-
-This form is likely used in a corporate setting to maintain a professional online presence and to ensure that employees understand their role in representing the company online.
-
-The form fields should not be filled out if the employee has not been given the opportunity to review and agree to the social media policy, or if the manager's approval is not obtained.
-</thinking>
-
 # social-media-policy-acknowledgment-form - Help Guide
 ## Purpose
 This form is designed to capture employee acknowledgment of the social media policy, ensuring that employees understand and agree to the company's online usage guidelines.

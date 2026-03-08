@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect informed consent from participants for filming in a research context. The purpose of this form is to ensure that participants are aware of and agree to the terms and conditions of the filming process, including their rights and responsibilities. This form is part of the process of obtaining informed consent, which is a critical component of research ethics. Before completing this form, please ensure that you are familiar with the research project's objectives, risks, and benefits.
-</thinking>
-
 # inclusive_curriculum_research_filming_consent_form - Help Guide
 ## Purpose
 The inclusive_curriculum_research_filming_consent_form is designed to collect informed consent from participants for filming in a research context.

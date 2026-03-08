@@ -1,7 +1,3 @@
-<thinking>
-This form collects information from the client regarding their wedding planning preferences. It is intended to be used by the wedding planner and vendor to tailor their services to the client's needs and expectations. This form should only be filled out by the actual client or their authorized representative. It is not intended for general inquiries or other non-client purposes.
-</thinking>
-
 # Wedding Client Preference Information Collection Form - Help Guide
 ## Purpose
 This form collects information about the client's preferences for their wedding planning process.

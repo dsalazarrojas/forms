@@ -1,7 +1,3 @@
-<thinking>
-This help guide is designed to assist users in completing the "employee-assistance-program-approval-form" form. The form is meant to be completed by employees who need support or assistance from the organization's employee assistance program. The form is not intended to be used for other purposes, such as recruitment or benefits enrollment. Please ensure that you are filling out this form for its intended use.
-</thinking>
-
 # employee-assistance-program-approval-form - Help Guide
 ## Purpose
 The employee-assistance-program-approval-form is a form designed to help employees request support or assistance from the organization's employee assistance program. This form will help you gather necessary information to evaluate and process your assistance request.

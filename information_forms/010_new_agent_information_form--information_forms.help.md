@@ -1,10 +1,3 @@
-<thinking>
-To determine the form purpose and structure, let's analyze the provided YAML. This form appears to be a comprehensive agent information form, likely used in a work-related or professional setting. It includes various fields to collect data about the agent, such as contact details, work history, skills, and job-related information. The form also includes fields for supervisory relationships, job titles, and categories.
-
-Upon reviewing the form structure, it seems to cover multiple aspects of an agent's profile, making it suitable for HR, recruitment, or talent management purposes. However, the specific use case depends on the context in which this form is being used.
-
-</thinking>
-
 # New Agent Information Form - Help Guide
 ## Purpose
 This form is used to collect information about a new agent, which may include contact details, work history, skills, and job-related information. The form is designed to provide a comprehensive overview of the agent's profile.

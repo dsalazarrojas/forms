@@ -1,7 +1,3 @@
-<thinking>
-We are designing a form to track the status of a training session, specifically the manager's absence during the training. This form aims to record the reason for the manager's absence, the status of the trainee, and other relevant details. To ensure accuracy, please note that this form is for managers who are responsible for leading training sessions and is intended for tracking and reporting purposes only. Duplicate entries should be avoided, and each entry should be unique to a specific training session.
-</thinking>
-
 # Managerial-Training-Absence-Form - Help Guide
 ## Purpose
 The Managerial-Training-Absence-Form is used to record a manager's absence during a training session. This form is meant to be filled out by the manager who is absent, providing details about their status, reason for absence, and other relevant information.

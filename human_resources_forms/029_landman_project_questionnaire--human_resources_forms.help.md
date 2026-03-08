@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Landman Project Questionnaire - Help Guide
 ## Purpose
 The Landman Project Questionnaire is a form designed to collect information about ongoing and upcoming projects within the organization. This form helps to track projects' details, such as project descriptions, leaders, start and end dates, categories, locations, and other relevant details.

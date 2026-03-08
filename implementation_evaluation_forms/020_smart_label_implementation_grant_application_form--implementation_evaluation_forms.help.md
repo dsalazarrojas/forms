@@ -1,13 +1,3 @@
-<thinking>
-This form is designed for organizations to apply for the Smart Label Implementation Grant. The purpose of the grant is to support the implementation of smart labels in various settings. The form is meant to gather information from applicants regarding their interest and readiness to implement smart labels. This form is part of the grant's application process and will be reviewed by the grant administrators.
-
-To avoid duplication, please ensure that you have not submitted the same application before, as it may be rejected.
-
-Please note that this form is for informational purposes only, and the submitted information will be used to evaluate your application.
-
-Please fill out this form carefully and accurately, as it will be used to determine your eligibility for the grant.
-</thinking>
-
 # Smart Label Implementation Grant Application Form - Help Guide
 ## Purpose
 This form is designed to gather information from organizations interested in implementing smart labels. It is part of the grant's application process and will be reviewed by the grant administrators to assess your eligibility.

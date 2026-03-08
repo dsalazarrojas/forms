@@ -1,8 +1,3 @@
-<thinking>
-Insurance benefits forms are used to gather consent and other relevant information from patients before providing them with insurance benefits. 
-This form is used to ensure that patients understand their insurance benefits and are aware of any terms or conditions that may apply. It is crucial to fill out this form to ensure a smooth process for both the patient and provider. This form is not required to be completed on every single visit but may be necessary for new insurance providers or when benefits change.
-</thinking>
-
 # Insurance Benefits Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about insurance benefits that a patient may be receiving, including the name of the facility providing the benefits, the patient's name, and the date of service. This form also gathers consent from the patient for the treatment or service they are receiving.

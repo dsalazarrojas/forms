@@ -1,11 +1,3 @@
-<thinking>
-This form, called "ENPS Directors", is likely used within a company or organization to collect information about its Directors. The purpose of this form is to gather data about the Directors' personal details, their job positions, departments, and other relevant information. This form might be used for HR (Human Resources) purposes, such as maintaining employee records or creating directories. The form is likely used by HR personnel or administrators within the company.
-
-To avoid duplication, it's possible that this form is used in conjunction with other forms that capture similar information, such as employee profiles or job descriptions. It's also possible that this form is used in conjunction with other systems or tools to track and manage Director-specific data.
-
-Before starting this guide, it's essential to ensure that the form is being used for its intended purpose and that the information captured is accurate and up-to-date.
-</thinking>
-
 # ENPS Directors - Help Guide
 ## Purpose
 The "ENPS Directors" form is used to collect and store information about the Directors within a company or organization.

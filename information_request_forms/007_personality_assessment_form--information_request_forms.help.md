@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information about an individual's personality, interests, and values. This form is intended to be used for internal purposes only, and the data collected will not be shared with any other entity. The form is not meant to be taken as a definitive assessment of an individual's personality but rather as a way to gather insights and understand their perspectives. It's recommended that the form is not filled out by the same individual multiple times, to ensure a unique set of responses. 
-
-</thinking>
 # Personality Assessment Form - Help Guide
 ## Purpose
 The Personality Assessment Form is designed to collect information about an individual's personality, interests, and values. It is meant to be filled out by one person at a time and is not intended to be taken as a definitive assessment of an individual's personality. 

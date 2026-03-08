@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Payroll Portal Access Request Form - Help Guide
 ## Purpose
 The Payroll Portal Access Request Form is a request form used to ask for access to the payroll portal for employees. This form is used to submit a formal request for access to payroll information and is typically submitted by employees who need access to specific payroll areas for their job responsibilities. 

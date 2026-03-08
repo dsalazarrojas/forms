@@ -1,7 +1,3 @@
-<thinking>...
-This form is designed to collect contact information and support requests from users seeking eco-certification support. It is crucial to fill out the form accurately to ensure that the support team can promptly address your concerns. Please note that this form is not for urgent matters; if you need immediate assistance, you can reach out to us directly. Also, ensure you're not duplicating a support request already submitted with the same contact details.
-</thinking>
-
 # Eco Certification Support Contact Form - Help Guide
 ## Purpose
 The Eco Certification Support Contact Form is a way to communicate your eco-certification support needs to our team. Fill out this form to provide us with essential details, and our support team will be happy to assist you.

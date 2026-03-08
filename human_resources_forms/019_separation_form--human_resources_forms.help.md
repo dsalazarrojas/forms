@@ -1,7 +1,3 @@
-<thinking>
-This guide is meant to provide a clear understanding of the purpose and requirements of the separation form. The purpose of this form is to document the separation of an employee from the organization, which includes capturing the employee's name, reason for leaving, department, manager's signature, employee's signature, date of separation, and any additional notes. It's essential that the information is accurate and complete to maintain a record of employee departures and facilitate smooth transition processes. To avoid confusion, please ensure that all required fields are filled in correctly and that the form is completed in a step-by-step manner. This guide will walk you through each field and provide clear explanations to ensure a smooth completion of the form.
-</thinking>
-
 # separation_form - Help Guide
 ## Purpose
 The separation form is a document used to record the separation of an employee from the organization. It captures essential details about the employee's departure, including their name, reason for leaving, department, and other relevant information.

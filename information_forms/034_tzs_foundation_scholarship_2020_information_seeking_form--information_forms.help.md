@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from potential partners for the 2020 Tzs Foundation Scholarship. It is not a formal application, but rather a way for us to gather relevant details about potential partners. We want to ensure that the information provided is accurate and consistent with our internal records. Please do not submit duplicate or incorrect information.
-</thinking>
-
 # tzs_foundation_scholarship_2020_information_seeking_form - Help Guide
 ## Purpose
 This form is used to collect information about potential partners for the 2020 Tzs Foundation Scholarship. The data collected will be used to verify and update our internal records.

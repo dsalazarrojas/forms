@@ -1,5 +1,3 @@
-<thinking>Before filling out this form, please take a moment to ensure you are eligible for the Internal Branding Program. The program is intended for employees who want to participate in internal branding initiatives, such as workshops, training sessions, and other activities. If you have already applied or are not eligible, please do not fill out this form again. This form is only for initial applications and should not be used to reapply.</thinking>
-
 # Employee Internal Branding Program Application Form - Help Guide
 ## Purpose
 The Employee Internal Branding Program Application Form is used for employees to apply for internal branding initiatives, such as workshops, training sessions, and other activities. 

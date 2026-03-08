@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to assess the business culture within an organization from the perspective of its employees. The form is part of a larger effort to understand the strengths and weaknesses of the company culture, providing valuable insights for improvement.
-
-Before proceeding, please ensure that the form's data collection does not duplicate or overlap with existing company feedback mechanisms. This form's content is generated based on publicly available survey topic metadata and is not affiliated with any proprietary form platforms.
-
-</thinking>
-
 # Business Culture Survey - Help Guide
 ## Purpose
 This form is designed to gauge employee perceptions of the company culture, including their alignment with organizational values, trust in leadership, communication, collaboration, innovation, and work environment. The survey's findings will help organizations identify areas of strength and weakness, enabling informed decision-making to foster a positive company culture.

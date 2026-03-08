@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Code Of Conduct Sign Form - Help Guide
 ## Purpose
 The Code of Conduct Sign Form is a crucial document for employees to acknowledge and agree to the company's Code of Conduct policy. This policy outlines the expected behavior and responsibilities of employees in the workplace, ensuring a safe and respectful environment for everyone. Completing this form ensures that employees are aware of and commit to upholding these standards.

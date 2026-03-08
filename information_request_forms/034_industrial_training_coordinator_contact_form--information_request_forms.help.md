@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture information from end users who are seeking industrial training, likely from HR professionals, educators, or providers. The purpose of this form is to gather inquiry details, training needs, contact information, and any other relevant details. This form will be used by the industrial training coordinator to respond to these inquiries and provide the necessary support.
-</thinking>
-
 # Industrial Training Coordinator Contact Form - Help Guide
 ## Purpose
 This form is designed to collect information from end users seeking industrial training. It will help the industrial training coordinator to respond to their inquiries and provide the necessary support.

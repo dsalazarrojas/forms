@@ -1,8 +1,3 @@
-<thinking>
-This form is used to gather information about a person's heirship, which refers to the relationships between individuals who are entitled to inherit property or assets after someone's death. This form helps to document and verify the connections between family members, which is essential for estate planning and distribution.
-To avoid duplication and ensure accuracy, it is crucial to review the information provided in this form carefully and verify it with the relevant parties before proceeding with any estate planning or distribution.
-</thinking>
-
 # Heirship Information Form - Help Guide
 ## Purpose
 This form is used to collect information about a person's relationships with their family members and to document their entitlement to inherit property or assets after their death.

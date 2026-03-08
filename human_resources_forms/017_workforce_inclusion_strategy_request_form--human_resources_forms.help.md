@@ -1,9 +1,3 @@
-<thinking>
-We need to create a form that helps employees request support for workforce inclusion, ensuring that all employees feel welcome and valued within the organization. This form will help the employee submit their concerns, challenges, and proposed solutions, facilitating a more inclusive work environment. 
-This form should not be completed if the employee has already submitted an identical request in the past or if there are ongoing discussions related to the same topic. 
-The submitted form will be reviewed and acted upon by the designated team members.
-</thinking>
-
 # Workforce Inclusion Strategy Request Form - Help Guide
 
 ## Purpose

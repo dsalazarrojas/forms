@@ -1,12 +1,3 @@
-<thinking>
-Informed consent forms are essential in research to ensure that participants understand the nature of the study, its risks and benefits, and their roles and responsibilities. Before proceeding, we verify that the form is relevant to the research partnership and does not duplicate any existing forms.
-
-This form is designed to collect contact information, research partnership details, and other relevant data from individuals or organizations interested in collaborating on global health research initiatives. It helps to establish a clear understanding of the partnership, its objectives, and the roles of all parties involved.
-
-To avoid any potential duplication, we ensure that this form is not a duplicate of any existing forms in the system.
-
-</thinking>
-
 # global_health_research_partnership_consent - Help Guide
 ## Purpose
 This form is designed to gather information from individuals or organizations interested in collaborating on global health research initiatives. It collects contact details, research partnership information, and other relevant data to establish a clear understanding of the partnership and its roles.

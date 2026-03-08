@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about a patient's current and past medication dosages. It's crucial to accurately complete this form to provide detailed insights into the patient's medication history. Before proceeding, please ensure you haven't completed this form recently, as the data might be duplicated or outdated. If you're updating existing information, ensure that the updated values are correct and reflect any changes in the patient's medication regimen.
-</thinking>
-
 # Medication Dosage Information Request Form - Help Guide
 ## Purpose
 The Medication Dosage Information Request Form is designed to collect information about the patient's current and past medication dosages. This form helps healthcare professionals gather accurate and up-to-date data about the patient's medication history, which is essential for providing effective care and treatment.

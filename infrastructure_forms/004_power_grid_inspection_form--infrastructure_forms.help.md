@@ -1,13 +1,3 @@
-<thinking>
-The Power Grid Inspection Form is designed to collect data on the status of power grid assets, such as transmission lines, substations, and other equipment, during inspection. This form aims to gather information on the asset's condition, any observed issues or problems, and the date of the inspection. The form is intended for use by utility companies, regulatory agencies, and other organizations responsible for maintaining and ensuring the reliability and safety of the power grid. 
-
-The purpose of this form is to streamline and standardize the inspection process, making it easier for inspectors to report their findings and for stakeholders to track and analyze the data. The form is not affiliated with or endorsed by any form platform, and it is not a direct derivative of any existing form. It has been created using only public survey topic metadata and industry categories as inspiration, and it is released under a Creative Commons 4.0 license. 
-
-This form is intended to be used as a starting point and can be modified or extended as needed to fit specific use cases. It is not designed to collect sensitive or regulated data, and all information collected is for the purpose of asset management, maintenance, and improvement.
-
-Please note that the provided form has six fields, each with its own label, type, and options. The form is divided into pages, but this guide will focus on explaining each field individually.
-</thinking>
-
 # Power Grid Inspection Form - Help Guide
 ## Purpose
 The Power Grid Inspection Form is designed to collect data on the status of power grid assets during inspection, including condition, issues, and the date of the inspection. This form aims to streamline and standardize the inspection process for utility companies, regulatory agencies, and other organizations.

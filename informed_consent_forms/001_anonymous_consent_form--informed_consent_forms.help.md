@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect informed consent from participants in a study or program, ensuring they understand the purpose, procedures, and implications of their participation. Before starting, please note that this form is an original creation and not affiliated with any specific form platform, and its content is derived from public metadata. If you're unsure about the purpose or implications of this form, please contact the form creators at form@gic.mx.
-</thinking>
-
 # Anonymous Consent Form - Help Guide
 ## Purpose
 The Anonymous Consent Form is a crucial document that ensures participants understand the terms and conditions of their involvement in a study or program. This form explains the study's purpose, procedures, and potential risks and benefits associated with participation.

@@ -1,11 +1,3 @@
-<thinking>
-This help guide is intended to support employees in completing the "performance_management_registration_form" form, a critical process for evaluating and managing employee performance within the organization. This form is used to capture detailed information about each employee, including their demographic data, evaluation period and frequency, evaluation type, and other relevant details.
-To avoid duplication, please ensure that this form is not completed for an employee who has already been registered for performance management.
-
-Before proceeding, please review the form fields carefully to ensure accuracy and completeness. Note that some fields have specific options or constraints that need to be met for the form to be successfully submitted.
-
-</thinking>
-
 # performance_management_registration_form - Help Guide
 ## Purpose
 The "performance_management_registration_form" is a vital tool used to collect and manage employee performance data for performance evaluations and management.

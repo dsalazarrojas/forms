@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to facilitate collaboration requests between social media influencers and brands. This form helps brands gather information from potential influencers, including their contact details, proposed collaboration ideas, media formats, preferred communication channels, and other relevant details. 
-The form will likely be used by brands to reach out to potential collaborators, and the submitted information will be used to review and consider their proposal.
-This form will be used to avoid duplication and ensure that the brand receives only relevant collaboration requests. If a brand has previously sent a request to the same influencer, the system will not allow them to duplicate the request.
-</thinking>
 # social_media_influencer_collaboration_request_form - Help Guide
 ## Purpose
 This form is used by brands to gather information from potential social media influencers for collaboration requests.

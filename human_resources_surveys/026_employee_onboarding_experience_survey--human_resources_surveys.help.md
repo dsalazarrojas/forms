@@ -1,11 +1,3 @@
-<thinking>
-The purpose of the Employee Onboarding Experience Survey is to collect feedback from new employees about their initial experiences with the company's onboarding process. This survey aims to help the organization identify areas of improvement and provide a better experience for future employees.
-
-Before filling out this form, please note that you will be providing feedback about your onboarding experience with our company. This will help us improve our processes and make sure that everyone has a smooth and enjoyable onboarding process.
-
-This form is intended for employees who have recently joined the company or are in the early stages of their onboarding process. If you are not in this phase or have not joined the company, please do not fill out this form. 
-
-</thinking>
 # Employee Onboarding Experience Survey - Help Guide
 ## Purpose
 

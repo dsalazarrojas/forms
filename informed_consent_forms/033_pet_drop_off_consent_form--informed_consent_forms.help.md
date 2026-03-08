@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather relevant information about the pet drop off event, specifically regarding the pet's owner, identification, contact information, and the timing of the drop off. Please ensure that all fields are completed accurately and thoroughly before submitting the form. This form is intended for informational purposes only and is not a substitute for official veterinary care or advice. It is recommended to have multiple people review and approve the submission before proceeding with the pet drop off.
-</thinking>
-
 # Pet Drop Off Consent Form - Help Guide
 ## Purpose
 The Pet Drop Off Consent Form is a crucial document that helps facilitate a smooth pet drop off process. It gathers essential information about the pet's owner, pet's identification, contact details, and the timing of the pet drop off. This form is meant to ensure that all necessary data is collected accurately and securely, which enables efficient processing and care for the pet.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Recognition Program Application - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Advise Request Form - Help Guide
 
 ## Purpose

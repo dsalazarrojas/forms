@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by HR representatives to evaluate the performance of an employee based on the outcome of a performance-based interview. The form captures information on the employee's first name, last name, interview type, and scores for various questions. It also includes fields for note-taking, email, phone number, and comments. The follow-up fields are optional and aim to track the employee's progress and potential next steps.
-</thinking>
-
 # Performance Based Interview Question Evaluation Form - Help Guide
 ## Purpose
 This form is used to record and evaluate the performance of an employee based on a performance-based interview. It captures essential information such as name, interview type, and scores for various questions.

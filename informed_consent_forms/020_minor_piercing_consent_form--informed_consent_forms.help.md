@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to be used by minors (individuals under the age of 18) to obtain consent for minor piercing procedures. The form is meant to be completed in a series of pages, with each page focusing on a specific aspect of the minor's health and consent. It is crucial that the minor (or their guardian/parent) understands what each page is asking and provides accurate information to ensure the minor's safety and well-being.
-
-To avoid duplication, please ensure that each page is filled out completely and accurately before moving to the next one. If you have any doubts or concerns, please discuss with the person completing the form or contact the relevant authorities.
-
-Please note that this form might not be applicable to all individuals, especially if they are above the age of 18. Make sure to verify the age and consent requirements in your local jurisdiction before using this form.
-
-</thinking>
-
 # Minor Piercing Consent Form - Help Guide
 
 ## Purpose

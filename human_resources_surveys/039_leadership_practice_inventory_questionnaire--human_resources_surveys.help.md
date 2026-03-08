@@ -1,8 +1,3 @@
-<thinking> 
-This form is for leadership practices, and it seems to be a type of assessment or inventory to gauge or analyze leadership behaviors, competencies, or practices. It's probably used to gather information on the effectiveness or implementation of leadership practices within an organization. The form has various sections, including categories, and it seems to be related to human resources surveys. However, without further context, it's hard to be more specific about its purpose and usage. It's also unclear what specific leadership practices this form is designed to assess or inventory. Please consider providing more context or information about the form's purpose and scope to ensure the accuracy of this help guide.
-
-</thinking>
-
 # Leadership Practice Inventory Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information on leadership practices within an organization. It's likely used to assess or inventory leadership behaviors, competencies, or practices, and may be related to human resources surveys.

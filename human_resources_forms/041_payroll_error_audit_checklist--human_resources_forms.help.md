@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to guide users through a payroll error audit process, identifying potential issues with payroll calculations, pay stubs, benefits, tax withholdings, deductions, and other payroll-related areas. The purpose of this form is to help users detect and correct errors or discrepancies in their payroll records, ensuring accuracy and compliance with regulations.
-
-</thinking>
-
 # Payroll Error Audit Checklist - Help Guide
 ## Purpose
 The Payroll Error Audit Checklist is a systematic process to review and verify payroll data for errors or discrepancies. This guide will walk you through each step of the process, helping you identify and correct payroll errors.

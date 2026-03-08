@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about a barber's profile for public display on a barber profiling platform. The information collected will help match clients with the right barbers for their needs. The form is designed to be completed by barbers who wish to create or update their public profile. Note that some fields may not be visible to non-users of the platform.
-</thinking>
-
 # Barber Profile Submission Form - Help Guide
 ## Purpose
 The Barber Profile Submission Form is used to collect and display information about a barber's public profile. Completing this form will allow you to create or update your public profile.

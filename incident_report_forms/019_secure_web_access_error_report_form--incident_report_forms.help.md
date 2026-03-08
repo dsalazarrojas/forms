@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information about a Secure Web Access error report, which is crucial for identifying and resolving technical issues that prevent users from accessing the web securely. This form is designed to be completed by users who experience difficulties when attempting to access the web securely, and the information collected will help the technical team to troubleshoot and fix these issues efficiently.
-</thinking>
-
 # Secure Web Access Error Report Form - Help Guide
 ## Purpose
 This form is used to report any Secure Web Access errors or issues that you are experiencing. Please provide as much detail as possible to help the technical team resolve the problem.

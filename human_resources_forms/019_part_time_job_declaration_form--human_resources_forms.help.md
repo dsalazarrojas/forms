@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about part-time jobs, which are jobs that an individual is employed in outside of their primary employment with the company. This form is used to ensure that employees are complying with company policies and procedures related to outside employment. 
-The form should only be completed if the employee has a part-time job outside of their primary employment. If the employee does not have a part-time job, they should not complete this form. 
-Please ensure that you only complete this form if you are certain that you have a part-time job outside of your primary employment. If you are unsure, please consult with your HR representative for guidance. 
-</thinking>
-
 # Part Time Job Declaration Form - Help Guide
 ## Purpose
 The Part Time Job Declaration Form is used to declare any part-time jobs that an employee has outside of their primary employment with the company.

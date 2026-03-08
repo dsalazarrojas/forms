@@ -1,7 +1,3 @@
-<thinking>
-  We are creating a help guide for the Police Daily Report Form to help users understand its purpose and complete it accurately. The form is used to report incidents, and its primary function is to gather information about the incident, the suspect, and the officer handling the case. This form is designed to collect data about the incident date, location, type, status, and other relevant details. It is crucial to fill out this form correctly to ensure accurate reporting and efficient processing of the incident. Before completing the form, please review the guidelines and instructions carefully to avoid any errors or omissions.
-</thinking>
-
 # Police Daily Report Form - Help Guide
 ## Purpose
 The Police Daily Report Form is used to collect and document information about incidents reported to the police department. This form is essential for maintaining accurate records and facilitating efficient investigation and follow-up actions.

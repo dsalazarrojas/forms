@@ -1,14 +1,3 @@
-<thinking>
-We're creating a user-facing help guide for the "research_data_handling_audit_form" form. This form is used to record and review audit information related to research data handling. The form is designed to collect information on the status of research audits, including the date of the audit, the research team conducting the audit, the findings, actions taken, and review status.
-
-Before we begin, let's review the form's structure and requirements to ensure that our help guide is accurate and clear.
-
-The form consists of 25 fields, with several types of information being collected: user identifier, dates, text inputs, select options, and email/phone fields. 
-
-We'll need to ensure that the guide explains the purpose and usage of each field in a concise and practical way, without assuming any business logic or internal knowledge.
-
-Let's start creating the help guide now.</thinking>
-
 # research_data_handling_audit_form - Help Guide
 ## Purpose
 The purpose of this form is to collect and record information on the status of research audits. This includes details on the audit date, research team, findings, actions taken, review status, and other relevant information.

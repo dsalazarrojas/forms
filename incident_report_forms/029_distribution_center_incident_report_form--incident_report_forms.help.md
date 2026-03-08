@@ -1,7 +1,3 @@
-<thinking>
-The form is intended for documenting incidents that have occurred at a distribution center, with a focus on collecting relevant details such as incident type, date, time, description, and other supporting information. This form is designed to be completed by personnel or reporting officers in the distribution center, and is meant to provide a clear and concise record of incidents. It is possible that this form could be used in conjunction with other forms or systems for incident management and reporting.
-</thinking>
-
 # Distribution Center Incident Report Form - Help Guide
 ## Purpose
 This form is used to report incidents that have occurred at a distribution center. Incidents can include fires, equipment malfunctions, personnel accidents, and other notable events.

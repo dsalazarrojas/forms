@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this Employee New Hire Form is to collect information about a new hire's details. This form should only be used for new hires, not for existing employees or other types of forms. This guide will help you understand how to complete the form and what each field means.
-
-</thinking>
-
 # Employee New Hire Form - Help Guide
 ## Purpose
 The Employee New Hire Form is a crucial document that captures essential information about a new hire's details, including their name, job title, job status, department, location, and more. It's essential to fill out this form accurately to ensure that all necessary data is collected.

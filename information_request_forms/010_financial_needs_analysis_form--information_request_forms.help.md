@@ -1,18 +1,3 @@
-<thinking>
-To determine whether the Financial Needs Analysis Form should be filled out, please consider the following:
-
-- Are you a financial professional or advisor looking to assess a client's financial situation and make informed decisions about their investment strategy?
-- Do you need to gather specific information from clients to inform your investment recommendations?
-- Are you looking to understand a client's financial goals, risk tolerance, and income sources to create a tailored investment plan?
-
-If the answer is yes, then the Financial Needs Analysis Form is relevant to your work. Please note that this form is not intended to be filled out by clients directly. Its purpose is for financial professionals to gather necessary information about their clients.
-
-Please note that this form should not be filled out by individuals looking to create a general investment plan or seeking personal investment advice. If you're an individual looking to plan your own investments, please consider speaking with a financial advisor who can provide personalized guidance.
-
-If the above conditions are not met, please stop here and revisit this page later when the form is relevant to your work.
-
-</thinking>
-
 # Financial Needs Analysis Form - Help Guide
 
 ## Purpose

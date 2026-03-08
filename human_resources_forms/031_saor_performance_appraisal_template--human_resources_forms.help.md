@@ -1,17 +1,3 @@
-<thinking>
-
-The purpose of the "saor_performance_appraisal_template" form is to facilitate a performance appraisal process for employees. This form is used to gather information and feedback from managers to evaluate an employee's performance, provide guidance on areas of improvement, and set development goals. The form is likely to be used in a work-related context, such as during a performance review or evaluation meeting.
-
-To ensure the form is used correctly, please note that:
-
-- All fields with the "required" property set to "true" must be completed.
-- The "Performance Appraisal Date" field should be filled with the actual date of the performance appraisal.
-- The "Manager Name" field should be filled with the name of the employee's manager.
-- The "Overall Rating" field should be filled with a score indicating the overall performance of the employee, with options "Good" or "Fair".
-- The "Overall Suggestion" field should be used to provide general feedback or guidance for the employee.
-
-</thinking>
-
 # saor_performance_appraisal_template - Help Guide
 ## Purpose
 The "saor_performance_appraisal_template" form is used to facilitate a performance appraisal process for employees.

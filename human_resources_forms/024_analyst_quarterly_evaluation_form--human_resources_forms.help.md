@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Analyst Quarterly Evaluation Form - Help Guide
 ## Purpose
 The Analyst Quarterly Evaluation Form is designed to evaluate an analyst's performance over the past quarter. The purpose of this form is to assess key areas of an analyst's performance, including data accuracy and integrity, report timeliness, technical proficiency, core competencies, key achievements, areas for development, overall performance score, strategic goals for the next quarter, and evaluation date.

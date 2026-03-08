@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a clear and concise help guide for the "Plastic Surgery Patient Intake Form" that explains its purpose, how to complete it, and what each field means. I will ensure that the guide is based on the provided YAML fields and is concrete, concise, and practical in its explanation.</thinking>
-
 # Plastic Surgery Patient Intake Form - Help Guide
 ## Purpose
 The Plastic Surgery Patient Intake Form is a crucial document used to gather essential information from patients before undergoing a plastic surgery procedure. This form helps healthcare providers assess the patient's medical history, contact information, and consent status, ensuring a safe and successful surgical experience.

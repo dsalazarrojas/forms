@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to track information related to safety engineered needles, which are medical devices designed to reduce the risk of needlestick injuries. The form is likely used in a medical setting to monitor the status of needles, including their active or inactive status, and record information about patients, medical staff, and tracking details. This form may be used by medical facilities to ensure compliance with regulations and guidelines for safety engineered needles. The purpose of this form is not specified in the provided YAML, but it is intended for tracking and recording information about safety engineered needles. There is no indication that this form is intended for any other purpose. I assume that the form is not intended to be filled out by patients or non-medical users, given the medical terminology and context used in the form fields.
-</thinking>
-
 # Safety Engineered Needle Information Tracking Form - Help Guide
 ## Purpose
 This form is used to track and record information about safety engineered needles in a medical setting.

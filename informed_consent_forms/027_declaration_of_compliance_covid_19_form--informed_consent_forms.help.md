@@ -1,9 +1,3 @@
-<thinking>
-
-This form appears to be for medical purposes, specifically for documenting COVID-19 vaccination information. It likely requires the patient's details, vaccination dosage, and other relevant medical information to be filled out by the healthcare provider. It is possible that this form is part of a larger medical documentation system, and the purpose is to ensure that healthcare providers are compliant with COVID-19 vaccination protocols. I will now provide a help guide based on this information.
-
-</thinking>
-
 # Declaration Of Compliance Covid 19 Form - Help Guide
 
 ## Purpose

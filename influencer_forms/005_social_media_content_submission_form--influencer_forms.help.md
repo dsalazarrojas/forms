@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect metadata about social media content submissions, such as the platform on which it was posted, the type of content, how often it was posted, and other relevant details. The form ensures that content is properly tracked, stored, and categorized within our systems. To ensure that our systems remain up-to-date and accurate, please make sure to fill out the form completely and correctly, and avoid duplicating submissions for the same social media platform or content.
-</thinking>
-
 # social_media_content_submission_form - Help Guide
 ## Purpose
 This form is used to collect metadata about social media content submissions, such as the platform on which it was posted, the type of content, and other relevant details.

@@ -1,12 +1,3 @@
-<thinking> 
-To determine the purpose of this form, let's review the input schema. The form is called "Employee Warning Form" and appears to be used for documenting incidents where an employee has received a warning. It includes various fields for collecting information about the warning, such as the reason for the warning, the employee's response, and the manager's response. The form also includes fields for collecting signatures and acknowledgements from both the employee and the manager, as well as fields for documenting the date and time of the warning. Based on this information, the purpose of the form is likely to document and record employee warnings, providing a clear and structured format for collecting and tracking information about these incidents.
-
-To determine if this form is being used in an appropriate context, let's review the fields included. The form appears to be designed for use by HR departments to document warnings given to employees. The fields include information about the employee, the warning, and the manager's response, which suggests that this form is being used for official documentation and record-keeping purposes. This form does not appear to be for casual or personal use, but rather for formal HR purposes.
-
-To determine if this form is being used correctly, let's review the required fields. The form requires a variety of information, including the reason for the warning, the employee's response, and the manager's response. However, it does not appear to have any fields for verification or validation of the warning, such as a confirmation of receipt or a check for completion. This may indicate that the form is being used as intended, but could potentially be improved by adding fields to ensure that the warning is properly verified and documented.
-
-</thinking>
-
 # Employee Warning Form - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-This form is for recording uniform distribution data for staff members. The purpose of this form is to collect information about the staff members who are receiving uniforms, including their ID, name, department, date, number of uniforms, size, and any additional remarks. This form is likely used by human resources or facilities management teams to track and manage uniform distribution among staff members.
-
-To ensure that this form is being completed correctly, please note that the form is used to record uniform distribution data for staff members, and the completion of this form may trigger automatic notifications or other business processes. Please make sure that you only submit data for staff members who are actually receiving uniform distributions.
-
-To avoid errors, please double-check the staff member ID and name to ensure they match the correct staff member. Also, please ensure that the department and size fields are selected correctly from the drop-down menus.
-
-</thinking>
-
 # Uniform Distribution Form - Help Guide
 ## Purpose
 The Uniform Distribution Form is used to record uniform distribution data for staff members.

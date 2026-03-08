@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a template created for assessing the safety of corridors, likely in industrial or commercial settings. It seems to be designed for identifying potential hazards, documenting risk levels, and planning corrective actions. The fields suggest that the form is intended for a facility manager or similar role to record and track their assessments. I will assume that the form is intended for internal use within an organization.
-</thinking>
-
 # Corridor Safety Assessment Form - Help Guide
 
 ## Purpose

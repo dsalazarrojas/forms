@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Daycare Allergy Form - Help Guide
 ## Purpose
 

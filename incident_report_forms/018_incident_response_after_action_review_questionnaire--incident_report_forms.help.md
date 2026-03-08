@@ -1,36 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I'll first review the form's purpose and requirements. This form is intended to be used for incident response after-action reviews, where responders and incident commanders can provide a detailed description of the incident, including the initial report, response plan, and outcomes. The form also seeks to identify areas for improvement, lessons learned, and any notable successes or challenges faced during the response efforts. By reviewing this form, respondents can reflect on the effectiveness of the response team and provide recommendations for future responses.
-
-Before filling out this form, users should ensure they have a clear understanding of the incident and its aftermath. If they are unsure, they may want to review incident reports and debriefing records to gather necessary information.
-
-To complete this form, users will need to answer the following questions, which cover various aspects of the incident response efforts:
-
-1.  The initial incident report, including a detailed description of the incident.
-2.  The incident commander's name and title.
-3.  The initial response plan and its goals.
-4.  The primary response resources deployed during the response.
-5.  The outcomes of the response efforts.
-6.  The lessons learned from the response efforts (optional).
-7.  The need for additional response resources (optional).
-8.  Notable challenges faced during the response efforts (optional).
-9.  The primary causes of the incident.
-10. The primary recommendations for future responses.
-11. The effectiveness of the communication plan (optional).
-12. The results of the incident review (optional).
-13. Notable successes or achievements during the response efforts (optional).
-14. The areas that required further action after the incident (optional).
-15. Overall satisfaction with the response efforts (optional).
-16. The response team's preparedness for the incident (optional).
-17. Notable issues with the incident response plan (optional).
-18. The effectiveness of the incident response team (required).
-19. The response team's ability to respond effectively (optional).
-
-Each field in this form is crucial to providing a comprehensive review of the incident response efforts. Users should provide as much detail as possible in their responses to ensure a thorough understanding of the incident.
-
-Please note that some fields are marked as required, meaning they are necessary for a complete review of the incident response efforts. Users should ensure they provide answers for all required fields before submitting the form.
-
-</thinking>
-
 # Incident Response After-Action Review Questionnaire - Help Guide
 ## Purpose
 This form is designed to help incident responders and commanders review and reflect on their response efforts, identifying areas of success and areas for improvement.

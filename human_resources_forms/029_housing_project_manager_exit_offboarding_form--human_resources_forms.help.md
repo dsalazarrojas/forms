@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Housing Project Manager Exit Offboarding Form - Help Guide
 ## Purpose
 The Housing Project Manager Exit Offboarding Form is designed to collect information and facilitate a smooth transition for Project Managers who are exiting the organization. This form helps to document the reason for offboarding, identify next steps, and ensure a smooth handover of assigned tools and responsibilities.

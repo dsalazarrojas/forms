@@ -1,18 +1,3 @@
-<thinking>
-To create an effective help guide for the Guard Line Input Form, we should first ensure the form's purpose is clear. This form, "Guard Line Input Form", appears to be a tool for reporting incidents that occur during patrol activities. It's possible that this form is part of a larger system for monitoring and managing incidents that happen within a security or emergency response context, such as a guard or security patrol. To confirm this understanding, let's review the form fields:
-- The "Patrol Location" field likely refers to the physical location where the patrol was taking place.
-- The "Start Time" and "End Time" fields are for recording the duration of the patrol, which is likely required for tracking the patrol's schedule.
-- "Checkpoint Location" might be a specific point within the patrol route where a checkpoint was set or encountered.
-- "Incident Description" is a required field for detailing what happened during the patrol.
-- "Patrol Status" could indicate whether the patrol is ongoing, completed, or suspended.
-- "Checkpoint Status" might indicate whether the checkpoint is active or inactive.
-- "Incident Type" could categorize the type of incident (e.g., Fire, Security, Medical).
-- "Patrol Frequency" and "Checkpoint Frequency" are likely fields for inputting how often the patrol and checkpoints occur, respectively.
-
-Given this analysis, it seems that the form is designed for detailed incident reporting during patrols or security checks, with a focus on location, timing, and type of incident. It also seems to have some optional fields for additional context. To avoid duplication, the form might be part of a larger system or process for managing these incidents.
-
-</thinking>
-
 # Guard Line Input Form - Help Guide
 ## Purpose
 This form is used to report incidents that occur during patrols or security checks. It helps in recording specific details such as location, time, and type of incident, aiding in the management and monitoring of these events.

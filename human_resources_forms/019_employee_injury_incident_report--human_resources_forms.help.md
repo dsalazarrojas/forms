@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Injury Incident Report - Help Guide
 
 ## Purpose

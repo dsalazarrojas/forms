@@ -1,9 +1,3 @@
-<thinking>
-We are creating a user-facing help guide for the "Structure Information Collection" form. This form is designed to collect relevant information for structural inspections, such as building and facility details, inspection schedule, and relevant contact information. To ensure accuracy, we need to confirm that this form is being filled out for its intended purpose and not for duplicate entries.
-
-Let's assume that users are filling out this form for the intended purpose, and we can proceed with creating the guide.
-</thinking>
-
 # Structure Information Collection - Help Guide
 ## Purpose
 The "Structure Information Collection" form is used to collect detailed information about structures for inspections. This includes building name, facility type, structure type, address, and other relevant contact information.

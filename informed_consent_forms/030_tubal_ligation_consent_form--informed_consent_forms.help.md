@@ -1,7 +1,3 @@
-<thinking>
-We should only provide this form for patients who have been referred to this hospital. The form is designed to collect informed consent for a tubal ligation procedure. A tubal ligation involves blocking the fallopian tubes to prevent pregnancy, and informed consent is required to ensure patients understand the risks and benefits of the procedure. 
-</thinking>
-
 # Tubal Ligation Consent Form - Help Guide
 ## Purpose
 The Tubal Ligation Consent Form is a document that ensures patients understand the risks and benefits of a tubal ligation procedure. This form helps to obtain informed consent from patients before undergoing the procedure.

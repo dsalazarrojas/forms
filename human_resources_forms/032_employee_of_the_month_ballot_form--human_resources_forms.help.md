@@ -1,12 +1,3 @@
-<thinking>
-This form is a crucial tool for recognizing and rewarding employees for their outstanding contributions to the organization. The Employee Of The Month Ballot Form is used to submit nominations for employees who have demonstrated exceptional performance, teamwork, or other commendable qualities that make them deserving of special recognition. 
-
-Before submitting a nomination, please ensure that the employee being nominated has not already been recognized as Employee of the Month in the past year, and that the nomination is not being submitted for the same month.
-
-To complete this form, follow the instructions below:
-
-</thinking>
-
 # Employee Of The Month Ballot Form - Help Guide
 
 ## Purpose

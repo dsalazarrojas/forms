@@ -1,12 +1,3 @@
-<thinking>
-# The form appears to be a comprehensive patient demographic information form, 
-collecting basic personal details, health metrics, and medical information.
-However, some fields such as "Pulse" and "Blood Pressure" seem to have a medical focus, 
-which might imply they're meant for a specific medical context. To avoid duplication of 
-information and ensure relevance, this form should be used for general patient 
-information collection or for a specific, clearly defined medical scenario.
-</thinking>
-
 # Patient Demographic Information Form - Help Guide
 ## Purpose
 The Patient Demographic Information Form is designed to collect personal data about patients. 

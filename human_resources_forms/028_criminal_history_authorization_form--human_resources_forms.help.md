@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Criminal History Authorization Form - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-The Staff Incident Report Form is a document intended to gather information about incidents or near-misses experienced by staff members during the course of their work. The form is used to collect data about incidents, including the date they occurred, a description of the incident, and the type of incident. This data will be used to identify trends and areas for improvement in workplace safety.
-
-To avoid duplication and ensure accurate reporting, staff members are encouraged to use this form for all incident reports. Please ensure that all fields are completed accurately and thoroughly.
-
-</thinking>
-
 # Staff Incident Report Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about incidents or near-misses experienced by staff members during their work. This data will be used to improve workplace safety and identify areas for improvement.

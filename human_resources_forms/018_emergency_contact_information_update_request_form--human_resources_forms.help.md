@@ -1,7 +1,3 @@
-<thinking>
-This form is used for updating emergency contact information for employees. This form should only be completed by authorized personnel, and the updates should be reviewed and approved by designated authorities to prevent duplication and ensure accuracy. The purpose of this form is to request updates to emergency contact information for a specific employee.
-</thinking>
-
 # emergency_contact_information_update_request_form - Help Guide
 ## Purpose
 This form is used to request updates to emergency contact information for a specific employee.

@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is for a mentee to be able to provide information to their mentor, which can help the mentor get a better understanding of the mentee's background and skills. This form is designed to be completed by the mentee themselves, and the information collected will be used by the mentor to have a more informed conversation during their mentorship. 
-
-This form is not intended for a large-scale survey or assessment, but rather for a more personal and informal understanding of the mentee's experiences and qualifications.
-
-The form is divided into several pages, each with a specific set of fields. Here's a brief explanation of each field and page:
-</thinking>
-
 # Editable Mentee Application - Help Guide
 ## Purpose
 The Editable Mentee Application form is designed to provide mentors with more information about the mentee's background and skills to have a more informed conversation during their mentorship.

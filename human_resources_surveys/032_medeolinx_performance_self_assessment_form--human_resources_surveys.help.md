@@ -1,8 +1,3 @@
-<thinking>
-We're creating a form for performance self-assessment, which is a crucial process for employee evaluations and growth. This form will help employees and supervisors assess the performance of employees, identify areas for improvement, and set goals for future development. It's essential to ensure that the form is completed accurately and thoroughly, as it will be used to inform future decisions and growth opportunities. Please ensure that this form is used for its intended purpose and not duplicated for other unrelated purposes. This form is specifically designed for evaluating employee performance, so please do not use it for other tasks or projects.
-
-</thinking>
-
 # MedeoLinx Performance Self-Assessment Form - Help Guide
 ## Purpose
 

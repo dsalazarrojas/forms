@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about a Junior Program Analyst's project review. The purpose of this form is to gather data on the current status of a project, its progress, and the frequency of reviews and evaluations. The form is used to ensure that the project is meeting its objectives and to identify areas for improvement. It is essential to fill out this form accurately and completely to provide a comprehensive review of the project.
-
-Before filling out this form, please verify that the project you are reviewing is not already scheduled for review. If you are unsure, please reach out to the project leader or the project team before proceeding.
-
-</thinking>
-
 # Junior Program Analyst Project Review Form - Help Guide
 ## Purpose
 

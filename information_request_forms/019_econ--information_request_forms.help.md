@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for users to provide personal information for an "ECON" application. This form will be used internally to verify and process user information. Please ensure you only submit this form once to avoid duplication of effort. If you have already submitted this form, please do not submit it again.</thinking>
-
 # ECON - Help Guide
 ## Purpose
 The ECON form is a request form for providing personal information for an ECON application. It is used internally to verify and process user information.

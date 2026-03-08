@@ -1,11 +1,3 @@
-<thinking>Alumni Update Form Purpose:
-
-The purpose of the Alumni Update Form is to gather information from alumni about their personal and professional updates, preferences, and interests. This form helps the university community stay connected with its graduates, allowing them to provide support, opportunities, and networking. The form aims to facilitate the sharing of experiences, skills, and knowledge between alumni and the university, promoting engagement and community building.
-
-To ensure the form is completed only once per update, an internal check will be conducted to verify that there are no duplicate updates within the last 6 months.
-
-</thinking>
-
 # Alumni Update Form - Help Guide
 ## Purpose
 The Alumni Update Form is designed to gather information from alumni about their personal and professional updates. This information will be used to stay connected with graduates, provide support, and facilitate networking within the university community.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to document an employee's warning, which is a process of alerting an employee about a potential issue or concern that may impact their job performance or conduct. The form is likely used by management to initiate a formal warning process, which may lead to subsequent disciplinary actions or corrective measures. The form is meant to be filled out by an authorized personnel representative when an employee's behavior or performance warrants a formal warning. Before proceeding, ensure this form is not being filled out for the same reason as an existing or previously documented issue.
-</thinking>
-
 # Employee Warning Form - Help Guide
 ## Purpose
 The purpose of this form is to document a formal warning to an employee regarding a potential issue or concern with their job performance or conduct. This form will be used to initiate a formal warning process, which may lead to subsequent disciplinary actions or corrective measures.

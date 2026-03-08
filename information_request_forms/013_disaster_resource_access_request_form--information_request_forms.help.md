@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Disaster Resource Access Request Form - Help Guide
 ## Purpose
 This form is used to request access to disaster resources during emergency situations. Please provide as much detail as possible to help us expedite the request process. This form is not a replacement for other emergency services, and if you need immediate assistance, please call or text emergency services directly.

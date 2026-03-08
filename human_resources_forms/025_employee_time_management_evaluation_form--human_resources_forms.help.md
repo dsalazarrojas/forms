@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Time Management Evaluation Form - Help Guide
 ## Purpose
 The Employee Time Management Evaluation Form is used to collect information about an employee's work hours, overtime, and time management skills from their manager. This form helps managers evaluate an employee's work performance and identify areas for improvement.

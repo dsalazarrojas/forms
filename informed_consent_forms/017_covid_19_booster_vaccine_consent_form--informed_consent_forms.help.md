@@ -1,5 +1,3 @@
-<thinking>... This form is used for patients to provide informed consent for receiving the COVID-19 booster vaccine. It is designed to collect necessary information for medical professionals to assess the patient's eligibility and prepare for the vaccination process. The form is split into several sections: patient information, vaccination history, medical history, and informed consent. Each section is designed to gather relevant information to ensure the patient's safety and successful vaccination experience. Before filling out this form, please make sure you have all the necessary information required for each section. This form is intended for adult patients, and please note that some fields may be required based on your answers in previous sections. If you need help or clarification on any of the questions, please don't hesitate to ask... </thinking>
-
 # COVID 19 Booster Vaccine Consent Form - Help Guide
 ## Purpose
 This form is used to gather necessary information for medical professionals to assess and prepare you for the COVID-19 booster vaccination process.

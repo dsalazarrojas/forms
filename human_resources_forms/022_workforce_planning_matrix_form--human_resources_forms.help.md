@@ -1,15 +1,3 @@
-<thinking>
-This form is used for workforce planning and matrix analysis. Its purpose is to collect information from team members and stakeholders about workforce needs, priorities, and assigned tools for specific departments and job families. 
-
-The form is designed for data collection and analysis and is typically used by team members to provide input for planning and resource allocation decisions. It may be used by HR or other department managers to assess workforce needs and prioritize projects and resources.
-
-Before filling out this form, ensure that you are selecting the correct department and job family for which you are planning. 
-
-This form is intended for internal use within the organization. Please do not submit any sensitive or confidential information. 
-
-If you have already completed this form for the same department and job family, please do not complete it again. 
-</thinking>
-
 # Workforce Planning Matrix Form - Help Guide
 ## Purpose
 This form is used for workforce planning and matrix analysis to collect information from team members and stakeholders about workforce needs, priorities, and assigned tools.

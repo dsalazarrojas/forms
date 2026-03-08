@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be part of a registration system, used to update user data in a database or system. 
-The purpose of this form is to collect information about updates made to a user's record, including their first name, last name, email, phone, organization, job title, updated status, update date and time, update reason, and other relevant details.
-It is likely used by administrators or system managers to keep track of changes made to user records over time.
-</thinking>
-
 # Registration Update Form - Help Guide
 ## Purpose
 This form is used to collect information about updates made to a user's record in the system.

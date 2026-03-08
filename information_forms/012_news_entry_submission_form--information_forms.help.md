@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # News Entry Submission Form - Help Guide
 
 ## Purpose

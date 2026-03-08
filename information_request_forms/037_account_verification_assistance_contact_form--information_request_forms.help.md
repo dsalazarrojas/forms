@@ -1,11 +1,3 @@
-<thinking>
-The form is intended to be used by customers who require assistance with account verification issues, such as failed email verification, expired verification codes, or identity verification problems. The purpose of the form is to gather relevant information from the customer to facilitate efficient resolution of their issue. To ensure accurate and helpful assistance, customers should complete the form carefully and truthfully. 
-
-This form should not be used to report general account-related issues or requests that are not related to verification problems. If the customer is reporting a non-verification issue, please provide a link to the proper contact channel. 
-
-To avoid duplicate requests, customers should not submit the form multiple times for the same issue. If a customer has already submitted a request, please direct them to the existing case or ticket.
-</thinking>
-
 # Account Verification Assistance Contact Form - Help Guide
 ## Purpose
 The Account Verification Assistance Contact Form is used to report account verification issues and receive help from the support team.

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from employees to help us get to know them better as individuals and understand their work habits and preferences. It is essential to ensure that the form is completed honestly and accurately, as this information will be used for internal reference and potential future team-building opportunities. Please ensure you have not completed this form in the past and that you are completing it for the correct purpose.
-
-</thinking>
-
 # Employee Getting To Know You Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information from employees to help us get to know them better as individuals and understand their work habits and preferences.

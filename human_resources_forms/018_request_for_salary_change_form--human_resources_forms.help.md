@@ -1,15 +1,3 @@
-<thinking>...thinking>
-
-The "Request For Salary Change Form" is used by employees to request changes to their salary. This form allows employees to provide their employee ID, reason for the salary change, the percentage increase or decrease they are requesting, and the actual dollar amount of the change. 
-
-To ensure accurate processing of the form, please ensure that you have selected the correct reason for the request and have provided the correct percentage and actual dollar amount of the change.
-
-This form is meant for individual requests and should not be used to submit multiple requests at once. Each form submitted will be reviewed and processed separately.
-
-Before filling out this form, please make sure that you have reviewed the company's salary change policy and that you have all necessary documentation or supporting materials ready to be attached to your submission.
-
-</thinking>
-
 # Request For Salary Change Form - Help Guide
 ## Purpose
 The "Request For Salary Change Form" is a self-service form for employees to submit their salary change requests.

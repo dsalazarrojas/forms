@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Citizen Profile Form - Help Guide
 
 ## Purpose

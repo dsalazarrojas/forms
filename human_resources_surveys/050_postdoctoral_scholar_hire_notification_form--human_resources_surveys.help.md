@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Postdoctoral Scholar Hire Notification Form - Help Guide
 
 ## Purpose

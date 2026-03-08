@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This internal reasoning block checks if the form purpose and fields are valid and not duplicated.
 
 The form purpose is to gather employee feedback on the work hours policy. The fields seem to be a mix of text fields for employee information, select fields for feedback options, and date/time fields for scheduling purposes.

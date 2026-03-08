@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # HivConsentForm - Help Guide
 ## Purpose
 The HivConsentForm is designed to document and track HIV test consent and related medical information. This form is intended for patients undergoing HIV testing and for healthcare providers to record test results, medical status, and other relevant details.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Climate Research Data Submission Form - Help Guide
 
 ## Purpose

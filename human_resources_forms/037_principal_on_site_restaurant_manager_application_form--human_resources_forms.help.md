@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals interested in applying for a Principal On-Site Restaurant Manager position. The form collects contact and demographic data, work history, and qualifications relevant to the role. It's possible that the same form can be used for other positions or applications in the same industry. However, we recommend verifying that this form meets your specific use case before using it as-is. If you're looking to use this form for a different purpose, please let us know so we can create a custom form for you.
-</thinking>
-
 # Principal On Site Restaurant Manager Application Form - Help Guide
 ## Purpose
 The Principal On-Site Restaurant Manager Application Form is designed to collect information from potential candidates for a Principal On-Site Restaurant Manager position. This form will help you provide a clear overview of your application, including your contact details, work history, qualifications, and language skills.

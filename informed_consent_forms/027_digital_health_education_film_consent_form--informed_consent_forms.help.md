@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Digital Health Education Film Consent Form - Help Guide
 
 ## Purpose

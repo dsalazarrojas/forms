@@ -1,10 +1,3 @@
-<thinking>
-This form is a critical part of our AI-powered therapy platform's testing process. It's designed to collect informed consent from participants before they begin using the platform. The form will help us ensure that participants understand the scope of the testing process, their rights, and what data will be collected. Please review the form carefully before completing it.
-
-Before proceeding, please note that the form is not meant to be a substitute for any other form you might have filled out in the past for similar purposes. If you've already participated in similar studies or research, you may not need to complete this form again.
-
-</thinking>
-
 # AI Powered Therapy Platform Testing Consent Form - Help Guide
 ## Purpose
 This form is used to collect informed consent from participants before they use the AI-powered therapy platform. It ensures that participants understand the testing process, their rights, and what data will be collected.

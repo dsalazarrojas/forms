@@ -1,5 +1,3 @@
-<thinking>...The Property Information Form is used to collect information about a property's address, location, and other relevant details. To ensure accuracy, please fill out the form carefully. Ensure that you are providing the most up-to-date and correct information about the property. If you are unsure about any field, please double-check the property's records or consult with the property owner or representative. Before filling out the form, review the field explanations below to understand each field's purpose.</thinking>
-
 # Property Information Form - Help Guide
 
 ## Purpose

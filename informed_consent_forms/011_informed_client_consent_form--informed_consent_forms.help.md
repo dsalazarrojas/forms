@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's briefly discuss the form's purpose and relevance. The "informed_client_consent_form" is likely designed to collect information from clients or customers, such as their personal details (first name, last name, date of birth, email, phone number, address, and a contact person's name and number). This form aims to ensure that clients provide accurate and up-to-date information, which will be used for internal purposes. To confirm, this form will not be used for external sharing or publication, and the data collected will only be accessible to authorized personnel. With this in mind, let's proceed to create the help guide.</thinking>
-
 # informed_client_consent_form - Help Guide
 ## Purpose
 The "informed_client_consent_form" is designed to collect personal details from clients or customers for internal purposes. This form ensures that clients provide accurate and up-to-date information, which will be used by authorized personnel.

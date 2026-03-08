@@ -1,7 +1,3 @@
-<thinking>
-This form is for capturing information from passengers about their travel plans and identity. This guide is provided to ensure you complete the form accurately and effectively. Before starting, please ensure you have all the necessary information and that it's up-to-date.
-</thinking>
-
 # Passenger Information Form - Help Guide
 
 ## Purpose

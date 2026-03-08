@@ -1,8 +1,3 @@
-<thinking> 
-The informed consent form is a crucial document that ensures patients are fully aware of the risks, benefits, and alternatives of the treatment they are about to receive. This form is used to ensure that patients are informed and willing participants in the acupuncture treatment process, and to protect both the patient and the healthcare provider. 
-
-This form should only be used for patients undergoing acupuncture treatment. If a patient is already a registered user of this form (e.g., if they have previously signed this form, it should not be re-presented to them.)</thinking>
-
 # Acupuncture Informed Consent Form - Help Guide
 ## Purpose
 This form is designed to inform patients about the risks, benefits, and alternatives associated with acupuncture treatment. It is essential to review this form carefully before signing it.

@@ -1,14 +1,3 @@
-<thinking>
-This form is a tool for managers to provide feedback and review the performance of their employees on an annual basis. The purpose of this form is to assess an employee's strengths and weaknesses, identify areas for improvement, and determine their potential for growth and development. This feedback is essential for employees to understand their performance, set goals, and work towards improving themselves. It also helps managers to make informed decisions about promotions, salary increases, and other personnel-related matters.
-
-Before proceeding, please ensure that this form is relevant to your situation and not a duplication of effort. If you're unsure, please consult with your HR department to confirm the appropriateness of this form for your organization.
-
-This form follows a structured format to collect specific feedback on various aspects of an employee's performance. Each section is designed to gather relevant information that will help you make informed decisions about an employee's growth and development.
-
-Please complete this form carefully, as the feedback you provide will have a significant impact on the employee's career progression and future opportunities.
-
-</thinking>
-
 # Annual Review (Manager Feedback) - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from managers on the performance of their employees on an annual basis. This feedback is essential for employees to understand their strengths and weaknesses, set goals, and work towards improvement.

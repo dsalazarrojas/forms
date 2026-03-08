@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my goal is to craft a clear and concise user-facing help guide that accurately represents the form's purpose, functionality, and fields. This guide should be easily understandable for end users, while also being mindful of the internal reasoning block that explains the form's purpose and checks for duplication and relevance. I'll aim to be concrete and practical in my explanation, avoiding unsupported business logic, and providing one-on-one field explanations for each page/field in the "Field-by-Field Explanation" section.</thinking>
-
 # Customer Information Sheet Form - Help Guide
 
 ## Purpose

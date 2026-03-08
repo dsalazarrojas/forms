@@ -1,9 +1,3 @@
-<thinking> 
-As I interpret the form and its YAML fields, it appears that this "Position Specific Assessment Form" is designed to collect feedback or evaluations on specific positions within an organization. This form is likely used to assess an employee or candidate's performance or fit for a particular role. It's essential to ensure that the form is filled out correctly to gather accurate and relevant information. To confirm, is this form intended to be a subjective evaluation, such as a performance evaluation, or an objective assessment, like a skills evaluation? Is it for internal use or shared with external stakeholders?
-
-Please answer these questions to help me create a comprehensive and accurate help guide.
-
-</thinking> 
 # Position Specific Assessment Form - Help Guide
 ## Purpose
 The Position Specific Assessment Form is designed to collect feedback or evaluations on specific positions within an organization to assess an employee or candidate's performance or fit for a particular role.

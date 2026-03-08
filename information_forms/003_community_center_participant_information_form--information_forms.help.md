@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to collect information from participants who are interested in joining programs or activities at the community center. The form is intended for both first-time and returning participants. It collects personal details, contact information, and preferences to ensure we can tailor our programs to meet their needs. This form is used to create a participant profile and to track their progress in our programs. It's essential to complete this form accurately and truthfully to ensure we can provide the best possible experience.
-
-This form is only for participants who are registering for our programs. If you're a staff member or volunteer, please don't fill out this form.
-
-To complete this form, please follow the instructions below:
-
-1. Fill out the required fields with accurate information.
-2. Choose the correct options for your preferred contact method, program, schedule, and transportation needs.
-3. If you've participated in our programs before, select 'True' for the 'Have You Participated Before' question.
-4. If you have any dietary restrictions or transportation needs, please let us know in the text fields.
-5. Finally, indicate how you heard about our program and any additional comments you'd like to share.
-
-</thinking>
-
 # Community Center Participant Information Form - Help Guide
 ## How To Complete This Form
 

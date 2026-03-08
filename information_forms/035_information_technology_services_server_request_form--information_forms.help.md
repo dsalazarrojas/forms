@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request Information Technology (IT) services for server-related issues or maintenance. This form should only be filled out when a server issue arises or when maintenance is required. Please ensure you have not already submitted a request for this server issue or maintenance before filling out this form. 
-</thinking>
-
 # Information Technology Services Server Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from end-users to request IT services for server-related issues or maintenance. The information provided will be used to determine the best course of action to resolve the issue.

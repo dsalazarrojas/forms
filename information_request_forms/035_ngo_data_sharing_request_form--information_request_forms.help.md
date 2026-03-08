@@ -1,14 +1,3 @@
-<thinking>
-This form is intended for NGOs (Non-Governmental Organizations) to submit requests for data sharing. It captures key information from the NGO, such as the purpose of the data sharing request, the intended usage, and the type of organization. The form also includes fields for policy agreement and contact details. The purpose of this form is to streamline and standardize the process of handling data sharing requests from NGOs. 
-
-Please note that this form is a standard template and may need to be adapted or extended to suit specific needs or requirements of the NGO. It's also essential to review the form fields carefully to ensure you're providing accurate and complete information.
-
-Before filling out this form, please ensure that you haven't already submitted a similar request in the past. You can check previous submissions on the portal or contact the relevant authorities for more information.
-
-Also, be aware that submitting this form doesn't guarantee approval for data sharing. The request will be reviewed and approved according to the applicable policies and procedures.
-
-</thinking>
-
 # NGO Data Sharing Request Form - Help Guide
 
 ## Purpose

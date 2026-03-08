@@ -1,5 +1,3 @@
-<thinking>...The goal of this form is to request employee absences in a structured manner, ensuring that all necessary information is captured for efficient processing and approval. This form is used to notify the team and manager about the absence, allowing them to adjust schedules and plans accordingly. To avoid duplicate requests, please ensure that you are not submitting multiple absence requests for the same period. Please fill out the form accurately and completely, as it will be reviewed by the manager for approval...</thinking>
-
 # Employee Absence Request Form - Help Guide
 ## Purpose
 This form is used to notify the team and manager about an employee's absence from work. It ensures that all necessary information is captured for efficient processing and approval.

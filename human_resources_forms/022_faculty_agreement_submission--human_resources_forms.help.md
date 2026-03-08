@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information related to faculty agreements, which includes details such as contract terms, dates, and statuses. To ensure data accuracy, please verify that all fields are filled out correctly. Additionally, check to see if any information has already been submitted or updated to avoid duplication of efforts. The form is designed to be user-friendly, with clear labels and concise descriptions to guide users through the submission process.
-</thinking>
-
 # Faculty Agreement Submission - Help Guide
 ## Purpose
 The Faculty Agreement Submission form is used to collect information related to faculty agreements, including contract terms, dates, and statuses. This form is designed to help ensure accurate and efficient data entry.

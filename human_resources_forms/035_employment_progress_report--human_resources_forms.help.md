@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to document and track employee performance progress over time. This form is used to store information about individual employees, such as their performance comments, follow-up dates and notes, and next follow-up dates and notes. It is likely used in a HR context to track progress and provide feedback to employees.
 
 Form fields may already be well understood within the organization and not require explicit explanations. Please proceed with creating the help guide based on the provided YAML.

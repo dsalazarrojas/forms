@@ -1,9 +1,3 @@
-<thinking>
-This form was created by an AI to assist in documenting incidents. Its purpose is to gather information from witnesses, police reports, and other relevant details about a vehicle incident. The form is designed to be a general template and might not cover all possible scenarios or requirements.
-Before proceeding, ensure that you have permission to use this form and that it is relevant to your specific situation. If you have already submitted a similar form, please do not duplicate your efforts.
-This guide will walk you through the form's structure and what each section is intended for.
-</thinking>
-
 # incident-statement-form - Help Guide
 ## Purpose
 

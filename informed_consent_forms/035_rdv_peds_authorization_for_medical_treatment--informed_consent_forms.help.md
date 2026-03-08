@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # rdv_peds_authorization_for_medical_treatment - Help Guide
 ## Purpose
 The rdv_peds_authorization_for_medical_treatment form is used to collect information for medical treatment authorization in the context of a patient's medical condition. This form is required to be completed for each patient.

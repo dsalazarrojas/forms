@@ -1,6 +1,3 @@
-<thinking> 
-This form is intended for collecting information about a job application for a male candidate. It's likely used to keep track of job postings and applicant data for HR purposes. Please review the form fields carefully to ensure you're providing all necessary information. Make sure to fill out the form for every job application to maintain consistent and up-to-date data. If you're unsure about a field, you can ask for clarification or skip it for now and add it later.</thinking>
-
 # Job Application Male - Help Guide
 ## Purpose
 The Job Application Male form is used to collect information about job applications for male candidates. This form helps to keep track of job postings and applicant data for HR purposes.

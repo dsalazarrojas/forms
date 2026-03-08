@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather more information from the user in a structured way, allowing the user to provide details and answers to specific questions. The form is likely used in a customer service or support context, where the goal is to understand the user's needs and preferences in order to provide the best possible service or solution. 
-
-To avoid duplication, the form is likely designed to be filled out once the user has already provided some basic information, such as in a previous form or conversation.
-
-The fields in this form are designed to be filled out by the user to provide more information and context to the service or solution being offered. The form is likely used in a variety of contexts, such as customer support, sales, or marketing.
-</thinking>
-
 # Start With More Information - Help Guide
 ## Purpose
 This form is designed to gather more information from the user in a structured way, allowing the user to provide details and answers to specific questions. The form is likely used in a customer service or support context, where the goal is to understand the user's needs and preferences in order to provide the best possible service or solution.

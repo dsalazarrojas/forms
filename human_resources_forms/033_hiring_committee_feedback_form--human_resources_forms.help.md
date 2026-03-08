@@ -1,8 +1,3 @@
-<thinking>
-A hiring committee feedback form is used by hiring managers, team leaders, or other relevant personnel to provide subjective evaluations and comments about candidates. The form typically gathers information about a candidate's background, skills, and performance during an interview or evaluation process. This form helps hiring committees make informed decisions and provide feedback that is useful for both the candidate and the hiring organization. Before proceeding, ensure this form is not duplicating any other form in your organization and that the purpose and content align with your hiring process.
-
-</thinking>
-
 # hiring_committee_feedback_form - Help Guide
 ## Purpose
 The hiring_committee_feedback_form is used to collect feedback from hiring committees about candidates. It helps committees provide subjective evaluations and comments about a candidate's background, skills, and performance during an interview or evaluation process.

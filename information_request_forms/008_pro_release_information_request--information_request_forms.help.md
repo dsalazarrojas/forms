@@ -1,6 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Pro Release Information Request" form, we need to understand its purpose and ensure it doesn't duplicate existing forms. This form appears to be a structured request for information related to a "Pro Release", likely for internal business processes. It may be used in conjunction with other forms for requesting and tracking release information. The form's content aligns with typical information request forms used in business or organizational settings. We'll focus on explaining each field in a concrete, concise, and practical manner.</thinking>
-
 # Pro Release Information Request - Help Guide
 ## Purpose
 

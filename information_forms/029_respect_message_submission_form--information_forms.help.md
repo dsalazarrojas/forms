@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to be used by staff to submit information about a message or a piece of work that they have submitted for approval. It is meant to provide a clear and structured way to communicate the message details and allow the approver to quickly review and evaluate the submission. The form is non-duplicatable, so staff can only submit one message at a time, and it is intended to be used by staff, so there is no need for additional authentication measures, such as email verification or password protection.</thinking>
 
 # Respect Message Submission Form - Help Guide

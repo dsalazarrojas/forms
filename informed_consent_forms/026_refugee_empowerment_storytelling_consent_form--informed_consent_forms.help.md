@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect informed consent from refugees for the use and sharing of their stories, photos, videos, and audio recordings. The form is part of an empowerment program aimed at providing a platform for refugees to share their experiences and stories, and to give them control over their own narratives. It's essential to ensure that the stories and media shared are used and shared according to the individuals' wishes. This form is used to obtain informed consent from the story tellers before their stories are shared. The form is not a part of any specific program or organization, but rather a general template that can be used in various contexts. It is crucial to understand that this form is not affiliated with, endorsed by, or derived from any form platform, and it's released under the Creative Commons BY 4.0 license, allowing for modifications and even commercial use with credit given.
-
-</thinking>
-
 # Refugee Empowerment Storytelling Consent Form - Help Guide
 ## Purpose
 This form is used to obtain informed consent from refugees for the use and sharing of their stories, photos, videos, and audio recordings. It ensures that their stories are shared according to their wishes and gives them control over their own narratives.

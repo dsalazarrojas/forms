@@ -1,7 +1,3 @@
-<thinking>
-The Employee Handbook Acknowledgement Form is used to acknowledge that employees have read and understand the expectations and guidelines outlined in the company handbook. This form is not a comprehensive assessment of employee knowledge, but rather a declaration of intent to comply with the guidelines. It is essential that employees understand the purpose of this form and the implications of signing it. Please ensure that this form is not used as a substitute for a thorough review of the company handbook.
-</thinking>
-
 # Employee Handbook Acknowledgement Form - Help Guide
 ## Purpose
 This form is used to acknowledge that the employee has read and understands the company handbook. It is essential to sign this form to confirm that the employee is aware of their responsibilities and expectations in the workplace.

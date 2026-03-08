@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect demographic information and preferences from participants in a research study focused on sustainable learning features. This form should only be used for research purposes and not for any other reason. Please ensure that you are eligible to participate in the study before filling out this form. Also, be aware that your responses will be stored in a secure manner and will only be used for the purposes of this research study.
-</thinking>
-
 # Sustainable Learning Research Feature Consent Form - Help Guide
 
 ## Purpose

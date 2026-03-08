@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hybrid Job Interview Form - Help Guide
 ## Purpose
 The Hybrid Job Interview Form is designed to collect information from candidates during the interview process. This form aims to gather essential details about the candidate, interview context, and any feedback or comments provided by the interviewer.

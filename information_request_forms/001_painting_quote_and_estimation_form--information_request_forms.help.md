@@ -1,11 +1,3 @@
-<thinking>... (Internal reasoning)
-
-To confirm the context: This form is for Painting and Quote And Estimation Form, a form used for customers to provide details about a painting project, including contact information, project details, and other related information. 
-
-To ensure the form is completed accurately and efficiently, we will guide the user through each field's purpose and requirements.
-
-</thinking>
-
 # Painting, Quote And Estimation Form - Help Guide
 ## Purpose
 This form is designed to gather project details and contact information from customers for painting projects. It is intended to be completed by the customer to provide the necessary information for the painter's quote and estimation.

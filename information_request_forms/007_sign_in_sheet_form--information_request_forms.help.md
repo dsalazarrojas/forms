@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to collect basic information from users, such as their name, contact details, and a note about their visit. It is meant for sign-in purposes, and the information collected will be used for internal record-keeping and follow-up. Before proceeding, please ensure that the form is being completed for a legitimate purpose and that the information provided is accurate. 
-
-</thinking>
 # Sign In Sheet Form - Help Guide
 ## Purpose
 The purpose of this form is to collect basic information from visitors, including their name, contact details, and a note about their visit, for internal record-keeping and follow-up purposes.

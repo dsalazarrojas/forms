@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for users who need to complete a global threat report form. The purpose of this form is to gather information about a potential threat or incident that may impact the organization's security posture. This form should only be completed if the threat or incident has not already been reported or is a recurring incident.
-</thinking>
-
 # crowdstrike_global_threat_report_form - Help Guide
 ## Purpose
 The crowdstrike_global_threat_report_form is a form designed to collect information about global threats or incidents that may impact the organization's security posture. It is intended to be completed by individuals who identify a potential threat or incident and need to report it to the relevant authorities.

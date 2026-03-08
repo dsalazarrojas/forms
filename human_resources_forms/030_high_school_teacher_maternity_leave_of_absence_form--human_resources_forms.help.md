@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture essential details about a high school teacher's request for a maternity leave of absence. The purpose is to provide a systematic way to collect and review information related to the teacher's leave, ensuring a smooth and compliant process. This form should not be duplicated in other contexts, such as other types of leave requests or employee absence forms. It's essential to fill out this form accurately and completely to ensure that all necessary information is captured.
-</thinking>
-
 # High School Teacher Maternity Leave Of Absence Form - Help Guide
 ## Purpose
 This form is designed to gather details about a high school teacher's request for maternity leave of absence. It's crucial to provide accurate and complete information to ensure a smooth and compliant process.

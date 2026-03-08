@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Telehealth Counseling Consent Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Character Sheet Template - Help Guide
 ## Purpose
 This form is designed to help you create a character sheet for your role-playing game character. It collects essential information about your character's identity, attributes, abilities, and other important details. Please fill out this form accurately to help you and others keep track of your character's progress.

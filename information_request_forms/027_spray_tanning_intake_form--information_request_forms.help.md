@@ -1,6 +1,3 @@
-<thinking>
-This form is for customers to provide information for spray tanning procedures. It is meant to be completed by customers in order to ensure that we have all the necessary details for a safe and effective service. Please note that this form is not a medical history form, but it is used to collect some relevant information about medical history and allergies. If you are a medical professional or have any concerns, please do not fill out this form and contact us instead.</thinking>
-
 # Spray Tanning Intake Form - Help Guide
 ## Purpose
 This form is for customers to provide information for spray tanning procedures. It is meant to be completed by customers in order to ensure that we have all the necessary details for a safe and effective service.

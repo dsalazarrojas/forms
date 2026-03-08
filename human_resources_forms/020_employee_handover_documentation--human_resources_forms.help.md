@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be a part of a handover documentation process, typically used in a business setting to document the transfer of responsibilities and tasks from one person to another. It is likely used to ensure a seamless transition of work and minimize disruptions during the handover. The form is designed to collect relevant information about the employee being handed over, including their role, name, and the status of the handover process.
-
-Before filling out this form, please ensure you are familiar with the purpose and process of handover in your organization. If you are unsure about any of the information required, please consult with your team or manager.
-
-</thinking>
-
 # Employee Handover Documentation - Help Guide
 ## Purpose
 This form is used to document the handover of employee responsibilities and tasks from one person to another. It is designed to ensure a smooth transition and minimize disruptions during the handover process.

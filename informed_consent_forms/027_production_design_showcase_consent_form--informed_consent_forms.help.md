@@ -1,9 +1,3 @@
-<thinking>
-This form is likely used for gathering consent from participants in a production design project. It may be used internally within a company or for external collaborations. To determine relevance, one should consider the following questions:
-- Is this form used for a project that involves participant input or participation?
-- Is it a production design project that requires multiple stakeholders to be on board?
-</thinking>
-
 # Production Design Showcase Consent Form - Help Guide
 ## Purpose
 The Production Design Showcase Consent Form is used to gather information and consent from participants in a production design project. This form is essential for ensuring that all project stakeholders are aware of their responsibilities, rights, and obligations throughout the project.

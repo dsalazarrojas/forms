@@ -1,11 +1,3 @@
-<thinking>
-
-An internal note for the designer/technical writer: this form is used to gather information about employee relocations. It's intended to be used by employees who are relocating to a new location for their work. The form should be completed by the relocating employee. 
-
-The form should not be filled out if the employee has already submitted a relocation package. Please check with HR before filling out the form if you're unsure.
-
-</thinking>
-
 # Employee Relocation Package Accommodation Form - Help Guide
 ## Purpose
 This form is designed to help employees gather necessary information about their relocation package. Please fill it out to ensure that all relevant details are covered.

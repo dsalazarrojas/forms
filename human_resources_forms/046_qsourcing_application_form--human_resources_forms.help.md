@@ -1,14 +1,3 @@
-<thinking>
-The form design and writing approach will be focused on creating a clear and concise guide for end-users to understand the purpose and usage of the form. The form is for Qsourcing, a job application and recruitment process. The form's purpose is to gather information from applicants for job openings. The form fields are designed to collect relevant details about the applicant, such as contact information, job details, and job preferences. 
-
-This form will be used by individuals who are interested in applying for various job openings. The form will guide the applicant through a series of fields that will help them submit their application. 
-
-The form has 18 fields in total, with some of them being optional, allowing applicants to provide as much or as little information as they want. The form includes fields for basic contact information, job title, job type, date of birth, job application date, phone number, email, address, resume, job description, job category, job level, job type 2, work experience, job application status, application comments, job status, and job category 2. 
-
-The goal is to provide a clear and concise guide for end-users to understand each field's purpose and how to complete the form efficiently. 
-
-</thinking>
-
 # Qsourcing Application Form - Help Guide
 ## Purpose
 The purpose of this form is to guide individuals through the Qsourcing application process, providing a clear and simple way to submit their job application.

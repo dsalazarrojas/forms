@@ -1,9 +1,3 @@
-<thinking>
-The Boy Scouts Permission Form is a crucial document that ensures the safety and well-being of scouts participating in activities and events. This form is designed to collect essential information from parents or guardians, including contact details, medical history, and emergency contact information. The form helps the troop leader and other organizers to make informed decisions regarding the scout's participation in activities.
-Before filling out this form, please ensure that you have all the necessary information and that the scout's parent or guardian is aware of the activity details. This form is not intended for commercial use; it's for non-profit organization use only.
-Please fill out this form carefully and accurately, as it will be used for the scout's safety and well-being.
-</thinking>
-
 # Boy Scouts Permission Form - Help Guide
 ## Purpose
 The Boy Scouts Permission Form is a mandatory document that requires completion by parents or guardians for their child's participation in scouting activities. This form ensures the scout's safety and well-being during events and trips.

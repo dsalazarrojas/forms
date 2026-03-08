@@ -1,13 +1,3 @@
-<thinking>
-We're creating a form to help users contact a building automation specialist for support and guidance on their automation needs. This form is used to collect information about the user's contact and project details.
-
-The form is divided into two sections: "Contact Information" and "Building Details". The "Contact Information" section collects the user's personal contact details, while the "Building Details" section collects information about the building and project requirements.
-
-The "Building Automation Specialist" will use this information to understand the user's needs and provide guidance on how to achieve their automation goals.
-
-We should check for relevance before sharing this form with users, and ensure that it is not being duplicated or used for other purposes.
-</thinking>
-
 # Contact A Building Automation Specialist - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # General Incident Report Form - Help Guide
 
 ## Purpose

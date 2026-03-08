@@ -1,11 +1,3 @@
-<thinking>
-
-I'll create a user-facing help guide for this form. I'll review the provided YAML fields to understand the form's purpose and functionality.
-
-This guide will help users understand the purpose of the form, how to complete it, and what each field represents. I'll aim to keep it concise, clear, and practical.
-
-</thinking>
-
 # Crowd Control Incident Form - Help Guide
 ## Purpose
 The Crowd Control Incident Form is used to report and document incidents that occur within the crowd or community. This form is used to gather information about the incident, including the event details, type of incident, location, and status. The information collected will help in understanding the incident and taking appropriate actions.

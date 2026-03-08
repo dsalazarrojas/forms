@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals who want to access and work with retail data within the organization. The purpose of this form is to ensure that all users who access retail data understand how it will be used, who has access to it, and what kind of access they have. This form helps in maintaining data governance and security by ensuring that all users are aware of the project start and end dates, data classification, and project status.
-
-By filling out this form, users can also indicate their data access preferences, such as their level of access to retail data, project details, and approval procedures. This information is crucial for maintaining accurate records, ensuring data integrity, and preventing unauthorized access to retail data.
-
-Before proceeding, please make sure you understand the purpose and importance of this form and that the information you provide is accurate and complete.
-
-</thinking>
-
 # Retail Data Governance Registration Form - Help Guide
 ## Purpose
 The Retail Data Governance Registration Form is designed to gather information from users who want to access and work with retail data. This form ensures that all users understand how the data will be used, who has access to it, and what kind of access they have.

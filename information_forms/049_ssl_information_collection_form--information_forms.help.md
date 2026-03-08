@@ -1,7 +1,3 @@
-<thinking>
-This guide will cover the "SSL Information Collection Form" for end-users. This form is used to collect information related to SSL certificates. The form is not intended for users who have no prior knowledge of SSL. Therefore, it is recommended that users familiarize themselves with the basics of SSL before using this form.
-</thinking>
-
 # SSL Information Collection Form - Help Guide
 ## Purpose
 The SSL Information Collection Form is used to gather information related to SSL certificates. This includes the type of SSL, domain, contact information, and other related details.

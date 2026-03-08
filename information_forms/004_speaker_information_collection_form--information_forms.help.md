@@ -1,7 +1,3 @@
-<thinking>
-To ensure that this form is being used correctly and to avoid duplication, it's essential to understand its purpose and how each field should be filled out. This form collects information about speakers for events, including their name, contact details, and event-related information. Please fill out this form carefully and accurately to provide the necessary details for each field.
-</thinking>
-
 # Speaker Information Collection Form - Help Guide
 ## Purpose
 This form is designed to collect information about speakers for various events. Please use this form to input details about the speaker, including their name, email, phone number, address, and other relevant information.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather information from participants regarding their consent and participation in data analytics research studies. The form is part of the research project, and it's essential to ensure that participants understand their roles and responsibilities. This help guide will walk you through each field in the form and explain its purpose, making it easier for participants to complete the form accurately.
-
-This form appears to be a comprehensive consent form that covers various aspects of research participation, including consent, contact information, research purpose, and data analytics participation. Some of the fields are identical or very similar, which could potentially lead to confusion. However, each field seems to be asking for slightly different information, so it's essential to understand each one carefully.
-
-To complete this form, please follow the steps below and review each field carefully.
-
-</thinking>
-
 # data_analytics_research_participation_consent_form - Help Guide
 ## Purpose
 This form is designed to gather information from participants regarding their consent and participation in data analytics research studies.

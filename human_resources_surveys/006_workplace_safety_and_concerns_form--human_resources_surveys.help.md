@@ -1,10 +1,3 @@
-<thinking>
-
-This form is designed to gather information about workplace concerns and safety issues from employees. The main purpose is to ensure that employees feel safe and supported in the workplace and that management is aware of potential risks. This form should only be filled out by employees if they have a genuine concern or safety issue to report. Please do not submit this form as a test or exercise. All submitted responses will be reviewed and addressed accordingly by management.
-
-</thinking>
-
-
 # Workplace Safety And Concerns Form - Help Guide
 ## Purpose
 The Workplace Safety And Concerns Form is designed to help employees report potential safety and concerns issues that require attention from management.

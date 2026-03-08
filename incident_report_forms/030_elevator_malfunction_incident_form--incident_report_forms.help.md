@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a comprehensive user-facing help guide for the "Elevator Malfunction Incident Form" in Markdown format. I'll follow the required structure and provide explanations for each field in the form.</thinking>
-
 # Elevator Malfunction Incident Form - Help Guide
 ## Purpose
 The "Elevator Malfunction Incident Form" is designed to capture information about elevator malfunctions that have occurred. This form helps to document the incident, gather details, and track the necessary steps to ensure that the elevator is restored to operation as soon as possible.

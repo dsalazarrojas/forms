@@ -1,8 +1,3 @@
-<thinking>
-This form is used by employees or administrators to verify vehicle information, such as vehicle type, condition, and color. The form may be used to confirm vehicle details for various purposes like vehicle maintenance, sales, or rental purposes.
-This form does not need to be completed if you have already verified a vehicle's information in the past.
-</thinking>
-
 # Vehicle Verification Form - Help Guide
 ## Purpose
 The Vehicle Verification Form is used to gather and confirm vehicle information from users or administrators. This form is intended to be a straightforward and efficient way to collect vehicle data for various purposes such as vehicle maintenance, sales, or rental purposes.

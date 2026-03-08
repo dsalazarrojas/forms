@@ -1,7 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll help create a user-facing help guide for the "Employee Satisfaction Benchmarking Registration" form. I'll follow the specified requirements and structure to ensure that the guide is clear, concise, and practical for end-users.
-
-</thinking>
-
 # Employee Satisfaction Benchmarking Registration - Help Guide
 ## Purpose
 The purpose of this form is to collect information from employees about their satisfaction levels with their organization. This form is designed to help organizations benchmark their employee satisfaction and identify areas for improvement.

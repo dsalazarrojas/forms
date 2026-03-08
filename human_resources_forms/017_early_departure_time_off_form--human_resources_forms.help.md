@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for HR to manage employee departures. To use this form, you need to be sure that you're not already in the process of requesting time off, as this form is intended for situations where employees are unable to come to work due to emergency situations or personal circumstances. Please verify that you've reviewed the company's time off policy before submitting a request.
-</thinking>
-
 # Early Departure Time Off Form - Help Guide
 ## Purpose
 This guide is to assist you in filling out the Early Departure Time Off Form, which is used to request and manage employee departures.

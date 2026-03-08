@@ -1,5 +1,3 @@
-<thinking>...The "Real Estate ESG Data Consent Form" is an essential tool for obtaining informed consent from individuals or organizations when collecting, storing, or using their real estate Environmental, Social, and Governance (ESG) data. ESG data encompasses a wide range of information related to the environmental, social, and governance practices of real estate companies or developments. This form ensures that the data owner is aware of how their data will be used, stored, and protected. The purpose of this form is to gather explicit consent for the use of the ESG data, which is crucial for maintaining data privacy, security, and compliance with regulations.</thinking>
-
 # Real Estate ESG Data Consent Form - Help Guide
 
 ## Purpose

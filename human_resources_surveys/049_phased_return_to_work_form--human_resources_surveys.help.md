@@ -1,19 +1,3 @@
-<thinking>Phased Return to Work Form is designed to facilitate the planning and coordination of an employee's phased return to work, allowing them to gradually transition back into their work role after an extended period of absence. This form is typically used for employees returning to work after an injury, illness, or family leave. It ensures that the employee, their manager, and team lead are all on the same page regarding the employee's expected return date, notice period, and any restrictions or accommodations that may be necessary for their successful return.
-
-Before filling out this form, please ensure that:
-
-*   You have discussed your return to work plan with your manager and team lead.
-*   You have a clear understanding of your expected return date and any notice period that applies.
-*   You are aware of any restrictions or accommodations that may be necessary for your successful return.
-
-Please note that this form is not intended for employees returning to work immediately. If you are ready to return to work immediately, please select "Immediately (No Notice)" for the return date. If you are unsure, please select a return date within the timeframes provided. 
-
-This form is intended for phased returns, which are typically 1-10 weeks in duration. If you are returning to work for longer or shorter than this timeframe, please select the corresponding option. 
-
-The notice period is the time between your last day off and your expected return date. Please select the notice period that applies to you.
-
-If you have any questions or concerns, please consult your manager or team lead before completing this form.</thinking>
-
 # Phased Return to Work Form - Help Guide
 ## Purpose
 The Phased Return to Work Form is designed to facilitate the planning and coordination of an employee's phased return to work, allowing them to gradually transition back into their work role after an extended period of absence.

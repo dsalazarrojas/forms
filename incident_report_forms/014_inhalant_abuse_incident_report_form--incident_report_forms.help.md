@@ -1,7 +1,3 @@
-<thinking>
-This form is used to report incidents of abuse, which is a serious matter that requires careful consideration and accurate documentation. Before filling out this form, please make sure that you have the necessary information and that you are reporting the incident accurately. Please also note that duplicate reports may not be necessary, so please check if a similar incident has already been reported before submitting this form.
-</thinking>
-
 # Inhalant Abuse Incident Report Form - Help Guide
 ## Purpose
 This form is designed to collect information about incidents of abuse, which can be reported by staff members or other authorized personnel. The goal is to gather accurate and detailed information about the incident, including its nature, location, and any other relevant details.

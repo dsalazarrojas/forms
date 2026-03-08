@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Digital Workforce Enablement Contact Form - Help Guide
 
 ## Purpose

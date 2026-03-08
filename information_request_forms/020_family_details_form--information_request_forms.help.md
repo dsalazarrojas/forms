@@ -1,5 +1,3 @@
-<thinking>Internal note: This form is used to gather information about the family unit, including household members, family type, household size, income, employment status, education level, and other relevant details. It seems to be a comprehensive form that captures various aspects of family dynamics. Before proceeding, please check if this form is relevant to your current project or use case, and ensure that it's not a duplicate of an existing form. Also, review the fields to see if any of them are redundant or can be improved for better usability.</thinking>
-
 # Family Details Form - Help Guide
 ## Purpose
 The Family Details Form is designed to collect information about the family unit, including household members, family type, household size, income, employment status, education level, and other relevant details. This form is intended to help users provide a comprehensive overview of the family's characteristics.

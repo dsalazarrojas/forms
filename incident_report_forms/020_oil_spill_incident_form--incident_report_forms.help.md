@@ -1,14 +1,3 @@
-<thinking>
-The main goal of this form is to collect information about an oil spill incident. It's essential to understand the type of spill, its location, and the responders involved to facilitate effective response and recovery efforts.
-
-The following fields should be filled out as necessary and with accuracy. This form may not be mandatory for all users, but it's crucial to have a clear understanding of the spill's nature and circumstances.
-
-The purpose of this form is not solely for documentation but also for incident tracking and analysis, allowing for better decision-making and resource allocation. Each field has a specific role in this process.
-
-This form is intended to be used in conjunction with other incident reports and response plans to ensure comprehensive information is collected and analyzed.
-
-</thinking>
-
 # Oil Spill Incident Form - Help Guide
 ## Purpose
 The Oil Spill Incident Form is designed to collect information about oil spills. This form helps in tracking and analyzing oil spills to facilitate effective response and recovery efforts.

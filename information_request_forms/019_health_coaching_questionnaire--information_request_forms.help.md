@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who are seeking health coaching services. The purpose of this form is to gather data on the user's health concerns, goals, habits, nutrition, physical activity, and stress levels. 
-
-The form asks for general information about the user's health concerns, goals, habits, nutrition, physical activity, and stress levels. Please fill out this form carefully as it will help us understand your needs and provide more effective coaching.
-
-Please note that this form is a public adaptation of a survey and not affiliated with any specific platform. You are free to use, modify, and even sell forms derived from this one, just give credit. 
-
-If you need more information or have specific questions, please reach out to form@gic.mx.
-
-</thinking>
 # health-coaching-questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information from individuals who are seeking health coaching services. The goal is to gather data on your health concerns, goals, habits, nutrition, physical activity, and stress levels.

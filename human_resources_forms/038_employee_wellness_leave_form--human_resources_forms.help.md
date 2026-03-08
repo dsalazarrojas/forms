@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # employee_wellness_leave_form - Help Guide
 
 ## Purpose

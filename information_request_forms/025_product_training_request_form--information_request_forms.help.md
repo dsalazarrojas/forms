@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information from users who are requesting training for a product. The form is used to gather details about the user, their product, and their training preferences. This form will help us understand the user's needs and provide them with relevant information and support.
-
-Before filling out this form, please ensure that you have the necessary information and approval from your manager or supervisor. If you are requesting training for multiple products, please fill out this form once for each product.
-
-Also, please note that some fields are marked as required, meaning that you must provide information in these fields to complete the form. If you are unsure about a field or its relevance, please ask your supervisor or manager for clarification.
-</thinking>
-
 # product_training_request_form - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the Product Training Request Form.

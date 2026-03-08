@@ -1,21 +1,3 @@
-<thinking>This form is used to collect metadata information for digital content. The purpose of this form is to gather relevant details about the digital content, including its type, author, creation and update dates, license information, and rights holder details. This metadata will help in the proper management and attribution of the digital content.
-
-To ensure the correctness of the metadata, please fill in the form with accurate and relevant information. Note that some fields are optional and can be left blank if not applicable.
-
-The following fields are optional and can be left blank if not applicable:
-
-* `content_url`
-* `description`
-* `tags`
-* `content_owner`
-* `rights_holder_organization`
-* `rights_holder_job_title`
-* `rights_holder_affiliation`
-
-Please fill in the relevant information for the fields that are marked as `required`.
-
-</thinking>
-
 # digital_content_metadata_form - Help Guide
 ## Purpose
 

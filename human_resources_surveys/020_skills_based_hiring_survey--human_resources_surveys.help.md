@@ -1,14 +1,3 @@
-<thinking>
-This form seems to be designed for surveying the opinions and perceptions of human resources professionals or hiring managers regarding skills-based hiring practices in the workplace. The form likely aims to gather data on current adoption rates, perceived challenges, and trends associated with skills-first hiring practices. 
-
-The form has a mix of single and multiple selection fields, which suggests that the survey is looking to capture both categorical data (e.g., company size, job title, location) and more open-ended or opinion-based data (e.g., skills-first hiring practices, challenges, trends). 
-
-To avoid duplication of effort and ensure accurate data collection, it is crucial to ensure that respondents complete the form only once and answer all relevant questions truthfully. If a respondent has already answered a question previously in the survey, they should not be shown the same question again.
-
-Before starting the survey, please ensure that you have read and understand the purpose and instructions provided in this help guide.
-
-</thinking>
-
 # Skills Based Hiring Survey - Help Guide
 ## Purpose
 This guide will walk you through the Skills Based Hiring Survey, which is designed to gather information about skills-first hiring practices and opinions from human resources professionals and hiring managers. This survey is crucial for our organization to understand the current state of skills-based hiring and its adoption in the industry.

@@ -1,5 +1,3 @@
-<thinking>This form is used to gather information about new hires for internal tracking and reporting purposes. It is intended for administrators to quickly and efficiently collect relevant data about new hires, ensuring consistency and accuracy in our records. This form should not be used for external communication or public sharing. Ensure that you only complete this form for new hires who are already within the organization, and do not submit redundant information. If you're unsure about a specific section or field, please reach out to your team leader or HR representative for clarification.</thinking>
-
 # new_hire_information_form - Help Guide
 ## Purpose
 This form is designed to collect essential information about new hires for internal tracking and reporting purposes.

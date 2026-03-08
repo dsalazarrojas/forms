@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the "Baptism Information Form" is completed correctly and accurately captures the necessary information for the baptism process. This form will help us understand the child's and family's background, preferences, and circumstances, making it easier for our staff to provide personalized care and support during the baptism process. Before filling out this form, please ensure that you have all the necessary information and answers to the questions asked. Please note that some fields are required, while others are optional or have specific options to choose from. Please review each field carefully to provide the most accurate and helpful information.
-</thinking>
-
 # Baptism Information Form - Help Guide
 ## Purpose
 The "Baptism Information Form" is a crucial document that helps us understand the child's and family's background, preferences, and circumstances. This information will be used to provide personalized care and support during the baptism process.

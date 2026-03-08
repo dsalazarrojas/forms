@@ -1,10 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly, so let's go over what it's for and how to fill it out.
-The new_buyer_compliance_form is designed to capture essential information about a new buyer for compliance purposes.
-This form should be used when a new buyer is onboarded to ensure that all necessary information is collected and recorded.
-It's essential to fill out this form correctly, so please read on to understand what each field means.
-</thinking>
-
 # new_buyer_compliance_form - Help Guide
 ## Purpose
 The new_buyer_compliance_form is designed to capture essential information about a new buyer for compliance purposes.

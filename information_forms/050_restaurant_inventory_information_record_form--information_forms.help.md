@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help restaurant staff accurately record and update inventory information, including stock take and inventory check. This process ensures that the inventory levels are up-to-date and accurate, which in turn helps with inventory management and ordering. It's essential to complete this form only once for each restaurant, and not to duplicate any existing records.
-</thinking>
-
 # Restaurant Inventory Information Record Form - Help Guide
 ## Purpose
 This form is used to record and update inventory information for a restaurant. It consists of three pages: Stock Take, Inventory Check, and Stock Levels.

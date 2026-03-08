@@ -1,13 +1,3 @@
-<thinking>
-The "Release Of Information Template" form is used for collecting sensitive information about individuals, including their personal details, medical conditions, and insurance providers. This information is often required for various administrative and medical purposes.
-
-To avoid duplicate submissions, the form should only be filled out once.
-
-Please note that the fields marked as "required" should be completed accurately and truthfully. 
-
-Also, ensure you are aware of your organization's data protection policies, such as the HIPAA rules, for sensitive data collection and storage.
-</thinking>
- 
 # Release Of Information Template - Help Guide
 ## Purpose
 The "Release Of Information Template" form is used for collecting sensitive information about individuals, including their personal details, medical conditions, and insurance providers. This form is often used for administrative and medical purposes.

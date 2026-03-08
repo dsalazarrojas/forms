@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to collect new account information, allowing users to provide their personal details and contact data. This form is designed to be completed by individuals who want to create a new account or update their existing one, but it's not necessary for internal users to complete it. To avoid duplication, the form will automatically check for existing accounts with the same email address.
 </thinking>
 

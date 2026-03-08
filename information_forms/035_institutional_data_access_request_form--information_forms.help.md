@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Institutional Data Access Request Form - Help Guide
 ## Purpose
 This form is used to request access to institutional data. You are required to provide your user details, the purpose of the access request, the duration of the access, and any additional notes about your request. You will also be asked to consent to the terms and conditions of data access. You will be assigned a tool to access the data after completing this form.

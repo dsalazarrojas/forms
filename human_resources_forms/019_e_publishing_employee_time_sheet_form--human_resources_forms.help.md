@@ -1,11 +1,3 @@
-<thinking>
-This form is used by employees in the e-publishing team to record their working hours, allowing them to track their time spent on various activities and projects. This form helps in streamlining the time tracking process, enhancing productivity, and facilitating accurate payroll and project management.
-
-The form's purpose is to collect relevant information in a structured format, reducing errors and increasing efficiency. It is crucial to ensure that the form is filled out accurately, as it directly impacts the payroll process and project reporting.
-
-Before filling out this form, please verify that it is relevant to your role and responsibilities. If you're unsure about the form's purpose or have any questions, reach out to the HR team for clarification.
-</thinking>
-
 # e-publishing-employee-time-sheet-form - Help Guide
 ## Purpose
 The e-publishing-employee-time-sheet-form is a tool for employees to record their working hours and activities, ensuring accurate time tracking and enhancing productivity.

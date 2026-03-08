@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from customers or potential customers who want to contact the smart sensor manufacturer to inquire about products, pricing, technical support, partnerships, or custom solutions. The form is intended to be used for internal purposes, such as sales, marketing, and customer support. Before filling out this form, please ensure that you have not already contacted us previously, as this form is not meant for duplicate inquires.
-
-</thinking>
-
 # Contact Smart Sensor Manufacturer - Help Guide
 ## Purpose
 This form is meant to provide a convenient way for customers to reach out to the smart sensor manufacturer with their inquiries, questions, or requests.

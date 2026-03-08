@@ -1,13 +1,3 @@
-<thinking>
-
-This form is a Bank Teller Interview Form designed to collect information about a job candidate. It is intended for HR staff to gather data about the candidate's qualifications, skills, and experience in the banking industry. 
-
-The form should only be used to collect information about candidates for banking positions. 
-
-Please ensure that the form is only used for its intended purpose and do not share the information with any other department or third party without the explicit consent of the candidate and the hiring manager.
-
-</thinking>
-
 # Bank Teller Interview Form - Help Guide
 ## Purpose
 

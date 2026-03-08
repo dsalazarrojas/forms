@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used by employees to request leave of absence for guest service training. The purpose of this form is to ensure that the training schedule is coordinated in advance and does not conflict with other employee training requests. This form should be used when an employee needs to take a leave of absence for guest service training. It is not meant to be used for other types of leaves such as vacation or sick leave.
-</thinking>
-
 # Guest Service Training Leave Of Absence Request - Help Guide
 ## Purpose
 The purpose of this form is to allow employees to request leave of absence for guest service training. It is used to ensure that training schedules are coordinated in advance and do not conflict with other employee training requests.

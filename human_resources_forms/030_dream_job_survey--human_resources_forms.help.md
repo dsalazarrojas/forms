@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the Dream Job Survey is only completed by individuals who are genuinely interested in taking the survey, and not by those who are trying to understand the process or complete it for the sake of completeness. This form is designed to gather information from individuals who are actively seeking a new career path or looking to understand their ideal job prospects. The survey should not be completed by individuals who are not actively searching for a new job or do not have a genuine interest in sharing their preferences. We should also avoid duplication of efforts by ensuring that users do not complete the survey multiple times. We need to make sure that users understand the purpose and importance of the survey, and that they have the necessary information to complete it accurately.
-</thinking>
-
 # Dream Job Survey - Help Guide
 ## Purpose
 The Dream Job Survey is designed to help you discover your ideal career path by asking for your preferences and aspirations. It's essential to complete this survey if you're actively looking for a new job or seeking to enhance your career prospects. Please take a few minutes to answer the questions honestly, and it will help us understand your needs and preferences better.

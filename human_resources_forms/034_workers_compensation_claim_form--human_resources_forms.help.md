@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information related to workers' compensation claims. It's essential to review this form's content carefully and ensure you're using it for its intended purpose to avoid duplication or submission of incorrect information. Please note that this form is designed to gather data for internal use only, and any submission should be accurate and truthful. Before completing this form, ensure you understand the requirements and procedures outlined within. If you're unsure about any part of the form, consult the relevant authorities or seek guidance from a supervisor or HR representative.
-</thinking>
-
 # Workers' Compensation Claim Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>Before diving into the help guide, I'd like to clarify the purpose of this form and ensure that it is relevant to your specific use case. The Smart Infrastructure Testing Consent Form is designed to collect informed consent from participants in testing projects. It's essential to verify that the form is not duplicating any existing processes or forms.</thinking>
-
 # Smart Infrastructure Testing Consent Form - Help Guide
 ## Purpose
 The Smart Infrastructure Testing Consent Form is used to collect informed consent from participants in testing projects. This form helps ensure that participants understand the nature of the testing and agree to participate in it.

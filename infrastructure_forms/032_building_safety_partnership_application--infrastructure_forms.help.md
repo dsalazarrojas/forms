@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Building Safety Partnership Application - Help Guide
 
 ## Purpose

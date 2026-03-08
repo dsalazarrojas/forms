@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from a parent or guardian about their child or student, including their contact preferences, emergency contact details, and academic information. The form will be used to help schools or organizations manage their students' data and provide personalized support. Before starting, please ensure that you have the necessary permissions and that the student's information is accurate and up-to-date. Also, please be aware that this form has been generated using public metadata and may not contain any sensitive or proprietary information.
-</thinking>
-
 # Parent Information Form - Help Guide
 
 ## Purpose

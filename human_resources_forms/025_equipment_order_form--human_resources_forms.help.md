@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be designed for ordering equipment in a business setting. It's meant to collect information about equipment ordered by a user. The form might be used in various contexts, such as in-house equipment ordering, office supplies, or other business-related scenarios. It's possible that this form is intended to be used in conjunction with other forms or systems to track and manage equipment orders. However, I need more context to provide a more specific and accurate purpose.
-
-To ensure the form is not duplicated, it's essential to check if there are existing forms with similar purposes within the organization and ensure that this form doesn't overlap with them.
-
-</thinking>
-
 # Equipment Order Form - Help Guide
 ## Purpose
 The Equipment Order Form is designed to collect information about equipment ordered by users in a business setting. It helps track and manage equipment orders, including the type of equipment, description, order date, delivery date, and status.

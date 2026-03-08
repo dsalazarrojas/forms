@@ -1,17 +1,3 @@
-<thinking>
-**Form Purpose:**
-This form is intended to capture information about an employee's interest in internal coaching, which is a process of ongoing feedback, encouragement, and guidance provided by a designated coach to help employees improve their performance and achieve their career goals.
-
-Before filling out this form, please ensure that:
-
-* You have discussed this opportunity with your supervisor and have a clear understanding of the form's purpose and requirements.
-* You have not already applied for internal coaching through this form, as this may result in duplicate applications.
-* You have identified a clear goal or area of improvement you would like to work on through internal coaching.
-
-If you have any doubts or concerns, please reach out to your HR department or the internal coaching program administrators for assistance.
-
-</thinking>
-
 # Employee Internal Coaching Application Form - Help Guide
 ## Purpose
 This form is designed to capture your interest in internal coaching, a process to help you improve your performance, achieve your career goals, and enhance your growth within the organization.

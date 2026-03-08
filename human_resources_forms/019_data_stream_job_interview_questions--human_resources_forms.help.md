@@ -1,5 +1,3 @@
-<thinking>Internal reasoning: This form is designed to gather information about a candidate's job interview, including their contact details, social media links, and answers to specific questions. The form is organized into sections that cover various aspects of the candidate's background and experiences. Each field is labeled clearly, and the "Field-by-Field Explanation" section will provide detailed explanations for each field to aid users in filling out the form correctly.</thinking>
-
 # Data Stream Job Interview Questions - Help Guide
 ## Purpose
 The Data Stream Job Interview Questions form is designed to collect information about a candidate's job interview, including their contact details, social media links, and answers to specific questions. This form is used to gather relevant data for internal purposes.

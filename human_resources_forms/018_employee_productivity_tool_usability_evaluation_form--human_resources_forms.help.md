@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be an evaluation form designed to assess the usability and productivity of various tools within an organization. It likely serves as a tool for employees or managers to provide feedback on the effectiveness and accessibility of specific tools or software within the Human Resources, Information Technology, and Marketing departments. The form may be used to gather input on various aspects of tool usability, including ease of use, feasibility, and suitability, as well as gather employee ratings and comments. It also seems to collect information on submission status, employee ratings, and other relevant details.
-</thinking>
-
 # Employee Productivity Tool Usability Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback on the usability of various tools within the organization, focusing on aspects such as ease of use, feasibility, and suitability. It helps identify areas for improvement and ensures that tools are meeting the needs of employees.

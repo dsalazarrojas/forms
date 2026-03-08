@@ -1,7 +1,3 @@
-<thinking>
-The form "industrial_communication_setup_request_form" is a setup request form for industrial communication setup. It is used to gather information from users regarding their role in the team, communication preferences, and other relevant details. This form helps to ensure that the communication setup is accurate and efficient. It is likely to be used internally within an organization, possibly by IT or technical teams. The form is likely to be filled out by users who are already familiar with the concept of setup requests. There is no clear indication of any external users or third-party integration.
-</thinking>
-
 # industrial_communication_setup_request_form - Help Guide
 
 ## Purpose

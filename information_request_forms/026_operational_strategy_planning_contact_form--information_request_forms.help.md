@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect contact information from individuals who are interested in or have questions about the Operational Strategy Planning process. This form should only be completed by individuals who have not already filled out this form or are not currently in an existing relationship with the Operational Strategy Planning team.
-</thinking>
-
 # Operational Strategy Planning Contact Form - Help Guide
 ## Purpose
 This form is intended for individuals who are interested in learning more about or requesting information on the Operational Strategy Planning process.

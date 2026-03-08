@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from floor managers when they are leaving their position, ensuring a smooth transition of tasks and responsibilities. This process, known as offboarding, is crucial for maintaining organizational efficiency and reducing disruption to ongoing operations. Before proceeding, confirm that you have already informed your team and stakeholders about your departure and that this form will be completed in conjunction with the offboarding process.
-</thinking>
-
 # Floor Manager Exit Offboarding Form - Help Guide
 ## Purpose
 The Floor Manager Exit Offboarding Form is a tool used to collect information and feedback from floor managers as they exit their position, facilitating a seamless transition of tasks and responsibilities.

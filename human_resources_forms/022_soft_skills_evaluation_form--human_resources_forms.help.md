@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to facilitate the process of evaluating an employee's soft skills in the context of their job performance. The purpose of this form is to provide a systematic way to assess and document an employee's strengths and weaknesses in areas such as communication, teamwork, time management, and leadership.
-
-To complete this form, you will be asked to provide information about the employee's job role and performance, as well as specific skills that are to be evaluated. Please note that this form is not meant to replace regular performance evaluations or performance management processes. It is intended to be a supplementary tool for providing feedback and guidance to employees.
-
-Please make sure to complete this form in a fair and objective manner, taking into account the employee's specific job requirements and performance. This will help to ensure that the evaluation is accurate and helpful for both the employee and the organization.
-
-Before starting, ensure you have all the necessary information and resources at hand, such as access to the employee's performance records and any relevant supporting documents.
-
-</thinking>
-
 # Soft Skills Evaluation Form - Help Guide
 ## Purpose
 The Soft Skills Evaluation Form is designed to assess an employee's skills in areas such as communication, teamwork, time management, and leadership.

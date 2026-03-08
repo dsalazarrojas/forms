@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to obtain informed consent from patients undergoing body sculpting procedures. The form aims to ensure that patients are fully informed about the procedure, its risks, benefits, and expectations, and that they are voluntarily consenting to the treatment. This form should be used in conjunction with other medical documents and protocols to ensure that patients are properly informed and protected.
-
-Before starting the form, it is essential to ensure that the patient understands the purpose and scope of the form, and that the information provided is accurate and up-to-date. To avoid duplication of effort, it is recommended to review the patient's medical history and previous consents before completing this form.
-
-</thinking>
-
 # Body Sculpting Consent Form - Help Guide
 ## Purpose
 The Body Sculpting Consent Form is designed to gather information about a patient's consent and understanding of a body sculpting procedure. This form ensures that patients are fully informed about the procedure, its risks, benefits, and expectations before proceeding with the treatment.

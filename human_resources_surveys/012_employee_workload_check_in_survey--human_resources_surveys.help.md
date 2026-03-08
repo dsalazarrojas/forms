@@ -1,9 +1,3 @@
-<thinking> 
-This form is intended to gauge the workload and wellness of individual team members. The purpose of this form is to collect data on each team member's workload, stress levels, and work hours, with options for team members to report their work status (Yes/No) and number of work hours per week, as well as any days off they may have planned. This form does not collect any personally identifiable information (PII), ensuring the responses are anonymous. Please ensure you fill out this form accurately and truthfully to help team managers and HR gain a better understanding of team member workload and well-being.
-
-The form will not be used for any disciplinary or performance evaluation purposes. All responses will be kept confidential and used solely for the purpose of improving team resource allocation and support.
-</thinking>
-
 # Employee Workload Check In Survey - Help Guide
 ## Purpose
 This form is designed to help team managers and HR assess the workload and well-being of each team member. Your honest responses will help us better understand your current workload and identify areas where we can support you.

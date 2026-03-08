@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect employee nominations for the "Employee Of The Month" recognition program. It's intended to gather information from employees who want to nominate their peers for this distinction. Please fill out this form with the requested information and make sure to follow the instructions below.
-
-The goal of this form is to provide a structured way to nominate colleagues who have demonstrated exceptional performance, teamwork, or dedication. This form is not meant to be used for self-nominations or nominations of oneself.
-
-Before filling out the form, please ensure that:
-* The employee you're nominating is not currently on leave or has a performance issue that might impact their ability to be considered for this recognition.
-* You're not nominating someone who has already been previously recognized as "Employee Of The Month" within the past 6 months.
-* You're providing accurate and honest information in the form.
-
-</thinking>
-
 # Employee Of The Month Nomination Form - Help Guide
 ## Purpose
 

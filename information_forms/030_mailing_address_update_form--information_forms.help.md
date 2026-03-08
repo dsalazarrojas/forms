@@ -1,7 +1,3 @@
-<thinking>
-This form is used to update a mailing address. It is only accessible to authorized users who have the necessary permissions to do so. Please ensure that you have the correct permissions before attempting to update a mailing address. Before submitting the form, check that you are updating the correct address and that you have all necessary information. Duplicate submissions may cause unintended consequences.
-</thinking>
-
 # mailing_address_update_form - Help Guide
 ## Purpose
 This form is used to update a mailing address associated with an account or profile.

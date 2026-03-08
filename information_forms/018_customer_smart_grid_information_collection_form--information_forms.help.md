@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about a customer's experience with smart grid devices. The goal is to gather insights into various aspects of their experience, including their interaction with these devices, energy consumption habits, and communication preferences.
-
-Before filling out this form, please ensure that you have not already submitted similar information. This form is intended for new customers or those who need to update their existing records.
-
-To complete this form, follow the instructions below.
-
-</thinking>
-
 # Customer Smart Grid Information Collection Form - Help Guide
 ## Purpose
 This form is designed to collect information about your experience with smart grid devices. It will help us understand your needs and preferences for our services.

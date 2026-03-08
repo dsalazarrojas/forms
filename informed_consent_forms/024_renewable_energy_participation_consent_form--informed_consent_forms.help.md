@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to obtain the consent of participants in a renewable energy program or initiative. This form is likely used to gather demographic information and consent from individuals or organizations participating in a renewable energy project, such as a solar or wind energy program. The form may be used by project administrators or researchers to collect contact information, consent status, and potentially other relevant details from participants. It is likely intended for use in a research or programmatic setting.
-</thinking>
-
 # Renewable Energy Participation Consent Form - Help Guide
 
 ## Purpose

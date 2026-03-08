@@ -1,7 +1,3 @@
-<thinking>This form is a pre-employment screening consent form. This form is intended to collect information about the applicant for a background check, which will be used for the company to verify the accuracy of the information provided by the applicant. This form is not intended for use in any other context. The form is divided into several sections, including background checks, consent to share information, and employment history. Each section is designed to capture specific information that will be used for the background check. Please fill out this form accurately and completely to ensure that your application is processed efficiently and effectively.
-
-</thinking>
-
 # pre-employment-screening-consent-form - Help Guide
 ## Purpose
 The pre-employment screening consent form is a document that you are required to fill out as part of the hiring process. It is used to gather information about your background, employment history, and other personal details.

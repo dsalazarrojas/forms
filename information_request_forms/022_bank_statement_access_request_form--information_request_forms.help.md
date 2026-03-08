@@ -1,15 +1,3 @@
-<thinking>
-This form appears to be a request for bank statements, likely for tax purposes, loan applications, or other financial matters. The form requires a combination of account holder information, statement period, and delivery preferences. 
-
-The fields are mostly straightforward, but there are a few areas that require more specific guidance. For example, the "Account Type" field might need clarification to ensure the user selects the correct type of account (e.g., checking, savings, business, etc.). Similarly, "Statement Format" and "Delivery Method" might need more information on the available options and implications of each choice (e.g., electronic vs. paper statements, mail vs. email). Additionally, "Reason for Request" and "Detailed Reason" might require more guidance to help users choose the correct reason for their request.
-
-The "Third Party Authorization" field is interesting, as it implies the bank is sending statements to someone else on behalf of the account holder. This might need more clarification on who should be authorized to receive the statements and how to provide their contact information.
-
-The "Notarization Required" field is currently marked as optional, but it might be worth considering making it required for certain types of requests or account types.
-
-The "Additional Instructions" field seems useful but might be better placed at the beginning of the form or after the "Request Date" field.
-</thinking>
-
 # Bank Statement Access Request Form - Help Guide
 ## Purpose
 This form is designed to request access to bank statements for various purposes, such as tax preparation, loan applications, or personal records.

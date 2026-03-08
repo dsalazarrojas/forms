@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect informed consent from individuals who are participating in certain activities or programs offered by the organization. The form is specifically designed to address the risks associated with COVID-19, including transmission, symptoms, and precautions. This form is intended to provide a clear understanding of the risks and liabilities involved. Before proceeding, please note that the form is only to be used for informational purposes and is not a substitute for medical advice. The information collected through this form will be used to determine the signer's level of understanding and agreement with the risks associated with COVID-19. 
-</thinking>
-
 # COVID 19 Liability Waiver - Help Guide
 ## Purpose
 This form is designed to collect informed consent from individuals participating in activities or programs offered by the organization, specifically addressing the risks and liabilities associated with COVID-19.

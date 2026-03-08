@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about a hotel's daily operations, specifically the start and end times of shifts, total hours worked, and descriptions of situations encountered during the shift. The form should be completed by hotel staff to ensure that accurate and comprehensive data is recorded for each shift. This data will be used for performance analysis, incident reporting, and quality control.
-</thinking>
-
 # Hotel Daily Report Form - Help Guide
 ## Purpose
 This form is used to record information about a hotel's daily operations, including the start and end times of shifts, total hours worked, and descriptions of situations encountered during the shift.

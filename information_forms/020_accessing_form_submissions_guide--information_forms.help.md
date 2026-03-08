@@ -1,5 +1,3 @@
-<thinking> This form seems to be a comprehensive guide for accessing form submissions in a secure and organized manner. It appears to collect various metadata and settings related to form submissions, such as submission system, access level, authentication method, and privacy compliance standards. The form also collects information on data retention, access frequency, notification settings, data export formats, and authorized personnel. It seems to be designed for administrators or users with specific roles to ensure that form submissions are accessed and managed properly. I will now output the user-facing help guide in Markdown format.</thinking>
-
 # Accessing Form Submissions Guide - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>Before generating the help guide, I will review the form's purpose and ensure that the form is not being duplicated or irrelevant. Based on the provided YAML, it appears that this form is intended to collect information about an incident report related to elder care neglect. The form seems to be a comprehensive report that covers various aspects of the incident, including details about the report date, facility, resident, neglect description, and incident outcome.</thinking>
-
 # Elder Care Neglect Incident Report - Help Guide
 ## Purpose
 This form is used to report incidents related to elder care neglect. It is essential to complete this form accurately to document the incident's details and ensure proper handling of the situation.

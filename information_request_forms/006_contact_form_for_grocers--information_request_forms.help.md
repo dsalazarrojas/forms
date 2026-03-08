@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect contact information and inquiry details from customers, vendors, or partners of a grocery store. The purpose of this form is to provide a central point of contact for customers or vendors to get in touch with the store staff. By filling out this form, customers or vendors can reach out to the store with any questions, concerns, or inquiries related to their purchases or orders. This form is not meant to handle immediate urgent matters but rather to initiate further communication.
-
-</thinking>
-
 # Contact Form For Grocers - Help Guide
 ## Purpose
 The form is meant to provide a central point of contact for customers, vendors, or partners of the grocery store to inquire about various services or products.

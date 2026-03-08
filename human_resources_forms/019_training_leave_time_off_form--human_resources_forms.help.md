@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for tracking and managing training leave, which is a type of employee leave used for learning and development purposes. The form is likely used for internal use within an organization, possibly for HR or departmental purposes. It may be used to record employee training activities, leave dates, and other relevant details. This form should be completed by the employee or a designated form submitter, and it requires a combination of text, date, and select input types. To confirm, let's break down the form fields to ensure a clear understanding of their purpose and requirements.
-</thinking>
-
 # Training Leave Time Off Form - Help Guide
 
 ## Purpose

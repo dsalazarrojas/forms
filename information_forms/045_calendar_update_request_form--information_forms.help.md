@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Calendar Update Request Form - Help Guide
 
 ## Purpose

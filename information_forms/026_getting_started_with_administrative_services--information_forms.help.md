@@ -1,7 +1,3 @@
-<thinking>
-This form was generated using AI to provide a starting point for administrative services onboarding. The purpose of this form is to collect contact information, select the type of administrative service required, indicate the urgency level of the issue, and record the service comments. This form does not collect sensitive or personally identifiable information and does not store any data after submission. Please fill out this form carefully to ensure accurate and complete information is collected.
-</thinking>
-
 # getting-started-with-administrative-services - Help Guide
 ## Purpose
 This form is designed to guide users through the process of requesting administrative services. It collects contact details, service type, urgency level, and comments for administrative services.

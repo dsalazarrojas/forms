@@ -1,16 +1,3 @@
-<thinking>
-This form is used to collect information for an employee's change of residence travel form. It helps to track employee's move details such as the date of submission, personal details like name, email address, phone number, current and new residence addresses, travel dates, and other essential information. This form is essential for HR or relevant departments to update employee's information in all systems, including contact information, phone number, and email address.
-
-Before filling this form, please ensure you have the necessary information and permissions to fill it accurately.
-
-This form is not intended to collect sensitive or confidential information. All the fields are self-explanatory and easy to fill. Please make sure to double-check your answers for accuracy before submission.
-
-Please make sure you are filling this form for a valid reason and not for any other purposes. This form is not a duplicate or copy of any other form, and it's a unique form for change of residence.
-
-If you're still unsure about any field or have any question, please refer to your supervisor or HR department for further clarification or guidance.
-
-</thinking>
-
 # Change Of Residence Travel Form - Help Guide
 ## Purpose
 

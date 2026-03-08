@@ -1,7 +1,3 @@
-<thinking>
-We've designed this form to gather feedback and input from team members on various aspects of team collaboration, manager feedback, growth opportunities, communication channels, work hours, job satisfaction, and manager performance. This survey is meant to be a regular check-in point for the team to provide insights on how we're doing and areas for improvement. Please ensure that you're completing the survey only once and not duplicating any feedback or responses. Your input is valuable, and we appreciate your honesty and willingness to share your thoughts and opinions.
-</thinking>
-
 # Development And Communication Survey - Help Guide
 ## Purpose
 This survey aims to gather feedback and input from team members on their experiences, opinions, and suggestions related to team collaboration, manager feedback, growth opportunities, communication channels, work hours, job satisfaction, and manager performance.

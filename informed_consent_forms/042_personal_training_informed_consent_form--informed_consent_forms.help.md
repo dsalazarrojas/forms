@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Personal Training Informed Consent Form - Help Guide
 
 ## Purpose

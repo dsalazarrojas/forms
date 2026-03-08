@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to apply for an Employee Productivity Innovation Grant, which is a program designed to support employees in their projects and initiatives that promote innovation and productivity within the organization. The grant provides funding for projects that have a clear expected outcome, a well-defined budget, and a specific project start and end date. The form is used to gather information about the project, including its details, expected outcomes, funding needs, grant amount, applicant information, and project status.
-
-To be eligible for the grant, the project must be active, have a specific project type, and be located within the organization's premises. The grant application form has several fields that need to be filled out to ensure that the project meets the necessary criteria.
-
-</thinking>
-
 # Employee Productivity Innovation Grant Application Form - Help Guide
 ## Purpose
 This form is used to apply for an Employee Productivity Innovation Grant. The grant is designed to support employees in their projects and initiatives that promote innovation and productivity within the organization.

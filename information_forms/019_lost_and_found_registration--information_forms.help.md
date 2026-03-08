@@ -1,7 +1,3 @@
-<thinking>
-This form is used to register a lost item with the organization. This ensures that the item is properly documented and can be reunited with its owner if found. To avoid duplication, this form should only be filled out once for each unique item. If the item has already been registered, please do not fill out this form again.
-</thinking>
-
 # Lost And Found Registration - Help Guide
 ## Purpose
 The Lost And Found Registration form is used to document a lost item so that it can be reunited with its owner if found.

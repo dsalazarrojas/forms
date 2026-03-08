@@ -1,7 +1,3 @@
-<thinking>
-This form is a generic form used to update routes. It's essential to ensure that each route is updated correctly and thoroughly. Before filling out the form, please check with the relevant parties to confirm that the route update does not duplicate previous changes.
-</thinking>
-
 # Route Update Form - Help Guide
 ## Purpose
 This form is designed for updating routes, ensuring that relevant information is up-to-date and accurate.

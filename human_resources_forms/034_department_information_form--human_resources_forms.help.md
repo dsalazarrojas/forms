@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information about departments within an organization. The goal is to collect details about each department, including its name, description, and leadership contact information. The form is likely intended for internal use, such as HR or administrative purposes.
-
-The form's design is inspired by the "human_resources" category and "forms" genre, but the actual content and structure are not copied from any external sources. The form's purpose is to provide a standardized way to collect and store departmental information in a clear and concise manner.
-
-</thinking>
-
 # Department Information Form - Help Guide
 ## Purpose
 

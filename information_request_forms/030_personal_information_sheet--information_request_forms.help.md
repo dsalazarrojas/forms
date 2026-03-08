@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for individuals to provide personal and dependent information in a secure and efficient manner. It is crucial that all required fields are completed accurately and truthfully. 
-Please ensure that the information provided is up-to-date and relevant to the current status of the individual and their dependents. 
-Before proceeding, verify that the form is not a duplicate and that the provided information is not already in the system.
-</thinking>
-
 # personal_information_sheet - Help Guide
 ## Purpose
 The personal information sheet is a document used to collect and store essential information about an individual and their dependents. This form is designed to ensure accuracy and completeness of personal data for various purposes, including insurance claims and administrative tasks.

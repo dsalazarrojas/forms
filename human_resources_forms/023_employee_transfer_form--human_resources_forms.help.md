@@ -1,8 +1,3 @@
-<thinking>
-This form is used to facilitate employee transfers within the organization, allowing managers to track and approve or reject employee transfer requests. 
-The form captures relevant information such as employee name, department, transfer date, reason for transfer, and transfer type. The form also captures manager approval and comments, ensuring that all necessary documentation is collected and stored. The purpose of this form is to streamline the employee transfer process, reducing potential miscommunication and ensuring that all stakeholders are informed. This form should only be completed by authorized personnel, and duplicate entries should be avoided to prevent data inconsistencies.
-</thinking>
-
 # Employee Transfer Form - Help Guide
 ## Purpose
 This form is used to facilitate employee transfers, allowing for the collection of relevant information and ensuring that all stakeholders are informed throughout the process.

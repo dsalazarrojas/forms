@@ -1,7 +1,3 @@
-<thinking>
-We are designing a user-facing help guide for a digital ecosystem strategy contact form. This form is used to collect information from users who need to get in touch with the company or have questions about the digital ecosystem strategy. The form will help us understand their needs and preferences, allowing us to provide more efficient and personalized support. Before proceeding, please ensure that you have not already submitted this form, as this would be a duplication of effort. This form is designed to be filled out once per issue or inquiry, so please make sure you are not submitting multiple forms for the same reason.
-</thinking>
-
 # digital_ecosystem_strategy_contact_form - Help Guide
 ## Purpose
 This form is for users who need to get in touch with us or have questions about our digital ecosystem strategy. We will use the information provided to better understand your needs and preferences, and provide personalized support.

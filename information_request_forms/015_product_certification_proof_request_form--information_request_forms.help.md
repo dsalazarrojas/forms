@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Product Certification Proof Request Form", let's break down the form's purpose and functionality:
-
-The form is designed to collect information from applicants about their product certification proofs. The purpose of the form is to gather details about the product, the applicant, and any supporting documents that may be required for certification. This form is likely used in a business or academic context where proof of product certification is necessary for validation or verification purposes.
-
-It's essential to ensure that the form is used correctly to avoid duplication or misrepresentation of information. This guide will walk through the form's sections and fields to help users understand what to expect and how to complete it accurately.
-
-</thinking>
-
 # Product Certification Proof Request Form - Help Guide
 ## Purpose
 The Product Certification Proof Request Form is a crucial tool for gathering information about product certification proofs. This form helps to collect details about the product, the applicant, and any required supporting documents.

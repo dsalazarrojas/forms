@@ -1,8 +1,3 @@
-<thinking>
-The Dermal Filler Consent Form is a document designed to be used during medical consultations for patients undergoing dermal filler treatments. The form is intended to collect necessary information from the patient, including details about the procedure, type of dermal filler used, treatment area, and post-treatment care instructions. 
-The form will likely be filled out by patients to ensure they understand their treatment, provide informed consent, and provide necessary contact information for follow-up care.
-</thinking>
-
 # Dermal Filler Consent Form - Help Guide
 ## Purpose
 The Dermal Filler Consent Form is designed to document informed consent and relevant patient information for dermal filler procedures. It is intended for patients to provide their consent and understand the treatment they are receiving.

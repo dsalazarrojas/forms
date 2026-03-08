@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Temporary Guardianship Form, I will follow the provided structure and guidelines. The form is likely used to gather information about a person's temporary guardian, which could be a family member, friend, or other individual responsible for their well-being in certain situations. I will aim to keep the explanations concise and practical while ensuring that the required fields are clearly highlighted.
-</thinking>
-
 # Temporary Guardianship Form - Help Guide
 ## Purpose
 The Temporary Guardianship Form is used to collect information about the individual's temporary guardian, which may include a family member, friend, or other individual responsible for their care and well-being.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect user information for searching invoices. It is intended for use by individuals who need to find specific invoices based on certain criteria. To ensure accurate results, users should enter relevant and specific search terms. Duplicating search attempts with the same criteria will not yield different results.
-</thinking>
-
 # Invoice Search Form - Help Guide
 ## Purpose
 The Invoice Search Form is a tool for searching invoices based on specific criteria. It helps users quickly find invoices that match their search terms.

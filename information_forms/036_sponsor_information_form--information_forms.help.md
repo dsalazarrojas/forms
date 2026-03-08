@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about sponsors and their details. It should be used to record sponsorship information for students, events, or activities. The form should only be filled out by authorized personnel. Before filling out this form, please make sure it's necessary and not duplicate any existing record.
-</thinking>
-
 # sponsor_information_form - Help Guide
 ## Purpose
 The sponsor information form is used to collect and store information about sponsors, including their contact details, sponsorship type, and other relevant details.

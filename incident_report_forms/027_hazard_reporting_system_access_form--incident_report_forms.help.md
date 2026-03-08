@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hazard Reporting System Access Form - Help Guide
 
 ## Purpose

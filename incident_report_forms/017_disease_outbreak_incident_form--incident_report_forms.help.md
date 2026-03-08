@@ -1,6 +1,3 @@
-<thinking>
-The Disease Outbreak Incident Form is used to report and document disease outbreaks, including their causes, symptoms, and locations. It helps track and manage outbreaks, providing a standardized way to collect and analyze information on disease cases, case reports, and outbreak types. This form should only be used for genuine reporting purposes and not for duplicate or redundant submissions. Please ensure that the information is accurate and up-to-date before submitting the form.</thinking>
-
 # Disease Outbreak Incident Form - Help Guide
 ## Purpose
 The Disease Outbreak Incident Form is used to report and document disease outbreaks, providing a standardized way to collect and analyze information on disease cases, case reports, and outbreak types.

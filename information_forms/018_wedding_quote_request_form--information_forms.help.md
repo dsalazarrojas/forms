@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure this form is used correctly and efficiently by the end users. To prevent duplication of efforts and miscommunication, let's make sure this form is used only for its intended purpose: requesting quotes for wedding services and vendors. The form will be used by potential customers to provide necessary information about their wedding event, such as first name, wedding date, budget, contact email, phone number, preferred vendor, and services required. This guide will help users understand the form's purpose, complete it correctly, and get the most out of it.
-</thinking>
-
 # Wedding Quote Request Form - Help Guide
 ## Purpose
 The Wedding Quote Request Form is designed to be filled out by potential customers who are interested in requesting quotes for wedding services. This form helps our team understand their needs and provide accurate quotes for their event.

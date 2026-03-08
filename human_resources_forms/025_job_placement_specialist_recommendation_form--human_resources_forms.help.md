@@ -1,5 +1,3 @@
-<thinking>...the purpose of this form is to gather information about a candidate's job placement history and current job status. This form is used by HR teams to quickly and efficiently document job placement recommendations for new hires or internal candidates. When to use this form: when a candidate is applying for a new role within the company, or when an internal candidate is being considered for a promotion. This form should not be used for external job postings or external candidate applications. To avoid duplication, use this form only for candidates who have not been previously documented in the system. Please note that this form is not intended to be a comprehensive job application form, but rather a supplement to the main job application process.</thinking>
-
 # Job Placement Specialist Recommendation Form - Help Guide
 ## Purpose
 The Job Placement Specialist Recommendation Form is used to gather information about a candidate's job placement history and current job status for internal candidate applications or new hires.

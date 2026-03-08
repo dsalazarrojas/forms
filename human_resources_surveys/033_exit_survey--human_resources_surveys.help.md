@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 This form is an Exit Survey, used to gather feedback from departing employees on their reasons for leaving, job satisfaction, and areas of improvement for the company. It should only be filled out by employees who have actually left the company. This form aims to provide valuable insights that can help the company identify areas of concern and implement changes to improve overall employee experience.
 
 ## Exit Survey - Help Guide

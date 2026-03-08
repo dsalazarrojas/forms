@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect social media account information from users, which can be used for various purposes such as account linking, verification, or other business-related activities. The form will likely be used by employees or customers who need to create or manage social media accounts. It's essential to ensure that the form is completed accurately and consistently to avoid duplication of records.
-</thinking>
-
 # Social Media Account Information - Help Guide
 
 ## Purpose

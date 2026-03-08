@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Reference Check For Team Members - Help Guide
 ## Purpose
 This form is used to gather information from references for team members, including their job title, job description, work experience, and performance ratings. This information is used to assess the team member's performance and provide feedback for growth and development.

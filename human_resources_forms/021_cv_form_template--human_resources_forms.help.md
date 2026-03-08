@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to support end-users in completing the CV Form Template. The purpose of this form is to gather information about an individual's current and desired skills, education, and employment history. It's a crucial tool for our team to assess and evaluate candidates for internal job openings. This form should not be used for other purposes or duplicated for external use, as it contains sensitive and potentially competitive information.
-</thinking>
-
 # CV Form Template - Help Guide
 ## Purpose
 The CV Form Template is a tool used to gather relevant information about an individual's skills, experience, and qualifications for internal job openings within our organization.

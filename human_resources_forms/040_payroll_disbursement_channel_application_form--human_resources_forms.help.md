@@ -1,10 +1,3 @@
-<thinking>
-The "Payroll Disbursement Channel Application Form" is a crucial document used to facilitate the process of managing employee payroll disbursements. This form gathers essential details from employees, including their name, bank information, tax status, and emergency contact information. It also captures the frequency and status of payroll disbursements.
-
-Before proceeding, please ensure you haven't already submitted a form with the same information or in process. If you're not sure, please contact the payroll department to verify.
-
-</thinking>
-
 # Payroll Disbursement Channel Application Form - Help Guide
 ## Purpose
 The Payroll Disbursement Channel Application Form is used to capture employee information for payroll disbursements. This form is essential for ensuring accurate and timely disbursement of employee wages.

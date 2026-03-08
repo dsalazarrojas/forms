@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to assess the risks associated with indoor play activities during the COVID-19 pandemic and to obtain waiver of liability agreements from participants. This form is used to collect information about the participant's health status, medical conditions, and emergency contact information. It also serves as a waiver of liability, where the participant acknowledges that they understand and agree to the risks involved in indoor activities. The form is designed to be completed by the participant before engaging in indoor play activities.
-</thinking>
-
 # Covid 19 Indoor Playground Risk Assessment And Liability Waiver Form - Help Guide
 ## Purpose
 This form is used to assess the risks associated with indoor play activities during the COVID-19 pandemic and to obtain waiver of liability agreements from participants.

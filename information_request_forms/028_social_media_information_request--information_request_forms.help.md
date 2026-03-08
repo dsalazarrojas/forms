@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure this form is used to collect social media information correctly, without missing any critical details. We must confirm that the user has provided accurate contact information and a clear request description. This guide is essential to help users fill out the form correctly and avoid any potential mistakes or duplication of effort.
-</thinking>
-
 # Social Media Information Request - Help Guide
 ## Purpose
 The Social Media Information Request form is used to collect information from users for social media purposes. This form helps to gather essential details such as the title, category, description, email, and phone number of the request.

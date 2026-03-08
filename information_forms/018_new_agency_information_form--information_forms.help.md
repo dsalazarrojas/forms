@@ -1,10 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for the "New Agency Information Form", we need to understand its purpose and the type of information it's designed to collect. This form is likely used by agencies seeking to provide information about themselves to potential partners or collaborators. It's essential to ensure that the form is clear, concise, and easy to navigate to minimize errors and maximize the quality of the submitted data.
-
-Before creating the guide, let's review the form's structure and fields to identify any potential issues or areas that require special attention.
-
-</thinking>
-
 # New Agency Information Form - Help Guide
 ## Purpose
 This form is designed to collect information about agencies seeking to provide services or collaborate with our organization. Please fill out this form to help us better understand your agency's details and tailor our support accordingly.

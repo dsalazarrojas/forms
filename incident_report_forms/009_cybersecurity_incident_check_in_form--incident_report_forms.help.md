@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about cybersecurity incidents. This form is designed to be used for checking in on incidents, ensuring that critical information is captured in a standardized way. To use this form, ensure you have already reported the incident to the relevant authorities and have permission to report it in this system. Please note that this form is not intended for duplicate reports, so ensure you only report an incident once using this form.
-</thinking>
-
 # Cybersecurity Incident Check In Form - Help Guide
 ## Purpose
 This form is designed to collect information about cybersecurity incidents, ensuring that critical information is captured in a standardized way.

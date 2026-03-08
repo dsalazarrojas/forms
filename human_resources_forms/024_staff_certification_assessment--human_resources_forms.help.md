@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for staff members to assess their certifications, education, and experience for evaluation purposes. It's crucial that each staff member completes this form accurately and truthfully to ensure fair and accurate evaluation. Please fill out the form completely and honestly to avoid any discrepancies or inaccuracies.
-</thinking>
-
 # Staff Certification Assessment - Help Guide
 ## Purpose
 This form is designed to gather information about staff members' certifications, education, and experience. Please fill out the form with your current status to help with evaluation and assessment purposes.

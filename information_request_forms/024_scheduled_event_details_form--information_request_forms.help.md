@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about scheduled events, which can be used for internal organization and planning. This form ensures that all relevant details about an event are captured correctly, making it easier to manage and follow up on events. To avoid duplication, please only use this form for new event submissions. If you need to update an existing event, contact the relevant team directly.
-</thinking>
-
 # Scheduled Event Details Form - Help Guide
 ## Purpose
 This form is designed to collect information about scheduled events, helping our organization manage and plan events effectively.

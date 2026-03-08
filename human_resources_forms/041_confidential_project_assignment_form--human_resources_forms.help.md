@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to assign an employee to a new project, ensuring that they have a clear understanding of the project's details, confidentiality level, and their specific role and responsibilities. This form is used to capture critical information about the project, including the employee's role, department, and manager's details. It also includes fields for the employee to confirm their acceptance and understanding of the project's confidentiality level and requirements.
-
-Before filling out this form, please ensure that you are not duplicating a project assignment that already exists. If you are unsure, please check with your manager or HR representative to confirm the project's status.
-
-</thinking>
-
 # Confidential Project Assignment Form - Help Guide
 ## Purpose
 The Confidential Project Assignment Form is used to assign an employee to a new project, ensuring that they have a clear understanding of the project's details, confidentiality level, and their specific role and responsibilities.

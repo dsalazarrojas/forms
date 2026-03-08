@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be a comprehensive selection form with multiple select, select multiple, and select one fields. Each field has a unique name, label, and ID. The select fields appear to be used for categorizing or grouping, while the select multiple fields allow users to select multiple options. There's a mix of required and non-required fields. This form seems to be intended for data collection purposes, possibly for surveys or polls.
-</thinking>
-
 # Mentor Selection Form - Help Guide
 ## Purpose
 The Mentor Selection Form is a comprehensive form used for selecting or grouping options. It's designed to collect data for surveys or polls, allowing users to select multiple options or categorize responses.

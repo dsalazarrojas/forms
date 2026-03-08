@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to report incidents of contaminated ingredients in the food industry. It's crucial that employees and management report such incidents promptly to ensure the quality and safety of the products we sell. However, to prevent unnecessary work, please only fill this form if you've encountered a genuine issue with a contaminated ingredient. Duplicate reports are not only unnecessary but also waste time and resources.
-
-This form serves as a centralized hub for reporting and tracking incidents, allowing our team to address and prevent future contamination issues efficiently.
-
-Please ensure you fill the form correctly and thoroughly, providing all required information, so our team can process your report effectively.
-</thinking>
-
 # Ingredient Contaminant Alert Report Form - Help Guide
 ## Purpose
 This form is designed to report incidents of contaminated ingredients to the management team for prompt action and prevention of future contamination issues.

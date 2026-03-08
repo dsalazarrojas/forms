@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from parents or guardians to request records from an elementary school. The purpose of the form is to gather essential details for record management purposes. This form is intended for use by school staff, teachers, or other authorized personnel to manage student records.
-
-Before completing this form, please ensure that you have the necessary permissions from all relevant parties. This form is not intended for use in situations where a student's records are already being managed or maintained.
-
-Please review each field carefully to ensure accuracy and completeness of the information provided.
-</thinking>
-
 # Elementary School Records Request Form - Help Guide
 ## Purpose
 This form is used to collect information for record management purposes from parents or guardians of students attending an elementary school.

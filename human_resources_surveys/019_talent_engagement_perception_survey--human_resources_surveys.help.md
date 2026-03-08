@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather perceptions and feedback from employees and their managers on the employee's talent engagement. This form likely aims to collect information on their experience, sentiment towards their role, and feedback from both the employee and their manager. It is essential to ensure that employees understand the form's purpose, which is to gain insights on their current engagement status. Please review this form to ensure it is correctly filled out and that you have all the necessary information to provide valuable input.
-
-Please note that the provided YAML structure is not exhaustive, and additional fields or sections might be added or modified in the future. However, the current structure should cover the main aspects of talent engagement. If you are unsure about any of the questions, please ask your manager or HR representative for clarification.
-</thinking>
-
 # Talent Engagement Perception Survey - Help Guide
 ## Purpose
 This talent engagement perception survey is designed to gather feedback from employees and their managers on the employee's engagement with their job and the organization. The survey aims to capture both positive and negative sentiments, as well as gather feedback on the employee's role and responsibilities.

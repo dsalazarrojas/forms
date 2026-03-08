@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information about server downtime incidents, helping teams identify and resolve issues in a timely and efficient manner. The form fields are organized to gather details about the incident, such as the date and time it occurred, a brief description, and the affected server. The form also tracks the incident's status, category, and affected team. Additionally, it captures notes from the incident team, the person who resolved it, and any escalation information. This form is meant to be completed by the team that reported the incident and the team that resolved it.</thinking>
-
 # Server Downtime Incident Form - Help Guide
 ## Purpose
 The Server Downtime Incident Form is used to collect and document server downtime incidents. This form helps teams quickly identify and resolve issues, minimizing the impact on users and services.

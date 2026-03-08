@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly to collect the necessary information from clients. Before filling out the form, please note that the purpose of this form is to collect personal styling and fitting information for our clients. This form is not intended for duplicate submissions, so please ensure you only submit this form once and do not make any redundant entries. If you're unsure about any of the fields, please reach out to our team for clarification.
-</thinking>
-
 # Personal Styling And Fitting Information Form - Help Guide
 ## Purpose
 This form is designed to collect personal styling and fitting information from our clients. It will help us better understand their preferences, height, and other details to provide them with the best possible service.

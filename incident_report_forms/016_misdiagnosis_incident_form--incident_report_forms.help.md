@@ -1,13 +1,3 @@
-<thinking>... 
-
-The Misdiagnosis Incident Form is used to report incidents where a patient has been misdiagnosed. This form is designed to collect information about the incident, including the healthcare professional who was responsible, the patient's details, and any contributing factors. 
-
-This form should only be completed if the incident has already been reported and investigated. 
-
-Duplicate reports will not be accepted.
-
-</thinking>
-
 # Misdiagnosis Incident Form - Help Guide
 ## Purpose
 The Misdiagnosis Incident Form is used to report incidents where a patient has been misdiagnosed.

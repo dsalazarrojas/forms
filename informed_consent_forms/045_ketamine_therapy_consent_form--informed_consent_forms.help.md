@@ -1,5 +1,3 @@
-<thinking>**Form Purpose**: This form is designed to gather information from patients about their medical history, allergies, and other relevant health topics before undergoing ketamine therapy. The form aims to ensure that patients understand the risks and benefits associated with the treatment and provide informed consent. The form will be used by medical professionals to assess the patient's suitability for the therapy and ensure their safety during the treatment process. It is essential to complete this form accurately and thoroughly to guarantee a smooth and safe treatment experience. Please review the following help guide for detailed instructions on how to complete this form.</thinking>
-
 # Ketamine Therapy Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from patients about their medical history, allergies, and other relevant health topics before undergoing ketamine therapy. This form is intended to help medical professionals assess the patient's suitability for the therapy and ensure their safety during the treatment process.

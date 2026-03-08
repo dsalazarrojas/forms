@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form purpose is to obtain the user's consent to share their information in the emergency contact directory. This directory is used to store contact details of individuals who may need to be contacted in emergency situations. To ensure that the directory only contains accurate and up-to-date information, users must provide their consent before their information is included. This form guides users through the process of providing this consent and sharing their contact details.
 
 # Emergency Contact Directory Consent Form - Help Guide

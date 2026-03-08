@@ -1,6 +1,3 @@
-<thinking>
-This form is used to collect personal information from farmers, including their farm addresses, contact details, vehicle information, insurance providers, and other relevant data. The form is designed to be completed by farmers who are involved in agricultural activities. It is essential to ensure that the information provided is accurate and up-to-date, as it will be used for various administrative and regulatory purposes. To avoid duplication, please do not submit duplicate or incomplete forms. Ensure that you have all the necessary information before starting to fill out the form.</thinking>
-
 # Farmers Personal Information Form - Help Guide
 ## Purpose
 This form is designed to collect personal information from farmers, including farm addresses, contact details, vehicle information, insurance providers, and other relevant data.

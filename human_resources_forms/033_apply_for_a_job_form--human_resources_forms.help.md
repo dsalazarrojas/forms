@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that this form is being used for its intended purpose and that the user understands what each field is for. This form is used for applicants to apply for a job, and we want to make sure that the user fills it out correctly to avoid any potential issues. To start, let's review the form to see if it's being filled out correctly and if the user is providing the right information. We should also check if the user has already applied for the same job position or if this is their first time applying. This will help prevent duplicate applications and save time for both the applicant and the hiring team. 
-
-</thinking>
-
 # Apply For A Job Form - Help Guide
 
 ## Purpose

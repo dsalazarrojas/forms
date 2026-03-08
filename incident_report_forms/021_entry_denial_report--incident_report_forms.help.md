@@ -1,7 +1,3 @@
-<thinking>
-The form "Entry Denial Report" is designed to collect information about incidents that have been denied or disputed. This form is meant to provide a structured framework for reporting and documenting incidents in a systematic and transparent way. When filling out this form, please ensure that the information provided is accurate and relevant to the incident being reported. Duplicate submissions may be rejected, so please review the form carefully before submitting to avoid unnecessary submissions.
-</thinking>
-
 # Entry Denial Report - Help Guide
 ## Purpose
 The Entry Denial Report form is used to document incidents that have been denied or disputed. This form captures essential details about the incident, including the date, time, reason for denial, evidence, and other relevant information.

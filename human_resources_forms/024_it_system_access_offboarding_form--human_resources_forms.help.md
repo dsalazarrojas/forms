@@ -1,5 +1,3 @@
-<thinking>...To provide seamless access revocation, it is essential to accurately capture information about the employee's offboarding process. This form is designed to collect essential details from the user and manager to ensure a smooth transition when revoking IT system access. The purpose of this form is to prevent unauthorized access and maintain data security by accurately capturing the reasons for deactivating system access. Please ensure to fill out the form accurately and completely.</thinking>
-
 # IT System Access Offboarding Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback and ratings from interviewers regarding the performance of an investment analyst candidate. This form will help assess the candidate's technical and behavioral skills, as well as provide a space for additional comments and recommendations. Before proceeding, please ensure that the form is being used for its intended purpose and that the feedback provided is not redundant or unnecessary.
-</thinking>
-
 # Investment Analyst Interview Form - Help Guide
 ## Purpose
 The Investment Analyst Interview Form is designed to collect feedback and ratings from interviewers on the performance of investment analyst candidates. This form helps assess the candidate's skills, provides space for comments and recommendations, and ensures that all necessary information is collected.

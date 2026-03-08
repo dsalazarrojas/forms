@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Deceased Parent Medical Record Request Form - Help Guide
 
 ## Purpose

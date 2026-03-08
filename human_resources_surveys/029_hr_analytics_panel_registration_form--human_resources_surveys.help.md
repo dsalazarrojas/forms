@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help users register for the HR Analytics Panel, which is a platform for HR professionals to discuss and analyze various topics related to human resources. The purpose of this form is to gather information from users who want to join the panel and participate in discussions. This form ensures that each user's details are collected accurately and efficiently, so they can be added to the panel's database correctly. It's essential to complete this form carefully, ensuring that all required information is provided, and to avoid duplication of efforts by not registering twice or not providing the correct information.
-
-</thinking>
-
 # HR Analytics Panel Registration Form - Help Guide
 ## Purpose
 The HR Analytics Panel Registration Form is a tool designed to gather information from users who want to register for the HR Analytics Panel. This form helps in accurately collecting and storing user details for future reference.

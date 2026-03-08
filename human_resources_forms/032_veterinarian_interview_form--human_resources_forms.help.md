@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to collect information from veterinarians who are applying for a job or seeking to update their employment details. It is designed to capture relevant details about the individual's qualifications, experience, and availability for work. To ensure that the form is filled out correctly, please review each field carefully and only answer questions that apply to your situation.
-
-</thinking>
-
 # Veterinarian Interview Form - Help Guide
 ## Purpose
 The Veterinarian Interview Form is a tool used to gather information from veterinarians applying for a job or updating their employment details.

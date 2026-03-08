@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to collect information about workplace safety violations. Its purpose is to help employees report incidents or near-miss events that occurred while they were on the job. This form is meant to be used by employees to report these incidents in a confidential and non-mistatements basis. It will help the relevant departments to take necessary actions to prevent similar incidents from happening in the future.
-
-Before filling out this form, please take a moment to read the following fields carefully to ensure that you report all relevant information.
-
-The form is designed to be completed in a step-by- step manner, and each field has been carefully crafted to help you provide the necessary information.
-
-To ensure that your report is accurate and complete, please follow the instructions below.
-
-</thinking>
-
 # Workplace Safety Violation Claim Form - Help Guide
 ## Purpose
 The Workplace Safety Violation Claim Form is a tool for employees to report incidents or near-miss events that occurred while on the job. This form helps the relevant departments to take necessary actions to prevent similar incidents from happening in the future.

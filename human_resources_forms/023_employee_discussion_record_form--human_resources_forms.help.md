@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Employee Discussion Record Form", let's first understand the form's purpose and relevance in your organization. This form is likely used for recording and tracking discussions between managers and employees, with the goal of improving employee performance and addressing any issues that may arise. The form's fields should be clear and concise, allowing users to easily provide the necessary information without confusion. We will now create a help guide that explains each field's purpose and requirements.
-
-</thinking>
-
 # Employee Discussion Record Form - Help Guide
 ## Purpose
 The Employee Discussion Record Form is used to document and track discussions between managers and employees. This form helps to improve employee performance, address issues, and provide a clear record of actions taken.

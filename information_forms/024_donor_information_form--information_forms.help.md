@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Donor Information Form - Help Guide
 ## Purpose
 The Donor Information Form is used to collect information from donors about their donations. This form is typically used for tracking and managing donor data.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for collecting and documenting ideas, bugs, features, and enhancements that need to be implemented or tracked. It is designed to be a straightforward and flexible form for submitting and managing ideas. When filling out this form, please ensure that you are submitting a unique idea, and if you need to submit multiple ideas, please do so with new forms. Duplicate or redundant ideas can be confusing and waste time for those reviewing them.
-</thinking>
-
 # Idea Backlog Form - Help Guide
 ## Purpose
 The Idea Backlog Form is used for collecting and documenting ideas, bugs, features, and enhancements that need to be implemented or tracked. 

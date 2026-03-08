@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to assess the performance of an employee, providing a framework for their self-evaluation or review. The form collects personal details and ratings on various performance areas, such as communication, teamwork, and adaptability. The data collected will be used to track progress and identify areas for improvement.
-</thinking>
-
 # Performance Appraisal Assessment Form - Help Guide
 ## Purpose
 The Performance Appraisal Assessment Form is designed to help employees evaluate their own performance, providing a structured approach to self-assessment and review.

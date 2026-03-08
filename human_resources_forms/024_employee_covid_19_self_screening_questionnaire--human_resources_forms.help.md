@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Covid 19 Self Screening Questionnaire - Help Guide
 ## Purpose
 The Employee Covid 19 Self Screening Questionnaire is a form designed to collect essential information from employees about their health and exposure history during the Covid-19 pandemic. This form will help the management monitor the health status of employees, prevent the spread of the virus, and take necessary actions to keep everyone safe.

@@ -1,7 +1,3 @@
-<thinking>
-  This form is used to collect information about a patient's symptoms, medical history, treatment plans, and other relevant details to provide palliative care. It is intended for healthcare professionals to use when assessing a patient's condition and determining the best course of action for their care. Before filling out this form, please ensure that you are not duplicating information that has already been collected or assessed in other forms or conversations. This guide will walk you through the form's purpose and each field's explanation.
-</thinking>
-
 # Palliative Care Form - Help Guide
 ## Purpose
 The Palliative Care Form is used to gather essential information about a patient's condition to inform palliative care decisions.

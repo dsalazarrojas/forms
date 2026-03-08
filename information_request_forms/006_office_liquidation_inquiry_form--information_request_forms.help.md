@@ -1,11 +1,3 @@
-<thinking>
-This form is for submitting an Office Liquidation Inquiry Form, which is used to request information about the liquidation of office assets. Liquidation is a process where assets are removed or disposed of, and this form will help the office administration gather necessary details for this process. This form should only be filled out once for each asset being liquidated. 
-
-Please ensure that this form is filled out correctly, as it is a crucial document in the office liquidation process. If you need to submit multiple assets for liquidation, you must fill out this form multiple times. 
-
-Note to the developer: This form's structure and fields have been designed to ensure that all necessary information is collected and the liquidation process is as efficient and accurate as possible.
-</thinking>
-
 # Office Liquidation Inquiry Form - Help Guide
 ## Purpose
 The Office Liquidation Inquiry Form is used to request information about the liquidation of office assets. This form is to be filled out for each asset being liquidated.

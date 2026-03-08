@@ -1,7 +1,3 @@
-<thinking>...The Substance Discrepancy Report form is used to document a substance mismatch or discrepancy that has been reported in a facility or process. This form is completed by the Incident Reporter and Incident Manager to capture the details of the incident, including the date, location, and description of the substance mismatch. The form also captures the outcome of the investigation, including any recommended actions and additional comments. The form should not be used to document minor issues or routine matters, but rather for significant discrepancies that require attention.
-
-The form is typically used by personnel in a manufacturing or quality control setting to ensure that any substance mishaps are documented and addressed in a timely and transparent manner. The form will help the team members keep track of open and closed incidents to identify potential systemic problems and implement corrective actions.</thinking>
-
 # Substance Discrepancy Report - Help Guide
 ## Purpose
 

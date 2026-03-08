@@ -1,5 +1,3 @@
-<thinking> This form is meant to be used by employees and employers to release workers' compensation records in a secure and efficient manner. It's designed to collect the necessary information for processing workers' compensation records release. Before filling out the form, ensure that you're not duplicating information and that the form is relevant to your needs.</thinking>
-
 # Worker_s Compensation Records Release Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-The form `hr_policy_communication_form` is used for communication between employees and their managers on HR policy matters. It is likely used for submitting requests or notifications related to HR policies, such as asking for time off or requesting a leave of absence. This form is probably used internally within an organization to facilitate communication between employees and their direct supervisors.
-</thinking>
-
 # hr_policy_communication_form - Help Guide
 ## Purpose
 The `hr_policy_communication_form` is used for submitting requests or notifications related to HR policies, such as time off or leave of absence, between employees and their managers.

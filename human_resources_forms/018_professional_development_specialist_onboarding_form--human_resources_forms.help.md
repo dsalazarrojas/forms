@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from new hires about their training needs, job title, manager's information, and other relevant details. It's essential to ensure that all new hires complete this form to facilitate their onboarding process and provide necessary training and support. Please note that this form is not intended to be a comprehensive HR system, and its primary purpose is to assist in the onboarding of new hires.
-</thinking>
-
 # professional_development_specialist_onboarding_form - Help Guide
 ## Purpose
 This form is used to gather essential information about new hires, including their training needs, job title, manager's contact information, and other relevant details. This form is a vital tool for the onboarding process, ensuring that new hires receive the necessary training and support to excel in their roles.

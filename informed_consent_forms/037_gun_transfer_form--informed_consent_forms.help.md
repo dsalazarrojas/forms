@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document the transfer of a gun between two individuals. It is intended for use by law enforcement agencies, gun dealers, or other relevant parties to record the details of a gun transfer. Before proceeding with this form, please ensure that you have the necessary permissions and follow all relevant laws and regulations regarding gun transfers.
-</thinking>
-
 # Gun Transfer Form - Help Guide
 ## Purpose
 The Gun Transfer Form is used to document the transfer of a gun between two individuals. It captures essential information about the gun owner, the recipient, the transfer details, and any consent or waivers required.

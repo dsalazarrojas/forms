@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be completed by project team members to request customized analysis support from the project management team. The purpose of this form is to gather project-specific information to ensure that the correct resources are allocated for the analysis process. Please note that only one instance of this form should be submitted per project. If you are submitting multiple projects, please use separate instances of this form.
-</thinking>
-
 # Request Customized Analysis - Help Guide
 
 ## Purpose

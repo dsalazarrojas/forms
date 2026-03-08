@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for internal use within an organization to capture information from employees who have found unadvertised job opportunities within the company. The purpose of this form is to ensure that unadvertised job openings are properly documented and managed, and that employees can easily apply for these positions. This form will help to reduce the risk of unadvertised job openings being taken by external candidates and will provide an internal audit trail of job applications.
-
-This form should only be completed by internal employees who have found an unadvertised job opportunity within the company. The form should not be used for external job applications.
-
-</thinking>
 # Unadvertised Job Application Form - Help Guide
 ## Purpose
 This form is used for internal job applications for unadvertised positions within the company.

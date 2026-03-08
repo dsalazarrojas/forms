@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from the buyer about their property move-in details. It's essential to complete this form accurately to ensure a smooth and efficient move-in process. Please fill out this form only if you are the buyer or authorized to provide information on their behalf. To avoid duplication, ensure you have not already submitted this form or have been directed by the property manager to do so.
-</thinking>
-
 # Property Move In Information For The Buyer Form - Help Guide
 
 ## Purpose

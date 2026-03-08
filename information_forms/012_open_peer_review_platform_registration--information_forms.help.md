@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed for users to register on the Open Peer Review Platform. This platform is meant to facilitate a transparent and efficient review process for research articles. By registering on this platform, users can participate in peer review as reviewers, authors, or editors. 
-
-Before filling out this form, please ensure you are not already registered on the platform. If you are unsure, you can check your email or search for your name on the platform. 
-
-</thinking>
-
 # Open Peer Review Platform Registration - Help Guide
 ## Purpose
 The Open Peer Review Platform Registration form is designed to allow users to register on the platform, enabling them to participate in peer review as a reviewer, author, or editor.

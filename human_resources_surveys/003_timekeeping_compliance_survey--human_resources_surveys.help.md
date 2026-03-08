@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information on the compliance of various timekeeping processes and policies from employees. It's essential to ensure that employees understand the importance of accurate timekeeping and provide feedback on their experiences. This survey aims to identify areas of concern and opportunities for improvement in timekeeping processes and policies within the organization.
-To avoid duplication, please fill out this survey only once. If you have already completed this survey, please do not submit this form again.
-</thinking>
-
 # Timekeeping Compliance Survey - Help Guide
 ## Purpose
 The Timekeeping Compliance Survey is designed to gather information on the compliance of timekeeping processes and policies within the organization. This survey will help identify areas of concern and opportunities for improvement in timekeeping processes and policies.

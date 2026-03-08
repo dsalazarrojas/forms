@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from employees regarding their requests for Management of Union (MOU) purposes. The form is meant to gather essential details about the employee's preferences and work situation to facilitate efficient communication and resource allocation for the union. To ensure the form is completed accurately, please review the following guidelines:
-
-*   Each field should be filled in according to the specific requirements and options provided.
-*   The form is meant for single use, so each submission should be a new request.
-*   If you're unsure about any field or requirement, please ask your HR representative for clarification.
-
-</thinking>
-
 # mou_request - Help Guide
 ## Purpose
 The mou_request form is a crucial tool for the union to gather information about employees and their work preferences for Management of Union (MOU) purposes. It helps the union understand employees' needs and make informed decisions to improve work conditions and employee satisfaction.

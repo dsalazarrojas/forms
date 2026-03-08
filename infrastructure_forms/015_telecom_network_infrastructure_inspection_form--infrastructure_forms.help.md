@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for inspecting telecom network infrastructure, such as cell towers, distribution points, and switches. It's meant to gather information about the condition, location, and maintenance history of these infrastructure points. The form asks for details about the inspection, including the date and time, inspector's notes, and any issues found. This form is likely used by telecom operations teams to monitor and maintain their infrastructure.
-</thinking>
-
 # Telecom Network Infrastructure Inspection Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about the inspection of telecom network infrastructure, such as cell towers, distribution points, and switches. This information will help the telecom operations team to monitor and maintain their infrastructure.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for employees and managers to provide feedback and insights on the performance evaluation strategy for team members. Its purpose is to facilitate open communication and encourage constructive dialogue between employees and their supervisors. The form should not be submitted multiple times for the same performance review, as it would create unnecessary repetition and confusion. Before proceeding, ensure you have the necessary permissions and authorization to complete this form.
-</thinking>
-
 # Performance Evaluation Strategy Contact Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users report disruptions to mail services, such as delays or outages. It is meant to provide relevant information about the disruption, including the location where it occurred, the date and time it started, the service affected, and any other relevant details. The purpose of this form is to aid in the swift reporting and resolution of mail service disruptions. To ensure that the correct information is collected, please use this form only to report actual disruptions. Do not use this form for testing or other purposes that may cause unnecessary disruption reports. If you've already reported a disruption using this form, please do not resubmit unless it's a follow-up report.
-</thinking>
-
 # Mail Service Disruption Report Form - Help Guide
 
 ## Purpose

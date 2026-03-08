@@ -1,19 +1,3 @@
-<thinking>
-This form is for collecting contact information from the user for Regional Operations Office purposes. The fields include:
-- User Name: A field for the user to input their name for communication purposes.
-- Location: A field for the user to input their location or region.
-- Message: A field for the user to write a message or provide details for the Regional Operations Office.
-- Region: A field for the user to select their region.
-- Office Location: A field for the user to select their office location.
-- Contact Method: A field for the user to select their preferred contact method (email, phone, or mail).
-- Contact Method 2: A duplicate field for the user to select an alternative contact method.
-- Email: A field for the user to input their email address.
-- Phone: A field for the user to input their phone number.
-- Note: A field for the user to add any additional notes or comments.
-- Submitted By: A field for the user to input their name or initials for internal tracking purposes.
-- Date Submitted: A field to record the date and time the form was submitted.
-</thinking>
-
 # Regional Operations Office Contact Form - Help Guide
 
 ## Purpose

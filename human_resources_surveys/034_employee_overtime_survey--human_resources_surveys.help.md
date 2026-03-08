@@ -1,15 +1,3 @@
-<thinking>
-This guide will walk through the process of filling out the Employee Overtime Survey form. Please make sure you are filling this form accurately, and only fill it out if you are certain you need to report overtime.
-
-This form is used to report overtime work performed by employees, which will help management track overtime pay and related information. If you need to report overtime, please answer all required fields.
-
-If you don't need to report overtime, please do not submit this form.
-
-Please make sure to fill this form out thoroughly and accurately. Incomplete or false information may result in delays or errors in the overtime pay process.
-
-Please note that some fields are not required. You can leave those fields blank if the information is not applicable or not necessary to report.
-</thinking>
-
 # Employee Overtime Survey - Help Guide
 
 ## Purpose

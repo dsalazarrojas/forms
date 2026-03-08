@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to report incidents related to security breaches within an organization. It is intended to be used by employees, security teams, or management to document and track incidents, ensuring that all relevant information is collected and stored in a centralized location. This form is not a substitute for any formal reporting procedures or protocols that may exist within an organization.
-</thinking>
-
 # security_breach_incident_form - Help Guide
 ## Purpose
 

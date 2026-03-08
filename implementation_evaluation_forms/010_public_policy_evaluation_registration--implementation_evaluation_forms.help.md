@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about public policy evaluations. The form is designed to be a general registration for public policy evaluations, and it will likely be used by various stakeholders, including program managers, evaluators, and administrators. To avoid duplication of effort, this form should only be filled out by people who are directly involved in the evaluation of a public policy.
-</thinking>
-
 # Public Policy Evaluation Registration - Help Guide
 ## Purpose
 This form is used to register a public policy evaluation. It is intended to collect information about the policy being evaluated, including its title, start date, location, evaluation type, duration, and evaluation frequency.

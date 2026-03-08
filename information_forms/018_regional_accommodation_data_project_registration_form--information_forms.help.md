@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about regional accommodation data projects. It is intended for project team members to register their projects, providing essential details such as contact information and project name. The form ensures that all required fields are properly filled out and that the participant has consented to participate in the project. It is also designed to collect information about the project's name, which is crucial for tracking and organization.
-</thinking>
-
 # Regional Accommodation Data Project Registration Form - Help Guide
 ## Purpose
 This form is used to register and gather information about regional accommodation data projects. It is a crucial step in the project management process, ensuring that all necessary details are collected and recorded correctly.

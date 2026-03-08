@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We can create a user-facing help guide for the "Student Query Form" form by analyzing the provided YAML fields. The form is likely used by students to inquire about general questions, request information, or express concerns related to their academic or extracurricular activities.
 
 ## Student Query Form - Help Guide

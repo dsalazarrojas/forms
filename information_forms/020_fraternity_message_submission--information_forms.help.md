@@ -1,8 +1,3 @@
-<thinking>
-This form is for submitting messages to a fraternity, providing a platform for individuals to share their thoughts, suggestions, or concerns with the fraternity administration. The submission form is designed to gather information from members, allowing them to express their thoughts and opinions on various aspects of the fraternity experience.
-To avoid duplication of effort, please do not submit multiple messages on the same issue. Ensure that you have not previously submitted a similar message before submitting a new one.
-</thinking>
-
 # Fraternity Message Submission - Help Guide
 ## Purpose
 

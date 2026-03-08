@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect informed consent from patients and surgeons before a surgical procedure. The form gathers information about the patient's medical history, allergies, medications, and anesthesia details. It also includes fields for the surgical team and patient consent, as well as options for anesthesia type and patient age. This form is intended for use in medical settings, such as hospitals or clinics, to ensure that patients and surgeons are in agreement with the surgical procedure.
-
-Before starting, ensure that you have not already completed this form for the same procedure. If you have any concerns or questions, please contact the form creators at form@gic.mx.
-</thinking>
-
 # Surgery Clearance Form - Help Guide
 ## Purpose
 The purpose of this form is to obtain informed consent from patients and surgeons before a surgical procedure.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to request access to their loyalty data. It's essential to fill out this form accurately to ensure that the data access request is processed correctly and that the customer's data is handled appropriately. To fill out this form, please ensure that you've read through the entire form carefully and that you've answered all the required fields, if any. Before submitting the form, review the fields below to make sure you've provided the necessary information.
-</thinking>
-
 # customer_loyalty_data_access_request_form - Help Guide
 ## Purpose
 The purpose of this form is to enable customers to request access to their loyalty data. This form allows customers to provide the necessary information to facilitate the data access request process.

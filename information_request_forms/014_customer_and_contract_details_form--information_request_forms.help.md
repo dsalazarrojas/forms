@@ -1,7 +1,3 @@
-<thinking>
-This form is for gathering information about a customer and their contract details for our internal records. Before filling out this form, please note that we will not respond to any form submissions if the customer's contact information is incomplete or invalid. This form is intended for customers who have already been in contact with our team and have a pre-existing relationship. Please ensure that you have received a valid request from our team before proceeding. 
-</thinking>
-
 # Customer And Contract Details Form - Help Guide
 ## Purpose
 This form is designed to collect relevant details about a customer and their contract. It will help us update our records with accurate and up-to-date information.

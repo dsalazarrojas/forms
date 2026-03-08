@@ -1,12 +1,3 @@
-<thinking> 
-This form is used by factory personnel to report and document incidents related to cybersecurity threats or issues that have occurred within the factory. The purpose of this form is to gather information about the incident in a structured manner, ensuring that relevant details are collected for further analysis and action.
-
-The form is designed to be completed by the incident reporter, who is responsible for providing accurate and detailed information about the incident. The form is divided into multiple sections, each covering a specific aspect of the incident.
-
-Before filling out this form, please ensure that you are reporting a genuine incident and that it is not a duplicate report. If you are unsure or have any questions, please contact your supervisor or a member of the cybersecurity team.
-
-</thinking>
-
 # Factory Cybersecurity Contact Form - Help Guide
 ## Purpose
 The Factory Cybersecurity Contact Form is designed to collect information about incidents related to cybersecurity threats or issues that have occurred within the factory.

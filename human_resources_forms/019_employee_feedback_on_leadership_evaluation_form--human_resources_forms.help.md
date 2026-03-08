@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Feedback On Leadership Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from employees on their leader's effectiveness in leading the team, their communication skills, and other relevant aspects. Please take a few minutes to complete this form to provide valuable insights on your leader's performance.

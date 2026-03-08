@@ -1,10 +1,3 @@
-<thinking>
-The form purpose is to collect information about implementation training sessions, specifically the details of a session, the number of participants, and the outcomes of the session in terms of participant engagement and feedback. This form is used to track and evaluate the effectiveness of training sessions, ensuring that they are well-planned and executed.
-
-To avoid duplication, the form should only be filled out for new sessions, not for recurring or ongoing sessions. Additionally, the person filling out the form should be the person responsible for the session, or someone with access to the necessary information.
-
-</thinking>
-
 # implementation_training_session_record - Help Guide
 ## Purpose
 This form is used to record and evaluate the details of an implementation training session, including the number of participants, session date and time, location, and various outcomes.

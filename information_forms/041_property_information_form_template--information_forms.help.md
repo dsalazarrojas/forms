@@ -1,9 +1,3 @@
-<thinking>...The property information form template is designed to collect property-related data from users. This form is intended for real estate agents, property managers, or other stakeholders involved in property transactions. To ensure accuracy, please ensure you're using this form in the context of property-related activities, such as listing a property for sale or lease.
-
-To confirm that this form is suitable for your needs, check that it doesn't exist within your organization already (e.g., as a duplicate form). If it does exist, consider merging the content or creating a new template instead.
-
-</thinking>
-
 # property_information_form_template - Help Guide
 ## Purpose
 The property information form template is designed to collect property-related data from users. This form is intended for real estate agents, property managers, or other stakeholders involved in property transactions.

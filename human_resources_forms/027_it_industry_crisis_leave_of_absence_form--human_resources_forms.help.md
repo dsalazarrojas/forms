@@ -1,5 +1,3 @@
-<thinking>This form is designed to capture critical information related to employee leave of absence in the IT industry. The form is used for employees and managers to request, approve, or report on leave of absence periods. This form should not be used for regular or vacation leave requests. When filling out this form, please ensure that all required fields are completed accurately and honestly. If you are unsure about any field, you can refer to the field-by-field explanation provided below.</thinking>
-
 # IT Industry Crisis Leave Of Absence Form - Help Guide
 ## Purpose
 The purpose of this form is to facilitate the process of requesting and managing leave of absence in the IT industry. It's essential to fill this form correctly to ensure that leave requests are processed promptly and accurately.

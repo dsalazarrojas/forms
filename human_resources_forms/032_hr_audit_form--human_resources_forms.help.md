@@ -1,8 +1,3 @@
-<thinking> 
-This form is used to collect HR-related data from employees, including their personal information, job details, performance, benefits, and termination status. It is crucial that each field is filled in accurately to ensure that the HR audit is comprehensive and effective. Before filling out this form, please ensure that you have all the necessary information and have reviewed the fields carefully.
-
-</thinking>
-
 # HR Audit Form - Help Guide
 ## Purpose
 The HR Audit Form is used to collect and document key information about employees, including their personal details, job information, performance, benefits, and termination status. This form helps HR managers and administrators to perform audits and make informed decisions.

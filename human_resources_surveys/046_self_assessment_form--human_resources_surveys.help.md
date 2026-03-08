@@ -1,5 +1,3 @@
-<thinking>Is this form meant to be a survey or a series of questions with multiple pages? Are these options meant to be selected one by one? If the form has a specific purpose, what is it?</thinking>
-
 # Self Assessment Form - Help Guide
 ## Purpose
 The Self Assessment Form is a series of questions with multiple pages, designed to gather information from users on various aspects of their self-assessment. Each page presents a set of options, and users select one option per page. The form is not intended to be a survey, as it does not gather statistical data, but rather, a self-assessment of the user's thoughts and feelings.

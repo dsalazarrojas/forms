@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Documentary Footage License Request Form - Help Guide
 ## Purpose
 This form is used to request a license for documentary footage from an archive. The purpose of this form is to gather information about the intended usage of the footage, distribution channels, license duration, and other relevant details from the requestor. This form helps the archive team to understand the request and provide the necessary guidance and approval for the license.

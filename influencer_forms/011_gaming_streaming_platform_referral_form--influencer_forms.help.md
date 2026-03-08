@@ -1,9 +1,3 @@
-<thinking>
-This form is used to gather information about gaming streaming platform referrals. It's designed to collect details about game streams, creators, and their associated accounts. This form will help our team track and manage referrals from various sources and platforms.
-Please ensure you're not submitting duplicate referrals for the same game or creator.
-The fields below are used to gather relevant information and should be filled accordingly.
-</thinking>
-
 # Gaming Streaming Platform Referral Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about gaming streaming platform referrals. This includes details about games, creators, and their associated accounts on various platforms. By filling out this form, you'll be helping our team keep track and manage referrals effectively.

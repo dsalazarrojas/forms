@@ -1,13 +1,3 @@
-<thinking>
-This form is used for the review and evaluation of goals and objectives within an organization. The "jcg_step_one_review_goal_builder" form is designed to collect information about the status, description, and other relevant details of a goal or objective. The purpose of this form is to provide a structured and organized way to review and evaluate goals and objectives, ensuring that all necessary information is captured and easily accessible for reference.
-
-This form is likely used in a business or organizational setting, where goals and objectives are reviewed and evaluated regularly. It may be used by HR personnel, managers, or team leaders to assess the progress and status of goals and objectives, and to provide feedback and guidance to individuals or teams.
-
-It's worth noting that some fields are optional, while others are required. For example, the "Review Goal" field is not required, but the "Category" field is required as it is a crucial piece of information for the goal's classification and categorization.
-
-The form is designed to be completed by a single user, and the "Review Comments" field suggests that the form may be used for providing feedback or comments on the goal or objective being reviewed.
-</thinking>
-
 # jcg_step_one_review_goal_builder - Help Guide
 ## Purpose
 

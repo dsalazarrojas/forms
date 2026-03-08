@@ -1,8 +1,3 @@
-<thinking>
-This help guide will cover the Concert Information Form, a crucial tool for organizing and coordinating concert events. The form is designed to collect essential information about concerts and events, ensuring that all necessary details are captured accurately and efficiently. Before proceeding, please ensure that you have read and understand the purpose of this form to avoid duplication of efforts.
-
-</thinking>
-
 # Concert Information Form - Help Guide
 ## Purpose
 The Concert Information Form is a comprehensive tool used to gather information about concerts and events. It helps ensure that all required details are collected accurately, facilitating smooth event planning, coordination, and execution.

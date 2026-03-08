@@ -1,9 +1,3 @@
-<thinking> 
-This form is used to request a license renewal for an employee. The purpose of this form is to gather necessary information to process a license renewal request. It is recommended to complete this form only once the employee has been informed of the need for a license renewal. 
-Please ensure that this form is not submitted if the employee has not been informed of the need for a license renewal. 
-Ensure that the form is not resubmitted with different information if a previous submission has already been made for the same employee.
-</thinking>
-
 # License Renewal Time Off Form - Help Guide
 ## Purpose
 The License Renewal Time Off Form is used to request a license renewal for an employee. It is intended to collect relevant information to process the license renewal request.

@@ -1,12 +1,3 @@
-<thinking>
-
-To ensure that the "Intern Survey" form is completed correctly and accurately, please note the following:
-
-*   The purpose of this form is to gather feedback and ratings from interns about their experiences and the program they participated in. This feedback is essential for improving the program and making it more beneficial for future interns.
-*   Before completing this form, please make sure that you have not already submitted your feedback on this form. This will help prevent duplicate submissions and ensure that your feedback is not lost.
-
-</thinking>
-
 # Intern Survey - Help Guide
 ## Purpose
 The Intern Survey is a form designed to gather feedback and ratings from interns about their experiences and the program they participated in. This feedback is essential for improving the program and making it more beneficial for future interns.

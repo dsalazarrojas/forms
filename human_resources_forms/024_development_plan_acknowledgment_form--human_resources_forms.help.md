@@ -1,7 +1,3 @@
-<thinking>
-This form is used to track the acknowledgment of employees and managers regarding development plans within an organization. It's designed to ensure that all parties involved in the development process are aware of and agree to the plan. The form is used for internal purposes only and is not intended for external sharing or publication. By completing this form, employees and managers can confirm their understanding and agreement to the development plan, which helps to establish a clear and transparent process for project implementation.
-</thinking>
-
 # Development Plan Acknowledgment Form - Help Guide
 
 ## Purpose

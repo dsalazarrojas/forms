@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for school registration, likely for students or schools to provide information for student registration, enrollment, or other administrative purposes. It includes various fields for personal and contact information, emergency contact details, and school-specific data such as grade levels, programs, and start dates. Some fields may have a high degree of overlap or redundancy, which could potentially cause confusion for end-users. 
-</thinking>
-
 # School Registration Information Form - Help Guide
 
 ## Purpose

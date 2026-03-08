@@ -1,7 +1,3 @@
-<thinking>
-The library computer error incident report form is designed to document technical issues that have occurred on library computers. This form should only be used to report new incidents, not to update or close existing ones. Please ensure that you have already submitted a report for this incident before filling out this form.
-</thinking>
-
 # Library Computer Error Incident Report - Help Guide
 ## Purpose
 This form is designed to report technical issues that have occurred on library computers. Please fill out this form to report new incidents and provide essential details about the issue.

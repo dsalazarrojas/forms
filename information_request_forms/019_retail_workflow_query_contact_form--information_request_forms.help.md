@@ -1,7 +1,3 @@
-<thinking>
-This form is for customers to submit a query related to their retail experience. It is recommended to fill out the form completely, however, if you're unsure about any field, it's perfectly fine to leave it out. Please do not reuse this form for multiple queries, as each submission will be responded to individually.
-</thinking>
-
 # retail_workflow_query_contact_form - Help Guide
 ## Purpose
 This form is for customers to submit a query related to their retail experience. It can be used to report issues, ask questions, or seek assistance from the retail team.

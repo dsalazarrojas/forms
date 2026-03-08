@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is what I have:
 
 # Fashion Brand Customer Information Form - Help Guide

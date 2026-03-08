@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect information from church staff members to assess their health status in relation to COVID-19. It is essential to fill out this form accurately and truthfully to ensure the health and safety of yourself and others.
-
-**Please note that this form is not intended for external submission. This form is internal to your organization and should only be filled out by authorized church staff members.**
-
-Before filling out this form, ensure that you have not already completed it. If you have any doubts or concerns, please reach out to your supervisor or HR representative for guidance.
-</thinking>
-
 # Coronavirus Self Declaration Form For Church Staff - Help Guide
 ## Purpose
 This form is designed to gather information from church staff members about their health status in relation to COVID-19. It is essential to fill out this form accurately and truthfully to ensure the health and safety of yourself and others.

@@ -1,6 +1,3 @@
-<thinking>
-To avoid duplication of effort and to ensure accurate data collection, the Employee Assistance Program Registration Form is designed to gather crucial information about employees. This form is intended to help the Employee Assistance Program team to better understand employees' needs and provide the necessary support. Please review the fields below to ensure you complete the form accurately.</thinking>
-
 # Employee Assistance Program Registration Form - Help Guide
 ## Purpose
 The Employee Assistance Program Registration Form is a crucial tool for the Employee Assistance Program team to understand employee needs and provide relevant support.

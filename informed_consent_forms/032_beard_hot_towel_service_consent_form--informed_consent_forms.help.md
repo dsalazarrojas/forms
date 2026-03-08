@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to be used by clients to give their consent for the Beard Hot Towel Service, a specific type of service that requires their personal details and medical history to ensure proper care. 
-This form will help gather information on their name, contact details, medical history, and other relevant information required for the service. 
-The form has been designed to minimize duplication of effort in terms of gathering information from clients.
-</thinking>
-
 # Beard Hot Towel Service Consent Form - Help Guide
 ## Purpose
 This form is used to gather information from clients for the Beard Hot Towel Service. It includes their personal details, medical history, and other relevant information required for the service.

@@ -1,16 +1,3 @@
-<thinking>
-This form appears to be related to payroll changes within an organization. Given the fields present, it seems to cover a range of information related to employee details, job titles, salaries, managerial information, and payment frequencies. It's possible this form is used to document changes in employee pay structures, such as promotions, demotions, or changes in pay frequency. However, without more specific information about the organization's internal policies and procedures, it's hard to confirm the exact purpose of this form. To ensure accuracy, please review the form's internal documentation or consult with the relevant personnel. If the form is being used for a specific payroll event (e.g., an employee's pay period or payment frequency change), the fields may need to be reviewed for consistency with the event being documented.
-
-Assuming the form is intended to collect general payroll information:
-
-The form is designed to be completed by employees, managers, or HR personnel, providing an opportunity to document changes in an employee's job title, salary, and other relevant details.
-
-Given the structure of the form, it seems some fields may be subject to change or have specific conditions based on the selected options. For example, the "Pay Frequency" and "Pay Amount" fields might be relevant when documenting a change in payment structure. However, without clear labels or instructions, the user must infer these details.
-
-To avoid confusion, ensure that the form's purpose and each field's relevance are clearly explained in the instructions and that any conditional fields are clearly labeled and explained.
-
-</thinking>
-
 # payroll_change_notice_form - Help Guide
 ## Purpose
 The Payroll Change Notice Form is used to document changes in an employee's job title, salary, and other relevant details. This form appears to be used by employees, managers, or HR personnel to update payroll information.

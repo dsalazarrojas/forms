@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect employee data and information for coaching purposes. The form is intended to help managers or HR staff to guide employees in their personal and professional development, ensuring they have the necessary information to effectively coach their team members. The form will help employees set goals, identify areas of improvement, and document progress towards achieving these goals.
-</thinking>
-
 # Employee Coaching Form OBM 2021 - Help Guide
 ## Purpose
 The Employee Coaching Form OBM 2021 is designed to be a tool for managers or HR staff to collect relevant information from employees to facilitate effective coaching.

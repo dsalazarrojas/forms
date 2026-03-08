@@ -1,13 +1,3 @@
-<thinking>
-
-To ensure that we're providing the best possible guidance to our employees, let's review the "HR Service Quality Survey" form. This form aims to gather feedback from employees on the quality of services provided by the HR department. It's essential to note that this form should only be completed by employees who have interacted with the HR department recently.
-
-Before proceeding, please ensure that you have interacted with the HR department within the last few days or weeks. If you're not sure whether you qualify to complete this form, please reach out to your HR representative for clarification.
-
-If you have already completed a similar survey, please note that your responses will not be duplicated in the database, and any additional feedback will be treated as a new survey submission.
-
-</thinking>
-
 # HR Service Quality Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from employees on the quality of services provided by the HR department. Your responses will help us identify areas of improvement and ensure that we're meeting your expectations.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information about a web page. The purpose of this form is to gather relevant data from users to help the page maintainers understand what kind of content they need to add, update or remove. The form is used to categorize, tag, and prioritize web pages based on their content. This information will help the team in various aspects, such as content addition, bug reporting, and page management tasks.
 
 </thinking>

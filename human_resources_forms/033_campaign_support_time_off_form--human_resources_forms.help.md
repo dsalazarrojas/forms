@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, my primary focus is on creating user-friendly and easy-to-understand documentation. To confirm, the Campaign Support Time Off Form is used to request support for employees who are unable to work due to various reasons such as campaigns, personal matters, or medical issues. This form will likely be filled out by employees, but managers and HR teams should also have access to it for approval and review purposes. I'll make sure to clearly label each field with the intended purpose and expected outcome of the input. I'll also ensure that the instructions and explanations are concise and easy to follow, avoiding any ambiguity or confusion.</thinking>
-
 # Campaign Support Time Off Form - Help Guide
 ## Purpose
 The Campaign Support Time Off Form is used to request support for employees who are unable to work due to various reasons such as campaigns, personal matters, or medical issues. This form helps to provide essential information for the management and HR teams to review and process the request efficiently.

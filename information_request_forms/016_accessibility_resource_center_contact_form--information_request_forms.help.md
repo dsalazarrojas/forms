@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals or organizations seeking accessibility resources or support. It is intended to help us better understand their needs and provide tailored assistance. Before filling out this form, please note that you may have already contacted other resources about this issue. If so, please indicate that in the "Previous Resources Contacted" field. This form is not meant to replace existing support channels, but rather supplement them.
-</thinking>
-
 # Accessibility Resource Center Contact Form - Help Guide
 ## Purpose
 The Accessibility Resource Center Contact Form is designed to collect information from individuals or organizations seeking accessibility resources or support. This form helps us understand their needs and provide tailored assistance.

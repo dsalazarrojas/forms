@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide will cover the essential information for using the DevOps Phase Details Form. Before proceeding, please note that this form is designed to capture information about the DevOps phase, which is an important process in IT service management. To avoid duplication or incomplete information, please ensure that this form is only used for its intended purpose and not for any other use cases.
 
 # DevOps Phase Details Form - Help Guide

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from the bridesmaids attending the wedding. The purpose of this form is to ensure that the bride is aware of the bridesmaids' preferences, capabilities, and any specific needs or concerns they may have. The bride can use this information to plan and coordinate the bridal shower, bachelorette party, and other wedding events in a way that is inclusive and considerate of all attendees.
-
-</thinking>
-
 # Bridesmaid Information Form - Help Guide
 ## Purpose
 This form is designed to collect information from the bridesmaids attending the wedding. The bride will use this information to plan and coordinate the bridal shower, bachelorette party, and other wedding events.

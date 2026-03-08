@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # seasonal_worker_time_off_form - Help Guide
 ## Purpose
 This form is designed to collect information regarding a seasonal worker's time off. It is used to gather details such as the worker's period of work, start and end dates, reason for time off, manager's confirmation, team leader's confirmation, employee's status, and leave type.

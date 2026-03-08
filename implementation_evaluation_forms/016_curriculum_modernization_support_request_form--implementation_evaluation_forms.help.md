@@ -1,5 +1,3 @@
-<thinking>... internal reasoning block ...</thinking>
-
 This form is designed to collect user feedback and support requests related to the implementation of a curriculum modernization project. It's intended for users to submit their thoughts, questions, or suggestions on the curriculum modernization process.
 
 Before filling out this form, please ensure that you're not duplicating a previous submission. If you've already submitted a similar request, it may not be necessary to resubmit. However, if you have additional information or updates to your previous request, feel free to submit them.

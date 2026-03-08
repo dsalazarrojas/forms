@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be filled out by Museum Curators who wish to request a Leave Of Absence. The purpose of this form is to provide a structured and efficient way to request time off for personal or professional reasons, and to track the approval status of these requests. It is a mandatory form for all curators who need to take a leave of absence. 
-
-</thinking>
-
 # Museum Curator Acquisition Leave Of Absence Form - Help Guide
 
 ## Purpose

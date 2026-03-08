@@ -1,17 +1,3 @@
-<thinking>
-
-This form is used for scheduling work shifts for employees. It gathers information about employee availability and preferences for specific shifts. The form is likely used by HR or management staff to coordinate schedules and ensure that shifts are properly covered.
-
-The form's purpose is to collect data that can be used to create a schedule that suits the needs of both employees and the organization. It may be used to:
-
-* Determine which shifts are available for each employee
-* Identify potential conflicts between employees' availability and shift requirements
-* Create a schedule that takes into account employees' preferences
-
-To prevent data duplication, it's likely that this form is used in conjunction with other systems, such as HR systems or calendars, to track employee availability and shift assignments.
-
-</thinking>
-
 # Work Shift Scheduling Form - Help Guide
 ## Purpose
 The Work Shift Scheduling Form is used to collect information about employee availability and preferences for specific shifts. This data is used to create a schedule that suits the needs of both employees and the organization.

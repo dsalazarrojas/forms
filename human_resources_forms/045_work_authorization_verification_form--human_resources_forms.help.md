@@ -1,7 +1,3 @@
-<thinking>
-This form is used for verifying work authorizations for employees in various situations. The purpose of this form is to collect information from employees to confirm their employment status, reason for employment, and other relevant details. This form should not be used for other purposes, such as hiring or firing processes. Ensure that only employees who are required to have their work authorizations verified are submitted on this form.
-</thinking>
-
 # Work Authorization Verification Form - Help Guide
 ## Purpose
 This form is used for verifying work authorizations for employees in various situations.

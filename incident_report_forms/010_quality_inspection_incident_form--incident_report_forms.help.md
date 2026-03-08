@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about incidents that occur during quality inspections. It's used for reporting incidents that affect the quality of products or services. The form helps in documenting the incident date, time, location, description, type, category, and other relevant details. It also allows reporting by a specific contact person and includes fields for contact name and email.
-
-Before filling out this form, please ensure that you're not reporting the same incident multiple times. Each incident should only be reported once.
-
-</thinking>
-
 # Quality Inspection Incident Form - Help Guide
 ## Purpose
 The Quality Inspection Incident Form is designed to collect information about incidents that occur during quality inspections. It helps in documenting incidents, improving transparency and accountability, and enabling swift action to be taken when necessary.

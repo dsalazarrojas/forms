@@ -1,12 +1,3 @@
-<thinking>
-This form is used for obtaining informed consent from patients for hydrafacial treatments. The form is designed to collect essential information about the patient, the treatment, and the consent process.
-
-To ensure that this form is relevant and accurate, please review the form's purpose and structure to determine if it meets your specific needs.
-
-If you are using this form, please make sure to tailor it according to your organization's specific requirements and to review the fields carefully to ensure that you are gathering the necessary information.
-
-</thinking>
-
 # hydrafacial_consent_form - Help Guide
 ## Purpose
 The hydrafacial_consent_form is a document used to obtain informed consent from patients before undergoing a hydrafacial treatment. It is a crucial step in the treatment process, as it ensures that the patient understands the risks and benefits associated with the treatment and agrees to participate.

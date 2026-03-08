@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure this form is only used by those who need to report information about subcontractors. The form should only be filled out when a new subcontractor has been assigned a tool and needs to be added to the system. The form should not be used to update existing subcontractor information.
-</thinking>
-
 # Subcontractor Information Form - Help Guide
 ## Purpose
 The Subcontractor Information Form is used to collect information about new subcontractors who have been assigned a tool. This form is essential for adding a new subcontractor to our system and ensuring we have accurate records.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from patients about their medical history, treatment, and contact details. The purpose of this form is to gather relevant information that doctors and medical staff can use to better understand the patient's condition and provide effective care. 
-
-The form collects information on user demographics, medical condition, medical history, contact methods, and follow-up details. The fields include date visited, symptoms, department, doctor's name, doctor's specialty, medical record number, contact information, department location, medical condition, medical history, allergies, medical test results, medication, medical device used, patient contact, doctor's phone, doctor's contact method, patient address, doctor's address, visit frequency, visit duration, follow-up, and follow-up note and date. The form is divided into multiple sections and the fields are labeled and explained clearly for easy understanding. The form's required fields are marked with a red asterisk (*), indicating that these fields are necessary for the form to be submitted. Please ensure to fill all the required fields to ensure the accuracy and completeness of the form.
-
-</thinking>
-
 # Department Of Health Data Collection Form - Help Guide
 ## Purpose
 This form is designed to collect information from patients to aid in their medical care and treatment.

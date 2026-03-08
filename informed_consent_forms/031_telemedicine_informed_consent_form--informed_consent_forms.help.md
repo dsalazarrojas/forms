@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to obtain informed consent from patients for telemedicine services. Informed consent is a legal term that means the patient understands and agrees to the terms and conditions of their treatment. This form is designed to ensure that patients are aware of their rights and responsibilities and are able to provide informed consent for their care. It's essential to note that this form is not a duplicate of any other form, and it's crucial to complete it thoroughly and accurately.
-</thinking>
-
 # Telemedicine Informed Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to obtain informed consent from patients for telemedicine services. It's a legal requirement to ensure that patients understand and agree to the terms and conditions of their treatment.

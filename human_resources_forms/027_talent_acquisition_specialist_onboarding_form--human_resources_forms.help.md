@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for new talent acquisition specialists onboarding into the company's hiring process. This guide will help users understand how to complete the form accurately and provide a clear understanding of each field's purpose and requirements.
-</thinking>
-
 # Talent Acquisition Specialist Onboarding Form - Help Guide
 ## Purpose
 This form is used to collect essential information about new talent acquisition specialists joining the company. It ensures that all required details are captured accurately to facilitate smooth integration and effective communication within the team.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for companies seeking consultation on industrial policy. The purpose of this form is to gather contact information from the companies and allow them to provide a message detailing their needs. To ensure accurate and efficient processing, please do not fill out this form if you have already submitted it previously.
-
-</thinking>
-
 # Industrial Policy Consulting Contact Form - Help Guide
 ## Purpose
 This form is used to gather information from companies seeking consultation on industrial policy. It helps us understand your company's needs and provide personalized guidance to support your goals.

@@ -1,6 +1,3 @@
-<thinking>
-Please confirm that this form is for collecting information about the aftercare instructions and precautions for microdermabrasion treatments. The form should be used by patients or customers after undergoing a microdermabrasion treatment. Please ensure that the form is not being used for any other purpose or context.</thinking>
-
 # microdermabrasion_aftercare_form - Help Guide
 
 ## Purpose

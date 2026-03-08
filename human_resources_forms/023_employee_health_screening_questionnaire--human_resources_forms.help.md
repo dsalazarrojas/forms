@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect general information about employees, including their medical history, contact information, and emergency contact details. The purpose of this form is to ensure that employees have provided accurate and comprehensive data to support their health and wellbeing. Please make sure that the form is relevant to your organization and not a duplicate of an existing form. If you're unsure, refer to your organizational policies and procedures to ensure compliance.
-</thinking>
 # Employee Health Screening Questionnaire - Help Guide
 
 ## Purpose

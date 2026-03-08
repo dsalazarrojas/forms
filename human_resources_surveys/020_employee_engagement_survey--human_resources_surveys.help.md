@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gauge employee engagement and satisfaction within the company. It aims to collect feedback from employees on various aspects of their work experience, including their satisfaction with their job, communication with management, and support from their team and manager. This form helps to identify areas of strength and weakness, allowing the company to make informed decisions to improve employee engagement and overall work environment. Please ensure this form is completed only once by each employee and not by anyone else to avoid duplication of effort. This guide will walk you through the steps to complete this form and explain each field in detail.
-</thinking>
-
 # Employee Engagement Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect employee feedback on various aspects of their work experience, including satisfaction with their job, communication with management, and support from their team and manager. This information helps the company understand employee engagement and make informed decisions to improve the work environment.

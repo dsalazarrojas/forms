@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to collect information about a video from an influencer or content creator. The purpose of this form might include tasks such as video review, categorization, and metadata collection. 
-</thinking>
-
 # Video Submit Form - Help Guide
 
 ## Purpose

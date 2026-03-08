@@ -1,15 +1,3 @@
-<thinking>
-This form is used to document the acquisition and ownership of personal properties, such as real estate or vehicles. It is designed to gather detailed information about the property, including its description, purchase price, and ownership status. The form is used to ensure accurate and consistent tracking of personal properties within the organization.
-
-To determine if the form is relevant to the user, please consider the following:
-- Is the user responsible for managing or updating personal properties within the organization?
-- Is the user required to track specific properties, such as real estate or vehicles, for business or financial purposes?
-- Does the user need to record the purchase or sale of personal properties, including dates and details?
-
-To avoid duplication of work, please note that this form is not intended for general personal or household use. If you are not responsible for managing or updating personal properties within the organization, please refrain from using this form.
-
-</thinking>
-
 # personal_property_memorandum_template - Help Guide
 ## Purpose
 This form is used to document the acquisition and ownership of personal properties, such as real estate or vehicles. It ensures accurate and consistent tracking of personal properties within the organization.

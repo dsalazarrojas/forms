@@ -1,9 +1,3 @@
-<thinking>
-
-This form was created to gather information about a political event protest incident report. It aims to collect details about the event, including date, time, location, and any injuries or police involvement. The report will help in understanding the context and resolution of the incident. This form is for gathering information and is not a replacement for official reporting processes.
-
-</thinking>
-
 # Political Event Protest Incident Report Form - Help Guide
 ## Purpose
 The Political Event Protest Incident Report Form is designed to collect detailed information about a political event protest incident. This form will help in gathering a comprehensive report of the incident, including its date, location, and any injuries or police involvement.

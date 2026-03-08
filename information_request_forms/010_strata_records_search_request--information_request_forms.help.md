@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from users for a strata records search request. The form has 8 fields, each with its own specific purpose. To determine the purpose of this form, we need to analyze the fields and their labels. The fields include strata search request form, strata search request details, strata search request date range, strata search request time, strata documents requested, strata search request comments, strata search request documents, strata search request email, and strata search request phone.
-
-Upon analyzing the fields, it's clear that this form is intended to collect general information about a strata search request, including the request details, desired date range, time period, documents requested, and contact information. The form is likely used by strata management or administrative staff to gather information from users about their search requests.
-
-To prevent duplication of work, the form should be reviewed to ensure that the same information is not collected multiple times. For example, the strata search request form and strata search request details fields may be redundant, and the first field should be removed or rephrased to focus on the main question being asked.
-
-</thinking>
-
 # Strata Records Search Request - Help Guide
 ## Purpose
 The Strata Records Search Request form is designed to collect information from users for a strata search request. The form helps strata management or administrative staff gather necessary details to facilitate the search process.

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the "Team Building Activity Success Assessment" form is used correctly to collect accurate feedback from participants. This form is a critical tool to evaluate the effectiveness of team-building activities, and the feedback collected will help us refine future events. To guarantee that we're not redundant or misleading, let's verify that this form isn't part of a larger, more comprehensive form and that each field is filled out correctly.
-</thinking>
-
 # Team Building Activity Success Assessment - Help Guide
 ## Purpose
 The "Team Building Activity Success Assessment" form is a tool used to evaluate the success of team-building activities. It helps us understand what worked well and what could be improved for future team-building efforts.

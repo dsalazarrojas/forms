@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Graduation Information Collection - Help Guide
 ## Purpose
 This form is designed to collect information about a student's graduation details, including their name, email, phone number, graduation date and time, and participation in the graduation ceremony. The collected data helps the school administration to efficiently track and process graduation information.

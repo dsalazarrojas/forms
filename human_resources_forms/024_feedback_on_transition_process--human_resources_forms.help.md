@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect feedback from users on their experiences with the transition process within an organization. The "Feedback On Transition Process" form is an internal assessment tool to help identify areas of improvement and make necessary adjustments to the transition process. Before proceeding, ensure that you have not already submitted feedback on this topic, as duplicate submissions may cause unnecessary processing and confusion. This form should only be used by individuals who have undergone a transition within the organization and are providing feedback on their experience.</thinking>
-
 # Feedback On Transition Process - Help Guide
 ## Purpose
 The "Feedback On Transition Process" form is designed to collect feedback from users on their experiences with the transition process within the organization. This helps us to identify areas of improvement and make necessary adjustments to ensure a smoother transition process.

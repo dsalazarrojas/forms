@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about military operations incidents, which can include accidents, injuries, or other significant events that occur during military operations. This form is intended to be completed by personnel involved in the incident, including unit members, commanders, or other stakeholders. The goal is to gather accurate and detailed information about the incident to aid in reporting, investigation, and resolution. To ensure consistency and accuracy, please complete the form as thoroughly and honestly as possible.
-
-Before starting, review the form carefully to ensure you are not duplicating reports or reporting the same incident multiple times. If you are unsure about any information or have questions, please reach out to the designated authority for guidance.
-
-The form is divided into several sections, each designed to capture specific details about the incident. Please complete the form in the following order:
-
-</thinking>
-
 # Military Operations Incident Report Form - Help Guide
 ## Purpose
 The Military Operations Incident Report Form is designed to collect information about significant events that occur during military operations. This form will help gather accurate details about the incident to aid in reporting, investigation, and resolution.

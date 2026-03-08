@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect contact information from alumni to stay in touch and provide updates on various university programs, events, and news. The form is intended to be completed by alumni who want to receive updates on specific topics, and it helps the university to maintain contact with them.
-</thinking>
-
 # Alumni Contact Information Form - Help Guide
 ## Purpose
 This form is used to collect your contact information as an alumnus of the university. Please fill out the form to allow the university to stay in touch and provide you with updates on various programs, events, and news.

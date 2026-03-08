@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure this form is only filled out when an employee's information needs to be updated or created. If the form is filled out without a valid reason, it may be considered redundant or even create unnecessary work for HR. We should also check for potential data duplication to prevent inaccuracies in the employee data record.
-</thinking>
 # Employee Data Record Form - Help Guide
 ## Purpose
 The Employee Data Record Form is used to collect and update employee information in a standardized format. This form helps ensure that all relevant data is recorded accurately and consistently, making it easier to manage and analyze employee information.

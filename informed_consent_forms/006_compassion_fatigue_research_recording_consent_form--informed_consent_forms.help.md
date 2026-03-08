@@ -1,10 +1,3 @@
-<thinking>
-This form is for obtaining informed consent from research participants before recording any information for research purposes. The form ensures that the participant is fully aware of the purpose, risks, and benefits of the study, as well as the way their data will be handled and stored. The participant will also be informed about their anonymity and access restrictions. This form is a crucial legal and ethical requirement for research projects.
-
-To the best of my knowledge, this form is not a replica of any existing form, and it's a critical component of the research process. I will now focus on providing a user-friendly help guide for the participants.
-
-</thinking>
-
 # Compassion Fatigue Research Recording Consent Form - Help Guide
 ## Purpose
 This form is designed to ensure that research participants are fully informed and understand the purpose, risks, and benefits of the study. It also outlines how their data will be handled and stored, and provides options for anonymity and access restrictions.

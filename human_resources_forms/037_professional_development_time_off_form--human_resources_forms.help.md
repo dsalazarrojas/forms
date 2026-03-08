@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # professional_development_time_off_form - Help Guide
 ## Purpose
 This form is designed to assist in the processing of professional development time off requests. It helps in capturing essential details from the employee, ensuring that all necessary information is provided for smooth review and approval procedures.

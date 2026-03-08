@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about a company, likely for internal use or external communication with business partners. The purpose of this form is to gather relevant details about the company, such as name, address, contact information, and business status. This form is probably used by business development teams or customer support to streamline communication and record company data.
-
-
-</thinking>
-
 # Step By Step Company Information Form - Help Guide
 
 ## Purpose

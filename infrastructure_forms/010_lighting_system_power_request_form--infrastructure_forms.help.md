@@ -1,8 +1,3 @@
-<thinking>
-The provided YAML contains fields that describe a form for requesting information about lighting system power needs. This form is likely used in a project management context to gather specific details about a project's lighting system requirements.
-
-</thinking>
-
 # Lighting System Power Request Form - Help Guide
 ## Purpose
 The Lighting System Power Request Form is designed to collect information about the power requirements of a lighting system in a specific project. This form is used to ensure that project stakeholders have accurate and consistent data about the project's lighting needs.

@@ -1,5 +1,3 @@
-<thinking>...the form is designed for providers to input their educational background, training, and qualifications related to credentialing information...</thinking>
-
 # Credentialing Information Form - Help Guide
 ## Purpose
 This form collects information about a provider's educational background, training, and qualifications related to credentialing. This information is used to verify a provider's credentials and ensure they meet the necessary requirements for a particular role or position.

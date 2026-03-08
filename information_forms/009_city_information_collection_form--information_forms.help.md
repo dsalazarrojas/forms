@@ -1,11 +1,3 @@
-<thinking>
-This is a help guide for the City Information Collection Form. The form is used by researchers and data collectors to submit information about a city or neighborhood where a collection is happening. This information helps in the collection, processing, and analysis of data. It ensures that the collected data is accurate, reliable, and meets the required standards. The form is designed to be comprehensive and easy to fill out, reducing the burden of paperwork and increasing the likelihood of receiving quality data.
-
-The form is divided into several sections that guide the user through the required fields. Each section is designed to capture specific information about the city or neighborhood being collected. The form is intended for use by authorized personnel only, and each field is carefully curated to ensure that the required data is collected accurately.
-
-To complete this form, please follow the instructions in this guide.
-</thinking>
-
 # City Information Collection Form - Help Guide
 ## Purpose
 The City Information Collection Form is a standardized form used to submit information about a city or neighborhood where a collection is happening. The form ensures that collected data is accurate, reliable, and meets the required standards.

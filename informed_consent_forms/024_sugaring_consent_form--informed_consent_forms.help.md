@@ -1,9 +1,3 @@
-<thinking>
-
-As a technical expert, I've designed the "sugaring" consent form to gather essential information from clients about the services they've received. This form helps to ensure that clients understand and consent to the terms and conditions of the services provided. I've carefully crafted the form to be user-friendly and easy to navigate, with each field carefully labeled and explained to prevent misunderstandings. Before proceeding, please ensure that you're filling out this form to declare your consent for a specific service. If you've already completed a "sugaring" consent form for the same service, please do not fill out this form again.
-
-</thinking>
-
 # Sugaring Consent Form - Help Guide
 ## Purpose
 The "Sugaring" consent form is a document that you must complete to declare your consent for services provided. Please review each section carefully and sign to indicate your acceptance.

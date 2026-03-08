@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain a client's consent for a photography service. The client's name, photographer's information, and the terms and conditions of the service are all collected. This form is intended to be used by photographers to obtain informed consent from their clients before providing services. It is not a formal contract, but rather a way to document the client's understanding and agreement to the terms of the service.
-</thinking>
-
 # Photography Complementary Agreement Form - Help Guide
 ## Purpose
 This form is used to obtain a client's informed consent for a photography service. It collects the client's name, service details, photographer's information, signature, date, time, and terms and conditions of the service.

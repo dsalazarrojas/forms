@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from dog owners about their dogs' behavior, training needs, and health conditions. This form will help ensure that our team has all the necessary information to provide the best possible training consultation for each dog. Before you begin, please review the following guide to complete this form accurately and effectively.
-
-When completing this form, please be as detailed as possible and provide as much information as you need to. The fields marked with an asterisk (\*) are required fields and cannot be left blank. If you have any questions or concerns, please don't hesitate to contact us.
-</thinking>
-
 # dog_behavior_training_consultation_form - Help Guide
 ## Purpose
 This form is designed to collect information from dog owners about their dogs' behavior, training needs, and health conditions to ensure our team can provide the best possible training consultation for each dog.

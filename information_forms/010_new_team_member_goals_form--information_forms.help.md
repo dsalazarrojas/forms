@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about new team members. This form is likely used to onboard new team members and ensure they have the necessary information to get started quickly and effectively. It's crucial to fill out this form carefully and accurately, as the information collected will be used to manage team dynamics and allocate resources. To ensure data quality, please verify that you're not duplicating existing records or entering fictional information. Only provide real and up-to-date information about yourself. If you're unsure about any field or have any questions, please don't hesitate to contact the relevant team member.
-</thinking>
-
 # new_team_member_goals_form - Help Guide
 ## Purpose
 The new_team_member_goals_form is used to collect information about new team members. This data helps the team manage new member onboarding and allocation of resources.

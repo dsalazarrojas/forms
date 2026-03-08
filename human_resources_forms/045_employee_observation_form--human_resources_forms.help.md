@@ -1,9 +1,3 @@
-<thinking>
-This form is an AI-generated Employee Observation Form, designed to capture information about an employee's performance and development. Its purpose is to provide a structured way for managers, supervisors, or peers to offer feedback and suggestions for improvement. The form is not affiliated with or derived from any proprietary form platforms, and its contents are original and created using public survey topic metadata as inspiration. The form's structure and fields have been designed based on common practices in human resources and performance management.
-
-Please ensure that you are using this form in a way that aligns with your organization's policies and procedures. If you have any questions or concerns, please contact [form@gic.mx](mailto:form@gic.mx).
-</thinking>
-
 # Employee Observation Form - Help Guide
 ## Purpose
 The Employee Observation Form is a tool used to capture feedback and suggestions for employee performance and development. It is designed to be a structured and organized way to provide insights on areas for improvement and growth opportunities.

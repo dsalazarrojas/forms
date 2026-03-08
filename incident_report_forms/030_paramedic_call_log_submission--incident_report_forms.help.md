@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect data about paramedic calls, including incident date, unit number, patient information, and call outcome. The form is used to document paramedic calls, ensuring that relevant information is recorded accurately and thoroughly. 
-
-Before filling out this form, please verify that the call has not been previously reported and that your unit number is correct. This will prevent duplicate reports and ensure data accuracy. 
-
-Please fill out the form carefully, ensuring that all fields are completed accurately and thoroughly. If you need assistance or have questions, please do not hesitate to reach out.
-
-</thinking>
-
 # Paramedic Call Log Submission - Help Guide
 ## Purpose
 This form is used to document paramedic calls, including incident date, unit number, patient information, and call outcome. It ensures that relevant information is recorded accurately and thoroughly.

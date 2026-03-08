@@ -1,9 +1,3 @@
-<thinking>
-This form is meant to collect information about a project from a project team. The team lead or project manager would fill out this form to provide a brief overview of the project's goals, target outcomes, and any financial or risk considerations. 
-This information would be used to guide project planning, resource allocation, and risk management decisions.
-Before starting, please check that this form is not duplicating efforts with other projects or initiatives.
-</thinking>
-
 # Project Charter Form - Help Guide
 ## Purpose
 This form is used to collect information about a project from the project team. It should be filled out by the team lead or project manager to provide a brief overview of the project's goals, target outcomes, and any financial or risk considerations.

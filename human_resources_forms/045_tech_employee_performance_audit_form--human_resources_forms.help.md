@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to be completed by managers who need to evaluate the performance of tech employees. It is designed to collect information about an employee's technical skills, communication and work style, and any action items that need improvement. This form should only be completed once per tech employee. To ensure consistency, it is essential to complete this form only after reviewing the performance of a specific tech employee and before discussing their progress with them.
-</thinking>
 # Tech Employee Performance Audit Form - Help Guide
 ## Purpose
 The purpose of this form is to help managers evaluate the technical performance of employees and identify areas for improvement.

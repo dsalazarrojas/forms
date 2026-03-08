@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Short Term Rental Agreement - Help Guide
 
 ## Purpose

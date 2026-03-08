@@ -1,8 +1,3 @@
-<thinking>
-The Business Continuity Specialist Contact Form is a user-facing form designed for organizations to provide contact information and details about their business continuity needs. The purpose of this form is to help the business continuity specialist team better understand the organization's requirements and provide the necessary support and guidance to ensure business continuity. By completing this form, users can ensure that their continuity needs are met, and they can receive the correct support from the specialist team.
-To prevent duplication or miscommunication, please ensure that you do not use this form multiple times for the same organization. The form is intended to be a one-time submission.
-</thinking>
-
 # Business Continuity Specialist Contact Form - Help Guide
 ## Purpose
 This form is designed to provide information about your organization's business continuity needs and preferences.

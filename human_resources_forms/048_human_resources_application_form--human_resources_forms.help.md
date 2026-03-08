@@ -1,7 +1,3 @@
-<thinking>
-This guide will help you complete the Human Resources Application Form. Before you start, please ensure you have all the required information and that you are not duplicating an existing application. This form is for new applicants only, and incomplete or duplicate applications may delay the processing of your request.
-</thinking>
-
 # Human Resources Application Form - Help Guide
 ## Purpose
 The Human Resources Application Form is a tool to collect information from applicants to help you evaluate and consider their application for available positions. The form gathers general information about the applicant, including their personal details, employment history, and contact information.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # District 10 Area Leadership 2020 2021 - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to gather information about potential back-end developers for the company's hiring process. The purpose of this form is to ensure that all necessary data is collected about each candidate during the interview process. This form should only be used for actual back-end developer interviews, and not for other roles or purposes. It's essential to use this form accurately and consistently to compare and evaluate candidates fairly.
-</thinking>
-
 # Back End Developer Interview Form - Help Guide
 ## Purpose
 The Back End Developer Interview Form is used to collect information about potential back-end developers for the hiring process. This form is intended for actual back-end developer interviews and should only be used for this purpose.

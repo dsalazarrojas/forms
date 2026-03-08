@@ -1,11 +1,3 @@
-<thinking>
-This form is intended for individuals or businesses who want to register as affiliates for a marketing campaign. It collects personal and business information, marketing preferences, and payment details to facilitate affiliate partnerships. Please note that this form will help the affiliate program administrators evaluate your qualifications and suitability for the program. 
-
-Before proceeding, ensure that you are not already a registered affiliate with us, as duplicate applications will be rejected.
-
-Also, please fill this form accurately and completely to avoid any issues with your registration.
-</thinking>
-
 # Affiliate Registration Form - Help Guide
 ## Purpose
 The Affiliate Registration Form is a mandatory step to register for our affiliate program. This form collects information about you and your business, which will be reviewed by our team for approval.

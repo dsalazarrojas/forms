@@ -1,11 +1,3 @@
-<thinking>
-This form is a referral questionnaire designed to capture information about an employee referred by another employee. It appears to be used to track referrals for internal job openings or promotions within an organization. The purpose of this form is to collect data on the referring employee, the employee being referred, and the job specifics. This form is likely used for employee development and succession planning purposes.
-
-The following fields on this form need to be filled out: first name, last name, job title, referred by, email, phone, referred date, referred time, referred note, manager first name, manager last name, manager job title, manager referred by, manager email, manager phone, manager referred date, manager referred time, manager referred note, referral reason, employee name, job title, department, team, manager, and submitted.
-
-Before filling out the form, please make sure the correct employee's name and job title are provided, as this information will be used to ensure data accuracy.
-</thinking>
-
 # employee_referral_questionnaire - Help Guide
 ## Purpose
 This form is used to capture information about an employee referred by another employee for internal job openings or promotions.

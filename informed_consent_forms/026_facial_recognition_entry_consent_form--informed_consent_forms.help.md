@@ -1,7 +1,3 @@
-<thinking>
-This form is used for obtaining informed consent for facial recognition entries. It captures the individual's name, email address, phone number, date of birth, and other relevant details. The form also includes sections for obtaining witness signatures and notes, which are used to verify the authenticity of the consent process. It is essential to fill out this form accurately and honestly to ensure the validity of the consent provided. 
-</thinking>
-
 # Facial Recognition Entry Consent Form - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the Facial Recognition Entry Consent Form. The form is designed to capture the individual's consent for facial recognition entries, which can be used for various purposes such as identification, authentication, or other authorized uses.

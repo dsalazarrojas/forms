@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from users about a crisis or emergency response request. The form is designed to capture details about the incident, the type of response required, and contact information for follow-up. Before starting, ensure you're filling out the form for a genuine request and not a duplicate. This form is not intended for general inquiries or non-emergency situations. Please be concise and accurate when providing information.
-</thinking>
-
 # Crisis Response Framework Request Form - Help Guide
 
 ## Purpose

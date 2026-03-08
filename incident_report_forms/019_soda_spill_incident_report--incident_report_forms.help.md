@@ -1,13 +1,3 @@
-<thinking>Incident reports are crucial for organizations to track and address spills, which can pose significant risks to employees' health, safety, and environmental impact. However, before creating the form, we should consider a few things:
-
-- Is the spill report a repeat incident?
-- Is the spill report already being tracked or reported elsewhere?
-- Are there any specific regulations or policies that we should consider when completing this form?
-
-If you have answered "yes" to these questions, please review the incident report that already exists or check the relevant policies and regulations before proceeding.
-
-If not, then continue with the guide below.</thinking>
-
 # Soda Spill Incident Report - Help Guide
 ## Purpose
 This form is designed to gather essential information about a spill incident that occurred in a soda facility. The purpose of this form is to help identify the cause of the spill, assess the impact on personnel, environment, and equipment, and document steps taken to mitigate and prevent future incidents.

@@ -1,7 +1,3 @@
-<thinking>
-The Address Update Form is used to update a user's contact information, including their full name, customer ID number, current email address, phone number, and address details (street, city, state/province, zip/postal code, and country). This form is necessary for maintaining accurate records and ensures that our communication with the user is directed to the correct address. This form is a one-time action, and the submitted information will be updated in our records. Please confirm that you are authorized to update this information before submitting the form.
-</thinking>
-
 # Address Update Form - Help Guide
 ## Purpose
 The Address Update Form is used to update a user's contact information, including their full name, customer ID number, current email address, phone number, and address details (street, city, state/province, zip/postal code, and country).

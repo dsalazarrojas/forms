@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sender And Recipient Information Form - Help Guide
 ## Purpose
 This form is designed to collect information about the sender and recipient of a package or shipment. It gathers essential details that help ensure accurate and efficient delivery and billing processes. Please note that this form is not affiliated with any form platform and is an original adaptation for public use.

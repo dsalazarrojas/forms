@@ -1,8 +1,3 @@
-<thinking>
-This form is a crucial tool for reporting incidents that require first aid or emergency attention. Before proceeding, please ensure that you are in a location where a first aid report form is necessary and that the incident has not already been reported. This form is meant to gather information about the incident, the patient, and the treatment administered to ensure that the situation is documented accurately and promptly addressed.
-
-</thinking>
-
 # First Aid Report Form - Help Guide
 ## Purpose
 The First Aid Report Form is a tool used to document incidents that require immediate attention. This form helps to gather essential information about the incident, the patient, and the treatment administered.

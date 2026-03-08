@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## hr_policy_communication_form - Help Guide
 ## Purpose
 The HR Policy Communication Form is a tool used to gather information from employees regarding their understanding and acknowledgment of company policies. This form is essential for HR to track policy communications and ensure employees' knowledge and understanding of company policies.

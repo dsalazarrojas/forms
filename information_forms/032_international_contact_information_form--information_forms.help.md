@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect international contact information from users. The form is intended to be used to collect data from users with international connections and to assign the correct tools and resources based on their location. Please note that this form has a strict validation to ensure that the country and timezone fields are filled correctly. If the user has a non-matching timezone and country, they will be required to re-fill the entire form.
-</thinking>
 # International Contact Information Form - Help Guide
 
 ## Purpose

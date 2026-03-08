@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Recognition Award Application Form - Help Guide
 ## Purpose
 The Employee Recognition Award Application Form is used to nominate colleagues for their outstanding work and efforts. This form helps the nominator to provide a detailed description of the nominee's achievements and contributions to the company, along with any supporting documents or attachments that can be provided.

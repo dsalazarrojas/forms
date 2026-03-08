@@ -1,24 +1,3 @@
-<thinking>
-This form is likely used for collecting information about new patients, including their name, date of birth, contact number, address, medical conditions, insurance provider, relationship, and emergency contact. The form is likely used by healthcare professionals to gather essential information about new patients, which can be used for various purposes such as patient care, insurance claims, and data analysis. This form may be used in a medical setting, such as a hospital, clinic, or private practice.
-
-Before filling out this form, please ensure that you have the necessary information and permissions to complete it accurately. This form is not intended for personal or entertainment purposes.
-
-This form consists of 8 fields:
-
-1. new_patient_name (New Patient Name, text, Optional) - Enter the name of the new patient.
-2. date_of_birth (Date of Birth, date, Optional) - Enter the date of birth of the new patient.
-3. contact_number (Contact Number, text, Optional) - Enter the contact number of the new patient or their emergency contact.
-4. address (Address, text, Optional) - Enter the address of the new patient or their emergency contact.
-5. medical_conditions (Medical Conditions, text, Optional) - Describe any medical conditions of the new patient.
-6. insurance_provider (Insurance Provider, text, Optional) - Enter the insurance provider of the new patient.
-7. patient_relationship (Relationship, text, Optional) - Describe the relationship between the new patient and the person completing the form.
-8. emergency_contact (Emergency Contact, text, Optional) - Enter the name and contact information of the emergency contact.
-
-Please note that all fields are optional, except for none. This form is intended to gather as much information as possible about the new patient.
-
-To complete this form accurately and efficiently, please make sure to have all required information and permissions ready before proceeding.
-</thinking>
-
 # New Patient Information And Privacy Consent Form - Help Guide
 
 ## Purpose

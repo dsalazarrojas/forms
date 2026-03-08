@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for collecting information about Resident Assistants (RAs) in Canyon Hall. The purpose of this form is to gather relevant details about the RAs, including their personal information, contact details, RA assignment information, and other relevant data for administrative tracking and contact purposes. This form is intended to be completed by RAs themselves, and the information collected will be used to facilitate communication and collaboration within the residential community.
-
-</thinking>
-
 # Canyon RA Information - Help Guide
 ## Purpose
 This form is used to collect information about Resident Assistants in Canyon Hall for administrative tracking and contact purposes.

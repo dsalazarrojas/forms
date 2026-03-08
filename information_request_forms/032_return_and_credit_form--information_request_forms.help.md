@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # return_and_credit_form - Help Guide
 
 ## Purpose

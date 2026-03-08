@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow users to make modifications or adjustments to a trust, typically in the context of legal or business settings where agreements or contracts need to be updated or altered. The form will be used to collect information about the grantor and the amendment, including the type of amendment, effective date, and reasons for the change. The form must be filled out by a authorized individual, such as a lawyer or notary, to ensure accuracy and authenticity.
-</thinking>
-
 # Trust Amendment Form - Help Guide
 ## Purpose
 The Trust Amendment Form is a document used to modify or update an existing trust agreement. This form is typically used to make changes to a trust, such as adding or removing beneficiaries, adjusting payment terms, or updating other relevant details.

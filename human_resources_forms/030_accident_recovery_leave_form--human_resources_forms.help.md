@@ -1,11 +1,3 @@
-<thinking>
-
-To provide a user-facing help guide for the "Accident Recovery Leave Form", I will analyze the form schema and explain each field and the form's purpose in a concise and practical way.
-
-The "Accident Recovery Leave Form" is designed to collect information from employees who have experienced an accident and are requesting leave for recovery. The form is intended to help HR managers and supervisors to track and manage employee leaves due to accidents. The form's purpose is to gather detailed information about the employee's accident, including the date, location, and type of accident, as well as the employee's recovery progress and the expected duration of the leave.
-
-</thinking>
-
 # Accident Recovery Leave Form - Help Guide
 ## Purpose
 The "Accident Recovery Leave Form" is designed to collect information from employees who have experienced an accident and are requesting leave for recovery. This form helps HR managers and supervisors to track and manage employee leaves due to accidents.

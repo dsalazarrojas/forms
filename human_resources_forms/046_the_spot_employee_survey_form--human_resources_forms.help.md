@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect employee information and feedback from employees in various categories. This form is designed to gather data on employee demographics, work shifts, and feedback on specific topics such as department and position. The form is organized into several sections, with each section focused on a different category of information. By providing this information, employees can help management and HR understand their needs and preferences, which can inform decision-making and improve work processes.
-This form is not intended to be a comprehensive survey, but rather a tool to gather specific information that is useful for internal reporting and analysis. Employees are encouraged to provide their honest and accurate input, and responses will be kept confidential.
-</thinking>
-
 # The Spot Employee Survey Form - Help Guide
 
 ## Purpose

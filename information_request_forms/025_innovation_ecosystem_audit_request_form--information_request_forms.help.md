@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users regarding the Innovation Ecosystem Audit Request. It is crucial to ensure that this form is only filled out in the following cases:
-
-* You need to request an audit for an existing innovation project or idea.
-* You are not a duplicate request. 
-
-Please be aware that the form will only be submitted and processed if all necessary information is provided.
-
-After you fill out this form, the information will be reviewed and processed internally to ensure the audit request is fulfilled efficiently.
-
-</thinking>
-
 # Innovation Ecosystem Audit Request Form - Help Guide
 
 ## Purpose

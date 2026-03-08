@@ -1,10 +1,3 @@
-<thinking>
-This form is for patients to provide informed consent for IV therapy. 
-The purpose of this form is to gather patient information, consent, and any relevant medical history before beginning IV therapy. 
-Before completing this form, the patient (or their representative) must be aware that the form's purpose is to ensure they are well-informed and willing to receive IV therapy. 
-Please note that this form is not intended for duplicate completion. If you have already completed this form, please ensure you are not duplicating your efforts. 
-</thinking>
-
 # iv_therapy_consent_form - Help Guide
 ## Purpose
 The iv_therapy_consent_form is used to gather patient information, including consent and medical history before IV therapy.

@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this "Letter Of Offer" form is to document and standardize the terms of an offer to an employee, including details such as job title, department, and offer amount. This form helps to ensure that all offers are handled consistently and in accordance with company policy. It may seem like a straightforward task, but having a well-structured form can save time and reduce errors in the hiring process. It's essential to review each field carefully to ensure that you are filling it out correctly. 
-
-Please ensure that you only fill in fields that are relevant to your specific situation. For example, if the position is not a promotion, you can leave the "Manager Name" field blank. Similarly, if you're unsure of the exact end date of the offer, you can leave the "End Date" field blank. This form serves as a template to guide you in creating a professional offer letter for your new hires.
-
-</thinking>
-
 # Letter Of Offer - Help Guide
 
 ## Purpose

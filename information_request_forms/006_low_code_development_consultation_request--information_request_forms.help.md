@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for requesting a low code development consultation, where a user can provide project details and requirements to receive guidance on low-code development options. The form is designed to gather essential information about the project, project manager, and project specifics. This form is typically used by users who want to discuss their project needs with a technical expert. 
-
-Before starting, please note that this form is meant to gather information only, and actual development may not begin until after discussion and agreement. If you're not sure about something, feel free to contact us for clarification.
-
-</thinking>
-
 # Low Code Development Consultation Request - Help Guide
 ## Purpose
 This form helps you gather essential project information to discuss with our low-code development experts. Please fill it out carefully and honestly to get the most relevant advice.

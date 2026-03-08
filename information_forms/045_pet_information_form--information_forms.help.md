@@ -1,7 +1,3 @@
-<thinking>
-The Pet Information Form is a crucial tool for pet owners and veterinary clinics to collect and document essential information about pets. This form helps gather details such as pet type, age, breed, and medical conditions, making it easier for owners and veterinarians to provide the best possible care. To avoid duplication, please ensure that each pet's information is unique and not duplicated in the system.
-</thinking>
-
 # Pet Information Form - Help Guide
 ## Purpose
 The Pet Information Form is designed to collect and document essential information about pets, helping pet owners and veterinary clinics provide the best possible care.

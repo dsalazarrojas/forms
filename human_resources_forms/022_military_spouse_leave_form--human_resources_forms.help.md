@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for military personnel to request leave for their spouses, allowing them to take time off for various reasons such as military deployment, family events, or bereavement. The purpose of this form is to provide a standardized way for military personnel to submit leave requests, which will be reviewed and processed by relevant authorities. To complete this form, simply fill out the required fields and provide any additional context or information as needed. Please note that some fields are optional and can be left blank. This form will not be duplicated or used for any other purpose other than the submission of a leave request for military spouses.</thinking>
-
 # Military Spouse Leave Form - Help Guide
 ## Purpose
 The Military Spouse Leave Form is a standardized form for military personnel to request leave for their spouses. This form is used to provide a clear and concise way to submit leave requests, allowing for efficient processing and review by relevant authorities.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to input information about the ideal weight of a user or client. The purpose of this form is to gather data on what weight a user considers their ideal weight. The ideal weight may be based on their personal preferences, health goals, or medical requirements. This information will be used for various purposes, such as tracking progress or providing health advice. Before completing this form, make sure this is the correct form for your intended use case. If you are looking for a different form, please check the relevant sections in our system documentation.
-
-</thinking>
-
 # Ideal Weight Information Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about your ideal weight, which will be used for various purposes such as tracking progress or providing health advice.

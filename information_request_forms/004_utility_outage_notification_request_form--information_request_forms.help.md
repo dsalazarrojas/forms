@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to request notification of a utility outage. It's used for end-users to report a utility outage, allowing them to provide necessary information to help with the outage response process.
-Before proceeding, ensure the outage has not already been reported, as duplicating the report may lead to confusion and inefficiency. To prevent this, the form will ask for user details, location, the type of outage, and a description of the issue.
-The following instructions will help you complete the form correctly.
-</thinking>
-
 # Utility Outage Notification Request Form - Help Guide
 
 ## Purpose

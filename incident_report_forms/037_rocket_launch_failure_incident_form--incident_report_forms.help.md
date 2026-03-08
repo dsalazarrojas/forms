@@ -1,10 +1,3 @@
-<thinking>
-The "Rocket Launch Failure Incident Form" is designed to document and report incidents of rocket launch failures, which can be critical events that impact the safety and success of a mission. This form helps gather necessary information to analyze and understand the root causes of such failures, ultimately informing corrective actions to prevent similar incidents in the future.
-
-When filling out this form, please ensure that you are reporting an actual rocket launch failure incident that occurred. Duplicate submissions for the same incident may cause confusion and delay analysis. Please make sure to fill out the form with accurate and detailed information to ensure a thorough investigation.
-
-</thinking>
-
 # Rocket Launch Failure Incident Form - Help Guide
 ## Purpose
 The Rocket Launch Failure Incident Form is a tool to document and report rocket launch failures, providing essential information for analysis and corrective actions.

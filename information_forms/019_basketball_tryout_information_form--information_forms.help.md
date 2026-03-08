@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Basketball Tryout Information Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to obtain informed consent from patients for medical treatments. Informed consent is a legal requirement for medical professionals to ensure patients are aware of the risks and benefits of a treatment before it begins. This form should only be used for patients who are receiving treatment. 
-</thinking>
-
 # Treatment Consent Form - Help Guide
 ## Purpose
 This form is used to obtain informed consent from patients before they receive medical treatment. It ensures that patients understand the risks and benefits of the treatment and are willing to accept it.

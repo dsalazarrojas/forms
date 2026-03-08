@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'm tasked with creating a user-facing help guide for the "incident report check in form". This form is designed to collect information about incidents, and it's crucial that users understand its purpose and how to fill it out correctly. Before I begin writing the help guide, I'll review the form's properties to ensure I cover all the necessary fields and provide clear explanations for each section. The form has 14 fields in total, each with its own label, type, and required status.</thinking>
-
 # incident report check in form - Help Guide
 ## Purpose
 The incident report check in form is designed to collect information about incidents. It's essential to fill out this form accurately and thoroughly to ensure that the incident is properly documented and addressed.

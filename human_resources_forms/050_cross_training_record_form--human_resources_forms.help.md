@@ -1,9 +1,3 @@
-<thinking>
-This form is used to record cross-training sessions, which are essential for employees to gain new skills and knowledge to support their growth and development within the organization. Cross-training helps employees to be adaptable and responsive to changing work requirements and ensures that they are equipped to handle various tasks and responsibilities. To ensure that this form is completed accurately and consistently, it is essential to understand its purpose and the required fields. 
-
-Before filling out the form, please check if you are not already aware of the results of a similar session and if the training session's details are not already recorded elsewhere. Ensure that all required fields are filled out correctly and provide as much detail as possible in optional fields.
-</thinking>
-
 # Cross Training Record Form - Help Guide
 ## Purpose
 The Cross Training Record Form is used to document the details of cross-training sessions, which are essential for employees to gain new skills and knowledge to support their growth and development within the organization.

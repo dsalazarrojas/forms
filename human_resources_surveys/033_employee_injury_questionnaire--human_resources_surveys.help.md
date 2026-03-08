@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # employee_injury_questionnaire - Help Guide
 
 ## Purpose

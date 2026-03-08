@@ -1,5 +1,3 @@
-<thinking>This form is used to document and record disciplinary actions taken against employees for absences. The form is designed to capture relevant details from both the manager and the employee to ensure a clear understanding of the incident. It's essential to complete this form accurately and thoroughly to maintain a fair and transparent record of disciplinary actions. Before starting, please check that you're not duplicating efforts by reviewing similar forms or records related to this incident. If the form seems repetitive, please investigate and report it to the relevant authorities.</thinking>
-
 # Disciplinary Action Absence Form - Help Guide
 ## Purpose
 The Disciplinary Action Absence Form is used to document and record disciplinary actions taken against employees for absences. This form captures details from both the manager and the employee to ensure a clear understanding of the incident.

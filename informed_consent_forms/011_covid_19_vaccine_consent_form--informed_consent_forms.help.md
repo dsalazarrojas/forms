@@ -1,8 +1,3 @@
-<thinking>
-You are about to generate a help guide for the "COVID 19 Vaccine Consent Form". This form is designed to gather information from participants to ensure they are aware of the risks and benefits of the COVID-19 vaccine, as well as their medical history and previous COVID-19 status. The form is divided into several sections, including participant information, informed consent, medical history, and parent/guardian information if applicable. Please make sure to carefully review each field and answer accordingly.
-
-</thinking>
-
 # COVID 19 Vaccine Consent Form - Help Guide
 ## Purpose
 The COVID 19 Vaccine Consent Form is a document that you are required to complete before receiving the COVID-19 vaccine. It is designed to ensure that you are aware of the risks and benefits of the vaccine, as well as your medical history and previous COVID-19 status.

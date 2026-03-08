@@ -1,11 +1,3 @@
-<thinking>
-The form is designed to collect consent and a reflection story from students, parents, and other stakeholders involved in online learning. Each section is meant to gather information from different parties, ensuring that all individuals involved are aware of and agree to share their story. The form's purpose is to capture the nuances of online learning experiences, and its design is inspired by public survey topic metadata.
-
-Given the variety of consents and the required field of "Story" on page 6, it is recommended that users fill out their personal information, consents, and story in one session. This will ensure that the form is completed consistently and accurately.
-
-It is also important to note that this form is created using AI and is not affiliated with or endorsed by any form platform. You are free to use, modify, and even sell forms derived from this original adaptation.
-</thinking>
-
 # Online Learning Reflection Story Consent Form - Help Guide
 ## Purpose
 The Online Learning Reflection Story Consent Form is a tool designed to collect consent and a reflection story from students, parents, and other stakeholders involved in online learning experiences.

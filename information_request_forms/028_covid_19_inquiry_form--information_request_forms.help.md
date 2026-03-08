@@ -1,7 +1,3 @@
-<thinking>
-We need to make sure that users know the purpose of this form and understand that it should only be filled out by people who are inquiring about COVID-19 related issues. Additionally, we need to check that users are not duplicating their requests, as this form is meant to capture unique queries. If a user has filled out this form already, they should not be able to fill it out again. This form is meant to collect information from inquirers about their experiences, concerns, or questions related to COVID-19. It's a crucial tool for our organization to better understand how to address the pandemic and provide assistance to those in need.
-</thinking>
-
 # COVID 19 Inquiry Form - Help Guide
 ## Purpose
 The COVID-19 Inquiry Form is designed to collect information from individuals about their experiences, concerns, or questions related to COVID-19. This form helps our organization understand the situation and provide assistance to those in need.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about incidents that occur within the workplace. It is intended for use by employees, management, or other personnel responsible for health and safety procedures. Please ensure that this form is filled out for every incident, even if it seems minor or insignificant, to maintain accurate records and facilitate effective incident reporting.
-
-When filling out this form, please make sure to answer all required questions truthfully and to the best of your ability. If you're unsure about any information or have questions, do not hesitate to contact the designated authority for assistance.
-
-</thinking>
-
 # health_and_safety_incident_form - Help Guide
 ## Purpose
 The Health and Safety Incident Form is a tool used to record and report incidents that occur within the workplace. This form helps to gather accurate and detailed information about each incident, which is essential for maintaining a safe and healthy work environment.

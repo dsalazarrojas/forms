@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Kickball Waiver Form is a document that requires users to provide their consent before participating in kickball activities. This form is usually required for events or programs where users will be engaging in physical activities that may pose a risk of injury. The form is designed to be completed by the user themselves, and it's essential that they fill it out accurately and truthfully.
 
 ## Purpose

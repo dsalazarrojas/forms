@@ -1,10 +1,3 @@
-<thinking>
-This is a form designer and technical writer's paradise! Let's create a comprehensive user-facing help guide for the Applicant Screening Form. 
-
-The form is used to collect applicant information for screening purposes. The form is divided into sections, each with a specific set of fields designed to gather essential details about the applicant. This form is intended to help hiring managers or screening teams efficiently evaluate applicants without duplication of effort. 
-
-</thinking>
-
 # Applicant Screening Form - Help Guide
 ## Purpose
 The Applicant Screening Form is a tool used to collect and evaluate applicant information for various positions. This form helps hiring managers or screening teams quickly and accurately gather necessary details about each applicant.

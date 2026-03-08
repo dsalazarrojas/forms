@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to update user profiles. It allows users to input and edit their personal details such as first name, last name, email, phone number, date and time of birth, and other relevant information. This form is not intended for users to create new profiles, but rather to make changes to their existing ones.
-It's essential to fill out this form accurately and thoroughly to ensure that your profile information is up-to-date and correct. Please note that some fields may not be required, but filling them out will help improve the services we can provide to you.
-Before starting, please review the form carefully and make sure you're not duplicating any existing information. If you're unsure about any field, please ask for clarification before proceeding.
-</thinking>
-
 # Update Your Profile Form - Help Guide
 ## Purpose
 The purpose of this form is to update your profile information. This includes filling out fields such as first name, last name, email, phone number, date and time of birth, and other details.

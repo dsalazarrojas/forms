@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the "employee_mileage_record_request_form", we need to understand the form's purpose and how it should be completed by users. From the provided YAML, we can see that this form is for recording employee mileage, which likely involves tracking business-related travel. 
 
 The form has six fields: Employee, Start Date, End Date, Distance, Purpose, and Assigned Tool. The form is likely used by employees to request reimbursement for business travel, and the information collected will help the company track and manage employee expenses. 

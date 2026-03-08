@@ -1,7 +1,3 @@
-<thinking>
-This is a form for potential partners to provide contact information, partnership details, and their company's capabilities and resources. It's designed to help the automation network team understand their potential partners' interests, strengths, and goals. The form should not be duplicated by existing records, so only one submission per partner is recommended.
-</thinking>
-
 # Automation Network Partner Contact Form - Help Guide
 ## Purpose
 The Automation Network Partner Contact Form is a tool for potential partners to share their contact and company information, as well as their partnership interests and capabilities. This form helps us understand your company's strengths, goals, and expectations from a partnership.

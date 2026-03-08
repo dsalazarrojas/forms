@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to assess the "interview readiness quiz" of an individual. The purpose of the form is to measure how prepared and confident one feels about participating in a mock interview or assessment, and what their strengths and weaknesses are in certain areas. 
-
-To avoid duplication and ensure relevance, this form has been designed for individuals who are preparing to attend a mock interview. 
-
-</thinking>
-
 # interview_readiness_quiz - Help Guide
 ## Purpose
 This form is designed to assess the "interview readiness quiz" of an individual. The purpose of the form is to measure how prepared and confident one feels about participating in a mock interview or assessment, and what their strengths and weaknesses are in certain areas.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist end users in completing the "Employee Data Sheet Form" in a clear and concise manner. To ensure relevance and non-duplication, it is essential to verify that this form is being used for its intended purpose and not for any other reason. This form appears to be designed to collect employee-related data, specifically for HR purposes.
-
-</thinking>
 # Employee Data Sheet Form - Help Guide
 ## Purpose
 The "Employee Data Sheet Form" is a document used to record and maintain up-to-date information about employees in an organization. This form will help ensure that all essential employee data is accurately collected and stored.

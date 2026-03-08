@@ -1,14 +1,3 @@
-<thinking>
-This form is used to track and document personnel actions taken on employees within the organization. It is a crucial tool for HR teams to maintain accurate records and ensure consistency in decision-making processes. Before proceeding, please ensure that you have the necessary permissions and access rights to access this form.
-
-To determine if this form is applicable to you, check the following:
-
-* You are a member of the HR team or have relevant permissions to access HR-related forms.
-* The action being documented is relevant to employee personnel management.
-* You are not duplicating an already existing record.
-
-</thinking>
-
 # personnel_action_form - Help Guide
 ## Purpose
 The "personnel_action_form" is used to document and track personnel actions within the organization. It helps ensure accuracy and consistency in personnel management decisions.

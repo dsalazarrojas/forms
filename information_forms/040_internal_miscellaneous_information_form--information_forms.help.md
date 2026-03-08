@@ -1,7 +1,3 @@
-<thinking>
-We can use this form for collecting internal information about various types of requests, updates, and statuses. This form helps to keep track of internal processes, ensuring that all necessary details are recorded accurately. Please make sure to fill out the form completely and truthfully to maintain consistency and clarity in your documentation. Before filling out the form, make sure that you are not duplicating information that may already exist in other forms or requests.
-</thinking>
-
 # Internal Miscellaneous Information Form - Help Guide
 ## Purpose
 The Internal Miscellaneous Information Form is used to document internal information about various types of requests, updates, and statuses. This form is meant for capturing specific details that are not necessarily relevant to the primary purpose of the request, but are still important for internal reference and tracking.

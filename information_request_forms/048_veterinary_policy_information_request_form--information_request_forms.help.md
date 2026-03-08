@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Veterinary Policy Information Request Form - Help Guide
 ## Purpose
 This form is designed to collect information about veterinary policies from pet owners. The form helps gather data on the details of pet insurance, owner information, and policy details, which is essential for providing relevant support and services to pet owners.

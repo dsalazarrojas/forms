@@ -1,7 +1,3 @@
-<thinking>
-This form is used for estheticians to give consent for services offered by the clinic. This form is intended to be used by clinics to gather information on services offered and consent from clients. The form should not be used for other purposes.
-</thinking>
-
 # esthetician_consent_form - Help Guide
 ## Purpose
 The Esthetician Consent Form is used to gather information and consent from clients for esthetician services offered by the clinic.

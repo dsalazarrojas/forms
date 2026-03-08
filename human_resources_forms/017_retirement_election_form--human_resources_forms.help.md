@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to assist HR personnel in the process of handling employee retirements. It should not be used for other purposes or as a substitute for other forms. The form is not meant for internal use and should only be filled out by employees or their authorized representatives.
-
-</thinking>
-
 # Retirement Election Form - Help Guide
 ## Purpose
 This form is used to gather information from employees regarding their retirement plans and benefits. It is essential to provide accurate and complete information to ensure a smooth transition during this significant life event.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for obtaining informed consent from patients before undergoing a medical procedure. It's crucial that patients understand the risks, benefits, and requirements of the procedure, which is why this form aims to gather information about the patient's medical history, the procedure itself, and the patient's understanding of the procedure. 
-</thinking>
-
 # Procedure Consent Form - Help Guide
 ## Purpose
 The Procedure Consent Form is used to obtain informed consent from patients before undergoing a medical procedure. This form helps to ensure that patients understand the risks, benefits, and requirements of the procedure, which is essential for their safety and well-being.

@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to collect travel declarations from students, which is relevant to tracking and managing student travel for administrative or security purposes. It's possible that this form is used to prevent the spread of diseases or to keep track of student travel for school events or programs. It's also possible that this form is used to obtain consent for students to travel outside their state or country for school-related activities. To prevent duplication, the form should be filled out accurately and thoroughly, and the information should match the student's actual travel details.
-</thinking>
-
 # Student Travel Declaration Form - Help Guide
 
 ## Purpose

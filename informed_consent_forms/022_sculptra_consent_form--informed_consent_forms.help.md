@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # sculptra_consent_form - Help Guide
 
 ## Purpose

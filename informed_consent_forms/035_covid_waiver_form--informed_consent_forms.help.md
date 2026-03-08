@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect informed consent from patients for medical organizations such as hospitals and clinics. The form should only be used for patients who are receiving or have received COVID-19 treatments. It's essential to ensure that you're using this form correctly and not duplicating effort.
-</thinking>
-
 # Covid Waiver Form - Help Guide
 ## Purpose
 This form is used to collect informed consent from patients who are receiving or have received COVID-19 treatments.

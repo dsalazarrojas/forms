@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Farewell Gift Contribution Form is designed to collect user information and contribution details for gift-giving purposes. This form is intended for users to provide their personal data and contribution information in a structured and organized manner. It is crucial to fill out the form accurately and completely to ensure that the gift-giving process is successful.
 
 ## Farewell Gift Contribution Form - Help Guide

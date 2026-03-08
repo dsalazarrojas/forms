@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for collecting information about influencers and their partnerships with advertisers. It is used to capture details about the influencer, the advertiser, their social media accounts, marketing campaigns, and terms of agreement. To prevent duplication, make sure that you are not using a similar form already created for the same purpose.
-</thinking>
-
 # Influencer Contract Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information for influencer and advertiser partnerships, ensuring both parties have a clear understanding of the collaboration. Please fill out the form accurately and thoroughly to ensure a successful partnership.

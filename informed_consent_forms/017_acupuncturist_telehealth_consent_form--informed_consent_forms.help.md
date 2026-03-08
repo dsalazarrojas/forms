@@ -1,13 +1,3 @@
-<thinking>
-This form is designed for patients to provide informed consent for telehealth consultations with acupuncturists, acknowledging the limitations and risks associated with virtual sessions compared to in-person visits. This guide will ensure that patients understand the purpose of the form, how to complete it, and what each field means to ensure accurate and informed consent.
-
-The form is divided into several sections, each addressing a specific aspect of telehealth consultations. This guide will walk you through each section, explaining the purpose and requirements of each field.
-
-The form includes fields for patient information (full name, location, and contact details), consent for the use of HIPAA-compliant platforms, and acknowledgment of the risks and limitations of telehealth consultations. This guide will break down each field to help patients understand their importance in providing informed consent.
-
-This form is critical for patients to understand their rights and responsibilities during telehealth consultations, ensuring they are aware of the potential risks and limitations of virtual sessions.
-</thinking>
-
 # Acupuncturist Telehealth Consent Form - Help Guide
 ## Purpose
 This form is for patients to provide informed consent for telehealth consultations with acupuncturists. It ensures that patients understand the limitations and risks associated with virtual sessions compared to in-person visits.

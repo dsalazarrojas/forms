@@ -1,12 +1,3 @@
-<thinking>
-Before creating the help guide, let's break down the form purpose and ensure it's not a duplication. Based on the provided YAML, the form is designed for reporting workplace violence incidents in a manufacturing setting. This form aims to collect essential details about the incident, including location, date and time, description, perpetrator, victim, witness, and other relevant information.
-
-To avoid duplication, the form seems to be a comprehensive collection of various incident details, which is not readily available in other areas of the application. However, it's essential to verify this assumption and confirm that this form is not duplicating existing functionality.
-
-Assuming the form is unique, let's move on to creating the help guide.
-
-</thinking>
-
 # Manufacturing Workplace Violence Incident Report - Help Guide
 ## Purpose
 This form is designed to report workplace violence incidents in a manufacturing setting. It helps to collect and document essential details about the incident, which is crucial for incident management and follow-up actions.

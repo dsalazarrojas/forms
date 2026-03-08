@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This block will help us understand that this form was created for the human resources department to collect data from job applicants before an interview. The form collects information about the applicant, including their name, contact details, work experience, job title, and other relevant details. It will likely be used by HR to assess the applicant's qualifications and prepare for the interview process. It is likely that the form will not be filled out by multiple people at the same time. The form is quite standard, collecting basic information about the applicant with only a few optional fields.</thinking>
 
 # Pre Interview Questionnaire - Help Guide

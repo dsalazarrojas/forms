@@ -1,17 +1,3 @@
-<thinking>
-
-This form appears to be a scorecard form used to track the progress and status of research intern interviews. It's likely used to gather feedback, score, and other relevant information about the interview. 
-
-The form likely has multiple fields for different types of data, including:
-* Select options for scoring and status of the interview
-* Fields for date and time of the interview
-* Fields for comments and notes from the interviewer
-* Fields for version and modification history of the form
-
-This form may be used by HR or research teams to keep track of research intern interviews, providing a structured way to gather and store information.
-
-</thinking>
-
 # Research Intern Interview Scorecard Form - Help Guide
 ## Purpose
 The Research Intern Interview Scorecard Form is used to track the progress and status of research intern interviews. It helps gather feedback, scores, and other relevant information about the interview.

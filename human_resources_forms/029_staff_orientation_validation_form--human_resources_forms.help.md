@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form, "staff_orientation_validation_form", is to collect information and validate the orientation process of new staff members. It appears to be a comprehensive form designed to gather details about new employees, including their contact numbers, job titles, supervisors, departments, job descriptions, employee types, training status, evaluation dates, times, feedback, comments, and signatures. This form likely serves as a centralized document for tracking and validating the orientation process, ensuring that all necessary steps are completed and signed off by both employees and their supervisors.
-
-To avoid duplication and ensure accurate completion, please review each field carefully and ensure that all required fields are filled in correctly.
-
-</thinking>
-
 # staff_orientation_validation_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information and validate the orientation process of new staff members.

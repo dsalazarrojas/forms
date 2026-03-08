@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to provide a structured and fair evaluation of a leader's performance over a specific period. This form is used by managers to assess their team leaders' performance in various areas, providing a balanced view of their strengths and weaknesses. The evaluation period is crucial for making informed decisions about promotions, training, and development opportunities.
-</thinking>
-
 # Monthly Leader Evaluation Form - Help Guide
 ## Purpose
 The Monthly Leader Evaluation Form is a tool used to assess a team leader's performance during the evaluation period. The form is completed by the manager and provides a fair and structured evaluation of the leader's performance.

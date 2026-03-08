@@ -1,7 +1,3 @@
-<thinking>
-The Water Project Beneficiary Interview Consent Form is a crucial part of our water project, ensuring that participants are fully aware and agreeable to the terms and conditions of the project. Before proceeding, we need to establish informed consent from the beneficiaries, which includes ensuring that they understand the project's objectives, risks, and benefits. This form is designed to collect essential information about the participant, including their name, contact details, and consent status. It also allows us to verify their agreement with the project terms and conditions. Please note that this form is for informational purposes only and is not meant to be used as a legal document.
-</thinking>
-
 # Water Project Beneficiary Interview Consent Form - Help Guide
 ## Purpose
 The Water Project Beneficiary Interview Consent Form is a crucial step in the process of engaging with water project beneficiaries to ensure informed consent and agreement to the project terms.

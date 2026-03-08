@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about structural failure incidents. The purpose of this form is to gather details about incidents that occur related to structural failures, such as equipment malfunctions, system failures, or other structural issues. This information will be used to help identify patterns and causes of structural failures, and to inform decision-making and corrective actions. To ensure accurate and consistent reporting, it is essential that users understand the purpose and context of this form and that the fields are completed accurately.
-
-The form is used by incident reporters to report structural failures that have occurred. Users should only report incidents that they are authorized to report, and the fields should be completed according to their knowledge and experience related to the incident.
-
-This guide will help users navigate the form and understand what each field represents, ensuring that the form is completed correctly and efficiently.
-</thinking>
-
 # structural_failure_incident_form - Help Guide
 ## Purpose
 The structural_failure_incident_form is designed to collect information about structural failure incidents that have occurred. This information is used to help identify patterns and causes of structural failures, and to inform decision-making and corrective actions.

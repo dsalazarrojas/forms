@@ -1,5 +1,3 @@
-<thinking>...This form is used to update the bio information of a dog. The purpose of this form is to gather information about the dog's breed, size, color, fur length, behavior, and photo details. This form helps the dog owner or handler update the dog's information in a centralized system, ensuring that the dog's profile is up-to-date and accurate.</thinking>
-
 # Dog Bio Update Form - Help Guide
 ## Purpose
 The Dog Bio Update Form is used to update the bio information of a dog. This form helps you provide accurate and up-to-date information about your dog's breed, size, color, fur length, behavior, and photo details.

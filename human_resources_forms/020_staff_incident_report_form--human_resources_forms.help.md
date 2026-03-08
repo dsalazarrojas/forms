@@ -1,5 +1,3 @@
-<thinking>...This form is for staff members to report incidents that have occurred in the workplace. It is used to document and track incidents in a clear and concise manner. Before filling out this form, please ensure that you have not already reported the incident. If you are unsure, please check the incident database to avoid duplication of effort. To complete this form, please provide as much detail as possible, and follow the guidelines below...</thinking>
-
 # Staff Incident Report Form - Help Guide
 ## Purpose
 This form is for staff members to report incidents that have occurred in the workplace. It is used to document and track incidents in a clear and concise manner.

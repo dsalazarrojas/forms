@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to capture information about incidents responded by the Volunteer Fire Department. It's intended for use in logging and reporting incidents that the department responds to, and is likely used by firefighters, administrators, and other personnel involved in the response process.
-
-This form should only be filled out after an incident has occurred, and is likely used in conjunction with other documentation and reporting processes internal to the department. It's possible that the form may be used in conjunction with other forms, such as incident reports or reports on response activities. Before filling out this form, please ensure that the incident has been documented and reported as necessary according to departmental procedures.
-
-</thinking>
-
 # Volunteer Fire Department Run Log - Help Guide
 ## Purpose
 The Volunteer Fire Department Run Log is a form used to document and report on incidents responded by the department. It captures key information about the incident, including date, time, location, and details about the response.

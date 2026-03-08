@@ -1,13 +1,3 @@
-<thinking>
-
-As a form expert designer and technical writer, I'd like to create a user-facing help guide for the "sopw_officer_committee_member_agreement" form. This form is intended for Sopw officer committee members to confirm their integrity and confidentiality. Upon analyzing the provided YAML fields, I understand that the form has three fields:
-
-1.  "officer_and_committee_member_agreement" (ID 1): This field is a text input and has no hint or options associated with it. As a best-effort interpretation, I believe it's a field where committee members can enter their name or a brief statement confirming their agreement to the committee's code of conduct.
-2.  "confirm_integrity" (ID 2): Another text input field with no hint or options. This field likely seeks confirmation from committee members that they will maintain the highest level of integrity in their work and dealings with the committee and Sopw.
-3.  "confirm_confidentiality" (ID 3): A third text input field with no hint or options. This field probably asks committee members to confirm their commitment to confidentiality, ensuring they handle sensitive information with care.
-
-</thinking>
-
 # sopw_officer_committee_member_agreement - Help Guide
 ## Purpose
 

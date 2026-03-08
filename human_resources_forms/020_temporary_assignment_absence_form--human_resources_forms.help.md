@@ -1,7 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide for the Temporary Assignment Absence Form. This form is intended for temporary assignment absence, which is a process where an employee is temporarily assigned to a different role or project. This form is likely used by HR personnel or managers to track and manage such assignments.
-
-When completing this form, please ensure that you have the necessary approvals and follow-up procedures to avoid duplication of efforts. Ensure that you have discussed and agreed upon the temporary assignment with the affected parties before submitting the form.</thinking>
-
 # Temporary Assignment Absence Form - Help Guide
 ## Purpose
 

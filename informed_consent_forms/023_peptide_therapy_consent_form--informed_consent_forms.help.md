@@ -1,5 +1,3 @@
-<thinking>... Form purpose: This form is for patients to provide informed consent for peptide therapy, a type of medication or treatment that involves the use of peptides to manage various medical conditions. The form will gather information from the patient, including their personal details, medical history, and consent for the therapy. It will also capture the doctor's and clinic's information for verification purposes. The form is designed to ensure that patients understand the treatment and its risks, and that they consent to receive it. This form does not duplicate any existing forms in our system, and it is a new and original adaptation of a public survey topic. ...</thinking>
-
 # peptide_therapy_consent_form - Help Guide
 ## Purpose
 This form is for patients to provide informed consent for peptide therapy, a type of medication or treatment that involves the use of peptides to manage various medical conditions.

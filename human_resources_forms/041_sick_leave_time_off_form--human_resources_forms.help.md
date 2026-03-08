@@ -1,10 +1,3 @@
-<thinking>
-This form is used for employees to request a sick leave, which is a period of unpaid absence from work due to illness or other medical reason. To ensure that all necessary information is provided, this form is designed to be completed in a specific manner. Before proceeding, please review the following fields to ensure you don't duplicate information or provide any unnecessary details.
-
-The form is split into several pages, and you are required to complete each page in sequence. Ensure that you provide accurate and valid information for each field as you navigate through the form. If you're unsure about any field, please don't hesitate to consult your HR representative or refer back to this guide.
-
-</thinking>
-
 # Sick Leave Time Off Form - Help Guide
 ## Purpose
 The purpose of this form is to request a sick leave from work due to illness or other medical reasons. It's essential to provide accurate and detailed information to ensure that your request is processed efficiently.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect student information, including their responsibilities and agreements with their teacher and parent. The teacher must ensure that students read and understand school rules before completing this form. Each field should be filled out accurately and thoroughly, taking into account the specific details of each student. Before filling out this form, please make sure you're completing it for the right student and that it's not a duplicate submission.
-</thinking>
-
 # Student Responsibility Agreement Form - Help Guide
 ## Purpose
 This form is used to collect information from students regarding their responsibilities and agreements with their teacher and parent.

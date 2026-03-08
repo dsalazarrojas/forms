@@ -1,7 +1,3 @@
-<thinking>
-This form is used to track new employee information for the company's payroll purposes. It will likely be reviewed and processed internally by the HR department. Please review the form carefully to ensure all required and optional fields are completed accurately.
-</thinking>
-
 # New Hire Payroll Form - Help Guide
 ## Purpose
 The New Hire Payroll Form is used to collect and track essential information about new employees for the company's payroll purposes. This form will be reviewed and processed internally by the HR department.

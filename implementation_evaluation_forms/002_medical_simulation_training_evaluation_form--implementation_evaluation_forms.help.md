@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide is meant to be a clear and concise reference for end-users on how to complete the "Medical Simulation Training Evaluation Form". 
 
 The form is designed to gather feedback and evaluations from users who have participated in a medical simulation training session. This feedback is crucial for trainers and course administrators to refine the training program and improve future sessions. 

@@ -1,12 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a Supplier Information Form. This form is used to collect information about suppliers, including their company name, contact details, and status. The purpose of this form is likely for internal use within a company or organization, perhaps for supplier management or inventory tracking. To confirm, this form is not for public-facing purposes, such as a public directory or public-facing website. 
-
-To confirm that this form is not a duplicate, let's check if there are any similar forms within the same category. After reviewing the category "information_forms", I couldn't find any forms with similar purposes or fields. This form appears to be a unique collection of supplier information.
-
-Before creating the guide, I'll need to analyze the form fields. The form has several fields, including text inputs for company name, contact details, and description. It also has select_one options for supplier type and supplier status. There are date fields for creation and update timestamps, as well as fields for user information. Lastly, there are fields for notes and active status.
-
-</thinking>
-
 # Supplier Information Form - Help Guide
 ## Purpose
 The Supplier Information Form is used to collect and store information about suppliers. This includes their company name, contact details, supplier type, and status.

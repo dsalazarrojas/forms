@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Visitor Information Form - Help Guide
 ## Purpose
 The purpose of this form is to collect visitor information for a specified time period. You will be asked to input your time of entry, time of departure, reason for your visit, email address, and other relevant details. This information is essential to provide a smooth and secure experience for everyone.

@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 This form is intended to be a tool for HR to process employee requests for sick leave. It allows employees to submit their leave requests with relevant details such as employee ID, start and end dates, and reason for absence. This form also includes an approval process by the manager, which provides a way for HR to evaluate the validity of the request. This form is only meant for internal use and should not be filled out by non-employees. It is recommended to use this form when there's a legitimate reason for a sick leave request.
 </thinking>
 

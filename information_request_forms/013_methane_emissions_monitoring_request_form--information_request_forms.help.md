@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to collect information about a specific site for methane emissions monitoring. The purpose of this form is to ensure that site visit details are accurately recorded and site-specific information is captured. This form will be used to generate a comprehensive report for future reference. 
-
-Before starting the form, please ensure that you have all the required information and that you are filling out the form for the correct site. 
-
-To avoid any discrepancies, please double-check the information you enter in the form and ensure that it matches with the site visit notes and other relevant documents. 
-
-Please note that the form has multiple sections for site visit notes, which can be used to capture any additional information or observations made during the site visit. 
-
-Also, please be aware that some fields like site status and monitoring frequency might require additional clarification. Site status might be Active, Inactive, or Pending, and monitoring frequency might be Daily, Weekly, Monthly, Quarterly, Semiannually, or Annually. 
-
-With these considerations in mind, let's proceed with the instructions on how to complete this form.
-</thinking>
-
 # Methane Emissions Monitoring Request Form - Help Guide
 ## Purpose
 This form is used to collect site-specific information for methane emissions monitoring.

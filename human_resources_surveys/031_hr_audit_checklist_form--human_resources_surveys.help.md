@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # HR Audit Checklist Form - Help Guide
 ## Purpose
 

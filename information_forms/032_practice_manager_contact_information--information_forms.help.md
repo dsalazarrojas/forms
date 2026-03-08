@@ -1,6 +1,3 @@
-<thinking>
-The form is intended to collect practice manager contact information for the organization, including their name, title, email, phone numbers, addresses, and other relevant details. This form likely serves as a centralized repository for practice manager information, making it easier for users to find and contact them. To ensure accuracy and consistency, it's essential to ensure that the same practice manager is not duplicated in the database. This form might be used by administrators or practice managers to update or add new information about practice managers, or by other users who need to contact them for business purposes. Before proceeding, please review your practice manager contact information to ensure it's up-to-date and accurate. If you're unsure about any of the fields or their requirements, please refer to the field explanations below.</thinking>
-
 # Practice Manager Contact Information - Help Guide
 ## Purpose
 This form is used to collect and manage contact information for Practice Managers, making it easier for users to find and contact them.

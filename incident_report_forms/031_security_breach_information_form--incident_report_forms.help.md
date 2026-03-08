@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of the security_breach_information_form is to collect information about a security breach, including its summary, description, date, impact, classification, and other relevant details. This form is intended to be used by security professionals to gather information and report on security incidents in a structured and consistent manner.
 
 ## security_breach_information_form - Help Guide

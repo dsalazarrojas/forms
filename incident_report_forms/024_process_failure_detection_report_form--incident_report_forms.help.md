@@ -1,17 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "process_failure_detection_report_form" form, let's first establish the purpose of this form and the potential duplication and relevance checks that should be performed by the form creator.
-
-The "process_failure_detection_report_form" form is designed to collect information about process failures that have occurred. The form is intended for use by personnel within the organization to report and document process failures, which are then used for analysis and improvement purposes. 
-
-When creating this form, the form creator should consider the following:
-
-* The form should only be used for process failures that have not been previously reported or documented.
-* The form should be used to report specific, concrete events or incidents that have occurred.
-* The form should include all relevant details about the incident, including start and end dates, severity, and evidence attachment (if applicable).
-* The form should not be used for general or speculative reporting.
-
-</thinking>
-
 # process_failure_detection_report_form - Help Guide
 ## Purpose
 The process_failure_detection_report_form is designed to collect information about process failures that have occurred within the organization. This form is used to document and analyze specific, concrete events or incidents, and should not be used for general or speculative reporting.

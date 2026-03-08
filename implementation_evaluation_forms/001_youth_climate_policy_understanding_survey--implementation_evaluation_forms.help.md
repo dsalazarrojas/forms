@@ -1,14 +1,3 @@
-<thinking>
-This survey is designed to assess an individual's understanding of youth climate policy, its implementation, and its effectiveness in addressing climate change. The survey aims to gather insights into the respondent's knowledge, beliefs, and attitudes towards climate policy, its priorities, and the role of various sources of information in shaping their understanding.
-
-The survey will likely be used to inform policy makers, researchers, and other stakeholders about the youth perspective on climate policy, which can be useful for creating more effective and inclusive climate policy strategies. It is unlikely that this survey is meant to be a comprehensive, scientifically validated tool. It is more about gathering general understanding and opinions.
-
-The survey questions are designed to be self-explanatory, making it easy for respondents to understand the intent behind each question without extensive background knowledge or explanation. However, this survey might not be a formal, validated tool.
-
-This guide is intended to provide clear and concise instructions on how to complete the survey, along with explanations for each field to help respondents understand the purpose and context behind each question.
-
-</thinking>
-
 # Youth Climate Policy Understanding Survey - Help Guide
 ## Purpose
 This survey is designed to assess an individual's understanding of youth climate policy, its implementation, and its effectiveness in addressing climate change.

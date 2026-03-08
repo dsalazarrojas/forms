@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect social media information from users for internal purposes. It is not intended for external sharing or public visibility. The form is divided into multiple pages, each collecting information from a specific social media platform. The information collected will be used for internal purposes only and will not be shared or disclosed to any third party. Please ensure that you only fill out the fields that are relevant to your social media presence.
-</thinking>
-
 # Social Media Information Request - Help Guide
 
 ## Purpose

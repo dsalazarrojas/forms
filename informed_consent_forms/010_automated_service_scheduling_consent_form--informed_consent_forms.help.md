@@ -1,34 +1,3 @@
-<thinking>
-This form is designed to capture information from a client for an automated service scheduling system. The form is used to collect data about the client's service needs, including service name, scheduled date and time, service provider, and other relevant details. Additionally, the form collects personal and contact information of the client, such as full name, email, phone number, and date of birth. The form also includes sections to capture health and medical information, if necessary, and a consent agreement for the client's data use and automated appointment scheduling.
-
-The form checks for redundancy before proceeding to the next section. If the form has been filled out multiple times with the same client information, it will prompt the user to review and confirm the information before proceeding.
-
-To prevent duplication of service scheduling, the system will also check for duplicate entries based on client information. If a duplicate entry is found, the user will be prompted to review and confirm the information before proceeding.
-
-This form requires the following fields:
-
-* Service name
-* Scheduled service date
-* Scheduled service time
-* Service provider name
-* Client full name
-* Client email
-* Client phone number
-* Date of birth (optional)
-* Type of service
-* Service description
-* Expected service duration
-* Health conditions
-* Allergies
-* Medications
-* Consent to automated scheduling and reminders
-* Consent to data collection and use
-* Consent to assumption of risks
-
-The form also includes a signature section where the client confirms their consent. 
-
-</thinking>
-
 # Automated Service Scheduling Consent Form - Help Guide
 ## Purpose
 This form is used to collect information from clients for the automated service scheduling system.

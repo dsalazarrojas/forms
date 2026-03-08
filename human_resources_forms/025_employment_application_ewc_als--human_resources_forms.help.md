@@ -1,18 +1,3 @@
-<thinking>
-The Employment Application EWC/ALS form is used to collect information for employment purposes, specifically for internal use within the company. This form is designed to capture relevant details such as work experience, education, contact information, work history, job skills, job references, employment status, and job history. The purpose of this form is to assist hiring managers and recruiters in the employee onboarding process.
-
-To complete this form, start by providing main information about yourself, including your title, name, and contact details. You will then be asked if you have any work experience. If you have any relevant work experience, select 'Yes' and provide details in the 'Work History' field. If not, select 'No'.
-
-Next, provide information about your education background, and upload or type out your resume. 
-
-You will be asked about references and if you have any job skills that are relevant to the role you are applying for. If you have any job references, provide their name and contact information. Select all relevant job skills you possess. 
-
-Finally, indicate your current employment status and provide any job history that may be relevant to the role.
-
-The following fields will guide you through the process:
-
-</thinking>
-
 # Employment Application EWC/ALS - Help Guide
 
 ## Purpose

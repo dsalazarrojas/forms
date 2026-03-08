@@ -1,9 +1,3 @@
-<thinking>
-
-The form's purpose is to collect information about a reported injury that occurred during the incident. This form is intended for employees to document the details of their injuries, including the incident details, injury description, medical attendance, and witness information. The form aims to gather relevant data to aid in the investigation and resolution of workplace incidents.
-
-</thinking>
-
 # Injury Declaration Form - Help Guide
 ## Purpose
 

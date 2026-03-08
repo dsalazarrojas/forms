@@ -1,10 +1,3 @@
-<thinking>
-The "job_interview_appointment_form" form is designed to schedule and manage job interviews. It captures essential information about the candidate, interview details, and interviewer preferences. The form can be completed by the hiring team or other authorized users.
-Before starting to fill out this form, please confirm that you are authorized to schedule job interviews. Ensure that the job interview schedule does not overlap with already assigned appointments or other team members' schedules.
-
-The form is structured into multiple pages, each covering a specific aspect of the interview process.
-</thinking>
-
 # job_interview_appointment_form - Help Guide
 ## Purpose
 This form is used to schedule and manage job interviews by capturing candidate information, interview details, and other essential data.

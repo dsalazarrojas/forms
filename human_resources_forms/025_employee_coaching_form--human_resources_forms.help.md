@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Coaching Form - Help Guide
 ## Purpose
 The Employee Coaching Form is designed to help employees and managers record and track coaching sessions for employees. This form can be used to schedule and document coaching sessions, including identifying coaching goals and objectives, and whether the sessions are part of a formal coaching program.

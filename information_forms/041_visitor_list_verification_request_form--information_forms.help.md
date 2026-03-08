@@ -1,8 +1,3 @@
-<thinking>
-The form is used to collect information about visitors to verify their identity. The information collected may be used for various purposes such as contact tracing or other internal purposes. 
-Please ensure you are only submitting this form for visitors you are interacting with, and not duplicates for the same individual. 
-</thinking>
-
 # Visitor List Verification Request Form - Help Guide
 ## Purpose
 The Visitor List Verification Request Form is a form designed to collect essential information about visitors to verify their identity. This form helps in maintaining accurate records and ensuring that visitors are accounted for.

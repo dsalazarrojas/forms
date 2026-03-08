@@ -1,9 +1,3 @@
-<thinking>This form is used to collect feedback from employees on various aspects of their experience in the company. The form is divided into several sections, each focusing on a different topic related to the employee handbook. This form is meant to be completed by employees to provide their thoughts and opinions on how the handbook can be improved or changed to better meet their needs.
-
-Before starting to fill out this form, please ensure that you have read and understood the purpose of each section and question, and that you are not duplicating any feedback already provided by others.
-
-Please review the form carefully and provide honest and constructive feedback to help us improve the employee handbook.</thinking>
-
 # employee_handbook_feedback_questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from employees on various aspects of the employee handbook.

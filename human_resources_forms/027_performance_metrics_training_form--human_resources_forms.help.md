@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect data on an individual's performance metrics training needs and status. This form is intended to be used to assess an employee's training requirements, track their progress, and manage their training schedule. It's likely used in an HR or training department to evaluate and improve employee performance. 
-
-Please note that this form is a crucial tool for employees and managers to collaborate on performance metrics training. The form's fields are designed to collect relevant information, such as training needs, performance metrics, and status updates, to ensure accurate tracking and evaluation. Ensure that you have the necessary permissions to access and use this form.
-
-Before proceeding, double-check that this form is relevant to your current work context and that you're not duplicating efforts. If you're unsure, please reach out to your supervisor or HR representative for clarification.
-</thinking>
-
 # Performance Metrics Training Form - Help Guide
 ## Purpose
 The Performance Metrics Training Form is a tool used to collect and track employee performance metrics training needs and status.

@@ -1,11 +1,3 @@
-<thinking>
-
-**Internal Reasoning Block**
-
-This form is intended to help employees declare and document their performance improvement plans, providing a structured way to set and track goals, actions, and deadlines. The form captures essential information, including employee name, job title, and performance improvement goals, as well as details on action steps, expected and actual completion dates, and status updates. This form is useful for HR departments to track and monitor employee progress, facilitating effective performance management and improvement.
-
-</thinking>
-
 # performance_improvement_plan_declaration_form - Help Guide
 ## Purpose
 The performance improvement plan declaration form is designed to help employees document and track their performance improvement plans, allowing HR departments to monitor progress and provide support.

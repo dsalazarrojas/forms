@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Personalized Search Request - Help Guide
 
 ## Purpose

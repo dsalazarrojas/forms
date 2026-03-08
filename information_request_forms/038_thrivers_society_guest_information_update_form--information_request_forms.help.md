@@ -1,7 +1,3 @@
-<thinking>...
-This form is used to collect information from guests for the Thrivers Society. The form is designed to capture various types of data, including text, email, phone number, date and time, select one and multiple options, notes, time, integers, and decimal numbers. The form is not required and can be completed at the discretion of the guest. Before filling out the form, please ensure that you have not completed it before, as it is intended for new guests only. If you have already provided information, please do not repeat the effort. The form can be completed in multiple pages, each with its own fields. Please follow the instructions below to complete the form correctly.
-...</thinking>
-
 # thrivers_society_guest_information_update_form - Help Guide
 ## Purpose
 The form is used to collect information from guests for the Thrivers Society. It is intended for new guests only, and you should not repeat the effort if you have already provided information.

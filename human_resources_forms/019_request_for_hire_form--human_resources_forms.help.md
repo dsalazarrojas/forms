@@ -1,11 +1,3 @@
-<thinking>
-This form is used by hiring managers to gather information about job postings and potential candidates for open positions within the company. 
-The form is designed to be a straightforward and efficient tool for collecting relevant details about the position and the ideal candidate. 
-The form will not be used to create new job postings, but rather to gather information from hiring managers about the type of candidate they are looking for. 
-Please note that this form should not be used for duplicate submissions, if a candidate has already been posted, do not use this form again. 
-Please ensure that all fields are filled accurately and completely to ensure the best possible outcome.
-</thinking>
-
 # Request For Hire Form - Help Guide
 ## Purpose
 The Request For Hire Form is used by hiring managers to provide information about the type of candidate they are looking for to fill an open position within the company.

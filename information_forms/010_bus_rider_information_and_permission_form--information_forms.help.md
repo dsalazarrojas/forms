@@ -1,13 +1,3 @@
-<thinking>
-To provide a clear and concise user guide for the Bus Rider Information And Permission Form, I will first outline the form's purpose and relevant information.
-
-The purpose of this form is to collect essential information about each student riding the bus, including their personal details, contact information, medical conditions, and permission for bus travel. This form ensures that students' safety is ensured while on the bus. 
-
-This form should be completed by parents or guardians to provide accurate and up-to-date information about their child's details. 
-
-This guide will cover how to complete the form, explaining each field in a clear and concise manner to ensure that users understand what information is required and why.
-</thinking>
-
 # Bus Rider Information And Permission Form - Help Guide
 ## Purpose
 The Bus Rider Information And Permission Form is designed to gather essential details about each student riding the bus, ensuring their safety and well-being while on the trip.

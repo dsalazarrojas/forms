@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information for long-term disability leave purposes. It is intended for use by employees who need to request time off due to a long-term disability. This form should only be used by employees who have a legitimate reason for requesting long-term disability leave. Please ensure that the information provided is accurate and complete. If you're unsure about the process or have questions, consult the HR department.
-
-</thinking>
-
 # long_term_disability_leave_form - Help Guide
 ## Purpose
 The Long Term Disability Leave Form is used to document an employee's need for long-term disability leave. This form is used to provide necessary information for the company to process the leave request and ensure compliance with relevant laws and regulations.

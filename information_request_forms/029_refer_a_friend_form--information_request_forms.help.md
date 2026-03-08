@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to refer a friend to our organization, capturing essential information about the friend and the referrer. This form is likely used by sales or business development teams to collect details about potential customers or clients. Before filling out this form, please ensure you're not duplicating an existing request or referral. If you're unsure, you can always check with the relevant department to confirm.
-</thinking>
-
 # refer_a_friend_form - Help Guide
 ## Purpose
 The "refer_a_friend_form" is a form designed to collect information from users who wish to refer a friend or potential client to our organization. This form is typically used by sales or business development teams to gather essential details about the referred friend or client.

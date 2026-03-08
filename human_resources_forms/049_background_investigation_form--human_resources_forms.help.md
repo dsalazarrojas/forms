@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather sensitive and personal information from job applicants. It is crucial to understand the purpose and context of this form to complete it accurately and responsibly. Before proceeding, please ensure that you have the necessary clearance and permissions to access and share this information. Note that some fields may require sensitive information, and providing false or incomplete information can lead to delays or termination of the hiring process. Please take your time, and if you're unsure about any field, contact the designated personnel for clarification.
-</thinking>
-
 # Background Investigation Form - Help Guide
 
 ## Purpose

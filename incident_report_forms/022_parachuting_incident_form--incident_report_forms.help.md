@@ -1,7 +1,3 @@
-<thinking>
-The form is intended for reporting incidents that occur during parachuting activities, such as skydiving. These incidents may be related to safety concerns, injuries, or other significant events. To ensure accurate and comprehensive reporting, it's essential to complete this form carefully and consistently. Please note that this form is not a duplication of other incident reports, and its purpose is to gather specific information related to parachuting incidents.
-</thinking>
-
 # Parachuting Incident Form - Help Guide
 ## Purpose
 The Parachuting Incident Form is designed to gather information about incidents that occur during parachuting activities. This form is intended to capture details about the incident, its severity, and any relevant circumstances.

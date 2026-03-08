@@ -1,7 +1,3 @@
-<thinking>
-This form is used for collecting information from new clients or businesses. It ensures that we have accurate and up-to-date information about our clients, which is essential for providing them with the best possible service. It is crucial that we verify that each field is completed accurately to avoid duplication of records and ensure that we have the correct information for follow-up communication and record keeping.
-</thinking>
-
 # New Client Information Form - Help Guide
 ## Purpose
 The New Client Information Form is used to collect essential details about new clients or businesses. This form is designed to be completed by the client or their representative.

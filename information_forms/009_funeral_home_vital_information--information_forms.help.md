@@ -1,9 +1,3 @@
-<thinking>...Internal reasoning block...
-
-The purpose of this form is to collect vital information for funeral homes. This form likely helps funeral directors or staff collect important details about a deceased person, such as their name, date of death, and authorization for cremation. The information collected will be used to process necessary documents and ensure that the funeral home handles the deceased's remains and services efficiently and respectfully. This form may be used during the planning and execution of funeral services.
-
-</thinking>
-
 # Funeral Home Vital Information - Help Guide
 ## Purpose
 The Funeral Home Vital Information form is designed to collect essential details about a deceased person to ensure accurate and respectful handling of their remains and services by the funeral home.

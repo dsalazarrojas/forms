@@ -1,11 +1,3 @@
-<thinking>
-This form is intended for employees to provide information about their work status, skills, experience, and other relevant details in support of a workforce planning technology pilot application. 
-This form is part of an internal process and not intended for external access. 
-Please ensure that you are authorized to access this form before proceeding. 
-Please fill out the form completely and accurately to avoid delays in the approval process. 
-Ensure that the form is not submitted multiple times as this may cause confusion and duplication of effort. 
-</thinking>
-
 # Workforce Planning Technology Pilot Application Form - Help Guide
 ## Purpose
 This form is designed to collect information about employees' work status, skills, experience, and other relevant details in support of a workforce planning technology pilot application.

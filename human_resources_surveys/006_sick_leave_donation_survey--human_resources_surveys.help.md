@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to solicit feedback from employees about their thoughts on donating sick leave. It is essential that employees understand that this survey is for gathering their genuine opinions and suggestions. The purpose of this survey is to help management identify potential issues and areas where improvements can be made regarding the sick leave policy. Employees' responses will be kept confidential, and their identity will not be disclosed without their consent. Please answer honestly, and if you have any concerns or comments, feel free to share them.
-
-</thinking>
-
 # Sick Leave Donation Survey - Help Guide
 ## Purpose
 This form is designed to gather your thoughts and opinions on the sick leave policy in your workplace. Your responses will help management understand your views on the current state of the policy and provide valuable feedback that can shape its future development.

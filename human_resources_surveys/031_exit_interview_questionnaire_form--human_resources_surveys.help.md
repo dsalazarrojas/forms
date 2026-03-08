@@ -1,7 +1,3 @@
-<thinking>
-This form is a tool for gathering information from employees who are leaving the company, to help identify reasons for departure and areas for improvement. It's a good idea to complete this form to help understand reasons for turnover and gather insights for HR to make data-driven decisions. If you've already completed a similar form in the past, you might not need to complete this one, but it's a good practice to review and update your answers to ensure consistency and accuracy in your input.
-</thinking>
-
 # Exit Interview Questionnaire Form - Help Guide
 
 ## Purpose

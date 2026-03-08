@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Doctor Information Form - Help Guide
 ## Purpose
 The Doctor Information Form is a template used to collect contact and professional information from medical professionals. This form will help us gather necessary details about you, which will be used to provide you with the best possible service.

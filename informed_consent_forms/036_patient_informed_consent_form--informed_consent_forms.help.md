@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-friendly help guide for the Patient Informed Consent Form.</thinking>
-
 # Patient Informed Consent Form - Help Guide
 
 ## Purpose

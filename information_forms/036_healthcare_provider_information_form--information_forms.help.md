@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to provide a clear understanding of the 'Healthcare Provider Information Form' to end users who will be completing it. Before proceeding, it is essential to confirm that the form is relevant to your current needs and not a duplicate task. This guide will walk you through each step of the process in a concise and practical manner.
-</thinking>
-
 # Healthcare Provider Information Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from healthcare providers to ensure accuracy and completeness in their records.

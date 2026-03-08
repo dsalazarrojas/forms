@@ -1,7 +1,3 @@
-<thinking>
-The Staff Child Protection Declaration form is designed to capture key information from staff members regarding their compliance with child protection policies and procedures. This form is essential for ensuring that staff members are aware of and agree to adhere to the child protection policies of the organization. The form is used to gather data on staff members' understanding and commitment to upholding these policies, which is crucial for maintaining a safe and healthy work environment, particularly when working with children or vulnerable adults. It is also used to monitor staff compliance and provide training and support as needed. This form is typically completed by staff members as part of their onboarding process or when their role requires them to work with children or vulnerable adults. It is essential to complete this form carefully and accurately to ensure that staff members are aware of and agree to adhere to the child protection policies.
-</thinking>
-
 # Staff Child Protection Declaration - Help Guide
 ## Purpose
 The Staff Child Protection Declaration form is designed to capture key information from staff members regarding their compliance with child protection policies and procedures. It is used to gather data on staff members' understanding and commitment to upholding these policies.

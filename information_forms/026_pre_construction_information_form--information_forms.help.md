@@ -1,7 +1,3 @@
-<thinking>
-This help guide should cover the Pre Construction Information Form's purpose and usage, ensuring end-users understand how to complete it and what each field represents.
-</thinking>
-
 # Pre Construction Information Form - Help Guide
 ## Purpose
 The Pre Construction Information Form is a collection of questions that gather essential information about a construction project before it commences. This form helps the project team, construction professionals, and stakeholders understand project parameters, contact details, and other critical information that sets the foundation for a successful project execution.

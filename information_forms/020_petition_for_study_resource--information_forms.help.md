@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from students or supporters to facilitate petitions for study resources, such as books, software, or equipment, to support academic or professional development. This form serves as a centralized channel for students or supporters to express their needs and requests for resources that can benefit their academic or professional growth.
-Before starting, please ensure that you are not duplicating efforts by checking for any existing petitions in the system. If you've already submitted a similar petition, please do not resubmit. This form is meant to help streamline the process and ensure that your needs are properly documented and addressed.
-</thinking>
-
 # Petition for Study Resource Form - Help Guide
 
 ## Purpose

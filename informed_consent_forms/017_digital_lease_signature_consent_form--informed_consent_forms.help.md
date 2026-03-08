@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for collecting informed consent from tenants for a digital lease agreement. It's essential to ensure that each field is accurately and completely filled out by the tenant to confirm their understanding of the lease terms and their commitment to fulfill their obligations. The form is intended to be used in conjunction with the lease agreement document and other supporting materials. It's crucial to verify that this form is not being filled out as a substitute for the lease agreement document.
-</thinking>
-
 # Digital Lease Signature Consent Form - Help Guide
 ## Purpose
 

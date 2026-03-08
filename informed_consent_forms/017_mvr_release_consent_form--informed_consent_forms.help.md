@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form is to obtain informed consent from an employee for their medical information to be shared with their employer. This form is used to ensure that the employee has been informed and has agreed to the sharing of their personal health data with their employer. 
-
-The form should not be used to gather information about medical conditions or personal health data that would normally be kept confidential, such as mental health conditions or medical history. 
-
-Before completing this form, please confirm that it is relevant to your situation and that the form has not been used previously. 
-
-This form has 3 fields that are marked as required, which means that they are essential to the process. Please make sure to complete these fields accurately and honestly. 
-
-The form consists of 10 fields, each with its own explanation below.
-</thinking>
-
 # mvr_release_consent_form - Help Guide
 ## Purpose
 The mvr_release_consent_form is used to obtain informed consent from employees for their medical information to be shared with their employer.

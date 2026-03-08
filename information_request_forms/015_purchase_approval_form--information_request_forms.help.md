@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to gather information about a purchase made by an employee, ensuring that all purchases are reviewed and approved by a designated supervisor before being processed. This process helps to prevent mismanagement of company resources and maintains transparency in financial transactions. To complete this form, follow the instructions below.
-
-</thinking>
 # Purchase Approval Form - Help Guide
 ## Purpose
 The Purchase Approval Form is used to collect information about an employee's purchase and obtain approval from their supervisor before the purchase is processed.

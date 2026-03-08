@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We are considering adding an internal feature to track employee absences, such as vacation or sick leave, to provide a more accurate picture of employee work hours. This form is intended to be a simple and user-friendly tool for employees to request and record their own absences. Before we begin, let's make sure this form is well-understood by our end-users. The "Workplace Wellness Leave Form" is meant to gather necessary information from employees to process their leave requests.
 
 ### Workplace Wellness Leave Form - Help Guide

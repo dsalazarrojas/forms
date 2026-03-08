@@ -1,5 +1,3 @@
-<thinking>What is this form? The Sign On Letter Form is a template designed for organizations or individuals to create a formal letter requesting a specific group to sign on or agree to a particular commitment. This form is typically used for official purposes and requires minimal information, such as the name of the organization, group, and a brief statement regarding participation. The form does not have any specific restrictions on who can use it, so it's likely intended for internal or external use within an organization. Given the simplicity of the form, it's probably not meant for complex or sensitive topics.</thinking>
-
 # Sign On Letter Form - Help Guide
 ## Purpose
 The Sign On Letter Form is a template designed for organizations or individuals to create a formal letter requesting a specific group to sign on or agree to a particular commitment.

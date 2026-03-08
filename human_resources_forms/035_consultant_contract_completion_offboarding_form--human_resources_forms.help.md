@@ -1,7 +1,3 @@
-<thinking>
-To confirm that a consultant's contract has been properly closed, it's essential to complete this form accurately and thoroughly. This form ensures that all necessary information is documented, and all tasks are checked off, which helps in tracking progress and preventing any potential issues in the future. This form should only be completed by authorized personnel and only after the consultant's contract has officially ended. Ensure you are using this form for the correct purpose and not duplicating any other offboarding processes.
-</thinking>
-
 # Consultant Contract Completion Offboarding Form - Help Guide
 ## Purpose
 This form is designed to collect information about a consultant's contract completion and offboarding process. It helps track the consultant's progress, ensures all tasks are completed, and confirms the transfer of knowledge and assets.

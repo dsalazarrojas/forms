@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Virtual Research Discussion Consent Form - Help Guide
 
 ## Purpose

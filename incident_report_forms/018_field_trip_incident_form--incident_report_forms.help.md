@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Field Trip Incident Form", we must first understand its purpose and relevance. This form is designed to report incidents that occur during field trips, which are trips taken by students outside of the school or classroom. The form is likely used by staff or teachers to document and track incidents that arise during these trips, such as medical issues, misbehavior, or other unexpected events. It's essential to complete this form accurately and thoroughly to ensure that all necessary information is recorded and followed up on. The form should not be used for duplicate reporting; if the incident has already been reported, there's no need to fill out this form again.
-</thinking>
-
 # Field Trip Incident Form - Help Guide
 
 ## Purpose

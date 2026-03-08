@@ -1,13 +1,3 @@
-<thinking>As a human resources specialist, this form is designed to collect feedback from employees on their direct report's performance and management style. This form is intended to be a comprehensive assessment of the manager's strengths and areas for improvement, and will help identify potential issues that need to be addressed to create a positive work environment. The form should only be used by employees who have worked under their direct report for at least 6 months, to ensure that they have had sufficient experience with their management style. It is not intended to be used by managers to assess themselves, but rather as a tool for direct reports to provide honest and constructive feedback.
-
-Before filling out this form, please make sure you are familiar with the performance and management style of your current manager. Take your time to answer each question, and be as specific as possible with your feedback.
-
-To fill out this form, simply follow the prompts and select the appropriate options for each question. Some questions may have multiple choice options, while others may require a free-form text response.
-
-When providing feedback, remember to be honest and constructive. Focus on specific examples and behaviors that have been exhibited by your manager, rather than general opinions or feelings.
-
-Please note that all feedback provided will be kept confidential and will only be used to support professional development and improve management practices in the organization.</thinking>
-
 # Annual Review (Direct Report Feedback) - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from employees on their direct report's performance and management style. This feedback will be used to identify strengths and areas for improvement and to create a positive work environment.

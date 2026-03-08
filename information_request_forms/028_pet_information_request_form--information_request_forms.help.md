@@ -1,5 +1,3 @@
-<thinking>This form, "pet_information_request_form", is used to collect information about a pet. The form is typically used by veterinary clinics to gather data for pet registration, microchip information, and medical history. The form should be completed by the owner of the pet, providing accurate and up-to-date information about the pet's identity, vaccination history, and medical status. It's essential to fill out the form carefully and completely, as any missing or incorrect information may lead to delays or complications in processing. Please ensure you've reviewed the entire form carefully before submitting it, and don't hesitate to ask for help if you need assistance.</thinking>
-
 # pet_information_request_form - Help Guide
 ## Purpose
 This form is designed to collect and store information about your pet's identity, health status, and vaccination history. This information will help our team provide the best possible care for your pet.

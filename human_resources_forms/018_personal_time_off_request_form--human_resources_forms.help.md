@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to request time off from work, and it's intended to be a personal request. It's not a duplicate of any other form, and it's a straightforward form with minimal fields. The form is likely used by employees to request time off for personal reasons such as vacations, illnesses, or other personal matters. It's not a form for requesting time off for work-related reasons such as training or meetings.
-</thinking>
-
 # Personal Time Off Request Form - Help Guide
 ## Purpose
 This form is used to request time off from work for personal reasons such as vacations, illnesses, or other personal matters.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Sales Performance Bonus Agreement - Help Guide
 =====================================
 

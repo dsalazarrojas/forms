@@ -1,20 +1,3 @@
-<thinking>
-This form is designed to collect informed consent from participants in an academic video recording or publication project. The form is meant to be completed by researchers and participants to ensure that they understand the purpose and scope of the video recording or publication. The form will help to establish a clear understanding of the participant's rights and responsibilities, as well as the researcher's obligations.
-
-The form will be used in conjunction with other data collection tools, such as video recordings and participant information sheets. It is essential to ensure that all participants provide their informed consent before participating in the video recording or publication project.
-
-When completing this form, please ensure that you understand the questions and instructions provided. If you have any doubts or concerns, please do not hesitate to reach out to the researcher or project coordinator.
-
-Please note that this form is not a substitute for the participant information sheet or any other project documentation. It is a supplement to ensure that participants are fully informed and provide their consent in an informed and voluntary manner.
-
-This form is intended to be used for academic purposes only. Any deviation from this purpose may lead to the form being considered invalid.
-
-Before starting, please review the project's participant information sheet and understand the purpose and scope of the project. Then, please answer the questions accordingly.
-
-The form is divided into several sections. Please answer each section accordingly:
-
-</thinking>
-
 # Open Access Academic Video Consent Form - Help Guide
 
 ## Purpose

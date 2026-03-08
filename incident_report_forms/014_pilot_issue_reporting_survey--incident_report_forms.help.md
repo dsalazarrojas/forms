@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about incidents that occur during a pilot, such as reporting if an issue occurred and what type of issue it was. This form will help in identifying and documenting issues in a systematic way, making it easier to track and address them. 
-To ensure that each incident is reported accurately and consistently, it's crucial to fill out this form carefully. Please review each field to understand what information is required and how to fill it out correctly. 
-
-Before proceeding, please check if there is a similar issue already reported in the system. If you have already reported this issue, please do not fill out this form.
-
-</thinking>
-
 # Pilot Issue Reporting Survey - Help Guide
 ## Purpose
 The Pilot Issue Reporting Survey is a form used to report issues that occur during a pilot. It helps in identifying and documenting issues in a systematic way, making it easier to track and address them.

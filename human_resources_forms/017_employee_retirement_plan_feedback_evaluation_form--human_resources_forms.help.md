@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to gather feedback from employees regarding the company's retirement plan. This form is designed to be completed by employees who are approaching or have approached retirement age. The goal is to collect their thoughts and opinions on the current retirement plan, its effectiveness, and any suggestions for improvement. This form is not intended to be a formal performance evaluation but rather a tool for gathering valuable insights from employees. Please ensure that you complete this form only once for each employee.
-</thinking>
-
 # Employee Retirement Plan Feedback Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from employees about the company's retirement plan. It aims to collect their opinions and suggestions on the plan's effectiveness, and to understand their thoughts on how it can be improved.

@@ -1,15 +1,3 @@
-<thinking>
-This form appears to be a custom color match application form, intended to collect information about an individual's skin type and tan preferences.
-It includes fields for name, email, phone, skin type, skin tone, freckles, tan duration, and submit. Given the presence of "Submit" as an option for the "Submit" field, it's likely that this form is being used to gather data for a color matching application. 
-The "skin_type" field is a dropdown menu with options "Fair", "Medium", and "Dark", indicating that the form is collecting information about the user's skin tone. 
-The "freckles" field is a text field, which might be intended for users to provide additional information about their skin characteristics.
-The "has_tan" field is a dropdown menu with options "True" and "False", suggesting that it's asking about the user's tan status.
-The "tan_type" and "tan_location" fields are text fields, which might be intended for users to provide additional information about their tan characteristics.
-The "tan_duration" field is a number field, which could be intended for users to provide the duration of their tan.
-The "submit" field is a dropdown menu with options "Yes" and "No", which might be intended to ask the user if they want to submit their application.
-This form does not appear to be duplicating any known information or forms. However, further analysis would be required to confirm this.
-</thinking>
-
 # Custom Color Match Application Form - Help Guide
 ## Purpose
 This form is used to collect information about your skin type and preferences for a color matching application.

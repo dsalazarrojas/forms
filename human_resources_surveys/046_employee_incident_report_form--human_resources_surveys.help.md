@@ -1,12 +1,3 @@
-<thinking>
-This form is used to report employee incidents, which can be events or situations that affect employee safety, well-being, or work performance. The goal is to gather information about the incident, including details about what happened, who was involved, and any supporting evidence or documentation. This information will help managers and HR to investigate and resolve incidents efficiently and fairly.
-
-To ensure accurate and thorough incident reporting, employees must only report incidents that have actually occurred. Repeating or exaggerating incidents will not be considered valid reports and may be investigated for potential policy infractions.
-
-Before starting the report, ensure that you are reporting an actual incident and not a repeated or exaggerated account.
-
-</thinking>
-
 # Employee Incident Report Form - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to request a new hire for a company. This form is intended to be filled out by the HR department to request a new employee to be hired. It is used to gather information about the new hire, such as their name, start date, department, and employment period. The form is also used to request additional requests such as computers, software, and peripherals for the new hire. The form is used to assign a tool to the new hire and to assign a user to be responsible for the new hire. It is also used to gather additional information in the "notes" fields for further reference.
-
-This form is not intended for general public use, but rather for internal use within the company. The HR department should review the form to ensure that all required fields are filled out and that the information is accurate.
-
-Before filling out this form, please ensure that you have the necessary information and approvals from the relevant departments. This form is not a substitute for the actual hiring process, but rather a tool to assist the HR department in preparing for the new hire's onboarding process.
-
-</thinking>
-
 # New Hire Request - Help Guide
 ## Purpose
 The New Hire Request form is used by the HR department to request a new employee to be hired. It is used to gather information about the new hire, including their name, start date, department, and employment period. The form is also used to request additional resources such as computers, software, and peripherals for the new hire.

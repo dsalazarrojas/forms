@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # step_by_step_company_information_form - Help Guide
 
 ## Purpose

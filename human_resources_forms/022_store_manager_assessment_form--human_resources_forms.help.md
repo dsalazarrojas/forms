@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to assess the performance of store managers, gathering information about their strengths and weaknesses, overall performance, and areas for improvement. It's a crucial tool for human resources departments to evaluate their store managers' progress, provide feedback, and aid in personnel decisions.
-
-Before proceeding, please ensure this form is relevant to your current situation. If you've already completed an assessment for this store manager, you might be able to reuse the existing data or update it if the circumstances have changed.
-
-</thinking>
-
 # Store Manager Assessment Form - Help Guide
 ## Purpose
 This form is designed to help HR evaluate the performance of store managers, providing a structured way to gather feedback and insights.

@@ -1,11 +1,3 @@
-<thinking>
-To determine the relevance of the Tunnel Accident Incident Form, we should consider the following:
-
-*   The purpose of this form is to collect information about tunnel-related incidents, such as accidents or near-misses. 
-*   We are looking to gather data about these incidents to understand the frequency, causes, and effects of tunnel accidents, which can help us improve tunnel safety.
-*   To ensure that your information contributes to this objective, please provide as much detail as possible.
-</thinking>
-
 # Tunnel Accident Incident Form - Help Guide
 ## Purpose
 The Tunnel Accident Incident Form is a tool for collecting information about tunnel-related incidents, such as accidents or near-misses. This data is used to improve tunnel safety.

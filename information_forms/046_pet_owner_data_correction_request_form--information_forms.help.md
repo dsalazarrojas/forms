@@ -1,12 +1,3 @@
-<thinking>
-We should check that the form purpose is relevant to our current business needs and ensure that we're not duplicating efforts with other forms. We should also review the current data model and schema to see if it's consistent with our overall data architecture. Finally, we should consider the end-user experience and how we can make the form more user-friendly and intuitive.
-
-The form is called Pet Owner Data Correction Request Form, so we assume the form purpose is for pet owners to correct inaccuracies in their pet's data. The fields provided cover a range of pet information, including owner information and pet details, which suggests that the form will allow users to update pet profiles.
-
-Upon reviewing the form schema, we see that it includes fields for updating pet name, type, color, breed, age, weight, sex, date of birth, and date of death, among others. This suggests that the form will allow for comprehensive updates to pet profiles.
-
-Before creating the user-facing help guide, we need to ensure that the fields are self-explanatory. We can make this happen by providing clear labels, hints, and instructions for each field.</thinking>
-
 # Pet Owner Data Correction Request Form - Help Guide
 ## Purpose
 The Pet Owner Data Correction Request Form is for pet owners to correct inaccuracies in their pet's data. This form will allow you to update your pet's profile with new information.

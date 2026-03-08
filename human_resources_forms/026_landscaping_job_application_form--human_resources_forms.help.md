@@ -1,26 +1,3 @@
-<thinking>
-We need to ensure that this form is only used for its intended purpose and not for other types of applications. To achieve this, let's add a clear and concise explanation of the form's purpose and how to complete it.
-
-The purpose of this form is to collect information from potential employees who wish to apply for landscaping positions. It's essential to fill out the form accurately and honestly to ensure that we can review your application and consider you for available positions.
-
-Before filling out the form, please review each section carefully to provide the correct information. If you're unsure about any of the fields, please ask for clarification.
-
-The form is divided into two main sections: "Personal Information" and "Family Information." In the "Personal Information" section, you'll need to provide your name, contact details, and job preferences. Please note that providing false or incomplete information can affect your application.
-
-In the "Family Information" section, you'll need to provide contact details for a parent or guardian, which is required for certain positions. If you don't have a parent or guardian, please provide emergency contact information instead.
-
-When filling out the form, please be sure to:
-
-* Enter your First Name, Last Name, and email address correctly
-* Choose the correct Applied Position from the list
-* Select the correct Available Start Date
-* Provide a valid Resume or attach it as a file
-* Agree to the Consent terms
-
-If you have any questions or need help, please don't hesitate to ask.
-
-</thinking>
-
 # Landscaping Job Application Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from potential employees who wish to apply for landscaping positions.

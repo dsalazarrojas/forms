@@ -1,10 +1,3 @@
-<thinking>
-To ensure that the Thyroid Procedure Consent Form is completed accurately and effectively, it is essential to understand its purpose and each field's significance. This form is designed to obtain informed consent from patients or their guardians for specific medical procedures related to thyroid health. Completing this form requires providing accurate and comprehensive information to ensure that all parties involved are aware of the risks, benefits, and requirements of the procedure. 
-
-The fields on this form are critical in capturing the necessary information for the medical professionals to provide adequate care and to maintain a record of the consent process. 
-
-</thinking>
-
 # Thyroid Procedure Consent Form - Help Guide
 ## Purpose
 The Thyroid Procedure Consent Form is used to obtain informed consent from patients or their guardians for procedures related to thyroid health. 

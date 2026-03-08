@@ -1,8 +1,3 @@
-<thinking>
-This form is a Chiropractic Treatment Consent Form used to obtain informed consent from patients before starting treatment. The purpose of this form is to ensure the patient understands the nature of chiropractic care, potential risks, and benefits, and to obtain their voluntary consent for treatment. This form is designed to be completed by patients before treatment begins.
-
-</thinking>
-
 # Chiropractic Treatment Consent Form - Help Guide
 ## Purpose
 This form is a legal document that ensures you understand the nature of chiropractic care, potential risks, and benefits before starting treatment. Completing this form demonstrates your informed consent and gives us the authority to perform the treatment.

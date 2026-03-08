@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the Claim Information Form, I'll first outline the purpose and internal reasoning.
-
-The Claim Information Form is designed to collect information from requesters to process and fulfill their claims efficiently. This form gathers essential details such as the requester's name, claim reference number, the information being requested, the purpose of the request, and the required confidentiality level. It also asks for the preferred format of the information, the contact email for delivery, and the expected date of fulfillment. This form is crucial for ensuring that the requesters' needs are met, and their claims are handled according to policy.
-
-Before starting, please ensure you are filling out the correct form for your needs and that you have not already submitted a similar request. This will help prevent duplication and streamline the processing of your claim.
-
-</thinking>
-
 # Claim Information Form - Help Guide
 ## Purpose
 The Claim Information Form is designed to collect essential details from requesters to process and fulfill their claims efficiently. It ensures that their needs are met and their claims are handled according to policy.

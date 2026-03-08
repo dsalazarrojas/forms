@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a template for collecting user data, specifically for activation and setup purposes. It's possible that this form is for smart home devices or services and the purpose of this form is to gather necessary permissions and information from customers or users before activating the smart appliance. I'll assume that the form's purpose is to ensure that the customer is aware of the activation process and provides necessary input for a seamless setup experience. I will not create a form with proprietary or derived content from other platforms as stated in the input schema. I will also follow the form's license terms and provide a clear and user-friendly help guide.
-
-</thinking>
-
 # Smart Appliance Activation Consent Form - Help Guide
 ## Purpose
 The Smart Appliance Activation Consent Form is a template designed to collect necessary permissions and information from customers before activating their smart appliances. This form helps ensure a smooth setup experience and informs users about the activation process.

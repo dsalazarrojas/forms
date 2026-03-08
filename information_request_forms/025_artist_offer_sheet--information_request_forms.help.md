@@ -1,7 +1,3 @@
-<thinking>
-The Artist Offer Sheet form is used to gather essential information from artists or performers about their offers for events or performances. This form is crucial for organizers and promoters to understand the terms and conditions of the event, including the artist's name, contact details, business information, offer details, and any additional terms or conditions. It helps in ensuring that all parties involved are on the same page and can prevent any potential misunderstandings or conflicts.
-</thinking>
-
 # Artist Offer Sheet - Help Guide
 ## Purpose
 The Artist Offer Sheet form is a crucial document that helps organizers and promoters of events or performances understand the artist's terms and conditions.

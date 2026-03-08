@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information and commitment from parents or guardians of students returning to in-person school. The purpose of this form is to gather essential details such as student and parent contact information, school information, and a commitment from parents or guardians to follow school rules and regulations. 
-This form should only be completed if the student is returning to in-person school; otherwise, do not submit. Please ensure that this form is submitted only once per student. If a student has already completed this form, do not submit again.
-</thinking>
-
 # Return To In Person School Information And Commitment Form - Help Guide
 
 ## Purpose

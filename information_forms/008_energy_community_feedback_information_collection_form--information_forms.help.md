@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback information from users in the Energy Community. This feedback will help us understand the concerns, issues, and suggestions of our users. Please note that this form is for general feedback only and not for reporting critical issues that require immediate attention. Before providing your feedback, please ensure that you have not submitted a similar feedback previously, as duplicate submissions may lead to confusion and unnecessary work.
-</thinking>
-
 # Energy Community Feedback Information Collection Form - Help Guide
 
 ## Purpose

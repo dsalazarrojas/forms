@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # smart_lighting_calibration_consent_form - Help Guide
 
 ## Purpose

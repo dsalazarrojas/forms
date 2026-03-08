@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to help users inspect and assess the condition of expansion joints in a building or structure. Expansion joints are critical components that allow for movement and flexibility in concrete slabs, bridges, or other construction elements. This form is intended to help users systematically inspect and document the condition of these joints, providing a standardized and efficient way to collect data on their status. The fields in this form cover key aspects of expansion joint condition, photo taking, and recommended and actual actions.
-
-The form should not be used for other purposes or as a substitute for a comprehensive inspection and assessment process. Users should complete this form as part of a thorough inspection and assessment process, and should not rely solely on the data collected in this form for making decisions about expansion joint condition or required actions.
-
-Before completing this form, users should ensure they have a clear understanding of the purpose and scope of the inspection, and should only enter information that is accurate and relevant to the expansion joint being inspected.
-
-Please note that some fields may have multiple options, but this does not necessarily mean that more options mean more information. Users should only select the option that best represents the condition or action being reported, and should not enter unnecessary information or comments.
-
-Also, please keep in mind that some fields are required, and users must complete these fields to ensure the form can be properly submitted and reviewed.
-</thinking>
-
 # Expansion Joints Inspection Checklist - Help Guide
 ## Purpose
 The Expansion Joints Inspection Checklist is designed to aid in inspecting and documenting the condition of expansion joints in buildings or structures. This form provides a systematic way to collect data on the condition of expansion joints, including their location, description, condition, and recommended and actual actions.

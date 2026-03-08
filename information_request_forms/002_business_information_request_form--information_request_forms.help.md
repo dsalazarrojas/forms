@@ -1,6 +1,3 @@
-<thinking>
-This form is a standardized template for business information requests, allowing users to efficiently and clearly communicate their needs. The purpose of the form is to gather essential details from the requester, enabling the organization to assess and respond to their inquiry accurately and promptly. It's crucial to provide accurate and complete information to ensure the form is properly filled out and processed. Please ensure you are using this form for its intended purpose and not duplicating efforts with other channels.
-</thinking>
 # Business Information Request Form - Help Guide
 ## Purpose
 The Business Information Request Form is a tool used to gather detailed information from business users, ensuring that requests are managed efficiently and effectively. Fill out this form to send a formal request for business information.

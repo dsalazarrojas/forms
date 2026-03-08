@@ -1,9 +1,3 @@
-<thinking>
-
-To determine the relevance and non-duplication of this form, we can analyze the form's purpose and content. The Employee Reprimand Form appears to be a tool for documenting and recording incidents that require disciplinary actions against employees. The form includes fields for capturing information about the employee involved, the reason for the reprimand, the date and time of the incident, a description of the incident, and details about safety, policy, and attendance violations. The form also includes fields for specifying disciplinary actions and an action plan for addressing the issue. This form is likely to be used by HR or management to document and track employee performance and address behavioral issues in the workplace.
-
-</thinking>
-
 # Employee Reprimand Form - Help Guide
 ## Purpose
 This form is used to document and record incidents that require disciplinary actions against employees. It helps HR or management to track and address behavioral issues in the workplace.

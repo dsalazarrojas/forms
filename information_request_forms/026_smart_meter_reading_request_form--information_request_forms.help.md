@@ -1,14 +1,3 @@
-<thinking>
-This form is used for a customer or utility to request a meter reading from the utility company. 
-It is used for requesting a reading at a customer's specific meter and is typically used internally for planning and scheduling purposes. 
-
-To ensure accuracy and efficiency, please ensure that:
-- You are requesting a meter reading for the correct meter. 
-- You do not submit duplicate requests for the same meter. 
-
-Please review and fill out the form carefully. 
-</thinking>
-
 # Smart Meter Reading Request Form - Help Guide
 ## Purpose
 The Smart Meter Reading Request Form is used for customers or utilities to request a meter reading from the utility company. This form is used for requesting a reading at a customer's specific meter, typically for planning and scheduling purposes.

@@ -1,11 +1,3 @@
-<thinking>
-# This form is designed for HR to process employee leave requests. 
-This is an internal process for employees to submit leave requests to their manager or HR. It's a simple form that gathers necessary information for the leave request, including the start and end dates, reason, and duration of the leave. 
-To ensure that the form is filled out correctly and to prevent duplication, please make sure to: 
-- Check if a leave request for the same date range and reason has already been submitted. 
-- Ensure that you have filled out all required fields and selected the correct options. 
-</thinking>
-
 # Personal Leave Form - Help Guide
 ## Purpose
 The Personal Leave Form is a tool for employees to submit leave requests to their manager or HR. This form is used to gather information about the leave request, including the start and end dates, reason, and duration of the leave. It's essential to fill out the form accurately to ensure that your leave request is processed correctly.

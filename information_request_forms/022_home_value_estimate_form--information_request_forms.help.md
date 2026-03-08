@@ -1,18 +1,3 @@
-<thinking>
-
-This form is used to collect information about a residential property's value. The purpose of this form is to estimate the value of the property based on various factors such as address, size, age, and other characteristics of the property. This information will be used to provide an estimate of the property's value.
-
-To complete this form, please follow these steps:
-
-1. Enter the address of the property.
-2. Provide information about the number of bedrooms, square footage, age, and other relevant characteristics of the property.
-3. Enter the phone number and email address of the property owner.
-4. Enter your name and contact information.
-
-This form has multiple pages, but the following fields will be explained in detail below.
-
-</thinking>
-
 # Home Value Estimate Form - Help Guide
 ## Purpose
 The Home Value Estimate Form is used to collect information about a residential property's value and estimate its value based on various factors such as address, size, age, and other characteristics of the property.

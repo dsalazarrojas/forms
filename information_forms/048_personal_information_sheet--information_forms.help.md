@@ -1,12 +1,3 @@
-<thinking>
-The form "personal_information_sheet" is designed to collect personal details from users. This form is likely used in situations where users need to provide their personal information for various purposes, such as creating a profile, filling out a demographic survey, or updating contact information. The form includes a mix of text fields for general information (name, address, city, etc.) and select fields for more specific details (state, zip, etc.). The field types are chosen to accommodate the corresponding input types for each field. For example, the 'date of birth' field is a date field because it is likely used to capture dates, while the 'email' field is an email field to ensure correct input formatting. The form does not have any mandatory fields, which suggests that it is not essential to provide all the information for the form to be considered complete. This form is likely used in situations where providing as much information as possible is beneficial but not required. 
-
-The form is designed to be filled out by a single user, and the information collected may be used for various purposes such as identification, data analysis, or communication. The purpose and use of the collected information will depend on the context in which the form is being used.
-
-There is no indication that the form is designed for a specific demographic or user group. However, the type of information collected does not suggest any bias towards specific age groups or regions.
-
-</thinking>
-
 # personal_information_sheet - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking> 
-The form is intended to collect information about an employee's mobility program application. This includes details such as employee name, job title, department, job function, and job family. The form also includes fields for reporting manager information, such as their email, mobile number, and work number. Additionally, the form includes fields for dates such as start date, end date, and submission date. The purpose of the form is to gather necessary information for processing the employee's mobility program application. It is likely used by HR personnel to manage employee mobility programs. The form is likely used by employees who are applying for the program, and it is likely used for internal HR purposes. It is not intended for external use, as the fields include sensitive information such as employee contact details and manager information.
-
-</thinking>
-
 # Workforce Mobility Program Application Form - Help Guide
 ## Purpose
 The Workforce Mobility Program Application Form is designed to collect information about an employee's mobility program application.

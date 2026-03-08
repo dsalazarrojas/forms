@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from pet owners about their pets, including pet info, name, type, owner info, contact info, phone number, email address, and appointment time. This form is used by a business to gather necessary details from pet owners when meeting their pets. The form is designed to be completed by pet owners, and the information collected will help the business provide better services to them and their pets.
-
-</thinking>
-
 # Doggie Meet & Greet Info Form - Help Guide
 ## Purpose
 This form is used to collect information from pet owners about their pets and owners. This information is used by our business to better understand your needs and preferences.

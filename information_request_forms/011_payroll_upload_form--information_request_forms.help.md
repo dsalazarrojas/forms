@@ -1,10 +1,3 @@
-<thinking>
-# The purpose of this form is to collect information from employees about the file they will upload, 
-# such as its name, date of upload, and details about its size and usage within the organization. 
-# To avoid duplication, please only submit files that are not already in the system.
-# The form also helps ensure that the correct file type and usage information is captured.
-</thinking>
-
 # payroll_upload_form - Help Guide
 ## Purpose
 This form is designed to collect information from employees about the files they will upload, ensuring that the correct file type and usage information is captured.

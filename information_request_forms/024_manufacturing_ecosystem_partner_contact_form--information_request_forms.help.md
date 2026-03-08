@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information from potential partners interested in collaborating with our manufacturing ecosystem. This form will help us understand their needs, capabilities, and interests, which will guide our decision-making process for potential partnerships. 
 
 To ensure that we only receive relevant and unique responses, we kindly request that only one submission is made per company. Please do not submit duplicate or incomplete responses. 

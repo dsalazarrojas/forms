@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Relationship Statement Submission - Help Guide
 
 ## Purpose

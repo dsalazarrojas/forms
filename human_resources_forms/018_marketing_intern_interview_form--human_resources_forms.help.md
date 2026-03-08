@@ -1,7 +1,3 @@
-<thinking>
-The Marketing Intern Interview Form is used to collect and document the details of the interview process with marketing candidates. It ensures that all necessary information is captured consistently, eliminating confusion and miscommunication between team members. Please note that this form is a required document for all marketing intern interviews, and its data will be used as a reference point for future reference.
-</thinking>
-
 # Marketing Intern Interview Form - Help Guide
 ## Purpose
 This form is used to collect and document the details of the interview process with marketing candidates. It ensures that all necessary information is captured consistently, eliminating confusion and miscommunication between team members.

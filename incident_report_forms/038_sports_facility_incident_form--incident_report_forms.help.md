@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to report incidents that occur within sports facilities. This form will be used to collect information about incidents that need to be investigated or reviewed. The form is not intended to be used for routine maintenance or administrative tasks, but rather for incidents that require attention from facility management or maintenance personnel.
-</thinking>
-
 # Sports Facility Incident Form - Help Guide
 ## Purpose
 The Sports Facility Incident Form is used to report incidents that occur within sports facilities, such as accidents, injuries, or other significant events that require attention from facility management or maintenance personnel.

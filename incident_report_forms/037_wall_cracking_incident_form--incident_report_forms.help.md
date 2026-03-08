@@ -1,7 +1,3 @@
-<thinking>
-This is a help guide for the "Wall Cracking Incident Form" used for reporting wall cracking incidents. The form is designed to collect information about the incident, including the type of wall, height, crack type, location, and other relevant details. The form should only be completed if you have witnessed or are reporting a wall cracking incident. Please do not submit the form if the incident is not related to a wall cracking issue. If you have already submitted a similar form for the same incident, please do not submit again.
-</thinking>
-
 # Wall Cracking Incident Form - Help Guide
 ## Purpose
 This form is used to report wall cracking incidents. It helps gather information about the incident, such as the type of wall, height, crack type, location, and other relevant details. The form is essential for documenting and tracking wall cracking incidents in our system.

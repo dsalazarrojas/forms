@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure that the form is only completed once for each unique tenant. This form is intended to collect information for an update to a digital tenant profile. The fields should be filled out as accurately as possible to ensure data consistency. Note that all fields are optional and the required fields should be filled out for a correct update.</thinking>
-
 # digital_tenant_profile_update_request - Help Guide
 ## Purpose
 The digital tenant profile update request form is used to update information for a digital tenant profile. This form should only be completed once for each unique tenant.

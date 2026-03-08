@@ -1,11 +1,3 @@
-<thinking>
-
-To determine whether to display this form or not, a system admin or technical team lead must verify that there is no existing report open on the same issue, or if there is one, verify that it has not been resolved. If there are no issues with these conditions, the form should not be displayed and will only appear if an access issue occurs. 
-
-If this form appears, please fill it out as follows:
-
-</thinking>
-
 # System Programmatic Access Issue Report Form - Help Guide
 
 ## Purpose

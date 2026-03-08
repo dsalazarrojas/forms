@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information on protected areas, including their infrastructure. This form should only be used for protected areas that have a specific asset type, location, condition, and assigned tool. This form is part of a larger process for managing protected areas, and the data collected will be used to track and maintain the inventory of these areas.
-
-To ensure accurate and comprehensive data, please make sure to complete this form for each protected area individually. If you have already completed this form for a protected area, please do not submit duplicate entries.
-
-Before starting, make sure you have all the necessary information ready, including the asset type, location, condition, and assigned tool.
-
-</thinking>
-
 # Protected Areas Infrastructure Inventory - Help Guide
 ## Purpose
 The Protected Areas Infrastructure Inventory form is used to collect information on protected areas, including their asset type, location, condition, and assigned tool. This information helps in tracking and maintaining the inventory of these areas.

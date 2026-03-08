@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather participant information and waiver agreements for events where participants are taking part in potentially hazardous activities. The form is designed to be completed by the participant or their representative, and is intended to capture essential details such as name, email, phone number, age, and risk assessment. The form also requires a participant's agreement and waiver for the event, as well as their signature indicating they understand the associated risks.
-</thinking>
-
 # Event Waiver Form - Help Guide
 ## Purpose
 The Event Waiver Form is a necessary document for participants engaging in potentially hazardous events to ensure their safety and well-being. By completing this form, participants provide essential information and agree to the risks associated with the event.

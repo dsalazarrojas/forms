@@ -1,10 +1,3 @@
-<thinking>
-  The Staff Orientation Checklist form is designed to gather information and ensure that new staff members understand the important procedures and policies that they need to know in their role. This form is typically completed by new staff as part of their onboarding process, and it's intended to provide a clear and concise overview of the company's policies and procedures.
-  To create this form, we've included a range of questions that cover various topics such as company policies, safety procedures, emergency procedures, and more. Each field in this form is designed to help new staff understand their responsibilities and expectations in their new role.
-  The form is divided into several sections, each focusing on a different area of the company's policies and procedures. This includes sections on company policies, safety procedures, and emergency procedures, among others. Each question is designed to be straightforward and easy to understand, making it simple for new staff to complete.
-  By completing this form, new staff will be able to get a clear understanding of the company's policies and procedures, and be better equipped to perform their job responsibilities safely and effectively.
-</thinking>
-
 # Staff Orientation Checklist - Help Guide
 ## Purpose
 The purpose of this form is to ensure that new staff members have a clear understanding of the company's policies and procedures.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect general information about a landlord-tenant relationship, including details about the rental agreement, termination, and other relevant terms. The form is likely used in a real estate or property management context, where landlords and tenants need to provide and agree on certain information to establish a legally binding contract. The form should not be used for other purposes, such as personal identification or emergency contact information.
-</thinking>
-
 # Landlord And Tenant Disclosure Form - Help Guide
 ## Purpose
 The purpose of this form is to collect and document key information about a landlord-tenant relationship, including the rental agreement terms, lease start and end dates, rent and deposit details, and other relevant terms.

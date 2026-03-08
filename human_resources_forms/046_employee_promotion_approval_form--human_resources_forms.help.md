@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate the employee promotion process within your organization. Its purpose is to capture essential information from both the employee and the manager to ensure a smooth and official promotion. The form should only be used for promotions that have been previously discussed with the employee and agreed upon. Please confirm that you have all necessary approvals and that the employee is aware of the promotion before proceeding.
-</thinking>
-
 # Employee Promotion Approval Form - Help Guide
 ## Purpose
 The Employee Promotion Approval Form is a crucial document used to officially approve employee promotions. It helps in streamlining the promotion process, ensuring that all necessary information is captured and that both the employee and manager are on the same page.

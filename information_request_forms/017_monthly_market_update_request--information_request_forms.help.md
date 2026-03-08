@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to collect information from subscribers for a monthly market update. The purpose of this form is to gather preferences and contact information to ensure that subscribers receive the most relevant market updates tailored to their interests. This form will not be displayed to subscribers if they have already filled it out in the past 30 days. 
-
-The goal is to minimize duplication and only display the form to new or updated preferences from subscribers.
-
-</thinking>
-
 # monthly_market_update_request - Help Guide
 ## Purpose
 The "monthly_market_update_request" form is designed to collect information from subscribers for a monthly market update. The form is only displayed to new or updated preferences from subscribers, ensuring that only relevant updates are delivered.

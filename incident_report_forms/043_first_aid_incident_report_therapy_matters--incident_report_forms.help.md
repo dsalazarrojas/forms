@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about incidents requiring first aid and their therapy matters. Its purpose is to gather data on first aid incidents that have been reported, focusing on the date of the incident, a brief description of what happened, the date when therapy was provided, and any relevant therapy matters or notes. This form may be used by healthcare providers or individuals who work in first aid or therapy settings.
-</thinking>
-
 # first_aid_incident_report_therapy_matters - Help Guide
 ## Purpose
 This form is used to collect information about incidents that require first aid and therapy.

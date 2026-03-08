@@ -1,9 +1,3 @@
-<thinking>
-
-To confirm, this form is intended to capture information about incidents related to patient safety, which are reported on a quarterly basis. This form will help ensure that such incidents are properly documented and followed up on in a timely manner. Please make sure to fill out only one report per quarter to avoid duplication of effort.
-
-</thinking>
-
 # Patient Safety Quarterly Incident Report Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form was created using AI, but with a human eye for form design, to help individuals report incidents that occur in swimming pools. The goal is to gather essential information about the incident, ensuring that the form is straightforward and easy to complete while still capturing the necessary details. This form is intended for use by pool users, staff, or management to report incidents, which can include accidents, near-miss events, or other safety concerns. It's essential to fill it out accurately to help with investigation and potential prevention or resolution of similar incidents in the future.
-</thinking>
-
 # Swimming Pool Incident Report Form - Help Guide
 ## Purpose
 This form is designed to gather information about incidents that occur in swimming pools. It's essential to fill out this form accurately and truthfully to help with investigation and potential prevention or resolution of similar incidents in the future.

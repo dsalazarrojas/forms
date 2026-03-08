@@ -1,5 +1,3 @@
-<thinking>This form is intended to gather information about a speaking event, including the title of the event, the speaker's name, contact information, presentation title and description, event date and time, event location, and speaker biography. This form may be used by organizers or administrators to collect necessary information for event planning and execution. It is essential to ensure that all required fields are completed accurately to avoid delays or complications during the event setup. Please review each field carefully before submitting the form.</thinking>
-
 # Speaking Faculty Information Form - Help Guide
 ## Purpose
 The Speaking Faculty Information Form is a data collection tool used by organizers to gather essential information about a speaking event and its participants. It helps ensure accurate and efficient planning and execution of events.

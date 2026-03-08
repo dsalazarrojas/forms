@@ -1,7 +1,3 @@
-<thinking>
-We're creating a help guide for the "Social Media Verification Request Form" used to verify users' identities on social media platforms. This form aims to collect necessary information to confirm users' identities and ensure their accounts are secure. Before filling out the form, please ensure that you only submit a new request if you haven't already done so for the same social media platform. This will prevent duplicate requests and unnecessary verification processes. Please read through the form carefully to understand what each field requires and what information is being collected.
-</thinking>
-
 # Social Media Verification Request Form - Help Guide
 ## Purpose
 The Social Media Verification Request Form is used to verify your identity on various social media platforms. Please fill out this form to provide the necessary information to confirm your identity and ensure your account is secure.

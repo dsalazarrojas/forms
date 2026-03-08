@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to obtain informed consent from participants before genetic material collection and analysis. The form is crucial in ensuring that participants understand the purpose, risks, and benefits of the research, as well as their rights and responsibilities. This form must be completed carefully, and participants should read it thoroughly before signing the consent document.
-
-Before we proceed, please note that this form is intended to be completed in conjunction with other relevant documents, such as medical histories and genetic testing reports. It is also essential to ensure that the form is completed accurately and truthfully, as any discrepancies can affect the validity of the consent and the study's outcome.
-
-Please verify that the form is not a duplicate or outdated before proceeding.
-
-</thinking>
-
 # Biotech Genetic Material Consent Form - Help Guide
 
 ## Purpose

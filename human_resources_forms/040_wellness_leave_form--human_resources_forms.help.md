@@ -1,23 +1,3 @@
-<thinking>
-To create a help guide for the Wellness Leave Form, I first need to understand the form's purpose and the fields it contains. Based on the provided YAML, the form appears to be used to record or request leave of some sort, possibly for wellness or health reasons. The form likely requires employee details, dates, and possibly approval from a manager.
-
-Before proceeding, I'll ensure that this form isn't a duplicate or redundant, and that the fields are correctly mapped to the form's purpose. Let's review the fields:
-
-- Employee Name: a required field for identifying the employee taking leave.
-- Reason For Absence: a field to describe the reason for the leave, likely for internal records or reporting.
-- Dates Request: a field for specifying the requested dates of leave.
-- Start Date: a field for the start date of the leave.
-- End Date: a field for the end date of the leave.
-- Duration: possibly an optional field for specifying the duration of leave.
-- Manager Approval: a field for obtaining approval from the manager, possibly for validation or escalation.
-- Employee Status: an optional field for tracking employee status while on leave.
-- Department: an optional field possibly for departmentalizing leave records.
-- Team Member: an optional field for identifying team members affected by the leave.
-
-Upon reviewing the fields, I see that they seem to be a mix of identifying employee details, leave dates, and approval processes. I'll create a help guide that covers the form's purpose, how to complete it, and a field-by-field explanation for each page.
-
-</thinking>
-
 # Wellness Leave Form - Help Guide
 ## Purpose
 The Wellness Leave Form is used to record or request leave for employees, possibly for wellness or health reasons. It helps in maintaining internal records and ensuring manager approval before granting leave.

@@ -1,11 +1,3 @@
-<thinking>
-The Electric Power Transfer Request Form is designed for customers to request electrical services such as transfers, upgrades, or other requests related to their electrical power needs. The form will help the customer service team to quickly gather necessary information to process the request efficiently. To ensure accurate and complete information, customers should only fill out this form for new, one-time requests. Repeatedly filling out this form for the same or similar requests may lead to duplication of work and unnecessary delays in processing the request.
-
-The form is divided into several fields that guide the customer through the process of requesting electric power transfer services. Completing the form accurately will help the customer service team to process the request promptly.
-
-Before filling out this form, please make sure that you have all the necessary information ready.
-</thinking>
-
 # Electric Power Transfer Request Form - Help Guide
 ## Purpose
 

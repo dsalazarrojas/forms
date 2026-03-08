@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for educational game beta trial participants to provide their consent for participation in a research study. This form is a public, AI-generated adaptation of a survey template, not affiliated with any proprietary form creation platforms. The purpose of this form is to collect participant and researcher information, including informed consent, and any additional comments or agreements related to the study. This form is a public domain adaptation of a survey template, released under CC BY 4.0 license. It is free to use, modify, and distribute, as long as credit is given to the form generator.
-</thinking>
-
 # educational_game_beta_trial_consent_form - Help Guide
 ## Purpose
 This form is designed for participants to provide their informed consent and details for an educational game beta trial.

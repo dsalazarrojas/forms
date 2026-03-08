@@ -1,14 +1,3 @@
-<thinking>
-To create a comprehensive user-facing help guide for the Vetting And Resale Information Form, we need to understand the form's purpose and requirements.
-
-Upon reviewing the form's properties, it appears to be designed for collecting information from vendors about their items for sale. The form covers various aspects of the item, including vendor information, item details, payment and shipping terms, and contact information. It seems that the form is intended for a platform or system where users can list their items for sale, and the collected information will be used to facilitate the resale process.
-
-However, it's essential to review the form's properties to ensure that it's not being used for any other purpose, such as data collection for a different use case. We should also verify that the form is not being used in a way that would cause duplication of efforts or unnecessary data collection.
-
-Given the form's properties, it's likely that the form is intended for online marketplaces or platforms where users can buy and sell items.
-
-</thinking>
-
 # Vetting And Resale Information Form - Help Guide
 ## Purpose
 The Vetting And Resale Information Form is designed to collect information from vendors about their items for sale. This includes vendor information, item details, payment and shipping terms, and contact information.

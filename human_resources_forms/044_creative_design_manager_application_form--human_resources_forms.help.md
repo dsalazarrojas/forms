@@ -1,7 +1,3 @@
-<thinking>
-This form is a creative design manager application form, intended to capture essential information from applicants for a creative design manager role. The form is used to collect contact information, work experience, and availability details from potential candidates. It's crucial to complete this form accurately to increase the chances of being considered for the position. Please ensure that you provide true and up-to-date information in the fields below.
-</thinking>
-
 # Creative Design Manager Application Form - Help Guide
 ## Purpose
 This form is designed to collect application information from individuals interested in the Creative Design Manager position. Please provide accurate and complete details about your contact information, work experience, and availability.

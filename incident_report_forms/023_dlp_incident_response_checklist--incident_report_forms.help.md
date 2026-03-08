@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information for the Digital Loss Prevention (DLP) incident response process. It's used to document and track incidents that occur within the organization, ensuring that all relevant details are collected and recorded in a consistent and accurate manner. This process helps to provide context and insights for incident analysis and response.
-
-To avoid duplication of effort and ensure relevance, please only fill out this form when an incident is first reported or when a significant update is made to an existing incident.
-
-Before completing this form, please ensure you have the necessary information and approvals before submitting the form.
-
-</thinking>
-
 # DLP Incident Response Checklist - Help Guide
 ## Purpose
 This form is used to document and track DLP incidents, ensuring that all relevant details are collected and recorded in a consistent and accurate manner.

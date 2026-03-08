@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gauge an employee's understanding and perception of the Worker Conduct Policy, including their level of awareness, training, and overall clarity of the policy. It's possible that the form will be used to identify areas where employees may need additional support or clarification. However, it's also worth noting that this form may be redundant or unnecessary if the company already has a robust policy and training program in place. The form's questions and sections should be carefully reviewed to ensure they align with the company's actual needs and goals.
-</thinking>
-
 # Worker Conduct Policy Survey - Help Guide
 ## Purpose
 This form is designed to assess employees' understanding and perception of the Worker Conduct Policy. It aims to gather feedback on the policy's awareness, training, and clarity, which will help the company to identify areas for improvement and provide better support.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # olli_south_class_proposal_and_information_form - Help Guide
 
 ## Purpose

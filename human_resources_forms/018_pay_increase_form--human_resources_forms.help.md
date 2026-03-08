@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pay Increase Form - Help Guide
 
 ## Purpose

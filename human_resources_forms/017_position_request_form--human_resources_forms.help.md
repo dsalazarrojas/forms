@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from employees who are requesting a position change or reassignment within the company. It is intended to gather the necessary details for HR to review and process the request. The form should only be filled out by employees who are currently employed by the company and are seeking a change in their position.
-</thinking>
-
 # Position Request Form - Help Guide
 ## Purpose
 The Position Request Form is used to collect information from employees requesting a position change or reassignment within the company.

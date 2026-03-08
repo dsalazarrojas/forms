@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Supplementary Information Collection Form - Help Guide
 
 ## Purpose

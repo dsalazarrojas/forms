@@ -1,9 +1,3 @@
-<thinking>
-
-The form, titled "CR Employment Information," is designed to capture detailed employee data, including identification, job and position information, compensation, and benefits enrollment. The purpose of this form is to ensure that employee records are up-to-date and accurate for administrative and compliance-related purposes. This form should be filled out by authorized personnel only to prevent duplication of efforts.
-
-</thinking>
-
 # CR Employment Information - Help Guide
 ## Purpose
 The "CR Employment Information" form is a crucial document used to gather accurate and comprehensive data about employees in the organization. It is essential for maintaining up-to-date records and ensuring compliance with relevant laws and regulations.

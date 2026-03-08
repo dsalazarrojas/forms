@@ -1,7 +1,3 @@
-<thinking>
-To provide a user-facing help guide for the "New Horse Info Form", we need to understand its purpose and how users will be interacting with it. The form is likely used to collect information about a horse, including its breeding history, sire and dam, horse ID, birthdate, color and size, breed and bloodlines, owner information, veterinarian information, and photo. This form will be used by horse owners, breeders, or veterinarians to document a horse's details in a database. To prevent duplication, we can implement checks to see if a horse with the same ID already exists in the database before allowing users to submit the form.
-</thinking>
-
 # New Horse Info Form - Help Guide
 ## Purpose
 The New Horse Info Form is a tool used to collect and document information about a horse. This form is designed for horse owners, breeders, or veterinarians to provide accurate and up-to-date details about a horse's breeding history, identification, health, and other relevant information.

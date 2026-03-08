@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended for employees of the company who are required to complete a Medical Leave Extension Form when extending their previously approved medical leave. The form is not meant to be filled out by anyone else, such as external contractors or clients, unless explicitly mentioned otherwise in the company's leave policies. 
-
-When filling out this form, ensure that the submitted data is accurate and complete. Please note that the form fields are mostly self-explanatory and the instructions are detailed below. 
-
-Please ensure that you have the necessary permissions and approvals before submitting the form.
-
-</thinking>
-
 # Medical Leave Extension Form - Help Guide
 
 ## Purpose

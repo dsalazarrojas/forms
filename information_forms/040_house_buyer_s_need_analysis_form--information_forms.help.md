@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information about the needs and preferences of potential homebuyers, allowing us to better understand their requirements and provide guidance on finding the right home for them. The form will be used to identify the most important factors to consider when searching for a home, such as budget, location, and amenities. It will also help us to identify potential areas of interest and provide recommendations on homes that match their criteria.
-
-Before filling out this form, please note that the information collected will be used to provide general guidance and recommendations, not to make any binding agreements or commitments. Please answer all fields truthfully to ensure the best possible results. If you have any questions or concerns, feel free to contact us.
-
-Please also be aware that this form may be used internally to improve our services, but your data will not be shared with any external parties without your explicit consent.
-</thinking>
-
 # House Buyers Need Analysis Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to report incidents related to home damage, such as accidents or events that have affected their property. The form should only be filled out once for each incident, and if a user has already reported the same incident in the past, they should not fill out this form again as it would be considered a duplicate report. It's essential to fill out this form accurately and thoroughly to ensure that the incident is properly documented and addressed.
-</thinking>
-
 # Home Damage Incident Form - Help Guide
 ## Purpose
 This form is used to report incidents related to home damage caused by accidents, weather conditions, or other events.

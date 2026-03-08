@@ -1,22 +1,3 @@
-<thinking>
-To ensure that the form is completed correctly and efficiently, we need to check for relevance and non-duplication before proceeding. This form is designed to collect information for Brand Data Sharing Policy Registration. The goal is to gather all necessary details for data sharing, including organization name, type, contact information, and data sharing policies. This form must be filled out by individuals who are authorized to represent the organization and have a clear understanding of the data sharing process.
-
-Before submitting, make sure to:
-
-- Select the correct organization type
-- Enter accurate and up-to-date contact information
-- Clearly state the purpose and types of data requested
-- Ensure the data retention period is reasonable and compliant with regulations
-- Confirm security measures in place
-- Indicate plans for third-party sharing
-- Verify GDPR compliance status
-- Agree to data sharing terms
-- Provide authorized signatory information
-- Enter the correct registration date
-
-This form is divided into several sections. Each section explains the purpose and requirements for specific fields. Please follow the instructions carefully to complete the form correctly.
-</thinking>
-
 # Brand Data Sharing Policy Registration - Help Guide
 ## Purpose
 This form is designed to collect information for Brand Data Sharing Policy Registration. It is used to gather necessary details for data sharing, including organization name, type, contact information, and data sharing policies.

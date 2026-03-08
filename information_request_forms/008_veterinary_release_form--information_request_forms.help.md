@@ -1,8 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Veterinary Release Form" form. To start, let's clarify the purpose and relevance of this form. The Veterinary Release Form is used to document the authorization and release of information between a pet owner and a veterinarian. This form is essential for ensuring that the pet owner is aware of and consents to any medical procedures, treatments, or decisions made by the veterinarian. The form helps to prevent potential errors or miscommunication and provides a clear record of agreements and permissions. It's crucial to ensure that both the pet owner and the veterinarian understand their roles and responsibilities in the care and treatment of the pet.
-
-</thinking>
-
 # Veterinary Release Form - Help Guide
 ## Purpose
 The Veterinary Release Form is used to obtain the consent and authorization from a pet owner for veterinary care and services. This form ensures that both the pet owner and the veterinarian are aware of and agree to the terms of care and treatment.

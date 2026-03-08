@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for appraisers to gather information about an antique item, including its date, value, and other relevant details. It's used to provide a comprehensive appraisal report that can be used for insurance coverage, estate planning, or other purposes. 
-
-The form is divided into several sections to help guide the appraiser through the process, ensuring they capture all necessary information to provide an accurate and thorough appraisal. 
-
-This form is not intended for duplicate submissions. Please ensure that you are filling out a new appraisal form for each new item you wish to appraise.
-
-</thinking>
-
 # Antique Appraisal Form - Help Guide
 
 ## Purpose

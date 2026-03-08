@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information from employees about their break times and preferences. The form should only be completed by employees, and it's recommended to review and understand the break policies before filling out the form. The form is meant to be a one-time submission, and the information collected will be used to better understand and optimize break times for employees in the company. It's essential to fill out the form accurately and truthfully, as the information will be used to make informed decisions about break schedules and employee well-being.</thinking>
-
 # Break Timer Registration - Help Guide
 
 ## Purpose

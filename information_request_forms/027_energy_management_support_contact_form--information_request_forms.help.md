@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Energy Management Support Contact Form - Help Guide
 ## Purpose
 This form is designed to collect contact information and support requests related to energy management. It is intended for users to reach out to the support team with questions, issues, or feedback about our energy management services.

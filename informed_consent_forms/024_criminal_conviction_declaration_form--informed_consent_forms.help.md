@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # criminal conviction declaration form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about an individual's criminal history. This form is used to determine if an individual has any criminal convictions that may impact their eligibility for certain programs or services. By completing this form, you will be providing accurate and truthful information about your criminal history.

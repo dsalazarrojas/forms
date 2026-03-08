@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect essential student information for administrative purposes. It will likely be used in an academic or educational setting, such as a school or university. The form should not be used for non-academic purposes. If you have already submitted this form for a student, please do not resubmit it. Please ensure that the student has reviewed the form and provided accurate and complete information.
-</thinking>
-
 # Student Information Sheet Template - Help Guide
 ## Purpose
 The Student Information Sheet Template is a form designed to collect essential student information for administrative purposes. It will be used in an academic or educational setting, such as a school or university, to gather and store information about students.

@@ -1,12 +1,3 @@
-<thinking>
-We need to create a help guide for this form that explains its purpose and how to complete it. The form is for reporting unemployment insurance fraud, and we should ensure that the instructions are clear and concise. The form has 20 fields, each with a specific label and type. We should consider the types of fields and create explanations that are tailored to each field's purpose.
-
-To start, the form's purpose is to gather information about reported incidents of unemployment insurance fraud. This form is meant for use by HR or other authorized personnel to collect facts about the fraud incidents. 
-
-We should ensure the instructions are clear and that users understand the purpose and context of each field. We should use Markdown structure as requested. 
-
-</thinking>
-
 # Unemployment Insurance Fraud Reporting Form - Help Guide
 ## Purpose
 This form is for reporting unemployment insurance fraud incidents. It is used by HR or other authorized personnel to collect facts about the incidents.

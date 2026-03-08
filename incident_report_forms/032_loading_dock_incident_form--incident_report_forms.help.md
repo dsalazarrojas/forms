@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for reporting incidents that occur at loading docks, such as accidents, injuries, or other notable events. Please ensure that each incident report is completed with care and accuracy, as these reports are used for tracking and analysis purposes. To prevent duplication of efforts, review the current incident reports before submitting a new one to ensure that the incident is not already documented.
-</thinking>
-
 # loading_dock_incident_form - Help Guide
 ## Purpose
 The "loading_dock_incident_form" is a form used for reporting incidents that occur at loading docks, such as accidents, injuries, or other notable events.

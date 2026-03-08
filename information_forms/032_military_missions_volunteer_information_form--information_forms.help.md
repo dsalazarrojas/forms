@@ -1,7 +1,3 @@
-<thinking>
-This form is used for gathering information from volunteers who are willing to participate in military missions. The purpose of this form is to collect essential details about the volunteer, such as their contact information, military background, and deployment schedule. This information will be used to facilitate communication and coordination within the organization. 
-</thinking>
-
 # Military Missions Volunteer Information Form - Help Guide
 ## Purpose
 The Military Missions Volunteer Information Form is a crucial document used to collect information from volunteers who are willing to participate in military missions. This form gathers essential details about the volunteer, their military background, and their availability for deployment.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Emitter Registration Form - Help Guide
 ## Purpose
 This form is designed to register an emitter with the system, collecting information about the organization and contact details, as well as the type of emission being registered.

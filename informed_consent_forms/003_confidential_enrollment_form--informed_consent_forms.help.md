@@ -1,8 +1,3 @@
-<thinking>
-The Confidential Enrollment Form is a comprehensive form used to collect sensitive student information, including their personal data, contact details, and medical history. This form is intended for students who are enrolling in or are currently enrolled in programs or services that require access to this information. The form is designed to be completed by the student or their parent/guardian, and the data collected will be used to provide personalized support and services. Before proceeding, it's essential to review the fields below to ensure that you understand what information is being collected and how it will be used.
-
-</thinking>
-
 # Confidential Enrollment Form - Help Guide
 ## Purpose
 The Confidential Enrollment Form is a crucial tool for collecting student information for the purpose of providing tailored support and services. It is essential to complete this form accurately and honestly to ensure that the student receives the best possible experience.

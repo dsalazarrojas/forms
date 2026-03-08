@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This thinking block is intended to clarify the purpose of this form: the "Infinity Marketing Onboarding Questionnaire" is designed to gather essential information from both new and existing marketing clients, ensuring a smooth onboarding experience. This form will help collect basic details about the client's team members, such as name, email, phone number, and address. It also inquires about the client's company and state for administrative purposes. The form is structured into pages with various fields, each catering to a specific aspect of the onboarding process. The form fields are divided into two main sections: the first section is concerned with basic information about the client's team, while the second section collects more detailed information such as address and state.
 
 To avoid duplication of efforts, this form is designed for both new and existing clients, making it a one-stop-shop for all necessary information.

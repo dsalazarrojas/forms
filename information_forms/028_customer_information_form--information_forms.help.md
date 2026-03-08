@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers. It appears to be a general information form, likely used for customer service, sales, or marketing purposes. The form has four pages or sections, each with its own text input field. The fields are not required, which may indicate that this form is for optional or supplementary information gathering.
-</thinking>
-
 # Customer Information Form - Help Guide
 ## Purpose
 The Customer Information Form is designed to collect contact and personal details from customers.

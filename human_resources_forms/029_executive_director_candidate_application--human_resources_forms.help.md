@@ -1,7 +1,3 @@
-<thinking>
-To be eligible for the executive director position, applicants must submit their application form with all the necessary information. This form is designed to capture detailed information about the candidate's background, skills, and experience. Please ensure that you have reviewed the form carefully before submitting it. This form should not be used for internal candidates or current employees of the organization.
-</thinking>
-
 # executiveDirectorCandidateApplication - Help Guide
 ## Purpose
 The Executive Director Candidate Application form is a comprehensive application form designed to collect information about candidates applying for the executive director position. This form helps the hiring committee to assess the candidate's qualifications, skills, and experience.

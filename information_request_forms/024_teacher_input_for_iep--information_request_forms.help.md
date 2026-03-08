@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from teachers about the students under their care. It appears to be related to the development of an Individualized Education Plan (IEP) for students. However, without more context, it's difficult to confirm its purpose with certainty. 
-This form could be used to collect data on the student's academic, physical, social, and emotional needs, as well as additional information such as the assigned tool and teacher contact details. 
-It's likely that this form will be filled out by teachers who interact with students, such as special education or subject teachers. 
-To avoid duplication, it's recommended to check if the student already has an active IEP in the system before filling out this form.
-</thinking>
-
 # Teacher Input For IEP - Help Guide
 ## Purpose
 This form is designed to collect information from teachers about students under their care to support the development of an Individualized Education Plan (IEP). 

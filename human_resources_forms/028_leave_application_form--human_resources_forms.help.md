@@ -1,9 +1,3 @@
-<thinking>
-
-The internal reasoning behind this form is to collect information from users regarding their leave requests, including details about themselves, their contact information, leave specifics, and other relevant details. This form aims to ensure that all necessary information is gathered in a structured and organized manner, reducing the chance of miscommunication and making it easier for the administration to process leave applications.
-
-</thinking>
-
 # Leave Application Form - Help Guide
 ## Purpose
 

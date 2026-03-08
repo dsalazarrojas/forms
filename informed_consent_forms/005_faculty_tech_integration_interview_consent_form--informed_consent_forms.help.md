@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a comprehensive user-facing help guide for the Faculty Tech Integration Interview Consent Form. This form is designed to obtain consent from faculty members for technical integration purposes, such as recording and data collection. The form should be completed by faculty members to ensure they are aware of and agree to the terms of the technical integration. The form should not be repeated for the same faculty member within the same academic semester, and the form's purpose is to document consent and ensure compliance with relevant policies and regulations.</thinking>
-
 # Faculty Tech Integration Interview Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from faculty members for technical integration purposes, such as recording and data collection. It is designed to ensure that faculty members are aware of and agree to the terms of the technical integration.

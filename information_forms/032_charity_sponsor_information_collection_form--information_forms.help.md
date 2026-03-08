@@ -1,13 +1,3 @@
-<thinking>
-
-Before completing this form, please ensure that you have a legitimate reason for submitting this form. This form is for collecting information from organizations that are willing to sponsor our charity programs. We appreciate your interest in supporting our cause, but we will review and verify the accuracy of the information provided before considering your sponsorship.
-
-We will not accept duplicate submissions from the same organization. Please do not submit this form if you have already done so in the past.
-
-Please be as thorough and accurate as possible when filling out this form. Your submission will help us understand your interest and preferences for sponsorship.
-
-</thinking>
-
 # Charity Sponsor Information Collection Form - Help Guide
 ## Purpose
 This form is designed to collect information from organizations that are interested in sponsoring our charity programs. The information collected will help us understand your organization's interest and preferences for sponsorship.

@@ -1,8 +1,3 @@
-<thinking>
-This form is used by HR departments to collect feedback and insights from employees on various aspects of their work. The form is designed to gauge employee satisfaction, engagement, and performance. It's essential to fill out this form to provide a complete and accurate picture of the employee's experience and performance. Please note that each field is optional unless specified as required.
-
-</thinking>
-
 # HR Trends And Performance Survey - Help Guide
 ## Purpose
 

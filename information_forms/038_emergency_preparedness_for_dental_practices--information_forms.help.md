@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to ensure that dental practices have a thorough plan in place for emergency situations. This form collects important information about the emergency plans in place, the roles and responsibilities of staff members, data collection procedures, and submission management. It is designed to be completed by dental practices to ensure they have a comprehensive emergency preparedness plan. It is essential to complete this form carefully and accurately to maintain the safety and well-being of patients and staff.
-
-Before proceeding, please ensure that the form is relevant to your practice and not a duplication of effort. Review the form carefully and answer all questions to the best of your ability.
-</thinking>
-
 # Emergency Preparedness For Dental Practices - Help Guide
 ## Purpose
 This form is designed to help dental practices develop and maintain a comprehensive emergency preparedness plan. It is essential to complete this form carefully and accurately to ensure the safety and well-being of patients and staff.

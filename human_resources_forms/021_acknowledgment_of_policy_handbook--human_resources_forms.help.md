@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to be used by human resources departments to obtain acknowledgment from employees on policy handbooks. The purpose of this form is to ensure that employees have received, read, and understood the policies outlined in the handbook. It's a critical process to maintain compliance and reduce the risk of policy violations. The form is meant to be completed by employees, and the information collected will be used by HR to track employee acknowledgment and understanding of company policies.
-
-Before filling out this form, please make sure you have the necessary information and that you are not duplicating an existing acknowledgment. Completing this form multiple times can lead to unnecessary work and confusion.</thinking>
-
 # Acknowledgment Of Policy Handbook - Help Guide
 
 ## Purpose

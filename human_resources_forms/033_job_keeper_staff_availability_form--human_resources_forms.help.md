@@ -1,7 +1,3 @@
-<thinking>
-The "Job Keeper Staff Availability Form" is a tool for employees to report their work hours and job information, helping management to track staff availability and job status. This form ensures that employees provide accurate and up-to-date information, facilitating smooth communication and resource allocation within the team. Before filling out this form, please ensure that you have not already completed it for the same period or job instance.
-</thinking>
-
 # Job Keeper Staff Availability Form - Help Guide
 ## Purpose
 The Job Keeper Staff Availability Form is designed to gather information about staff members' availability and job details. This form is used to report the number of hours worked, job status, and other relevant details to support team coordination and resource allocation.

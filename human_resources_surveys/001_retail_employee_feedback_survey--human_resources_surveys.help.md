@@ -1,6 +1,4 @@
-# <thinking>...</thinking>
-
-We are implementing the **Retail Employee Feedback Survey** to gather insights from store employees on their experiences and perceptions of their work. This form aims to collect feedback on how often you feel supported and motivated in your role, which is essential for improving store operations and employee engagement. 
+# We are implementing the **Retail Employee Feedback Survey** to gather insights from store employees on their experiences and perceptions of their work. This form aims to collect feedback on how often you feel supported and motivated in your role, which is essential for improving store operations and employee engagement. 
 
 This form will be used in conjunction with other feedback mechanisms to ensure a comprehensive understanding of store-level data. Please take a few minutes to complete this survey to help us better understand your needs and concerns. Your input is valuable and anonymous.
 

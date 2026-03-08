@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from employees when they are offboarding from the company. It is used to gather details about their departure, including the reason for leaving, last working day, employment start date, manager's information, and other relevant details like company property and benefits status. The form is designed to be completed by the employee themselves, and it's essential to provide accurate and honest information to ensure a smooth offboarding process. Please ensure that the form is completed only once, and any changes in employee status should be updated in the HR system. This form is meant to be a one-time submission, and any repeated submissions will be considered duplicates.
-</thinking>
-
 # employee_offboarding_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from employees when they are offboarding from the company. This information will help the HR department to process the employee's departure and ensure a smooth transition.

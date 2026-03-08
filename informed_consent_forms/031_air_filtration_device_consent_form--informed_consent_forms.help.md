@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is likely to collect informed consent from participants in a study or trial involving air filtration devices. The form is likely part of a larger testing or research protocol, and its completion is crucial for ensuring that participants are aware of the procedures and potential risks involved. 
-This form likely does not collect sensitive information and does not store sensitive data, but rather collects metadata and information that can be used to confirm the understanding of participants. 
-There might be a similar form for this purpose already implemented in the system, please double check before implementing a new one.
-</thinking>
-
 # Air Filtration Device Consent Form - Help Guide
 ## Purpose
 This form is intended to collect informed consent from participants in a study or trial involving air filtration devices. It ensures that participants are aware of the procedures, benefits, and risks associated with the testing or installation of these devices.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from users seeking to appeal or request the removal of a ban on their Twitch account. The form should only be filled out by users who have been banned and are seeking to reinstate their account. This form does not aim to collect information for commercial purposes, but rather to gather details for internal review and decision-making related to account status. Please ensure this form is used responsibly and only by users who are seeking to reinstate their account, as filling out this form will not guarantee a successful appeal. To avoid duplication of effort, users should not submit this form if they have already done so in the past, as this will be noted during the review process.
-</thinking>
-
 # Twitch Unban Request Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from users who have been banned on their Twitch account and are seeking to reinstate their account. Please fill out this form if you have been banned and are looking to appeal or request removal of the ban.

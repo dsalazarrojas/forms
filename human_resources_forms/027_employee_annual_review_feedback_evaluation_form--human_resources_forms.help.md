@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Annual Review Feedback Evaluation Form - Help Guide
 ## Purpose
 The Employee Annual Review Feedback Evaluation Form is a tool used to gather feedback from supervisors or managers on an employee's performance over the past year. This form is typically used during the annual review process to evaluate an employee's strengths, weaknesses, and areas for improvement. It helps supervisors to provide constructive feedback and recommendations for growth and development.

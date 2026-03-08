@@ -1,7 +1,3 @@
-<thinking>
-The PtoRolloverOrPayoutRequestForm is used to request a paid time off (PTO) or a payout for a specific period. Before filling out this form, ensure that you have discussed and been approved for a PTO or payout with your manager. This form is not intended for duplicate submissions or requests without prior approval. Please fill out the form accurately and thoroughly to avoid delays or rejections. Review the form carefully to ensure all required fields are completed, especially the Start Date and End Date for PTO requests. If you are requesting a payout, select only one option from the list of available choices. This form is only for PTO or payout requests and not for other types of leave or absences.
-</thinking>
-
 # PtoRolloverOrPayoutRequestForm - Help Guide
 ## Purpose
 The PtoRolloverOrPayoutRequestForm is used to request a paid time off (PTO) or a payout for a specific period.

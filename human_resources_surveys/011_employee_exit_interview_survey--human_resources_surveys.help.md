@@ -1,7 +1,3 @@
-<thinking>
-We've designed this form to collect valuable information from employees who are leaving the company. This form is meant to be a one-time, internal survey to gather insights on the reasons behind their departure. Please note that this form is not meant to be used for external purposes, such as performance reviews or official company records. It's solely for internal use to help us understand what we can do better. If you've already filled out a similar form or have left the company recently, you might not need to fill this out again.
-</thinking>
-
 # Employee Exit Interview Survey - Help Guide
 ## Purpose
 The Employee Exit Interview Survey is designed to collect information about your reasons for leaving the company. This information will help us understand what we can do better to support our employees and improve our work environment.

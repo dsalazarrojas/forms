@@ -1,14 +1,3 @@
-<thinking>
-This help guide is to assist users in understanding the Cost Of Goods Sold Information Form, which is used to capture key information related to the cost of goods sold (COGS) for a given period. The form is designed to gather essential data for accounting, bookkeeping, and operations teams. The guide aims to help users complete the form accurately and effectively.
-
-The form is not meant to be a duplicate or redundant form. It is designed to capture specific information that is crucial for COGS calculations and reporting.
-
-The form has several sections with different types of fields, including notes, numbers, select one, and select multiple fields. Each field has its own label, hint, and options. The user is required to provide relevant information for the COGS calculations and reporting.
-
-The form is meant to be completed by users from different teams, including accounting, bookkeeping, and operations teams. The form may be used in conjunction with other forms or reports to gather comprehensive COGS information.
-
-</thinking>
-
 # Cost Of Goods Sold Information Form - Help Guide
 ## Purpose
 The Cost Of Goods Sold Information Form is used to capture key information related to the cost of goods sold (COGS) for a given period. This information is essential for accurate COGS calculations and reporting.

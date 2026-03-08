@@ -1,13 +1,3 @@
-<thinking>
-
-The "social_outing_form" is used for requesting and planning social events such as parties, meetups, or get-togethers. It's designed to gather essential information about the outing in a structured way, making it easier for organizers and attendees to share and access details. 
-
-This form helps to ensure that all relevant details are captured correctly, reducing confusion and misunderstandings. 
-
-It's recommended to complete this form only if you're planning or attending a social outing.
-
-</thinking>
-
 # Social Outing Form - Help Guide
 ## Purpose
 The social outing form is used for requesting and planning social events such as parties, meetups, or get-togethers.

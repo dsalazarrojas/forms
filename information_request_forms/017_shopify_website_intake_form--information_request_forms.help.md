@@ -1,7 +1,3 @@
-<thinking>
-This form collects information about a Shopify website. The purpose of this form is to gather details about a client's Shopify website for internal use. This form is not meant for public submission, so please do not fill it out if you are not a authorized client representative.
-</thinking>
-
 # shopify_website_intake_form - Help Guide
 ## Purpose
 This form is intended to collect information about a client's Shopify website for internal use. This form is not meant for public submission.

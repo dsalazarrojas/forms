@@ -1,8 +1,3 @@
-<thinking>
-This block is to explain the purpose and ensure the form is relevant and not duplicated.
-The purpose of the Physician Verification Form is to gather information about a physician's credentials and contact details to verify their identity and validate their medical practice. This form is used to collect data that will be used to update a medical professional's information in our database. Please ensure that you are filling out this form for the correct purpose and not duplicating any existing records.
-</thinking>
-
 # Physician Verification Form - Help Guide
 ## Purpose
 The Physician Verification Form is used to collect information about a physician's credentials and contact details to verify their identity and validate their medical practice.

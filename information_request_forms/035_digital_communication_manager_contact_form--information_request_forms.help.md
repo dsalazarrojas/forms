@@ -1,9 +1,3 @@
-<thinking>
-We need to ensure that only relevant requests are submitted to the Digital Communication Manager and avoid duplicates. 
-This form is designed to gather essential information from users who need to contact the Digital Communication Manager. The manager will review each submission to determine the priority and assign tasks accordingly. 
-To use this form effectively, please read the instructions carefully and fill in the required fields.
-</thinking>
-
 # Digital Communication Manager Contact Form - Help Guide
 ## Purpose
 This form is intended for users to submit requests to the Digital Communication Manager for tasks, questions, or concerns related to digital communication. The manager will review and respond to each submission.

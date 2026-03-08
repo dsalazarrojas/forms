@@ -1,17 +1,3 @@
-<thinking>
-
-This form seems to be designed for collecting information about a security breach incident that occurred in a mall. The form likely aims to gather details about the incident, including the date, time, location, and descriptions of the suspect(s) and their vehicle(s). The purpose of this form is to gather relevant information to investigate and address the incident.
-
-The fields seem to be divided into several categories: incident details (date, time, location, and incident description), suspect details (description, vehicle, license plate, and license state), and witness statements.
-
-Before filling out this form, please ensure that you are familiar with the incident and have all the necessary information required to complete it accurately. 
-
-Please note that some fields may not be required, but it's essential to fill out as much information as possible to provide a comprehensive report.
-
-Please review the form carefully and fill out the required information. If you have any questions or need clarification about a particular field, please don't hesitate to reach out to the relevant authorities or contact the form creators.
-
-</thinking>
-
 # Mall Security Breach Incident Form - Help Guide
 ## Purpose
 This form is designed to collect information about a security breach incident that occurred in a mall. It helps to gather details about the incident, including the date, time, location, and descriptions of the suspect(s) and their vehicle(s).

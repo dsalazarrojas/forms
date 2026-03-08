@@ -1,13 +1,3 @@
-<thinking>
-
-To create an effective user-facing help guide for this form, I need to consider the following key points:
-
-*   The form's purpose is for clinical research participation applications.
-*   This form aims to gather relevant information from potential participants for a clinical study.
-*   The form's structure suggests it's designed for a medical or health-related context.
-
-</thinking>
-
 # Clinical Research Participation Application - Help Guide
 ## Purpose
 This form is designed for individuals interested in participating in clinical research studies. It collects essential information about the applicant to facilitate the study's screening and selection process.

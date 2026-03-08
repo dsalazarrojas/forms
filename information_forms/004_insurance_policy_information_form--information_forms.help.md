@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Insurance Policy Information Form is used to collect and store information about insurance policies. This form is designed to provide a standardized way of capturing policyholder details, policy numbers, start and end dates, policy status, claim status, coverage start and end dates, and coverage amounts. It is intended to be used by policyholders, insurance companies, and other stakeholders to manage and track insurance policies.
 
 </thinking>

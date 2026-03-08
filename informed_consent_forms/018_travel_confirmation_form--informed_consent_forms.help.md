@@ -1,9 +1,3 @@
-<thinking>
-We need to make sure this form is used correctly for travel confirmation purposes.
-Travel confirmation forms are used to gather information from customers about their travel plans and ensure that all necessary details are in order. The purpose of this form is to confirm travel arrangements with customers and gather essential information for our travel agency.
-This form should not be used for other purposes that are not related to travel confirmation.
-</thinking>
-
 # Travel Confirmation Form - Help Guide
 ## Purpose
 This form is used to confirm travel arrangements with customers and gather essential information for our travel agency.

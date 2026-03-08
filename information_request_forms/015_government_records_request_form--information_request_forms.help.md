@@ -1,7 +1,3 @@
-<thinking>
-The Government Records Request Form is used by citizens to request access to government records. It is used to gather information about the nature of the request, the contact information of the person making the request, and the specific records being requested. This form helps the government agency to understand the scope and context of the request, which is crucial in providing accurate and efficient services to the public. The form also helps in identifying potential duplication of requests, ensuring that only one record is created for each request and reducing the burden on the agency's resources.
-</thinking>
-
 # Government Records Request Form - Help Guide
 ## Purpose
 The Government Records Request Form is used by citizens to request access to government records. This form helps the government agency to gather information about the nature of the request, the contact information of the person making the request, and the specific records being requested.

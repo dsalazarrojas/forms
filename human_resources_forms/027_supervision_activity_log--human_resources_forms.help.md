@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about employee supervision activities, allowing supervisors to record and track their interactions with employees. This form is likely used for HR-related purposes, such as performance evaluation, training, or employee development. The form should not be used for other purposes, and it's essential to ensure that each entry is unique and not a duplicate.
-This form is designed for supervisors to record their supervision activities for a specific period. Please ensure that the form is only used within the specified timeframe.
-</thinking>
-
 # supervision_activity_log - Help Guide
 ## Purpose
 The "Supervision Activity Log" form is used by supervisors to record and track their interactions with employees, such as performance evaluations, training, or employee development activities.

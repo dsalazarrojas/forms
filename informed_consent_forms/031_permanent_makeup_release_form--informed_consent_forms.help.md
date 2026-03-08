@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to obtain a client's informed consent for permanent makeup services. It is used to capture essential information from the client, such as their name, contact details, and consent for photos. This form ensures that the client is aware of and agrees to the terms and conditions of the permanent makeup services they are receiving.
-</thinking>
-
 # Permanent Makeup Release Form - Help Guide
 ## Purpose
 The Permanent Makeup Release Form is a document that requires clients to provide their informed consent for permanent makeup services. It ensures that clients are aware of and agree to the terms and conditions of these services.

@@ -1,16 +1,3 @@
-<thinking>
-This form is used to collect information from transportation planners when they are exiting or offboarding from the organization. The purpose of this form is to gather feedback and insights to improve the planning process, identify areas of improvement, and provide a smooth transition for the departing employee. This form is intended to be used by transportation planners who are leaving the organization, and it is designed to be a one-time submission. 
-
-Please review the form fields carefully before proceeding, as some fields may be required to ensure accurate and comprehensive information is collected. If you have already completed an offboarding form, you may not need to submit this one.
-
-It is essential to answer these questions truthfully, and provide as much detail as possible. Your input will help the organization identify areas for improvement and develop a better planning process for future transportation projects.
-
-If you are unsure about any field, please contact your manager or HR representative for guidance. 
-
-This form is a one-time submission and should be completed within [insert timeframe].
-
-</thinking>
-
 # Transportation Planner Exit Offboarding Form - Help Guide
 ## Purpose
 The Transportation Planner Exit Offboarding Form is designed to gather feedback and insights from departing transportation planners to improve the planning process and provide a smooth transition for the organization.

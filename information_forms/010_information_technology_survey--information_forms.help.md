@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users about their experience with information technology, including the types of technology they use, their level of satisfaction, and any upgrades or improvements they need. This data can help the organization understand user needs and preferences, informing decisions about technology development and improvement.
-To prevent duplication, please note that this form is only meant to be filled out once per user. If you have already filled out this form, you do not need to do so again.
-</thinking>
-
 # Information Technology Survey - Help Guide
 ## Purpose
 The Information Technology Survey is designed to gather information about your experience with various technologies, such as computers, mobile devices, and the internet. This feedback will help us understand your needs and preferences, and inform our decisions about technology development and improvement.

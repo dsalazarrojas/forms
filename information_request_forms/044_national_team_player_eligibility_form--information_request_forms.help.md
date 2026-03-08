@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect information from players regarding their eligibility to participate in national team events. This form is used to verify the player's details, coach's confirmation, team manager's confirmation, and the player's own confirmation. It's essential to fill out this form accurately to ensure the player's eligibility status is correctly assessed. This form should not be completed if the player is already registered in the system or if the player has already been assessed for national team eligibility.
-
-To determine if the player is already registered in the system, you can check the player's profile in the player database. If the player is already registered, do not complete this form. If you're unsure about the player's status, contact the national team administrator for clarification.
-
-Please ensure that the coach and team manager confirm the player's eligibility to avoid any discrepancies. If you're not sure about the coach or team manager's confirmation, contact them directly for verification.
-
-</thinking>
-
 # National Team Player Eligibility Form - Help Guide
 ## Purpose
 This form is designed to gather information from players regarding their eligibility to participate in national team events. It is essential to complete this form accurately to ensure the player's eligibility status is correctly assessed.

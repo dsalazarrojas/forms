@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect personal and financial information for the purpose of creating a financial snapshot or profile. This information may be used for various purposes, such as credit applications, financial planning, or risk assessment. To ensure that this form is completed correctly, please review the following instructions carefully.
-
-Before proceeding, please note that this form is meant to gather general information about an individual's personal and financial details. Please do not duplicate efforts by submitting incomplete or inaccurate data.
-
-To complete this form, follow the instructions below.
-</thinking>
-
 # personal_financial_snapshot_pdf - Help Guide
 ## Purpose
 This form is designed to collect personal and financial information for the purpose of creating a financial snapshot or profile.

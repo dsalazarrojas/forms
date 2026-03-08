@@ -1,7 +1,3 @@
-<thinking>
-The form is used to gather detailed information about individual conference agenda items, which will be reviewed by organizers before inclusion in the conference schedule. The purpose of this form is to ensure that each agenda item meets the conference's quality and format standards. To avoid duplication, please do not submit duplicate or similar agenda items.
-</thinking>
-
 # Conference Agenda Item Details Form - Help Guide
 ## Purpose
 This form is used to provide detailed information about individual conference agenda items. The information collected will be reviewed by organizers before inclusion in the conference schedule.

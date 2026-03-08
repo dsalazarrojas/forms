@@ -1,5 +1,3 @@
-<thinking>...Internal reasoning: This form is used by therapists to request a leave of absence for a conference or other approved reason. It is essential to ensure that the form is completed accurately and thoroughly to prevent any confusion or delays in processing. Please review this guide carefully to ensure a smooth and efficient experience...</thinking>
-
 # Therapist Conference Leave Of Absence Request - Help Guide
 ## Purpose
 The Therapist Conference Leave Of Absence Request form is designed to allow therapists to request a leave of absence for a conference or other approved reason. This form will guide you through the necessary steps to complete it accurately and efficiently.

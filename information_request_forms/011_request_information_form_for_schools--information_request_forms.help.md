@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for schools to request information from the system. It is meant to be a general-purpose form that can be used by schools to gather information on their needs and requirements. Before proceeding, please ensure that you have not already submitted this form for the same school or topic, as duplicate requests will not be processed.
-</thinking>
-
 # Request Information Form For Schools - Help Guide
 ## Purpose
 The Request Information Form For Schools is a general-purpose form designed to gather information from schools.

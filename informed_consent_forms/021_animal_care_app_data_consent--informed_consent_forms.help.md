@@ -1,5 +1,3 @@
-<thinking>As a part of our ongoing commitment to transparency and accountability, we are providing this help guide to ensure that you, the pet owner, understand the purpose and usage of the data collection within our Animal Care App. This form is not intended to be a substitute for a lawyer's advice or a legal document. Please take the time to carefully read and understand each field before proceeding. If you have any questions or concerns, please do not hesitate to reach out to us. Our goal is to provide you with a secure and reliable platform for managing your pet's health and well-being. Please note that this form is a one-time submission and does not need to be completed again in the future. By completing this form, you are giving your consent for the collection and usage of your pet's data within our platform. We value your trust and promise to keep your data secure and private. This guide will walk you through each field of the form and explain its purpose and importance.</thinking>
-
 # Animal Care App Data Consent - Help Guide
 
 ## Purpose

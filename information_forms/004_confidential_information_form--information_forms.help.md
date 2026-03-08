@@ -1,8 +1,3 @@
-<thinking>
-This form is for gathering confidential information from clients or individuals who are requesting certain services or benefits. The purpose of this form is to collect sensitive data, such as financial information, contact details, and personal identification, to ensure secure and accurate processing of their requests. This form should not be used for general inquiries or routine requests. Each section of the form has its own specific purpose, and the fields within each section should be filled in accordingly. Please make sure to fill out the form completely and accurately, as the information gathered will be used to process your request.
-
-</thinking>
-
 # Confidential Information Form - Help Guide
 ## Purpose
 This form is for confidential information gathering from clients or individuals who are requesting specific services or benefits. It is essential to fill it out accurately and completely to ensure proper processing of your request.

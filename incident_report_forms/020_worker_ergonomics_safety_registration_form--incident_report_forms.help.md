@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data about worker ergonomics safety registration. It is meant for internal use within an organization, likely for workers who may be exposed to physical and mental health hazards during work-related activities. The purpose of this form is to register and document incidents, near-misses, and injuries related to worker ergonomics, and to collect information about the worker's experience, symptoms, and potential causes of the incident. This form should be used by workers to report incidents, near-misses, and injuries that have occurred during work-related activities. It is recommended to fill out this form after an incident has occurred or as soon as possible after the incident. If the worker has already reported an incident to a supervisor or manager, this form should still be filled out to provide more detailed information about the incident. Please make sure to fill out this form accurately and thoroughly, and that you have permission from your supervisor or manager to fill it out. If this form has already been filled out by you or another worker, do not fill it out again unless you are updating information or have new information to add. 
-</thinking>
-
 # Worker Ergonomics Safety Registration Form - Help Guide
 ## Purpose
 This form is designed to collect data about worker ergonomics safety incidents, near-misses, and injuries. It is meant for internal use to document and register incidents that have occurred during work-related activities.

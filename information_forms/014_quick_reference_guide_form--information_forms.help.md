@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Quick Reference Guide Form - Help Guide
 
 ## Purpose

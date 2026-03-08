@@ -1,7 +1,3 @@
-<thinking>
-This form is used for employees to request time off, such as vacation, sick leave, or family leave. To prevent duplication, the HR department will only consider requests after reviewing and validating the information provided. Ensure that you are requesting time off for a valid reason and that you have discussed this request with your manager before filling out this form. This form is designed to collect essential information for your manager and HR team to process your request efficiently.
-</thinking>
-
 # Employee Time Off Request Form Template - Help Guide
 ## Purpose
 

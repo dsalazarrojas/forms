@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Senior Banker Identification Form - Help Guide
 ## Purpose
 The Senior Banker Identification Form is designed to collect information from senior bankers to help our team understand their background, experience, and expertise in the banking industry. This form is intended for internal use by our team and will help us better understand the qualifications and attributes of senior bankers in the field.

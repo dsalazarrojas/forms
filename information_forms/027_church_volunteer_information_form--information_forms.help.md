@@ -1,9 +1,3 @@
-<thinking>
-
-Before you start filling out this form, please take a moment to read through it carefully. This form is designed to gather information about your background and interests so that we can effectively match you with volunteer opportunities within our church. It's essential to fill out this form as completely and accurately as possible, so please don't skip any fields or enter information that doesn't apply to you. If you're unsure about any field, refer to the explanations and examples provided below to help you make informed decisions. Also, be sure to review each field for relevance before proceeding to the next section, as some fields may not be applicable to your situation. With that in mind, let's start filling out the form together!
-
-</thinking>
-
 # Church Volunteer Information Form - Help Guide
 ## Purpose
 This form is designed to collect information about your background, interests, and availability to help us match you with volunteer opportunities within our church.

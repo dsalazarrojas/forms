@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from users about a release, including the purpose, urgency, supporting documents, and other relevant details. The goal of this form is to gather necessary data for efficient and accurate processing and decision-making.
-
-The form is not intended to be a comprehensive or definitive document, but rather a guide to help users understand the key aspects of a release. It is essential to complete this form accurately and thoroughly to ensure that the information collected is reliable and useful.
-
-To prevent duplication and ensure relevance, please do not use this form for purposes other than collecting release information request data. Ensure that the information provided is up-to-date and accurate.
-</thinking>
-
 # Pro Release Information Request - Help Guide
 ## Purpose
 This form is designed to collect information from users about a release, including the purpose, urgency, supporting documents, and other relevant details.

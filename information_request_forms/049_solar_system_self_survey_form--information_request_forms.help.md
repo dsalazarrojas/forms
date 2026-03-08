@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # solar_system_self_survey_form - Help Guide
 ## Purpose
 The purpose of the solar system self-survey form is to collect information from users about their personal details and solar system preferences. This form is used to understand user demographics and preferences within the context of the solar system.

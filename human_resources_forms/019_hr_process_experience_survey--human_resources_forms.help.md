@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture the experience and feedback from employees and managers regarding the human resources processes used in the organization. The purpose of this form is to understand how these processes are perceived and what areas need improvement. It is essential to ensure that this feedback is not duplicated or biased, so please only complete this form once for each experience.
-</thinking>
-
 # HR Process Experience Survey - Help Guide
 ## Purpose
 

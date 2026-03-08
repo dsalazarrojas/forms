@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback on employees' annual reviews. It is meant to gather constructive criticism and suggestions from employees to improve the review process and overall employee experience. Please note that the form is not a mandatory part of the annual reviews process, and feedback provided will be kept confidential to protect employee anonymity. To ensure the quality of feedback, we kindly ask that you do not duplicate or re-post feedback that has already been provided.
-</thinking>
-
 # Employee Feedback On Annual Reviews Evaluation Form - Help Guide
 
 ## Purpose

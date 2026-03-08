@@ -1,7 +1,3 @@
-<thinking>
-To confirm, I will create an EPCI Information Collection Form help guide that explains its purpose, completion, and each field explanation.
-</thinking>
-
 # EPCI Information Collection Form - Help Guide
 ## Purpose
 The EPCI Information Collection Form is used to collect information about EPCI (Engineering, Procurement, and Construction and Installation) related activities, such as names, emails, phones, and other relevant details.

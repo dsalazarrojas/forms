@@ -1,8 +1,3 @@
-<thinking>
-This form is used to document and report incidents of tree collapses that occur within a forest or tree farm. The purpose of this form is to gather information about the incident, including the date, time, and location of the event, as well as details about the tree that collapsed, such as its type and height. This form will help incident responders quickly and accurately report on tree collapses, allowing for effective resource allocation and risk management.
-Before filling out this form, please ensure that you have reviewed the standard procedures for reporting incidents and have not submitted a report for this incident already.
-</thinking>
-
 # Tree Collapse Incident Form - Help Guide
 ## Purpose
 The Tree Collapse Incident Form is designed to collect information about tree collapses that occur within a forest or tree farm. This form will help incident responders quickly and accurately report on tree collapses, allowing for effective resource allocation and risk management.

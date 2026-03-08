@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for clients to provide their informed consent for holistic massage therapy services. The purpose of this form is to gather essential information from clients, including their name, date of birth, phone number, email, medical history, and emergency contact information. The form also aims to ensure that clients understand the purpose and limitations of the massage therapy services they are requesting. By completing this form, clients are providing their informed consent to proceed with the treatment plan.
-
-Please note that some of the fields are optional, meaning they are not required to be filled in. Clients are encouraged to fill in as much information as possible, but they are not obligated to provide all the details if they don't feel comfortable doing so.
-
-To ensure the form is being filled in correctly, please follow the instructions below:
-
-</thinking>
-
 # Sssweet.nectar Holistic Massage Therapy - Help Guide
 ## Purpose
 This form is for informed consent and essential information for clients to provide their permission to receive holistic massage therapy services.

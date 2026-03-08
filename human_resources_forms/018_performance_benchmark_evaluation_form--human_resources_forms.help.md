@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to evaluate an employee's performance in a specific time period. It is intended for HR personnel to assess an employee's productivity, efficiency, and overall performance. This form will help evaluate an employee's performance on a regular basis, ensuring that they are meeting the expected standards. Please ensure that you are filling out this form to evaluate an employee's performance and not for any other purpose.
-</thinking>
-
 # Performance Benchmark Evaluation Form - Help Guide
 ## Purpose
 The Performance Benchmark Evaluation Form is used to evaluate an employee's performance in a specific time period. It is a crucial tool for HR personnel to assess an employee's productivity, efficiency, and overall performance.

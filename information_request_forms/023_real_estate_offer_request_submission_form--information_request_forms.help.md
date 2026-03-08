@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Real Estate Offer Request Submission Form - Help Guide
 ## Purpose
 This form is designed to collect information from users who are interested in making an offer on a property. The information provided will be reviewed by the property owner or their representative, and a response will be sent to the user with more information about the property and the next steps in the process.

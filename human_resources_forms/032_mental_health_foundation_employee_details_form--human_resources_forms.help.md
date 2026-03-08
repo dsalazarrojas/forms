@@ -1,8 +1,4 @@
 <figure>
-<thinking>
-This help guide is for the mental health foundation employee details form. This form is used to collect information about employees of the mental health foundation. The purpose of this form is to create a comprehensive record of employee details that can be used for various administrative and HR purposes. Before proceeding, please note that this form is not intended to be used for any other purpose than what is clearly stated. Each page is designed to capture specific details, and any redundant or unnecessary information can be omitted. Please fill out the form with the required information to ensure that the data is accurate and complete.
-</thinking>
-
 # mental_health_foundation_employee_details_form - Help Guide
 ## Purpose
 The mental health foundation employee details form is used to collect and store employee information for administrative and HR purposes.

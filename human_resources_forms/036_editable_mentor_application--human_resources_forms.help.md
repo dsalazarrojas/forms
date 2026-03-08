@@ -1,9 +1,3 @@
-<thinking>
-The "Editable Mentor Application" form is used by mentors and their coordinators to manage mentorship relationships. To fill out this form, you should have a strong understanding of the mentorship programs and the roles and responsibilities involved. This form is not intended for external use and is used internally for tracking and reporting purposes.
-
-Before starting the application process, please ensure you have the necessary permissions and access to edit and view mentorship data. If you're unsure about any aspect of the form, please reach out to your HR or department representative for clarification.
-</thinking>
-
 # Editable Mentor Application - Help Guide
 ## Purpose
 The Editable Mentor Application form is used to create, edit, and manage mentorship applications.

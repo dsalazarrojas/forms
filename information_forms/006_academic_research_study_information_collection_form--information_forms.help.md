@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from potential participants for an academic research study. This form helps researchers understand the demographic details, research interests, and availability of potential participants. To prevent non-repetitive and inaccurate data, please fill out this form accurately and truthfully.
-</thinking>
-
 # Academic Research Study Information Collection Form - Help Guide
 
 ## Purpose

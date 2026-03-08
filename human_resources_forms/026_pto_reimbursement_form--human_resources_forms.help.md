@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to process requests for Paid Time Off (PTO) reimbursement. This form is used by employees to submit claims for reimbursement of their PTO hours taken. It is essential that employees only submit this form once for each claim and provide accurate information to ensure that their reimbursement is processed correctly.
-
-Before completing this form, please ensure that you have not already submitted a PTO claim for the same period. If you have already submitted a claim, please contact your HR representative for further assistance.
-
-Please note that the information provided in this form will be reviewed and verified by your HR department before processing any reimbursement. Inaccurate or incomplete information may cause delays in processing your claim.
-
-</thinking>
-
 # PTO Reimbursement Form - Help Guide
 ## Purpose
 The PTO Reimbursement Form is used to process requests for Paid Time Off (PTO) reimbursement.

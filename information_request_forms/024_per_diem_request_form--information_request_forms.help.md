@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request per diem, a daily allowance for travel expenses. The form is designed to collect information about travel dates, destinations, purpose of travel, start and end dates, travel location, and number of nights. Before submitting this form, please ensure that you have not submitted a similar request in the past 30 days, as this could be considered a duplication. If you are unsure about any of the information below, please reach out to your supervisor or manager for clarification. 
-</thinking>
-
 # Per Diem Request Form - Help Guide
 ## Purpose
 The Per Diem Request Form is used to request per diem, a daily allowance for travel expenses.

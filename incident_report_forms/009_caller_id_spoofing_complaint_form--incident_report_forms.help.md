@@ -1,11 +1,3 @@
-<thinking>
-
-To create a comprehensive help guide for the "Caller ID Spoofing Complaint Form", I'll first explain the internal reasoning behind this form and ensure it's a relevant and non-duplicating effort.
-
-The "Caller ID Spoofing Complaint Form" is designed to gather information from individuals who have been victims of Caller ID spoofing, a form of telecommunications scam where the caller's ID is manipulated to appear as a legitimate organization or individual. This form helps to collect details about the incident, including the date, time, and nature of the interaction, to assist in identifying and addressing the issue.
-
-</thinking>
-
 # Caller ID Spoofing Complaint Form - Help Guide
 ## Purpose
 The Caller ID Spoofing Complaint Form is used to report incidents of Caller ID spoofing, a type of scam where the caller's ID is manipulated to appear as a legitimate organization or individual. This form helps to gather information about the incident and report it to the relevant authorities.

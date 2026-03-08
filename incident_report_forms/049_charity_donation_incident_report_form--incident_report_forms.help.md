@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about incidents related to charity donations, which are reported and investigated to ensure that any issues are resolved efficiently and effectively. This form is typically used by charity organizations to report and manage incidents that have occurred during the process of accepting and processing donations. 
-</thinking>
-
 # Charity Donation Incident Report Form - Help Guide
 ## Purpose
 The Charity Donation Incident Report Form is a tool used by charity organizations to report and manage incidents that have occurred during the process of accepting and processing donations. This form helps to ensure that any issues are investigated and resolved efficiently and effectively, maintaining the integrity and reputation of the organization.

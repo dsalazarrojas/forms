@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect emergency contact information for participants in an event, program, or project. The form typically asks for details about two emergency contacts, such as their name, relationship to the participant, phone number, email, and address. This information is usually used in case of an emergency or when trying to reach a participant in a situation where they may not be present. The fields provided are intended to gather comprehensive information for each contact person.
-
-Please note that this form might not be applicable to all participants, depending on your use case. Make sure you're collecting this information only when necessary and have proper protocols for data storage and handling. Also, consider the sensitivity and security of the collected data.
-</thinking>
-
 # emergency_contact_information_form - Help Guide
 ## Purpose
 

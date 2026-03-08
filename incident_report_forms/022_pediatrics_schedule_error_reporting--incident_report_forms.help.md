@@ -1,7 +1,3 @@
-<thinking>
-This form is used to report scheduling errors that occur in the Pediatrics department. The purpose of this form is to document and track incidents that affect the schedule, which can help in identifying patterns and areas for improvement. This form is not intended to be used for duplicate reporting; if a scheduling error has already been reported, please do not submit another form for the same incident.
-</thinking>
-
 # Pediatrics Schedule Error Reporting - Help Guide
 ## Purpose
 The Pediatrics Schedule Error Reporting form is used to report scheduling errors that occur in the Pediatrics department. This form helps to document and track incidents that affect the schedule, enabling us to identify patterns and areas for improvement.

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from employees about their knowledge and experiences within the organization. It's used for internal HR purposes, such as assessing employee knowledge, skills, and performance. This form is likely used in a performance evaluation or knowledge assessment process, where managers or HR personnel need to evaluate an employee's current and previous job experiences.
-Please ensure that you complete this form accurately and truthfully, as the information will be used for official purposes. Before filling out this form, review the fields carefully and make sure you have all the necessary information before proceeding.
-</thinking>
-
 # hr_knowledge_assessment - Help Guide
 ## Purpose
 

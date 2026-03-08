@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for drug testing requests. It is essential that employees understand that this form is for official purposes and is not a casual or casual inquiry. Please ensure that you are not submitting duplicate requests or requests that are not relevant to your current situation. This form will be reviewed and processed by the HR department for employee drug testing purposes.
-</thinking>
-
 # drug_testing_request_form - Help Guide
 ## Purpose
 The drug testing request form is used to collect information and approval for employee drug testing.

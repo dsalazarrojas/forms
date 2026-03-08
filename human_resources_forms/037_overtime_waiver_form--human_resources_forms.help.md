@@ -1,9 +1,3 @@
-<thinking>
-To ensure this form is used correctly, please note that the Overtime Waiver Form is intended for employees to request approval for overtime work. It is crucial that only employees and their direct managers use this form for requesting and approving overtime. If you are a manager, please use this form to approve or deny overtime requests submitted by your team members. If you are an employee, please use this form to request overtime work from your direct manager.
-The form includes sections for employee information, request details, and signatures. Please fill out the form carefully and accurately, and make sure to include all required fields.
-Before proceeding, please ensure that you have your manager's approval or your direct manager's name is listed in the "Manager Name" field. If you're unsure about any part of the form, please contact your HR department for assistance.
-</thinking>
-
 # Overtime Waiver Form - Help Guide
 ## Purpose
 The Overtime Waiver Form is used to request and approve overtime work. It captures essential information for the employee and manager, including the employee's details, request details, and signatures.

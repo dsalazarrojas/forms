@@ -1,7 +1,3 @@
-<thinking>
-This form is used for collecting information from recruitment agencies, allowing them to report their interactions with candidates. It is intended to gather details about the agency's contact information, job specifics, and candidate's qualifications. Please ensure you have the necessary permissions to access and submit this form. Also, check that you are not submitting duplicate reports for the same candidate.
-</thinking>
-
 # Recruitment Agency Interview Form - Help Guide
 ## Purpose
 The Recruitment Agency Interview Form is designed to collect information from recruitment agencies about their interactions with candidates. This form will help us understand the agency's contact details, the job the candidate applied for, and the candidate's qualifications.

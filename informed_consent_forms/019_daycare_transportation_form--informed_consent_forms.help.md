@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Daycare Transportation Form - Help Guide
 ## Purpose
 The Daycare Transportation Form is a document used to collect information about transporting children to or from a daycare center. The form is used to ensure that all necessary details are captured for safe and efficient transportation.

@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information about a helicopter crash incident, gathering details about the incident, the involved helicopter, and the incident reporters. This form aims to gather comprehensive data to analyze and improve aviation safety. Please note that this form was created using public metadata and is not affiliated with any specific form platform. It is an original adaptation and can be used, modified, or even commercialized with proper credit. 
-</thinking>
-
 # Helicopter Crash Incident Form - Help Guide
 ## Purpose
 This form is used to collect information about helicopter crash incidents, aiming to gather details about the incident, helicopter, and incident reporters.

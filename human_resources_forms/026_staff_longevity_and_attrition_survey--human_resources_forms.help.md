@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about employee satisfaction and retention within an organization. The goal is to collect data that can help management identify areas of improvement and make informed decisions to maintain a positive work environment. Before proceeding, please note that this survey is anonymous and all responses will be treated confidentially. The questions are meant to be honest and to the point, and all answers are optional.
-</thinking>
-
 # Staff Longevity And Attrition Survey - Help Guide
 ## Purpose
 This survey aims to understand staff satisfaction and retention within the organization. Your responses will help us identify areas of improvement to maintain a positive work environment.

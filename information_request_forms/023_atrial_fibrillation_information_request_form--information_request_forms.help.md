@@ -1,10 +1,3 @@
-<thinking>
-  This is an Atrial Fibrillation Information Request Form used for collecting information about individuals who are interested in learning more about atrial fibrillation. The form is designed to gather relevant details about the individual's contact information, health status, and preferences for receiving information.
-  Before proceeding, please note that this form is not intended for emergency use. If you are experiencing symptoms of atrial fibrillation or other medical emergencies, please call 911 or your healthcare provider immediately.
-  Please ensure that you are providing accurate and up-to-date information to help us tailor our response to your specific needs.
-  Please answer the questions honestly, and if you have any questions or concerns, contact your healthcare provider or a trusted medical professional.
-</thinking>
-
 # Atrial Fibrillation Information Request Form - Help Guide
 ## Purpose
 The Atrial Fibrillation Information Request Form is designed to collect information from individuals interested in learning more about atrial fibrillation. This form will help us understand your needs and preferences for receiving information about the condition.

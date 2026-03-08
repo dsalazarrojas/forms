@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # New Hire Fit Evaluation Form - Help Guide
 ## Purpose
 The New Hire Fit Evaluation Form is a tool used by managers to evaluate an employee's fit for the company, team, and job. This form helps gather information on the employee's skills, experience, and expectations, providing valuable insights for a smooth onboarding process and a strong start in their new role.

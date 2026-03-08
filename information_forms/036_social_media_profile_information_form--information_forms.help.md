@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect social media profile information for internal purposes, such as tracking and managing social media accounts. It is meant to be filled out by account owners or administrators.
-
-Before filling out this form, please ensure you only need to create or update one social media profile at a time. If you need to create or update multiple profiles, you can simply submit this form multiple times, but please make sure to fill out all required fields and provide accurate information.
-
-Please also note that this form is not meant to be filled out for duplicate or non-existent accounts. If you are unsure whether you need to fill out this form, please check our internal records first before proceeding.
-
-</thinking>
-
 # Social Media Profile Information Form - Help Guide
 ## Purpose
 The Social Media Profile Information Form is designed to collect social media profile information for internal purposes, such as tracking and managing social media accounts.

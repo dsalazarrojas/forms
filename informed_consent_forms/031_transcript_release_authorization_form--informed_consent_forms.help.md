@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Transcript Release Authorization Form - Help Guide
 
 ## Purpose

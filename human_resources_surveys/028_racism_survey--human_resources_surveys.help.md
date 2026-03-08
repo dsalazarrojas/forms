@@ -1,17 +1,3 @@
-<thinking>
-This guide is intended for end-users who need to complete the "Racism Survey" form. The form is designed to collect information on individuals' experiences with racism, including demographic information and their experiences with racism in different contexts. This form is likely used to better understand the prevalence and effects of racism in various settings.
-
-Before starting the form, please ensure that you have not completed it previously. If you have already submitted this form, your responses will not be recorded, and you will not be able to proceed with your current session.
-
-The form is divided into the following sections:
-
-*   **Personal Information**: This section includes fields for your first name, last name, age, and contact information (email address and phone number).
-*   **Racism Experiences**: This section collects information on your experiences with racism, including how many times you have experienced it and how you rate your experiences with it.
-
-The following are the fields and their corresponding labels and explanations:
-
-</thinking>
-
 # Racism Survey - Help Guide
 ## Purpose
 The "Racism Survey" form is designed to collect information on individuals' experiences with racism, including demographic information and their experiences with racism in different contexts.

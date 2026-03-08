@@ -1,7 +1,3 @@
-<thinking>
-This form is used for employees to submit their time off requests, which are then reviewed and approved by HR. The form collects personal details, time off dates, and status updates. It's essential to fill out the form accurately to ensure that your time off is approved. Please review each field carefully and ensure you have all the necessary information before submitting. Note that some fields are optional, but all required fields are marked as such. This form is used for HR to track and manage employee time off requests.
-</thinking>
-
 # Employee Handbook Compliance Time Off Form - Help Guide
 
 ## Purpose

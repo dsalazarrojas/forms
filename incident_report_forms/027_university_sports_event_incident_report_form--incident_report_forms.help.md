@@ -1,11 +1,3 @@
-<thinking>
-
-University Sports Event Incident Report Form is designed to collect relevant information about incidents that occur during sports events at universities. The purpose of this form is to gather details about what happened, who was involved, and what actions were taken in response. This form will help the university's administration and incident response team to investigate and manage incidents promptly and effectively. It is essential to fill in as much information as possible to ensure accurate documentation and swift resolution.
-
-Before starting, please review the form and ensure that you have all the necessary details. If you need to fill in this form multiple times, you can save your progress by copying the unique URL that appears after submitting the current entry.
-
-</thinking>
-
 # University Sports Event Incident Report Form - Help Guide
 ## Purpose
 This form collects incident information during university sports events for prompt investigation and resolution.

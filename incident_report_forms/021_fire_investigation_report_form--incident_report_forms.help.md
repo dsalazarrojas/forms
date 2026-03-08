@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to capture information related to fire investigations, gathering details about the incident, the investigator, and the suspect. The fields can be filled out by users to report and analyze fire-related incidents. The form has multiple pages with various fields for different types of information. This form is likely used by law enforcement or fire departments to collect data for incident reports. This form is not intended to be used for other types of incidents or reports.
-
-</thinking>
-
 # Fire Investigation Report Form - Help Guide
 ## Purpose
 The fire investigation report form is designed to collect information about fire-related incidents, including incident location, date, time, and description. It also captures details about the investigator, witnesses, and suspects, such as their names, departments, and vehicle information. This form helps law enforcement or fire departments to collect and analyze data about fire incidents.

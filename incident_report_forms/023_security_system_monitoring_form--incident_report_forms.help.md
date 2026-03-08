@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to monitor and report incidents within the security system. This form is intended for use by internal personnel or authorized personnel to report or describe incidents that have occurred within the system, and to gather relevant information for further investigation or review. To avoid duplication, users should only submit this form once per incident, unless explicitly instructed otherwise by a relevant authority figure. 
-
-The form will help gather critical information about the incident, including its location, date, and description, which will aid in understanding the situation and provide relevant information for maintenance requests or security clearance. 
-</thinking>
-
 # Security System Monitoring Form - Help Guide
 ## Purpose
 The **Security System Monitoring Form** is used to report and monitor incidents within the security system. 

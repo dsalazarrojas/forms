@@ -1,13 +1,3 @@
-<thinking>
-We need to ensure that only users who genuinely need technical integration assistance can access this form, and that no duplicate requests are submitted. To achieve this, let's consider the following:
-
-*   Only users who have been explicitly granted access to this form through their user role or permissions should be able to access it.
-*   Implement a mechanism to detect and prevent duplicate requests, such as checking the `technical_contact_email` field against a database or a cache of previously submitted emails.
-*   Use a token system to generate a unique token for each request, which can be used to verify the request and prevent duplicates.
-*   Set up a moderation process to review and approve requests before processing them further.
-
-</thinking>
-
 # technical_integration_assistance_contact_form - Help Guide
 
 ## Purpose

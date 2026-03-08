@@ -1,12 +1,3 @@
-<thinking>
-The form purpose is to conduct an internal audit of a company's Learning and Development (L&D) programs to identify areas of improvement and gather feedback from employees on the effectiveness of training programs. This audit form aims to gather information on respondent name, department, training programs attended, training effectiveness, skills gaps observed, and recommendations for improvement to help the organization refine its L&D strategy.
-
-The form should not be completed if the company has already conducted a similar audit in the recent past, as it may not provide new or valuable insights. If an employee has already provided feedback on L&D programs, please do not complete the form as their feedback may be included in the previous audit results.
-
-To ensure consistency and accuracy, please only complete this form with your own personal feedback and do not represent others' opinions or views.
-
-</thinking>
-
 # Company Learning And Development Audit Form - Help Guide
 ## Purpose
 The Company Learning And Development Audit Form is a tool used to gather feedback from employees on the effectiveness of our company's Learning and Development programs. This form helps us identify areas of improvement and make data-driven decisions to enhance our L&D strategy.

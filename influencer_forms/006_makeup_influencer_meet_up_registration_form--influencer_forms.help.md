@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals who wish to participate in a makeup influencer meet-up event. The event organizers will use this data to organize and prepare for the meet-up. To ensure the form is completed correctly, please review the following guidelines.
-
-The form will be used to create a list of attendees for the event. Please note that the fields are not mandatory, but providing accurate and complete information will enhance the event organizers' ability to plan and manage the event effectively.
-
-If you're unsure about the purpose of this form or have any questions, please contact the event organizers for clarification.
-</thinking>
-
 # Makeup Influencer Meet Up Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals who wish to participate in the makeup influencer meet-up event.

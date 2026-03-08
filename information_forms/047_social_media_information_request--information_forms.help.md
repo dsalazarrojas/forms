@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a form for capturing information related to a social media request, likely for internal or external communication purposes within an organization. The form is likely to be used by staff members who need to request updates from a social media manager or team. 
 
 Given the fields, the form asks for the following types of information:

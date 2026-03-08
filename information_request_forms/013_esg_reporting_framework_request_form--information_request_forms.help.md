@@ -1,7 +1,3 @@
-<thinking>
-The ESG Reporting Framework Request Form is designed to collect user and client information, as well as ESG (Environmental, Social, and Governance) data from users. This form helps the user to provide necessary details for the analysis and reporting of ESG metrics. Please ensure that you are not submitting duplicate requests, and that your submission is relevant to the ESG Reporting Framework Request Form. If you are unsure, please review the form fields and your submission before submitting the form.
-</thinking>
-
 # ESG Reporting Framework Request Form - Help Guide
 ## Purpose
 This form is used to collect user and client information, as well as ESG data, for analysis and reporting purposes.

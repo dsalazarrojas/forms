@@ -1,12 +1,3 @@
-<thinking>
-To create a well-structured and user-friendly help guide for the Recreation Center Customer Incident Report Form, I will consider the following:
-- The form is intended to collect information about incidents that occur at the recreation center, such as injuries, property damage, or other types of incidents.
-- The form is designed to be completed by customers who are reporting an incident that occurred at the recreation center.
-- The form collects information about the incident details, type, date, time, description, location, cause, witnesses, resolution, safety procedures, and safety measures taken.
-- The form includes various fields for the reporter's information, such as their name, contact, department, position, and extensions.
-- The form is likely to be completed by customers who are reporting an incident, and it is not intended for general use.
-</thinking>
-
 # Recreation Center Customer Incident Report Form - Help Guide
 ## Purpose
 The Recreation Center Customer Incident Report Form is designed to collect information about incidents that occur at the recreation center, such as injuries, property damage, or other types of incidents. This form helps customers report incidents in a structured and detailed manner, ensuring that the recreation center management can respond effectively and take necessary actions.

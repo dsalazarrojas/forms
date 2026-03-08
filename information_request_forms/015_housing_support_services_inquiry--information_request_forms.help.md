@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to collect information from residents who are seeking housing support services. The form fields are designed to collect contact information, housing needs, urgency level, household size, additional notes, email, and phone number. This information will be used by the housing support team to assess and provide the necessary support to the residents. 
-
-Please ensure that the form is completed accurately and thoroughly. If you are unsure about any of the fields, please reach out to the housing support team for clarification.
-
-Before submitting the form, please make sure that the information provided is complete and up-to-date, as this will enable the housing support team to effectively provide the necessary assistance. 
-
-Also, please note that the form fields are not mandatory; however, providing complete and accurate information will help the housing support team to better understand your needs and provide effective support.
-</thinking>
-
 # Housing Support Services Inquiry - Help Guide
 ## Purpose
 This form is designed to collect information from residents who are seeking housing support services. The housing support team will use this information to assess and provide the necessary support to the residents.

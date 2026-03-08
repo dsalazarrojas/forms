@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to collect information from job candidates to create a new job posting. The form will likely be used by HR or recruitment staff to gather details about the candidate, including their contact information, job posting category and subcategory, and other relevant details. This form will help streamline the hiring process and ensure that all necessary information is collected in one place. 
-Before filling out this form, please ensure that you are submitting a new job posting and not a duplicate of an existing one.
-</thinking>
-
 # job-application-intake-form - Help Guide
 ## Purpose
 This form is used to create a new job posting for a job candidate.

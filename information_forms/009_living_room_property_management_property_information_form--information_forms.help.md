@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect information about a living room property management property information. The form is likely used to gather details about a specific property's characteristics, such as its type, location, and contact information. This form might be used by property managers or administrators to keep track of properties in their database.
-
-To ensure the form is completed correctly, please review the following fields and their corresponding explanations. This form is not intended for duplicate submissions. Each submission is a new entry, and any errors or omissions may cause issues with data accuracy and consistency.
-
-</thinking>
-
 # living_room_property_management_property_information_form - Help Guide
 ## Purpose
 This form is used to collect detailed information about properties in a living room management system.

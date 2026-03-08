@@ -1,5 +1,3 @@
-<thinking>By reviewing this form, you can determine if it's suitable for your needs. If you're looking for information on shooting ranges or firearms safety, this might not be the right resource for you. This form is specifically designed for shooting ranges, and its purpose is to collect informed consent from participants before they start shooting. If you're a shooting range owner or operator, this form helps you ensure that participants are aware of and agree to the terms and conditions of your range. If you're a participant, this form requires you to provide necessary information and agree to the rules and regulations of the shooting range.</thinking>
-
 # Shooting Range Waiver - Help Guide
 ## Purpose
 This form is designed to collect informed consent from participants before they start shooting at the range. It's essential to read and understand the form carefully to ensure a safe and enjoyable shooting experience.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to inquire about the accuracy of personal data stored in the system. Before completing this form, please ensure that you have not submitted an identical inquiry in the past 30 days. This form helps to identify and correct any inaccuracies in personal data. Please fill out this form with as much detail as possible to help the data accuracy team assess the request accurately.
-</thinking>
-
 # Personal Data Accuracy Inquiry Form - Help Guide
 ## Purpose
 The Personal Data Accuracy Inquiry Form is used to check the accuracy of personal data stored in the system. This form allows users to submit a detailed description of the request for data correction, enabling the data accuracy team to verify and update the data accordingly.

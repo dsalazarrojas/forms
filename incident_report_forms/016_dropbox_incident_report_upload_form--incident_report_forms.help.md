@@ -1,8 +1,3 @@
-<thinking>
-This form is for users to submit incident reports related to issues that occurred with Dropbox, the cloud-based file-sharing platform. The purpose of this form is to gather information about the incident, including the date it occurred, a description of what happened, and details about the affected user, location, device, system, and resolution. This form is intended to be filled out by users who have experienced an incident and want to report it to the Dropbox team, but it should not be used to report multiple incidents at once. Please do not submit duplicate reports for the same incident.
-
-</thinking>
-
 # dropbox_incident_report_upload_form - Help Guide
 ## Purpose
 This form is used to submit incident reports related to issues that occurred with Dropbox.

@@ -1,7 +1,3 @@
-<thinking>
-Please note that this form is designed to collect information for the COVID-19 intake process, ensuring that clients are properly screened and prepared for massage therapy sessions. This form is not intended to be a substitute for medical advice or diagnosis. By completing this form, clients will provide necessary information about their health status, medical history, and preferences for treatment. Please fill out the form accurately and thoroughly. If you have any questions or concerns, please do not hesitate to reach out to our staff.
-</thinking>
-
 # COVID 19 Intake Form For Massage Therapy - Help Guide
 ## Purpose
 The COVID 19 Intake Form is a necessary step before starting a massage therapy session. It helps us understand your medical history, health status, and preferences for treatment. Please complete this form accurately and thoroughly.

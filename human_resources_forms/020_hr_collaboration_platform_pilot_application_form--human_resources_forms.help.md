@@ -1,20 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users who want to be part of a collaboration platform pilot application. This form will help us determine the suitability of each user for the pilot and assess their needs and expectations. Before proceeding, please ensure you are not already a participant in a pilot program. If you've completed this form in the past, please do not fill it out again. 
-
-To complete this form, follow these steps:
-
-1. Fill in your First Name, Last Name, and Email address accurately and correctly.
-2. Enter your Company Name and Job Title.
-3. Select your Department from the provided options (Yes or No).
-4. Choose the size of your team.
-5. Provide your Start and End Dates for the collaboration platform usage.
-6. Choose the time period you expect to spend on the platform.
-7. If you have additional details about the pilot, please provide them in the Pilot Details field.
-8. In the Comments field, you can add any further comments or explanations about your expectations.
-9. Finally, provide a Job Description, Job Requirements, and Job Qualifications for the collaboration platform usage, if required.
-
-</thinking>
-
 # hr_collaboration_platform_pilot_application_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from users who want to be part of a collaboration platform pilot application.

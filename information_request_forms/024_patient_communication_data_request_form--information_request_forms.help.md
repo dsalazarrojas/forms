@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be designed to collect patient communication data, possibly for a medical or healthcare-related purpose. The form likely serves as a means to request patient information or communication, such as scheduling appointments, sending reminders, or providing updates. Before proceeding, ensure that this form is not a duplicate of another already existing form, and that the data collected is relevant and necessary for the intended use. Ensure that the form is being completed by the right personnel with the necessary permissions to access patient data.
-</thinking>
-
 # Patient Communication Data Request Form - Help Guide
 ## Purpose
 The Patient Communication Data Request Form is a tool used to collect patient communication data for medical or healthcare-related purposes. This form is designed to gather necessary information for scheduling appointments, sending reminders, or providing updates to patients. It's essential to complete the form accurately and thoroughly to ensure that the information collected is relevant and useful.

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about stakeholders in the organization, which will help in identifying and analyzing their needs, interests, and expectations. This form will be used to create a database of stakeholders, which can be used for various purposes such as identifying potential collaborators, understanding their needs and priorities, and developing strategies to engage with them.
-Before filling out this form, please note that the fields marked as required are essential for processing and will be used to categorize and analyze the stakeholders. Please ensure that you provide accurate and relevant information in these required fields. If a field is marked as optional, feel free to provide any additional information you think is relevant.
-</thinking>
-
 # stakeholder_analysis_form - Help Guide
 ## Purpose
 This form is designed to collect information about stakeholders in the organization. The purpose of this form is to gather data on their needs, interests, and expectations, which will be used to identify potential collaborators, develop strategies to engage with them, and analyze their potential impact.

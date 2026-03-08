@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect incident reports for the inventory system, allowing users to report any issues or malfunctions they encounter with the system. Before filling out this form, please ensure that you have not already reported the issue or that it is not a duplicate of a previously reported incident. If you are unsure, please consult with your supervisor or refer to the incident log.
-</thinking>
-
 # inventory_system_failure_contact_form - Help Guide
 ## Purpose
 This form is a contact form for reporting incidents or malfunctions with the inventory system. It helps the team to quickly understand the issues and take corrective action to resolve them.

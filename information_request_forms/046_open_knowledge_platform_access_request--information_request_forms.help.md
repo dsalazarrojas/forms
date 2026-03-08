@@ -1,5 +1,3 @@
-<thinking>As a technical writer, I'll craft a clear and concise user-facing help guide for this form. I'll draw from the provided YAML fields to ensure that the guide is accurate and up-to-date. Here's the guide:</thinking>
-
 # Open Knowledge Platform Access Request - Help Guide
 ## Purpose
 The Open Knowledge Platform Access Request form is designed to allow users to request access to the Open Knowledge Platform. This form is used to provide necessary information for access approval and to ensure that users understand the terms and conditions of using the platform.

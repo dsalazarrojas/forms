@@ -1,7 +1,3 @@
-<thinking>
-The "Incident Report Closure Acknowledgement Form" is used to acknowledge and document the closure of an incident. To ensure accuracy and prevent duplication, please fill out the form only when the incident has been formally closed and there is no further action required. Please note that the fields in this form are specific to the incident and will not impact the incident status.
-</thinking>
-
 # Incident Report Closure Acknowledgement Form - Help Guide
 ## Purpose
 This form is used to formally acknowledge and document the closure of an incident. This process helps to ensure transparency and accuracy in tracking incident status and prevents duplication of effort.

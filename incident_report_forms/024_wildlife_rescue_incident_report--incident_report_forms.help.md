@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information about wildlife rescue incidents for tracking and reporting purposes. It is intended for use by authorized personnel in the field to document incidents where animals are rescued. This form should only be used for reporting incidents that have not been previously reported, and it is not intended for reporting duplicate incidents. The form is a crucial tool for monitoring and managing wildlife rescue efforts, and accurate and thorough completion is essential for effective resource allocation and incident tracking.
 
 # Wildlife Rescue Incident Report - Help Guide

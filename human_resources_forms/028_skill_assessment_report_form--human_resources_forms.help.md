@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information about an employee's skills and performance. It is intended to be completed by the manager of the employee, and is used to provide feedback and guidance on areas where the employee excels or needs improvement. This form is part of the performance evaluation process and is used to support career development and growth. Please make sure this form is completed for all employees as part of their regular performance evaluation.
-</thinking>
-
 # Skill Assessment Report Form - Help Guide
 ## Purpose
 This form is used to provide feedback and guidance on an employee's skills and performance.

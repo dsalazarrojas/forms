@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to be used for obtaining informed consent from attendees before they engage in any activities or events related to ZOOM. This form is intended to be completed by the attendee and their emergency contact, and serves as a record of their understanding and agreement to certain liability and medical conditions. This form should only be used in situations where it is required or recommended by your organization's policy or local laws and regulations. Make sure to check with your organization's administration or a lawyer to confirm the necessity of using this form.
-Please note that you should not use this form if there's already an existing liability waiver in place for the same event or activity.
-</thinking>
-
 # ZOOM Liability Waiver - Help Guide
 ## Purpose
 This form is used to obtain informed consent from attendees before they engage in any activities or events related to ZOOM.

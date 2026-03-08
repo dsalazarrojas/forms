@@ -1,12 +1,3 @@
-<thinking>
-This form is used to obtain informed consent from study subjects before conducting experiments. The purpose of this form is to ensure that the subject understands and agrees to the procedures and risks involved in the experiment. The form should only be used for experiments that require informed consent from the subject. 
-
-This form should only be used in cases where the subject is an individual, not a group or organization. 
-
-Before filling out this form, make sure that you are not duplicating any existing forms, and that you are not using this form for any other purpose than obtaining informed consent from the subject. 
-
-</thinking>
-
 # Experiment Consent Form - Help Guide
 ## Purpose
 The Experiment Consent Form is used to obtain informed consent from study subjects before conducting experiments. This form ensures that the subject understands and agrees to the procedures and risks involved in the experiment.

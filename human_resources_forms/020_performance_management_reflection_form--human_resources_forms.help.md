@@ -1,7 +1,3 @@
-<thinking>
-This form is for employees to reflect on their performance and progress towards specific goals and objectives. It allows them to document their accomplishments, areas for improvement, and next steps for growth. By filling out this form, employees can provide valuable insights to their performance management team, which can help them tailor support and guidance to better meet the employee's needs. This form is part of the performance management process, which is an essential tool for employee growth, development, and career advancement.
-</thinking>
-
 # Performance Management Reflection Form - Help Guide
 ## Purpose
 The Performance Management Reflection Form is a tool for employees to reflect on their performance and progress. It helps employees and their managers identify strengths, areas for improvement, and next steps for growth.

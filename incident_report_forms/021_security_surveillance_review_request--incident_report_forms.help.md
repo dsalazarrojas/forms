@@ -1,9 +1,3 @@
-<thinking>
-  This form is used to collect information about a security incident and request a video review from the surveillance system. The form should only be completed when a security incident has occurred or is ongoing. To ensure data quality, please only submit a single report per incident.
-  The purpose of the form is to collect incident details and supporting files. This will help the review team to assess the situation and take necessary actions.
-  The fields in this form are designed to collect specific information and help the review team to understand the incident and its severity. The following guide will walk you through each field explanation and tips to help you complete the form accurately.
-</thinking>
-
 # Security Surveillance Review Request - Help Guide
 ## Purpose
 This form is designed to report and request a video review of a security incident that has occurred or is ongoing. Please only submit one report per incident to avoid duplicating data.

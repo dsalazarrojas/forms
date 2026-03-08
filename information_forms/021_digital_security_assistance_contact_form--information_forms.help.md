@@ -1,11 +1,3 @@
-<thinking>
-- This form is intended to provide a user-friendly way for users to report incidents or issues related to digital security, such as phishing attacks, password reset requests, or other technical difficulties. 
-- It is designed to be completed by users who have experienced or encountered a security-related incident and need assistance from the digital security team.
-- This form will help the digital security team to better understand the nature and severity of the incident, and provide timely and effective support to the user.
-- The form is not intended for users who are looking for general information or guidance on digital security best practices, but rather for those who are reporting a specific incident that requires attention.
-- The form should not be completed by users who have already reported the incident through other means, such as email or phone calls.
-</thinking>
-
 # digital_security_assistance_contact_form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture basic information about artworks in inventory. The purpose of this form is to provide an accurate and up-to-date record of each artwork in the collection. This form should only be used to record a new artwork, and not to update existing records. If you are updating an existing record, please use the "Update Artwork Record" form instead.
-</thinking>
-
 # Art Inventory Information Record Form - Help Guide
 ## Purpose
 This form is intended for recording new artworks entering the inventory. It collects information about the artwork's title, artist, year of creation, medium, dimensions, condition, and other relevant details.

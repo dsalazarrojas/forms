@@ -1,5 +1,3 @@
-<thinking>Before diving into the help guide, let's ensure that this form is relevant and not a duplication. The form, "Retail Onboarding Quiz," seems to be designed to assess a retail employee's knowledge and strategies in various areas, including sales, marketing, branding, and customer relationship. This form might be intended for retail professionals to gauge their understanding of different tactics and strategies within these domains. Let's proceed with creating the help guide, keeping in mind that the form's purpose is to evaluate retail staff's knowledge and identify areas where they may need improvement or additional training.</thinking>
-
 # Retail Onboarding Quiz - Help Guide
 ## Purpose
 The "Retail Onboarding Quiz" is designed to assess retail employees' knowledge and strategies in various areas of retail, including sales, marketing, branding, and customer relationship. This quiz is intended to help identify areas where staff may need improvement or additional training.

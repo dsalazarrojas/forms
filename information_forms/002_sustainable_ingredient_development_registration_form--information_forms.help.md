@@ -1,14 +1,3 @@
-<thinking>...internal reasoning block to determine the form's purpose and relevance... 
-The form appears to be a registration form for sustainable ingredients, likely for a database or inventory management system. The purpose of this form is to gather information about a product or ingredient, including its name, description, tags, category, country of origin, certifications, contact information, and submission status. This form likely serves as an initial step in the process of registering a product or ingredient within the system. To determine relevance and non-duplication, I will consider the following:
-
-* The form includes fields for product name, description, tags, category, and country of origin, which suggest that it is related to product development or management.
-* The form also includes fields for contact information, such as contact name, email, phone number, and company, indicating that it may be used for communication and follow-up purposes.
-* The form includes fields for submission status, which suggests that it is used for tracking and managing the status of submissions.
-
-Based on the above considerations, it seems that this form is indeed relevant to sustainable ingredient development registration.
-
-</thinking>
-
 # Sustainable Ingredient Development Registration Form - Help Guide
 ## Purpose
 This form is used to register sustainable ingredients, gathering information about the product, its development status, and contact details for follow-up purposes.

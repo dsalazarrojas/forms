@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Billing Address Shipping Request Changes - Help Guide
 ## Purpose
 This form is used to request changes to a customer's billing address or shipping address. Please provide accurate and up-to-date information to facilitate a smooth address change process.

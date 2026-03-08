@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # property-climate-resilience-survey - Help Guide
 ## Purpose
 This form aims to assess the climate resilience of properties, specifically in regards to asbestos removal and management. The goal is to collect data on the building's materials, location, and asbestos removal process.

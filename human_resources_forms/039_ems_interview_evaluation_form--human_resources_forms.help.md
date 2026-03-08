@@ -1,11 +1,3 @@
-<thinking>
-The EMS Interview Evaluation Form is a tool used by HR personnel to evaluate the performance of candidates during an interview. 
-The form gathers information about the candidate's information, the interview process, their evaluation, notes from the evaluation, recommendations, comments, score, date and time of the interview, and the interview panel.
-Before filling this form, ensure that you are not filling it for the same candidate more than once.
-Ensure that you are filling this form for the correct candidate and interview.
-Ensure that you are using the correct interview panel.
-</thinking>
-
 # EMS Interview Evaluation Form - Help Guide
 ## Purpose
 The EMS Interview Evaluation Form is used by HR personnel to evaluate the performance of candidates during an interview. This form is essential for documenting and tracking interview processes, ensuring a standardized and fair evaluation of candidates.

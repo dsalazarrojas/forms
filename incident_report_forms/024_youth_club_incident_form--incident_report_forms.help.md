@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To provide a helpful guide for the end-user, let's first understand the purpose and context of this form. This form is called "Youth Club Incident Form" and is used to document incidents that occur within a youth club. 
 
 The form is designed to collect information about the incident, including the date it happened, the location, the type of incident, and a description of what happened. It also asks about who reported the incident, whether there were any witnesses, and the resolution or outcome of the incident. The form seems to be used to investigate incidents internally, but it's unclear if it's used for any further action or resolution.

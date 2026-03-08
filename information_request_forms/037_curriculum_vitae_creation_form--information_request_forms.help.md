@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users to create their personal Curriculum Vitae (CV). It is intended for individuals who want to provide details about their work history, education, personal details, and professional experience. To use this form, please ensure that you are providing accurate and up-to-date information about your previous work experiences, education, and other relevant details. Please fill out the form only once per person, and avoid duplicating information.
-</thinking>
-
 # Curriculum Vitae Creation Form - Help Guide
 ## Purpose
 The Curriculum Vitae Creation Form is used to collect information about your work history, education, personal details, and professional experience. This form helps us to better understand your qualifications and create an accurate CV for your future needs.

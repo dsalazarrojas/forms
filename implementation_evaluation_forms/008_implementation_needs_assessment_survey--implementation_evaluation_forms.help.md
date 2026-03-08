@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, let's analyze the form structure and fields to understand its purpose and relevance. The form is an Implementation Needs Assessment Survey, which is likely used to gather information about project implementation details. The form has sections on project details, challenges, resources, timeline, scope, stakeholders, and implementation status. It also includes fields for notes and contact information of stakeholders. This analysis will help us create a clear and concise help guide for end-users.</thinking>
-
 # Implementation Needs Assessment Survey - Help Guide
 ## Purpose
 This form is used to gather information about project implementation details, including project details, challenges, resources, timeline, scope, stakeholders, and implementation status.

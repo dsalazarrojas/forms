@@ -1,6 +1,3 @@
-<thinking>
-This form is used to document and track performance improvement notices sent to employees. It captures information about the employee, the issue or concern, and the follow-up process. Before filling out this form, please ensure that you are filling it out for a valid reason and that the information is accurate. Also, please note that this form is a duplicate of the previous form, you should review and update the previous form before filling this one.</thinking>
-
 # performance_improvement_notice - Help Guide
 ## Purpose
 This form is used to document and track performance improvement notices sent to employees, ensuring that the follow-up process is properly managed.

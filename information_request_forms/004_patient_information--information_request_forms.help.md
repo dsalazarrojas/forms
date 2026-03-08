@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect basic patient information such as name, date of birth, contact details and is typically used for medical or clinical purposes. Before attempting to complete this form, please ensure that you have the necessary permissions and consent from the patient to collect and store their personal data. Please do not use this form to collect sensitive or confidential information without explicit consent.
-</thinking>
-
 # patient_information - Help Guide
 ## Purpose
 The purpose of this form is to collect basic patient information for medical or clinical purposes.

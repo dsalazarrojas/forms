@@ -1,5 +1,3 @@
-<thinking>What the form is used for is to track work schedules for employees. It is used for shift scheduling purposes, where employees are scheduled to work on various shifts. Each shift can have a start and end time, and the employee can also add notes for each shift. This form is used for administrative purposes, and it's likely used by HR or management teams to track and manage work schedules. This form is a standard form used in many industries, and it's likely used for a specific type of work schedule, such as retail, hospitality, or food service. This is the only form in the system that has a lot of repeating fields, which is why it's called a "checklist". It's not meant to be filled out by employees, but rather by administrators or managers to track and manage schedules for many employees.</thinking>
-
 # Work Schedule Checklist - Help Guide
 ## Purpose
 The Work Schedule Checklist is used for shift scheduling purposes to track employee work hours and availability.

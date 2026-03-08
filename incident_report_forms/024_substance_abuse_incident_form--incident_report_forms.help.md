@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about substance abuse incidents. It may be used by healthcare professionals, law enforcement, or other organizations to gather data on incidents involving substance abuse. Before filling out this form, please ensure that the information provided is accurate and relevant to the incident. Note that this form is not intended to be a comprehensive or exhaustive resource, and it is recommended that users consult with relevant authorities or experts if they are unsure about any aspect of substance abuse or its treatment.
-</thinking>
-
 # Substance Abuse Incident Form - Help Guide
 ## Purpose
 This form is used to document and gather information about incidents involving substance abuse.

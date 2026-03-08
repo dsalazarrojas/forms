@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about technologies, their types, locations, and other relevant details. It is used to create a comprehensive database of technologies for various purposes such as inventory management, research, or reporting. This form should only be used for collecting information about technologies that are not already in the system. Please ensure that you have checked the system for existing information before filling out this form.
-</thinking>
-
 # technology_information_collection_form - Help Guide
 ## Purpose
 The technology_information_collection_form is designed to collect detailed information about technologies, including their types, locations, and installation dates and times.

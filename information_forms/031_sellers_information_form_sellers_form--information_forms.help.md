@@ -1,14 +1,3 @@
-<thinking>
-This form is used to collect information from sellers about their properties, including address, city, zip code, state, country, email, phone number, listing type, property type, price, and square footage. The purpose of this form is to gather detailed information about the properties being sold or listed.
-
-This form is intended to be filled out by sellers, but it is not clear why this form is required for sellers and what benefits or consequences this form provides. It is possible that this form is being used for internal reporting or compliance purposes, or perhaps it is used for marketing or advertising purposes. It is also possible that this form is being used for both.
-
-To avoid duplication, I will assume that this form is being used for internal reporting purposes and that the information collected will be used to create a database of listed properties.
-
-The form will be designed to make it easy for sellers to input their information in a straightforward and efficient manner.
-
-</thinking>
-
 # sellers_information_form - Help Guide
 ## Purpose
 The sellers_information_form is used to collect detailed information about the properties being sold or listed.

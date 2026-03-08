@@ -1,7 +1,3 @@
-<thinking>
-This form is used to screen employees for potential exposure to the novel coronavirus (COVID-19) when they enter the workplace. The form collects information about the employee's health, contact history, and potential exposure risks. This form helps to identify employees who may be at risk of being infected or spreading the virus, and to provide necessary support and resources for those who need it.
-</thinking>
-
 # novel-coronavirus-covid-19-entry-screening - Help Guide
 
 ## Purpose

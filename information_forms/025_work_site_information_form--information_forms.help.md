@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a work site, including its details, location, contact information, and safety notes. The form is intended to be used by field staff for reporting and tracking work sites. The form is not meant to be a comprehensive or detailed form, but rather a quick and simple way to collect the necessary information for field staff to access and complete the job. The form is not meant to be used in high-stakes or critical situations, but rather for general reporting and tracking purposes. Before completing this form, ensure that you have all the necessary information and authorization to do so. If you are unsure about any of the information, please seek guidance from a supervisor or relevant personnel.
-</thinking>
-
 # work_site_information_form - Help Guide
 ## Purpose
 This form is designed to collect information about a work site, including its details, location, contact information, and safety notes.

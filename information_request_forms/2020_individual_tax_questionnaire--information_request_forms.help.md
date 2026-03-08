@@ -1,5 +1,3 @@
-<thinking>Internal reasoning block for the form designer and technical writer to understand the form purpose and check for relevance and non-duplication.</thinking>
-
 # 2020 Individual Tax Questionnaire - Help Guide
 ## Purpose
 The 2020 Individual Tax Questionnaire is designed to collect information from taxpayers about their 2020 tax filing experience, including personal and contact information, tax return details, and feedback on the questionnaire itself. This form helps tax authorities to gather data on taxpayer satisfaction, identify areas for improvement, and make informed decisions to enhance tax services.

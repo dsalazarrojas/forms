@@ -1,12 +1,3 @@
-<thinking>
-To ensure the substance influence assessment form is filled out correctly, please note the following:
-
-- The form is for assessing the influence of substances on individuals or groups.
-- The form is used to collect information on incidents involving substances, such as substance abuse or misuse.
-- The form should not be used for other purposes.
-
-</thinking>
-
 # Substance Influence Assessment - Help Guide
 ## Purpose
 The Substance Influence Assessment form is used to collect information on incidents involving substances, such as substance abuse or misuse. This form helps to assess the influence of substances on individuals or groups and provides a systematic way to document and track incidents.

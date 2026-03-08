@@ -1,10 +1,3 @@
-<thinking>
-We will create a help guide that explains the purpose and completion process of the "Virtual Conferencing Participant Consent Form". This form is used to collect information from participants in virtual conferencing events, such as their basic information, event details, and consent to participate. The form should be completed by participants to express their interest in attending the virtual event and to provide necessary contact information. The purpose of this form is to ensure that participants are aware of and agree to the terms and conditions of the event.
-
-Before completing this form, participants should carefully review the information provided and answer honestly. If you have already completed a similar form for this event, please do not submit this form again, as it may cause duplication of effort and confusion.
-
-</thinking>
-
 # Virtual Conferencing Participant Consent Form - Help Guide
 
 ## Purpose

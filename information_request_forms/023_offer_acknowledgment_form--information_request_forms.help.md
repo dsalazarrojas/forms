@@ -1,7 +1,3 @@
-<thinking>
-The "offer_acknowledgment_form" form is used for acknowledging job offers. When a candidate receives a job offer, they need to fill out this form to provide details about their job offer, including the offer's title, company name, job description, employment dates, salary, and other relevant information. To ensure that each candidate completes the form correctly, our team will review their submissions to prevent duplication and to ensure that the provided information is valid and accurate. This form is designed to be easy to understand and fill out, with clear labels and explanations for each field. By completing this form, candidates can help us to process their job offer quickly and efficiently.
-</thinking>
-
 # offer_acknowledgment_form - Help Guide
 ## Purpose
 The "offer_acknowledgment_form" is used to provide detailed information about a job offer, including the offer's title, company name, job description, employment dates, salary, and other relevant details.

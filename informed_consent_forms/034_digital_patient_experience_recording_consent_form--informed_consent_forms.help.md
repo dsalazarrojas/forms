@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Digital Patient Experience Recording Consent Form - Help Guide
 
 ## Purpose

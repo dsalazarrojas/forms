@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to create an office communication memo, which is a document used to convey information or updates within the office. This form is designed to collect relevant details about the memo, including its title, body, date, time, intended recipient, sender, location, priority, and any attached files or comments. Before filling out this form, please ensure you have a clear understanding of the memo's purpose and content. If you're unsure which fields are required, refer to the "Required" field labels. This form is meant to be completed by office staff, including employees and management, for internal communication purposes only.
-</thinking>
-
 # Office Communication Memo - Help Guide
 ## Purpose
 This form is used to create an office communication memo, a document used for internal communication within the office.

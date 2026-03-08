@@ -1,7 +1,3 @@
-<thinking>
-The Employee Injury Questionnaire is designed to collect information about an employee's injury, including the employee's name, the date of the injury, the area where the injury occurred, a description of the injury, and other relevant details. This form is meant to be used by HR or management to gather accurate and consistent information from employees after an injury has occurred. It is crucial to use this form to ensure that all necessary information is collected in a standardized way, to facilitate efficient processing and decision-making. 
-</thinking>
-
 # Employee Injury Questionnaire - Help Guide
 ## Purpose
 This form is used to document and report injuries that occur to employees while on the job. This information will be used to help management track and analyze workplace injuries, identify potential hazards, and ensure a safe working environment.

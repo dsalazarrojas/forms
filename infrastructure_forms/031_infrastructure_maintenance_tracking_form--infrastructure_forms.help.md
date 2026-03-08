@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to track and record infrastructure maintenance tasks, their status, date, time, and the responsible party involved in the process. This form serves as a centralized tool for documenting and monitoring maintenance activities, which helps in efficient tracking and reporting of maintenance tasks.
-</thinking>
-
 # Infrastructure Maintenance Tracking Form - Help Guide
 
 ## Purpose

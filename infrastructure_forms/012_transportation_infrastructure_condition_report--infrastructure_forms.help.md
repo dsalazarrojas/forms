@@ -1,8 +1,3 @@
-<thinking>
-This guide will walk you through the Transportation Infrastructure Condition Report form, which is used to document the condition of transportation infrastructure assets, such as roads, bridges, or other infrastructure. This form is designed to gather relevant information about the asset's condition, including its current condition score, description, and any relevant photos. It also captures data on the date and time of the last inspection, as well as how often the condition is observed. The form will help asset managers to monitor and report on the condition of transportation infrastructure, enabling informed decision-making and prioritization of maintenance activities.
-
-</thinking>
-
 # Transportation Infrastructure Condition Report - Help Guide
 ## Purpose
 The Transportation Infrastructure Condition Report is a form used to collect data on the condition of transportation infrastructure assets such as roads, bridges, and other infrastructure. It helps asset managers to monitor and report on the condition of these assets, enabling informed decision-making and prioritization of maintenance activities.

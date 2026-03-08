@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this Safety Drill Participation Consent Form is to gather information from individuals who will be participating in a safety drill, such as their contact details, medical information, and consent to participate. This form aims to ensure that participants have a clear understanding of the safety procedures and risks involved in the drill, and that they have provided their consent for their involvement. The form should only be used for the safety drill, as any other usage would be a duplication of effort.
-</thinking>
-
 # Safety Drill Participation Consent Form - Help Guide
 ## Purpose
 This form is used to collect contact details, medical information, and consent from participants who will be taking part in a safety drill.

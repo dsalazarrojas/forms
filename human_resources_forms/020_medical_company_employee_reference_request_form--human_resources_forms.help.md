@@ -1,9 +1,3 @@
-<thinking>
-This form is used to request a medical company employee reference, typically as part of the hiring process for new employees. This form is likely used by HR or recruitment teams to gather information about an existing employee's work history and performance. Before filling out this form, the HR or recruitment team should ensure that the employee is aware of the reference request and that it is not being used as a duplicate request.
-
-This form is designed to be used for a specific purpose and should only be filled out by authorized personnel. 
-</thinking>
-
 # Medical Company Employee Reference Request Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about an existing employee's work history and performance from a medical company employee reference. This information is typically used as part of the hiring process for new employees.

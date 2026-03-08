@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Flat Six Engine Swap Interest Form - Help Guide
 ## Purpose
 This form is intended to capture information about your interest in the Flat Six engine swap program. It will help us understand your vehicle's specifics, your goals for the swap, the services you are interested in, and your budget range to better serve you.

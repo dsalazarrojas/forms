@@ -1,7 +1,3 @@
-<thinking>Form purpose: This form is for obtaining informed consent from clients prior to skin care procedures. The form should be filled out when a client is scheduled for a skin care treatment, such as a skin assessment, chemical peel, or laser treatment. The goal of this form is to ensure that the client understands the risks, benefits, and alternatives to the procedure. This form may also be used for documentation purposes and to establish a record of the client's consent. 
-
-To determine the relevance and avoid duplication, consider the following: If the client has already provided informed consent in the past for the same procedure, do not ask for consent again. If the client has not previously received the same procedure, ask them to provide their informed consent. Also, ensure that the client is not a minor or does not have mental incapacity that would affect their ability to provide informed consent.</thinking>
-
 # Skin Care Consent Form - Help Guide
 ## Purpose
 The Skin Care Consent Form is a document used to obtain informed consent from clients before proceeding with skin care procedures. It serves as a legal and procedural record of the client's understanding and acceptance of the treatment.

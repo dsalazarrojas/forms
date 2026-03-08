@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about a vendor, which can include their name, contact information, and other relevant details. The goal is to gather accurate and complete data to enable effective communication and collaboration with the vendor. This form should not be used to collect information from non-vendor entities, such as internal employees or non-existent vendors. Each field should only be filled out for the correct type of vendor. For example, if you are filling out this form for a retailer, the "Vendor Type" field should be set to "Retailer."
-</thinking>
-
 # Vendor Information Form - Help Guide
 ## Purpose
 The Vendor Information Form is used to collect essential details about a vendor for efficient communication and collaboration.

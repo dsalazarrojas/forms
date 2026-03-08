@@ -1,12 +1,3 @@
-<thinking>
-The No Show Policy Form Template is designed to capture information from customers who are unable to attend appointments or sessions as scheduled. This form aims to provide a clear and concise way to document the reasons for non-attendance, allowing for better communication and management of no-shows. The form should only be used for customers who are unable to attend their appointments, and not for customers who simply forget or change their mind.
-
-To ensure consistency, please do not use this form for customers who have not attended their appointments due to exceptional circumstances such as inclement weather, public transportation disruptions, or similar unforeseen events. These situations should be handled on a case-by-case basis.
-
-Before completing this form, please ensure that you have not already submitted a no-show report for the same appointment.
-
-</thinking>
-
 # No Show Policy Form Template - Help Guide
 ## Purpose
 

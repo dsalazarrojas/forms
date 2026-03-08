@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about inventory transfers, which is a critical process for ensuring the smooth operation of the organization's inventory management system. The form is intended for use by employees or other stakeholders who need to initiate or track inventory transfers. To avoid duplication of effort and ensure accurate communication, it is essential to complete the form with accurate and relevant information. Please review the form carefully before submitting it to ensure that the details are correct and up-to-date.
-</thinking>
-
 # Inventory Transfer Coordination Contact Form - Help Guide
 ## Purpose
 This form is used to collect information about inventory transfers, including request details, contact information, and transfer specifics. It helps employees and stakeholders track and manage inventory movement within the organization.

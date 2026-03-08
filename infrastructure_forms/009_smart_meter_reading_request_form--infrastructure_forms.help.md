@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for smart meter readings. The form is intended for customers to request a smart meter reading, which is a service offered by the company to help customers monitor and manage their energy usage. The form is also used to schedule readings at specific dates and times that are convenient for the customer.
-
-Before completing this form, please ensure that you have not previously submitted a request for the same meter ID. Duplicate requests may cause confusion and delays in processing your reading.
-
-Note that some fields are optional, but completing them can help provide more accurate and detailed information to facilitate the processing of your request.
-</thinking>
-
 # Smart Meter Reading Request Form - Help Guide
 ## Purpose
 The Smart Meter Reading Request Form is designed to collect information from customers for smart meter readings, allowing them to monitor and manage their energy usage.

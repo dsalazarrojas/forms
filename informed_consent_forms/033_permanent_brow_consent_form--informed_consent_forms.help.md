@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Permanent Brow Consent Form - Help Guide
 ## Purpose
 

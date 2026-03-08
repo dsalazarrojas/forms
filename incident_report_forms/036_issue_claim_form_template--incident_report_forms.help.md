@@ -1,11 +1,3 @@
-<thinking>...
-
-This form template is used to report and document various types of incidents that occur within the organization. Its purpose is to provide a standardized format for incident report submission, ensuring consistency and accuracy in collecting relevant information about each incident. Before filling out this form, please review the provided fields and ensure that you haven't reported the same incident in the past to prevent duplication of efforts. 
-
-This guide will walk you through each section of the form and its corresponding fields, making it easier for you to fill out the form accurately and completely.
-
-</thinking>
-
 # Issue Claim Form Template - Help Guide
 ## Purpose
 

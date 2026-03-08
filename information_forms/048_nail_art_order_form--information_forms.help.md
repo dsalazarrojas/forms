@@ -1,14 +1,3 @@
-<thinking>
-This form is used for customers to place an order for nail art services. It will help you provide the necessary information for your order.
-To prevent duplicate orders, this form will only be accessible on a specific page, so customers will be able to see their previous orders.
-This form has several fields that need to be filled in order to complete the order. The customer needs to provide their First Name, Last Name, Email, and Phone Number.
-The customer also needs to select the type of service they want, provide a brief description of their order, and choose the price they are willing to pay.
-Availability and Date and Time should be selected based on the customer's preference.
-Customers can select multiple nail types, lengths, widths, colors, and shapes for their order.
-Additional information can be provided in the Notes field.
-Finally, the customer can list the tools that will be needed for their order.
-</thinking>
-
 # Nail Art Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers for nail art services.

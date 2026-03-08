@@ -1,7 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Medical Record Request Form" to ensure end-users understand its purpose, how to complete it, and what each field means. This form is designed to collect information from medical facilities, and we will base the explanation on the provided YAML fields.
-</thinking>
-
 # Medical Record Request Form - Help Guide
 ## Purpose
 This form is used by medical facilities to request medical records from healthcare providers. It allows you to provide your first and last name, select a medical facility, and specify a request date and time.

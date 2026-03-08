@@ -1,16 +1,3 @@
-<thinking>
-This form is designed for HR professionals to submit applications for a professional development fund. The form is intended to help employees gain funding for courses, training, or other professional development opportunities that align with the company's goals and objectives.
-
-Before proceeding, please ensure that:
-
-* You have read and understood the company's professional development fund policy.
-* You have discussed your proposed project with your manager and received their approval.
-* You have gathered all necessary information and supporting documents.
-
-Please review the following fields carefully to ensure you are providing the required information.
-
-</thinking>
-
 # HR Professional Development Fund Application - Help Guide
 ## Purpose
 This guide provides instructions on how to complete the HR Professional Development Fund Application form.

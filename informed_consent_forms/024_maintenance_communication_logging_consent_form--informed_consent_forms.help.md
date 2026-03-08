@@ -1,11 +1,3 @@
-<thinking>
-
-To ensure the "maintenance_communication_logging_consent_form" is used correctly and efficiently, we need to consider its purpose and context. This form is meant to capture informed consent for maintenance communication, which involves recording and documenting the details of maintenance activities, their schedules, and the individuals involved. It's essential to fill out this form carefully and accurately to avoid duplication and miscommunication.
-
-Given the fields provided in the input schema, we will review them below:
-
-</thinking>
-
 # maintenance_communication_logging_consent_form - Help Guide
 ## Purpose
 The maintenance_communication_logging_consent_form is used to capture informed consent for maintenance communication. This form is essential for maintaining accurate records and ensuring service quality.

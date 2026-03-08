@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather contact information and preferences from users who want to inquire about sustainable interior design services. The form is designed to collect relevant details such as name, email address, phone number, and contact method, as well as other relevant information such as budget and preferred design style. This form is meant to be a starting point for potential consultations and collaborations. Please note that this form is not intended to be a comprehensive assessment or evaluation tool, but rather a way to initiate dialogue and gather basic contact information.
-</thinking>
-
 # Sustainable Interiors Advisor Contact Form - Help Guide
 ## Purpose
 This form is designed to help you get in touch with our sustainable interiors advisor service. We use the information you provide to determine the best way to contact you and to better understand your needs and preferences.

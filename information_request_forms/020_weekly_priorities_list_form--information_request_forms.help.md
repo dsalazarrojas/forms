@@ -1,5 +1,3 @@
-<thinking> This form is intended to help users create a list of tasks with varying priorities and due dates, potentially assigned to different individuals. It appears to be used in an organizational or business setting where tasks and responsibilities are delegated among team members. The form has multiple fields for different task lists, each with its own set of attributes such as priority, assigned individual, and due date/time. </thinking>
-
 # Weekly Priorities List Form - Help Guide
 ## Purpose
 The Weekly Priorities List Form is designed to help users prioritize tasks and allocate them among team members. The form allows users to create a list of tasks, each with its own priority level, due date, and assigned individual.

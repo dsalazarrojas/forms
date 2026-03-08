@@ -1,5 +1,3 @@
-<thinking>As a HIPAA Waiver Form, this document aims to collect sensitive information about an individual's medical history and contact details for the purpose of obtaining their informed consent. It's essential to ensure that each field is completed accurately and comprehensively. Please verify that the form is not duplicated within the organization to prevent unnecessary data collection. This form is an original adaptation generated using public metadata, not affiliated with or derived from any specific platform, and released under CC BY 4.0. You're free to use, modify, or sell it, providing credit.</thinking>
-
 # HIPAA Waiver Form - Help Guide
 
 ## Purpose

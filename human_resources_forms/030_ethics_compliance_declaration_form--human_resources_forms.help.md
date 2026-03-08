@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from employees regarding their ethics and compliance status. This form is designed to be used internally within the company, and its primary goal is to help employees declare their involvement in any activities related to the company's ethics and compliance policies. It's likely that this form will be used for HR or internal auditing purposes.
-
-To confirm, I will not be duplicating any information already available in the employee's personnel file or other existing forms. If you are unsure about the purpose or relevance of this form, please let me know and I will double-check with the relevant authorities.
-
-</thinking>
-
 # ethics_compliance_declaration_form - Help Guide
 ## Purpose
 The ethics compliance declaration form is a crucial tool for employees to confirm their understanding and adherence to the company's ethics and compliance policies. This form will be used to collect information about each employee's involvement in any activities related to these policies.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information from users for the Housing Services organization chart submission. The purpose of this form is to gather data from users about their department and staff details. This form is likely to be used by administrators or HR personnel to update the organization chart, which is a diagram showing the structure and relationships between departments and staff within an organization. The form is meant to be completed by users with access to this information.
-
-The form is not a high-risk or sensitive form, and the data collected will likely be used for internal purposes only. It's essential to ensure that the information is accurate and up-to-date to maintain the organization chart's consistency and integrity.
-
-Before filling out this form, make sure you have the necessary permissions and access to submit this information. If you're unsure about any field, please contact the responsible personnel for clarification.
-
-</thinking>
-
 # Housing Services Organization Chart Submission - Help Guide
 ## Purpose
 This form is designed to collect information from users for the Housing Services organization chart submission. The collected data will be used to update the organization chart, ensuring its accuracy and consistency.

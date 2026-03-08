@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is used to collect information about jobs and their characteristics. It is designed to gather input from users in a structured and organized manner, making it easier for administrators to review and process the data.
 
 ## isc_information_form - Help Guide

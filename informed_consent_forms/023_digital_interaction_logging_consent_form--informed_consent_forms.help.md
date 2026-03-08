@@ -1,6 +1,3 @@
-<thinking> 
-This form is used for recording employee digital interactions, which involves capturing information about an employee's interactions with digital tools and systems. This form is used to ensure that employees are aware of and agree to the terms of digital interaction and to record the status of such interactions. It is essential to complete this form truthfully and accurately, as it helps in maintaining the integrity of digital interactions and ensures that employees are on the same page regarding digital policies and procedures. Please ensure that you are only filling out this form when it is relevant to your interactions. If you are unsure about the purpose or scope of this form, please ask your supervisor or HR representative for clarification. Please do not fill out this form if you have already completed it in the past.</thinking>
-
 # digital_interaction_logging_consent_form - Help Guide
 ## Purpose
 This form is used to record employee digital interactions and ensure that employees are aware of and agree to the terms of digital interaction.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from employees about their performance. This form is intended to facilitate communication between employees and their supervisors, allowing both parties to share their perspectives on the employee's performance. It's possible that this form may be part of a larger performance management process, and the information collected here may be used for performance evaluations, promotions, or other HR-related activities. Please make sure that the form is not being used for duplicate purposes or that you've reviewed the relevant company policies before using it.
-</thinking>
-
 # performance_feedback_communication_form - Help Guide
 ## Purpose
 The performance Feedback Communication Form is a tool designed to facilitate open communication between employees and their supervisors about performance. This form helps to gather feedback, identify areas for improvement, and track progress.

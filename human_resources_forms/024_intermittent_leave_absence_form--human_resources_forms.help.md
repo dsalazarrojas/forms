@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help employees or their representatives request an intermittent leave of absence from work. The purpose of this form is to collect information about the request, such as the reason for the leave, dates of absence, and other relevant details. This form is intended for use by HR staff to process and manage leave requests.
-</thinking>
-
 # Intermittent Leave Absence Form - Help Guide
 ## Purpose
 This form is used to request an intermittent leave of absence from work. It is used to provide information about the request and to track the status of the leave.

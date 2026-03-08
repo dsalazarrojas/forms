@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information about an employee's competency and job details. The purpose of this form is to verify an employee's job title, job summary, education, skills, experience, employer verification, education verification, references, employer, and employee status. This form will be used by HR personnel to review and evaluate an employee's competency and make decisions on their career development. 
-
-The following sections of this form should be reviewed and completed to ensure that the information is accurate and up-to-date. 
-
-The form has several sections that require different types of input from the employee. 
-
-</thinking>
-
 # Employee Competency Verification Form Template - Help Guide
 ## Purpose
 The Employee Competency Verification Form Template is used to collect and verify an employee's competency and job details for HR evaluation and decision-making purposes.

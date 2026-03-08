@@ -1,19 +1,3 @@
-<thinking>
-
-This form is designed to assess a candidate's competencies through a structured interview process. The purpose of this form is to evaluate a candidate's adaptability, leadership, and cultural fit, providing a comprehensive evaluation of their potential as a team member. This form is used by interviewers to record and rate a candidate's responses, providing a systematic and fair evaluation process.
-
-The form is divided into three main sections: Adaptability, Leadership, and Final Recommendation. The Adaptability section assesses the candidate's ability to adjust to changing environments and tasks, while the Leadership section evaluates their ability to influence positive outcomes. The Final Recommendation section provides a summary of the interview, including a hiring recommendation and cultural fit comments.
-
-To complete this form, follow these steps:
-
-1. Ensure you have all the necessary information and documents related to the candidate's interview.
-2. Fill in the candidate's name, the position applied for, and the date of the interview.
-3. For each competency, provide a specific example from the candidate's performance, using the STAR method (Situation, Task, Action, Result).
-4. Rate the candidate's adaptability and leadership based on the provided examples.
-5. Provide an overall hiring recommendation and comments on cultural fit.
-
-</thinking>
-
 # Competency Based Interview Form - Help Guide
 ## Purpose
 The Competency Based Interview Form is designed to assess a candidate's competencies through a structured interview process.

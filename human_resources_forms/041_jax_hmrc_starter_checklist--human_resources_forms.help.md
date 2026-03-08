@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about employees in the Human Resources (HR) department. It is intended to ensure that the necessary details are captured for the employee's HR record. This form will help HR team members to quickly and accurately collect and update employee data without requiring extensive knowledge of HR systems or processes.
-The form is divided into sections that cover employee details, employment type, job title, department, and reporting line details. This guide will walk you through each field and provide explanations for a smooth and accurate completion of the form.
-</thinking>
-
 # jax_hmrc_starter_checklist - Help Guide
 ## Purpose
 The jax_hmrc_starter_checklist form is used to gather employee information for HR purposes. It is a simple and efficient tool to capture essential details about an employee's employment status, job title, department, and reporting line.

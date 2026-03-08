@@ -1,13 +1,3 @@
-<thinking>
-This diversity survey is designed to gauge employees' perceptions of their experiences with diversity and inclusion in the workplace. It is intended to gather feedback on areas where the company excels and areas where it can improve. This survey is not meant to be a comprehensive evaluation, but rather a starting point for further discussions and actions to promote a more inclusive work environment.
-
-Before proceeding, please note that this survey is entirely optional and anonymous. Your responses will be treated with confidentiality and respect, and your input will contribute to creating a more inclusive workplace.
-
-Please answer the questions honestly, and select all that apply. If you feel that none of the options accurately describe your experiences, please choose "None of the above" or "Something else" and provide a brief explanation.
-
-This survey consists of 13 questions, divided into several sections. Please take a few minutes to complete it, and feel free to provide any additional comments or suggestions in the final section.
-</thinking>
-
 # Diversity Survey - Help Guide
 ## Purpose
 This diversity survey aims to gather feedback on your experiences with diversity and inclusion in the workplace. Your responses will help us understand areas where we excel and areas where we can improve to create a more inclusive work environment.

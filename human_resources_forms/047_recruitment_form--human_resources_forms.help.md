@@ -1,7 +1,3 @@
-<thinking>
-To verify relevance and non-duplication, I need to understand the purpose of the form. This form is used to collect information about jobs in the human resources department. It seems like this form is designed for job-related data entry and might be used for HR purposes such as job postings, employee onboarding, or performance evaluation. However, further information would be needed to confirm this assumption. 
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is used to collect and store job-related information. It is likely used in the human resources department for job postings, employee onboarding, or performance evaluations.

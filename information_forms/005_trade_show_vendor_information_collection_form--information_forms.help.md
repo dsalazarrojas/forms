@@ -1,11 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the trade-show-vendor-information-collection-form. This guide will help end-users understand the form's purpose, complete it correctly, and provide a clear explanation of each field. Before writing the guide, I'll briefly consider the form's internal purpose and potential duplication checks.
-
-The form's internal purpose is to collect information from vendors participating in trade shows. This information includes general contact details (name, email, phone number), booth number, website, and social media handles. The form also captures trade show-specific details such as attendance, category, date, time, venue, currency, language, attendee quantity, duration, format, type, and organizers' contact information.
-
-To avoid duplication, I will review the form design and ensure that each field has a clear and distinct label, and that the options provided for select fields are well-defined and non-duplicative.
-
-With this understanding, I'll now create the user-facing help guide.</thinking>
-
 # trade-show-vendor-information-collection-form - Help Guide
 ## Purpose
 This form is designed to collect trade show vendor information for participation in events. Please fill in all required fields to provide accurate and complete data.

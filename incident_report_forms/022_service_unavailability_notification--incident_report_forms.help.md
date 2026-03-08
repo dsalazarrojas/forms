@@ -1,9 +1,3 @@
-<thinking>
-Internal note: The form "service_unavailability_notification" is designed to collect information about service unavailability notifications. This form is used to report service outages, disruptions, or other incidents that affect users or services. To ensure that this form is used effectively, please review the instructions and explanations below to understand its purpose and how to complete it correctly.
-
-Before filling out this form, please check if the issue has already been reported or if it's still an ongoing incident. If it's an ongoing incident, update the relevant fields, but don't repeat a report that's already being tracked.
-</thinking>
-
 # service_unavailability_notification - Help Guide
 ## Purpose
 The "service_unavailability_notification" form is used to report and manage service outages, disruptions, or other incidents that affect users or services. This form helps to track and resolve these incidents efficiently.

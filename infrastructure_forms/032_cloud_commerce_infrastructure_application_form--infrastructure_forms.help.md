@@ -1,11 +1,3 @@
-<thinking>
-This form is used by our organization's IT department to gather information about the cloud commerce infrastructure application needs of our customers. This form is designed to be filled out by customers who are interested in migrating or upgrading their existing infrastructure to our cloud-based solutions. By filling out this form, customers can help us better understand their requirements and provide us with valuable feedback for our product development and sales teams.
-Please note that this form is not intended to be filled out by customers who are already using our existing infrastructure. If you are already a customer, please do not fill out this form. Instead, contact your account manager or sales representative to discuss your needs and schedule a consultation.
-This form will ask you to provide information about your business, such as your organization name, contact details, and infrastructure requirements. This will help us understand your needs and provide you with personalized solutions and support.
-Please be as detailed and accurate as possible when filling out this form. Your input will help us provide you with the best possible support and guidance throughout the migration or upgrade process.
-If you have any questions or concerns, please don't hesitate to reach out to us for assistance.
-</thinking>
-
 # Cloud Commerce Infrastructure Application Form - Help Guide
 ## Purpose
 This form is designed to gather information about your cloud commerce infrastructure application needs in order for our team to provide personalized solutions and support.

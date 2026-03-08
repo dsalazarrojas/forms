@@ -1,5 +1,3 @@
-<thinking>...the form purpose is to collect information about maladministration incidents from the reporting unit... the form is used to report and track maladministration incidents, and is a required field for reporting units to submit incident reports to the administration team... to ensure accurate and efficient reporting, please fill out all fields accurately and thoroughly...</thinking>
-
 # Maladministration Reporting Form - Help Guide
 ## Purpose
 The Maladministration Reporting Form is used to collect information about maladministration incidents from the reporting unit. This form is a required field for reporting units to submit incident reports to the administration team.

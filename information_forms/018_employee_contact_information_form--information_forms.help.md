@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect employee contact information for HR purposes. The form is not designed for emergency situations, so please do not use it for that purpose. The form is meant to be used for routine updates and changes in employee information. Please review the form carefully to ensure that you are entering accurate and up-to-date information.
-
-</thinking>
-
 # Employee Contact Information Form - Help Guide
 ## Purpose
 The Employee Contact Information Form is used to collect and update employee contact information for HR purposes.

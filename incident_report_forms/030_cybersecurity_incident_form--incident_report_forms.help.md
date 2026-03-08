@@ -1,12 +1,3 @@
-<thinking>
-
-The Cybersecurity Incident Form is used to report and document information about incidents that may affect the organization's systems, data, or employees. This form is designed to gather relevant details about the incident, including its type, impact, affected systems, and response actions taken. It helps ensure that all necessary information is recorded accurately, so that the incident can be investigated and resolved efficiently.
-
-By using this form, incident reporters can provide a structured and comprehensive report of the incident, which can facilitate the investigation process and minimize potential losses. The form is intended to be completed by those reporting the incident, but also by anyone else involved, such as IT staff or management.
-
-Before starting this form, please ensure that you are reporting all relevant information, and that you are not duplicating the report of an incident already submitted or under investigation.
-</thinking>
-
 # Cybersecurity Incident Form - Help Guide
 ## Purpose
 The Cybersecurity Incident Form is used to collect detailed information about incidents that may affect the organization's systems, data, or employees.

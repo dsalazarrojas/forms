@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a standardized template for collecting information on patient journal entries, including patient details, service dates and times, location, and submission information for the submitter. The purpose of this form is to gather a comprehensive record of patient interactions, ensuring that all relevant data is recorded accurately and consistently. 
-</thinking>
-
 # Journal Entry Form - Help Guide
 ## Purpose
 The Journal Entry Form is a critical tool for healthcare professionals to document and track patient interactions. This form captures essential details about each interaction, including patient information, service specifics, and submission details for the person submitting the form.

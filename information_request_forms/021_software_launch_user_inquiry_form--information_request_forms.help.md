@@ -1,14 +1,3 @@
-<thinking>
-We are using the provided YAML fields to create a user-facing help guide for the "Software Launch User Inquiry Form". This form is designed to collect information from users about their interest in our software, their experience with it, and their preferences for future development. 
-
-To create this guide, we will follow the structure and format specified in the problem statement, including the "Field-by-Field Explanation" section where we will provide a brief explanation for each field. 
-
-We will also ensure that the explanations are concrete, concise, and practical, and if a field label is weak or unclear, we will provide the best-effort explanation without inventing unsupported business logic. 
-
-Before we start, we need to ensure that this guide is relevant and does not duplicate any existing information.
-
-</thinking>
-
 # Software Launch User Inquiry Form - Help Guide
 ## Purpose
 The Software Launch User Inquiry Form is designed to collect feedback and information from users about their experience with our software. This information will help us better understand user preferences and interests, and make informed decisions about future development and improvement of our software.

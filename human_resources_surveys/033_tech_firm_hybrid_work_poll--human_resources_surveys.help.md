@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tech Firm Hybrid Work Poll - Help Guide
 
 ## Purpose

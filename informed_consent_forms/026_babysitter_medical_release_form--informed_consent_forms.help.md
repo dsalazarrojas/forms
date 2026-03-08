@@ -1,6 +1,4 @@
-# <thinking>...</thinking>
-
-## Informed Consent Forms
+# ## Informed Consent Forms
 Informed consent forms are an essential part of ensuring that parents and guardians are aware of and agree to the care and treatment of their children during their absence. They provide a clear and concise summary of the emergency care procedures that will be followed and the responsibilities of the caregiver. This form ensures that parents and guardians understand their child's medical history, allergies, and other essential information.
 
 Before filling out this form, make sure to:

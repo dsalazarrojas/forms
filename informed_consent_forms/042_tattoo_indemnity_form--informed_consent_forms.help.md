@@ -1,16 +1,3 @@
-<thinking>
-This form is intended to be used for obtaining informed consent from clients before performing a tattoo or piercing service. The form is designed to ensure that the client has understood and acknowledged the risks involved with the procedure, as well as the aftercare instructions and any other relevant information related to the service. 
-
-The form should only be used for clients who are seeking to perform one of the following services: 
-
-- Semi-Private Area
-- Full-Sleeve Tattoo
-- Tattoo Sleeve
-- Minimal Tattoo
-
-Before filling out this form, please ensure that you have read and understood the content. If you have any questions or concerns, do not hesitate to ask your artist.
-</thinking>
-
 # Tattoo Indemnity Form - Help Guide
 ## Purpose
 This form is used to obtain informed consent from clients before performing a tattoo or piercing service. It is designed to ensure that clients are aware of the risks and aftercare instructions associated with the procedure.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect demographic information from individuals to better understand the target audience for a specific project or initiative. The form includes various fields to gather data on personal characteristics, such as name, age range, language proficiency, education level, income range, marital status, family status, employment status, occupation, industry, and more. This information will help us to tailor our content and services to meet the needs of our target audience. 
-
-To avoid duplication of data entry, please make sure to fill out this form only once. If you have previously filled out this form, you can access your existing information and update it if necessary. Please note that this form is for internal use only and the collected data will not be shared or used for any other purpose than what is specified here. 
-</thinking>
-
 # Target Audience Grouping Form - Help Guide
 
 ## Purpose

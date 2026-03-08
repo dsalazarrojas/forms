@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Seasonal Offer Clarification Contact Form - Help Guide
 ## Purpose
 This form is used for customers to clarify any doubts or questions they may have about our seasonal offers. It is an open channel for customers to provide information about their specific needs and concerns related to our seasonal promotions.

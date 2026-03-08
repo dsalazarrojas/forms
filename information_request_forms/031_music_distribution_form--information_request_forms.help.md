@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my goal is to create a user-friendly help guide that effectively communicates the purpose and requirements of the music_distribution_form. To begin, I'll analyze the form's purpose and fields to ensure that I'm capturing the essential information and presenting it in a clear, concise manner.</thinking>
-
 # music_distribution_form - Help Guide
 ## Purpose
 This form is designed to collect information from musicians who wish to distribute their music to various platforms, such as online streaming services, radio stations, or music libraries. The form helps musicians provide their contact details, album information, and song details to facilitate the distribution process.

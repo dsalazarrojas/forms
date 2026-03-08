@@ -1,10 +1,3 @@
-<thinking>This form, "Q1 Feedback Form", is intended to elicit feedback from clients regarding their experience. Please note that this form is not mandatory. To ensure that we capture as much valuable feedback as possible, this form should not be filled out multiple times by the same client.
-
-To complete this form, follow the steps below.
-
-## Purpose
-The Q1 Feedback Form is a tool to gather feedback from clients after their experience with our company. This form is intended to help us improve our services and better serve our clients in the future.</thinking>
-
 # Q1 Feedback Form - Help Guide
 
 ## How To Complete This Form

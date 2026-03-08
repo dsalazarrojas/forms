@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Coverage Selection Form - Help Guide
 ## Purpose
 This form is used to select coverage details for a specific purpose. It's meant to be filled out by users who need to choose between different coverage options for a particular process or project.

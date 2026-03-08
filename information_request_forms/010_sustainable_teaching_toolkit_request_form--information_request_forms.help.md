@@ -1,6 +1,3 @@
-<thinking>
-The Sustainable Teaching Toolkit Request Form is designed to gather information from educators and instructors regarding their specific teaching needs. This form aims to ensure that the requested resources are tailored to meet their particular requirements. Before proceeding, please note that the form has been designed with the assumption that the primary topic of the request will be one of the five core subjects: Math, Science, English, History, or Other. This form should not be used to request resources for topics outside these core subjects without approval from the form administrators. 
-</thinking>
 # Sustainable Teaching Toolkit Request Form - Help Guide
 ## Purpose
 The Sustainable Teaching Toolkit Request Form is designed to provide educators and instructors with resources tailored to their specific teaching needs. To submit a request, please complete the form by selecting the relevant fields as instructed below.

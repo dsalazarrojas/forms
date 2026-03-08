@@ -1,16 +1,3 @@
-<thinking> 
-This guide is intended to help applicants complete the Packaging Designer Interview Form accurately and efficiently. The form is designed to collect information about an applicant's personal details, contact information, availability to work, expected salary, and previous work experience. 
-
-Before starting, please ensure you are filling out this form for the correct purpose and not duplicating efforts with other forms. This guide is specifically tailored for individuals applying for a Packaging Designer position. 
-
-To complete this form, please go through each section carefully and provide accurate information about yourself. 
-
-Please note that some fields are not required, but providing accurate and complete information will help us better understand your qualifications and preferences. 
-
-If you have any doubts or concerns about a specific field, please refer to this guide for clarification. 
-
-</thinking>
-
 # Packaging Designer Interview Form - Help Guide
 ## Purpose
 The Packaging Designer Interview Form is designed to collect information about an applicant's personal details, contact information, availability to work, expected salary, and previous work experience. This form helps us to accurately assess the applicant's qualifications and preferences for the Packaging Designer position.

@@ -1,8 +1,3 @@
-<thinking>
-The Community Support Service Consultation form is designed to collect information from individuals or organizations seeking support services. This form helps the support team to understand the needs of the requester and provide the most suitable support. 
-Before proceeding, please ensure that you are not duplicating a previous request. If you have already submitted a request for the same issue, please do not resubmit. If you are unsure or have any doubts, kindly contact the support team directly.
-</thinking>
-
 # Community Support Service Consultation - Help Guide
 ## Purpose
 The Community Support Service Consultation form is a tool for individuals or organizations seeking assistance with specific concerns. It is used to gather necessary information to provide tailored support.

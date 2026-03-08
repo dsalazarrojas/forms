@@ -1,11 +1,3 @@
-<thinking>
-The purpose of the "Employee Performance Appraisal Form" is to provide a structured evaluation of an employee's performance over a specific period, allowing managers to assess the employee's strengths and areas for improvement. This form is used to evaluate the employee's performance based on their goals, objectives, and overall contribution to the organization.
-To ensure accuracy and fairness, we want to avoid duplication of effort in evaluating employee performance. Before completing this form, please review the following:
-* Check if there are any existing performance evaluations for this employee. If yes, it might be redundant to create a new one.
-* Review the goals and objectives set for this employee and ensure you're evaluating their performance based on those specific metrics.
-* Ensure you're using this form consistently with other evaluations to maintain fairness and accuracy.
-</thinking>
-
 # Employee Performance Appraisal Form - Help Guide
 ## Purpose
 The "Employee Performance Appraisal Form" is used to evaluate an employee's performance over a specific period, focusing on their strengths, areas for improvement, and overall contribution to the organization.

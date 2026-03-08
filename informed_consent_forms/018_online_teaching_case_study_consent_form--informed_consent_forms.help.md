@@ -1,11 +1,3 @@
-<thinking>
-
-Online Teaching Case Study Consent Form is designed to capture participant details and consent information for online teaching case studies. This form is part of a larger process to obtain informed consent from participants in order to analyze their responses and experiences in teaching case studies. It ensures that participants understand the purpose and scope of the study, and that they provide necessary information to be included in the case study.
-
-Before filling out this form, please make sure you have not already submitted your details and consent for this particular case study. If you have any doubts or concerns, please contact the study administrators.
-
-</thinking>
-
 # Online Teaching Case Study Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to obtain informed consent from participants in online teaching case studies.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist pet owners in completing the Animal Behavior Information Form, which is used to gather essential information about their pets' behavior. This form is crucial for behaviorists to understand the pet's history, habits, and concerns to provide effective assistance. The form is designed to be completed by the pet's owner, and the information collected will be reviewed by behaviorists to identify potential causes and develop tailored solutions. 
-</thinking>
-
 # Animal Behavior Information Form - Help Guide
 ## Purpose
 This form helps behaviorists understand your pet's behavior, habits, and concerns to provide effective assistance.

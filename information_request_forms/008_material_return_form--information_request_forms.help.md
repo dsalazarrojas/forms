@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users for material returns. The form is likely used by staff or administrators to collect details from customers or users who are requesting to return materials or items they have purchased or leased. The form should not be used for other purposes. 
-</thinking>
-
 # Material Return Form - Help Guide
 ## Purpose
 This form is used to collect information from customers or users who are requesting to return materials or items purchased or leased from the organization.

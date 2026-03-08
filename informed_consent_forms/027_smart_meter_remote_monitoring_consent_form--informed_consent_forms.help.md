@@ -1,10 +1,3 @@
-<thinking>
-... internal reasoning block that explains the form purpose and checks for relevance and non-duplication
-We are developing a form for informed consent to be used for remote monitoring of smart meters. This form is designed to collect essential information from individuals who wish to participate in remote monitoring of their smart meters. The form will help us ensure that all necessary data is accurately recorded and that participants' rights are respected.
-
-Please ensure this form is used only for its intended purpose and that all necessary information is collected. Do not use this form for any other reason without proper authorization.
-</thinking>
-
 # smart_meter_remote_monitoring_consent_form - Help Guide
 ## Purpose
 This form is designed to obtain informed consent from individuals who wish to participate in remote monitoring of their smart meters. The form collects essential information to ensure that participants' rights are respected and that all necessary data is accurately recorded.

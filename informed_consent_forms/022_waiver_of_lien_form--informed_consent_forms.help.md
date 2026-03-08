@@ -1,9 +1,3 @@
-<thinking>
-This form is a waiver of lien form, which is a document that releases a lien on a property. Lien stands for a claim or charge held by one party on the property of another. This form is used by landlords or property managers to release a lien on a property, typically on a rental property, when a tenant has vacated the property. 
-The form is used to confirm the release of the lien by the landlord or property manager, and it is often required by law before a tenant can receive their security deposit back. This form should only be used in cases where the tenant has vacated the property and the landlord or property manager has no further claims or liens on the property.
-Before filling out this form, ensure you have a clear understanding of the terms and conditions of the rental agreement and that you have no further claims or liens on the property. 
-</thinking>
-
 # Waiver Of Lien Form - Help Guide
 ## Purpose
 The Waiver Of Lien Form is used by landlords or property managers to release a lien on a rental property when a tenant has vacated the property and the landlord or property manager has no further claims or liens on the property.

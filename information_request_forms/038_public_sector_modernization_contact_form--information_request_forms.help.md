@@ -1,21 +1,3 @@
-<thinking>
-The form's purpose is to gather information from public sector employees and stakeholders about their modernization needs and experiences. This form is meant to be a helpful guide for those who wish to adapt their public sector processes and systems to better serve their constituents. It's an internal tool for collecting qualitative data to inform policy decisions and resource allocation within the public sector.
-
-Form name: "public_sector_modernization_contact_form" is likely to gather similar data multiple times, potentially leading to duplicate submissions. However, this form is designed to be user-facing, allowing stakeholders to provide their thoughts and opinions.
-
-The form fields are mostly text-based, indicating a focus on collecting qualitative data rather than numerical or statistical data.
-
-The form has seven pages, suggesting a comprehensive approach to gathering information.
-
-To complete the form, users should start by filling out each page sequentially, ensuring that required fields are filled out before proceeding to the next page.
-
-Each field is labeled with a name (or label), indicating the field's purpose or what the user is expected to fill in.
-
-The form does not appear to have any conditional logic or dependencies between fields, suggesting a straightforward, fill-out-the-field approach.
-
-The form's design seems to prioritize simplicity and ease of use over complexity and interactivity.
-</thinking>
-
 # public_sector_modernization_contact_form - Help Guide
 ## Purpose
 This form is designed to gather information from public sector employees and stakeholders about their modernization needs and experiences.

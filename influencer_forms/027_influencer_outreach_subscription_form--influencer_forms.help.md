@@ -1,7 +1,3 @@
-<thinking>
-To confirm, this form is used for influencer outreach and subscription management. The form is designed to collect information about an influencer's subscription details, including their first and last name, email, phone number, subscription service, subscription date and time, and any additional notes. The form also allows the user to select multiple services they are subscribed to. This information can be used to tailor outreach efforts to the right contacts. Please ensure the form is completed accurately and thoroughly to avoid duplication of efforts and ensure relevant communication. Please review each field carefully to ensure the correct information is entered.
-</thinking>
-
 # influencer_outreach_subscription_form - Help Guide
 
 ## Purpose

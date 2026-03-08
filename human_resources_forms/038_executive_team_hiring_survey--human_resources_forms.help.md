@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is likely to help the hiring team gather information about the ideal candidate profile for executive team positions. This includes company size, job title, job level, years of experience, education level, job title preference, department, and location. This information can aid in the recruitment process to find the best fit for available positions. It's essential to fill out this form accurately to ensure the hiring process goes smoothly and efficiently.
-
-</thinking>
-
 # Executive Team Hiring Survey - Help Guide
 ## Purpose
 This form helps the hiring team gather information about the ideal candidate profile for executive team positions.

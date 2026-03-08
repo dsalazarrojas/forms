@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to monitor employee internet usage for any specific date. It is designed to track an employee's internet usage on company time, including the time they start and end their internet usage, the websites they visit, and any relevant notes.
 
 This form is intended to be completed on a daily basis for each employee, and it is a mandatory form that is part of a larger employee tracking and monitoring system. 

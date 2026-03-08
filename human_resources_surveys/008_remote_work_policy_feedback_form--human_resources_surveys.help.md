@@ -1,5 +1,3 @@
-<thinking>...This form is designed to gather feedback from employees regarding the remote work policy. This is a one-time feedback session to understand the experiences and challenges faced by employees in working remotely. It is expected that the form will be filled out once by each employee, and the data will be reviewed internally to improve the remote work policy. If you have already filled out this form in the past, please do not resubmit your feedback...!</thinking>
-
 # Remote Work Policy Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from employees regarding their experiences and challenges with the remote work policy.

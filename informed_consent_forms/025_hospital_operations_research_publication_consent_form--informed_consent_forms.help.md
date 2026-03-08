@@ -1,8 +1,3 @@
-<thinking>
-A hospital operations research publication consent form is used to collect information from participants in research studies that will be published. This form is used to ensure that participants understand and agree to the terms of their data being used in the publication. It is a critical component of the research process, as it ensures that participants' rights and privacy are protected.
-Before filling out this form, please make sure you have not already submitted your response to this form, as duplicate submissions will not be accepted. 
-</thinking>
-
 # Hospital Operations Research Publication Consent Form - Help Guide
 ## Purpose
 The Hospital Operations Research Publication Consent Form is designed to gather information from research study participants to ensure that their data is used in accordance with their consent. This form is a crucial part of the research process, as it protects participants' rights and privacy.

@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to update the inventory of a specific product in the Tsd system. This form is used to record changes in product quantities, allowing for accurate tracking and management of stock levels. To ensure data accuracy, please ensure that each field is completed accurately and completely. Before filling out this form, please review the product and transaction details to avoid duplication of entries or incorrect information.
-</thinking>
-
 # Tsd Inventory Update - Help Guide
 ## Purpose
 This form is used to update the inventory of a product in the Tsd system, allowing for accurate tracking and management of stock levels.

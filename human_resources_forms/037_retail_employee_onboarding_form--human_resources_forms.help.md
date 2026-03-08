@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to collect onboarding information for new retail employees. It is essential for the HR department to gather accurate and complete data about each employee for administrative, compliance, and other purposes. To avoid duplication, this form should only be filled out once for each new hire. Please fill out this form completely and accurately to ensure a smooth onboarding process.
-
-</thinking>
-
 # Retail Employee Onboarding Form - Help Guide
 ## Purpose
 The Retail Employee Onboarding Form is used to collect necessary information from new retail employees to facilitate their onboarding process and ensure a smooth transition into their new role.

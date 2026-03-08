@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from applicants for a project manager position. The purpose of this form is to gather details about the applicant's background, experience, and qualifications for the project manager role. This form is intended to be completed by potential project managers who are interested in applying for a position within the company.
-
-Please note that the fields on this form are designed to be optional, but it's recommended that applicants provide as much information as possible to increase their chances of being considered for the position.
-
-Before proceeding, please ensure that you are aware of the company's current project needs and that this form is not intended to be a substitute for an in-person meeting or phone call. The information collected through this form will be reviewed and considered as part of the hiring process.
-
-Also, note that the form fields are designed to be self-explanatory, and the labels and hints provided should give a clear indication of what the field is intended for. If you have any doubts or questions, please don't hesitate to reach out to the contact email: form@gic.mx.
-
-</thinking>
-
 # Project Manager Application Form - Help Guide
 
 ## Purpose

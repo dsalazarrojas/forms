@@ -1,7 +1,3 @@
-<thinking>
-This form is used to release an employee from their work authorization, typically when an employee's contract or employment is ending. This form helps ensure that all necessary information is documented and that the employee and the company are aware of the terms of the separation. Before completing this form, please review it carefully to avoid errors. This form should not be used for test or training purposes.
-</thinking>
-
 # Work Authorization Release Form - Help Guide
 ## Purpose
 The purpose of this form is to document the details of an employee's work authorization release. This includes information about the employee's job title, department, and job status, as well as the reason for termination and notice period.

@@ -1,9 +1,3 @@
-<thinking>
-The Mandatory Leave Time Off Form is used to submit a request for paid or unpaid leave of absence from work. This form helps employees notify their manager and department head of their intention to take a break, and it serves as a formal request for approval. Before filling out this form, please ensure that you have discussed your request with your manager and department head and have received their agreement to approve your leave.
-
-Note: This form is for informational purposes only and should not be used for duplicate requests. If you have already submitted a leave request, please do not resubmit another form.
-</thinking>
-
 # Mandatory Leave Time Off Form - Help Guide
 ## Purpose
 The Mandatory Leave Time Off Form is used to submit a request for paid or unpaid leave of absence from work.

@@ -1,5 +1,3 @@
-<thinking>Is this form designed for managers to provide feedback on their team members? If so, what kind of feedback would be valuable here? Is it a one-time evaluation, or should it be recurring? Are there any specific questions that need to be asked to elicit meaningful responses? For example, what kind of contact information would be relevant? Is there a particular type of schedule/time-related information that's needed? Are there any other specific fields that would help guide the user's response?</thinking>
-
 # Manager Survey - Help Guide
 ## Purpose
 

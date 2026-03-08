@@ -1,8 +1,3 @@
-<thinking>
-An "income_statement_form" is likely used for providing information about a company's financial performance, typically used for internal purposes such as accounting, auditing, or financial reporting. It's possible that this form is part of an accounting or financial management system, where users input data to calculate and track a company's income and expenses. This form might be used by accounting professionals, financial analysts, or business owners to get a clear picture of a company's financial situation.
-This form is probably not intended for public use or for general public consumption. It's also possible that this form is part of a larger system, like a financial management software or a accounting package.
-To prevent duplication of efforts, please ensure that you've not created a similar form before.
-</thinking>
 # income_statement_form - Help Guide
 ## Purpose
 The income statement form is used to input financial information about a company's income and expenses. This form helps users calculate and track the company's profit.

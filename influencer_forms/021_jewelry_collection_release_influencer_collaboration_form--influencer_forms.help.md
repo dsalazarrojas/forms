@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to collect information from influencers who are interested in collaborating with the company on a jewelry collection release. The form will help the marketing team to evaluate the influencer's suitability for collaboration and ensure that they align with the brand's objectives. The form should only be submitted by influencers who are genuine and not spamming multiple forms. If an influencer is submitting multiple forms, their forms will not be processed.
-</thinking>
 # jewelry_collection_release_influencer_collaboration_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from influencers interested in collaborating with the company on a jewelry collection release. This form will help the marketing team evaluate the suitability of the influencer for the collaboration and ensure alignment with the brand's objectives.

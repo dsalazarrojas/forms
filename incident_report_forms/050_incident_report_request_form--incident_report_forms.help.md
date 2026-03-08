@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Incident Report Request Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about an incident that occurred. It is used to report and track incidents, and to keep a record of the incident's details, including the involved parties, location, and status.

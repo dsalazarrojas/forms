@@ -1,9 +1,3 @@
-<thinking>
-This form is for employees to provide a promotion justification and evidence to support their request for promotion. It is intended for internal use within the organization and is not intended for external use. Please ensure that you are submitting your justification and evidence for your own promotion request, as it is your responsibility to provide accurate and truthful information. Before submitting, ensure that you have read this guide carefully to understand the purpose and requirements of this form.
-
-This guide is intended to be used only for this specific form, and not for any other form or purpose. It is also a one-time use guide and not intended for repeated submissions.
-</thinking>
-
 # Promotion Justification Form - Help Guide
 ## Purpose
 The Promotion Justification Form is used by employees to provide a clear and concise justification and evidence to support their request for promotion. The form is designed to guide employees in preparing a well-structured and compelling submission that meets the organization's promotion criteria.

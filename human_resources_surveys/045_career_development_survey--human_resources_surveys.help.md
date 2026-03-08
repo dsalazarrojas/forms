@@ -1,20 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, let's break down the form's purpose, how to complete it, and explain each field in a way that's concrete, concise, and practical.
-
-The form is designed to capture information from employees about their career development needs and preferences. This will help us understand what types of training and support they require to grow in their roles, and identify potential barriers to participation. By providing a clear and comprehensive guide, we can ensure that employees can easily complete the form and provide valuable feedback that will inform the development of career development initiatives.
-
-The form will help us to:
-
-* Identify employees interested in training and development opportunities
-* Determine preferred training topics and delivery methods
-* Understand potential barriers to participation, such as time budget or access issues
-* Set realistic expectations for training outcomes and timelines
-* Assess manager support for employee development
-
-With this information, we can create more effective and tailored career development programs that address the specific needs and preferences of our employees.
-
-</thinking>
-
 # Career Development Survey - Help Guide
 ## Purpose
 The Career Development Survey is designed to gather information from employees about their career development needs and preferences.

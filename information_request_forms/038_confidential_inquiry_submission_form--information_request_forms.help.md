@@ -1,5 +1,3 @@
-<thinking>...To ensure this guide is helpful, it is crucial to first understand the purpose and context of the "Confidential Inquiry Submission Form". This form is used for confidential inquiries, which can be for various reasons such as complaints, grievances, or other sensitive matters. It is designed to collect information without compromising the identity of the submitter. The form is divided into sections that help to categorize and detail the inquiry, including the type, subject, and description of the issue. Additionally, the form asks about the availability of evidence, any previous reporting, and the level of urgency. Finally, it includes fields for desired outcomes, anonymity requests, and preferred contact methods...</thinking>
-
 # Confidential Inquiry Submission Form - Help Guide
 
 ## Purpose

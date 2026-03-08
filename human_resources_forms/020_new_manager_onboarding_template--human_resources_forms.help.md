@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to be used by internal staff to help new managers onboard with the correct tools and information for their role. This form should only be completed once per new manager. Please ensure that you have the correct manager's email and other required details before filling out this form.
-</thinking>
-
 # New Manager Onboarding Template - Help Guide
 ## Purpose
 The New Manager Onboarding Template is a form used to gather essential information for new managers, ensuring a smooth transition to their new role. It helps HR and other teams understand the new manager's needs and preferences, facilitating their integration into the company's systems and processes.

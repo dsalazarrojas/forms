@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Night Shift Time Off Request Form - Help Guide
 ## Purpose
 This form is intended to facilitate employee requests for time off during night shifts. It collects necessary information from the employee, manager, and shift details to process time off requests accurately and efficiently.

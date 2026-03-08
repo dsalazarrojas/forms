@@ -1,6 +1,3 @@
-<thinking>
-This form is used to document a mutual release between a client and a contractor. A release form is a formal agreement that releases the client from any remaining financial obligations to the contractor, and the contractor from any claims against the client. This form is used to settle disputes, cancel contracts, or terminate agreements. It's essential to ensure that both parties understand their responsibilities and obligations before signing this form. To use this form, you should first review the contract or agreement in question and determine the purpose of this release. Ensure that all relevant information is included, and that both parties have reached a mutual agreement. Please note that this form is a legal document and should be reviewed by a legal professional before signing. If you are unsure about any aspect of this form, please consult a lawyer.</thinking>
-
 # Contractor Release Form - Help Guide
 ## Purpose
 The Contractor Release Form is a formal agreement that releases the client from any remaining financial obligations to the contractor, and the contractor from any claims against the client. This form is used to settle disputes, cancel contracts, or terminate agreements.

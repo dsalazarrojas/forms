@@ -1,8 +1,6 @@
 # Makeup Consultation Form - Help Guide
 ## Purpose
 
-<thinking>Before starting, please ensure that you're in the correct context to fill out this form. This form is designed for customers to share their specific makeup preferences and needs with our team. We review and respond to this form to provide personalized recommendations for our customers. If you're a representative from our team, please ensure that this form is used for its intended purpose and not for testing or demo purposes.</thinking>
-
 ## How To Complete This Form
 
 To complete this form, follow these steps:

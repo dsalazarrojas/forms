@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect data on the performance of a candidate during an interview. It is meant to be completed by the interviewer after the interview has taken place. The form is not meant to be completed by the candidate. Each field is meant to capture specific information about the candidate's performance and the interviewer's observations. The form is not meant to be completed if it is a duplicate of another interview with the same candidate. Please ensure that you have not completed this form for a previous interview with the same candidate before submitting this one.
-</thinking>
-
 # Interview Scorecard Form - Help Guide
 ## Purpose
 This form is used to record the outcome of an interview. It captures the candidate's performance and the interviewer's observations to help evaluate the candidate's suitability for the position.

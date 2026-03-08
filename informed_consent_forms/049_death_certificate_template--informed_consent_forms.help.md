@@ -1,6 +1,3 @@
-<thinking>
-  This form is designed to collect information for a Death Certificate. It is intended to be completed by medical professionals or authorized personnel in situations where a death occurs. This form is not intended to be completed for every death, but rather for official purposes where a death certificate is required. Please ensure you have the necessary authority to complete this form before proceeding.
-</thinking>
 # Death Certificate Template - Help Guide
 ## Purpose
 The Death Certificate Template is a form used to document a death, capturing essential information about the deceased and the circumstances of their passing. This form is meant to be completed by medical professionals or authorized personnel in situations where a death occurs.

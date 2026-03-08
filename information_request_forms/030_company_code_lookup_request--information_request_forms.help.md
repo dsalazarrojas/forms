@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended for end-users who need to request a company code using the Company Code Lookup Request form. It's essential to ensure that the form is completed correctly to facilitate the efficient processing of the code request. Before proceeding, please note that this form is for internal use only and is not meant for external parties or commercial purposes. Additionally, kindly check that your company code request is not already pending or processed, as duplicate requests may cause unnecessary delays.
-
-</thinking>
-
 # Company Code Lookup Request - Help Guide
 ## Purpose
 The Company Code Lookup Request form is designed to facilitate internal employees' needs for company codes used to identify and manage company resources, projects, and vendors. This form helps to gather essential information for the correct allocation and assignment of company codes.

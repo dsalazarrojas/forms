@@ -1,7 +1,3 @@
-<thinking>
-The Annual Leave Time Off Form is used to request annual leave from work. To ensure this form is used correctly, please only use this form to request annual leave for the specified year. If you need to request other types of leave, please use the corresponding form. This form requires the employee's manager approval before it can be processed.
-</thinking>
-
 # Annual Leave Time Off Form - Help Guide
 ## Purpose
 The Annual Leave Time Off Form is a form used to request annual leave from work. It's essential to use this form to ensure that your leave request is processed correctly and in a timely manner.

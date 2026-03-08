@@ -1,15 +1,3 @@
-<thinking>
-We need to ensure that this form is completed for its intended purpose and not duplicated. The primary goal of the Voluntary Health Insurance Overview form is to collect relevant health insurance-related information from users who have not been automatically enrolled in an insurance plan through our organization. This form will help us understand their specific needs, preferences, and circumstances to provide them with suitable options.
-
-To avoid duplication of effort, please ensure that:
-
-* The form is only completed by users who do not have automatic insurance enrollment.
-* The user has not completed this form before.
-* The user has not submitted this form under a different name or contact information.
-
-If you've already completed this form or have automatic insurance enrollment, please do not submit this form again.
-</thinking>
-
 # Voluntary Health Insurance Overview - Help Guide
 ## Purpose
 This form is designed to gather information about your voluntary health insurance needs and preferences. Please complete this form if you have not been automatically enrolled in our health insurance plan.

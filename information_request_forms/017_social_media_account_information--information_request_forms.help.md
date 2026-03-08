@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Social Media Account Information - Help Guide
 
 ## Purpose

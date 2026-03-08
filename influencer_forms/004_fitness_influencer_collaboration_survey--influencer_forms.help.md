@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Fitness Influencer Collaboration Survey" form. This form is designed to collect information from fitness influencers on their collaboration interest and other relevant details. The purpose of the form is to understand the fitness influencers' preferences, audience characteristics, and collaboration interest, which will help in identifying potential collaboration opportunities. It's essential to ensure that the form is completed correctly to provide accurate and reliable data.
-</thinking>
-
 # Fitness Influencer Collaboration Survey - Help Guide
 ## Purpose
 The "Fitness Influencer Collaboration Survey" is a form designed to collect information from fitness influencers about their collaboration interest, audience characteristics, and other relevant details.

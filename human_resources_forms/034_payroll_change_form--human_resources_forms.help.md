@@ -1,7 +1,3 @@
-<thinking>
-The Payroll Change Form is used to process changes to an employee's pay details. This form is used internally by HR personnel to document and track changes made to an employee's payroll information. It is essential to complete this form accurately and correctly to ensure that the changes are properly recorded and reflected in the employee's payroll data. Before filling out this form, please ensure that you have all the necessary information and that the changes are not being duplicated.
-</thinking>
-
 # Payroll Change Form - Help Guide
 ## Purpose
 

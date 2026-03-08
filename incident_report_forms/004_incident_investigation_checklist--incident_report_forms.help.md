@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for documenting and investigating employee incidents, which are events that have occurred within the workplace that may impact the organization's operations, people, or resources. The purpose of this form is to gather information about these incidents, including details about the incident, the individuals involved, and the steps being taken to mitigate their effects. Before filling out this form, ensure that you have permission from the relevant parties to collect this information and that you are not duplicating effort – there should be no other active investigations or reports related to the same incident being conducted simultaneously. It's also essential to maintain the confidentiality and integrity of the data collected.
-
-Please note that this form does not aim to replace any other incident reporting processes or procedures within your organization, but rather serves as a supporting tool for gathering and analyzing incident-related data.
-
-</thinking>
-
 # incident_investigation_checklist - Help Guide
 ## Purpose
 The incident_investigation_checklist form is designed to aid in the investigation and documentation of incidents that occur within the workplace. It is a crucial tool for collecting and organizing essential details about the incident, which helps in understanding the cause, effect, and potential consequences of the incident.

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect informed consent from participants in a clinical workflow automation study. 
-The form is used to gather information about the study, the participant's involvement, and their understanding of the study procedures. This includes demographic information, study purpose, duration, data collection methods, and how data will be protected and anonymized. The participant is also asked to confirm that they understand their participation is voluntary, they can withdraw at any time, and their employment will not be affected by their participation or non-participation.
-To confirm the participant has received a copy of this form and to ensure that they have read and understood all the information, the form requires a participant signature and the signature of an investigator.
-The form is an essential part of the study's ethical clearance process, and it's vital that participants understand their role in the study.
-The following form guide will walk you through each page of the form, highlighting what each field means and how to complete it.
-</thinking>
-
 # Clinical Workflow Automation Study Consent Form - Help Guide
 
 ## Purpose

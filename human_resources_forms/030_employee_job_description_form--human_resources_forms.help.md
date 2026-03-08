@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about a job description for an employee. The form is meant to be used by HR personnel to provide a detailed overview of an employee's role and responsibilities within the company. It is used to gather data about the department, job title, working hours, job responsibilities, and other relevant details.
-
-Before using this form, please ensure that it is not already existing for the same employee, or if it is, make sure it is up to date. Duplicate entries can cause confusion and make it difficult to maintain accurate records.
-
-This guide is designed to walk you through the steps to complete the employee job description form.
-
-</thinking>
 # employee_job_description_form - Help Guide
 ## Purpose
 This form is used to collect detailed information about a job description for an employee, including their department, job title, working hours, and more.

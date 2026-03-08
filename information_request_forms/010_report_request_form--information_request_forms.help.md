@@ -1,7 +1,3 @@
-<thinking>
-The Report Request Form is a tool used to gather information from users to create reports. It is designed for non-technical users to submit requests for reports. The form is used to collect various details about the report, including its type, due date, due time, and status. This form helps to minimize errors and inconsistencies by ensuring that all necessary information is collected before the report is created. Please note that this form is not intended for submitting reports directly, but rather for requesting reports. If you are ready to create a report, please use the "Report Creation" feature.
-</thinking>
-
 # Report Request Form - Help Guide
 ## Purpose
 The Report Request Form is a tool used to gather information from users to create reports. It is designed for non-technical users to submit requests for reports.

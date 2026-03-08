@@ -1,7 +1,3 @@
-<thinking>
-This Lien Release Form is used when a lien is to be removed from a property. This form ensures that the lien holder acknowledges the removal of the lien and provides necessary information about the lien and the reason for removal. Before filling out this form, please confirm that the lien is to be released and that you have the necessary authority to do so. If this form has already been filled out, please make sure it is a new or updated version.
-</thinking>
-
 # Lien Release Form - Help Guide
 ## Purpose
 The Lien Release Form is used to document the removal of a lien from a property. This form is typically used when a lien holder acknowledges the removal of the lien and provides necessary information about the lien and the reason for removal.

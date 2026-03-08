@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain informed consent from educators before publishing their interviews. The purpose of this form is to ensure that educators understand how their interviews will be used and shared, and to obtain their consent for publication. This form is not intended for non-duplicative use, meaning that a single educator should only fill it out once for each publication. If you're not sure if you've already completed this form, please check with the project administrator.
-</thinking>
-
 # Global Educator Interview Publication Consent Form - Help Guide
 ## Purpose
 This form is used to obtain informed consent from educators before publishing their interviews.

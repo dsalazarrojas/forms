@@ -1,23 +1,3 @@
-<thinking>
-
-This guide is intended for employees who have been involved in an incident that requires disciplinary action. The form is used to document the incident, capture relevant details, and outline the steps taken to address the issue. It is crucial that this form is used only once for each incident, and not to repeat the incident in other forms or reports. 
-
-**Employee Incident Report** is the first section of the form. This is where you will document the basic details of the incident. Please ensure that this section is filled out completely for each incident.
-
-**Incident Date** refers to the date of the incident in "YYYY-MM-DD" format. 
-
-**Incident Time** is the time the incident occurred in "HH:MM AM/PM" format. 
-
-**Employee Name** is the name of the employee involved in the incident. 
-
-**Employee ID** is the employee's unique identification number. 
-
-**Description** is a brief description of what happened, including any relevant details about what the employee did wrong. 
-
-**Action Taken** is a description of the steps taken to address the incident. 
-
-</thinking>
-
 # Employee Discipline Form - Help Guide
 ## Purpose
 The Employee Discipline Form is a tool used to document and address employee incidents. This form is to be used only once for each incident, and not to repeat the incident in other forms or reports.

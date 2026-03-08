@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect information about a server's details, including its name, operating system, IP address, location, type, OS version, and vendor. The form is designed for users to input this information to track and manage servers. It's a basic form, and the form's simplicity allows users to easily collect the necessary information for server management. The purpose of this form is to ensure that server information is up-to-date and accurate, which can help with maintenance, upgrades, and troubleshooting.
-
-This form is suitable for various types of servers, including those in data centers, cloud environments, or on-premises locations. It's essential to complete this form accurately to ensure that the server information is correct and can be used for future reference.
-
-To prevent duplication, we encourage users to only submit one instance of this form per server.
-
-</thinking>
-
 # Server Information Collection Form - Help Guide
 ## Purpose
 The Server Information Collection Form is designed to collect and track server information, including operating system, IP address, location, and other relevant details.

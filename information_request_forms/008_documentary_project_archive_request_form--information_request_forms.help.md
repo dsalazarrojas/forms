@@ -1,10 +1,3 @@
-<thinking>
-This form is used for requesting the archive of a documentary project. The purpose of this form is to gather information about the project's title, contact details, and other relevant metadata. This form is intended for use by project creators or their representatives to request the archive of their project. It is not intended for use by the general public.
-
-Before filling out this form, please ensure that you have the necessary permission to submit a request on behalf of the project's creator. Duplicate requests will not be processed.
-
-</thinking>
-
 # Documentary Project Archive Request Form - Help Guide
 ## Purpose
 The purpose of this form is to request the archive of a documentary project, gathering essential information about the project and its creator's contact details.

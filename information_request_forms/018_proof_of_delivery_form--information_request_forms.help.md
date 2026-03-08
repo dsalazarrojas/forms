@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for customers to provide proof of delivery for their products. The form will gather information about the customer, the delivery date, delivery time, delivery location, and the person receiving the delivery. This form will help ensure that both the customer and the supplier can verify the delivery. It's essential to complete this form accurately to facilitate efficient and secure delivery processes.
-</thinking>
-
 # Proof Of Delivery Form - Help Guide
 ## Purpose
 This form is designed to provide proof of delivery for your products. It's essential to complete it accurately to facilitate efficient and secure delivery processes.

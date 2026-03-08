@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture information about a new account, allowing users to provide essential details such as company name, contact person information, and account type. To avoid duplication, ensure that you are not creating multiple accounts for the same company.
-</thinking>
-
 # New Account Information Form - Help Guide
 ## Purpose
 This form is designed to collect information about a new account, enabling you to create a comprehensive profile for the account. Fill in the necessary details for the account you are creating.

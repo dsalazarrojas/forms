@@ -1,7 +1,3 @@
-<thinking>
-The Seasonal Sales Staff Performance Assessment form is used to evaluate the performance of seasonal sales staff during their employment period. This form is designed to gather information on the staff member's performance in their sales area, including their sales performance measures, sales area rating, and evaluation date. It is intended for use by HR managers and team leaders to assess the performance of seasonal sales staff and provide feedback for improvement. Before completing this form, ensure that you have reviewed the relevant performance metrics and evaluation periods to ensure accuracy. This form should be completed on a regular basis (e.g., at the end of each seasonal work period) to ensure timely and consistent evaluations.
-</thinking>
-
 # Seasonal Sales Staff Performance Assessment - Help Guide
 ## Purpose
 The Seasonal Sales Staff Performance Assessment is a form used to evaluate the performance of seasonal sales staff, gathering information on their sales performance, sales area rating, and evaluation date.

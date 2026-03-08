@@ -1,5 +1,3 @@
-<thinking>**Emergency Absence Form** is used to report a sudden or unexpected absence from work. This form should only be filled out in cases where an employee is unable to come to work due to an emergency or a situation that prevents them from reporting to their regular work hours. Please make sure to fill out this form only when it's truly necessary and not for routine absences. Also, ensure that the form is properly filled out by the employee before submitting it to the HR department for review and processing.</thinking>
-
 # emergency_absence_form - Help Guide
 ## Purpose
 The Emergency Absence Form is used by employees to report their unexpected or sudden absence from work due to emergency situations.

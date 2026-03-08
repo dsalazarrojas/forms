@@ -1,11 +1,3 @@
-<thinking>
-This form is for collecting social media platform information from influencers or content creators.
-The form will allow users to provide their social media profiles across various platforms.
-The purpose of this form is to help us better understand their online presence and reach.
-We may ask you to fill this form only once.
-We will not use the information for any other purpose than what is stated here.
-</thinking>
-
 # social_media_profile_information_form - Help Guide
 ## Purpose
 This form is used to collect social media profile information from influencers or content creators.

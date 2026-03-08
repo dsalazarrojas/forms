@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather essential information from an employee for an employment contract. The purpose of this form is to collect the employee's name, email, contract start date, contract end time, and both employee and employer signatures. This form is likely to be used in HR or administrative contexts. Please note that this form is AI-generated and does not rely on any proprietary content. It is released under CC BY 4.0 license, allowing for free use, modification, and distribution. It is not affiliated with, endorsed by, or derived from any form platform.
-
-</thinking>
-
 # Employment Contract Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from an employee for an employment contract.

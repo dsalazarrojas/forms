@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from clients who are new to a personal training program. The purpose of the form is to gather details about the client's health, fitness level, and emergency contact information, as well as to inform them about the risks involved in the program. The form is meant to ensure that the client has given informed consent to participate in the program and to collect insurance information.
-</thinking>
-
 # personal_trainer_client_intake_and_liability_form - Help Guide
 ## Purpose
 The personal trainer client intake and liability form is a document that must be filled out by each client before starting a personal training program. It collects information about the client's health details, risk assessment, emergency contact information, insurance information, and informed consent to participate in the program.

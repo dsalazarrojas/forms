@@ -1,8 +1,3 @@
-<thinking>
-Form purpose: This form collects information about a candidate's details and qualifications for potential job or program opportunities.
-This form serves as an intake form for a workforce pipeline, which is a process used to collect, manage, and track candidate data across different stages of the hiring process.
-</thinking>
-
 # workforce_pipeline_intake_form - Help Guide
 ## Purpose
 The workforce_pipeline_intake_form is a data collection form designed to gather information about candidates applying to various job or program opportunities. Its primary purpose is to streamline the intake process, making it easier to manage and track candidate data throughout the hiring process.

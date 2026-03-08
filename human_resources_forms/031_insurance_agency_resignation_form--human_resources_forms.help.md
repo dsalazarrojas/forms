@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Insurance Agency Resignation Form - Help Guide
 ## Purpose
 This form is used to record an employee's resignation from an insurance agency. It is typically completed by the employee to provide official notice of their departure and to specify the reason for their resignation.

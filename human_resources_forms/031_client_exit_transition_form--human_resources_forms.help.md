@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is completed accurately to maintain accurate records and understand the reasons for client exits. This form should not be duplicated or tampered with. The information gathered from this form will help us identify areas of improvement and make necessary adjustments to prevent similar client exits in the future. Please fill out the form carefully and honestly. If you have any issues or concerns that are not listed, please mention them in the "Additional Comments" field.
-</thinking>
-
 # Client Exit Transition Form - Help Guide
 ## Purpose
 The Client Exit Transition Form is a tool used to document the reasons behind a client's decision to end their services with our company. This form helps us understand their experience, identify areas for improvement, and maintain a record of their exit.

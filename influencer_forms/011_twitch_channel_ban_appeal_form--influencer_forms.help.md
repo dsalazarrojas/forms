@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Twitch Channel Ban Appeal Form - Help Guide
 ## Purpose
 The Twitch Channel Ban Appeal Form is used to appeal against a ban on a Twitch channel. If your channel has been banned, please use this form to provide more information about your case and help our team review your appeal.

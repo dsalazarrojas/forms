@@ -1,11 +1,3 @@
-<thinking>
-
-The Workplace Satisfaction Survey is a tool used by HR departments to gauge employee satisfaction and engagement in the workplace. It's designed to gather data on various aspects of work environment, management, and overall job satisfaction. This form is meant to be completed by employees to provide their honest feedback and insights on their experiences in the workplace. The survey is typically conducted anonymously to ensure honest and unbiased responses.
-
-To ensure that the survey is completed accurately and effectively, it's essential to follow the guidelines below.
-
-</thinking>
-
 # Workplace Satisfaction Survey - Help Guide
 
 ## Purpose

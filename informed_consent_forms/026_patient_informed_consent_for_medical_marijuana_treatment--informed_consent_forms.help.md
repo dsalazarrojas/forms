@@ -1,5 +1,3 @@
-<thinking>This form is designed to obtain informed consent from patients before undergoing medical marijuana treatment. It is essential that patients understand the risks and benefits of treatment, their medical condition, and the potential risks and benefits of medical marijuana. This form should not be used as a template for other purposes, but rather as a guide for obtaining informed consent for medical marijuana treatment. Please ensure that the form is reviewed and approved by a medical professional before use.</thinking>
-
 # patient_informed_consent_for_medical_marijuana_treatment - Help Guide
 ## Purpose
 The purpose of this form is to obtain informed consent from patients before undergoing medical marijuana treatment. This form helps patients understand the risks and benefits of treatment, their medical condition, and the potential risks and benefits of medical marijuana.

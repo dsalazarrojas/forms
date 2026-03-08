@@ -1,15 +1,3 @@
-<thinking>
-This form is used for reporting incidents that have occurred at the Pony Club, a community center for children's activities. The purpose of this form is to collect information about the incident, including a brief description of what happened, the date and time of the incident, and any other relevant details. 
-
-The form will typically be used by staff members or volunteers who have witnessed or been involved in the incident, and it's essential to fill it out accurately and thoroughly to ensure that the incident is documented correctly and that necessary actions can be taken to prevent similar incidents in the future.
-
-Before starting the form, ensure that you're not already reporting the same incident. If you're unsure, please consult with the relevant staff member or supervisor.
-
-To complete the form, please follow the steps below. 
-
-Please note that the form has multiple pages, but you'll be navigating through them in a logical and chronological order.
-</thinking>
-
 # pony_club_incident_report - Help Guide
 ## Purpose
 The **Pony Club Incident Report** form is used to document and report incidents that have occurred at the Pony Club, allowing staff to gather information, take necessary actions, and prevent similar incidents in the future.

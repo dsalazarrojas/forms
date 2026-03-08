@@ -1,10 +1,3 @@
-<thinking> 
-The purpose of this form is to collect informed consent from research participants for the sharing of their health data. The form is designed to ensure that participants understand how their data will be used, stored, and protected. It's essential to complete this form carefully to provide clear and informed consent.
-
-To ensure that the form is completed accurately, please review each field carefully before submitting.
-
-</thinking>
-
 # Health Data Research Sharing Consent Form - Help Guide
 ## Purpose
 The Health Data Research Sharing Consent Form is designed to collect informed consent from research participants for the sharing of their health data. This form ensures that participants understand how their data will be used, stored, and protected.

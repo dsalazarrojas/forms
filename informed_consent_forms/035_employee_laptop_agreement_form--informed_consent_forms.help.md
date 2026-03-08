@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from employees regarding their laptop usage and agreement terms. It is intended for internal use within an organization and is not affiliated with any specific form platform. By using this form, employees can provide their laptop make, model, and other relevant details, as well as agree to the terms of usage. Please ensure that you are only using this form for your organization's internal purposes and not for any other use without permission.
-</thinking>
-
 # Employee Laptop Agreement Form - Help Guide
 ## Purpose
 The Employee Laptop Agreement Form is used to gather information from employees regarding their laptop usage and agreement terms. This includes details such as laptop make, model, and employment information.

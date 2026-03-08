@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's quickly discuss the purpose and relevance of this form. This form is designed to gather information about team building within an organization. It's meant to be completed by team members and aims to assess their opinions and experiences regarding team dynamics, communication, leadership, collaboration, and other aspects. By doing so, it will help identify areas for improvement and allow for data-driven decision-making. We'll also make sure to check for any duplication or redundancy in the questions to ensure the form is not asking unnecessary or redundant questions.</thinking>
-
 # Team Building Survey - Help Guide
 ## Purpose
 The Team Building Survey is a tool designed to collect information about team dynamics, communication, leadership, and collaboration within an organization. This form aims to gather honest and objective feedback from team members to help identify areas for improvement.

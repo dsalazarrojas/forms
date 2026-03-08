@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request a paternity leave of absence for an associate. The form is used to notify the associate's manager and HR department of the associate's intention to take a leave of absence due to the birth or adoption of a child. The form should only be completed by the associate and their manager. The associate must provide their name, start and end dates of the leave, reason for the leave, and expected return date. The manager must also confirm their approval of the leave. The form should not be used for other types of leaves.
-</thinking>
-
 # Law Firm Associate Paternity Leave Of Absence Form - Help Guide
 
 ## Purpose

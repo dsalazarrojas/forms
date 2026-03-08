@@ -1,7 +1,3 @@
-<thinking>
-The Parking Validation Form is used to validate parking transactions. This form is used to report and validate parking tickets issued by Parking Enforcement officers. The form is used to gather information about the parking ticket, including the ticket number, vehicle details, parking location, and validation status. This form should only be used for parking validation purposes and not for reporting other types of incidents. 
-</thinking>
-
 # Parking Validation Form - Help Guide
 ## Purpose
 This form is used to report and validate parking transactions, including ticket numbers, vehicle details, parking locations, and validation status.

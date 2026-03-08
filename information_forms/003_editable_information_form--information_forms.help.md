@@ -1,13 +1,3 @@
-<thinking>
-  To create this help guide, I will follow these steps:
-  1. Understand the form purpose and context
-  2. Identify each field in the form and provide a clear explanation for each
-  3. Use Markdown structure as per the required format
-  4. Explain each field in a concise and practical manner
-  5. Be mindful of the form's originality and the CC BY 4.0 license
-
-</thinking>
-
 # Editable Information Form - Help Guide
 ## Purpose
 This form is designed to collect information from users, allowing them to provide details about their contacts and emergency procedures. The form is editable, enabling users to enter their personal data and preferences as needed.

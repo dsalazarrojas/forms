@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information about the emergency contact for the client, including their relationship with the client, their contact information, and their agreement to be contacted in case of an emergency. This form is part of the informed consent process, which is a critical component of the client's intake process. It is intended to be filled out by the client themselves, and is not meant to be completed by the healthcare provider. This form is not meant to be used for other purposes, such as insurance claims or payment processing.
-</thinking>
-
 # yoga_waiver_form - Help Guide
 ## Purpose
 This form is used to gather emergency contact information from clients and obtain their consent to be contacted in case of an emergency.

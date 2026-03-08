@@ -1,7 +1,3 @@
-<thinking>
-The form is used for peer review of a submission, where a reviewer provides feedback on the quality and status of the submitted work. This form helps to ensure that reviews are thorough and comprehensive, covering aspects such as rating, comments, and submission details. It's essential to fill out this form only once for each submission, avoiding duplication of reviews.
-</thinking>
-
 # Peer Review Form - Help Guide
 ## Purpose
 

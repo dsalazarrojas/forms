@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hypnotherapy Client Information Form - Help Guide
 ## Purpose
 The Hypnotherapy Client Information Form is a tool used to collect essential information from clients about their hypnotherapy session. This form is designed to be completed by the client to provide accurate and relevant details about themselves, which will help the hypnotherapy practitioner tailor their session to meet the client's specific needs.

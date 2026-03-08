@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect human resource data, specifically employee information, for accounting purposes. This includes collecting data on employee ID, name, department, job title, reporting manager, job function, employment type, job category, job level, employment start and end dates, department ID, job title code, manager name, employment status, department name, job level code, employment start date, prophet, and employment category. This data will be used to track and analyze employee information, ensuring accuracy and consistency in HR accounting processes. Before proceeding, please ensure that the form is completed for each employee, and that the data collected is up-to-date and accurate to avoid duplication.
-
-</thinking>
-
 # Human Resources Accounting Survey - Help Guide
 
 ## Purpose

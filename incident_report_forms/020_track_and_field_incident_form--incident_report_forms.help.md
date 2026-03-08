@@ -1,11 +1,3 @@
-<thinking>
-The form is designed to collect information on incidents that have occurred in a Track and Field event, such as an athlete being injured during a competition or a coach reporting an incident that happened during an event. The form is used to gather details on the incident, including the location, time, type, and outcome of the incident. It is meant to be completed by athletes, coaches, or officials to provide a clear account of what happened during the event.
-The form is not intended to be a comprehensive survey on every possible incident, but rather a brief and concise tool to collect essential information for incident reporting and management. This form is designed to be used in conjunction with other incident reporting tools and processes within the organization.
-
-Please note that this form is not intended to duplicate or replace any existing reporting processes or procedures. Instead, it is meant to be a supplement to help ensure that incidents are documented and reported in a standardized and efficient manner.
-
-It's essential to follow the form's guidelines and ensure that all necessary fields are completed accurately and thoroughly. Incomplete or inaccurate forms may lead to delays or confusion in the incident reporting and management process.</thinking>
-
 # Track And Field Incident Form - Help Guide
 
 ## Purpose

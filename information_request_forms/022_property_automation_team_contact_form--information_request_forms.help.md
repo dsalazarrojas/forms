@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to contact the Property Automation Team. It's likely that this form will be used by users who need assistance with a property-related issue or have feedback/complaints about the property. To avoid unnecessary duplication of efforts, please only fill out this form if you have not already contacted us about the same issue. The form will ask for contact information, issue details, and context about the property in question. It's essential to provide accurate and complete information to ensure the team can assist you efficiently.
-</thinking>
-
 # Property Automation Team Contact Form - Help Guide
 ## Purpose
 This form is designed for users to contact the Property Automation Team for assistance, feedback, or complaints related to a property. Please use this form to report any issues or inquiries you have about a property.

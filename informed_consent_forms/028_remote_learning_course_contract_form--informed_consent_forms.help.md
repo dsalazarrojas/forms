@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect user information for Remote Learning Course contracts. It's a critical component in the onboarding process for users participating in our course programs. Before filling out this form, please ensure you're not duplicating an existing contract. If you're unsure, reach out to us for guidance. This form's purpose is to ensure all necessary details are captured correctly, reducing the likelihood of discrepancies or lost contracts.
-</thinking>
-
 # remote_learning_course_contract_form - Help Guide
 ## Purpose
 This form is used to collect essential user information for Remote Learning Course contracts. It ensures all necessary details are captured correctly, reducing the likelihood of discrepancies or lost contracts.

@@ -1,18 +1,3 @@
-<thinking>
-The Utility Assistance Application Form is designed to gather information from applicants seeking utility assistance. This form is intended for internal use within the organization, and its completion is not a public-facing activity. The purpose of this form is to collect relevant details about the applicant's needs and circumstances, which will help the organization's staff provide the necessary support and guidance. 
-
-This form should not be used for external or public-facing purposes, as it contains sensitive information about applicants. It's essential to ensure that only authorized personnel have access to this form and its content. 
-
-To confirm the form's relevance, please consider the following questions:
-
-- Is the applicant seeking utility assistance for a specific purpose (e.g., emergency assistance or ongoing support)?
-- Are you collecting this information for internal use only?
-- Does the form's content align with your organization's policies and procedures?
-
-If you answered "yes" to these questions, this form is likely relevant to your needs. However, if you're unsure or suspect duplication, please review the form's contents carefully and adjust the fields or the form's overall purpose as needed. 
-
-</thinking>
-
 # Utility Assistance Application Form - Help Guide
 ## Purpose
 The Utility Assistance Application Form is designed to collect information from applicants seeking utility assistance. This form is intended to gather essential details about the applicant's needs and circumstances to provide support and guidance.

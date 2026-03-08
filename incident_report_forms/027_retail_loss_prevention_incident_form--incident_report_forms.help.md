@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Retail Loss Prevention Incident Form - Help Guide
 
 ## Purpose

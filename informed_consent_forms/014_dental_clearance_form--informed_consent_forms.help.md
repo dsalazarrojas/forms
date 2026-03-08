@@ -1,10 +1,3 @@
-<thinking>
-This form is meant to collect information from dental clinics to obtain clearance or approval from patients for procedures or treatments. It's likely used in a healthcare setting to verify that patients understand and agree to the necessary steps or interventions. The form is likely used in conjunction with other forms or checklists to ensure patients have the necessary clearance or consent before undergoing treatment. To ensure this form meets your needs, consider verifying the following:
-* Is this form part of your clinic's or institution's standard procedures and policies? 
-* Does this form align with your organization's patient consent and clearance protocols?
-* Are there any specific requirements or regulations that need to be met?
-</thinking>
-
 # Dental Clearance Form - Help Guide
 ## Purpose
 The Dental Clearance Form is designed to obtain clearance or approval from patients for procedures or treatments in a dental clinic setting. The form helps to ensure that patients understand and agree to the necessary steps or interventions before undergoing treatment.

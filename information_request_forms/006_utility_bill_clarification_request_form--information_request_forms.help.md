@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Utility Bill Clarification Request Form - Help Guide
 
 ## Purpose

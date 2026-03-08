@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used by HR representatives to collect information about one-on-one interviews that take place between employees and their managers or supervisors. The form's purpose is to provide a structured way to document the details of these interactions, including the category and description of the meeting, and the assigned tool or document used during the meeting. This form might be used to track, monitor, or evaluate the effectiveness of one-on-one meetings. The form is not intended for collecting sensitive or sensitive data, such as financial or personal information. Before filling out this form, ensure that the category of the meeting is accurate and the assigned tool is relevant to the discussion.
-</thinking>
-
 # One On One Interview Form - Help Guide
 ## Purpose
 This form is used to collect details about one-on-one interviews between employees and their managers or supervisors.

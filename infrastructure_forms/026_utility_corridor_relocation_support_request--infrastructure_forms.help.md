@@ -1,14 +1,3 @@
-<thinking>
-
-This form is designed to support the process of relocating utility corridors, which involves coordinating with various stakeholders to reposition utility infrastructure for projects such as construction or infrastructure development. This form is intended for project managers, contractors, or other stakeholders to provide information about the project and its utility relocation needs. 
-
-Before filling out this form, please note that:
-
-* This form is meant to be filled out once per project.
-* If you have already submitted a request for the same project, please do not resubmit. Instead, contact the project team to inquire about the status of your previous request.
-
-</thinking>
-
 # Utility Corridor Relocation Support Request - Help Guide
 
 ## Purpose

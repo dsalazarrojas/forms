@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form's purpose is clearly understood by the users, and that they're not duplicating their answers. For instance, we should avoid having users select all values and then rate them all as "5" (highest rating) without any variation. If a user selects a specific value, they should be able to rate the corresponding field accordingly.
-</thinking>
-
 # Organizational Culture Survey - Help Guide
 ## Purpose
 This guide will walk you through the Organizational Culture Survey form, helping you understand its purpose and how to complete it. The purpose of this survey is to gather your opinions and perceptions about our organization's culture and values. Your feedback will help us better understand what we do well and where we can improve.

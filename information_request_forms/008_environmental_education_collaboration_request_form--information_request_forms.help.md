@@ -1,8 +1,4 @@
-### <thinking>
-This form is intended to capture collaboration requests between schools and other organizations for environmental education initiatives. When filling out this form, please ensure that the information you provide is accurate and relevant to the collaboration request. To avoid duplication of efforts, please check with the internal team before submitting this form.
-</thinking>
-
-# Environmental Education Collaboration Request Form - Help Guide
+### # Environmental Education Collaboration Request Form - Help Guide
 ## Purpose
 This form is designed to facilitate collaboration requests between schools and other organizations for environmental education initiatives. It collects information on the school's name, contact details, collaboration start and end dates, frequency, and status. This information will help us to better understand the collaboration requests and respond accordingly.
 

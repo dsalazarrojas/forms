@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and functionality of the Employee Performance Report Form. This form is designed to collect employee performance data for evaluation and improvement purposes. It gathers information on employee name, job title, performance rating, feedback date, review start and end dates, employee rating, performance comments, action items, performance issues, evaluation date, performance frequency, evaluation period, and next evaluation date. 
-Please note that this form is a generic creation and might need adaptation based on your company's specific needs and requirements.
-</thinking>
-
 # Employee Performance Report Form - Help Guide
 
 ## Purpose

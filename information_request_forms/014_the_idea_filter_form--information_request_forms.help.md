@@ -1,8 +1,3 @@
-<thinking>
-This guide is for the "The Idea Filter Form" used to filter ideas and requests based on various criteria. This form is intended for filtering purposes only, and not for submitting or creating new ideas. It's crucial to ensure the form is used correctly to avoid duplication of effort and unnecessary processing. Before proceeding, please review the form fields and their corresponding options to guarantee accurate and relevant filtering results.
-
-</thinking>
-
 # The Idea Filter Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Urban Land Management Application - Help Guide
 ## Purpose
 This form is designed to help landowners and municipal officials manage urban land applications, including submissions, uploaded files, organized data, landowner details, municipal details, and review status. It is crucial to accurately and thoroughly fill out this form to ensure efficient processing and decision-making.

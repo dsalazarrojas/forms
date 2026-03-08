@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-friendly help guide for the Task Progress Report Form, explaining its purpose, how to complete it, and what each field means. This guide will be concise, concrete, and practical, making it easy for end-users to navigate the form and provide accurate data.</thinking>
-
 # Task Progress Report Form - Help Guide
 ## Purpose
 The Task Progress Report Form is designed to gather information about the progress of tasks assigned to team members. This form helps project managers and team leaders track and monitor task progress, identify potential roadblocks, and make informed decisions to ensure project completion on time and within budget.

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for the onboarding process of new managers within the organization. It captures essential information about the new manager, including their name, role, reporting manager's name and email, team members they will be working with, onboarding date, start and end dates of their tenure, and any additional notes or descriptions. This form aims to standardize the onboarding process and ensure that all new managers have a seamless transition into their new role. To avoid duplication, please fill out this form only once for each new manager onboarding.
-
-</thinking>
-
 # Manager Onboarding Form - Help Guide
 ## Purpose
 This form is used to capture information for the onboarding process of new managers within the organization.

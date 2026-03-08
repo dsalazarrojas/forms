@@ -1,12 +1,3 @@
-<thinking>
-The form purpose is to provide a template for correcting time clock entries for employees. This form allows employees to correct their time clock entries for any discrepancies, and includes a field for the employee to sign and date the form after it is reviewed and approved by their manager. 
-
-This form will be used in conjunction with a time clock system to ensure accurate record-keeping. The form will help to identify and correct errors or discrepancies in employee time entries, and prevent errors or discrepancies from affecting employee pay or benefits. 
-
-The form will be used by employees to correct their own time clock entries, and by their managers to review and approve corrections. This form will help to streamline the process of correcting time clock entries, and ensure that all corrections are properly documented and approved.
-
-</thinking>
-
 # Time Clock Correction Form Template - Help Guide
 ## Purpose
 

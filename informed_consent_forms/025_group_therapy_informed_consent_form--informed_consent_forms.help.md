@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to obtain informed consent from participants in a group therapy setting. The form's purpose is to ensure that participants understand the goals, objectives, and expectations of the group therapy session, as well as their own rights and responsibilities.
-The form will be used to collect information from each participant, including their understanding of the group therapy's goals, start and end dates, confidentiality agreements, and contact information for the therapist.
-Before proceeding with this guide, please note that the form's structure and content may vary based on the specific group therapy setting and the requirements of the organization or institution administering the therapy sessions.
-</thinking>
-
 # Group Therapy Informed Consent Form - Help Guide
 
 ## Purpose

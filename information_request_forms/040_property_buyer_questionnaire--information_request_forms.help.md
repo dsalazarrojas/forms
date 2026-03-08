@@ -1,10 +1,3 @@
-<thinking>
-The Property_Buyer_Questionnaire form is designed to collect information about a property listing. This form is intended to provide the property owner, manager, and agent with necessary details about the property. It is crucial that the information provided is accurate and complete to ensure the property's visibility and management. 
-
-This form must be completed by the property owner. Before filling out this form, ensure that you have all necessary information about the property, including its address, price, and status. The form is not a replacement for any existing property listing documents. If you have a pre-existing property listing, please do not fill out this form.
-
-It is also important to note that the information in this form will not affect any existing agreements or contracts. This form is purely for informational and management purposes.</thinking>
-
 # Property_Buyer_Questionnaire - Help Guide
 ## Purpose
 The Property_Buyer_Questionnaire is a form designed to collect property information, helping property owners, managers, and agents to understand and manage properties more effectively.

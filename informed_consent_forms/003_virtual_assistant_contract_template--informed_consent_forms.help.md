@@ -1,5 +1,3 @@
-<thinking>As I review the provided YAML, I notice that this form is for creating a Virtual Assistant Contract Template, which implies it's for agreements between a virtual assistant and their clients. The form likely has fields to collect customer information, contract terms, payment details, and a signature from the customer. I also see that "contract_term" and "payment_terms" fields are not mandatory, which might be because these details might be included in a separate document or not required for the form's primary purpose. The form seems to be focused on collecting essential customer information and their agreement to the terms. I will make sure to clarify any unclear fields and provide concrete explanations for the end-users.</thinking>
-
 # Virtual Assistant Contract Template - Help Guide
 ## Purpose
 This form is designed to collect essential information from clients for the creation of a Virtual Assistant Contract Template. It helps establish a clear agreement between the virtual assistant and their client, ensuring both parties understand the terms and conditions of their collaboration.

@@ -1,10 +1,3 @@
-<thinking>
-The purpose of the Referral Cash Form is to gather information from customers about their referrals. This form helps identify potential customers who can be offered a reward or incentive for bringing in new business. The form fields are designed to be filled out by the customer or the person making the referral, and the information gathered will be used for internal purposes.
-
-The form is intended to be filled out by one person (the referrer) who will be offering a reward to another person (the customer being referred). The referrer will enter information about the customer they are referring, including the customer's name, phone number, and email. The form also asks about sending an email to the customer and if it was sent or not.
-
-</thinking>
-
 # Referral Cash Form - Help Guide
 ## Purpose
 The Referral Cash Form is designed to be filled out by customers or users to refer new customers to your business. This form helps identify potential new customers and offers a reward to the referrer.

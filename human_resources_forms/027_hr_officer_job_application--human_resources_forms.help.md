@@ -1,11 +1,3 @@
-<thinking>
-The HR Officer Job Application form is used by candidates to apply for an HR Officer position at our organization. This form ensures that candidates provide essential information about themselves, their skills, and their qualifications to help us assess their eligibility for the role.
-When filling out this form, please ensure that all required fields are completed accurately and honestly. This helps us to efficiently process your application and get back to you with a decision.
-The form is divided into several sections, each covering a specific aspect of your application.
-To avoid any confusion, please make sure to read all the fields carefully before filling out the form.
-This form is not intended to be used for any purpose other than applying for an HR Officer position at our organization.
-</thinking>
-
 # HR Officer Job Application - Help Guide
 ## Purpose
 The HR Officer Job Application form is a tool for candidates to provide their details and qualifications for consideration for an HR Officer position.

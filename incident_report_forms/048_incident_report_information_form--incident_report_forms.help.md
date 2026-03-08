@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect detailed information about an incident, including date, location, time, description, reporter's information, and status updates. It's intended for use in internal incident management and reporting processes. This guide will help users understand the purpose and usage of the form.
-The form is divided into several sections to streamline the information collection process.
-To complete this form, follow these steps:
-1. Fill out the required fields (denoted by a red asterisk *) with the necessary information.
-2. Select relevant options from drop-down menus where applicable.
-3. Ensure that the information provided is accurate and up-to-date.
-</thinking>
-
 # Incident Report Information Form - Help Guide
 ## Purpose
 The Incident Report Information Form is a comprehensive form designed to collect and record detailed information about incidents that have occurred. The form helps in maintaining accurate and organized records, facilitates incident management, and enables swift decision-making.

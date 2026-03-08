@@ -1,9 +1,3 @@
-<thinking>
-**Internal Reasoning Block:**
-
-This form is intended to collect information about accident insurance benefits for employees. The purpose of this form is to provide a clear and concise overview of the benefits available to employees, including coverage details such as coverage type, coverage amount, premium amount, and more. This form is designed to be completed by employees or HR personnel to ensure that all necessary information is documented and easily accessible for reference. It is essential to complete this form accurately and thoroughly to ensure that employees receive the correct benefits in the event of an accident. 
-</thinking>
-
 # Accident Insurance Benefits Overview - Help Guide
 ## Purpose
 The accident insurance benefits form is designed to provide a comprehensive overview of the accident insurance benefits available to employees. This form helps ensure that all necessary information is documented and easily accessible for reference.

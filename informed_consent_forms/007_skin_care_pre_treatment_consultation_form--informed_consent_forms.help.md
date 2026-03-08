@@ -1,7 +1,3 @@
-<thinking>
-This form is for the Skin Care Pre Treatment Consultation Form, intended for patients who are about to undergo skin care procedures. It appears to be a general consultation form, gathering information on the patient's personal details, medical conditions, and medical history. This form is likely to be used by healthcare professionals or clinics to understand the patient's needs and provide appropriate pre-treatment care. There is no obvious indication that this form is a duplicate or redundant.
-</thinking>
-
 # Skin Care Pre Treatment Consultation Form - Help Guide
 ## Purpose
 The Skin Care Pre Treatment Consultation Form is a questionnaire designed to gather information from patients before undergoing skin care treatments. This form helps healthcare professionals understand the patient's medical history, allergies, and other relevant information to provide personalized care and ensure a safe and successful treatment experience.

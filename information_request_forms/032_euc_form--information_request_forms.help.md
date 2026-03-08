@@ -1,9 +1,3 @@
-<thinking>
-This form is meant to collect information from the user, but it may not be the correct form to use in every instance. Please ensure that you have the correct form before filling it out.
-The form is used to collect contact information from a person or organization. It may be used for various purposes such as sending information to the user or for internal use.
-Before filling out this form, please confirm that it is the correct one by checking the available options. If you are unsure, contact the relevant department to confirm the form's purpose.
-</thinking>
-
 # EUC Form - Help Guide
 ## Purpose
 This form is used to collect contact information from a person or organization.

@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information from clients about their medical history, including their allergies, medications, medical conditions, and family history. This form will help medical professionals understand the client's health status and provide better care. 
-
-This form is intended for use in a medical setting, such as a dermatology clinic or spa. 
-
-Please note that the form is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation created using AI.
-
-Form fields and their corresponding explanations will be provided in a clear and concise manner to ensure proper completion and accurate data collection.
-</thinking>
-
 # Microdermabrasion Medical History Form - Help Guide
 ## Purpose
 The Microdermabrasion Medical History Form is designed to collect relevant information about a client's medical history. This includes their allergies, current medications, medical conditions, and family history. This information will help medical professionals provide better care and treatment.

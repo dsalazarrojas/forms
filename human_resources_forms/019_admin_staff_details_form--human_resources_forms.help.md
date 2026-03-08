@@ -1,11 +1,3 @@
-<thinking>
-
-To create an effective user-facing help guide for the "Admin Staff Details Form", we first need to understand the form's purpose and ensure it is not being used for other purposes that might be misaligned with the intended use.
-
-The form is designed to gather detailed information about an admin staff member, including their personal details, job role, and contact information. This information will likely be used for HR-related purposes, such as staff management, performance evaluations, and reporting. To prevent duplication or misuse, we should ensure that users are only filling out this form for admin staff members, and not for other staff or purposes outside of staff management.
-
-</thinking>
-
 # Admin Staff Details Form - Help Guide
 ## Purpose
 The Admin Staff Details Form is designed to collect and store detailed information about admin staff members, which will be used for HR-related purposes such as staff management, performance evaluations, and reporting.

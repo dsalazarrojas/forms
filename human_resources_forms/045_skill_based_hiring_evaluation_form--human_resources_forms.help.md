@@ -1,10 +1,4 @@
-<figure><thinking>
-
-This form is designed to help managers and evaluators assess a candidate's skills and performance in a more objective and systematic way. The purpose of this form is to gather information about a candidate's skills, experience, and performance in a particular job title, and to evaluate their overall fit for a position. This form is not intended to replace face-to-face interviews or other evaluation methods, but rather to supplement them. It is recommended to use this form in conjunction with other evaluation methods to gain a more comprehensive understanding of a candidate's capabilities.
-
-</thinking>
-
-# Skill Based Hiring Evaluation Form - Help Guide
+<figure># Skill Based Hiring Evaluation Form - Help Guide
 ## Purpose
 The Skill Based Hiring Evaluation Form is designed to help managers and evaluators assess a candidate's skills and performance in a systematic way.
 

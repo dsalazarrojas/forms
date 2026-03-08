@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about foreign contacts, including their name, company, address, email, phone number, and other relevant details. The form is used to track foreign contacts and their interactions with the organization. To ensure accurate and efficient processing, please complete the form carefully. Note that this form may be used multiple times by different users, so please review your answers before submitting to avoid duplication of information.
-</thinking>
-
 # Foreign Contact Disclosure Form - Help Guide
 ## Purpose
 This form is used to collect information about foreign contacts, including their name, company, address, email, phone number, and other relevant details.

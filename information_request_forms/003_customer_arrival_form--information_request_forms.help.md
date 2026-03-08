@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Customer Arrival Form - Help Guide
 
 ## Purpose

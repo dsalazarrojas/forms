@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to obtain informed consent from clients before they receive Reiki treatment. It's essential that clients understand what they're signing up for and have the opportunity to provide necessary medical history and contact information. This form is designed to be user-friendly and easy to fill out. Before proceeding, please make sure you've reviewed our Reiki treatment information and that you're comfortable with the form's purpose and content.
-
-</thinking>
-
 # Reiki Consent Form - Help Guide
 ## Purpose
 This form is used to obtain informed consent from clients before they receive Reiki treatment. Please read through the form carefully and fill it out completely to ensure you're aware of what to expect from our services.

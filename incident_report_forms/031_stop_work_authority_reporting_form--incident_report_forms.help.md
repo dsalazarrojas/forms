@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for end-users who need to complete the Stop Work Authority Reporting Form. It's meant to provide a clear understanding of the form's purpose, the steps to complete it, and what each field means. 
-</thinking>
-
 # Stop Work Authority Reporting Form - Help Guide
 ## Purpose
 The Stop Work Authority Reporting Form is used to document and report on incidents that have occurred on a project. This form is used to gather information about the incident, such as the date and time it occurred, details about what happened, and the current status of whether work has stopped or will stop due to the incident.

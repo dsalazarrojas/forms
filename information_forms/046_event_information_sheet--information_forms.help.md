@@ -1,13 +1,3 @@
-<thinking>This form is designed to collect information about events, likely for internal or external use. To ensure that this form is used correctly, please follow the guidelines below.
-
-The form is intended for collecting details about an event. If you are an event organizer, you will likely be the one filling out this form, but if you are an event participant, you might be providing information for an event you are attending. The form is divided into various sections, and each section collects specific types of information.
-
-Before you start filling out the form, ensure that you have all the necessary information about the event you want to create or participate in. This will help you complete the form accurately and efficiently.
-
-To fill out the form, follow the instructions below.
-
-</thinking>
-
 # Event Information Sheet - Help Guide
 ## Purpose
 This form is used to collect event information for internal or external use.

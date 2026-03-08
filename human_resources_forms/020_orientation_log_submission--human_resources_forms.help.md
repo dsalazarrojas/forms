@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about an orientation process, specifically for HR purposes. It's intended for participants to log their orientation details, including their personal details, orientation type, feedback, and other relevant information. This form is likely used within an organization to track and document participant engagement and experiences.
-</thinking>
-
 # Orientation Log Submission - Help Guide
 ## Purpose
 This form is designed to record participant details, orientation sessions, and feedback for HR tracking and record-keeping purposes.

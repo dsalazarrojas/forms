@@ -1,8 +1,3 @@
-<thinking>
-This form is used to gather information about employee engagement and participation within the organization. It is meant to be completed by employees and is used to track engagement levels across various departments. 
-Before filling out this form, please ensure that you are not duplicating any previous entries. If you are unsure about any questions or concerns, please reach out to your supervisor or HR representative for clarification.
-</thinking>
-
 # Industrial Engagement Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information about your engagement and participation within the organization. This information will help us understand your level of involvement in work-related activities and identify areas for improvement.

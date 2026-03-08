@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a specific incident reported by a crowdstrike system. It is meant to be filled out by the incident reporter or the affected user. The purpose of this form is to document the incident, its location, status, and resolution. The form is divided into different sections, each focusing on a specific aspect of the incident. The fields are designed to be filled out in a specific order to ensure completeness and accuracy.
-</thinking>
-
 # crowdstrike_issue_form - Help Guide
 ## Purpose
 This form is used to document and report incidents that have occurred within the crowdstrike system. It helps to collect information about the incident, including its type, location, status, and resolution.

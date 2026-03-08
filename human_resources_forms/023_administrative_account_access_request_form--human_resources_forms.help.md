@@ -1,10 +1,3 @@
-<thinking>
-To avoid duplication, let's make sure that this form is only used for requesting administrative access and not for other types of access or requests.
-
-This form is designed to be filled out by an employee who needs to request administrative access to certain systems within the organization. The form helps the employee provide all the necessary information for the request, including their name, department, position, supervisor's name and email, the systems they need access to, and the justification for the request. It also includes fields for the duration of access, start and end dates, security training completion, compliance acknowledgement, data handling training, previous administrative access, and additional comments. The form is then reviewed and approved by the employee's supervisor and the IT department before being processed.
-
-</thinking>
-
 # Administrative Account Access Request Form - Help Guide
 ## Purpose
 This form is used to request administrative access to various systems within the organization.

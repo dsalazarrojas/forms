@@ -1,9 +1,3 @@
-<thinking>
-
-The form is for reporting incidents that occurred in a theater setting, and the goal is to collect information about the incident, including the type of report, date and time it occurred, location, and details about the incident. The form will be used by theater staff to document and review incidents, and the information collected will help to identify trends and patterns in incidents. The form is not intended for general public use, and access will be restricted to authorized personnel.
-
-</thinking>
-
 # Theater Incident Form - Help Guide
 ## Purpose
 The Theater Incident Form is used to report and document incidents that occurred in a theater setting, helping to identify trends and patterns in incidents.

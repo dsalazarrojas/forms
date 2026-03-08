@@ -1,12 +1,3 @@
-<thinking>
-This form appears to be designed for individuals to inquire about tattooing services, such as inquiring about a potential tattoo appointment, providing contact information, or requesting next steps in the process. The form likely captures information for the studio to better understand the client's needs and preferences. 
-Given the fields included, it seems that the form could be used for various purposes, such as:
-* Capturing client's personal details (e.g., first name, last name, email, phone number)
-* Understanding client's tattoo preferences (e.g., style, size, theme)
-* Gathering relevant medical information (e.g., allergies, medications, medical conditions)
-* Planning future interactions (e.g., appointment, next steps, follow-up)
-</thinking>
-
 # Tattoo Inquiry Form - Help Guide
 ## Purpose
 The Tattoo Inquiry Form is designed for individuals to gather information about potential tattoo services, allowing the studio to understand their needs and preferences better. This guide will help you complete the form efficiently.

@@ -1,7 +1,3 @@
-<thinking>
-Please note that the form is used for requesting cross-border payroll support. This form will help users submit requests for assistance related to cross-border payroll processing. Before filling out this form, please ensure that you have not already submitted a request for the same issue. Duplicate requests will be rejected, and your feedback will be sent to the payroll support team without any action taken.
-</thinking>
-
 # Cross Border Payroll Support Request Form - Help Guide
 ## Purpose
 This form is designed to help you request support for cross-border payroll processing issues. Please use this form to submit your requests and a member of our payroll support team will be notified and will assist you in resolving the issue.

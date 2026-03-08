@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from employees who wish to join the Employee Benefits Reform Committee. The committee is tasked with reviewing and proposing changes to the company's employee benefits package. This form is used to gather contact details, work experience, acknowledgment of the committee's purpose, and any additional notes or comments that an employee may have. It is likely that employees with more experience may be viewed as more desirable for the committee due to their breadth of knowledge and understanding. Therefore, the form does not check for non-duplication or relevance of applicants.
-</thinking>
-
 # Employee Benefits Reform Committee Application - Help Guide
 ## Purpose
 

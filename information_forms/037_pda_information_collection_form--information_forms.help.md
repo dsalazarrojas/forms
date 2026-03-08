@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users for a specific purpose. To ensure the form is completed accurately and efficiently, please follow the guidance below. This form is not intended to be used for multiple purposes, and it is recommended to fill it out only once for the specific reason specified.
-</thinking>
-
 # Pda Information Collection Form - Help Guide
 ## Purpose
 The Pda Information Collection Form is designed to collect user information for a specific purpose. This form is used to gather data from users to support the purpose mentioned above. Please fill out the form accurately and honestly to ensure the collected information is reliable.

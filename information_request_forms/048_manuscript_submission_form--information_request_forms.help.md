@@ -1,8 +1,4 @@
-> <thinking>...
-This form is designed to collect submissions for manuscripts, such as book proposals or other written materials. The form is intended for authors and researchers who want to submit their work for review and potential publication. Before filling out this form, please ensure you are not already in the review process for this manuscript, as duplicate submissions may cause delays in the evaluation process.
-</thinking>
-
-# Manuscript Submission Form - Help Guide
+> # Manuscript Submission Form - Help Guide
 ## Purpose
 The Manuscript Submission Form is designed to collect submissions for manuscripts, such as book proposals or other written materials, from authors and researchers. This form allows you to easily and efficiently submit your work for review and potential publication.
 

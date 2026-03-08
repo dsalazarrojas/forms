@@ -1,8 +1,3 @@
-<thinking>
-This is a help guide for the Employee Empowerment Evaluation Survey, a form designed to collect feedback and opinions from employees on their job satisfaction, communication, and overall experience. This form is intended to help identify areas of improvement and increase employee engagement within the company. The survey is a crucial tool for HR teams to gather insights and make informed decisions to promote a more positive work environment. Before proceeding, ensure that you have the necessary authority to complete this form.
-
-</thinking>
-
 # Employee Empowerment Evaluation Survey - Help Guide
 ## Purpose
 

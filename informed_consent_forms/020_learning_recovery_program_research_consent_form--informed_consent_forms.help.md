@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for parents/guardians to provide informed consent for a child's participation in the Learning Recovery Program. The form collects personal and demographic information from the parent/guardian, as well as their relationship to the child and any medical history or conditions that may be relevant to the program.
-
-Before proceeding, please ensure that you have the necessary permissions and approvals to collect this information. This form should only be completed by authorized personnel and in accordance with applicable laws and regulations.
-
-</thinking>
-
 # Learning Recovery Program Research Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to obtain informed consent from parents/guardians for a child's participation in the Learning Recovery Program. This form is used to collect relevant personal and demographic information from parents/guardians.

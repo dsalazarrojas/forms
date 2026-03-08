@@ -1,7 +1,3 @@
-<thinking> 
-This help guide aims to provide a clear and concise explanation for the "Football Match Incident Report Form". The purpose of this form is to document incidents that occur during football matches, gathering essential information for review, investigation, and follow-up actions. This form should only be used for incidents that have not been previously documented. If an incident has already been reported, please do not use this form to re-report the same incident.
-
-</thinking>
 # Football Match Incident Report Form - Help Guide
 ## Purpose
 The Football Match Incident Report Form is used to document incidents that occur during football matches, such as injuries, red cards, or other notable events. This form helps to gather accurate information for review, investigation, and follow-up actions.

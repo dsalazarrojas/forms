@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to support users in understanding the purpose and usage of the "Narrator Selection Form". This form is used to collect information from users, and the form's purpose is to gather data for a specific use case, likely for a project or initiative. It's crucial to ensure that users understand that this form is not a duplicate or redundant form. Users should only fill out this form if they are intended to provide genuine input or feedback. If a user is unsure whether they should fill out this form or not, they should contact the responsible personnel for guidance.
-</thinking>
-
 # Narrator Selection Form - Help Guide
 ## Purpose
 The "Narrator Selection Form" is designed to collect information from users, and it's essential to fill it out to provide accurate and complete input or feedback for a specific use case.

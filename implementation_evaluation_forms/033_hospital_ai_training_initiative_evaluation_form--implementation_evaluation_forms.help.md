@@ -1,14 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Hospital AI Training Initiative Evaluation Form", we first need to understand the form's purpose and the context in which it is being used. This form is likely used to collect feedback and evaluations from users regarding their experience with AI models in a hospital setting, which could be used to improve the performance and functionality of these models in the future.
-
-The form appears to be designed for evaluating AI models in a hospital setting, focusing on overall experience, primary goals and objectives, model performance, and other aspects of the AI system. 
-
-Given the provided YAML fields, we can see that this form is likely used for both quantitative and qualitative evaluations. For instance, fields like "Primary Goals and Objectives" and "Overall Success" suggest a more subjective evaluation, while "AI Model Performance" and "Interaction Frequency" imply a more quantitative approach.
-
-We should also be aware that there seems to be some redundancy in the "Note" fields, which might be unnecessary and could be removed or merged into one field for simplicity and clarity.
-
-</thinking>
-
 # Hospital AI Training Initiative Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback and evaluations from users on their experience with AI models in a hospital setting. It aims to collect both quantitative and qualitative data to improve the performance and functionality of these models in the future.

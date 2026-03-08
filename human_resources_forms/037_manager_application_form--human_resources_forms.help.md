@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals applying for a manager position within an organization. The form aims to gather essential details about the applicant, such as their experience, qualifications, skills, and references. This data will be used to assess the applicant's suitability for the role. 
-
-The form is not intended for use in high-stakes or sensitive scenarios, such as security screenings or medical evaluations. 
-
-Please review the form to ensure it meets your organization's specific needs and standards. 
-
-If you have any questions or concerns, contact us at form@gic.mx.
-</thinking>
-
 # Manager Application Form - Help Guide
 ## Purpose
 The Manager Application Form is designed to collect information from individuals applying for a manager position within an organization.

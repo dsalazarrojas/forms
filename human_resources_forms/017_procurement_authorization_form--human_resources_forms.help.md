@@ -1,7 +1,3 @@
-<thinking>...
-This guide is intended for use by employees and managers who need to complete a procurement authorization form for purchasing items or services within the organization. Before starting the form, please ensure that you have the necessary information and approvals required to complete it. This form serves as a checklist to verify that all necessary steps have been taken before initiating a procurement process. Please note that the form should not be completed for duplicate or unnecessary purchases.
-</thinking>
-
 # Procurement Authorization Form - Help Guide
 
 ## Purpose

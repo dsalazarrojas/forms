@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, I'll review the form fields and their purpose to ensure clarity and consistency in the help guide.</thinking>
-
 # Influencer Partnership Extension Form - Help Guide
 ## Purpose
 This form is used to request an extension of an existing influencer partnership. It is intended for brands and their representatives to provide additional information to support their extension request.

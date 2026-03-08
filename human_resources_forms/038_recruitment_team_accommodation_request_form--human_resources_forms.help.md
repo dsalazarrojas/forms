@@ -1,11 +1,3 @@
-<thinking>
-
-We have a form designed for the Recruitment Team to submit accommodation requests. This form is intended for team members to provide information about their accommodation needs, such as the type of accommodation required, the arrival date, and other relevant details. Before filling out the form, please ensure that you have checked with your team lead or manager to see if this form has already been submitted for your specific request, as duplicate submissions may lead to confusion and unnecessary work.
-
-The form is used to track and manage accommodation requests from team members. It helps in keeping records of the accommodation requests and their current status. It's essential to fill out the form accurately and completely to ensure that your request is processed smoothly.
-
-</thinking>
-
 # Recruitment Team Accommodation Request Form - Help Guide
 ## Purpose
 The Recruitment Team Accommodation Request Form is a tool used to collect information about team members' accommodation needs. It helps in keeping track of these requests and their current status, ensuring that accommodation arrangements are made efficiently.

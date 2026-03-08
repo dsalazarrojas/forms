@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Talent Acquisition Form - Help Guide
 ## Purpose
 The Talent Acquisition Form is a tool used to collect information from job applicants. It helps our team assess their qualifications and fit for available positions. This form is designed to gather essential details that will aid in the hiring process.

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for employees to confirm their understanding and acceptance of the company's Social Media Policy. The form is used to collect the employee's name, email, phone number, and other information for the purpose of communicating company policies and guidelines. This form is not meant to be completed by external users, such as customers or partners, and is primarily used for internal purposes.
-
-</thinking>
-
 # Social Media Policy Acceptance Form - Help Guide
 ## Purpose
 This guide will walk you through the purpose and completion of the Social Media Policy Acceptance Form.

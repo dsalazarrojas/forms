@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to capture information about a property unit. The purpose of this form is to gather details about the property unit, including its address, unit type, and lease terms. This information will be used to track and manage properties in a database.
-This form should only be used for properties that are not already listed in the database. If a property is already listed, please use the "Property Unit Update Form" instead.
-</thinking>
-
 # Property Unit Setup Form - Help Guide
 ## Purpose
 This form is used to create a new property unit in the database. It gathers information about the property's details, address, and lease terms.

@@ -1,6 +1,3 @@
-<thinking>
-We need to determine the purpose of this form and whether it's being used for the first time or not. This form is designed to collect information about online schools, including their name, contact details, social media links, and other relevant information. It seems to be a general setup form for schools, possibly used for administrative or registration purposes. Before proceeding, let's ensure that the form is being used for its intended purpose and not as a duplicate effort. If this form is being used for a second time, we should review the existing data to avoid redundancy.</thinking>
-
 # Online School Setup Form - Help Guide
 ## Purpose
 The Online School Setup Form is designed to collect information about online schools for administrative or registration purposes. This form helps gather essential details such as school name, contact person, email, and social media links to create a comprehensive profile.

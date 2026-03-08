@@ -1,7 +1,3 @@
-<thinking>
-The NISD Phone Reference Questionnaire L is used to collect phone reference information from users. This form is meant to be completed by users who are currently or were previously employed in the organization. It's a general-purpose form, not specific to any particular process or project.
-</thinking>
-
 # NISD Phone Reference Questionnaire L - Help Guide
 ## Purpose
 The NISD Phone Reference Questionnaire L is used to collect phone reference information from users. This form is meant to be completed by users who are currently or were previously employed in the organization.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a virtual assistance project, including client details, task requirements, timelines, uploaded documents, task requirements details, project details, contact details, project lead, project manager, and team members. It is likely that this form will be used for project planning and management purposes. Please ensure that you are filling out this form in the correct context and that you have the necessary permissions to access the information collected through this form.
-</thinking>
-
 # Virtual Assistance Information Form - Help Guide
 ## Purpose
 This form is used to collect information about a virtual assistance project. It is essential to fill out this form accurately and completely to ensure that the project's goals and expectations are clearly understood by all parties involved.

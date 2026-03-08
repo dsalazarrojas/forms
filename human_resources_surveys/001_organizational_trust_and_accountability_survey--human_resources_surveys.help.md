@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to assess the state of an organization's trust and accountability. It's intended for internal use, so we'll check for relevance and avoid duplication before using this form. The survey will help us understand how employees perceive their organization's level of trust and accountability in various areas, such as leadership support, communication, and decision-making processes. Before we proceed, let's ensure you've reviewed the survey questions to provide accurate and meaningful feedback.
 
 # Organizational Trust And Accountability Survey - Help Guide

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Contactless Elevator Operation Consent Form - Help Guide
 
 ## Purpose

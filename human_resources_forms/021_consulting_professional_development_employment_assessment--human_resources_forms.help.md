@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Consulting Professional Development Employment Assessment - Help Guide
 
 ## Purpose

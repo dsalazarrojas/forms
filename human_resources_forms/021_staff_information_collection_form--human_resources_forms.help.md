@@ -1,5 +1,3 @@
-<thinking> This form is designed to collect information about staff members, including their user details, role(s), department, job title, and contact information. It's essential to fill out this form accurately to ensure that the HR system has up-to-date and accurate information about staff members. Before submitting this form, please ensure that you're filling out the correct information for the relevant staff member, as duplication of information can lead to errors and inconsistencies in the system. </thinking>
-
 # Staff Information Collection Form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>Form purpose is to collect contact information and details from visitors to a factory's environmental research department. This form is used for general information requests, and the information collected will be used to direct the inquiry to the appropriate person or department. Ensure that you only use this form for genuine inquiries related to factory environmental research, and not for sales or marketing purposes. Before filling out this form, please make sure that you have not already contacted the department and are not requesting sensitive or confidential information.</thinking>
-
 # factory-environmental-research-contact-form - Help Guide
 
 ## Purpose

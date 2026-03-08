@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about a player in a sports-related context. The form is used to gather personal and demographic details about the player, including their address, phone number, email, name, date of birth, height, weight, and the name of their coach. This information will likely be used by the team management or administration to keep track of team members' contact details and physical characteristics. It is essential to fill in accurate and complete information to ensure that the team has the most up-to-date data about its players.
-
-Before completing this form, please ensure that you have all the necessary information about the player, including their address, phone number, email, name, date of birth, height, weight, and coach's name. If you are unsure about any of these details, please double-check or ask the player for clarification. This will help you to avoid any errors or inconsistencies in the form.
-
-Also, please be aware that this form does not require any additional information that is not explicitly marked as required. If a field is marked as "optional," you can choose to fill it in or leave it blank.
-
-It is recommended to fill in the form with the most accurate and up-to-date information about the player. If you need to update the player's information in the future, you can always come back to this form and make the necessary changes.</thinking>
-
 # Player Information Form - Help Guide
 ## Purpose
 The Player Information Form is designed to collect personal and demographic details about a player in a sports-related context.

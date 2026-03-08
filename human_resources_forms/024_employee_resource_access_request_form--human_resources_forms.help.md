@@ -1,13 +1,3 @@
-<thinking>
-
-The Employee Resource Access Request Form is a tool used to request access to company resources, such as offices, equipment, or other assets. This form is designed to be completed by employees who need to request access to these resources for work purposes. The form will be reviewed and approved by a manager, who will also be able to add additional comments or requests for further information.
-
-This form should only be completed by employees who have the necessary permissions and authority to access company resources. It is meant to be used for legitimate work-related purposes and should not be used to make false or fictitious requests. 
-
-Please ensure that the form is completed accurately and thoroughly, and that all required fields are filled out before submitting the form.
-
-</thinking>
-
 # Employee Resource Access Request Form - Help Guide
 ## Purpose
 The Employee Resource Access Request Form is a tool used to request access to company resources, such as offices, equipment, or other assets, for work purposes.

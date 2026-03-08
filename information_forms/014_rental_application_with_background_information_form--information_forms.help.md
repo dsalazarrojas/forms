@@ -1,7 +1,3 @@
-<thinking>...This form is designed to collect rental application information from a tenant. The form includes fields for personal details, rental preferences, and employment history. It is recommended that you complete this form accurately and honestly, as the information provided will be used to assess your rental eligibility. Please ensure that you have the necessary permissions and approvals before submitting this form. If you need help or have questions, please do not hesitate to ask.
-
-</thinking>
-
 # Rental Application With Background Information Form - Help Guide
 ## Purpose
 This form is used to collect information from a tenant to assess their rental eligibility. Please provide accurate and complete information to ensure a smooth rental process.

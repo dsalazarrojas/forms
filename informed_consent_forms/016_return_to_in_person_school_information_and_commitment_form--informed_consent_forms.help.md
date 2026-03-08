@@ -1,6 +1,3 @@
-<thinking>
-To prevent non-duplication, this form should only be used by users who have been previously informed of their return to school information and commitment. This form is designed to provide an opportunity for parents or guardians to provide additional school information and confirm their agreement and commitment to sending their child to school. Please do not use this form if you have already completed another return to in person school form.
-</thinking>
 # Return To In Person School Information And Commitment Form - Help Guide
 ## Purpose
 This form is used to capture and update student's in-person school information and commitment. It is meant to be completed by parents or guardians to provide additional school details and confirm their child's return to school.

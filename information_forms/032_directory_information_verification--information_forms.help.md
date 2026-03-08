@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Directory Information Verification - Help Guide
 
 ## Purpose

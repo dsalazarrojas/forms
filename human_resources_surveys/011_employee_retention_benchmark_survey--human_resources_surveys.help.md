@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information on employee retention and engagement metrics, which are critical for organizations to understand the health of their workforce and identify areas for improvement. This information can help management and HR teams track employee sentiment, job satisfaction, turnover rates, and main reasons for potential turnover. The form will help you, as an employee, provide valuable insights to inform retention programs and initiatives that promote employee engagement and reduce turnover.
-</thinking>
-
 # Employee Retention Benchmark Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information on employee retention and engagement metrics to help organizations understand the health of their workforce and identify areas for improvement.

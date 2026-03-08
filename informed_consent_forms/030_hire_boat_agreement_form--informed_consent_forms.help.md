@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to be a comprehensive guide for users to understand their responsibilities and obligations when hiring a boat. It includes a series of text fields where users can enter details about the boat's specifications, rental duration, rental start and end dates, rental payment terms, and any other relevant information. The form is divided into several sections, each with its own set of fields, making it easy to navigate and complete. Before proceeding, please ensure that you have all necessary information ready and that you are aware of the implications of signing this agreement.
-
-</thinking>
-
 # Hire Boat Agreement Form - Help Guide
 ## Purpose
 This form is designed to outline the terms and conditions for hiring a boat. It includes details about the boat's specifications, rental duration, rental start and end dates, and payment terms.

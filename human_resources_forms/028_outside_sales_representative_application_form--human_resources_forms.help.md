@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Outside Sales Representative Application Form - Help Guide
 
 ## Purpose

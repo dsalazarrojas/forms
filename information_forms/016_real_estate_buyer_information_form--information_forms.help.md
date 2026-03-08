@@ -1,8 +1,3 @@
-<thinking>
-This form is used to capture information from a real estate buyer. The form collects personal details such as name, contact information, and financial details. The purpose of this form is to help the real estate team gather relevant information from potential buyers to facilitate communication and understand their needs.
-It's essential to review the form fields to ensure that all required fields are filled out correctly. If a field is marked as optional, it can be left blank.
-</thinking>
-
 # Real Estate Buyer Information Form - Help Guide
 ## Purpose
 The Real Estate Buyer Information Form is used to collect personal and financial details from potential real estate buyers. This information helps the real estate team understand the buyer's needs and facilitate communication.

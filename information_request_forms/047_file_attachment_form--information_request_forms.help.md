@@ -1,21 +1,3 @@
-<thinking>
-This form is designed for attaching and submitting multiple files from users, including name information, for review and processing. The form is likely used in scenarios where users need to share documentation, supporting evidence, or credentials.
-
-The form consists of a sequence of text inputs where users can enter file URLs, IDs, or other file attachment details. The form may be used in various settings such as document submission, file sharing, or information exchange.
-
-Before starting, ensure you haven't already submitted this form, as duplicate submissions might cause confusion or delay in processing. If you're unsure, please contact the form administrators for guidance.
-
-This form is designed to be completed by individuals. If you're representing an organization or submitting on behalf of someone else, please ensure you have their consent and necessary permissions.
-
-The form has three fields for entering file details. Please fill them in carefully as they are crucial for processing and review.
-
-Please make sure you have all the necessary information and files before submitting this form to avoid delays or errors.
-
-This form does not require any specific browser plugins or software installations. Ensure you're using a compatible browser and a stable internet connection for smooth processing.
-
-If you're unable to access the form, contact your system administrator for assistance.
-</thinking>
-
 # File Attachment Form - Help Guide
 ## Purpose
 The File Attachment Form is designed for users to submit multiple files and associated name information for review and processing.

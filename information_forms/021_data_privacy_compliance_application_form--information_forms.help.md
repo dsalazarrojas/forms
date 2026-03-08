@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for data privacy compliance, a critical aspect of data handling in organizations. The form aims to collect data about the types of data processed, how it is stored, and the measures taken to secure and report breaches. This form is a crucial part of ensuring that the organization is in compliance with relevant data privacy regulations. Please ensure that you fill out this form accurately and completely to help us assess your data handling practices.
-</thinking>
-
 # Data Privacy Compliance Application Form - Help Guide
 ## Purpose
 This form is used to gather information for data privacy compliance. It is a critical part of ensuring that the organization is handling data properly and in accordance with relevant regulations.

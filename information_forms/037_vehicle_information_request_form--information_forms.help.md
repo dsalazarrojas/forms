@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, let's review the form purpose and ensure it's relevant and not duplicating any other form. This form, "Vehicle Information Request Form", appears to be designed to collect detailed information about a vehicle, likely for sales, rental, or leasing purposes. It's a comprehensive form that gathers both contact and vehicle details. Given the fields, it seems this form is intended for customers or users to provide information about the vehicle they're interested in or already own. This form doesn't appear to have any obvious duplicates within the company's existing forms.</thinking>
-
 # Vehicle Information Request Form - Help Guide
 ## Purpose
 The Vehicle Information Request Form is designed to collect detailed information about a vehicle from the user. This form is used to gather both contact and vehicle details, ensuring that we can efficiently and accurately process the vehicle request.

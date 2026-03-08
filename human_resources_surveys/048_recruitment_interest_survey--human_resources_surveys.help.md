@@ -1,19 +1,3 @@
-<thinking>
-The form purpose is to collect information from candidates who have shown interest in a job opening at an organization, typically for recruitment purposes. This form guides them through a series of questions to provide the most relevant and up-to-date information about their availability, interests, and qualifications. The form's primary function is to facilitate the recruitment process by ensuring the collection of essential data from interested candidates.
-
-To complete this form, follow the steps below:
-
-1.  Enter your First Name, Last Name, and Email address in the designated fields.
-2.  Select up to three interests from the options provided.
-3.  Enter your Job Title and Department.
-4.  Choose a Job Category from the dropdown options.
-5.  Provide a brief description of the job you are interested in.
-6.  Indicate your availability for work hours and select the specific days you are available to work.
-
-Please be sure to fill out the form accurately and thoroughly to ensure that the information is up-to-date and relevant.
-
-</thinking>
-
 # recruitment_interest_survey - Help Guide
 ## Purpose
 This form is designed to help us understand your interests and qualifications for potential job opportunities within our organization. It will guide you through a series of questions to provide us with the most relevant information about your availability and qualifications.

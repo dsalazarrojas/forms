@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # HR Responsiveness Evaluation Survey - Help Guide
 ## Purpose
 The HR Responsiveness Evaluation Survey is designed to measure the performance of the HR department in responding to employees' questions and concerns. This survey aims to gauge the speed, professionalism, and effectiveness of the HR department, as well as gather any additional feedback or comments from employees. The data collected from this survey will help the HR department identify areas of improvement and make necessary adjustments to provide better service.

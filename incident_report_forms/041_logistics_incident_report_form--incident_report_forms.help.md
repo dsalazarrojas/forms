@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Logistics Incident Report Form - Help Guide
 ## Purpose
 The Logistics Incident Report Form is designed to collect information about incidents that occur during the logistics and shipping process. This form helps to gather essential details about shipping issues, warehouse problems, and fleet concerns, which can be used to improve logistics processes and prevent future incidents.

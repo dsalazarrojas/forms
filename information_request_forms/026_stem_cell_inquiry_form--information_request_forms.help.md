@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who are inquiring about stem cell-related services or treatments. The purpose of this form is to gather necessary details from the user, including their contact information, medical condition, and specific stem cell-related inquiries. This form is intended for internal use and will help our team understand your needs and provide accurate and personalized responses.
-
-Before completing this form, please ensure that you are not duplicating an existing inquiry or submitting the same information multiple times. If you have previously submitted an inquiry, you may be contacted separately.
-
-</thinking>
-
 # Stem Cell Inquiry Form - Help Guide
 
 ## Purpose

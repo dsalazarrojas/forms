@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering HR professionals to participate in the HR Professional Collaboration Circle. This is a platform for HR professionals to connect, share knowledge, and collaborate on best practices. The form is designed to collect relevant information about the registrant, including their name, contact information, and professional details. Please take a few minutes to fill out the form accurately to ensure that we can best match you with other participants and tailor the experience to your needs.
-</thinking>
-
 # HR Professional Collaboration Circle Registration Form - Help Guide
 ## Purpose
 The HR Professional Collaboration Circle is a platform for HR professionals to connect, share knowledge, and collaborate on best practices.

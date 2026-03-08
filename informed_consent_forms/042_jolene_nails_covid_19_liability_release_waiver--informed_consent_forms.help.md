@@ -1,9 +1,3 @@
-<thinking>
-  This form is designed to collect informed consent from individuals who have visited or will visit Jolene Nails for COVID-19-related treatments or services. The primary purpose of this form is to ensure that clients understand their rights and responsibilities, as well as the risks associated with their treatment. By completing this form, clients acknowledge that they have been informed of the potential risks and benefits of their treatment and release Jolene Nails from liability in the event of any adverse reactions or complications. This form serves as a legal document to protect both the client and Jolene Nails from potential misunderstandings or miscommunications. 
-
-  Before proceeding, please ensure this is the correct form for your needs. If you are unsure, you can always contact the form maintainer at form@gic.mx.
-</thinking>
-
 # Jolene Nails COVID 19 Liability Release Waiver - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about incidents that occurred during sporting events, such as injuries, medical emergencies, or other safety concerns. The purpose of this form is to gather details about the incident, including its location, description, and resolution. The information collected will be used to improve the safety and security of future events.
-To ensure that the form is filled out correctly, please make sure to select the right options for each field and provide as much detail as possible. If you are unsure about any field, please refer to this guide.
-</thinking>
-
 # Sporting Event Fan Incident Report Form - Help Guide
 ## Purpose
 The Sporting Event Fan Incident Report Form is a tool used to collect information about incidents that occurred during sporting events. This information will be used to improve the safety and security of future events.

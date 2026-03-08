@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended for candidates to apply for non-dot jobs within the Mesquite Services organization. The purpose of this form is to collect information from candidates about their employment status, job preferences, and qualifications. The information gathered from this form will be used to determine the suitability of the candidate for a job opening within the organization.
-
-The form will be reviewed by hiring managers to assess the candidate's qualifications and availability. The candidate's resume and cover letter will also be reviewed as part of the application process.
-
-Before proceeding, ensure that the information you provide is accurate and up-to-date, as it will be used to determine your eligibility for potential job openings within the organization.
-
-</thinking>
-
 # MesquiteServicesEmploymentApplicationNonDot - Help Guide
 ## Purpose
 The MesquiteServicesEmploymentApplicationNonDot form is a tool for candidates to apply for job openings within the Mesquite Services organization. It collects information about the candidate's employment status, job preferences, and qualifications.

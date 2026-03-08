@@ -1,11 +1,3 @@
-<thinking>
-This form is used to gather information from users for data privacy purposes. It's meant to be completed by users who need to request access to their personal data stored in the system. To ensure that the form is completed correctly, we've included a brief guide to walk users through each section.
-
-Before starting, please note that this form should not be used to request data access for business or commercial purposes. This form is intended for individual users only.
-
-Also, if you've already submitted a data privacy request in the past, please check your previous submissions before resubmitting. Repeating a request with the same information won't add any new value.
-</thinking>
-
 # data_privacy_information_request_form - Help Guide
 ## Purpose
 This form is designed to collect information from users to help us fulfill their data privacy requests. It's a crucial step in ensuring that we handle your personal data with care and respect your rights.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # sample_podcast_release_form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>Job Application Form With Image Upload is designed to collect information from job applicants for internal recruitment purposes. This form is used to collect basic contact information, job details, and attachments like resumes and job images. Please ensure you only use this form for job applications and do not duplicate or reuse for other purposes.</thinking>
-
 # Job Application Form With Image Upload - Help Guide
 ## Purpose
 The Job Application Form With Image Upload is used to collect information from job applicants for internal recruitment purposes.

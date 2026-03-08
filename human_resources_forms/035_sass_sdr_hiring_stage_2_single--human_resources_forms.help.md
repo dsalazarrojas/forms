@@ -1,12 +1,3 @@
-<thinking>
-This form is used for the second stage of the hiring process for SDR (Sales Development Representative) positions. The purpose of this form is to collect more detailed information about the candidate, specifically regarding a question asked during the hiring process. This form is likely to be filled out by the hiring team or a designated person in the organization. The form is used to gather information that will help in the evaluation and decision-making process for SDR hiring. 
-
-This form is designed to be filled out for one candidate at a time, hence the name "sass_sdr_hiring_stage_2_single". It is essential that the form is filled out accurately and thoroughly to ensure that the candidate's information is correctly evaluated. 
-
-Please ensure that you have reviewed the previous stage of the hiring process before proceeding with this form.
-
-</thinking>
-
 # sass_sdr_hiring_stage_2_single - Help Guide
 ## Purpose
 The sass_sdr_hiring_stage_2_single form is used to collect more detailed information about a candidate for the SDR hiring process. This form is designed to be completed by the hiring team or a designated person in the organization and is used to gather essential data for the evaluation and decision-making process.

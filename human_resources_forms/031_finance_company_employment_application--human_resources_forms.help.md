@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals interested in working at a finance company. The form is divided into four sections: user_info, contact_info, employment_history, and finance_info. Each section is designed to collect relevant details about the applicant, their contact information, work history, and financial background. The form is not required, but it is recommended that applicants complete it to ensure that their application is complete and accurate. 
-</thinking>
-
 # Finance Company Employment Application - Help Guide
 ## Purpose
 The Finance Company Employment Application form is designed to collect information from individuals interested in working at a finance company. The form gathers details about the applicant, their contact information, work history, and financial background to assist the hiring process.

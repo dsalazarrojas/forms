@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information about incidents that require exposure reporting. This form is used to report an incident that may pose a risk to the individual or equipment, and it's essential to gather details about the incident to ensure that the necessary actions are taken to mitigate or resolve the issue. To ensure that you report incidents correctly, please review the following guide carefully.
-</thinking>
-
 # Incident Exposure Report - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-HR Onboarding Process Audit Form is used by Human Resources department to ensure that new employees are properly onboarded into the company. This form helps to verify the completeness and accuracy of the onboarding process. It is used to identify and address any discrepancies or missing information that may affect an employee's performance, job satisfaction, or overall well-being. It is not meant to be a comprehensive performance review or evaluation, but rather a tool to help HR identify potential areas for improvement.
-</thinking>
-
 # HR Onboarding Process Audit Form - Help Guide
 ## Purpose
 The HR Onboarding Process Audit Form is used to ensure that new employees are properly onboarded into the company and to identify potential areas for improvement in the onboarding process.

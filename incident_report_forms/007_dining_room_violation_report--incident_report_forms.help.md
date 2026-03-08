@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect incident reports related to dining room issues. It's meant for use in a professional setting where incidents need to be tracked and followed up on. Before filling out this form, please take a moment to review the following fields and ensure you haven't already submitted a report for this incident. If you're unsure or have questions, contact the form creator at form@gic.mx.
-
-</thinking>
-
 # dining_room_violation_report - Help Guide
 ## Purpose
 This form is used to report incidents related to the dining room area, such as maintenance issues, accidents, or other events that require follow-up action.

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from employees regarding their stock options. The form is used to declare and manage stock options, which are a type of equity compensation granted to employees. This form is a crucial document that helps employees accurately report their stock option holdings and related information. 
-To avoid potential duplication of efforts, please ensure that all relevant employees have completed the form and submitted it before proceeding.
-The form collects detailed information about the employee's stock options, including the type of option, number of options, option price, grant date, vest date, last vest date, and option status. The form also has a field for notes, which can be used for any additional comments or explanations.
-</thinking>
-
 # Stock Options Declaration Form - Help Guide
 
 ## Purpose

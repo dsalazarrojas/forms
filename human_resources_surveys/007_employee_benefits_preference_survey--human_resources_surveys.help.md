@@ -1,10 +1,3 @@
-<thinking>
-This help guide is meant to provide a clear understanding of the Employee Benefits Preference Survey form to end-users. The form is designed to gather information on employees' opinions and preferences regarding various benefits offered by their employer. The purpose of this survey is to help the employer understand what benefits matter most to their employees, allowing them to tailor their benefits package to better meet the needs of their workforce.
-
-The form is divided into several sections, each covering different aspects of employee benefits. Please follow the steps below to complete the form accurately.
-
-</thinking>
-
 # Employee Benefits Preference Survey - Help Guide
 ## Purpose
 The Employee Benefits Preference Survey is designed to gather information on your opinions and preferences regarding various benefits offered by your employer. Your input will help your employer understand what benefits matter most to you and your colleagues, allowing them to tailor their benefits package to better meet the needs of their workforce.

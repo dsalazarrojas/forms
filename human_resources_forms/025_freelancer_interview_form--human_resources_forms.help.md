@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for freelancers to provide information about themselves. The purpose is to gather details such as general information, work experience, education, skills, and availability. This form will be used internally to assess freelancers' qualifications and suitability for potential collaborations or projects. Please ensure that you are filling out this form with accurate and up-to-date information, as it will be reviewed by our team.
-</thinking>
-
 # Freelancer Interview Form - Help Guide
 ## Purpose
 The Freelancer Interview Form is designed to collect essential information from freelancers to help us assess their qualifications and suitability for potential collaborations or projects. Please take a few minutes to complete this form accurately and thoroughly.

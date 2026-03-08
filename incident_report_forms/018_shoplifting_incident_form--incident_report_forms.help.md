@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to gather information related to shoplifting incidents that have occurred within a store or establishment. The purpose of this form is to collect details about the incident, including the date, time, location, and description of the suspect, as well as the witness's statement, name, and contact information. This form may be used by store staff or security personnel to document and investigate shoplifting incidents.
-</thinking>
-
 # Shoplifting Incident Form - Help Guide
 ## Purpose
 The Shoplifting Incident Form is a document used to report and document shoplifting incidents that have occurred within a store or establishment.

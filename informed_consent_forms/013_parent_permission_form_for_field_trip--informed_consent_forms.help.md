@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to obtain parent/guardian consent and essential contact information for a field trip. The fields collected through this form are intended to ensure that parents/guardians are aware of and agree to their child's participation in the field trip, and to provide essential contact information in case of emergencies or other trip-related incidents.
-</thinking>
-
 # Parent Permission Form For Field Trip - Help Guide
 
 ## Purpose

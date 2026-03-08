@@ -1,23 +1,3 @@
-<thinking>
-This form is designed to collect information from employees for a new shift request. The purpose of this form is to gather details about an employee's new shift request, including their name, shift start and end times, date, shift duration, and any comments or conflicts they may have. 
-
-The form is intended to be completed by employees to request a new shift, and the information collected will be used by managers or administrators to process the request. It is recommended that employees fill out the form carefully and accurately to ensure their request is processed correctly. 
-
-Before filling out this form, please ensure you are requesting a new shift and not a duplicate request. If you have previously submitted a shift request, please do not submit another request. 
-
-This form has the following fields:
-* Employee Name: This is the field to enter your name as it appears on your paycheck.
-* Shift Start Time: Enter the start time of the new shift.
-* Shift End Time: Enter the end time of the new shift.
-* Shift Date: Enter the date of the new shift.
-* Shift Duration: Enter the duration of the new shift in hours.
-* Comment: Enter any comments or notes about the new shift. (Optional)
-* Will you work the shift? This is a select one field with options for "Yes" and "No".
-* Conflicts or Requests: Enter any conflicts or requests you have for the new shift. (Optional)
-* Additional Shifts: Enter any additional shifts you would like to pick up. (Optional)
-* New Shift Request Form 10: Enter any conflicts or requests you have for the additional shifts. (Optional)
-
-</thinking>
 # New Shift Request Form - Help Guide
 ## Purpose
 The New Shift Request Form is used to collect information from employees for a new shift request. This form is used by managers or administrators to process the request and ensure that the employee's shift is scheduled correctly.

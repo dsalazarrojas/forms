@@ -1,7 +1,3 @@
-<thinking>
-This form is a tool used for collecting information from podcasters about their podcast, likely for the purpose of creating a comprehensive directory or database of podcasters. It is likely used to gather details such as topics covered, format, and other relevant information. The form appears to be an original creation based on public survey topic metadata. I'll provide a help guide that explains the form's purpose, how to complete it, and what each field means.
-</thinking>
-
 # Podcast Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information from podcasters about their podcast, which will be used to create a comprehensive directory or database of podcasters.

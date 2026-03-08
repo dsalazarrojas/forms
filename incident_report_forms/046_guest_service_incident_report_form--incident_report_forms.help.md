@@ -1,8 +1,3 @@
-<thinking>
-This form is used to report incidents that occurred during a guest's stay at the hotel. The purpose of this form is to ensure that all incidents are documented and investigated to prevent future incidents from happening. This form should only be completed in cases where an incident has occurred, and not for routine or administrative purposes.
-To prevent duplication of effort and ensure accurate reporting, please only fill out one form per incident.
-</thinking>
-
 # Guest Service Incident Report Form - Help Guide
 ## Purpose
 The Guest Service Incident Report Form is used to document incidents that occurred during a guest's stay at the hotel, ensuring that all incidents are investigated and documented for future reference.

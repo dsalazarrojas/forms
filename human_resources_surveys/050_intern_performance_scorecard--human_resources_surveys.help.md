@@ -1,7 +1,3 @@
-<thinking>...The purpose of this form, "Intern Performance Scorecard," is to evaluate and document the performance of interns during their tenure at the company. This scorecard helps the supervisor assess various aspects of the intern's performance, providing a snapshot of their strengths and weaknesses. It's essential to complete this form accurately and thoroughly to ensure that it captures a fair representation of the intern's performance.
-
-The form consists of several fields that need to be filled out by the supervisor. To ensure consistency and accuracy in the scoring process, please review each field carefully.</thinking>
-
 # Intern Performance Scorecard - Help Guide
 
 ## Purpose

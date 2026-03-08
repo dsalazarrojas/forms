@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used in a medical setting, specifically for patients undergoing medical cannabis treatment. The purpose of this form is to gather informed consent from patients before administering medical cannabinoids, ensuring they understand the treatment plan, potential benefits, and risks. The form aims to protect patients' rights and the healthcare provider's liability. It is a critical document that requires careful completion to ensure patient safety and understanding.
-
-</thinking>
-
 # Medical Cannabinoids Informed Consent Form - Help Guide
 ## Purpose
 The Medical Cannabinoids Informed Consent Form is a critical document that requires patients to provide informed consent before undergoing medical cannabinoids treatment. This form helps ensure that patients understand the treatment plan, potential benefits, and risks associated with medical cannabinoids.

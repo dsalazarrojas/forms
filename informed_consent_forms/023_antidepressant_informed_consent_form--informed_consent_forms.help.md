@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain informed consent from patients for antidepressant treatment. The purpose of this form is to document the patient's understanding of the treatment, its potential benefits and risks, and to ensure that the patient has been informed and willing to undergo treatment. This form is typically used in a medical setting to provide a standardized and comprehensive way to obtain patient consent. It is essential to use this form for every patient undergoing antidepressant treatment to ensure that they understand the treatment and its implications. This form should not be used for patients who are already aware of the treatment and its implications, and for patients who are unable to provide informed consent (e.g., minors, incompetent patients, etc.). 
-</thinking>
-
 # Antidepressant Informed Consent Form - Help Guide
 ## Purpose
 This form is used to obtain informed consent from patients for antidepressant treatment, ensuring they understand the treatment, its benefits, and risks.

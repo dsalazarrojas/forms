@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to be used by internal stakeholders to guide end-users through the process of filling out the Address Information Request Form. The purpose of this form is to collect address information from the person or entity whose address is requested, along with the reason for the request and the desired method of information delivery. This guide aims to clarify the fields and options in the form to ensure that end-users understand what is required and expected of them.
-</thinking>
-
 # Address Information Request Form - Help Guide
 ## Purpose
 This guide will walk you through the Address Information Request Form to ensure you fill out the form correctly and accurately. 

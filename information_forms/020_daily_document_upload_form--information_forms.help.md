@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users for the purpose of uploading daily documents. The form is designed to be completed on a per-day basis, and each field is meant to be filled out for a specific day. The form should not be completed multiple times for the same day.
-</thinking>
-
 # daily_document_upload_form - Help Guide
 ## Purpose
 This form is for uploading daily documents. It is meant to be completed one time per day.

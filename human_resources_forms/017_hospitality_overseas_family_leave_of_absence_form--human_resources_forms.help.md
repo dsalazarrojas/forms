@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from employees on their family leave of absence plans while working overseas, particularly in a hospitality setting. The form is essential for HR departments to track and manage employee leave requests, ensuring compliance with company policies and local regulations. Before starting, please check that you are not duplicating a submission or that you have not already completed this form for the same family member. If you are unsure, please contact your HR representative for guidance.
-</thinking>
-
 # Hospitality Overseas Family Leave Of Absance Form - Help Guide
 ## Purpose
 The Hospitality Overseas Family Leave Of Absance Form is designed to gather information from employees on their family leave of absence plans while working in a hospitality setting overseas. This form helps HR departments track and manage employee leave requests, ensuring compliance with company policies and local regulations.

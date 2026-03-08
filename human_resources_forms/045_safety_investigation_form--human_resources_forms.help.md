@@ -1,5 +1,3 @@
-<thinking>As a technical writer, my goal is to create a user-facing help guide that effectively communicates the purpose and functionality of the Safety Investigation Form to end-users. I will analyze the form's purpose and fields, ensuring that each section and field explanation is clear, concise, and practical. I will also review the form's YAML fields to understand their labels, types, and requirements to provide accurate and relevant explanations.</thinking>
-
 # Safety Investigation Form - Help Guide
 ## Purpose
 The Safety Investigation Form is used to document and investigate incidents that occurred within the workplace. This form helps to gather essential information about the incident, including the date, description, factors leading up to the incident, contributing factors, and any corrective actions taken. The data collected from this form is used to identify potential hazards and take steps to prevent future incidents.

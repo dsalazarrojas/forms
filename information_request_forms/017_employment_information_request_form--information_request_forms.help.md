@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about employment-related requests. It is intended for employees or job seekers to provide details about their current or desired employment status. This form should only be filled out once, as duplicate requests will not be processed. The information collected will be used to create job postings or employment contracts. This form is not intended for resume submission or job application purposes.
-</thinking>
-
 # employment_information_request_form - Help Guide
 ## Purpose
 

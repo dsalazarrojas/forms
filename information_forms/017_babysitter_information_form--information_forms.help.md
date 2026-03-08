@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and usage of the Babysitter Information Form. The form is used to collect information about a babysitter's personal identification, professional background, and qualifications for potential childcare clients. Users should only fill out the form if they are a babysitter looking to provide services or if they are a parent seeking a babysitter. 
-</thinking>
-
 # Babysitter Information Form - Help Guide
 ## Purpose
 This form is used to gather essential information from babysitters to ensure a safe and quality experience for children under their care. It is crucial for parents to fill out this form accurately and truthfully to make informed decisions when selecting a babysitter.

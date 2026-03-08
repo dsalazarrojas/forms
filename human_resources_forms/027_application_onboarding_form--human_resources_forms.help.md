@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Application Onboarding Form - Help Guide
 
 ## Purpose

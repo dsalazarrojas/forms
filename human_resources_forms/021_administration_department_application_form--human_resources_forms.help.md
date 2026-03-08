@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for individuals to submit an application to the Administration Department. The purpose of this form is to collect information about the applicant's personal details, employment type, education level, work experience, skills and qualifications, and other relevant information to evaluate their eligibility and suitability for the position applied for. This form will be reviewed internally to assess the applicant's qualifications and may be shared with relevant departments within the organization for further evaluation.
-</thinking>
-
 # Administration Department Application Form - Help Guide
 
 ## Purpose

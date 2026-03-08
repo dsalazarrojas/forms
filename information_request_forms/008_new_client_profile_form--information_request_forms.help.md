@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that the "New Client Profile Form" is used correctly to avoid duplicate or outdated information. This form is intended to collect essential details about new clients, including their personal and professional information. Before filling out the form, please verify that the client's information doesn't already exist in our system. If you're unsure, reach out to your team lead or the client directly. 
-
-</thinking>
-
 # new_client_profile_form - Help Guide
 ## Purpose
 The "new_client_profile_form" is a tool for collecting essential details about new clients to ensure we have accurate and up-to-date information.

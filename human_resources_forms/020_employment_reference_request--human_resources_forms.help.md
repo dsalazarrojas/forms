@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # employment_reference_request - Help Guide
 ## Purpose
 The employment_reference_request form is designed to gather information about an employee's employment reference request. The form helps the HR department to collect relevant details from the employee and their referee (previous employer or supervisor). The form is used to facilitate a smooth employment verification process.

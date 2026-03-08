@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medication Incident Report Form - Help Guide
 
 ## Purpose

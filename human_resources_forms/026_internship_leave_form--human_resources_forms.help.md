@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for employees to request an official internship leave. The purpose of this form is to document and manage internship leaves in a standardized manner. It captures information necessary for the leave request, such as the start and end dates of the leave, the number of days requested, and the reason for the leave. The supervisor's name and email will be needed to approve or reject the leave request.
-
-The following fields are required for the form to be submitted and processed: Start Date, End Date, Days Requested, Reason for Leave, Supervisor Name, and Approval Status. However, the approval status field is only required for the supervisor to update after reviewing the request.
-
-</thinking>
-
 # Internship Leave Form - Help Guide
 ## Purpose
 This form is used to request an official internship leave from your organization. It will help your supervisor to review and approve or reject your leave request.

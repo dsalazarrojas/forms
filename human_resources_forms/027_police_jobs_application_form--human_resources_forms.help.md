@@ -1,13 +1,3 @@
-<thinking>
-Internal reasoning: This form is designed to collect information from applicants applying for police jobs. The purpose of the form is to gather relevant details such as contact information, job title, experience, available dates, police officer type, and shift schedules. This information will help the hiring process to efficiently evaluate the applicant's suitability for the position.
-
-To avoid duplication and ensure accuracy, please fill out the form accurately and completely. The form is not intended to be completed by proxy or on behalf of others. 
-
-Each field should only be filled out by the actual applicant. 
-
-Please ensure you are using the correct email address and phone number to receive notifications and updates about your application status.
-</thinking>
-
 # Police Jobs Application Form - Help Guide
 ## Purpose
 The Police Jobs Application Form is designed to collect relevant details from applicants applying for police jobs. The form will help the hiring process to efficiently evaluate the applicant's suitability for the position.

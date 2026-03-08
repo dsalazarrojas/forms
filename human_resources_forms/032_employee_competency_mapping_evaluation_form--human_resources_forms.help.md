@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess employee performance, skills, and competencies. It aims to evaluate an employee's progress in their role and provides a framework for their development. The form collects information on various aspects of an employee's job, such as their performance rating, competency level, and overall satisfaction. It also allows for comments and feedback from the employee and their manager.
-</thinking>
-
 # Employee Competency Mapping Evaluation Form - Help Guide
 ## Purpose
 The purpose of this form is to evaluate an employee's performance, skills, and competencies, and to provide a framework for their development.

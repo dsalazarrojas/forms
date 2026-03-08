@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended for internal use by employees, and it is not affiliated with, endorsed by, or derived from any form platform. The purpose of this form is to collect feedback and gather information about employee satisfaction. Please use this form responsibly and do not submit duplicate responses.
-
-Before completing this form, please ensure that you have not already submitted a response. This form is designed to be a one-time submission per employee.
-
-Below is the detailed guide on how to complete this form.
-
-</thinking>
-
 # Employee Satisfaction Survey - Help Guide
 ## Purpose
 The employee satisfaction survey is a tool for gathering feedback and information about employee satisfaction. Your responses will help management understand your needs and improve your work experience.

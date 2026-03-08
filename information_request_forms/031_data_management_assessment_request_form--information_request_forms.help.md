@@ -1,8 +1,3 @@
-<thinking>
-This form was created using AI and is intended for data management assessment requests. It captures necessary information to assess and process data management requests. Ensure you complete this form correctly to provide required details.
-
-</thinking>
-
 # Data Management Assessment Request Form - Help Guide
 ## Purpose
 This form is designed to collect information for data management assessment requests. It's essential to complete it accurately to ensure that the necessary details are provided.

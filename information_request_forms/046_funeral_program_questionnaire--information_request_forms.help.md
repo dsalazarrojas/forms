@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to collect information related to a funeral program, which is used to plan and organize a funeral service. This form is designed for funeral homes and other organizations that need to gather essential details about the deceased, their family, and the funeral services. The goal is to ensure that all necessary information is collected in a structured and organized manner, making it easier to plan and execute the funeral program.
-
-Before proceeding, please note that this form is for informational purposes only and should not be used as a legal document. The information collected will be used internally and will not be shared with third parties.
-
-Before filling out this form, ensure that you have not already completed it for the same funeral or individual. To avoid duplication, please check the form's unique identifier (id) and only fill it out for new entries.
-
-The form contains multiple pages, but they are all connected and should be filled out in sequence. Please take your time to fill out each section carefully, and do not hesitate to ask for help if you need it.
-
-The form will ask for various details, including personal information, family data, funeral dates, and other specific details related to the funeral service. Be sure to fill out each section accurately and completely.
-
-</thinking>
-
 # Funeral Program Questionnaire - Help Guide
 ## Purpose
 The Funeral Program Questionnaire is designed to collect information related to a funeral program. This form is used to gather essential details about the deceased, their family, and the funeral services.

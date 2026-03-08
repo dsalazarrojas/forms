@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # hr_ai_experimentation_pilot_application - Help Guide
 
 ## Purpose

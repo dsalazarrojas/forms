@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect patient information, including general information, patient name, date of birth, medical conditions, treatments received, allergies, and medical history. This form is designed to be completed by patients or their authorized representatives. It is essential to ensure that the information collected is accurate and up-to-date to provide the best possible care. 
-Please note that this form must not be used to collect duplicate information. If the patient's information is already available in the system, please do not fill out this form.
-</thinking>
-
 # Patient History Form - Help Guide
 ## Purpose
 The Patient History Form is used to gather essential information about a patient, including their general information, medical conditions, and medical history. This form helps healthcare providers to understand the patient's background and provide personalized care.

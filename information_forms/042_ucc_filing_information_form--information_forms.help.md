@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information for UCC (Uniform Commercial Code) filing purposes. UCC filings are a legal document filing system used to perfect a security interest in certain types of personal property. This form is intended for business entities that need to file UCC documents with the relevant state authorities. The purpose of this form is to collect all the necessary information required for such filings, ensuring accuracy and completeness. Please ensure that you have read and understood the relevant state laws and regulations before filling out this form.
-
-Before you begin, make sure that you have all the necessary information ready to be filled out. The form requires the following information: business name, file number, effective date, file date, filing type (UCC1, UCC3, or UCC5), party terminated status, state, city, zip, email (optional), phone (optional), authorized person's information (name, date, and phone/email), submission date, submitted by name, phone (optional), and email (optional), and a confirmation of the information provided.
-
-Please note that some of the fields are marked as optional, but providing accurate and complete information is crucial for the success of the UCC filing process.
-
-</thinking>
-
 # UCC Filing Information Form - Help Guide
 ## Purpose
 

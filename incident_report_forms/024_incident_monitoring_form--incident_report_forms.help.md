@@ -1,14 +1,3 @@
-<thinking>
-This form is used to collect information about incidents that need to be monitored. The form has 17 fields, each representing a different aspect of the incident. The purpose of this form is to ensure that all incidents are properly documented and monitored to prevent future occurrences.
-
-When filling out this form, please note the following:
-
-* All fields marked as "required" must be completed before submitting the form.
-* Select the appropriate options for each field carefully, as they may affect the way the incident is handled.
-* Make sure to provide accurate information to ensure that the incident is resolved correctly.
-
-</thinking>
-
 # incident_monitoring_form - Help Guide
 ## Purpose
 ## How To Complete This Form

@@ -1,9 +1,3 @@
-<thinking>
-This form is used by employees to report errors or failures in the automation process. It is essential to provide as much detail as possible when submitting this form to help the IT team troubleshoot and resolve the issue efficiently. 
-Please ensure you have permission to submit this form, and make sure you have not already submitted a report for this issue. If you are unsure or need help, please reach out to your supervisor or IT department.
-Before completing this form, ensure that you have all necessary information and screenshots/logs ready for the IT team to review.
-</thinking>
-
 # Automation Error Report Request Form - Help Guide
 ## Purpose
 The Automation Error Report Request Form is a tool used to report errors or failures in the automation process. This form is designed to gather information about the issue, its impact, and any steps taken to resolve it. Providing accurate and detailed information helps the IT team to quickly identify and resolve the issue.

@@ -1,11 +1,3 @@
-<thinking>
-
-To create this help guide, we will first understand the purpose and relevance of the form. This form is used to gather essential information from clinical trial participants. The form includes demographic data, medical history, and study-specific information. It is crucial that each field is completed accurately and thoroughly to ensure that the participant's data is collected correctly.
-
-Before proceeding with the form completion, it is essential to review the form and understand the required fields. Each required field is marked with an asterisk (\*) next to it. If you have any questions or concerns, please don't hesitate to reach out to the study team for clarification.
-
-</thinking>
-
 # Clinical Trial Participant Information Form - Help Guide
 
 ## Purpose

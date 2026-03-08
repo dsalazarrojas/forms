@@ -1,10 +1,3 @@
-<thinking>
-The purpose of the Community Information Form is to collect and document essential information about a community, including its official name, estimated population, primary economic driver, key leaders, public services, geographic area, historical events, current challenges, community vision, demographic overview, and last information update. This form is used to gather data that can help organizations and stakeholders better understand the community's characteristics, needs, and opportunities.
-
-Before proceeding, ensure that you have not completed this form previously, as it may not be necessary to duplicate efforts. If you are unsure or have already completed a similar form, please verify with your team or supervisor before submitting new information.
-
-</thinking>
-
 # Community Information Form - Help Guide
 ## Purpose
 The Community Information Form is a comprehensive tool designed to capture essential information about a community. It helps organizations and stakeholders gain a deeper understanding of the community's characteristics, needs, and opportunities.

@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended for end-users who need to fill out the "Renounce Inheritance Form". This guide is not affiliated with, endorsed by, or derived from any form creation platform. The form was created using AI-powered survey topic metadata.
-This form is designed to be used in a specific context, so please read this help guide carefully before proceeding.
-To ensure that you have the correct information, please check that you're in the right place to fill out this form.
-
-</thinking>
-
 # Renounce Inheritance Form - Help Guide
 ## Purpose
 This form is designed for individuals who wish to renounce their inheritance. Please fill out this form to provide the necessary information for your request.

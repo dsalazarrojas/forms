@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect information about a Standard Operating Procedure Workflow (SOPW) officer or committee member's agreement on a specific procedure. The form is likely used in an organizational or administrative context where standard operating procedures are in place to ensure consistency and efficiency in workflows. 
-
-The purpose of this form is to get the agreement from the officer or committee member on the procedure. The form is probably used to track and manage the agreement process, and the collected information is likely stored for future reference or auditing purposes. 
-
-Please note that the form is not designed for any other purpose other than collecting agreement information from SOPW officers or committee members. 
-</thinking>
-
 # sopw_officer_and_committee_member_agreement - Help Guide
 ## Purpose
 This form is used to collect the agreement from Standard Operating Procedure Workflow (SOPW) officers or committee members on a specific procedure.

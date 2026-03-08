@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about employee wellness and satisfaction with their work environment. The purpose of this form is to gather feedback from employees on their physical and mental health, job satisfaction, and other relevant factors that contribute to their overall well-being. This form will help management identify areas of improvement and provide necessary resources to support employees' health and happiness in the workplace.
-
-Before completing this form, please make sure that you are not duplicating any other form submissions, especially from the same employee. If you have previously completed a similar form, please do not submit this one as well.
-</thinking>
-
 # employee_wellness_survey - Help Guide
 ## Purpose
 This form is designed to collect information about employee wellness and satisfaction with their work environment.

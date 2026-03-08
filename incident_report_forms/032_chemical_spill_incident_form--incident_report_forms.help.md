@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, I'll ensure that the form is used correctly by checking if there's any confusion or duplication in the fields provided. It appears that the form is designed to collect information about a chemical spill incident, and it's essential to understand the purpose and process of completing this form accurately.</thinking>
-
 # Chemical Spill Incident Form - Help Guide
 
 ## Purpose

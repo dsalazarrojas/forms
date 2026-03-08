@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Quality Benchmark Data Access Request Form - Help Guide
 
 ## Purpose

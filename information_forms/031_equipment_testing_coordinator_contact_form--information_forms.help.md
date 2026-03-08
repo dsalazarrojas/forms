@@ -1,5 +1,3 @@
-<thinking>... This form is intended to capture information from the equipment testing coordinator, which is likely a key role responsible for overseeing and coordinating the testing of equipment in the organization. The form is not explicitly linked to specific business processes or workflows, but it's possible it's used for general contact and coordination purposes. There may be existing forms or processes that achieve similar goals, so please ensure this form is not creating duplication of effort or conflicting with existing ones before using it. The form fields seem to be focused on contact information for the coordinator, details about the equipment being tested, and some additional metadata for tracking. ...</thinking>
-
 # equipment_testing_coordinator_contact_form - Help Guide
 ## Purpose
 This form is designed to gather information from the equipment testing coordinator. It's intended for general contact and coordination purposes. If you're unsure about the purpose or potential overlap with existing forms, please check with your team or supervisors before using this form.

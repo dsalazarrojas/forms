@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to support the phased return-to-work process for employees, ensuring that HR teams can efficiently manage and track employee return-to-work activities. The form should only be completed for valid scenarios where an employee's return to work is scheduled.
-
-The form is likely to be completed by HR or management personnel, and it's essential to verify that the form is filled out for employees who are eligible to return to work. 
-
-This form is used in conjunction with other relevant documentation and processes to ensure accuracy and compliance.
-</thinking>
-
 # phased_return_to_work_form - Help Guide
 ## Purpose
 The Phased Return to Work Form is used to track and manage employee return to work activities, ensuring that employees can safely and efficiently return to work after an extended leave.

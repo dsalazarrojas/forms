@@ -1,21 +1,3 @@
-<thinking>
-This form is designed to collect information from parents or guardians about their child's care needs and preferences. The form will help the program administrators understand the child's requirements, medical conditions, and emergency contact information. This form is meant to be completed by the parent or guardian who will be enrolling their child in the before and after school care program. It is essential to complete this form accurately and thoroughly to ensure that the child's needs are met, and the program can provide the best possible care for them.
-
-The fields in this form are designed to collect the following information:
-
-* Parent or guardian's name, contact information (email, phone number, and home address)
-* Child's name, date of birth, age, and grade level
-* Child's medical conditions, medications, and dietary restrictions
-* Information about the child's current childcare experience
-* Terms and conditions acceptance by the parent or guardian
-* Additional information about the program's transportation needs, snack preferences, and emergency contact details
-
-Please note that some fields are marked as optional (e.g., medical conditions, medications, dietary restrictions). However, it is crucial to provide accurate and up-to-date information about the child's needs to ensure their well-being and safety.
-
-When completing this form, please ensure that you provide accurate and relevant information about your child. If you have any questions or concerns, please don't hesitate to reach out to the program administrators.
-
-</thinking>
-
 # Before And After School Care Information Form - Help Guide
 
 ## Purpose

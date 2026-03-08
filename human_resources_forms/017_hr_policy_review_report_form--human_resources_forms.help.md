@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information for policy review reports. The purpose of this form is to document the review process, which helps to track and monitor policies within the organization. This process ensures that policies are reviewed regularly, and their status is up-to-date. It is essential to ensure that all stakeholders are aware of the latest policy information and can make informed decisions based on that information.
-</thinking>
-
 # hr-policy-review-report-form - Help Guide
 ## Purpose
 This form is used to collect and track information for policy reviews within the organization.

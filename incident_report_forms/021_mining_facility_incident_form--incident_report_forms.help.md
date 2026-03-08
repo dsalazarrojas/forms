@@ -1,21 +1,3 @@
-<thinking>...Checking the provided form definition, I see that it's designed to capture information about incidents that occur in a mining facility. The form is used to report incidents that may have occurred in the facility, and it's likely used for monitoring and reporting purposes. It's not clear if the form is used for internal reporting or for external reporting to regulatory bodies.
-
-The form is divided into several sections, but no clear sections are defined. Each section will be addressed individually in the "Field-by-Field Explanation" section.
-
-Upon reviewing the fields, I see that the form includes fields for:
-
-*   Mining facility incident description, which is likely the main purpose of the form.
-*   Date and time of the incident, which is a critical piece of information for tracking and investigation.
-*   Location of the incident, which might be important for understanding the context.
-*   A field for describing the incident type, which could be a dropdown or select menu.
-*   Additional information about the incident type, which seems to be redundant and might be removed or made optional.
-*   Contact information for someone involved or responsible, which is helpful for follow-up communication.
-*   A field for describing the incident type, which seems to be redundant and might be removed or made optional.
-
-Before proceeding, it's worth noting that there is no clear distinction between the fields "incident_type" and "incident_type_value." They seem to be used interchangeably, which might lead to confusion.
-
-</thinking>
-
 # Mining Facility Incident Form - Help Guide
 ## Purpose
 The Mining Facility Incident Form is a tool used to document and report incidents that occur within a mining facility. It's designed to gather essential information about the incident, including the date and time it occurred, the location, and a detailed description of what happened.

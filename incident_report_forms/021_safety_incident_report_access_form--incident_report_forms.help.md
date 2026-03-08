@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information related to workplace safety incidents. It is crucial that only relevant and accurate information is provided to ensure the effectiveness of the incident report. Please do not attempt to access this form if you are not authorized to do so. This form should only be used for legitimate incident reporting purposes. 
-</thinking>
-
 # safety_incident_report_access_form - Help Guide
 
 ## Purpose

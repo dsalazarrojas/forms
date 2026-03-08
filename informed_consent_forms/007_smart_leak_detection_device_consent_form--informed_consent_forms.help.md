@@ -1,8 +1,3 @@
-<thinking>
-This form is used to gather informed consent from clients or property managers for the installation of a smart leak detection device. The purpose of this form is to ensure that all parties involved are aware of and agree to the installation of the device, which can detect and alert users to potential leaks in their properties. This form is typically used in residential or commercial settings where smart devices are being installed to prevent water damage and reduce waste. The form is also used to record the client's or property manager's approval for the installation of the device.
-This form is intended to be completed by clients or property managers who have been informed about the benefits and risks associated with the installation of the smart leak detection device.
-</thinking>
-
 # Smart Leak Detection Device Consent Form - Help Guide
 ## Purpose
 The Smart Leak Detection Device Consent Form is a crucial document that ensures clients or property managers are informed and approve the installation of the device on their properties. This form is a critical step in the installation process, as it requires the consent of the person in charge of the property before the device is installed.

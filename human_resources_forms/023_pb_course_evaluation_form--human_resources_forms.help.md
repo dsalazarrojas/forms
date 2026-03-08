@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information for employee evaluations. The form is designed to collect various details about an employee, including their name, email, evaluation, date, and time. It also includes fields for selecting one option from a list, choosing multiple options from a list, and inputting numeric and text values. This form is likely used by HR or management teams to assess employee performance and progress.
-
-Before filling out this form, please ensure you have all necessary information and that you're filling it out for a specific employee.
-
-</thinking>
-
 # pb_course_evaluation_form - Help Guide
 ## Purpose
 This form is used to collect information for employee evaluations.

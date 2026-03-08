@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from patients about their medical history, emergency contacts, and other relevant details. It is used to gather informed consent from patients before dental procedures. This form is not intended for use in other contexts; please ensure that you have the necessary permissions and approvals before using it.
-</thinking>
-
 # Dental HIPAA Form - Help Guide
 ## Purpose
 The Dental HIPAA Form is used to collect informed consent from patients before dental procedures. It gathers information about the patient's medical history, emergency contacts, and other relevant details to ensure their understanding and agreement to the treatment.

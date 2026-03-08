@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # seasonal_leave_of_absence_request - Help Guide
 ## Purpose
 The Seasonal Leave Request form is used to request seasonal leave from HR department. This form is required to be filled out by employees to submit a request for seasonal leave. It is essential to fill out the form accurately to ensure that your leave request is processed correctly.

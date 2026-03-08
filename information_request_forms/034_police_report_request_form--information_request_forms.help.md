@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for requesting a police report from the relevant authorities. The purpose of this form is to provide essential information to the police department to aid them in creating an accurate and detailed report. To avoid duplication, please ensure that you have not already submitted a similar report or have not been informed that a report has already been filed.
-
-</thinking>
-
 # Police Report Request Form - Help Guide
 ## Purpose
 The Police Report Request Form is used to provide information to the police department to aid them in creating an accurate and detailed report.

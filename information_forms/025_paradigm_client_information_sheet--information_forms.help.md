@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect personal client information for the Paradigm team. It's meant to be completed by clients who are interested in working with Paradigm or have an existing relationship with them. The form is divided into several fields that collect essential contact and demographic information.
-</thinking>
-
 # paradigm_client_information_sheet - Help Guide
 ## Purpose
 The Paradigm Client Information Sheet is a form designed to collect essential contact and demographic information from clients.

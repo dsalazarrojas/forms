@@ -1,7 +1,3 @@
-<thinking>
-The Farmer Crop Information Collection Form is a user-facing form designed to collect information about a farm's crop data. This form is used to gather specific details about the farm's crops, seasons, and yields. The form is meant to be completed by farmers or their representatives to provide accurate and up-to-date information about their farm's crop production. Before filling out this form, please ensure you have all the necessary information and that you're not duplicating any existing records. This form should only be completed for new or updated crop information.
-</thinking>
-
 # Farmer Crop Information Collection Form - Help Guide
 
 ## Purpose

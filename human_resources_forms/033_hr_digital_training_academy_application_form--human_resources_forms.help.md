@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # HR Digital Training Academy Application Form - Help Guide
 
 ## Purpose

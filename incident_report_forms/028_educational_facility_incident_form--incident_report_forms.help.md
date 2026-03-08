@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Educational Facility Incident Form - Help Guide
 ## Purpose
 The Educational Facility Incident Form is used to document incidents that occur within an educational facility, such as schools, universities, or other educational institutions. This form helps to gather important information about the incident, including the date and time it occurred.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about IT administrators. The purpose of this form is to gather data from IT administrators in a structured and organized manner. 
-The form is divided into several sections, each focusing on different aspects of an IT administrator's role and responsibilities. 
-This form is intended for internal use only, and the data collected will be used to maintain accurate and up-to-date information about the IT team. 
-</thinking>
-
 # IT Administrator Information Form - Help Guide
 ## Purpose
 The IT Administrator Information Form is a tool used to collect and store information about IT administrators. This form helps to gather essential details about their roles, responsibilities, and qualifications.

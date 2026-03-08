@@ -1,9 +1,3 @@
-<thinking>
-Form "income_tax_information_form_in_hindi" is part of an application to collect information from tax payers regarding their income and tax-related details. This information can be used for various tax purposes such as generating tax returns, verifying tax payer identity, and maintaining tax payer records. It is not a duplicate form and users should fill it out for the first time. 
-
-Please ensure you fill out the form accurately, as any discrepancies may lead to incorrect information. This form is divided into 8 fields which are all optional. Please fill in your details accordingly.
-</thinking>
-
 # income_tax_information_form_in_hindi - Help Guide
 ## Purpose
 The purpose of this form is to collect tax-related information from the tax payer, which can be used for various tax purposes.

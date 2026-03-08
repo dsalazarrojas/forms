@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Value Assessment Form - Help Guide
 
 ## Purpose

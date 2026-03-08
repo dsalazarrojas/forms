@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Information Request Form - Help Guide
 ## Purpose
 This form is intended to collect contact information from users, including phone numbers, email addresses, and other relevant details. The form is used to capture a comprehensive understanding of user requirements and preferences.

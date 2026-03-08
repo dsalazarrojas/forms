@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information from users about a company and its contact person. It is used to gather data that will be used for sales and business purposes. Please note that this form is not intended for use in high-security or sensitive areas. Ensure that the information collected will be used only for legitimate business purposes and not for any other reason, especially not for solicitation or marketing purposes.
 
 <dl class="breadcrumb">information_request_form - Help Guide</dl>

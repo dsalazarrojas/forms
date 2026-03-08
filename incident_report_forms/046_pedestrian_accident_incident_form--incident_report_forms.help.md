@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pedestrian Accident Incident Form - Help Guide
 
 ## Purpose

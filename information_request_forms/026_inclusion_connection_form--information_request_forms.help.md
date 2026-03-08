@@ -1,15 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information from users about their inclusion connection requests. This form likely serves as a centralized platform for users to submit their requests and provide relevant details for the assigned team to process and follow up on. The form's design suggests that it is used for internal purposes within an organization, possibly for tracking and managing requests efficiently. Before proceeding, ensure that the information provided is accurate and up-to-date, as it will be used to facilitate the inclusion process.
-
-To avoid duplication and ensure relevance, please note that:
-
-* You should only submit requests that are specific to your current work or needs.
-* Ensure that you have a legitimate reason for submitting the request.
-* If you are unsure about the purpose or requirements of this form, please reach out to the relevant authorities for clarification.
-
-</thinking>
-
 # Inclusion Connection Form - Help Guide
 
 ## Purpose

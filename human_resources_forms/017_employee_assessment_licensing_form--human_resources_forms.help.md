@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information on an employee's assessment for licensing purposes. It is used to document an employee's job title, job function, license type, and other relevant details. This form is likely used within an organization to maintain accurate records of employee licensure and ensure compliance with regulatory requirements.
-To determine if this form is relevant to your situation, check if you are an HR representative or an employee within a regulated industry that requires licensure documentation.
-To prevent duplication, please check if a similar form exists within your organization before using this one.
-</thinking>
-
 # employee_assessment_licensing_form - Help Guide
 ## Purpose
 This form is used to document an employee's assessment for licensing purposes, including job title, job function, license type, and other relevant details.

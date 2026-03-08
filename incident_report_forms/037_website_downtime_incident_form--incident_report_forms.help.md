@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to collect information about website downtime incidents, allowing the incident reporter to provide details about the time and duration of the incident, the error message, the root cause, affected areas, resolution steps taken, impact on business, and the contact information of the incident reporter. To prevent duplication, this form is designed to be filled out by a single reporter for each incident. Please ensure that the form is completed accurately and thoroughly to facilitate swift resolution and prevention of future occurrences.</thinking>
-
 # Website Downtime Incident Form - Help Guide
 ## Purpose
 This form is designed to help the IT team quickly gather information about website downtime incidents, enabling them to identify and resolve the issue efficiently.

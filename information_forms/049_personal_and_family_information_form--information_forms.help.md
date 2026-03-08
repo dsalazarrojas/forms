@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect personal and family information from users. It is designed to be completed by an individual or family member. To ensure that this form is completed accurately and not duplicated, please note that:
-
-*   Each section of the form should only be completed once per person or family member.
-*   If you are completing the form for a child or dependent, please ensure you have the necessary consent or authority to do so.
-
-</thinking>
-
 # Personal And Family Information Form - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-To avoid duplication, please ensure that you are not filling out this form if you have already provided information about the same statue to the museum. If you are a staff member or volunteer, please ensure that you are not submitting information on behalf of another person.
-
-This form is designed to collect information from the public about statues discovered on the museum's premises. The purpose of this form is to gather accurate and up-to-date information about the statues, including their location, condition, and any relevant historical context. Your contributions will help us improve our collections management and make our records more accurate and comprehensive.
-
-</thinking>
-
 # Statue Discovery Survey - Help Guide
 ## Purpose
 The Statue Discovery Survey form is designed to collect information from the public about statues discovered on the museum's premises. Your contributions will help us improve our collections management and make our records more accurate and comprehensive.

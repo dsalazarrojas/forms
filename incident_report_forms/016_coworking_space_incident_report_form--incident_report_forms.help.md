@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect incident reports from coworking spaces within the organization. The purpose of this form is to document and track incidents that have occurred in these shared spaces, allowing the team to quickly and accurately report and respond to any issues that may arise. This form is intended to be completed by staff members who have witnessed or been involved in an incident, and its fields are designed to provide detailed information about the incident, including its location, date and time, description, and resolution status.
-
-Before starting, please make sure to review the fields carefully and answer each question accurately. If you're unsure about any field or have any questions, please don't hesitate to reach out to your supervisor or the incident response team.
-
-</thinking>
-
 # Coworking Space Incident Report Form - Help Guide
 ## Purpose
 The purpose of this form is to collect incident reports from coworking spaces within the organization, allowing for swift and accurate handling of incidents.

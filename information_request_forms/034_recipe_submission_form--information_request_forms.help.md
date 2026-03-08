@@ -1,15 +1,3 @@
-<thinking>
-The form purpose is to collect user-generated content (recipes) for a platform, likely a food or cooking-focused website or application. This form is designed to collect essential information about the recipe, including its name, description, cooking time, and cooking temperature. Additionally, it captures the list of ingredients, cooking method, and tags for categorization. The form also asks for the submittor's details, including name, contact information (email and phone number), and a file attachment (if desired). The form is likely used for recipe sharing, discovery, and categorization, allowing users to find and explore new recipes based on their preferences and dietary needs.
-
-To prevent duplication, the platform can use the collected information to check for existing recipes and prevent users from submitting the same recipe multiple times.
-
-The form's structure and field types are designed to ensure that users can provide all the necessary information in an organized and intuitive manner. The use of checkboxes, dropdown menus, and text fields allows for clear and concise entry of data.
-
-The platform may use machine learning algorithms to analyze the submitted recipes and provide suggestions for tags, cooking methods, or other relevant information to users.
-
-The form's data will be used to generate a public recipe list that is easily accessible and searchable for users.
-</thinking>
-
 # Recipe Submission Form - Help Guide
 
 ## Purpose

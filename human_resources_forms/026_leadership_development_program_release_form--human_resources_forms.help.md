@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Leadership Development Program Release Form - Help Guide
 ## Purpose
 This form is designed to collect information from participants who wish to release from the Leadership Development Program. It is used to gather necessary details for the release process and ensure a smooth transition for the participant.

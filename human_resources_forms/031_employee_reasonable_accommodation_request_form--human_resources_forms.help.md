@@ -1,12 +1,3 @@
-<thinking>
-The form is used to request reasonable accommodation for employees with disabilities or medical conditions that require special assistance or modifications in the workplace. This form is to be filled out by the employee requesting the accommodation, and it is a mandatory field for employees to provide detailed information about their needs. The purpose of this form is to ensure that the employee's accommodation request is processed in a timely and confidential manner.
-
-The form is divided into several sections that ask for the employee's name, job title, reason for the accommodation, type of accommodation required, and other relevant details. The form also requires a medical document upload, employee and manager signatures, and the date and time the form was submitted.
-
-Please note that this form is for internal use only, and the information provided should be kept confidential.
-
-</thinking>
-
 # Employee Reasonable Accommodation Request Form - Help Guide
 ## Purpose
 The Employee Reasonable Accommodation Request Form is used to request and document reasonable accommodations for employees with disabilities or medical conditions that require special assistance or modifications in the workplace.

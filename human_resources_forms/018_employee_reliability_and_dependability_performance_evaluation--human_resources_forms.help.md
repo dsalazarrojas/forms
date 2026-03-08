@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Reliability And Dependability Performance Evaluation - Help Guide
 ## Purpose
 The "Employee Reliability and Dependability Performance Evaluation" form is a tool used to assess an employee's overall performance and reliability in their role. This form helps managers evaluate an employee's strengths and weaknesses, providing feedback and guidance for growth and improvement. The evaluation includes ratings and open-ended feedback sections to help managers provide concrete and constructive feedback.

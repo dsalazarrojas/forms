@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to collect information from users for Knowledge Management Consulting services. It's meant to be completed by users who need guidance on knowledge management, such as IT teams, project managers, or knowledge architects. 
-
-The form is designed to gather the user's name, email, message, assigned user, and other relevant details. 
-
-This form should not be used for other purposes, and users who are not from the intended audience might not be able to complete the form due to missing required fields or unclear information. Users who have completed the form previously should not need to fill it again.
-
-</thinking>
-
 # knowledge_management_consulting_contact_form - Help Guide
 ## Purpose
 This form is used to request Knowledge Management Consulting services for guidance on knowledge management processes, tools, and best practices.

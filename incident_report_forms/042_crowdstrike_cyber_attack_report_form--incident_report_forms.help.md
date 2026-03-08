@@ -1,9 +1,3 @@
-<thinking>Before we dive into the help guide, let's break down the purpose and requirements of the "CrowdStrike Cyber Attack Report Form". This form is designed to collect and report information about cybersecurity incidents that have occurred within an organization. The form is intended to gather details about the incident, including the incident title, description, date it happened, incident type, severity, status, and assets involved. The form is meant to be completed by incident responders or investigators to provide a comprehensive report of the incident. It's essential to ensure that the form is completed accurately and thoroughly to help identify and respond to potential cyber threats.
-
-Before filling out the form, please note that the form is not intended to be a duplicate report. If you've already reported the incident, please do not submit another report. Also, ensure that the information provided is accurate and up-to-date to help the incident response team respond effectively.
-
-Now, here is the user-facing help guide for the "CrowdStrike Cyber Attack Report Form":</thinking>
-
 # CrowdStrike Cyber Attack Report Form - Help Guide
 ## Purpose
 The CrowdStrike Cyber Attack Report Form is a tool used to report and document cybersecurity incidents. The form is designed to collect detailed information about each incident, enabling the incident response team to respond quickly and effectively.

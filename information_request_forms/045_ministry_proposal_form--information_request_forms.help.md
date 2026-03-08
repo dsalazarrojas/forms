@@ -1,12 +1,3 @@
-<thinking>
-To create a helpful form for ministry proposal submissions, we should ensure that it is straightforward and easy to understand for our end-users. 
-
-First, let's verify that the form is not a duplicate and if so, we should provide feedback to the user about the reason for rejection. Also, to make the form more user-friendly, it would be great if the form fields can be categorized into sections, with headers that explain each category clearly. 
-
-The following guide will walk through the purpose of the form, instructions on how to complete it, and a field-by-field explanation of each component.
-
-</thinking>
-
 # Ministry Proposal Form - Help Guide
 ## Purpose
 

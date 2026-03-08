@@ -1,8 +1,4 @@
-> <thinking>
-The purpose of this form is to collect information about an individual's health history, which will be used to assess their fitness for employment with the company. This form is part of the pre-employment process and is intended to ensure that the individual is aware of and understands their health status. 
-</thinking>
-
-# pre_employment_health_questionnaire - Help Guide
+> # pre_employment_health_questionnaire - Help Guide
 ## Purpose
 The pre-employment health questionnaire is designed to collect information about your health history, which will be used to assess your fitness for employment with the company.
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the impact of media production employment flexibility on employees. The form is part of a larger initiative to gather data on the effectiveness of flexible work arrangements in the media industry. By completing this form, users will provide valuable insights into their experiences and perceptions of flexible work arrangements, helping to inform decisions on implementing policies that benefit both employees and the organization.
-</thinking>
-
 # media_production_employment_flexibility_impact_survey - Help Guide
 ## Purpose
 The media production employment flexibility impact survey is a tool to gather insights on the effectiveness of flexible work arrangements in the media industry. The survey aims to understand how employees perceive and experience flexibility in their jobs, and to inform decisions on implementing policies that benefit both employees and the organization.

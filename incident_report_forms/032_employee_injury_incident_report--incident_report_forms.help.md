@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to document incidents involving employees, such as injuries or accidents, to ensure accurate tracking and reporting of workplace accidents. 
-The form will collect information about the employee involved, the incident details, and the supervisor's contact information. This information will help management track and manage incidents, ensuring a timely and effective response.
-
-To complete this form, the employee or someone who witnessed the incident must provide accurate and detailed answers to the questions. If you are unsure about the information or have any questions, please don't hesitate to reach out to your supervisor or HR department.
-</thinking>
-
 # Employee Injury Incident Report - Help Guide
 ## Purpose
 This form is used to document employee injuries and incidents to ensure accurate tracking and reporting.

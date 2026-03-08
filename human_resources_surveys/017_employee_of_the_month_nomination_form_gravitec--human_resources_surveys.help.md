@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to collect information for the "Employee of the Month" nomination process within the organization. The purpose of this form is to gather details about the employee being nominated, their nominator, and the reasons behind the nomination. 
-
-Before starting the nomination process, please ensure that:
-
-* You are authorized to nominate an employee.
-* The employee being nominated has not been nominated previously for the same month and year.
-* You have provided accurate information to avoid potential errors in the nomination process.
-
-</thinking>
-
 # employee_of_the_month_nomination_form_gravitec - Help Guide
 ## Purpose
 The "Employee of the Month" nomination form is used to recognize and reward outstanding employee performance and contributions within the organization.

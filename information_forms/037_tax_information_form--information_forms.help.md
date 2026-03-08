@@ -1,13 +1,3 @@
-<thinking>
-This form appears to be a comprehensive tax information form designed to collect details about an individual or business's tax-related information. It covers a wide range of fields, including personal details, tax return information, business entity details, and other relevant tax-related information. The form is likely used for tax-related purposes, such as reporting tax returns or submitting tax-related documents. 
-
-Given the fields included, it seems that the form is intended for both individual and business entities, with fields such as "First Name", "Last Name", "Tax ID Number", "Address", and "Email" suggesting a focus on individual tax information, while fields like "Business Entity Type", "Business Address", "Business Phone", and "Business EIN" point to a focus on business-related tax information.
-
-The form's structure and field labels suggest that it may be used by tax professionals, accountants, or tax filers to collect and verify tax-related information. 
-
-Before diving into the specific instructions on how to complete this form, it's worth noting that some field labels may be unclear or too generic, and the form's overall structure could be improved with more specific and descriptive labels. 
-
-Please let us know if you'd like me to continue with specific instructions on how to complete the form.</thinking>
 # Tax Information Form - Help Guide
 ## Purpose
 The Tax Information Form is designed to collect tax-related information from individuals and businesses. It's intended for tax professionals, accountants, or tax filers to collect and verify tax-related data.

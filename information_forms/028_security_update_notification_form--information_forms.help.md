@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from users regarding security updates. The purpose of this form is to provide an efficient and structured way to collect relevant details from users, ensuring that their input is captured accurately and thoroughly. This form should only be used for security-related updates and not for other types of notifications. To avoid duplication of effort, ensure that you have not already submitted a similar request recently.
-</thinking>
-
 # Security Update Notification Form - Help Guide
 ## Purpose
 The Security Update Notification Form is a crucial tool used to gather information from users about security updates. This form ensures that your input is captured accurately and thoroughly, enabling our team to address any security concerns efficiently.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Life Design Detailed Information - Help Guide
 
 ## Purpose

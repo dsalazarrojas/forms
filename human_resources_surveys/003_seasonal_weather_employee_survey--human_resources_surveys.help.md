@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Seasonal Weather Employee Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from employees about their experiences with seasonal weather on site. Your input will help us identify areas of improvement and provide better support during extreme weather conditions.

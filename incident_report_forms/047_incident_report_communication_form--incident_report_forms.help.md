@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This internal reasoning block helps to explain the form's purpose, checking if it's relevant and non-duplicate.
 
 # Incident Report Communication Form - Help Guide

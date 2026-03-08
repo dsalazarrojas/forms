@@ -1,5 +1,3 @@
-<thinking>Rotating Schedule Time Off form is used to request time off for a specific period, allowing employees to submit their requests with details of their desired time off dates and reason for absence. This form is used in the Human Resources department and is not a replacement for other time off forms in other departments. To ensure accurate and efficient processing of employee time off requests, please review and fill out the form completely and accurately. Before filling out this form, check that you have not already submitted a time off request for the same period. If you are unsure whether this form is suitable for your request, please consult with your HR representative.</thinking>
-
 # rotating_schedule_time_off_form - Help Guide
 ## Purpose
 The Rotating Schedule Time Off form is designed to allow employees to request time off for a specific period. This form collects information about the employee's name, start and end dates of the time off period, and the reason for the absence.

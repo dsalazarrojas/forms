@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information related to team coaches requesting time off from their work, including the employee requesting the time off, start and end dates, reason for the time off, and approval status. The form is intended to be completed by team coaches, who are the employees' representatives, and is used to track the approval and denial of team coach time off requests.
-
-Before completing this form, please ensure that you have the necessary approvals and permissions to do so. Also, double-check that the form is not being used to request time off for an employee who is already on leave or has an existing time off request.
-
-Please note that this form is not intended for use in emergency situations or for employees who are on a critical or high-priority role.
-
-To avoid duplication of efforts, ensure that you are not completing this form for an employee who has already submitted a time off request through other channels.
-</thinking>
-
 # Team Coach Time Off Form - Help Guide
 ## Purpose
 This form is used by team coaches to request time off for their employees. It helps track and manage the team coach's availability and work schedule.

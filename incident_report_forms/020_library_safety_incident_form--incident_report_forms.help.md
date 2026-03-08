@@ -1,10 +1,3 @@
-<thinking>
-To create a comprehensive user-facing help guide for the Library Safety Incident Form, I'll analyze the form structure and content based on the provided YAML fields. Since the form is intended for reporting incidents in a library setting, it's likely used to gather information on potential safety concerns or incidents that occurred within the library. This form will help identify areas of concern and guide follow-up actions.
-
-The form consists of various fields that cover the incident date, type, location, description, reported by, safety measures, investigation result, outcome, recommendations, and follow-up. Each field is designed to collect specific information that will aid in understanding and addressing the incident.
-
-</thinking>
-
 # Library Safety Incident Form - Help Guide
 ## Purpose
 The Library Safety Incident Form is designed to collect information about incidents that occurred within the library. This form helps identify potential safety concerns and guides follow-up actions to prevent similar incidents in the future.

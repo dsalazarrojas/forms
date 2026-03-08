@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect basic customer information for a business or organization. This form is likely used for customer sign-up, registration, or other similar purposes. To avoid duplication, the form should be used only once per customer, and the information should not be submitted if the customer has already provided it to the business previously.
-</thinking>
-
 # Basic Customer Information Form - Help Guide
 ## Purpose
 The Basic Customer Information Form is designed to collect essential details from customers for business purposes. This form serves as a standard template for collecting customer information, ensuring accuracy and consistency.

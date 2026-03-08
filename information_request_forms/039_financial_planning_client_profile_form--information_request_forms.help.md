@@ -1,10 +1,3 @@
-<thinking>
-We're not just designing a form for the sake of it - we're creating a crucial tool for clients to provide essential information about themselves. The Financial Planning Client Profile Form is a critical document used to capture and understand a client's financial situation, goals, and risk tolerance. This form helps us tailor our services and advice to meet their unique needs. 
-To use this form correctly, please ensure you fill it out completely and accurately, and don't reuse or duplicate any information.
-
-We also need to check for duplicate entries before saving the data, so please be mindful of this when filling out the form.
-</thinking>
-
 # Financial Planning Client Profile Form - Help Guide
 ## Purpose
 The Financial Planning Client Profile Form is designed to collect essential information about a client's personal and financial details. This form helps us understand their financial situation, goals, and risk tolerance, enabling us to provide personalized services and advice.

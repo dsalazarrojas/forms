@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information on calamities or disasters that have occurred, providing critical data for response and recovery efforts. It should be used when a calamity is reported, and the goal is to gather information that can inform the response process. Before proceeding, ensure that you're not duplicating an already submitted report for the same calamity.
-
-</thinking>
-
 # Calamity Response Assessment - Help Guide
 ## Purpose
 The Calamity Response Assessment form is a crucial tool for collecting and tracking information about calamities, facilitating effective response and recovery efforts.

@@ -1,21 +1,3 @@
-<thinking>
-To avoid duplication and ensure accuracy, the following internal considerations should be kept in mind when designing this form:
-
-*   The form's primary purpose is to collect information from users for a dictionary lookup request.
-*   The form should not be used for other purposes or to collect unnecessary data.
-*   Each field should be clearly labeled to avoid confusion.
-*   Fields requiring user input should be clearly marked as required to avoid missing information.
-*   The form should allow for multiple language selections to account for users who may be requesting translations.
-*   A "Definition Term" field should allow for a single selection to avoid multiple selections.
-*   A "Request Definition Language" field should allow for multiple selections to account for various languages.
-*   "Definition", "Translation Request", "Language", and "Follow-up" fields should be clearly marked as required to ensure accurate and complete information.
-*   A "Date" and "Time" field are optional to account for flexibility in request timing.
-*   A "Note" field is required for additional information and context.
-*   An "Email Address", "Phone Number", and "Assigned Tool" fields are required for contact and coordination purposes.
-*   A "Submit" field is not technically part of the form but rather a button for submission.
-
-</thinking>
-
 # Dictionary Lookup Request Form - Help Guide
 ## Purpose
 This form is designed to collect information for a dictionary lookup request. Please fill out the form accurately and thoroughly to ensure your request is processed efficiently.

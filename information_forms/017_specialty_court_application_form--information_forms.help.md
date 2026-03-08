@@ -1,11 +1,3 @@
-<thinking>
-This form is used to capture information about a Specialty Court application. It is typically used by court staff or authorized personnel to track the status of applications for specialized court programs such as Drug Court, Mental Health Court, or Veterans Court. To fill out this form, you should only need to complete it once for each application.
-
-The form is divided into several sections, each representing a different aspect of the application. 
-
-The goal of this form is to ensure that each application is accurately tracked and that relevant information is captured to aid in case management.
-</thinking>
-
 # Specialty Court Application Form - Help Guide
 ## Purpose
 This form is used to track and manage specialty court applications.

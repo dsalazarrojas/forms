@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I need to understand the purpose of the "Nursing Family Event Leave Of Absence Form". This form seems to be used for employees to request a leave of absence, likely due to a family event or emergency. The "Submitter" fields suggest that this form is designed for employees to submit requests on behalf of family members. However, I'm not sure what specific family events are considered valid reasons for leave, such as bereavement, marriage, or family illness.
-</thinking>
-
 # Nursing Family Event Leave Of Absence Form - Help Guide
 ## Purpose
 The "Nursing Family Event Leave Of Absance Form" is used for employees to request a leave of absence due to a family event or emergency.

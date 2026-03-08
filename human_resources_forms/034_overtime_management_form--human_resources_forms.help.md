@@ -1,7 +1,3 @@
-<thinking>
-To ensure this form is used correctly, please note that this form is intended for human resources management, specifically for managing overtime requests. Before starting, please verify that the form's purpose aligns with your role and needs. Also, ensure that you are submitting a new request and not duplicating an existing one. If you're unsure, check the form's current status in your system's database or consult with your HR department.
-</thinking>
-
 # Overtime Management Form - Help Guide
 ## Purpose
 The Overtime Management Form is used to manage overtime requests submitted by employees. It allows employees to request extra working hours and provides a framework for managers to approve or reject these requests.

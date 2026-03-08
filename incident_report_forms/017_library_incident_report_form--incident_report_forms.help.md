@@ -1,8 +1,3 @@
-<thinking>
-The "library_incident_report_form" is used to gather information about incidents that occur within a library or other similar institution. This form is intended to capture the details of the incident, including its type, date, time, location, and description, as well as information about the person who reported it. The data collected through this form will likely be used to report and track incidents for internal management purposes. It is assumed that the user is aware of the general purpose of the form and is not repeating this information already provided elsewhere. Please proceed with the help guide.
-
-</thinking>
-
 # library_incident_report_form - Help Guide
 ## Purpose
 The "library_incident_report_form" is used to collect information about incidents that occur within a library or other similar institution.

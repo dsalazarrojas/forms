@@ -1,5 +1,3 @@
-<thinking>Temporary Assignment Discharge Form is used to formally end an assignment for an employee. This form must be completed by the supervisor or manager who is discharging the assignment. The purpose of this form is to ensure that all necessary information is documented and communicated to relevant parties. To complete this form, please follow the instructions below. Make sure to review and understand the purpose of each field before proceeding.</thinking>
-
 # Temporary Assignment Discharge Form - Help Guide
 ## Purpose
 This form is used to formally end an assignment for an employee. It is a necessary step in the process of managing employee assignments and responsibilities.

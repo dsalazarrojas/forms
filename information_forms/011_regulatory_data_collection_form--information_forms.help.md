@@ -1,13 +1,3 @@
-<thinking>
-
-This help guide is designed to assist users in completing the "Regulatory Data Collection Form". The purpose of this form is to collect regulatory data from organizations, with a focus on compliance updates, audit history, supporting documentation, and other relevant information. 
-
-The guide is structured to provide a clear understanding of the form's purpose, how to fill it out, and what each field represents. 
-
-This guide will assume that the user is familiar with the basic concepts of regulatory data collection and compliance updates.
-
-</thinking>
-
 # Regulatory Data Collection Form - Help Guide
 ## Purpose
 The "Regulatory Data Collection Form" is designed to collect and store regulatory data from organizations, ensuring accurate and up-to-date information for compliance and reporting purposes.

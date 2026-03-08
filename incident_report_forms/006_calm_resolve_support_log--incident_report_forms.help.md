@@ -1,7 +1,3 @@
-<thinking>
-This form is used by support staff to log and document support sessions. It helps track incidents, actions taken, and resolution statuses. Before proceeding, please ensure this is the correct form for your purpose and that you're not duplicating an existing record.
-</thinking>
-
 # Calm Resolve Support Log - Help Guide
 ## Purpose
 The Calm Resolve Support Log form is designed to capture key information about support sessions, including staff names, client information, and resolution details. This guide will walk you through each field to help you complete the form accurately and efficiently.

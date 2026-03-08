@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect registration information for retail workforce reskilling programs. 
-
-The purpose of this form is to gather data about an employee's interest in reskilling programs, their preferences, and other relevant details. It is intended to be completed by retail employees who want to participate in reskilling programs.
-
-Before filling out this form, please ensure you have not already registered for reskilling programs before. This form is meant for new registrations only and will not allow you to register for a second instance of the same program.
-</thinking>
-
 # retail_workforce_reskilling_registration_form - Help Guide
 ## Purpose
 The purpose of this form is to collect registration information for retail workforce reskilling programs.

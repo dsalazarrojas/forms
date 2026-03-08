@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning block: This form is used by cheerleading teams to report and document incidents that have occurred during practice, competition, or other team events. The form helps to identify and address issues related to team behavior, sportsmanship, and adherence to team rules. It is essential to complete this form accurately and thoroughly to ensure that incidents are properly documented and addressed.
-</thinking>
-
 # Cheerleading Demerit Form Template - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-We're creating a comprehensive guide to help users understand the purpose and functionality of the Supervisor Survey form. This form is designed to gather information from supervisors about their surveying practices, including frequency and content of their surveys. The form is meant to be completed by supervisors, and the data collected will be used to support organizational decision-making and resource planning.
-
-The primary purpose of this form is to collect information from supervisors about their current surveying practices, such as how often they administer manager and employee surveys, what questions they include, and any other relevant details. This information will help in creating a unified understanding and support system-wide surveying initiatives.
-
-The guide is designed to be easy to follow and understand, with clear explanations of each field and its purpose.
-
-</thinking>
-
 # Supervisor Survey - Help Guide
 ## Purpose
 The Supervisor Survey form is designed to gather information from supervisors about their surveying practices, including frequency and content of their surveys.

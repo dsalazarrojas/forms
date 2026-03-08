@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect information about a property, specifically for closing purposes. The goal is to gather details about the property's address, seller's contact information, property characteristics, and utility systems. This form is likely used by real estate agents or property managers to document and report on properties. This form should be completed for each property, and it's essential to fill it out accurately to ensure that all relevant information is captured.
-
-Before filling out this form, ensure that you are not duplicating efforts and that this form is not already completed for the same property. Double-check the property address to avoid errors.
-
-</thinking>
-
 # Closing Property Information Form - Help Guide
 ## Purpose
 The Closing Property Information Form is a tool used to gather detailed information about a property, ensuring accurate and complete documentation for closing purposes.

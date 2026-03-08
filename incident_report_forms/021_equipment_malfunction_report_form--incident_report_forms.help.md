@@ -1,7 +1,3 @@
-<thinking>
-We need to make sure that the form's purpose is clear: **equipment_malfunction_report_form** is designed for reporting malfunctions or issues with equipment used in our facility. This form ensures that we capture accurate information about the malfunction, allowing our maintenance team to identify and address the root cause, and assign resources for repair efficiently. By using this form, we reduce duplication of work and miscommunication. To ensure accuracy and consistency, please make sure to only report new issues, and do not include issues already reported or resolved. 
-</thinking>
-
 # Equipment Malfunction Report Form - Help Guide
 ## Purpose
 The equipment malfunction report form is used to document and report malfunctions or issues with equipment used in our facility. This form helps the maintenance team quickly identify and address the problem, reducing downtime and costs.

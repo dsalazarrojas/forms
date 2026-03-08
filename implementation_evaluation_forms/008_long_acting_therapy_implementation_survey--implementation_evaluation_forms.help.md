@@ -1,8 +1,3 @@
-<thinking>
-Please note that the form is designed to gather information from end users about their experiences with long-acting therapies. This form should only be filled out by individuals who have actually received long-acting therapy or have experience working with it. Please do not fill out this form if you are not a suitable respondent. Also, please note that this form is not a comprehensive document and should not be used as a substitute for in-depth evaluation or research studies.
-
-</thinking>
-
 # Long Acting Therapy Implementation Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and experiences from end users about the implementation of long-acting therapies. Your input will help us understand how long-acting therapies are being used in real-world settings and what benefits and challenges users have faced.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain informed consent from research participants for a study or experiment. The form ensures that participants understand the purpose, risks, and benefits of the research and agree to participate voluntarily. This form is typically used in academic, medical, or social science research. Before completing this form, ensure that the study or experiment has been reviewed and approved by the relevant institutional review board (IRB) or ethics committee.
-</thinking>
-
 # Research Informed Consent Form - Help Guide
 ## Purpose
 The Research Informed Consent Form is a crucial document that helps ensure research participants are fully informed about the purpose, risks, and benefits of the study or experiment. This form is a legally binding agreement between the researcher and the participant that outlines the participant's rights and responsibilities.

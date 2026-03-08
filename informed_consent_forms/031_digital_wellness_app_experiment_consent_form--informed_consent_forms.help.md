@@ -1,7 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for the "Digital Wellness App Experiment Consent Form", let's first clarify its purpose and relevance. This form is intended to collect informed consent from participants in a digital wellness app experiment. It's crucial to understand that this form ensures participants' rights and provides them with information about the study, its risks and benefits, and their role as participants. By completing this form, participants are acknowledging their understanding and agreement to participate in the experiment.
-</thinking>
-
 # Digital Wellness App Experiment Consent Form - Help Guide
 ## Purpose
 The Digital Wellness App Experiment Consent Form is a crucial document that protects the rights and interests of participants in a digital wellness app experiment. It outlines the study's objectives, risks, and benefits, and requires participants to consent to their participation. This form is essential for both participants and researchers to ensure a fair and transparent experiment.

@@ -1,6 +1,3 @@
-<thinking> 
-This form appears to be an appraisal form for an engineer, likely used to evaluate an engineer's performance, skills, or project outcomes. The purpose of this form could be to assess an engineer's strengths and weaknesses, identify areas for improvement, and document any recommended changes or additional comments. To confirm, please let me know if this is the intended use case. Additionally, it seems like some of the fields may be redundant or have unclear labels. For example, "recommended_changes" and "engineer_comments" might be related fields, and "reviewer_department" and "reviewer_title" might be optional fields that could be skipped. Please clarify the purpose and design of this form to ensure I provide the most accurate and practical help guide.</thinking>
-
 # Engineer Appraisal Form - Help Guide
 ## Purpose
 The Engineer Appraisal Form is used to assess an engineer's performance, skills, or project outcomes. This form helps to identify areas of improvement and document recommended changes or additional comments.

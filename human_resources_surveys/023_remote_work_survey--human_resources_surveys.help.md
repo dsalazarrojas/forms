@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about remote work arrangements and the impact of the COVID-19 pandemic on the workforce. The purpose of this form is to gather data on how employees have adapted to remote work, their experiences with various tools and technologies, and how they perceive the effectiveness of different approaches to remote work. This form is intended for HR teams to gather insights on the current state of remote work and identify areas for improvement.
-
-Before completing the form, please ensure that you have read and understand its purpose and the questions asked. This form should not be completed if you have already done so in the past.
-
-</thinking>
-
 # Remote Work Survey - Help Guide
 ## Purpose
 The Remote Work Survey is designed to collect information about remote work arrangements and the impact of the COVID-19 pandemic on the workforce.

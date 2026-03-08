@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # inspector_estimator_interview_questionnaire - Help Guide
 
 ## Purpose

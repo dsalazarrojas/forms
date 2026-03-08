@@ -1,5 +1,3 @@
-<thinking>...This guide is intended to help employees and managers understand how to complete the Temporary Work Contract Extension Form. The form's purpose is to extend the contract of an employee who is currently working on a temporary or project-based contract. This form is usually completed by employees who need to continue their work beyond the original contract end date. The form is also used for internal approval purposes within the organization. Ensure that only one form is submitted for each employee contract extension and do not submit duplicate forms for the same contract extension...</thinking>
-
 # Temporary Work Contract Extension Form - Help Guide
 ## Purpose
 The Temporary Work Contract Extension Form is used to extend the contract of an employee who is currently working on a temporary or project-based contract. This form is intended to provide a formal way to request an extension to the contract end date for the employee.

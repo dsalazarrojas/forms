@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information on the talent acquisition process for a company. The form is intended to be completed by someone who is responsible for talent acquisition, such as a recruiter or HR representative. 
-
-The form has multiple sections, each with its own set of questions or fields. Some sections have select_one or select_multiple options, while others have text or date fields. The form is meant to gather information on whether a candidate was acquired, what the hiring process consisted of, and what information was reviewed during the hiring process. 
-
-This form appears to be a general template and does not seem to have any specific business logic or rules built into it. Therefore, I will provide a neutral and practical explanation of each field to help end users understand how to complete it. 
-
-</thinking>
-
 # Talent Acquisition Report Form - Help Guide
 ## Purpose
 The Talent Acquisition Report Form is designed to collect information on the talent acquisition process for a company. This includes whether a candidate was acquired, the hiring process, candidate information, and other relevant details.

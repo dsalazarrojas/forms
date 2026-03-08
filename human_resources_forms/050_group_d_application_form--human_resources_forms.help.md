@@ -1,13 +1,3 @@
-<thinking>As a form designer and technical writer, I will carefully consider the purpose and structure of the Group D Application Form to create a user-friendly help guide. 
-
-The purpose of this form is to collect information from applicants for a Group D application, which likely involves evaluating candidates for a specific job or position within the company. The form appears to be designed to gather personal and professional details from applicants, including their name, contact information, job type, work hours, and other relevant details.
-
-To ensure the guide is clear and concise, I will carefully review each field and provide a brief explanation of its purpose, without inventing unsupported business logic.
-
-Please note that the form has several fields, and I will address each one individually in the "Field-by-Field Explanation" section.
-
-</thinking>
-
 # Group D Application Form - Help Guide
 
 ## Purpose

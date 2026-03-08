@@ -1,8 +1,3 @@
-<thinking>
-This guide is for the Pedagogical Innovation Pilot Application Form. This form is used to capture information about proposed pedagogical innovations for a pilot program. Before filling out this form, please ensure that you have a clear understanding of the innovation's purpose, timeline, and budget. Additionally, be sure to select the correct status and initiative for the project. To avoid duplication, please ensure that the form is not already submitted for the same proposal.
-
-</thinking>
-
 # Pedagogical Innovation Pilot Application Form - Help Guide
 ## Purpose
 This form is designed to gather information about proposed pedagogical innovations for a pilot program. It is essential to provide accurate and detailed information to support the evaluation and approval process.

@@ -1,5 +1,3 @@
-<thinking>
-This form is designed to collect information and feedback from interviewers about candidates during the structured interview process. It helps to assess the candidate's suitability for the position and gather data for future improvements. Please ensure that you have the necessary permissions to collect this information and that it is compliant with your organization's data protection policies. Before completing this form, make sure you have not already completed a similar form for the same candidate.</thinking>
 # Structured Interview Survey - Help Guide
 ## Purpose
 The Structured Interview Survey is a tool used to collect feedback and information from interviewers about candidates during the structured interview process. This data helps to evaluate the candidate's suitability for the position and provides valuable insights for future improvements.

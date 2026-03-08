@@ -1,7 +1,3 @@
-<thinking>
-Is this form intended to gather informed consent from clients before they receive high-frequency skin treatments? Are there any existing guidelines or requirements that this form must adhere to? Are there any specific fields that require further explanation or clarification?
-</thinking>
-
 # High-Frequency Skin Treatment Consent Form - Help Guide
 ## Purpose
 The High-Frequency Skin Treatment Consent Form is designed to obtain informed consent from clients before they receive high-frequency skin treatments. This form helps ensure that clients understand the treatment process, potential risks and benefits, and their responsibilities as a client. It also helps the treatment provider to document the client's consent and medical history.

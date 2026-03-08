@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information for patient medication management. The purpose of this form is to gather medication order, patient details, and other relevant information in a structured and organized manner. This form will help healthcare professionals to efficiently collect and record patient data.
-
-The form is divided into several sections that cater to different types of information. Each section has its own label and description to guide the user on what kind of information is required. The form fields are labeled with clear and concise descriptions to minimize confusion and errors.
-
-Before filling out the form, ensure that you have the necessary information and documents ready. It's also a good idea to review the form carefully before submitting it to avoid any mistakes.
-
-</thinking>
-
 # simple_prescription_form - Help Guide
 ## Purpose
 The "simple_prescription_form" is a form designed to collect information for patient medication management.

@@ -1,5 +1,3 @@
-<thinking>This help guide is intended to help you understand the purpose of the "Hypnotherapy Client Information Form" and how to complete it. Before you begin, please note that this form is used to gather information from clients who are undergoing hypnotherapy sessions. It's essential to provide accurate and complete information to ensure the best possible service. Please fill out this form only once for each client, and ensure that you're not duplicating any existing records.</thinking>
-
 # Hypnotherapy Client Information Form - Help Guide
 
 ## Purpose

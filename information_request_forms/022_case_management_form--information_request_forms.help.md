@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect comprehensive case information for court proceedings. It is intended to be used by court personnel to track and manage cases efficiently. Please note that each field has been carefully crafted to provide specific details that help the court understand the case's progress and requirements. To ensure accurate and complete information, please review each field carefully and provide the required details. It is crucial to avoid duplication of cases or incomplete forms, which can lead to confusion and delay in the justice system.
-</thinking>
-
 # Case Management Form - Help Guide
 ## Purpose
 The Case Management Form is designed to collect and store comprehensive case information for court proceedings. This form helps court personnel track and manage cases efficiently, ensuring accurate and complete data.

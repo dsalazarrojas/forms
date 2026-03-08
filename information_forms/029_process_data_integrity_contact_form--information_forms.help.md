@@ -1,7 +1,3 @@
-<thinking>
-The form is for users to report any issues or concerns they have about data accuracy or integrity. This form is meant to be completed by staff members or external partners when they identify errors or discrepancies in data. They should be able to provide detailed information about the issue, such as the urgency level of the report, their contact information, and any additional supporting details that can aid in the resolution process. The user should only need to fill out the form if they have not already reported the issue to the data team, and the form should not be a duplicate of an existing issue.
-</thinking>
-
 # Process Data Integrity Contact Form - Help Guide
 ## Purpose
 The Process Data Integrity Contact Form is designed to allow users to report any issues or concerns they have about data accuracy or integrity. This form helps the data team quickly identify and address potential problems.

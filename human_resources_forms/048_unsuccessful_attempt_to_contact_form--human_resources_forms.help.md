@@ -1,7 +1,3 @@
-<thinking>
-  This form is designed to collect information about instances of unsuccessful attempts to contact a customer or user, typically in a customer support or communication context. It's a tool to gather data that can help improve contact processes and provide insights for future interactions. Before filling out this form, please ensure that you have already tried to contact the individual through the methods listed in the contact method field and that the attempt has been deemed unsuccessful.
-</thinking>
-
 # Unsuccessful Attempt To Contact Form - Help Guide
 
 ## Purpose

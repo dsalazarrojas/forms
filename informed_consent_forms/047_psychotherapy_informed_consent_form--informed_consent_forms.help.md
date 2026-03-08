@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to be used as a template for informed consent in psychotherapy settings. The purpose of this form is to ensure that both the client and the therapist have a clear understanding of the consent process, including the terms of the therapy sessions, the boundaries and expectations, and the process for handling emergencies. This form is typically used as an initial step in the therapy process, where the client and therapist discuss and agree on the terms of the therapy.
-
-This form will help ensure that both parties are on the same page, reducing the risk of misunderstandings or miscommunications that could impact the effectiveness of the therapy. It also serves as a record of the consent, which can be referenced later in the therapy process.
-
-Before proceeding, please ensure that the form is not being duplicated or used for a purpose other than informed consent in a psychotherapy setting.
-</thinking>
-
 # Psychotherapy Informed Consent Form - Help Guide
 ## Purpose
 This form is used to document the informed consent between a client and a therapist in a psychotherapy setting. It covers the terms of the therapy sessions, boundaries, and emergency procedures.

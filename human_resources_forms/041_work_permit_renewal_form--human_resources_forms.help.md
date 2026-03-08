@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about employees' work permits, specifically their type, expiration dates, and renewal reasons. The form is intended for use by HR teams to streamline the process of managing employee work permits. Before starting, please ensure you have the necessary permissions to access this form.
-</thinking>
-
 # Work Permit Form - Help Guide
 ## Purpose
 The Work Permit Form is designed to collect and manage employee work permits, ensuring compliance with applicable regulations and policies. This form will guide you through the required fields for a seamless process.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Weekly Schedule And Bonus Options - Help Guide
 
 ## Purpose

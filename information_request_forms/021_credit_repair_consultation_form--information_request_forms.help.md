@@ -1,7 +1,3 @@
-<thinking>
-  This form is for a credit repair consultation. It is intended for clients to provide detailed information about themselves and their financial situations to help identify potential areas for credit repair. Please ensure that the information provided is accurate and up-to-date. If you have already submitted a credit repair consultation form, please do not submit another.
-</thinking>
-
 # credit_repair_consultation_form - Help Guide
 ## Purpose
 This form is designed for credit repair consultations. Please provide detailed information about yourself and your financial situation to help identify potential areas for credit repair.

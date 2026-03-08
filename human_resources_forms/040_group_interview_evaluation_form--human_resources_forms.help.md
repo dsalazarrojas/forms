@@ -1,23 +1,3 @@
-<thinking>
-This form is used to evaluate the performance of a group of individuals in an interview setting. It is used to provide a structured and consistent way to gather feedback on each participant's performance, skills, and behavior during the interview. This form is designed to be used by interviewers to provide an objective evaluation of each participant, and by HR staff to track and analyze the results.
-
-The purpose of this form is to capture the following information:
-
-* Job title and participant details
-* Date and time of the interview
-* Evaluation score and comment
-* Recommendation (Strongly recommended, Weakly recommended, or Not recommended)
-* Job status (Active, Inactive, Not Applicable)
-* Contact information (name, email, phone number, and notes)
-* Interviewer's comments and additional questions
-* Evaluation score scale and comment
-
-Before filling out this form, please make sure that you have a clear understanding of each participant's performance during the interview. This form should not be used to evaluate the same participant multiple times. If you need to evaluate a participant again, please create a new form instance.
-
-This form is designed to be filled out by the interviewer immediately after the interview, while the details are still fresh in their mind. If you need to review the form later, please make sure to update the evaluation score and comment accordingly.
-
-</thinking>
-
 # Group Interview Evaluation Form - Help Guide
 ## Purpose
 The Group Interview Evaluation Form is used to evaluate the performance of a group of individuals in an interview setting.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to facilitate the performance review process for employees. It captures information about the employee's performance, areas of improvement, and goals. The form is intended for use by managers to provide feedback and guidance to employees. It is not a comprehensive performance review, but rather a tool to help managers and employees have a conversation about an employee's progress and development.
-
-Before starting, please note that this form is not a one-size-fits-all solution. Managers should use it as a starting point and adapt it to their organization's specific needs and requirements.
-
-</thinking>
-
 # Performance Review Report Form - Help Guide
 
 ## Purpose

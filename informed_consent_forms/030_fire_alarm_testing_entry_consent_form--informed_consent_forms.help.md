@@ -1,9 +1,3 @@
-<thinking>
-We're designing the "fire_alarm_testing_entry_consent_form" to ensure users understand what this form is about and how to complete it correctly. This form's purpose is to gather informed consent from users before performing fire alarm testing. It's crucial to double-check if this form is relevant and not a duplicate, especially when multiple testing sessions are conducted on the same site.
-
-The form consists of multiple questions that help users provide essential information about tenant authorization, contact details, preferred testing time, testing frequency, testing method, test location, emergency contact, test date, test time, and tester name. These questions are designed to ensure users are well-informed and aware of their responsibilities during the testing process.
-</thinking>
-
 # fire_alarm_testing_entry_consent_form - Help Guide
 ## Purpose
 This form is used to gather informed consent from users before performing fire alarm testing on a given site. It's essential to complete this form to ensure that users are aware of their responsibilities and the testing process.

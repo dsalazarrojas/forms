@@ -1,7 +1,3 @@
-<thinking>
-This form is used to search and filter countries based on various criteria. The main goal is to allow users to find countries that match their specific needs. This form is a crucial tool for users who need to narrow down their search results to specific countries that fit their requirements. The form will ask for user input on different criteria such as the name of the country, its language, currency, region, and other relevant factors. This form is designed to be user-friendly and easy to use.
-</thinking>
-
 # Country Search And Filter - Help Guide
 ## Purpose
 The Country Search And Filter form is used to find countries that match specific criteria such as name, language, currency, region, and other relevant factors.

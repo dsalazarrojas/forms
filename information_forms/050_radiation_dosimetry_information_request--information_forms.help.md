@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for radiation dosimetry, which is a medical field that measures and records the amount of ionizing radiation received by an individual or device. This form is used to gather relevant data for review and analysis. Please ensure that you have the necessary permissions and approvals before submitting this form. Also, double-check that you are not duplicating an existing request.
-</thinking>
-
 # radiation_dosimetry_information_request - Help Guide
 ## Purpose
 The radiation dosimetry information request form is used to collect data for review and analysis in the field of radiation dosimetry.

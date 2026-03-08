@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to assist users in providing information about their skills, knowledge, and learning goals. The KWL (Know, Want, Learned) form is a useful tool for individuals to reflect on their current knowledge, identify areas where they need improvement, and outline their objectives.
-Before proceeding, ensure that you have a clear understanding of your current knowledge and skills. Be honest with yourself, and try to be as thorough as possible in your responses. You may want to review this help guide before filling out the form.
-To avoid duplication of effort and ensure the best possible outcome, please do not use this form if:
-- You are not familiar with your current knowledge or skills in the relevant area.
-- You are unsure of your current level of proficiency in any of the areas covered by the form.
-- You are not willing to provide accurate and truthful information.
-</thinking>
-
 # KWL Form - Help Guide
 ## Purpose
 

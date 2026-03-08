@@ -1,9 +1,3 @@
-<thinking>
-Internal note: This form is designed to collect information from end-users and provide a structured way to ask questions. It should be used when a user has a question or requires assistance. The form will help the internal teams quickly understand the context and priority of the request.
-This form should not be used to report issues that require immediate attention or for sales pitches. If you're unsure, please contact [internal support email].
-This form will not be used for marketing purposes or promotional campaigns.
-</thinking>
-
 # Ask A Question Template - Help Guide
 ## Purpose
 This template is a structured form to ask questions and seek assistance from our team. It helps us quickly understand your inquiry and provide relevant responses.

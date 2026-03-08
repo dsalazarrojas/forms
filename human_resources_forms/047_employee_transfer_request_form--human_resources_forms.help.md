@@ -1,11 +1,3 @@
-<thinking>
-This form is used to request an employee transfer between departments. It is intended for employees who want to change their department or role within the company. Please ensure that you have a valid reason for the transfer request and that you are not using this form for any other purpose.
-
-Before filling out this form, please make sure you have the necessary approvals and follow-up steps in place. This form is not a substitute for formal procedures and discussions with your manager or HR representative.
-
-When filling out this form, please be as accurate and detailed as possible. Incomplete or inaccurate information may lead to delays or rejections of your request.
-</thinking>
-
 # Employee Transfer Request Form - Help Guide
 ## Purpose
 The Employee Transfer Request Form is used to submit a formal request to transfer between departments. This form helps ensure that all necessary information is gathered and recorded for approval and processing.

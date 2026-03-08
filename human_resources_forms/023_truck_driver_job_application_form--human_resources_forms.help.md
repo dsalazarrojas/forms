@@ -1,9 +1,3 @@
-<thinking>
-We need to ensure that this form is being used correctly by the intended audience to avoid duplication and errors in the hiring process. The purpose of this form is to collect information from applicants interested in becoming truck drivers. To avoid duplicating the application process, it's essential to follow the instructions carefully, and each field should be filled out accurately and completely.
-
-To ensure the form is completed correctly, we should provide a clear and concise explanation of each field, making it easy for applicants to understand what information is being asked for and why.
-</thinking>
-
 # Truck Driver Job Application Form - Help Guide
 ## Purpose
 The Truck Driver Job Application Form is designed to collect essential information from applicants interested in becoming truck drivers. This form will be used to assess the qualifications and suitability of potential truck drivers for our company's needs.

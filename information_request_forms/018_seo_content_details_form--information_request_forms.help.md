@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect details about a content piece, specifically its SEO characteristics and target audience. This form will help gather information such as website URL, keywords, meta description, content type, content length, and target audience demographics like age, occupation, interests, education, language, location (city, region, country), income, and post code. The form is designed for users to provide specific details about the content's target audience, which is crucial for search engine optimization (SEO) purposes.
-</thinking>
-
 # seo_content_details_form - Help Guide
 ## Purpose
 The purpose of this form is to collect SEO details and target audience information about a content piece.

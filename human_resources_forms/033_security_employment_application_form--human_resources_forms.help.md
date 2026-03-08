@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to apply for security employment. The form will collect information from the user regarding their user info, contact details, employment details, work experience, skills, security clearance, references, resume upload, employment certification, education, personal details, and emergency contact information. To ensure that the form is completed correctly, it is essential to follow the instructions provided below.
-</thinking>
-
 # security_employment_application_form - Help Guide
 ## Purpose
 The "Security Employment Application Form" is a form designed to collect information from users applying for security employment. This form is used to gather user-provided data for the purpose of evaluating their eligibility for security roles.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about products, allowing users to provide details about the product's name, description, category, status, date, time, notes, email, phone number, address, and image/video URLs. This form is likely used for product management, e-commerce, or sales purposes. It's essential to complete this form accurately to ensure the product information is up-to-date and correct. To avoid duplication, ensure the product information is not already in the database before submitting it. If you're unsure about a field's relevance or requirement, refer to the form's specific instructions or contact the product owner for clarification.
-</thinking>
-
 # Product Information Form - Help Guide
 ## Purpose
 The Product Information Form collects details about products to be used for product management, e-commerce, or sales purposes.

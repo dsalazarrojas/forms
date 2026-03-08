@@ -1,5 +1,3 @@
-<thinking>... internal validation checks should be done to prevent non-duplication and ensure relevance of the form data... this form is used to monitor the impact of incidents on vessels, and it's essential to ensure accurate and consistent data entry... </thinking>
-
 # Vessel Impact Monitoring Log Form - Help Guide
 ## Purpose
 This form is used to monitor the impact of incidents on vessels, providing critical information for analysis, reporting, and decision-making.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for collecting information about radiation dosimetry, which is a measure of the amount of ionizing radiation to which a person has been exposed. The form is used to request information about an individual's radiation exposure, including details about the type of radiation, level of exposure, and date of exposure.
-
-To avoid duplication, ensure that you have not submitted this form for the same individual previously. If you need to submit for the same individual, please contact the radiation dosimetry team for assistance.
-
-</thinking>
-
 # Radiation Dosimetry Information Request - Help Guide
 ## Purpose
 The Radiation Dosimetry Information Request form is used to collect information about radiation exposure from individuals. This form is intended to be completed by facility staff or individuals who need to report their own exposure.

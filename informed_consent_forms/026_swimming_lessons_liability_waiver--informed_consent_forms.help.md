@@ -1,5 +1,3 @@
-<thinking>As a Swimming Lessons Liability Waiver form, this document is used to obtain legal consent from parents or guardians for children participating in swimming lessons. It serves as a safety measure to protect the organization offering swimming lessons and the child from any potential risks or accidents that may occur during the program. By having parents or guardians sign this waiver, they acknowledge that they understand and accept the risks associated with swimming and that they will not hold the organization responsible for any injuries or accidents that may happen to their child. This form is a mandatory requirement for all children participating in swimming lessons.</thinking>
-
 # Swimming Lessons Liability Waiver - Help Guide
 ## Purpose
 The Swimming Lessons Liability Waiver form is a document that obtains legal consent from parents or guardians for children participating in swimming lessons.

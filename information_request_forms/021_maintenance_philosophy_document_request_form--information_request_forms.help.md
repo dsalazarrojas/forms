@@ -1,7 +1,3 @@
-<thinking>
-To confirm the form's purpose and relevance, the Maintenance Philosophy Document Request Form is used to gather information from users to create a document that outlines the maintenance philosophy for a specific facility. The facility maintenance philosophy document is a detailed guide that outlines the approach and procedures for maintaining the facility's equipment, systems, and infrastructure. This form helps in ensuring that the document is created only once per facility, and that all necessary information is captured for the creation of the document.
-</thinking>
-
 # Maintenance Philosophy Document Request Form - Help Guide
 ## Purpose
 The Maintenance Philosophy Document Request Form is used to gather information from users to create a comprehensive Maintenance Philosophy Document (MPD) for a specific facility. This document outlines the maintenance approach and procedures for the facility's equipment, systems, and infrastructure.

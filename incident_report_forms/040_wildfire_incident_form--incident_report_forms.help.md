@@ -1,5 +1,3 @@
-<thinking>Is the form "wildfire_incident_form" used for reporting incidents related to wildfires? The form is designed to collect information about wildfire incidents, including location, time, type, size, and other relevant details. It's likely that the form is used by fire departments or emergency services to report and manage wildfires. I will provide a help guide that explains the purpose, how to complete the form, and each field in detail.</thinking>
-
 # wildfire_incident_form - Help Guide
 ## Purpose
 The wildfire_incident_form is used to report and manage wildfires. Fill out this form to provide crucial information about a wildfire incident to help emergency services respond effectively.

@@ -1,7 +1,3 @@
-<thinking>
-The Employee Performance Review Form is a tool used to evaluate and provide feedback on an employee's performance, progress, and development areas. This form is used by managers to assess an employee's performance level, suggest areas for improvement, and make recommendations for promotion or raise. The form captures essential information, including personal details, performance metrics, and evaluation results. Ensure that this form is used in accordance with the organization's HR policies and procedures.
-</thinking>
-
 # Employee Performance Review Form - Help Guide
 
 ## Purpose

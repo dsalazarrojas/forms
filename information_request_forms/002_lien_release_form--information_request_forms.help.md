@@ -1,7 +1,3 @@
-<thinking>
-This form is used to release a lien on a property, typically in a real estate or construction context. The Lien Release Form is used by lien holders to acknowledge that they have received payment or satisfaction of a claim on a property. This form serves as proof that the lien has been released, and it is often required by law or by the parties involved in a transaction.
-</thinking>
-
 # Lien Release Form - Help Guide
 ## Purpose
 The Lien Release Form is a document that confirms the release of a lien on a property. This form is used to provide evidence that a lien holder has received payment or satisfaction of their claim, and it is often required for various legal and financial transactions.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about adverse events that may have occurred during a pharmaceutical trial. The form is designed to be completed by the sponsor or investigator of the trial, and the information collected will be used to report adverse events to regulatory agencies. This form should only be used for reporting adverse events that have already occurred, and not for predicting or anticipating potential events.
-</thinking>
-
 # Pharmaceutical Trial Adverse Event Incident Report - Help Guide
 ## Purpose
 The purpose of this form is to report adverse events that occurred during a pharmaceutical trial. This form collects information on the incident, including the sponsor, date and location of the event, and details about the event, including the adverse event cause, type, and outcome.

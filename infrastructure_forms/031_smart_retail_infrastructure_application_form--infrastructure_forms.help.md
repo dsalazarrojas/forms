@@ -1,5 +1,3 @@
-<thinking>Internal reasoning: This form is for collecting information related to smart retail infrastructure applications. This form is not intended for general public use and requires a valid justification to avoid duplication. Only authorized users should have access to fill out this form. The form contains various fields for inputting information about stores, applications, projects, technologies, and more. It includes select-one and select-multiple fields for specific options and text fields for notes.</thinking>
-
 # Smart Retail Infrastructure Application Form - Help Guide
 ## Purpose
 The Smart Retail Infrastructure Application Form is designed to collect relevant information for the implementation of smart retail infrastructure applications. This form should only be filled out by authorized users after careful consideration.

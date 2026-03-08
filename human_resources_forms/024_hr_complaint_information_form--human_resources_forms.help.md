@@ -1,7 +1,3 @@
-<thinking>
-This form is used by HR department to collect information about employee complaints. It's essential to ensure that the form is filled out correctly to gather relevant data. Please ensure that you are filling this form for a legitimate reason and not duplicating an existing complaint. This form will be reviewed by the HR department, so please be as specific and detailed as possible. If you are unsure about any information, please contact your HR representative for guidance.
-</thinking>
-
 # HR Complaint Information Form - Help Guide
 
 ## Purpose

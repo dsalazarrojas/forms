@@ -1,8 +1,3 @@
-<thinking>
-This form is used by employees to report their absence from work. It's essential to fill it out accurately and completely to ensure that their manager is informed and can take necessary steps to manage attendance and productivity.
-Before filling out the form, please make sure you are reporting your absence only once for each period of absence. If you need to report multiple absences, please fill out a new form for each instance.
-</thinking>
-
 # Employee Absenteeism Form - Help Guide
 ## Purpose
 The "Employee Absenteeism Form" is used by employees to report their absence from work. This form helps the management to understand the reason for absence and manage attendance and productivity.

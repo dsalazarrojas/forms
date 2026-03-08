@@ -1,7 +1,3 @@
-<thinking>
-This form is a template for a business to display their waxing services policy and cancellation process to customers, aiming to establish a clear understanding of their terms and conditions for waxing services. It is not affiliated with or derived from any form platform, and it is intended to be a standalone document. The form is meant to inform and educate customers about the waxing services offered, the cancellation policy, and other relevant details.
-</thinking>
-
 # Waxing Consent & Cancellation Policy Form - Help Guide
 ## Purpose
 

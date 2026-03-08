@@ -1,22 +1,3 @@
-<thinking>
-To determine the form's purpose and relevance, let's analyze the form's fields and options. The form is called the "Incident Form" and is likely used for reporting and documenting incidents within a company or organization. The fields provided include:
-- Incident Date: A date field to record the date of the incident.
-- Incident Type: A dropdown selection field with three options ("Type 1", "Type 2", and "Type 3") to categorize the incident.
-- Incident Location: A text field to record the location of the incident.
-- Incident Description: A text field to provide a detailed description of the incident.
-- Incident Status: A multi-select field with three options ("Status 1", "Status 2", "Status 3") to track the status of the incident.
-- Incident Investigation: A note field to record notes related to the incident investigation.
-- Incident Outcome: A dropdown selection field with two options ("Outcome 1", "Outcome 2") to track the outcome of the incident.
-- Incident Reviewer: A text field to record the reviewer's name or ID.
-- Incident Review Date: A date field to record the date of the review.
-- Incident Close Date: A date field to record the date the incident was closed.
-
-The form likely serves as a template for documenting and tracking incidents across the organization. It provides a structured approach to recording incident details, including date, type, location, and description. The status and outcome fields allow for tracking progress and resolution. The review and close dates fields indicate the point at which the incident was reviewed and closed.
-
-Considering the form's fields and purpose, the form's primary use case would be for employees or staff members to report and document incidents that require review and closure.
-
-</thinking>
-
 # Incident Form - Help Guide
 ## Purpose
 The Incident Form is a structured template for documenting and tracking incidents within your organization. It helps to gather relevant information and facilitate review and closure of incidents.

@@ -1,15 +1,3 @@
-<thinking> 
-
-The form is used for obtaining an informed consent from potential vaccine recipients for COVID-19 vaccination. The goal is to gather information on the participant's willingness, potential medical conditions, and other relevant details for vaccination.
-
-The form is designed for individuals who have been identified as potential candidates for vaccination in their healthcare or other medical settings.
-
-The main goal of this form is to ensure that the participant is aware and consents to their participation in the vaccination process while also considering potential risks and benefits associated with the vaccination.
-
-We can assume that this form is used in a clinical setting, likely by medical professionals who will review the participant's response to make an informed decision on proceeding with the vaccination.
-
-</thinking>
-
 # COVID 19 Health Waiver Form - Help Guide
 ## Purpose
 This form is used to obtain informed consent from participants before administering the COVID-19 vaccine.

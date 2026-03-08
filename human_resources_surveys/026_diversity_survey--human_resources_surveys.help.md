@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Diversity Survey - Help Guide
 ## Purpose
 The Diversity Survey is a tool to collect information about employees' demographic characteristics, such as age, ethnicity, and job title, to help the organization better understand the diversity of its workforce. This information will be used to identify areas of diversity that need to be addressed and to develop targeted initiatives to promote inclusion and diversity.

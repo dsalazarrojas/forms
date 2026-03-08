@@ -1,11 +1,3 @@
-<thinking>
-**Purpose:**
-The Corporate Diversity Initiatives Impact Questionnaire is a form designed to assess the effectiveness and progress of corporate diversity initiatives within an organization. The form gathers information on demographics, diversity, inclusion, and employee engagement to help identify areas of improvement and measure the overall impact of diversity initiatives. This form is required to be completed by all employees to ensure accurate and comprehensive feedback.
-
-**Form Design Considerations:**
-This form is designed to be completed by all employees, and it is crucial that the responses are genuine and reflective of individual experiences. Please answer the questions honestly, and if you have any suggestions or comments, feel free to share them in the "Suggestions" and "Comments" sections.
-</thinking>
-
 # Corporate Diversity Initiatives Impact Questionnaire - Help Guide
 ## Purpose
 The Corporate Diversity Initiatives Impact Questionnaire is a form designed to assess the effectiveness and progress of corporate diversity initiatives within an organization.

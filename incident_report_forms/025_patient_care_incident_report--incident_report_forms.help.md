@@ -44,11 +44,4 @@ To complete the Patient Care Incident Report form, follow these steps:
 *   **Follow-up Status**: Enter the follow-up status (optional).
 *   **Follow-up Comments**: Enter any follow-up comments (optional).
 
-**<thinking>**
-The Patient Care Incident Report form is designed to collect information about unexpected events or incidents that have occurred within a healthcare setting. This form helps to document the incident, identify the root cause, and plan corrective actions to prevent similar incidents in the future. It is essential to complete this form accurately and thoroughly to ensure that the incident is properly recorded and investigated.
-
-The form is divided into several sections, each designed to capture specific information related to the incident. The **Incident Type** section helps to categorize the incident, while the **Date of Incident** and **Time of Incident** sections capture the timing of the incident. The **Patient Name** and **Incident Reporter** sections are used to identify the patient and the person reporting the incident, respectively. The **Incident Description** section provides a detailed account of the incident, and the **Witness List** section allows multiple witnesses to be selected. The **Incident Location** section captures the location where the incident occurred, and the **Incident Category** section categorizes the incident further. The **Root Cause** section identifies the underlying reason for the incident, and the **Corrective Action** and **Follow-up Status** and **Follow-up Comments** sections are used for any additional information or follow-up actions.
-
-Please ensure that you complete this form accurately and thoroughly to provide the necessary information for investigation and follow-up actions.
-
-</thinking>
+**

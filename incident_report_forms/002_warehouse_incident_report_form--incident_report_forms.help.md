@@ -1,5 +1,3 @@
-<thinking> This form is a crucial tool for documenting and tracking incidents that occur within the warehouse. It's essential to ensure that each incident is reported accurately and thoroughly, allowing for swift and effective action to be taken. To prevent duplication, please verify that the incident has not already been reported before submitting this form. </thinking>
-
 # Warehouse Incident Report Form - Help Guide
 ## Purpose
 The Warehouse Incident Report Form is designed to report incidents that occur within the warehouse. This form is used to gather information about the incident, including date, time, location, and description, as well as details about the incident reporter and any subsequent updates.

@@ -1,26 +1,3 @@
-<thinking>
-
-This form is used to obtain authorization from an applicant to conduct background verification checks as part of the hiring process. The goal of this form is to gather necessary information about the applicant and to obtain their consent for the company to conduct background checks. The form is intended for use by companies that require thorough background checks for their applicants. By filling out this form, the applicant grants the company permission to conduct various types of checks, including:
-
-* Criminal history search
-* County court records
-* Federal court records
-* State court records
-* Sex offender registry
-* Terrorist watch list
-* Employment verification
-* Education verification
-* Professional license verification
-* Credit history check
-* Motor vehicle records
-* Reference interviews
-
-This form also asks the applicant about their personal and employment history, including their full legal name, other names used, date of birth, social security number, current address, city, state, zip code, phone number, email address, drivers license number, drivers license state, position applied for, company name, and seven year residence history. The applicant is also asked to provide a digital signature and date of authorization.
-
-Before proceeding, please note that this form must not be duplicated. Each applicant must fill out this form separately.
-
-</thinking>
-
 # Background Verification Authorization Form - Help Guide
 ## Purpose
 The purpose of this form is to obtain authorization from applicants for background verification checks as part of the hiring process.

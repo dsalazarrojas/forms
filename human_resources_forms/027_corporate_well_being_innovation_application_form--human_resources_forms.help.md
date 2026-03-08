@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Corporate Well Being Innovation Application Form - Help Guide
 ## Purpose
 

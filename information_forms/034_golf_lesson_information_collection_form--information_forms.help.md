@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about golf lessons, specifically for students. The purpose of this form is to gather essential data about students, lessons, and instructors, which will be used to manage and optimize golf lessons. This form is divided into several sections, each focusing on a different aspect of the lesson. The form fields are designed to be as user-friendly as possible, while ensuring that all necessary information is collected.
-</thinking>
-
 # golf_lesson_information_collection_form - Help Guide
 ## Purpose
 The golf_lesson_information_collection_form is designed to collect information about golf lessons, allowing us to manage and optimize these lessons for students. By filling out this form, you will be providing valuable data that will help us improve our services.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Leadership Development Interview Form - Help Guide
 ## Purpose
 This form is designed to gather information about an individual's leadership development journey, including their job title, years of experience, job function, and job satisfaction. The form will help to identify areas of improvement and provide insights for leadership development programs.

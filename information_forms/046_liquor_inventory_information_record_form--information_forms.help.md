@@ -1,8 +1,3 @@
-<thinking>
-This form is for collecting information related to liquor inventory, which is a crucial aspect of managing the inventory of a liquor store or a similar business. The form captures various details about a liquor item, including its name, category, purchase date, purchase price, sales tax, sales price, purchase quantity, sales quantity, cost, and any additional notes. This information can be used for tracking and managing the inventory levels, making decisions about restocking, and performing other related tasks.
-Please ensure that the form is filled out for each liquor item, and the data is accurate and up-to-date.
-</thinking>
-
 # Liquor Inventory Information Record Form - Help Guide
 ## Purpose
 This form is used to collect and record information about liquor items in stock. It helps to track and manage inventory levels, making it easier to make informed decisions about restocking and other related tasks.

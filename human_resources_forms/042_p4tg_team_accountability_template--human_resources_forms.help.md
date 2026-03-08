@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "P4tg Team Accountability Template" form, I'll analyze the provided YAML fields and provide a clear and concise explanation for each field, ensuring the user understands the form's purpose, how to complete it, and what each field means. The form appears to be designed for tracking team accountabilities, where users can input information about team members, their roles, and accountabilities.
-
-The purpose of this form is to gather information on team members' accountabilities, which can be used for various internal purposes such as tracking progress, reporting, and evaluation.
-
-Before starting, ensure you have all necessary information and permissions to complete this form. If you're unsure about any field, please clarify with your team lead or supervisor.
-
-</thinking>
-
 # P4tg Team Accountability Template - Help Guide
 ## Purpose
 The "P4tg Team Accountability Template" is a tool to track team members' accountabilities, allowing you to monitor progress, report, and evaluate team performance.

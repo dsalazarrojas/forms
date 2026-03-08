@@ -1,21 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about elderly care residents, specifically their personal details, medical history, and emergency contact information. This data will likely be used for care planning, medical emergencies, or other purposes relevant to their residency. Please ensure the form is completed accurately and consistently for each resident.
-
-To complete this form, follow these steps:
-
-1. Enter the full name of the elderly care resident.
-2. Enter the resident's email address (if applicable).
-3. Provide the resident's date of birth.
-4. Enter the resident's age.
-5. Enter the resident's current address.
-6. Select the type of care the resident is receiving (Home, Community, or Facility).
-7. Describe the resident's medical history, including any conditions, allergies, or medications.
-8. Enter the name of the emergency contact person.
-9. Describe the relationship between the resident and the emergency contact person.
-10. Enter the emergency contact person's phone number.
-
-</thinking>
-
 # Elderly Care Resident Information - Help Guide
 ## Purpose
 This guide provides instructions on how to complete the Elderly Care Resident Information form accurately and efficiently.

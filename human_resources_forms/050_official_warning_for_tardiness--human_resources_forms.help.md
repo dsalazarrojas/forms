@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to issue a formal or informal warning to an employee for tardiness issues. The form allows for the selection of multiple tardiness issues, a brief description of the reason for the warning, and a description of the warning details. The form also allows for the signature of the manager or supervisor who issued the warning, the date the warning was issued, and the type of warning (formal or informal).
-</thinking>
-
 # official_warning_for_tardiness - Help Guide
 ## Purpose
 The purpose of this form is to provide a clear and concise way for employees to document and address tardiness issues in the workplace.

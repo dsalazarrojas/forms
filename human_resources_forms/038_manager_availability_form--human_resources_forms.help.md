@@ -1,5 +1,3 @@
-<thinking>This is an AI-generated form for "Manager Availability Form". This form is designed to collect information about a manager's schedule and availability. The form will likely be used in a business or office setting to track manager's work hours, time off, and personal contact information. To ensure this guide is relevant and useful, let's review the form's structure and purpose.</thinking>
-
 # Manager Availability Form - Help Guide
 ## Purpose
 This form is intended for managers to report their schedule and availability. This information can be used to plan meetings, coordinate tasks, and ensure smooth communication within the organization.

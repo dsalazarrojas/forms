@@ -1,9 +1,3 @@
-<thinking>
-
-**Internal Note**: This form is used to gather information for location releases, where a party or organization is being released from a specific location. This form will help us understand the details of the release, including the party's contact information, location details, and agreement to the release. We will use this form to ensure that all required parties have agreed to the location release and to provide necessary documentation for future reference.
-
-</thinking>
-
 # Location Release Form - Help Guide
 ## Purpose
 This form is used to document the release of a location by a party or organization. It will collect necessary information from the releasing party to facilitate the process and provide a record of the release agreement.

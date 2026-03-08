@@ -1,18 +1,3 @@
-<thinking>
-This help guide is intended to provide users with a clear understanding of the purpose and requirements of the Background Check Request Form. 
-
-The form is used to request background checks for candidate applicants and is typically completed by the hiring manager or HR representative. 
-
-Before starting the process, please ensure that you have reviewed your company's policies and procedures for requesting background checks to avoid duplication of requests or unnecessary screening. 
-
-This form should only be used for legitimate purposes and not for other non-compliance or unauthorized activities. 
-
-Please note that some of the fields in this form have specific requirements and constraints, so make sure to read the instructions carefully to avoid errors. 
-
-Please be aware that incomplete or incorrect submissions may result in delays or rejections of your request. 
-
-</thinking>
-
 # Background Check Request Form - Help Guide
 
 ## Purpose

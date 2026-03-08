@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Governance And Transparency Partner Contact Form" form, I will need to first understand the purpose and context of the form. Based on the provided YAML, it appears that this form is designed to collect information from partners in the governance and transparency industry. The form is not affiliated with any specific form platform and is an original adaptation created using AI. The form is released under CC BY 4.0, allowing users to use, modify, and even sell forms derived from it, as long as they give credit.
-</thinking>
-
 # Governance And Transparency Partner Contact Form - Help Guide
 ## Purpose
 The Governance And Transparency Partner Contact Form is a tool designed to facilitate communication and collaboration between partners in the governance and transparency industry. This form allows partners to share their inquiries, details, and contact information with the intended recipient.

@@ -1,12 +1,3 @@
-<thinking>
-This form is used to request the activation of a formulary, which is a system used to manage and track formulary-specific information. The form requires the submission of several fields, including first and last name, email address, phone number, formulary name, formulary ID, approval status, reviewers, comments, reviewed by, date and time reviewed, date and time approved, date and time submitted, status, form status, activated by, date and time activated, and time activated. The form is used to track the progress of formulary activation requests, from submission to approval and activation. The fields are divided into several sections, and each section is explained below.
-
-Before filling out this form, please ensure that you have read and understood the purpose and requirements of the form. This will help prevent unnecessary submissions and save time for both the submitter and the review team.
-
-Please also note that some fields are required, while others are optional. Required fields are marked as such and must be filled out in order to complete the form. Optional fields can be left blank if you do not have the information requested.
-
-</thinking>
-
 # Formulary Activation Request - Help Guide
 ## Purpose
 This form is used to request the activation of a formulary, which is a system used to manage and track formulary-specific information.

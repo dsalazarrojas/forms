@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about project efficiency evaluations. It's likely used by project management or team leads to gather data about ongoing or completed projects. This form should only be filled out when there's a genuine need to evaluate project efficiency, such as when a project is nearing completion or has just finished. To avoid duplication, please ensure that this form is only submitted once per project.
-</thinking>
-
 # Project Efficiency Evaluation Request Form - Help Guide
 ## Purpose
 The Project Efficiency Evaluation Request Form is used to collect information about project efficiency evaluations. This form is intended for project management or team leads to gather data about ongoing or completed projects.

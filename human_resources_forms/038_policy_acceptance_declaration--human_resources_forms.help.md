@@ -1,13 +1,3 @@
-<thinking>
-This form is designed for a Policy Acceptance Declaration, which is a legal document used to signify that an individual or entity has accepted a policy or set of rules, regulations, or conditions. It's likely used in a professional setting, such as insurance or financial services, where clients or policyholders sign to confirm their understanding and agreement with the terms and conditions of a policy. The form may be used to document the acceptance of a policy, particularly in the context of policy issuance, amendment, or cancellation.
-
-The form's fields are likely intended to gather information about the client, their representative (attorney), and the policy details. The fields are likely used to:
-
-- Identify the client and their attorney
-- Document the policy type (term, whole life, or annuity)
-- Perform a risk assessment (high, medium, or low)
-</thinking>
-
 # Policy Acceptance Declaration - Help Guide
 ## Purpose
 The Policy Acceptance Declaration is a legal document used to signify that an individual or entity has accepted a policy or set of rules, regulations, or conditions.

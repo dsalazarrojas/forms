@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect and document the results of a chilled water system inspection. This form is used to gather information about the system's condition, operational status, and any issues that need to be addressed. By completing this form, inspectors can provide a thorough and accurate assessment of the system, identify potential problems, and recommend repairs or maintenance actions.
-</thinking>
-
 # Chilled Water System Inspection Checklist - Help Guide
 ## Purpose
 The Chilled Water System Inspection Checklist is a form used to collect and document the results of a chilled water system inspection. This form helps inspectors gather information about the system's condition, operational status, and any issues that need to be addressed.

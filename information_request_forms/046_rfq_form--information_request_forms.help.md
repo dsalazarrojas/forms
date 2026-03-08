@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is a comprehensive business information request form used to collect detailed data about a business. It is used to gather information about a business's contact details, products or services, and other relevant data. This form is typically used by business development teams or marketing departments to get in touch with businesses for potential partnerships or collaborations.

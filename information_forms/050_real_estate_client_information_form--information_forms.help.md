@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a real estate client. This form is likely used for lead management and client communication purposes. It's possible that the form is part of a sales process, where the collected information will be used to personalize the sales experience and provide relevant communication to the client. To confirm, this form is probably used by real estate agents or sales representatives to gather client data for follow-up and sales activities.
-
-Before proceeding with this form, ensure that you are filling it out for a real estate-related purpose and not duplicating any existing records. If you're unsure, please consult with the relevant team member or supervisor for clarification.
-
-</thinking>
-
 # real_estate_client_information_form - Help Guide
 
 ## Purpose

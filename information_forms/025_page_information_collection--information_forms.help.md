@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## page_information_collection - Help Guide
 
 ## Purpose

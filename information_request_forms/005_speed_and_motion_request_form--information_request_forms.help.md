@@ -1,19 +1,3 @@
-<thinking>
-
-This form seems to be designed for requesting information related to experiments, possibly for scientific or research purposes. The form is likely used to collect data about the speed and motion of experiments, including the date and status of the experiment. It appears to be a comprehensive form that covers various aspects of experiments, including the tools and users involved. Based on the fields, it's possible that this form is used in a laboratory or research setting.
-
-The form requires several pieces of information:
-
-* Personal details of the person requesting the experiment (name)
-* Details of the speed and motion of the experiment (speed, motion, speed range, motion range)
-* Date and status of the experiment
-* Assignment of a tool and its details (assigned tool, tool id, tool name, tool version, tool status)
-* Notes and comments
-
-This form might be used by researchers or scientists to request and manage experiments, including assigning tasks and tracking progress.
-
-</thinking>
-
 # Speed And Motion Request Form - Help Guide
 ## Purpose
 The Speed And Motion Request Form is designed to collect information about experiments, including the speed and motion of the experiment, dates, status, and other related details.

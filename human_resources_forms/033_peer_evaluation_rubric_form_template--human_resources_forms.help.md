@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Peer Evaluation Rubric Form Template - Help Guide
 
 ## Purpose

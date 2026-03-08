@@ -1,15 +1,3 @@
-<thinking>
-
-Before we dive into the user-facing help guide, let's clarify the purpose and context of this form.
-
-This form, called "Aquaculture Breach Incident Form", is designed to capture information about any incidents that occur in an aquaculture facility. The form helps collect relevant details such as the date and time of the incident, the facility's name and location, the description of the breach, and the severity level of the incident. It also allows for additional information to be provided, such as the affected area, estimated water loss, impact on fish stock, and any immediate actions taken or follow-up actions required.
-
-The primary goal of this form is to provide a structured and organized way to report and document incidents in aquaculture facilities, ensuring that necessary information is collected and acted upon in a timely manner.
-
-To avoid duplicating effort and ensuring that all incidents are properly addressed, it's essential to fill out this form thoroughly and accurately.
-
-</thinking>
-
 # Aquaculture Breach Incident Form - Help Guide
 ## Purpose
 The Aquaculture Breach Incident Form is designed to collect information about incidents that occur in an aquaculture facility. This form helps to document and report incidents, ensuring that necessary information is collected and acted upon in a timely manner.

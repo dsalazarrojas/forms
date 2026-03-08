@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals onboarding as Customer Experience Specialists. The form collects data such as name, job title, email, date of hire, training requirements, and emergency contact information. This data will be used to create accurate employee records and facilitate communication within the organization.
-When onboarding new Customer Experience Specialists, it's crucial to ensure that all necessary information is gathered to maintain accurate employee records and facilitate communication. Ensuring that the form is filled out correctly and thoroughly will prevent potential issues and delays in processing the onboarding process.
-</thinking>
-
 # Customer Experience Specialist Onboarding Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about new Customer Experience Specialists onboarding into the organization. This includes personal details, job information, and emergency contact details.

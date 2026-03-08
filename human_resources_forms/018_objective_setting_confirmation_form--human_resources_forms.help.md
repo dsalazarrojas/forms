@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Objective Setting Confirmation Form - Help Guide
 
 ## Purpose

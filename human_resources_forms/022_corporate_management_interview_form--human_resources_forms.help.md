@@ -1,9 +1,3 @@
-<thinking>
-
-This form appears to be designed to gather feedback and insights from employees about the corporate management style and company culture within the company. The form aims to collect information that can be used to improve employee satisfaction, engagement, and well-being. This form may be used by HR or management to understand the pulse of the company's employees and identify areas for improvement.
-
-</thinking>
-
 # corporate_management_interview_form - Help Guide
 ## Purpose
 The corporate_management_interview_form is a tool used to gather feedback and insights from employees about the company's management style and culture. This form helps HR or management understand employee satisfaction, engagement, and well-being.

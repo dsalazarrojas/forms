@@ -1,5 +1,3 @@
-<thinking>...this form is used to track employee orientation completion status. It's intended for use within the Human Resources department, and its primary purpose is to gather information about each employee's completion status and any relevant details associated with the orientation process. To avoid duplication of data entry, ensure that this form is filled out only by supervisors or authorized personnel. This will help maintain accuracy and efficiency in tracking employee orientation completion...)</thinking>
-
 # Orientation Completion Checklist - Help Guide
 
 ## Purpose

@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to collect information about installation or service disruptions that occur during the process of installing infrastructure. The purpose of this form is to provide a standardized way to report and track these disruptions, allowing for better analysis and improvement of the installation process. This form is intended for use by personnel responsible for installing or maintaining infrastructure, such as electricians, plumbers, or other tradespeople.
-
-This form should only be filled out for actual disruptions that occur during the installation process, and not for hypothetical or planned maintenance. It's essential to report each disruption separately to ensure that all relevant information is captured accurately.
-
-When filling out this form, please ensure that you're using the most accurate and detailed information possible. If any of the fields are left blank, it will be assumed that they are not applicable to the specific disruption.
-
-Each field is designed to capture specific information related to the disruption. Please fill out each field according to the following instructions:
-
-</thinking>
-
 # Installation And Disruption Report - Help Guide
 ## Purpose
 The Installation and Disruption Report form is designed to capture and document information about disruptions that occur during the installation process of infrastructure. This form helps to improve the accuracy of installation and maintenance processes by providing standardized data collection and analysis.

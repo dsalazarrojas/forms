@@ -2,9 +2,6 @@
 ## Purpose
 The Cash Disbursement Form is used to document and track disbursements made to individuals or organizations. It ensures that all disbursements are properly recorded and verified in accordance with company policies and procedures.
 
-<thinking> 
-This form is intended for use by authorized personnel to record disbursements for various reasons, such as employee salaries, vendor payments, or other expenses. Disbursements are subject to company approval and are reviewed to ensure compliance with relevant regulations and policies. This form is not intended for recording internal transactions or personal expenses.</thinking>
-
 ## How To Complete This Form
 1. Click on the "Start Form" button to begin the disbursement form.
 2. Fill out the required fields:

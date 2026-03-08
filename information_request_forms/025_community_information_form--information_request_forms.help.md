@@ -1,17 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from individuals or groups requesting information from the community. This form is designed to collect relevant details, such as the requester's name, contact email, and preferred format for response, to ensure that the information is delivered efficiently and effectively. Before filling out this form, please ensure that you are not duplicating an existing request and that your question is clear and concise.
-
-To submit a request, follow these steps:
-
-1.  Enter your name and contact email address in the designated fields.
-2.  Describe the information you need in the "Information requested" field.
-3.  Choose how you would like to receive the response (e.g., Email document, Printed copy, Phone call, or In person meeting).
-4.  Indicate the urgency level of your request (if applicable).
-5.  Provide any additional details that may help locate the information.
-6.  Consent to store the request details for contact and information purposes.
-
-</thinking>
-
 # Community Information Form - Help Guide
 ## Purpose
 The Community Information Form is designed to gather information from individuals or groups requesting information from the community. This form helps ensure that the information is delivered efficiently and effectively.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information and documentation for employee complaints, specifically those related to HR-related issues such as bullying, harassment, and other forms of discrimination. This form helps employees feel safe and supported while addressing sensitive topics. The form is not meant to replace human resources or HR processes, but rather to supplement existing procedures and ensure a smooth and efficient resolution process for employees who need it. To complete this form effectively, ensure you have all necessary permissions to collect sensitive information and follow your organization's HR policies for confidentiality and data handling. Please note that this form is an internal tool and should not be shared or used for external purposes.
-</thinking>
-
 # HR Complaint Intake Form - Help Guide
 ## Purpose
 The HR Complaint Intake Form is a tool for employees to report and document complaints related to workplace issues such as bullying, harassment, and other forms of discrimination. This form is designed to help employees feel safe and supported while addressing sensitive topics, and to aid HR in efficiently resolving these complaints.

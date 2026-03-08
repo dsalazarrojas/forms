@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to assess leadership skills in an organization, gathering self-reported feedback and ratings from team members on various leadership skills and aspects. This form is used to provide a structured feedback and evaluation process for leaders to self-assess and develop their leadership skills.
-</thinking>
-
 # Leadership Skills Survey - Help Guide
 ## Purpose
 The Leadership Skills Survey is a self-assessment tool designed to help leaders evaluate their leadership skills and identify areas for improvement. This form is meant to be completed by team members, and the feedback collected will be used to support leadership development and growth.

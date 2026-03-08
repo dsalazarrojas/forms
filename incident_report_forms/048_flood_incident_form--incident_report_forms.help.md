@@ -1,6 +1,3 @@
-<thinking>
-This form is used for reporting flood incidents to the local authorities. Before proceeding, please ensure that this is a new report and not a duplicate of an existing one. Ensure that the incident details are accurate and complete. This form should only be used for flood incidents, so please do not use this form if the incident is of a different type.</thinking>
-
 # Flood Incident Form - Help Guide
 ## Purpose
 The Flood Incident Form is used to report flood incidents to the local authorities. This form helps emergency services respond promptly and effectively to flood events.

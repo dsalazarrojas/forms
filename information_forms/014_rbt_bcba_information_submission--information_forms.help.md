@@ -1,11 +1,3 @@
-<thinking>
-
-This form, "rbt_bcba_information_submission", appears to be a form for collecting information related to RBT (Railway Bridge and Tunnel) and BCB (Bridge and Creekbank) authority certifications, licenses, and renewals. The fields are likely used to track and manage these certifications, including their status, issuance dates, and expiration dates.
-
-Before proceeding, ensure that this form is being used for its intended purpose and not as a duplicate. This form is not meant to be used for routine, general inquiries, but rather for specific, detailed information collection related to RBT and BCB authority certifications.
-
-</thinking>
-
 # rbt_bcba_information_submission - Help Guide
 ## Purpose
 The rbt_bcba_information_submission form is used to collect and track information related to RBT and BCB authority certifications, licenses, and renewals.

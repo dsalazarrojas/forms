@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data on crash risk factors and crash probability. It is intended for use by individuals who are reporting a potentially hazardous situation on the road, such as a near-miss incident or a crash report. The goal of this form is to gather relevant information to analyze the risk of a crash occurring. Before filling out this form, please ensure that the information is accurate and complete. If you have already submitted a crash report, please do not fill out this form unless there is new or updated information to be included.
-</thinking>
-
 # Crash Risk Analysis Form - Help Guide
 ## Purpose
 The Crash Risk Analysis Form is a tool used to collect and analyze data on potential crash risks. This form is intended for use by individuals who are reporting a potentially hazardous situation on the road, such as a near-miss incident or a crash report.

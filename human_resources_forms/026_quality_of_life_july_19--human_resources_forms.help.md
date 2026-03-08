@@ -1,7 +1,3 @@
-<thinking>
-To determine the purpose of this form, I will review the provided YAML fields. This form appears to be related to Quality of Life, specifically for employees, with fields for employee information, feedback, and workflow management. The form likely collects data for employee concerns, issues, or feedback related to their quality of life in the workplace. 
-</thinking>
-
 # quality_of_life_july_19 - Help Guide
 ## Purpose
 This form is designed to collect employee feedback and concerns related to their quality of life in the workplace. It aims to provide a platform for employees to express their thoughts and suggestions on how to improve their work environment.

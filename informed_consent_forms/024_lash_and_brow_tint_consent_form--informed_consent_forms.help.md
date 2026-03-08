@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for medical professionals to obtain informed consent for lash and brow tints. The purpose of this form is to ensure that patients understand the potential risks and benefits of the procedure and provide their consent accordingly. This form is not intended for patients who have not been adequately informed of the potential risks and benefits. The form has 20 fields, each asking for a specific type of consent. The form is divided into two sections: "Goals" and "Consent". The "Goals" section is used to capture the primary reason for the patient's visit, while the "Consent" section is used to obtain the patient's consent for the procedure.
-</thinking>
-
 # lash_and_brow_tint_consent_form - Help Guide
 ## Purpose
 This form is used to obtain informed consent for lash and brow tints. It is designed to be completed by medical professionals to ensure that patients understand the potential risks and benefits of the procedure.

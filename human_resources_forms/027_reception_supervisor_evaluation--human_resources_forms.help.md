@@ -1,7 +1,3 @@
-<thinking>
-This form is used to evaluate the performance of a reception supervisor in a hospital setting. The purpose of this form is to assess the supervisor's ability to effectively manage the front desk, handle patient flow, and provide excellent customer service. The evaluation period and date can be selected from the options provided, and the supervisor's rating and performance criteria can be evaluated based on their performance during that period. The comments section is for additional feedback or suggestions. This form should only be used for evaluating reception supervisors who have been in their position for at least a certain amount of time, and it's intended to be used by authorized personnel only.
-</thinking>
-
 # Reception Supervisor Evaluation - Help Guide
 ## Purpose
 The Reception Supervisor Evaluation form is used to assess the performance of a reception supervisor in a hospital setting.

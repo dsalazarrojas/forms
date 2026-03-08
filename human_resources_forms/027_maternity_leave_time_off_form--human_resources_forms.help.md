@@ -1,5 +1,3 @@
-<thinking>This form is a crucial tool for employees to request maternity leave time off from their work schedule. It is essential that the form is completed accurately and thoroughly to ensure the request is processed correctly. Before filling out this form, please ensure that you have read and understood the company's maternity leave policy. Duplicate requests will not be accepted. Please fill out all required fields carefully and avoid missing any sections to minimize delays in the processing of your request.</thinking>
-
 # Maternity Leave Time Off Form - Help Guide
 ## Purpose
 The Maternity Leave Time Off Form is a request to take time off for maternity leave. It is used by employees to notify their manager and HR of their upcoming leave dates and related details.

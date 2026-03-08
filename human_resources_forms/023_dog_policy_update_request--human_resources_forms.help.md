@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to request an update to the existing dog policy. This form is intended for employees who wish to request changes to the current dog policy, such as adding or removing pets, or requesting changes to pet-related benefits. Before submitting this form, please ensure that you have reviewed the current policy and understand what changes you are requesting. If you are unsure about the current policy or its implications, it is recommended that you speak with your manager or HR representative before submitting this form. Additionally, please note that this form should not be used to request changes that are not related to the dog policy.
-</thinking>
-
 # Dog Policy Update Request - Help Guide
 ## Purpose
 The purpose of this form is to request an update to the existing dog policy.

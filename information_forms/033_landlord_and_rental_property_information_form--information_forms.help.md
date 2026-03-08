@@ -1,9 +1,4 @@
-# <thinking>... 
-## <thinking>... 
-This form is designed to collect information about a rental property, including its details, location, and status. The goal is to gather essential data to facilitate efficient and accurate processing of rental properties. Please note that this form does not collect sensitive or financial information. Ensure you have the necessary permissions to complete this form and that the information provided is accurate.
-
-</thinking>
-# landlord_and_rental_property_information_form - Help Guide
+# # landlord_and_rental_property_information_form - Help Guide
 ## Purpose
 The "landlord_and_rental_property_information_form" is designed to gather information about rental properties to facilitate efficient and accurate processing.
 

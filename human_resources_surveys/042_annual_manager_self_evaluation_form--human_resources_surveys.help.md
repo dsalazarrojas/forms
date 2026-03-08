@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a comprehensive self-evaluation tool for managers to assess their performance, goals, and challenges over the past year. It should only be filled out by managers who are eligible to do so, to ensure that their self-assessment is relevant and actionable. This form should not be used as a generic template, but rather as a tool to help managers reflect on their performance and provide a detailed account of their accomplishments, challenges, and areas for improvement. It's essential to note that this form is designed to be completed by managers only, and not by employees or other stakeholders.
-</thinking>
-
 # Annual Manager Self Evaluation Form - Help Guide
 ## Purpose
 The Annual Manager Self Evaluation Form is a comprehensive self-assessment tool for managers to evaluate their performance, goals, and challenges over the past year. It's designed to help managers reflect on their strengths and weaknesses, identify areas for improvement, and set objectives for the next period.

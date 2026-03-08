@@ -1,7 +1,3 @@
-<thinking>
-This form is used for offering letters from one organization to their employees. The form captures essential information such as the organization name, employee name, job title, offer date, and hire date. This form is designed to provide a straightforward way to document employee offer details in a clear and concise manner.
-</thinking>
-
 # offer_letter_submission_form - Help Guide
 ## Purpose
 This form is used for offering letters from one organization to their employees.

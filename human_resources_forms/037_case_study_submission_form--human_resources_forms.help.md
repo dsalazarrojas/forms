@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed for applicants to submit their case studies for job applications. It's meant to gather essential information about the case study, including details about the applicant's submission, such as the submission ID number, date, and format. The form also requires the applicant to provide personal and professional information, including their name, email, phone number, and address. In addition, the applicant must confirm that the work is their original work and that they have not used AI tools without proper disclosure. 
-
-The form's purpose is to ensure that applicants provide accurate and authentic information, and that the submission process is completed efficiently and correctly. 
-
-The form is used to collect information for internal purposes, such as evaluating the submission, and to ensure that applicants understand the terms and conditions of the submission process. 
-
-Please fill out this form carefully and accurately, as the information provided will be used to assess your case study submission. 
-
-</thinking>
-
 # Case Study Submission Form - Help Guide
 ## Purpose
 This form is designed for applicants to submit their case studies for job applications. It ensures that the submission process is completed efficiently and correctly.

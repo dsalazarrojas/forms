@@ -1,8 +1,3 @@
-<thinking>
-The form purpose and business logic should be carefully reviewed to avoid duplication and ensure relevance. The form is for requesting vacation leave, which is a common HR practice. It's likely used to track employee absences and manage leave requests internally. Double-checking that the form fields align with the actual business needs is essential to provide an accurate and helpful guide.
-
-</thinking>
-
 # Vacation Leave Authorization Form - Help Guide
 ## Purpose
 The Vacation Leave Authorization Form is used to request time off from work due to vacation, illness, or other personal reasons. It is a mandatory form to be filled out by employees when they need to take leave from their work schedule.

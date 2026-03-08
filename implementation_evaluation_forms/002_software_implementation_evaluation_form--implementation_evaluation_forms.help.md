@@ -1,13 +1,3 @@
-<thinking>...
-
-The purpose of the Software Implementation Evaluation Form is to assess the quality and effectiveness of a software implementation process. This form is used to gather information about the project details, software used, evaluation date, evaluation time, and any comments or feedback from the evaluation process.
-
-To complete this form, please ensure that you are filling it out in the correct context and that you have a clear understanding of the project and software being evaluated. This form should not be used for general feedback or complaints about the software, but rather for specific, constructive feedback on the implementation process.
-
-**Please note that this form is designed for internal use only and should not be shared with external parties.**
-
-</thinking>
-
 # Software Implementation Evaluation Form - Help Guide
 
 ## Purpose

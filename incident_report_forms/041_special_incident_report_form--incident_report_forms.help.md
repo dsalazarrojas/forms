@@ -1,8 +1,3 @@
-<thinking>
-This form is used for reporting special incidents that have occurred within the organization. The purpose of this form is to provide a structured way to gather information about incidents that are not part of the regular incident report process. This form should be used when an incident that meets the criteria for a special incident has occurred. Please make sure to only complete this form if the incident you are reporting meets the criteria for a special incident. If you are unsure, please reach out to your supervisor or contact the incident reporting team.
-
-</thinking>
-
 # Special Incidnet Report Form - Help Guide
 ## Purpose
 The Special Incidnet Report Form is used to report incidents that are not part of the regular incident report process.

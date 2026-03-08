@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a comprehensive user-facing help guide for this form, ensuring that end-users understand its purpose, how to complete it, and what each field means. The form, "software_developer_interview_form," is designed to collect information from software developers applying for a position. It's intended for internal use within the company, so the focus is on gathering relevant information for the hiring process. This guide will cover the form's purpose, how to fill it out correctly, and a field-by-field explanation of each section.</thinking>
-
 # software_developer_interview_form - Help Guide
 ## Purpose
 This form is designed for software developers to apply for a position within the company. It's essential to fill out this form thoroughly and accurately to ensure that we have the necessary information to assess your qualifications and fit for the role.

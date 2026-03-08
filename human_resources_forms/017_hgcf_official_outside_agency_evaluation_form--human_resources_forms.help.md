@@ -1,32 +1,3 @@
-<thinking>
-This form is used for evaluating an outside agency that has been referred to or is collaborating with HGCF. The evaluation is used to determine whether the agency meets HGCF's requirements for collaboration or referral. The form captures information such as the referral source, agency details, evaluation date and time, duration of the evaluation, note, contact information, and other relevant details. This form is designed to ensure that all necessary information is collected in a structured and consistent manner.
-
-When filling out this form, please note that some fields are optional, and you can choose not to fill them out if they do not apply to your situation. However, please ensure that all required fields are completed before submitting the form.
-
-The following sections of the form require specific information to be filled out:
-
-* Referral Source: This field is used to identify the source of the referral. You can choose from "Collaborator", "Partner", "Other", or "None".
-* Collaborator Agency: This field is used to select the agency you are collaborating with. You can choose from "Collaborator", "Partner", "Other", or "None".
-* Evaluation Date: This field is used to select the date of the evaluation.
-* Start Time and End Time: These fields are used to select the start and end times of the evaluation.
-* Duration: This field is used to select the duration of the evaluation.
-* Note: This field is used to enter any additional notes about the evaluation.
-* Email: This field is used to enter the email address of the agency or collaborator.
-* Phone: This field is used to enter the phone number of the agency or collaborator.
-* Collaborator Phone: This field is used to enter the phone number of the collaborator.
-* Collaborator Email: This field is used to enter the email address of the collaborator.
-* Collaborator Name: This field is used to enter the name of the collaborator.
-* Collaborator Agency Other: This field is used to enter any other agency information if the previous agency selection does not apply.
-* Collaborator Agency None: This field is used to select "None" as the agency.
-* Relationship: This field is used to select the relationship between HGCF and the collaborator. You can choose from "None", "Other", or select "None" if the relationship is not applicable.
-* Evaluation Method: This field is used to select the method of evaluation, which can be "Phone", "Video", "In-Person", or "Other".
-* Evaluation Outcome: This field is used to enter the outcome of the evaluation.
-* Collaborator Agency 2: This field is used to select the second agency you are collaborating with, similar to "Collaborator Agency".
-* Collaborator Agency Other 2: This field is used to enter any other agency information if the second agency selection does not apply.
-* Collaborator Agency None 2: This field is used to select "None" as the second agency.
-
-Please fill out the form carefully and accurately to provide a complete and detailed evaluation of the outside agency or collaborator.</thinking>
-
 # HGCF Official Outside Agency Evaluation Form - Help Guide
 ## Purpose
 This form is used to evaluate outside agencies that have been referred to or are collaborating with HGCF.

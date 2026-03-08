@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Internship Survey - Help Guide
 ## Purpose
 The Internship Survey form is designed to gather information from interns about their experience at our company. This form helps us understand their opinions, suggestions, and feedback about their internship, which will aid us in making improvements to our internship program. The survey is optional and will only take a few minutes to complete.

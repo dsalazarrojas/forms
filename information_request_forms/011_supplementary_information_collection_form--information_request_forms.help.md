@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect supplementary information about an individual or organization, such as contact preferences and document details. It's likely used for customer service or support purposes.
-
-To ensure accuracy and efficiency in completing this form, please make sure you only submit this form for legitimate purposes and do not duplicate the submission of similar forms.
-
-</thinking>
-
 # supplementary_information_collection_form - Help Guide
 ## Purpose
 The supplementary information collection form is used to gather additional details about an individual or organization, which may be required for customer service or support purposes.

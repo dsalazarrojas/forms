@@ -1,11 +1,3 @@
-<thinking>
-
-The form "Rehabilitation Leave Absence Form" is used to document an employee's leave of absence from work. This form is crucial for tracking and recording employee absences, ensuring that all necessary information is captured accurately and efficiently. Before proceeding to complete the form, please check that you are authorized to submit this form and that the employee's absence has not already been documented.
-
-To ensure data accuracy and prevent duplication, please verify that this form has not been submitted for the same employee in the past.
-
-</thinking>
-
 # Rehabilitation Leave Absence Form - Help Guide
 ## Purpose
 The "Rehabilitation Leave Absence Form" is used to document an employee's leave of absence from work, ensuring accurate and efficient tracking.

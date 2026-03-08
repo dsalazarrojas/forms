@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from BTW Class of 1969 alumni to help the class stay in touch with each other and keep up to date with updates from the class. The form is designed to collect contact information, employment status, and other relevant details to facilitate communication and reunions. 
-</thinking>
-
 # BTW Class Of 1969 Alumni Information Form - Help Guide
 ## Purpose
 This form is for BTW Class of 1969 alumni to provide their updated contact information and details about their life after graduation.

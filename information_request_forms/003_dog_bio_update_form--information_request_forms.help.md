@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about a dog, including its bio, behavior, energy level, personality, training history, veterinary and medical information, owner information, contact details, and any additional notes or images. This form should only be used for authorized personnel, and any duplicate submissions will be flagged and removed to prevent data duplication.
-
-Please ensure you have the necessary permissions and authorization to access this form.
-</thinking>
-
 # Dog Bio Update Form - Help Guide
 ## Purpose
 The Dog Bio Update Form is used to collect and update the bio and other relevant information of a dog. This form allows you to provide updates on the dog's behavior, energy level, and personality, as well as any veterinary and medical information, owner details, and additional notes.

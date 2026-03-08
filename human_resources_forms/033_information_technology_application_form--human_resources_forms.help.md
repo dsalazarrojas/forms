@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information from candidates applying for a position in Information Technology. The form is intended to gather essential details about the candidate's background, skills, and experience. This form is a crucial part of the hiring process and will help the hiring team evaluate the candidates' qualifications.
-To ensure that the form is filled out correctly, please note that some fields are required, while others are optional. Please fill out all required fields to submit a complete application.
-</thinking>
-
 # Information Technology Application Form - Help Guide
 ## Purpose
 This form is used to collect information from candidates applying for a position in Information Technology.

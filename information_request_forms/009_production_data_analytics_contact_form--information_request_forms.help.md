@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect contact information from customers or users who are interested in learning more about data analytics related to production data. The purpose of this form is to gather specific details about the type of analytics the user is looking for, what data source they are interested in, and any additional information they would like to provide. This form is meant to be a straightforward way to initiate a conversation between the user and the analytics team.
-</thinking>
-
 # production-data-analytics-contact-form - Help Guide
 ## Purpose
 This form is designed to collect contact information from customers or users who are interested in learning more about data analytics related to production data.

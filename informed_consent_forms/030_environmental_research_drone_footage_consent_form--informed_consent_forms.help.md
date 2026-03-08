@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to obtain informed consent from participants or subjects in environmental research projects that involve drone footage collection. This form is designed to ensure that the participants are aware of the data collection process, its purpose, and how their personal data will be handled. The form is not intended to be a comprehensive or exhaustive legal document, but rather a tool to obtain informed consent from participants. Before completing this form, please review the provided information carefully to ensure you understand the context and implications of your consent.
-</thinking>
-
 # Environmental Research Drone Footage Consent Form - Help Guide
 ## Purpose
 ## How To Complete This Form

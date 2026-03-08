@@ -1,7 +1,3 @@
-<thinking>
-The Document Retention Review Request Form is used by employees to request a review of documents that are nearing or have exceeded their retention period. This form helps to ensure that documents are reviewed and retained or disposed of according to company policies. Please note that this form is not for requesting new document creation or updates. It is essential to fill out this form carefully, ensuring that all required and optional fields are filled in accurately and completely. Duplicate submissions will be rejected to avoid unnecessary work and ensure efficient processing of the requested review.
-</thinking>
-
 # Document Retention Review Request Form - Help Guide
 ## Purpose
 The purpose of this form is to request a review of documents that are nearing or have exceeded their retention period to ensure they are up to date and in line with company policies.

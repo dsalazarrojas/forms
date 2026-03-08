@@ -1,8 +1,3 @@
-<thinking> 
-This form is used to document the movement of staff members from one site to another. It ensures that all the necessary information is recorded and that the transition is properly tracked. This form should only be used for staff members who are moving from one site to another, and not for other types of personnel. Please note that all fields are optional and only required if specified.
-
-</thinking>
-
 # Staff Movement Form - Help Guide
 ## Purpose
 The staff movement form is used to record the movement of staff members from one site to another.

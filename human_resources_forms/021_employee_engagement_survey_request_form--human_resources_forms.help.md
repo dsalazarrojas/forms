@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to allow employees to request and submit a survey from their manager, which will help them gather feedback and insights about their performance and engagement within the company. This form is a simple and straightforward way to facilitate open and honest communication between employees and their managers. By providing their own questions, employees can get personalized feedback and guidance on areas they'd like to improve, which can ultimately lead to better job satisfaction, productivity, and growth.
-Before filling out this form, ensure you haven't recently submitted a survey request. Duplicate requests may not be processed.
-</thinking>
-
 # Employee Engagement Survey Request Form - Help Guide
 ## Purpose
 This form is used to request a survey from your manager to gather feedback on your performance and engagement within the company.

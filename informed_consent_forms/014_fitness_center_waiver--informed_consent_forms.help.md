@@ -1,5 +1,3 @@
-<thinking>As a form expert, I need to understand the context of this waiver form and provide clear guidance for end-users. From the YAML, it seems that this form is designed for fitness centers and possibly for waiver purposes, but I need to confirm the purpose and potential duplication of other similar forms. I will also review the fields to ensure I cover all the necessary explanations for end-users.</thinking>
-
 # fitness_center_waiver - Help Guide
 ## Purpose
 This form is intended for individuals to provide their informed consent for participation in fitness center activities. It collects contact information, emergency contact details, and a waiver for the participant to acknowledge their understanding and agreement to the terms and conditions of the fitness center.

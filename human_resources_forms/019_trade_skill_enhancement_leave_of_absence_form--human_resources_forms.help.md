@@ -1,14 +1,3 @@
-<thinking>
-This form is used to create and manage requests for a Trade Skill Enhancement Leave of Absence (TSEL) in the company. The form is used by employees to submit their requests for a TSEL, which is a type of leave that allows employees to take time off to enhance their skills or attend training. The form is used by managers and HR to review and approve these requests. The form status and submission status are also tracked to ensure that the process is transparent and efficient.
-
-Before filling out this form, please ensure that you have reviewed the company's leave policy and that you have discussed your request with your manager and HR representative. You should also ensure that you have all the necessary information and approvals before submitting the form.
-
-The form is divided into two main sections: employee information and leave details. Please fill out the form accurately and thoroughly to ensure a smooth processing of your request.
-
-Please note that the fields marked as required are mandatory and must be filled out. The other fields are optional but recommended for completeness and clarity.
-
-</thinking>
-
 # Trade Skill Enhancement Leave Of Absence Form - Help Guide
 ## Purpose
 This form is used to create and manage requests for a Trade Skill Enhancement Leave of Absence (TSEL) in the company.

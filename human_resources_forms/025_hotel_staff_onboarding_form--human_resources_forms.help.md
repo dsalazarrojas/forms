@@ -1,8 +1,3 @@
-<thinking>
-The hotel staff onboarding form is designed to gather information about new employees in the hotel industry, including their personal details, emergency contact information, manager details, and job-specific information. This form is intended for internal use and is typically completed by the employee's manager or HR representative during the onboarding process. It is not necessary for employees to complete this form themselves.
-The form consists of several sections, each focusing on a specific aspect of the employee's details. To complete this form accurately, please review the explanations below.
-</thinking>
-
 # hotel_staff_onboarding_form - Help Guide
 ## Purpose
 The hotel staff onboarding form is designed to gather information about new employees in the hotel industry. It is typically completed by the employee's manager or HR representative during the onboarding process.

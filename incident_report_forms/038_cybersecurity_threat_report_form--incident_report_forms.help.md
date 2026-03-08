@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the "Cybersecurity Threat Report Form" is filled out by users with the intent of documenting potential or actual security incidents. This form should not be used for general feedback or support requests. To ensure consistency, please review the form fields carefully and only select relevant options that fit your incident description. If you're unsure about a field or its purpose, please ask your supervisor or a security team member for clarification.
-</thinking>
-
 # Cybersecurity Threat Report Form - Help Guide
 
 ## Purpose

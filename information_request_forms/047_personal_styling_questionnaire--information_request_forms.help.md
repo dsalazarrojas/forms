@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to gather information about a person's physical measurements and preferences for styling purposes. It's likely used in the fashion industry to create custom-made clothing or to provide styling advice. The form should not be used for commercial purposes and is meant for internal use only by authorized personnel.
-The form appears to be a collection of physical measurements and size-related fields, suggesting it's used to gather information for a specific purpose such as creating custom-fit garments or providing styling advice. To prevent duplication, the form should not be used if a similar one has already been filled out for the same customer.
-
-</thinking>
-
 # Personal Styling Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information about a person's physical measurements and preferences for styling purposes. It's intended to be used in the fashion industry to create custom-fit garments or provide styling advice.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for clients to request updates to their information in the database. Before submitting this form, please ensure you are only requesting updates that are not already pending or completed. To confirm, you can check your recent activity log or contact your dedicated support team to inquire about the status of any ongoing updates. Please complete this form with accurate and complete information to ensure your request is processed efficiently and accurately.
-</thinking>
-
 # Client Database Update Request - Help Guide
 ## Purpose
 This form is designed to collect information for clients to request updates to their database records. It covers various types of updates, including contact information, address changes, insurance details, emergency contact, and more.

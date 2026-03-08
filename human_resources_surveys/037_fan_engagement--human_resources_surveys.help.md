@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect feedback and information about fans' engagement with our organization from various perspectives: how they engage with our brand (Fan Engagement), what kind of fans we have (Fan Passion), how many fans we have (Fan Fans), and how we can reward them (Fan Fees and Loyalty). This form will help us better understand our fans' behavior and preferences, which will guide us in making informed decisions to improve our fan engagement efforts.
 
 This form is divided into several sections, each with a different type of question. To complete this form, please follow the instructions below.

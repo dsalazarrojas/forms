@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be for collecting informed consent from clients for different lash services, including lash lift, tint, and perm. The form is likely used in a beauty or spa setting, where clients are booking appointments and selecting services. The form is designed to gather client information, appointment details, and service selections, as well as pricing information. This form does not appear to be a duplicate of any existing form, and its purpose is clear. The form is likely to be completed by clients to provide their consent for the selected services and to schedule an appointment. 
-</thinking>
-
 # Lash Lift & Tint Consent - Help Guide
 ## Purpose
 This form is used to collect informed consent from clients for different lash services, including lash lift, tint, and perm. It is designed to gather client information, appointment details, and service selections.

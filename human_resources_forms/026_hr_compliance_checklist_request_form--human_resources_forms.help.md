@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to track the HR compliance checklist for a company. It is used to ensure that the company is in compliance with various regulations and policies. The form is used to record the compliance status, notes, and other relevant details for each employee. It is used by HR personnel to review and approve the compliance status of employees.
-
-Before filling out this form, please ensure that you are familiar with the company's regulations and policies. This form is not intended to replace the actual process of reviewing and approving employee compliance status, but rather to provide a convenient way to track and record the information.
-
-Please note that some fields are marked as required, which means that you will need to fill out those fields before submitting the form. If you are unsure about any of the fields or their requirements, please contact your HR department for clarification.
-
-</thinking>
-
 # HR Compliance Checklist Request Form - Help Guide
 ## Purpose
 The HR Compliance Checklist Request Form is used to track the HR compliance status of employees. This form helps HR personnel to review and approve the compliance status of employees, ensuring that the company is in compliance with various regulations and policies.

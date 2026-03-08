@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about courier loads, providing a standardized and efficient way to gather and track data about shipments. The form is meant for internal use within a company, likely by logistics or operations teams. To ensure the form is not completed unnecessarily, please be aware that duplicate submissions will be flagged and rejected. This form's fields are designed to be filled out in a straightforward manner, requiring minimal information for each field. Please only fill out the required fields if you have accurate information.
-</thinking>
-
 # Courier Load Information Request Form - Help Guide
 ## Purpose
 The purpose of this form is to collect and track information about courier loads in a standardized and efficient manner.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Donation Match Request Form - Help Guide
 
 ## Purpose

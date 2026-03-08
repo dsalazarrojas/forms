@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I've reviewed the provided YAML form schema and understand its purpose and requirements. This form is for users to request access to a website's lightbox, which is likely a secure or restricted area of the website that requires approval or validation from the website administrators. The form is designed to collect relevant information from the user to facilitate this process.</thinking>
-
 # Website Lightbox Access Form - Help Guide
 ## Purpose
 This form is used to request access to a website's lightbox. Please fill out the form completely and accurately to ensure that your request is processed efficiently.

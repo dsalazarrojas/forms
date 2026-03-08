@@ -1,11 +1,3 @@
-<thinking>
-
-The form is for capturing contact information and preferences from companies interested in developing Corporate Social Responsibility (CSR) and Environmental, Social and Governance (ESG) initiatives. This form will help us understand the needs and expectations of potential clients, allowing us to provide tailored guidance and support.
-
-Before starting, please ensure that the information provided is accurate and relevant to your company. Please do not submit duplicate or outdated contact information. If you have already contacted us before, please do not fill out this form again. This will help us keep our database up-to-date and prevent unnecessary follow-ups.
-
-</thinking>
-
 # Corporate Citizenship Strategy Contact Form - Help Guide
 ## Purpose
 This form is designed to help us understand your company's interests and preferences regarding Corporate Social Responsibility (CSR) and Environmental, Social and Governance (ESG) initiatives.

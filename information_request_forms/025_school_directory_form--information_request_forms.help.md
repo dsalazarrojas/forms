@@ -1,6 +1,3 @@
-<thinking>
-This form is used to gather information about a family's contact details and their child's educational information for school administration purposes. The form is intended to be filled out by the family members or guardians of a student. This form is likely part of an internal process within the school district or administrative office, so please ensure that you have permission to access and submit this form. Duplicate entries for the same family or student will not be accepted, please ensure you only submit unique information.
-</thinking>
 # School Directory Form - Help Guide
 
 ## Purpose

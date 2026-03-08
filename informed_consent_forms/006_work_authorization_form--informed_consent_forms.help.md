@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from employees for work authorization purposes. The form is intended to gather data about the employee's employment status, work location, and other relevant details. Before proceeding, please ensure you are filling out this form for a valid work authorization purpose. Please do not use this form for other purposes or duplicate entries. If you need any clarification or have questions about the form, feel free to contact us at form@gic.mx.
-
-</thinking>
-
 # Work Authorization Form - Help Guide
 
 ## Purpose

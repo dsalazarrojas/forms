@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Accident Investigation Leave Form - Help Guide
 ## Purpose
 This form is used to document and investigate incidents or accidents that occurred during work hours or on company premises, to ensure a safe working environment and to identify and implement corrective actions to prevent similar incidents. It is essential to fill this form accurately and truthfully to ensure a thorough investigation and proper handling of the case.

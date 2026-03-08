@@ -1,7 +1,3 @@
-<thinking>
-We need to understand the purpose of the form and ensure it's not duplicating existing forms. This form is intended to collect information about a person's fitness goals and preferences. The form will likely be used by fitness professionals to better understand their clients' needs and tailor their services accordingly.
-</thinking>
-
 # nova_fitness_body_information_form - Help Guide
 ## Purpose
 The nova_fitness_body_information_form is designed to collect information about a person's fitness goals and preferences. This form helps fitness professionals understand their clients' needs and tailor their services to meet those needs.

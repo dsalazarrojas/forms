@@ -1,7 +1,3 @@
-<thinking>
-This help guide will cover the form for requesting information related to child tickets, including events, ticket types, and other relevant details.
-</thinking>
-
 # Child Ticket Information Request - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-The patient portal consent form is used to collect patient information and consent for access to their medical records. The form is intended for patients to provide their demographic information, select their preferred level of access to their medical records, and grant consent for healthcare providers to access their data. This form is a critical component of the patient portal system, ensuring that patients are informed and willing participants in their healthcare management. Before filling out this form, please take a moment to review the instructions and explanations below.
-
-</thinking>
-
 # patient_portal_consent_form - Help Guide
 ## Purpose
 The patient portal consent form is a critical component of the patient portal system, designed to ensure that patients are informed and willing participants in their healthcare management. This form collects patient demographic information, selects their preferred level of access to their medical records, and grants consent for healthcare providers to access their data.

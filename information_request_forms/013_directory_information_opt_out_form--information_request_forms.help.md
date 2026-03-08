@@ -1,7 +1,3 @@
-<thinking>
-The form is used to collect directory information opt out information from students and their guardians. It appears to be a simple form for collecting basic personal information from students and their guardians for some purpose.
-</thinking>
-
 # Directory Information Opt Out Form - Help Guide
 ## Purpose
 This form is used to collect directory information opt out information from students and their guardians. This information will be used for the purpose of keeping student records up to date, as per the relevant laws and regulations.

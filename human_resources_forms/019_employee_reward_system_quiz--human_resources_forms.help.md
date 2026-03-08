@@ -1,5 +1,3 @@
-<thinking>...the purpose of this form is to provide an assessment and evaluation tool for employees, managers, and administrators to gauge the current state of the employee reward system in the organization. The form will help identify areas of improvement and provide valuable insights for future development and resource allocation. This form is a part of the organizational's employee engagement and retention strategy... </thinking>
-
 # Employee Reward System Quiz - Help Guide
 ## Purpose
 The Employee Reward System Quiz is a tool designed to help assess and evaluate the current state of the employee reward system within the organization. This form aims to identify areas of improvement and provide insights for future development and resource allocation.

@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to allow employees to request vacation leave, including the dates of the leave, the number of days requested, and other relevant details such as the reason for the leave, manager approval, and employee status. This form is likely used to manage employee absences and ensure that the organization's leave policies are being followed correctly. Before filling out this form, please ensure that you have already checked with your manager or HR department to see if you are eligible for leave and to discuss any necessary details. Please note that this form does not replace any existing internal processes or procedures for requesting leave.
-
-</thinking>
-
 # Family Vacation Leave Form - Help Guide
 ## Purpose
 The Family Vacation Leave Form is used to request time off for family-related reasons, such as vacations or bereavements. This form is meant for employees to submit their leave requests to their manager or HR department for approval.

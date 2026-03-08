@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Travel Request Form - Help Guide
 
 ## Purpose

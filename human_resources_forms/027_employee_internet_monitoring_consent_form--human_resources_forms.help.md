@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is used to obtain consent from employees to monitor their internet usage at work. This is a one-page form with three fields: employee internet monitoring consent, category, and description. Monitoring internet usage is meant to help the organization ensure that employees are not accessing non-work related sites during work hours. The purpose of this form is to obtain consent from employees so that the organization can legally monitor their internet activity, if they choose to do so. This form does not require employee consent, but it's a requirement for the organization to monitor employee internet activity.
 
 # employee_internet_monitoring_consent_form - Help Guide

@@ -1,9 +1,3 @@
-<thinking>
-
-To create this form, you'll want to provide detailed information about an employee's access authorization, which is essential for various administrative tasks, such as granting or revoking access to company resources. This form helps ensure that access is granted correctly and efficiently. It's a one-time form that should only be filled out once for each employee, and not repeatedly. Please make sure you understand the purpose and scope of this form before completing it, as this information will be used to make informed decisions about access levels for the employee. If you're unsure, please reach out to your HR or IT department for clarification. 
-
-</thinking>
-
 # Employee Access Authorization Form - Help Guide
 ## Purpose
 The Employee Access Authorization Form is used to record and verify the access authorization details of an employee, ensuring that access to company resources is properly granted or revoked. This form is essential for administrative tasks such as granting or revoking access to company resources.

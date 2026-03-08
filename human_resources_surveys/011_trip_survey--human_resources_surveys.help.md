@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information about employee trips, including trip details, dates, travel agency, and other relevant aspects. The fields are designed to gather data that helps the organization keep track of employee travel and ensure compliance with company policies and procedures. Before proceeding, please ensure that you have read and understood the travel policy and that your trip is not a duplicate entry.
-
-</thinking>
-
 # Trip Survey - Help Guide
 
 ## Purpose

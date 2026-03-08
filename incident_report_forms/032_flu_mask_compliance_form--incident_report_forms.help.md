@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about employee and patient flu mask compliance status. It is used to track employees' and patients' flu mask compliance status, including their flu diagnosis date, contact tracing, and mask-wearing status. This form is intended to be completed by employees or their representatives, and it is used to inform management or other relevant parties about the status of mask compliance in the workplace. 
-
-To ensure data quality and avoid duplication, please ensure that each form is only completed once per employee and patient, and that all relevant information is accurately recorded. If there are multiple employees or patients involved, please use the additional "More Patient Info", "More Employee Info" and "More Contact Traced Info" fields for detailed information.
-
-Please note that the submitted_by, submitted_to, and assigned_to fields are intended to capture who submitted the form, to whom it was submitted, and to whom it was assigned, respectively. These fields are used to track the form's lifecycle and ensure that it reaches the intended recipient.
-</thinking>
-
 # Flu Mask Compliance Form - Help Guide
 
 ## Purpose

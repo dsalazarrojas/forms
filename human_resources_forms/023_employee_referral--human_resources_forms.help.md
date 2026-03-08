@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The employee referral form is used to gather information about an employee's referral source, including their contact information and job posting details. This form ensures that the company has a clear understanding of who referred an employee to the company and why they are a good fit for the role. The form should only be completed by employees who have been referred to the company through a colleague or friend.
 
 # employee_referral - Help Guide

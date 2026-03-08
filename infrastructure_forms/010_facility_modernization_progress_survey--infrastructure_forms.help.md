@@ -1,17 +1,3 @@
-<thinking> 
-This form is designed to collect information about the progress of facility modernization phases. The form is likely used in a facility management or construction context where the organization is undergoing various phases of modernization. The purpose of this form is to track the status and start dates of each phase, which can be used for project management, monitoring, and evaluation purposes. 
-
-This form is a survey, so end-users should fill it out for each phase that has started or progressed. If a phase has not started, they should leave the corresponding fields blank. 
-
-The form collects information on multiple phases, with Phase 8 being optional. If Phase 8 has started, the form requests its status and start date. If Phase 8 has not started, the form asks to describe its status. 
-
-The form is designed for multiple users, so it's essential to ensure that each field is filled out accurately and consistently. 
-
-This form is an original adaptation, not affiliated with, or derived from any form platform. It is released under CC BY 4.0, allowing users to modify and even sell forms derived from it while giving credit. 
-
-Please contact form@gic.mx for any questions or concerns. 
-</thinking>
-
 # Facility Modernization Progress Survey - Help Guide
 ## Purpose
 The purpose of this form is to track the status and start dates of each phase of the facility modernization project.

@@ -1,7 +1,3 @@
-<thinking>
-The form "Orchestra Contract Form" seems to be used for recording information related to a concert or performance. This form likely aims to gather data about the musician's performance schedule, contract terms, and other relevant details. Upon reviewing the form structure, it appears to ask for the musician's name, rehearsal date, time, contract terms, performance attendance, and a series of numbers from 1 to 25. The required fields seem to be minimal, but it's essential to note that the form might be intended for administrative or organizational purposes rather than for public display. To avoid duplication, the form should be filled out by authorized personnel only.
-</thinking>
-
 # Orchestra Contract Form - Help Guide
 ## Purpose
 The Orchestra Contract Form is used to record information about a musician's performance schedule, contract terms, and other relevant details.

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from participants who are interested in the Global Workforce Development Program. This program likely aims to support the professional growth and development of its participants. The form will likely be used by program administrators to assess the eligibility and suitability of each participant for the program. 
-To avoid duplication, ensure that you are not completing this form if you have already submitted an application in the past 6 months or if you have been approved for the Global Workforce Development Program previously.
-</thinking>
-
 # Global Workforce Development Program Application - Help Guide
 ## Purpose
 This form is designed to help you apply for the Global Workforce Development Program. It will guide you through the necessary steps to provide your information and submit your application.

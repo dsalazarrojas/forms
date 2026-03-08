@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect contact information from users requesting access to historical data. The form is designed to be simple and straightforward, allowing users to provide their details in a few easy steps. Before proceeding, please ensure that you have a legitimate reason to request access to historical data and that you have not already submitted this form.
-
-To avoid duplicate requests, please ensure that you have not submitted this form previously.
-
-</thinking>
-
 # Historical Data Access Contact Form - Help Guide
 ## Purpose
 This form is used to collect contact information from users who are requesting access to historical data. Please fill out the form accurately and thoroughly to ensure that your request is processed efficiently.

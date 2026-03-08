@@ -1,7 +1,3 @@
-<thinking>
-We are considering creating a form to help us understand the needs of our students in regards to online learning accessibility. This form will help us gather information from students about their accessibility requirements so we can better support them. We expect to receive similar requests, so we will review and prioritize them to ensure we address the most critical issues first. 
-</thinking>
-
 # Online Learning Accessibility Support Request Form - Help Guide
 
 ## Purpose

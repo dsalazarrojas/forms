@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect personal and professional information from candidates after an interview, helping the hiring team to assess their qualifications, motivation, and fit for the role. This form should not be filled out by candidates without an interview scheduled or completed, and the information provided should be specific to the candidate filling out the form.
-</thinking>
-
 # Post Interview Questionnaire - Help Guide
 ## Purpose
 The Post Interview Questionnaire is a tool used to collect information from candidates after an interview, helping the hiring team to assess their qualifications, motivation, and fit for the role.

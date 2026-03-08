@@ -1,8 +1,3 @@
-<thinking>
-This form is for gauging internal communication among staff members. The main purpose of this form is to collect opinions and feedback on the current internal communication methods used within the organization. The form is not affiliated with or derived from any form platform and is released under CC BY 4.0. The form is meant to be completed by internal staff members to provide their honest opinions on how communication can be improved. 
-
-</thinking>
-
 # Internal Communication Staff Opinion Survey - Help Guide
 ## Purpose
 This survey is designed to gather your opinions and feedback on our internal communication methods. Your responses will help us understand how we can improve communication within the organization.

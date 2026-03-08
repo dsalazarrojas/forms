@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'm thinking about how to create a user-friendly help guide for this form. Before I start writing, let me ensure the form purpose and field labels are clear and concise. I'll also verify there's no duplication of information and that the form meets the required standards for completion. In this case, the form is designed to evaluate an employee's creativity and innovation abilities, which is a vital aspect of their job performance. I'll make sure to convey this purpose effectively in the introduction and throughout the help guide. I'll also confirm that each field has a clear label, hint, and explanation to help users complete the form accurately and efficiently. Now, let me begin writing the help guide...</thinking>
-
 # Employee Creativity And Innovation Evaluation Form - Help Guide
 ## Purpose
 This form is designed to assess an employee's creativity and innovation abilities, which are essential components of their job performance. Your evaluation will help your supervisor or manager understand your creative potential and identify areas for growth and development.

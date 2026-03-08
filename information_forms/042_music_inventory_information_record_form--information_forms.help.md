@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to provide clear instructions on how to complete the Music Inventory Information Record Form, ensuring end-users understand its purpose and how to accurately fill it out. The form is designed to gather information about music records, including title, music genre, album details, artist, record label, release date, and price. It is crucial to fill out the form correctly to avoid errors and ensure accurate data entry.
-
-Before starting, please review the form carefully to ensure you have all the necessary information and to prevent duplicates. This guide will walk you through each section, explaining each field's purpose and requirements in detail.
-
-</thinking>
-
 # Music Inventory Information Record Form - Help Guide
 ## Purpose
 The Music Inventory Information Record Form is designed to collect data about music records, allowing you to track and manage your music collection efficiently. This form gathers essential information, such as title, music genre, album details, artist, record label, release date, and price.

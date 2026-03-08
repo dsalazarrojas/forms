@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Use Of Force Assessment Form - Help Guide
 
 ## Purpose

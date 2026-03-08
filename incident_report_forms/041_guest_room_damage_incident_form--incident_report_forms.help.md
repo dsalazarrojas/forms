@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Guest Room Damage Incident Form - Help Guide
 
 ## Purpose

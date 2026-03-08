@@ -1,9 +1,3 @@
-<thinking>
-This is a help guide for the "Warehouse Fire Incident Form". The form is designed to capture essential details about a warehouse fire incident, allowing relevant personnel to quickly and accurately report and track incident information. This form is meant to be filled out by warehouse staff or incident responders in the aftermath of a fire incident. Please review the form carefully and ensure that you are filling out the correct information for your incident.
-
-Before filling out this form, make sure you have permission to report the incident. If you are unsure about any field, please seek clarification from your supervisor or incident response team.
-</thinking>
-
 # Warehouse Fire Incident Form - Help Guide
 ## Purpose
 This form is used to report and track warehouse fire incident information, ensuring that the correct details are captured accurately and efficiently.

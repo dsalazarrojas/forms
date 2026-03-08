@@ -1,6 +1,3 @@
-<thinking>
-To create a form that captures accurate employee information for the tech company, we need to ensure that the employee details are complete and accurate. This form will be used for employee onboarding purposes, and it's essential to get the right information in order to properly onboard the new employee. To avoid duplication of work, we should only create this form when the employee's onboarding status is still "Not Started" or "In Progress". We will be capturing the employee's details, such as job title, email, phone number, and onboarding location. We will also be capturing the manager's details, such as name, email, and phone number. This form will help us to keep a track of the employee's onboarding process and ensure that everything is in place before the employee starts working. Please fill out this form accurately and completely to ensure a smooth onboarding process.</thinking>
-
 # tech_company_employee_admission_form - Help Guide
 ## Purpose
 This form is designed to collect accurate information from new employees for the onboarding process.

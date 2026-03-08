@@ -1,5 +1,3 @@
-<thinking>Before diving into the help guide for the "Diving Customer Record Form", let's take a moment to reflect on its purpose. This form is designed to collect detailed information from customers about their diving experiences, including their certification levels, number of dives, and medical clearance. It's used to update customer records within the organization, ensuring accurate and reliable information is kept up to date. This form helps in maintaining accurate records for administrative and reporting purposes, while also allowing for easy access to customer information. Before proceeding, ensure the form is completed accurately and thoroughly to avoid duplication and ensure consistency in the data collection process.</thinking>
-
 # Diving Customer Record Form - Help Guide
 ## Purpose
 The Diving Customer Record Form is used to collect and update detailed information from customers about their diving experiences, ensuring accurate and reliable information for administrative and reporting purposes.

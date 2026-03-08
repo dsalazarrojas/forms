@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information from potential house buyers about their preferences and requirements for their dream house. This form is designed to help users provide input on various factors such as house price range, size, location, and features. It will likely be used by real estate agents or homebuyers to narrow down options and find the perfect home match. The form is not intended to be a definitive checklist, but rather a starting point for discussions between buyers and sellers. It may be used in conjunction with other tools to help facilitate the homebuying process.
-
-</thinking>
-
 # house_buyers_information_checklist - Help Guide
 ## Purpose
 This form is designed to gather information from potential house buyers about their preferences and requirements for their dream house. It will help identify the perfect match between buyers and sellers.

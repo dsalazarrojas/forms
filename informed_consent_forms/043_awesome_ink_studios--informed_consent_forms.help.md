@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is filled out correctly to maintain a high level of professionalism and respect for the client's well-being. This form should not be used for duplicate or unnecessary procedures. Please ensure that you are aware of the form's purpose and requirements before proceeding.
-</thinking>
-
 # Awesome Ink Studios Tattoo Informed Consent Form - Help Guide
 ## Purpose
 The Awesome Ink Studios Tattoo Informed Consent Form is a document that you, as the client, must fill out before getting a tattoo. This form is designed to protect both you and our studio from potential risks associated with the tattooing process. By filling out this form, you are giving us necessary information about your health and consent to proceed with the tattoo.

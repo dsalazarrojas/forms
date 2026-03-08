@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from employees on the impact and effectiveness of the corporate work-life balance initiative. This information will help management to understand the needs and challenges of employees, identify areas for improvement, and make data-driven decisions to enhance the overall work-life balance in the organization. The form is part of a larger effort to improve employee well-being and job satisfaction. This information will not be shared with external parties, but rather used internally to inform company policies and programs.
-</thinking>
-
 # Corporate Work Life Balance Initiative Impact Survey - Help Guide
 ## Purpose
 This survey aims to gather feedback on the effectiveness and impact of our corporate work-life balance initiatives. Your input will help us understand what programs and policies are working well and where we can make improvements to better support your well-being and job satisfaction.

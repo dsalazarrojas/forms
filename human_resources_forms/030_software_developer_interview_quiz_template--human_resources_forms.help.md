@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about software developers' skills and characteristics. It's likely used by hiring managers or HR personnel to assess a candidate's suitability for a role. The form is designed to be a self-assessment, allowing candidates to evaluate themselves against a set of predefined criteria. It's possible that the form is part of a larger evaluation process, but it's also possible that it's used in a more informal setting, such as for a team lead position or a coding bootcamp.
-</thinking>
-
 # software_developer_interview_quiz_template - Help Guide
 ## Purpose
 This form is a self-assessment tool for software developers to evaluate their skills and characteristics in various areas, such as technical skills, problem-solving, coding, system design, communication, and more.

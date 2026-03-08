@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about safety hazard resolutions, which is a critical aspect of ensuring the well-being and safety of employees, customers, or users in the workplace. The purpose of this form is to gather details about a safety hazard that occurred, identify the root cause, and outline a plan to mitigate and correct the situation. This form is intended for use in various industries and settings where safety is a top priority. To avoid duplication of effort, please ensure that the safety hazard resolution process is not already underway before submitting this form.
-</thinking>
-
 # Safety Hazard Resolution Report Form - Help Guide
 ## Purpose
 The Safety Hazard Resolution Report Form is designed to collect and document information about safety hazards that occur in the workplace, with the goal of identifying root causes and implementing mitigation and corrective actions to prevent future incidents.

@@ -1,39 +1,3 @@
-<thinking>
-To ensure we don't create redundant content and that our users have a clear understanding of what they need to input, let's think about the purpose and structure of the Industry Seminar Information Collection Form. The form is used to collect information about industry seminars, allowing users to provide their goals, industry focus, preferred sessions, and other relevant details. This form aims to gather data that will help us create a valuable and tailored experience for attendees.
-
-To complete this form, users will need to provide their goals, industry focus, session preferences, and other required information like contact details, session details, and expectations. It's essential to fill out all required fields, which are marked as such in the form. The form is designed to be easy to use and navigate, making it accessible to users with varying levels of familiarity with forms.
-
-Here's a breakdown of each field and its purpose:
-
-* **Goals**: This field is where users can enter their goals for attending the industry seminar. Users are required to fill out this field.
-* **Industry**: Select the industry that aligns with your focus. Options include Automotive, Aerospace, and Agriculture. This field is required.
-* **Preferences**: Select all the sessions you're interested in attending. Users can choose multiple sessions. This field is not required.
-* **Expectations**: Enter your expectations from the seminar. This field is required.
-* **Details**: Provide any additional details about the seminar or your expectations. This field is required.
-* **Contact**: Select how you'd like to be contacted. Options include Email, Phone, and LinkedIn. This field is required.
-* **Email**: Enter your email address. This field is required.
-* **Phone**: Enter your phone number. This field is required.
-* **Date**: Select the date you'd like to attend the seminar. This field is required.
-* **Time**: Select the time slot for the seminar. This field is required.
-* **Session**: Select all the sessions you'd like to attend. Users can choose multiple sessions. This field is required.
-* **Attendee Name**: Enter your name. This field is required.
-* **Attendee Email**: Enter your email address. This field is required.
-* **Attendee Phone**: Enter your phone number. This field is required.
-* **Session Preferences**: Select all the sessions you're interested in. Users can choose multiple sessions. This field is required.
-* **Attendee Company**: Enter your company name. This field is required.
-* **Attendee Title**: Enter your title or position. This field is required.
-* **Attendee Role**: Enter your role. This field is required.
-* **Attendee Notes**: Provide any additional notes or comments. This field is required.
-* **Confirm Attendance**: Confirm that you will attend the seminar. This field is required.
-* **Additional Attendees**: Select all the attendees who will be attending with you. Users can choose multiple attendees. This field is not required.
-* **Session Attendance**: Confirm that you will attend the selected session. This field is required.
-* **Attendee Expectation**: Select your expectation level for the seminar. Options include High, Medium, and Low. This field is not required.
-* **Session Expectations**: Enter your expectations from the seminar. This field is required.
-* **Session Expectations**: Enter your expectations from the seminar. This field is required.
-
-Note that some fields may have varying levels of importance depending on the specific context and use case.
-</thinking>
-
 # Industry Seminar Information Collection Form - Help Guide
 ## Purpose
 This help guide explains the purpose and usage of the Industry Seminar Information Collection Form.

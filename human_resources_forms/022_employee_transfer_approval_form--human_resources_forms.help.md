@@ -1,7 +1,3 @@
-<thinking>
-This form is used for employee transfers, which involves the movement of an employee from one department to another within the company. The form should only be used for legitimate purposes, such as reassigning an employee from one department to another or changing their status due to resignation or inactivity. Please ensure that all the required fields are completed accurately and truthfully to ensure a smooth transfer process.
-</thinking>
-
 # Employee Transfer Approval Form - Help Guide
 ## Purpose
 The purpose of this form is to facilitate the employee transfer process by gathering necessary information from the employee and their manager to approve and process the transfer.

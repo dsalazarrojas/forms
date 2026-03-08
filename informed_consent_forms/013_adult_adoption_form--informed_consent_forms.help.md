@@ -1,5 +1,3 @@
-<thinking>...The form is designed to guide users through the process of completing the Adult Adoption Form, which is a document used to formalize a relationship between two adults. This form is not affiliated with or endorsed by any form platform, and it's an original adaptation created using AI. The form is intended to be completed by adopters to provide information about their relationship with the adoptee... </thinking>
-
 # Adult Adoption Form - Help Guide
 ## Purpose
 The Adult Adoption Form is a document used to formalize a relationship between two adults. This form is typically used when an adult wants to establish or confirm their relationship with another adult.

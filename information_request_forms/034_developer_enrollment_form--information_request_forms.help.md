@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 The purpose of this form is to enroll a new developer in our system, collecting essential information that will help us understand their background and preferences. 
 This form is designed to be completed by the developers themselves. 
 We will only accept a single enrollment per developer, and it's not intended to be filled out multiple times. 

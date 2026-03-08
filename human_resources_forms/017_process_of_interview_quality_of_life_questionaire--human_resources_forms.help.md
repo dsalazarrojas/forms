@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a part of a hiring process, used to gather information about the quality of life for interview candidates. It's not clear if this is for internal employee assessment or for external candidates. Given the fields available, it seems to be a general quality of life questionnaire with some fields that might indicate the type of job or work environment. I'm assuming this is not a high-priority form as most fields seem optional. The fields are mostly text-based, suggesting a free-form response is expected. The "form_submit" and "form_submit_2" fields appear to be used for submitting the form, likely with different options (submit or cancel). I'll provide a help guide based on this interpretation.
-</thinking>
-
 # Process Of Interview Quality Of Life Questionnaire - Help Guide
 ## Purpose
 This form is used to collect information about the quality of life aspects of an interview, which may help in assessing the suitability of candidates for a position.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for logging IV flow data, presumably for medical purposes. The internal reasoning suggests that it is used to track IV (intravenous) fluid administration, which may include fluid type, dosage, and other related metrics. To ensure the form is completed correctly, a quick internal check to prevent duplication and ensure relevance should be conducted before proceeding. This guide will help users understand the form's purpose, how to fill it out, and what each field represents.
-</thinking>
-
 # ประก IV Flow Log Form - Help Guide
 ## Purpose
 The "ประก IV Flow Log Form" is a medical record-keeping form used to document IV fluid administration events. It captures essential information about patients, IV treatment details, and related activities.

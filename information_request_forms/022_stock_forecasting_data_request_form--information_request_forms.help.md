@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my goal is to create a user-facing help guide that is clear, concise, and practical for the end-user. I will review the form's purpose, fields, and options to ensure that the guide is accurate and helpful. I will also check for any potential issues, such as non-duplication of information or unclear labels, to provide the best possible experience for the user.</thinking>
-
 # Stock Forecasting Data Request Form - Help Guide
 ## Purpose
 The purpose of this form is to collect data for stock forecasting. This form is used to gather information from users to help with investment analysis, trading, and research. The form is designed to be completed by users with relevant information about the stocks they are interested in.

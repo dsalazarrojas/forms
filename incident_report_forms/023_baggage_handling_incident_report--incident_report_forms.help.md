@@ -1,11 +1,3 @@
-<thinking>
-  This form is an original adaptation, created using only public survey topic metadata, and is not affiliated with, endorsed by, or derived from any form platform. It was designed using AI to provide a clear and concise guide for end-users to report incidents involving baggage handling during air travel. 
-
-Before using this form, please ensure that the incident reported is not a duplicate, and that the information provided is accurate and complete. 
-
-The form is divided into sections for easy understanding and completion. 
-</thinking>
-
 # Baggage Handling Incident Report - Help Guide
 ## Purpose
 This form is used to report incidents involving baggage handling during air travel, such as damaged, lost, or delayed baggage.

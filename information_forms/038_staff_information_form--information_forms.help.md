@@ -1,12 +1,3 @@
-<thinking>
-This form appears to be a staff information form, designed to collect and display details about staff members. The purpose of this form is to gather and display essential information about staff, including their name, job title, department, employment status, contact information, job title ID, hire date, and termination date. This form will likely be used for staff management, reporting, and other administrative purposes.
-
-Considering the fields and their types, it seems that most fields are optional, which means that staff members do not need to fill in all fields. However, it's essential to ensure that the form is completed accurately and consistently to maintain reliable data.
-
-The form is designed to be completed by staff members themselves or by someone with access to their details. It's possible that this form could be used in conjunction with other forms or systems to update or validate staff information.
-
-</thinking>
-
 # staff_information_form - Help Guide
 ## Purpose
 This form is designed to collect and display staff member information for staff management, reporting, and other administrative purposes.

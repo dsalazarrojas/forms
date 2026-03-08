@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect information from guests who wish to access a guest communication portal. The purpose of this form is to gather essential details from the guest, such as their contact information, request purpose, and access duration. The form ensures that the guest's request is properly assessed and approved or denied accordingly.
-
-Before proceeding, please ensure that:
-
-* You are submitting a legitimate request for access to the guest communication portal.
-* You have not submitted this request previously.
-
-If you are unsure about any of the information provided, please contact the relevant authorities for assistance.
-
-</thinking>
-
 # guest_communication_portal_access_request - Help Guide
 
 ## Purpose

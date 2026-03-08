@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from users about their pain experiences and medical history. It is intended to be used by healthcare professionals to assess the severity and impact of pain on daily activities. The form should not be used to report emergencies or urgent issues.
-</thinking>
-
 # Pain Disability Test Form - Help Guide
 ## Purpose
 The Pain Disability Test Form is a tool used by healthcare professionals to collect information about a patient's pain experiences. This form helps to assess the severity and impact of pain on daily activities and identify potential areas for treatment and intervention.

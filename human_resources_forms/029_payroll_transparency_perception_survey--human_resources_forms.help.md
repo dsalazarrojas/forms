@@ -1,18 +1,3 @@
-<thinking>
-
-To create an effective help guide for the "Payroll Transparency Perception Survey" form, let's first break down the form's purpose and potential use cases. This form is designed to gather information on various aspects of payroll transparency, including company description, job title, salary, pay period, pay frequency, benefits, and communication with management. It's likely intended for HR or payroll management teams to collect feedback from employees on their perceptions of the company's payroll policies and practices.
-
-The form's purpose is to:
-
-* Gather information on employee's current annual salary
-* Understand the frequency of pay and benefits
-* Assess the level of transparency in communication with management
-* Identify any potential issues or areas for improvement
-
-Given this, we'll focus on creating a user-friendly guide that helps employees navigate the form and understand each field's purpose.
-
-</thinking>
-
 # Payroll Transparency Perception Survey - Help Guide
 ## Purpose
 This form is designed to gather your feedback and perceptions on our company's payroll practices. Your responses will help us better understand your experience and identify areas for improvement.

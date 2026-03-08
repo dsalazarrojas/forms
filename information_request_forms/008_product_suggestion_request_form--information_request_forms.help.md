@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect user feedback and suggestions for products, ensuring that our product development and improvement processes are informed by customer needs and preferences. Before filling out this form, please ensure that you haven't already submitted a similar request in the past, as this form is intended to gather unique and new ideas.
 
 # Product Suggestion Request Form - Help Guide

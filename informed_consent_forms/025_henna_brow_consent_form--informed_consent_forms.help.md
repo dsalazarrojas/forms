@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a template for obtaining informed consent from patients before undergoing a henna brow treatment or other similar cosmetic procedure. It ensures that patients are fully aware of the treatment details, its potential risks and benefits, and are providing their consent voluntarily. Before proceeding with this form, please ensure that you are not duplicating an existing consent form used in your organization, and that the information provided aligns with your institution's policies and procedures.
-</thinking>
-
 # Henna Brow Consent Form - Help Guide
 ## Purpose
 The Henna Brow Consent Form is a document that requires patients to provide informed consent before undergoing a henna brow treatment. This form ensures that patients are fully aware of the treatment details, its potential risks and benefits, and are providing their consent voluntarily.

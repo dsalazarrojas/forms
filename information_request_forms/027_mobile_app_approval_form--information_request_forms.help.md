@@ -1,5 +1,3 @@
-<thinking>Internal note: This form is used to facilitate the submission of mobile apps to various app stores such as Apple, Google, and Amazon. The submission process typically involves verifying the app's compatibility with the store's guidelines and requirements before it can be reviewed and approved. The form will help ensure that all necessary information is provided correctly and efficiently. It's essential to avoid duplicating efforts and to ensure that the submitters provide all required information to avoid rejections. The submission process should not be repeated for the same app, so please verify the app's status and only submit if it's new.</thinking>
-
 # Mobile App Approval Form - Help Guide
 ## Purpose
 This form is used to submit mobile apps to various app stores, including Apple, Google, and Amazon. It ensures that all necessary information is provided correctly and efficiently.

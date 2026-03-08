@@ -1,12 +1,3 @@
-<thinking>
-The form, titled "Employment Application", is used to capture information about an individual's employment history and job preferences. It's essential to ensure that the information provided is accurate and complete to process the employment application correctly.
-
-Before proceeding, please ensure that you're filling out this form for the correct purpose and that the information you provide is not a duplicate of any existing employment application. This form is designed to collect specific details about your employment status and job preferences.
-
-If you're unsure about any of the fields or the purpose of this form, please reach out to the HR department for assistance.
-
-</thinking>
-
 # Employment Application - Help Guide
 ## Purpose
 This form is used to collect information about an individual's employment history and job preferences. It's essential to provide accurate and complete information to process the employment application correctly.

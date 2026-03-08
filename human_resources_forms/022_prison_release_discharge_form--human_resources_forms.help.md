@@ -1,11 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a comprehensive user-facing help guide for the "Prison Release Discharge Form" based on the provided YAML fields. Here's my thought process:
-
-* The form is meant to gather information from individuals being released from prison or custody, including personal details, address, and release information.
-* The form will likely be used by prison officials or release counselors to verify information and update records.
-* To avoid duplication and ensure relevance, it's essential to clearly define the form's purpose and guide users through each field.
-
-</thinking>
-
 # Prison Release Discharge Form - Help Guide
 ## Purpose
 The "Prison Release Discharge Form" is a document used to collect essential information from individuals being released from prison or custody. This form helps verify personal details, address, and release information, which is vital for updating records and facilitating a smooth transition.

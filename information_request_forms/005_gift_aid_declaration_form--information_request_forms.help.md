@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-# Gift Aid Declaration Form - Help Guide
+> # Gift Aid Declaration Form - Help Guide
 
 ## Purpose
 The Gift Aid Declaration Form is used to declare gifts made to charities. This form helps charities understand that the donation is eligible for Gift Aid, a government scheme that allows charities to claim an enhanced rate of relief on certain donations.

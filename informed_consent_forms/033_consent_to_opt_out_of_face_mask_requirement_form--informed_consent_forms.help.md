@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from parents or guardians to opt out of a face mask requirement in schools. Before filling out this form, please ensure that you are a parent or guardian and that you have a valid reason for opting out. If you have already submitted this form or have a similar form in progress, please do not submit this form again.
-</thinking>
-
 # Consent To Opt Out Of Face Mask Requirement Form - Help Guide
 ## Purpose
 This form is used to collect information from parents or guardians to opt out of a face mask requirement in schools. It is essential to understand that the decision to opt out may have implications on the student's health risks.

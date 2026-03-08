@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for the Employee Recognition Program, which aims to acknowledge and reward employees' outstanding contributions, achievements, or service. The form is used by employees, usually with the guidance of their managers, to submit their nomination for recognition. The purpose of this form is to gather all necessary details about the nominee, the nomination, and the recognition process. Before completing this form, please ensure that you have discussed and agreed with your nominee on the submission of this form.
-</thinking>
-
 # Employee Recognition Program Intake Form - Help Guide
 ## Purpose
 This form is used to collect information for the Employee Recognition Program, which recognizes and rewards employees' outstanding contributions, achievements, or service.

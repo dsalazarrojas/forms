@@ -1,31 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the liquid biopsy request form, we need to consider the purpose of the form and how it will be used by end-users. The form is likely used for requesting samples for medical testing, and we need to ensure that users understand what each field is used for.
-
-The form has multiple pages, with the first page being a general information page. This page likely contains fields such as the title of the form and a note or description of the form.
-
-The patient details page likely contains fields such as name, contact information, and other relevant patient information.
-
-The contact details page likely contains fields such as contact name, contact email, and contact phone number.
-
-The healthcare provider page likely contains fields such as healthcare provider name and contact information.
-
-The medical record page likely contains fields such as medical record number, hospital name, and other relevant medical record information.
-
-The medical history page likely contains fields such as medical history and other relevant information.
-
-The specimen details page likely contains fields such as specimen description, sample size, and sample type.
-
-The shipping information page likely contains fields such as shipping address, city, state, zip code, and country.
-
-The signature page likely contains a field for the user to sign and date the form.
-
-The submit page likely contains multiple submit buttons or fields for users to submit the form.
-
-Given these considerations, we can now create a user-facing help guide for the liquid biopsy request form.
-
-</thinking>
-
 # Liquid Biopsy Request Form - Help Guide
 ## Purpose
 The Liquid Biopsy Request Form is used for requesting samples for medical testing. It is designed to collect information from patients, healthcare providers, and other relevant parties involved in the testing process.

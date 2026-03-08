@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from team members for the purpose of assessing team culture within a team. It aims to understand the team's structure, size, and composition, as well as each member's interests and availability. The form will ask for personal details such as name, email, phone number, and date of birth, as well as information about the team, including team name, size, and manager details.
-
-The form will also ask members to select their interest in various programs and their availability for meetings, ensuring that team members can be matched with suitable team projects and schedules. Finally, members will be required to agree to terms and conditions of participating in the Team Culture Lab.
-
-This guide is to ensure that members complete the form accurately and correctly, and understand the purpose and requirements of each field.
-</thinking>
-
 # Team Culture Lab Application Form - Help Guide
 ## Purpose
 The Team Culture Lab Application Form is a tool used to collect information from team members about their team structure, size, and composition. This form helps us to understand team dynamics and identify areas for improvement in team culture.

@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Sample Telemedicine Consent Form - Help Guide
 ## Purpose
 This form is for patients to provide their informed consent for telemedicine services. It is designed to gather essential information about the patient, their medical history, and contact details. Please ensure that the form is filled out accurately and completely to facilitate effective communication and care.

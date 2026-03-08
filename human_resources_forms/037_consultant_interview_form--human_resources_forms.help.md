@@ -1,7 +1,3 @@
-<thinking>
-This help guide is designed to provide a clear understanding of the Consultant Interview Form, ensuring end-users can effectively complete it and get the most out of the process.
-</thinking>
-
 # Consultant Interview Form - Help Guide
 ## Purpose
 The Consultant Interview Form is a tool used to gather essential information about a candidate during an interview, focusing on evaluating their competencies, cultural fit, and overall suitability for a role or project. This form helps interviewers make informed decisions by providing a structured framework for assessing key qualities and characteristics.

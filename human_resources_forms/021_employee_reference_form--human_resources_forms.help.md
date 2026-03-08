@@ -1,5 +1,3 @@
-<thinking>...The employee reference form is used by employees to provide information about their work history and experience. The form helps to establish a connection between the employee and their previous employers or collaborators. This connection can be beneficial for both the employee and the employer, as it provides the employer with valuable information to make informed decisions about future collaborations or references. To ensure consistency and accuracy, please review your work history carefully before filling out this form and only submit it once it is complete...</thinking>
-
 # Employee Reference Form - Help Guide
 ## Purpose
 The Employee Reference Form is used to provide information about your work history and experience.

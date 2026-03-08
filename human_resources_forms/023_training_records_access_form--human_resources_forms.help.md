@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to provide access to training records for employees. The purpose of this form is to gather information about an employee's training status and access to training programs. This form is typically used by HR administrators to update an employee's training status and access to training programs. Please note that this form is not meant for creating new training records, but rather for accessing existing records.
-
-Before completing this form, ensure that you have the necessary permissions to access training records. If you are unsure, please consult with the HR administrator.
-</thinking>
-
 # Training Records Access Form - Help Guide
 ## Purpose
 The purpose of this form is to provide access to training records for employees.

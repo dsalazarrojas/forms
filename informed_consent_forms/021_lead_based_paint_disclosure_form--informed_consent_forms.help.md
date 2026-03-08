@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # lead_based_paint_disclosure_form - Help Guide
 ## Purpose
 The lead-based paint disclosure form is used to inform users about the lead-based paint disclosure requirements and obtain their consent for the application of lead-based paint in a residential or commercial property. This form is a crucial part of the process to ensure compliance with relevant regulations and protect users from potential health risks associated with lead-based paint.

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from clients before a procedure, likely for a medical or aesthetic procedure such as a surgical operation or a makeup session. This form is designed to gather relevant details about the client's medical history, allergies, previous appointments, and other factors that may impact the procedure's outcome. By filling out this form, clients can provide the necessary information to ensure a safe and successful procedure.
-This form is intended to be filled out by clients before attending a procedure, and it's likely that it will be used by healthcare professionals or service providers to review and discuss the client's information before proceeding with the procedure.
-Please note that this form does not contain any duplicate fields, and each field is intended to gather specific information.
-</thinking>
-
 # Makeup Pre Procedure Questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to collect information from clients before a procedure, likely for a medical or aesthetic procedure such as a surgical operation or a makeup session.

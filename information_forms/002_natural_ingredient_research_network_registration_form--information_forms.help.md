@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect registration information from researchers who want to join the Natural Ingredient Research Network. The form is not affiliated with, endorsed by, or derived from any form platform and is an original creation using public survey topic metadata.
-Before proceeding, please note that this form is only intended for researchers who have not already registered with the Natural Ingredient Research Network. If you are already a registered member, please do not submit this form again.
-</thinking>
-
 # Natural Ingredient Research Network Registration Form - Help Guide
 ## Purpose
 The Natural Ingredient Research Network Registration Form is designed to collect information from researchers who want to join the network. This form is meant for researchers who are interested in collaborating and sharing knowledge with others in the field of natural ingredients research.

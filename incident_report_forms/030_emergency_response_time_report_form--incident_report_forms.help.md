@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # emergency_response_time_report_form - Help Guide
 
 ## Purpose

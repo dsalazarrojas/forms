@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate the debriefing process for critical care transports. The purpose of this form is to gather information about a critical care transport, including the patient's name, the transport team involved, the type of transport, the date and time of the transport, and the outcome of the transport. This form is intended for use by healthcare professionals to document and review critical care transports. Please ensure that this form is used only once for each transport and that each field is completed accurately and thoroughly.
-</thinking>
-
 # Critical Care Transport Debrief - Help Guide
 ## Purpose
 The Critical Care Transport Debrief form is designed to gather information about critical care transports, including patient details, transport team, transport type, date and time, and transport outcome. This form helps healthcare professionals document and review transports.

@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-**Internal Reasoning Block**
+> **Internal Reasoning Block**
 This form is used to collect information for web design and development projects. It is intended to gather requirements from clients and project teams to ensure that all necessary details are captured. Before proceeding, ensure that this form is not duplicated and that all necessary information is provided.
 
 # Web Design And Development Requirement Form - Help Guide

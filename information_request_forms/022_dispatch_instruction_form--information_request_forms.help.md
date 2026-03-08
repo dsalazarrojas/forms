@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to provide a platform for customers to communicate their delivery instructions and preferences for a specific order. This form allows customers to input their contact information, order details, and preferences for the delivery of their items. It also serves as a means for customers to confirm their understanding of the delivery process and the status of their order.
-
-This form should only be used for new orders. If you have already submitted a delivery instruction form for an order, please do not resubmit this form. Resubmission may cause confusion and delay the delivery process.
-
-</thinking>
-
 # Dispatch Instruction Form - Help Guide
 ## Purpose
 The Dispatch Instruction Form is a platform for customers to provide their delivery instructions and preferences for a specific order. This form helps ensure that the delivery process goes smoothly and efficiently.

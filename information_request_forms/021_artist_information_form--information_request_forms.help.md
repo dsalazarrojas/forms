@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Artist Information Form - Help Guide
 ## Purpose
 This form is designed to collect information about artists participating in the program. Please fill out the form carefully, ensuring all required fields are completed.

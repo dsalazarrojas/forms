@@ -1,7 +1,3 @@
-<thinking>
-This form is for obtaining informed consent from patients prior to skin treatment.
-</thinking>
-
 # Skin Treatment Consent Form - Help Guide
 ## Purpose
 The Skin Treatment Consent Form is a form used to collect informed consent from patients prior to skin treatment. It gathers information about the patient's skin type, medical history, and allergies, as well as their signature of consent.

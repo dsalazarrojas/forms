@@ -1,16 +1,3 @@
-<thinking>
-Please note that this form is designed to collect information about bus accidents, and the fields are organized to gather details about the incident. Before completing this form, please make sure you have the necessary information and authorization to report the incident. If you have already reported the incident, please do not submit this form again.
-
-This guide is for informational purposes only, and the actual process and requirements may vary depending on your organization's policies and procedures.
-
-This form is not intended to be used for emergency situations. If you need to report an emergency, please call 911 or your local emergency services number.
-
-Please ensure that you have permission or authorization to complete this form, and that you have the necessary information to answer the questions accurately.
-
-If you have any doubts or concerns, please reach out to your supervisor or incident management team for guidance.
-
-</thinking>
-
 # Bus Accident Incident Form - Help Guide
 ## Purpose
 The Bus Accident Incident Form is a comprehensive tool used to report and document bus accidents. This form helps gather essential information to identify the cause, severity, and resolution of the incident, and to provide a clear account of what happened.

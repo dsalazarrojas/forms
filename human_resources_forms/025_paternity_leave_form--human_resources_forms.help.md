@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a user-facing help guide for the "Paternity Leave Form" based on the provided YAML input schema. This form is used for new fathers to apply for paternity leave, and it's essential to understand how to complete it correctly. The form is divided into several fields that collect various information from the applicant. In this guide, we'll walk through each field and provide a clear explanation of what it means and how to complete it.</thinking>
-
 # Paternity Leave Form - Help Guide
 ## Purpose
 The Paternity Leave Form is a document used to apply for paternity leave. It's a necessary step for new fathers to take time off from work to care for their newborn or adopted child. This form helps the management and HR team to process the leave request and ensure a smooth transition for the employee.

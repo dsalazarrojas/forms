@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to gather information from the requester to facilitate the process of obtaining an autopsy report for a specific deceased individual. The form is designed to collect essential details about the requester and the decedent, as well as specifics about the report requested, such as the reason for the request, delivery method, and proof of identity verification. The form should only be completed if the user has a legitimate reason for requesting the autopsy report, such as to provide closure for a family member or to support an insurance claim. Please note that the request form is for internal use only, and completion of this form ensures that the autopsy report will be processed and sent out in the agreed-upon manner.
-</thinking>
 # Autopsy Report Request Form - Help Guide
 
 ## Purpose

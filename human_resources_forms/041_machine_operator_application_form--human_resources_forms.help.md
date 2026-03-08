@@ -1,13 +1,3 @@
-<thinking> 
-
-To create a user-facing help guide for the machine operator application form, we need to understand the form's purpose and the fields involved. 
-
-The form is used for machine operators to apply for jobs or positions within the organization. It's designed to gather information about the operator's contact details, employment status, education background, experience, references, skills, availability, salary, job title, job location, notice period, job type, employment type, job category, machine operator type, machines, supervisor, shift, work hours, work days, start date, end date, employment start date, employment end date, and job ID.
-
-We should aim to make the language simple and clear, avoiding any internal jargon that may confuse users. 
-
-</thinking>
-
 # machine_operator_application_form - Help Guide
 ## Purpose
 The machine operator application form is used to apply for jobs or positions within the organization.

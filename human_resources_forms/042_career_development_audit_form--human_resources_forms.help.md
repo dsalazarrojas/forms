@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Career Development Audit Form - Help Guide
 ## Purpose
 The Career Development Audit Form is a tool used to gather information about an employee's career development progress. It helps identify areas for growth and improvement, and provides a plan for future development. This form is intended for HR professionals and managers to assess an employee's current role, completed trainings, performance metrics, development needs, and recommended actions.

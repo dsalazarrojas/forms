@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals who are applying for an entry-level remote IT support specialist position. The form is used to gather personal details, job preferences, and qualifications. Before filling out this form, please ensure you are applying for this specific position and not a different one. It is also recommended that you only fill out this form once, as duplicate applications may not be considered.
-
-After filling out this form, you will be able to submit your application for review.
-</thinking>
-
 # entry_level_remote_it_support_specialist_application_form - Help Guide
 ## Purpose
 This form is used to collect information from individuals who are applying for an entry-level remote IT support specialist position.

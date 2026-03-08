@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from insiders who wish to request access to certain resources or information within an organization. This form will help the requester to provide necessary contact details and reasons for requesting access. The form will also allow the requester to specify their preferred timing for the access request. This form is not affiliated with, endorsed by, or derived from any form platform, but rather an AI-generated adaptation of a public survey topic metadata.
-The form is not designed to be a one-size-fits-all solution and may not be suitable for all users. Please ensure that you have read and understand the purpose and scope of this form before proceeding.
-This form is not intended to be used for commercial purposes or to collect sensitive information. Please be aware that some fields may be required or optional, and some options may be limited or restricted.
-</thinking>
-
 # insider_access_request_form - Help Guide
 ## Purpose
 The insider_access_request_form is a request form used to collect information from insiders who wish to access certain resources or information within an organization. The form helps the requester to provide necessary contact details and reasons for requesting access, and allows them to specify their preferred timing for the access request.

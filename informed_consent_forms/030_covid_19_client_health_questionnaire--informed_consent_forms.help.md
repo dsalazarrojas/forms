@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## COVID 19 Client Health Questionnaire - Help Guide
 
 ## Purpose

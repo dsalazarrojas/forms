@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about a director's personal and professional details. The purpose of this form is to gather data that can be used for internal reference and reporting. It is essential to ensure that the information provided is accurate and up-to-date. Please note that this form is not intended for public disclosure and should not be used for external sharing or publication.
-
-Before starting, review the form carefully to avoid duplication or omission of required fields. If you are unsure about any field, feel free to consult with the relevant department or team.
-</thinking>
-
 # Director Information Intake Form - Help Guide
 ## Purpose
 This form is used to collect personal and professional details of a director, including their name, contact information, and job title.

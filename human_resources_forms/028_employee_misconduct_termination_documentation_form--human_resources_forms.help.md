@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document the termination of an employee's employment, specifically in cases where the termination is due to employee misconduct. The form is designed to collect relevant details and information related to the termination process. Before proceeding, please ensure you have the necessary permissions and approvals to complete this form.
-</thinking>
-
 # Employee Misconduct Termination Documentation Form - Help Guide
 
 ## Purpose

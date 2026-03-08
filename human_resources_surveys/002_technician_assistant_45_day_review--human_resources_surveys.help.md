@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to be completed by technicians who are in their first 45 days of work as assistant technicians. The purpose of this form is to collect feedback and insights from new technicians on their initial experience in the role. The goal is to identify areas of improvement, provide support, and help new technicians succeed in their position.
-
-Before filling out this form, please ensure that you have not already completed a similar review form within the last 60 days. If you have, please do not fill out this form again.
-
-To complete this form, please follow the instructions below.
-
-</thinking>
-
 # Technician Assistant 45 Day Review - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and insights from new technicians on their experience in their first 45 days of work as assistant technicians. This information will be used to identify areas of improvement and provide support to help new technicians succeed in their position.

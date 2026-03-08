@@ -1,18 +1,3 @@
-<thinking>
-The purpose of this Collaborative Research Feedback Sharing Consent Form is to establish clear guidelines and expectations for participants in research projects. This form ensures that all parties involved are aware of the terms and conditions under which feedback will be shared and used. It is essential to complete this form carefully and thoroughly to avoid any potential misunderstandings or miscommunications that may arise during the research process.
-
-To determine whether this form is suitable for your specific research project, please consider the following:
-
-* Are you leading a research project that involves multiple parties, such as investigators, collaborators, or team members?
-* Do you want to establish clear expectations for feedback sharing and usage?
-* Are you aware of the potential implications of sharing feedback on your research project?
-
-If the answer to these questions is affirmative, then this form should be suitable for your project.
-
-Please note that this form is a one-time agreement, and you can withdraw your consent at any time. However, please be aware that withdrawing consent may impact the progress of your research project.
-
-</thinking>
-
 # Collaborative Research Feedback Sharing Consent Form - Help Guide
 ## Purpose
 This form ensures that all parties involved in a research project are aware of the terms and conditions under which feedback will be shared and used.

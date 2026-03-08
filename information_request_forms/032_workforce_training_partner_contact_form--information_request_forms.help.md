@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # workforce_training_partner_contact_form - Help Guide
 
 ## Purpose

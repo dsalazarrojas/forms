@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for obtaining informed consent from participants to film emotional resilience program activities. It is essential to ensure that participants understand what they are consenting to, and that their rights and privacy are respected throughout the filming process. Please ensure that you are using this form for its intended purpose and that you have necessary permissions and approvals in place before proceeding.
-
-</thinking>
-
 # emotional_resilience_program_filming_consent - Help Guide
 ## Purpose
 This form is used to obtain informed consent from participants to film activities related to an emotional resilience program. This includes activities such as filming at home, school, or in other locations, using various instruments such as cameras, microphones, or video recorders.

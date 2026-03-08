@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture inquiries and concerns from users regarding performance improvement opportunities within their department or team. This form is used internally to track and address these concerns in a structured way, ensuring that issues are properly documented and followed up on. 
-Before filling out this form, please ensure that you haven't already submitted a similar concern through this form, as duplicating concerns can lead to unnecessary work duplication and potential miscommunication. 
-</thinking>
 # Performance Improvement Inquiry Contact Form - Help Guide
 ## Purpose
 The Performance Improvement Inquiry Contact Form is used to capture and document performance improvement inquiries and concerns from users. This form will help us better understand the issues and opportunities for improvement within departments or teams.

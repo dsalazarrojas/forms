@@ -1,18 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from HR teams regarding their payroll tax processes, focusing on compliance and efficiency. The form will help HR teams evaluate their current processes and identify areas for improvement. It's essential to fill out this form accurately, as it will provide valuable insights to improve payroll tax compliance and overall process efficiency.
-
-Before starting, please check if you have completed this form before. If you have, it may not be necessary to fill it out again unless you have new or updated information.
-
-This form has multiple pages, and each page should be completed in order to get a comprehensive understanding of your current processes.
-
-Please take your time to fill out this form and answer all the questions to the best of your ability. If you are unsure about any question, please ask for clarification or assistance.
-
-Please make sure to answer the questions based on your current state of payroll tax processes, not hypothetical or ideal scenarios.
-
-Before proceeding, please ensure that you have the necessary permissions and access to answer some of the questions.
-
-</thinking>
-
 # Payroll Tax Process Survey - Help Guide
 ## Purpose
 

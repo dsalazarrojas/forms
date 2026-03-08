@@ -1,8 +1,3 @@
-<thinking>
-To avoid unnecessary duplication, please ensure that the "Customary Land Legal Recognition Survey" form is only completed once for each land ownership. If there are multiple surveys for the same land, please refer to the most recent one for updates.
-This form is designed to collect detailed information about the land legal recognition status, support needs, and other related facts. It is essential to provide accurate and honest responses to ensure the accuracy of the survey.
-</thinking>
-
 # Customary Land Legal Recognition Survey - Help Guide
 ## Purpose
 The Customary Land Legal Recognition Survey is a form used to collect and verify information about land ownership, rights, and legal recognition status.

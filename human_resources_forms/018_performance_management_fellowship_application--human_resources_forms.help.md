@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for candidates to apply for a performance management fellowship program. The form is not a comprehensive assessment tool or a formal evaluation report, but rather a way to gather information from candidates about their relevant skills, work experience, and goals. The information collected here will be used to assess the fit and suitability of each candidate for the fellowship program.
-Please ensure that the information provided is accurate and up-to-date. If you have any doubts or concerns about the form or the fellowship program, please contact form@gic.mx.
-</thinking>
-
 # Performance Management Fellowship Application - Help Guide
 ## Purpose
 The purpose of this form is to gather information from candidates for the Performance Management Fellowship program. This information will be used to assess the fit and suitability of each candidate for the program.

@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information related to an individual's identity change, which can include updates to their name, contact details, or other personal information. This form is typically used when an employee's identification documents are updated or modified. The form will guide users through a step-by-step process to gather necessary details for this type of update. To avoid duplication of efforts, ensure that you're not submitting this form if you've already submitted a similar update request previously.
-</thinking>
-
 # Identity Change Survey - Help Guide
 ## Purpose
 The Identity Change Survey form is used to collect information related to an individual's identity change, which can include updates to their name, contact details, or other personal information.

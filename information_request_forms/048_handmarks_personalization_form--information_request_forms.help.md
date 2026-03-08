@@ -1,7 +1,3 @@
-<thinking> This form is designed to capture information about a customer's personalization preferences and party details. The purpose of this form is to collect data that will be used to tailor a party experience to the customer's specific needs and interests. This form is intended for customers who are planning a party and want to ensure that their event meets their expectations. The information collected will be used to create a customized party experience.
-
-</thinking>
-
 # handmarks_personalization_form - Help Guide
 ## Purpose
 This form is designed to capture information about a customer's personalization preferences and party details. The purpose of this form is to collect data that will be used to tailor a party experience to the customer's specific needs and interests.

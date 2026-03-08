@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Childcare Provider Background Check - Help Guide
 ## Purpose
 This form is designed to collect information from childcare providers to conduct a thorough background check. The information collected will be used to verify the applicant's identity, employment history, and any potential criminal history. This form is a mandatory requirement for all childcare providers applying for a position at our institution.

@@ -1,11 +1,3 @@
-<thinking>
-This form is used to obtain informed consent from facility owners or managers to publish their energy data. The purpose of this form is to ensure that facilities have given their consent before publishing their energy consumption or production data. This form will help to avoid any potential issues or disputes related to data privacy.
-
-Before you start filling out this form, please note that each field is optional, but some fields may be required depending on the context.
-
-Also, some fields may require additional information that might not be available to you. If that's the case, please contact the facility owner or manager for clarification.
-</thinking>
-
 # Facility Energy Data Publishing Consent Form - Help Guide
 ## Purpose
 The Facility Energy Data Publishing Consent Form is used to obtain informed consent from facility owners or managers to publish their energy data.

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to capture contact information and sustainability-related inquiries from visitors to the Factory Sustainability Office. 
-The purpose of this form is to gather basic contact details of the visitor, such as name and email, as well as their organization and message regarding sustainability-related concerns or requests. 
-The form is intended to be completed by visitors who wish to get in touch with the Factory Sustainability Office for general inquiries, feedback, or to request support on sustainability-related matters. 
-This form is not intended for urgent or critical matters that require immediate attention, and it is assumed that the visitor will receive a response within a reasonable timeframe.
-
-Before completing this form, please ensure that you have not already contacted the Factory Sustainability Office through other means (e.g. phone, email, or in-person) and that your concern is not of a critical nature.
-
-Please note that the form is not intended for use by employees or other internal stakeholders of the factory.
-</thinking>
-
 # Factory Sustainability Office Contact Form - Help Guide
 ## Purpose
 The Factory Sustainability Office Contact Form is designed to gather contact information and sustainability-related inquiries from visitors to the Factory Sustainability Office.

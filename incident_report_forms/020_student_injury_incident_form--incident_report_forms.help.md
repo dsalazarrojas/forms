@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for recording and reporting injuries that have occurred involving students. The form's fields are meant to collect detailed information about the incident, including its location, type, date and time, description, and the individuals involved.
-</thinking>
-
 # Student Injury Incident Form - Help Guide
 ## Purpose
 The "Student Injury Incident Form" is used to record and report incidents involving students, with the goal of gathering essential information to address the incident promptly and effectively.

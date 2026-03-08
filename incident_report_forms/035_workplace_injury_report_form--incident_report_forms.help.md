@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information related to workplace injuries, providing a standardized and structured process for employees to report incidents that occurred during work hours. It is meant to be used by employees to provide a detailed account of the incident, including the date and time it occurred, a description of the incident, and relevant details about the injury and its aftermath. This form should only be filled out in cases where an injury has actually occurred, not for hypothetical or speculative purposes. 
-
-This form is a critical tool for employers to gather accurate and consistent information about workplace incidents, allowing them to track and analyze trends, identify potential risks, and develop targeted interventions to prevent similar incidents in the future.
-
-Please fill out this form carefully and thoroughly, ensuring all relevant information is provided.
-
-</thinking>
-
 # Workplace Injury Report Form - Help Guide
 ## Purpose
 The Workplace Injury Report Form is designed to capture detailed information about workplace injuries, ensuring that employees receive prompt attention and support.

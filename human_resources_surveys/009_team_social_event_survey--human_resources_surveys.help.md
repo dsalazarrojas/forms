@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about team social events, allowing users to provide details about events that have taken place, such as the event name, location, date, and time. The form also seeks to identify who attended the event and what type it was, as well as gather feedback and suggestions from attendees. The "Did you attend this event?" section is meant to help track attendance, and the "Contact info" and "Email" fields are for users to provide their contact information in case they have further questions or need clarification. This form should not be filled out by users who did not attend the event.
-</thinking>
-
 # Team Social Event Survey - Help Guide
 ## Purpose
 This form is used to gather information about team social events, including the event name, location, date, time, attendees, type, and feedback.

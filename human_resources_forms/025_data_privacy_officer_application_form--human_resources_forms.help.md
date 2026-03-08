@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals applying for a data privacy officer role, and will be reviewed by the HR department. 
-The form is designed to gather details about the applicant's experience, contact information, availability, job preferences, and other relevant details. 
-Before starting, ensure you have all necessary information and documents ready, such as your resume and references. 
-Make sure you are filling out this form correctly to ensure your application is reviewed and considered for the role.
-</thinking>
-
 # data_privacy_officer_application_form - Help Guide
 ## Purpose
 The data_privacy_officer_application_form is a form designed to collect information from individuals applying for a data privacy officer role. This form is reviewed by the HR department and is used to assess your qualifications and experience for the position.

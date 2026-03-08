@@ -1,11 +1,3 @@
-<thinking>... 
-
-The purpose of this form is to collect informed consent from clients before starting a fitness program. This form guides the client through the necessary information to provide consent for the program they are about to begin. It is essential to fill out this form accurately and honestly to ensure that both the client and the fitness professional are on the same page regarding the client's goals, program details, and any other relevant information. 
-
-Before proceeding with this form, please ensure that you have reviewed your answers carefully and that you understand the implications of providing this information. This form should not be completed if you are unsure about any aspect of the program or have any questions. Please contact the fitness professional responsible for your program for clarification before submitting this form. 
-
-... </thinking>
-
 # Fitness Informed Consent Form - Help Guide
 ## Purpose
 The Fitness Informed Consent Form is a crucial document that helps ensure you understand your responsibilities and expectations when participating in a fitness program. This form guides you through the necessary information to provide informed consent for the program you are about to begin.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # sales_update - Help Guide
 
 ## Purpose

@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # crowdstrike_incident_response_form - Help Guide
 ## Purpose
 The purpose of this form is to collect and document information about incidents that need to be addressed. This form will be used by incident response teams to quickly gather the essential details of an incident and categorize it for efficient response and resolution.

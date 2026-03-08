@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to gather information from patients for the treatment planning process. This form is a critical part of ensuring that patients are aware of and agree to their treatment plans. It's essential to fill out the form completely and accurately to ensure that the patient's medical information is up-to-date and correct. Please note that this form is a required document for every patient visit, and it's essential to fill it out carefully and thoroughly. If you're unsure about any field or have any questions, please don't hesitate to ask your healthcare provider for clarification. Before filling out this form, ensure you have the necessary medical history and information ready to complete it accurately.
-</thinking>
-
 # yoni_therapys_vaginal_steam_intake_form - Help Guide
 ## Purpose
 This form is used to collect patient information and consent for the treatment planning process. It's a crucial document that helps ensure the patient's medical history and treatment plans are accurately recorded and up-to-date.

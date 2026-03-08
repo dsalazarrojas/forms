@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Spouse Information Form - Help Guide
 
 ## Purpose

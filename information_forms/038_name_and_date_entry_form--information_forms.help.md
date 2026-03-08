@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # name_and_date_entry_form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals, including their first name, last name, submission date, and a brief reason for submission.

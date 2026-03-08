@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to request a professional reference from an employee's previous work experience. The purpose of this form is to help employees and HR departments gather information about an employee's previous work history, job responsibilities, and reasons for leaving. This form is typically used to support job applications, promotions, or other employment-related purposes.
-
-Before filling out the form, please ensure that you have all the necessary information and approvals from the relevant parties involved. This form should not be used to request references for non-employment-related purposes, such as character references or personal references.
-
-</thinking>
-
 # Professional Reference Request Form - Help Guide
 ## Purpose
 The Professional Reference Request Form is used to request a professional reference from an employee's previous work experience. This form helps you gather information about an employee's job responsibilities, reasons for leaving, and other relevant details.

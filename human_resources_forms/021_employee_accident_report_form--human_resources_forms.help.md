@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Accident Report Form - Help Guide
 
 ## Purpose

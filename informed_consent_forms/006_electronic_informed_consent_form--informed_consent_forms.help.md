@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to obtain electronic informed consent from users. Informed consent is a critical aspect of many business operations, especially when dealing with sensitive data or services that require explicit acceptance by the user.
 
 The purpose of this form is to collect necessary contact information and demographic details of the user, along with their consent to use specific services or access certain data. This form ensures that the user has understood the terms and conditions of the service and is willing to accept its implications.

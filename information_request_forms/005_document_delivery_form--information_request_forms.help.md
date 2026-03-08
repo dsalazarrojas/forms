@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Document Delivery Form - Help Guide
 ## Purpose
 The Document Delivery Form is a tool used to collect contact information and delivery details from users. It is meant to facilitate the delivery of documents, and by completing this form, users can provide their contact details and the address where they would like to receive their documents.

@@ -1,8 +1,3 @@
-<thinking>
-This form is for gathering essential information about a student's medical needs. The purpose of this form is to collect details that will help the student's medical team or school staff provide appropriate support in case of a medical emergency or other health-related needs. This form should not be used for non-essential or non-medical purposes.
-
-Before proceeding, please ensure this form is not being used for any other purpose other than what it's intended for.
-</thinking>
 # Student Medical Information Form - Help Guide
 ## Purpose
 This form is used to collect essential information about a student's medical needs. Please complete this form to provide accurate and up-to-date medical information that will help the student's support team assist with any health-related needs.

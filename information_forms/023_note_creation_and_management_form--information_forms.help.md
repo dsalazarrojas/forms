@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to create and manage notes for various purposes such as Meeting Records, Project Updates, and Follow-ups. It is intended for users to create new notes and associate them with specific categories, select relevant categories for the note, share the note with specific team members or managers, set reminders and follow-up dates, and update the note status accordingly.
-
-Before filling out this form, please ensure that the note you are creating is not a duplicate and you have selected the correct categories, share options, and reminders accordingly to avoid any confusion or miscommunication with your team members or manager.
-
-</thinking>
-
 # Note Creation And Management Form - Help Guide
 ## Purpose
 This form is used to create and manage notes for different purposes such as Meeting Records, Project Updates, and Follow-ups.

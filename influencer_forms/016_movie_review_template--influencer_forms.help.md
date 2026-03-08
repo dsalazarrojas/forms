@@ -1,10 +1,3 @@
-<thinking>
-This form is likely used to collect data from users about movies they've watched, including details about the title of the movie, the director, a rating, a review of the movie, the time they watched it, whether they would recommend it, whether they'd watch it again, the date they reviewed it, and additional notes or ratings from the user.
-The fields seem to be a mix of required and optional fields, which could potentially be used to collect varying levels of detail.
-The form is likely part of a larger system for managing movie reviews or user feedback.
-This form might not be suitable for users who are not familiar with rating systems or date formats.
-</thinking>
-
 # movie_review_template - Help Guide
 ## Purpose
 This form is designed to collect movie reviews from users, including details about the movie title, director, rating, and review body.

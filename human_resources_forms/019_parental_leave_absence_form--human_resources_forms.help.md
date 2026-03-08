@@ -1,7 +1,3 @@
-<thinking>
-This form is used to report a parental leave absence for employees. It is intended for employees to provide information about their absence, including their reason for leaving, start and end dates, and duration of their leave. The form should only be completed by the employee, and it is recommended that the employee's supervisor or HR representative review the information before submitting it to the appropriate authorities. The form should not be completed for any other purpose, such as for vacation or sick leave.
-</thinking>
-
 # Parental Leave Absence Form - Help Guide
 ## Purpose
 The Parental Leave Absence Form is a required form that needs to be completed by employees who wish to take parental leave. This form helps to document the employee's absence and ensures that their leave is properly recorded and processed.

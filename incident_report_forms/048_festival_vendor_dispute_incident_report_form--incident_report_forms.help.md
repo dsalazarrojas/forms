@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about disputes or incidents involving festival vendors. The form is intended for use by festival staff or management to document and follow up on incidents that occur with vendors. The purpose of this form is to gather details about the incident, including the date and time it occurred, the type of incident, and any evidence or witness statements related to it. The form also allows for follow-up actions to be tracked, such as whether follow-up contact has been made with the vendor or if the issue has been resolved. 
-
-This form should only be filled out in the following scenarios: 
-- You are a festival staff member or management, or authorized to act on their behalf. 
-- You have a legitimate reason to report a vendor dispute or incident.
-</thinking>
-
 # Festival Vendor Dispute Incident Report Form - Help Guide
 ## Purpose
 This form is designed to collect information about disputes or incidents involving festival vendors. It helps festival staff or management document and follow up on incidents, gathering details about the incident, evidence, and witness statements.

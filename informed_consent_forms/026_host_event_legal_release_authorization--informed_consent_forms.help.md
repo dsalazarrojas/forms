@@ -1,5 +1,3 @@
-<thinking>Internal note: This form is used to collect informed consent from participants in events or activities where they may be recorded, photographed, or otherwise captured for promotional or other purposes. To ensure that participants receive proper release authorization, this form must be completed carefully and accurately. Please note that participants must be asked if they have any questions or concerns about this form before submitting it. It's also essential to ensure that this form is not duplicated for the same event or activity, as it may lead to unnecessary processing and confusion. Please verify that participants are not already registered for the same event or activity before completing this form.</thinking>
-
 # Host Event Legal Release Authorization - Help Guide
 
 ## Purpose

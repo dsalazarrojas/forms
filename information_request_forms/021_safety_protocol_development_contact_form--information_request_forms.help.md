@@ -1,9 +1,3 @@
-<thinking>
-You're about to view an internal safety protocol development form. This form is for reporting incidents, near-misses, or other safety concerns that occur during work hours. The form is intended to capture relevant details about the incident or concern, including the staff member involved, contact method, location, and any safety procedures or improvements needed.
-
-This form is designed to be completed in a straightforward manner, and the required fields are marked with an asterisk (\*). Please review the form carefully to ensure that you're providing all necessary information for the safety team to investigate and address the issue.
-</thinking>
-
 # Safety Protocol Development Contact Form - Help Guide
 ## Purpose
 The purpose of this form is to report incidents, near-misses, or other safety concerns that occur during work hours.

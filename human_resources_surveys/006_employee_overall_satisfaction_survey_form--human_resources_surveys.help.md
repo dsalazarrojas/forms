@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Overall Satisfaction Survey Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from employees on their overall satisfaction with their job, work environment, and company culture. The survey aims to gather information on various aspects of employee experience, including overall happiness, job satisfaction, and company policies. This data will help management understand employee needs and make informed decisions to improve the work environment and employee satisfaction.

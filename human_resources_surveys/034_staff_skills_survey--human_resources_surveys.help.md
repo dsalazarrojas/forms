@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Staff Skills Survey - Help Guide
 ## Purpose
 The Staff Skills Survey is a form to gather information about your interests, skills, and experience to help us better understand your strengths and areas for development. This information will be used to identify potential opportunities for you to take on new challenges and grow in your role.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Full Time Employment Contract Form - Help Guide
 ## Purpose
 This form is designed to help employers and employees document the terms of a full-time employment contract. It ensures that all necessary information is collected for the contract, making it easier to manage and understand the employment agreement.

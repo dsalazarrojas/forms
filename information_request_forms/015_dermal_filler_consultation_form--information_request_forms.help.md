@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I must first consider the purpose and context of this form. The Dermal Filler Consultation Form appears to be a medical form designed for patients to provide information about their dermal filler treatments. The form likely aims to collect relevant medical history, allergies, and other necessary information from patients before undergoing dermal filler procedures. The fields seem to cover a wide range of topics, including medical history, allergies, and treatment-specific information. This form might be used by medical professionals or dermatologists to assess patient suitability for dermal filler treatments. Before creating the help guide, I'll review each field to ensure I understand its purpose and provide accurate explanations for the end-user.</thinking>
-
 # Dermal Filler Consultation Form - Help Guide
 ## Purpose
 

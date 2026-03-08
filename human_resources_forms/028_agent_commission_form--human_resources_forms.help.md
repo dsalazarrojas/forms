@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Agent Commission Form - Help Guide
 ## Purpose
 The Agent Commission Form is a document that calculates and records commission payments for agents. It's used to track and process commission payments for agents, ensuring accurate and timely payment. This form is a critical part of our sales management process, providing transparency and accountability for both agents and management.

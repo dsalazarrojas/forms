@@ -1,10 +1,3 @@
-<thinking>
-We are creating a help guide for a student information form that appears to be designed for educational purposes. The form is intended to collect various types of information about students, including their name, email, phone number, teacher's name, subject, birth date, birth time, notes, and additional information. The purpose of this form is to collect comprehensive data about students. However, we need to ensure that each field is filled out correctly and efficiently to avoid duplication and confusion.
-
-The form is divided into multiple pages, with a total of 16 pages of information. Each page contains a single field with a label, hint, and type. The "Student Name" field is not required, while "Student E" (email) is required. The rest of the fields are optional. The "Student Birth Date" and "Student Birth Time" fields are date and time fields, respectively. The "Student Notes" field is a note field, which can hold long text information. The remaining fields are all text fields, which can be used to collect additional information.
-
-</thinking>
-
 # Student Information Form Dark And Responsive - Help Guide
 ## Purpose
 This form is designed to collect comprehensive data about students for educational purposes.

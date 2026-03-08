@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to facilitate the process of employee reimbursements. The goal is to gather relevant information regarding employee requests for reimbursement. This information can then be used to track and process such requests, ensuring that they are handled in an efficient and transparent manner.
-
-Before proceeding, ensure this form is the correct one to be filled out based on your intended action. If you are unsure or have already completed the form, please do not fill it out again to avoid duplication of effort.
-
-This guide will walk you through the form fields and help you complete it accurately and efficiently.</thinking>
-
 # Employee Reimbursement Form - Help Guide
 ## Purpose
 The Employee Reimbursement Form is used to collect and track employee requests for reimbursement.

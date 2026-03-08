@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information related to an employee's driver's license, including their ID, license details, and employment information. It is intended to be used by HR or other personnel departments within an organization to gather data for internal purposes. Before filling out this form, please ensure that you have the necessary information and approval to complete it. If you are unsure about any field, please check with your supervisor or HR representative for clarification.
 
 # driving_record_request_form - Help Guide

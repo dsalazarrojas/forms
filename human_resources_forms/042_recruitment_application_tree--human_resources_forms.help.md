@@ -1,7 +1,3 @@
-<thinking>
-The form "Recruitment Application Tree" is designed to collect information from individuals applying for a position within the company. This form serves as a comprehensive guide for applicants to provide their personal, educational, and professional details. The form is structured to gather essential information in a clear and organized manner, making it easier for the applicant and hiring team to navigate through the application process. It is essential to fill out the form accurately and completely to ensure a smooth and effective evaluation of your application.
-</thinking>
-
 # Recruitment Application Tree - Help Guide
 ## Purpose
 The Recruitment Application Tree form is a tool designed to gather information from applicants for a position within the company. It is a comprehensive and organized way to collect personal, educational, and professional details necessary for evaluating applications.

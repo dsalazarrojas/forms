@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Reference Check Form - Help Guide
 ## Purpose
 This form is used to collect information about a current or former employee's work performance, qualifications, and job history from their supervisor or HR contact. The purpose of this form is to help verify an employee's employment history and ensure that they are a good fit for a new role. This form should be completed by a supervisor or HR representative who has a professional relationship with the employee in question.

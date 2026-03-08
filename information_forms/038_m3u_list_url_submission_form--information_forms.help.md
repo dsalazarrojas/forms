@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users regarding M3U lists, which are likely related to media or content sharing. The purpose of this form is to gather relevant details about M3U lists, such as URLs, and any associated usage details. This form likely serves as a means to validate or verify the submission of these M3U lists, ensuring they are legitimate and meet certain standards or requirements. Before proceeding, it's essential to check if the submission already exists within the system to avoid duplication. Please ensure you only submit new or updated M3U list information.
-</thinking>
-
 # M3U List URL Submission Form - Help Guide
 ## Purpose
 The M3U List URL Submission Form is designed to collect information from users regarding M3U lists, which are likely related to media or content sharing. This form helps validate or verify the submission of these M3U lists, ensuring they are legitimate and meet certain standards or requirements.

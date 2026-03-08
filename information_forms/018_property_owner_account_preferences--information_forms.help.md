@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from property owners regarding their account preferences. 
-It is intended for property owners to provide their contact details and preferred communication methods. 
-The purpose of this form is to ensure that property owners can be contacted efficiently and effectively, and to tailor communication to their individual preferences. 
-Please note that this form is a duplicate of the "Property Owner Account Preferences" form. 
-Please ensure you are not completing this form if you have already done so. 
-</thinking>
-
 # property_owner_account_preferences - Help Guide
 ## Purpose
 The property_owner_account_preferences form is used to collect contact information and communication preferences from property owners.

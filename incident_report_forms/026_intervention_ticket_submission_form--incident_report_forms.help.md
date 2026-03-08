@@ -1,9 +1,3 @@
-<thinking>Before creating the help guide, I'll analyze the form and provide a brief explanation of the form's purpose and relevance.
-
-This form is designed to collect information related to incidents or issues that require attention. It appears to be a general-purpose form for reporting incidents, and its purpose is to gather details about the incident, including the user's details, incident specifics, and additional information such as location, category, and status.
-
-Before proceeding, please ensure that you have not already reported this incident or issue. If you have previously submitted a report on this incident, your submission will not be accepted as a duplicate. Please review the form carefully and complete each field accurately to ensure that your report is properly recorded and addressed.</thinking>
-
 # Intervention Ticket Submission Form - Help Guide
 ## Purpose
 The Intervention Ticket Submission Form is designed to collect information related to incidents or issues that require attention. This form helps gather details about the incident, including user information, incident specifics, and additional details such as location, category, and status.

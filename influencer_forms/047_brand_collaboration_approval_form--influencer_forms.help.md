@@ -1,8 +1,3 @@
-<thinking> 
-This form is used to request and track brand collaborations with social media influencers. It ensures that all necessary information is collected and approved before proceeding with a collaboration. This form helps to avoid duplication of work by providing a centralized platform for both brands and influencers to share information about their collaborations. 
-
-</thinking>
-
 # Brand Collaboration Approval Form - Help Guide
 ## Purpose
 This form is used to request and track brand collaborations with social media influencers. It helps in ensuring that all necessary information is collected and approved before proceeding with a collaboration.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about individual team members' preferences and feedback on team building activities, leadership, and communication. The purpose of this form is to help the team lead and HR department understand team dynamics and improve team collaboration and communication.
-</thinking>
-
 # Team Building Preference Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather information from team members about their preferences and feedback on team activities, leadership, and communication. This information will be used to understand team dynamics and make informed decisions to improve team collaboration and communication.

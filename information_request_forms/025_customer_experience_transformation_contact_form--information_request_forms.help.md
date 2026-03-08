@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information from customers about their experience transformation needs. This form will be used to identify potential opportunities for improvement, provide feedback, or request assistance. Please ensure you are completing this form only once and only for the purpose of providing accurate and relevant information about your experience transformation needs.
-</thinking>
-
 # customer_experience_transformation_contact_form - Help Guide
 
 ## Purpose

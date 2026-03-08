@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect job application information from candidates. The purpose of this form is to gather the candidate's contact information, job preferences, and other details necessary for the hiring process. It is designed for internal use by the HR department. Please note that this form should only be used for new job applicants and not for internal job postings or other purposes.
-</thinking>
-
 # Job Application Form - Help Guide
 ## Purpose
 The Job Application Form is used to collect information from candidates applying for jobs. It is a required form for all new job applicants and should not be used for internal job postings or other purposes.

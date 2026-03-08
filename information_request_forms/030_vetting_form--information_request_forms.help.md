@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vetting Form - Help Guide
 ## Purpose
 The Vetting Form is a tool used to collect information from individuals for vetting purposes. It is intended to be completed by the individual being vetted, providing the necessary details to facilitate the vetting process. This form will help ensure that you have all the required information in one place and help you make an informed decision.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used by employees to request updates or revisions to the employee handbook. Before filling out this form, please ensure that you have reviewed the current handbook and are familiar with the process for making suggestions. Also, please note that if you have previously submitted a revision request, it will be removed before you can resubmit. If you are unsure about the process or have any questions, please reach out to HR for clarification.
-</thinking>
-
 # Employee Handbooks Revision Request Form - Help Guide
 
 ## Purpose

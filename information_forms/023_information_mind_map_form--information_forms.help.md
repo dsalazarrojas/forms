@@ -1,7 +1,3 @@
-<thinking>
-To create an informative user-facing help guide, I need to understand the form purpose and its various fields. From the provided YAML fields, the form is called "Information Mind Map Form" and it appears to be a simple data collection form designed to gather various pieces of information from users. Each field can be filled in either text or select options, but none of the fields are required, which might be a good thing for reducing friction and increasing form submission rates. I'll create a help guide that is concise, concrete, and practical.
-</thinking>
-
 # Information Mind Map Form - Help Guide
 ## Purpose
 The Information Mind Map Form is a tool to collect relevant information for project management and organization. It's designed to be user-friendly and easy to fill out.

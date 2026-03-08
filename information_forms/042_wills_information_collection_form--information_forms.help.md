@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to collect information about wills, which are legal documents that outline the distribution of a person's assets after death. This form is likely used in the context of estate planning, probate, or estate administration. To ensure that the form is filled out correctly, it's essential to understand its purpose and the fields it contains.
-</thinking>
-
 # Wills Information Collection Form - Help Guide
 ## Purpose
 The Wills Information Collection Form is used to collect information about wills, which are essential documents for distributing assets after death. This form helps gather crucial details that facilitate the estate planning process, probate, or estate administration.

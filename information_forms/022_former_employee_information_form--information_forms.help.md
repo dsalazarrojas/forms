@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Former Employee Information Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We're creating a user-facing help guide for a form used to manage sales scorecards. A sales scorecard is a tool that helps businesses track and measure progress towards their goals. This form is called the "Sales Scorecard Template". The purpose of this form is to capture information about the sales scorecard's category, description, and other relevant details.
 
 Before filling out this form, ensure that you're not duplicating existing data and that the scorecard is relevant to the category being tracked.

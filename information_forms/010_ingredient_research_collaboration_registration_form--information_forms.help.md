@@ -1,7 +1,3 @@
-<thinking>
-This guide is designed to help end-users understand the purpose and requirements of the "Ingredient Research Collaboration Registration Form". The form is intended for partners who are collaborating on ingredient research projects. Before proceeding, please ensure that you are filling out this form for a valid partnership collaboration. If you are unsure, it's best to contact your partner directly to verify. To avoid duplication, please do not fill out this form if you have already registered a similar collaboration.
-</thinking>
-
 # Ingredient Research Collaboration Registration Form - Help Guide
 ## Purpose
 

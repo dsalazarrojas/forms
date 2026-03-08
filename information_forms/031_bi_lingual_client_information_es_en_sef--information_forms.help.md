@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from clients or potential clients who are interested in services offered by our company. The form is used to gather demographic information, language preference, contact details, and service interest to better understand the client's needs and provide personalized support.
-
-When filling out this form, please ensure that all required fields are completed to ensure a proper submission. If a field is required, it is marked as such, and skipping it may cause issues with form submission or data analysis.
-
-Please note that some questions might be redundant or have similar answers, but it is essential to fill them out as it helps us improve our services and tailor our support to your needs.
-</thinking>
-
 # Bi Lingual Client Information Es En Sef - Help Guide
 ## Purpose
 This form is designed to collect information from clients or potential clients to better understand their needs and preferences.

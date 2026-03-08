@@ -1,7 +1,3 @@
-<thinking>
-This guide assumes the form is for requesting time off for Behavioral Adjustments, which may include mental health, stress, wellness, or personal reasons. The form is meant for employees to submit requests for time off, providing necessary information for their manager and HR department to review and approve or deny the request. Before proceeding, ensure you have not submitted a similar request recently and that this is not a duplicate request.
-</thinking>
-
 # Behavioral Adjustment Time Off Form - Help Guide
 ## Purpose
 This form is for requesting time off for Behavioral Adjustments, which may include mental health, stress, wellness, or personal reasons. It is meant to help employees provide necessary information for their manager and HR department to review and approve or deny the request.

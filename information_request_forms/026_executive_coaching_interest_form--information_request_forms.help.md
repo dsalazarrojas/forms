@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for executives interested in executive coaching, a service that aims to improve their professional performance and personal well-being. The goal of this form is to gather information about an executive's coaching interests, location, and availability. 
-
-Before filling out the form, please check that you haven't already filled out a similar form for the same purpose. This will ensure that your interest and availability are recorded correctly and avoid duplication of effort.
-
-</thinking>
-
 # executive_coaching_interest_form - Help Guide
 ## Purpose
 The executive coaching interest form is a tool for executives to express their interest in executive coaching services. It helps our team understand your areas of improvement and availability for coaching sessions. Please take a few minutes to fill out this form accurately to ensure you receive relevant support.

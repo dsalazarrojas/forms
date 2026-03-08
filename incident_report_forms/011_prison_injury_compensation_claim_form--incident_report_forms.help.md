@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Prison Injury Compensation Claim Form - Help Guide
 ## Purpose
 The Prison Injury Compensation Claim Form is designed to collect information regarding incidents that have occurred within a prison setting, focusing on the compensation that can be claimed for these incidents. To ensure accuracy and efficiency, please review this guide to complete the form correctly.

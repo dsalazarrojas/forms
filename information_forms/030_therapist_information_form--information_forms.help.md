@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a client and their therapist in a therapy setting. This form is likely used to create a database or documentation for tracking and reference purposes. To use this form, the user should ensure that the information they provide is accurate and up-to-date. This form should not be used for multiple clients or therapists with the same name, as this could lead to confusion and data duplication.
-</thinking>
-
 # Therapist Information Form - Help Guide
 ## Purpose
 The Therapist Information Form is designed to collect data about clients and their therapists. This form is meant to be used for tracking and reference purposes, ensuring that accurate and up-to-date information is available for each client and therapist.

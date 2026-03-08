@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Ice Skating Waiver Form is to collect necessary information and consent from individuals participating in ice skating activities. This form ensures that participants are aware of the risks involved with ice skating and provide their contact information and emergency contact details. It also includes a waiver that releases the skating venue or program from liability in case of an accident.
-</thinking>
-
 # Ice Skating Waiver Form - Help Guide
 
 ## Purpose

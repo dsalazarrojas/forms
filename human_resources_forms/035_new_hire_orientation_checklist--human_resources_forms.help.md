@@ -1,10 +1,3 @@
-<thinking>
-To create an effective and user-friendly help guide for the "New Hire Orientation Checklist" form, we need to consider the purpose of the form, how to complete it, and explain each field in a clear and concise manner. This form seems to be used for gathering information about new employees onboarding process, which is essential for ensuring a smooth transition and setting them up for success in their new role.
-
-The form collects various details about the new hire, including job title, department, job start date, work schedule, supervisor's name and email, job description, benefits eligibility, and job status. Each field is designed to provide essential information for the HR department and the new employee's supervisor to get started with the onboarding process.
-
-</thinking>
-
 # New Hire Orientation Checklist - Help Guide
 ## Purpose
 The New Hire Orientation Checklist is a form designed to collect information about new employees to facilitate a smooth onboarding process. This form is meant to gather details about the new hire's job, schedule, and benefits eligibility, among other things.

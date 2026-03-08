@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to obtain authorization from a manager for an employee's maternity leave. This form is used to document the employee's leave start and end dates, as well as obtain approval from their manager. This form is likely to be used by HR departments to process and approve maternity leave requests in a standardized and efficient manner.
-The form should only be used for legitimate maternity leave requests, and not for other types of leaves.
-Please ensure that the form is filled out correctly to avoid delays in processing the leave request.
-</thinking>
-
 # Maternity Leave Authorization Form - Help Guide
 ## Purpose
 The Maternity Leave Authorization Form is used to request and authorize time off for an employee's maternity leave.

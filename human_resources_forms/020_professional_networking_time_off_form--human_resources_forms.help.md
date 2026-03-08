@@ -1,12 +1,3 @@
-<thinking>
-This help guide will cover the "Professional Networking Time Off Form" form, which is a crucial tool for human resources departments to track and approve employee requests for professional networking time off. The form is designed to be completed by employees to request time off for events related to professional networking, such as conferences, workshops, or networking meetings. The form will help ensure that employees' time off requests are properly recorded and approved by their managers and HR department. 
-
-The form is intended to capture essential details about the employee's request, including their name, event details, business relevance, and manager and HR approval status. This guide will walk you through each section of the form, explaining what each field means and how to complete it accurately.
-
-Before starting the form, please ensure that you have all the necessary information and approvals in place to complete it correctly. If you're unsure about any section, feel free to ask your HR representative for guidance.
-
-</thinking>
-
 # Professional Networking Time Off Form - Help Guide
 ## Purpose
 The "Professional Networking Time Off Form" is a mandatory form for employees to request time off for professional networking events. It helps track and approve employee requests, ensuring that all relevant details are recorded and verified.

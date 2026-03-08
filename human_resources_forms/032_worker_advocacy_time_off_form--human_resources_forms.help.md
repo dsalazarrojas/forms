@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Worker Advocacy Time Off Form - Help Guide**
 ## Purpose
 The Worker Advocacy Time Off Form is a tool used by employees to request time off from work. This form is designed to gather information about the reason for the time off, job title, supervisor name, department, and other relevant details to help manage and process time off requests.

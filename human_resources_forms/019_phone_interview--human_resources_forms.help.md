@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Phone Interview - Help Guide
 ## Purpose
 The Phone Interview form is a tool used by HR (Human Resources) to collect information about a candidate's contact details for phone interviews or other purposes.

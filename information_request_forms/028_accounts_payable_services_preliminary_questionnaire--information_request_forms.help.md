@@ -1,12 +1,3 @@
-<thinking>
-This form is intended for businesses or organizations to provide preliminary information about their accounts payable (AP) services needs. The goal is to gather details about the client's current AP process, their software compatibility needs, and the services they are interested in. This form will help the AP team understand the client's requirements and provide a clear proposal for the services they need.
-The form will help the AP team to:
-* Determine the level of complexity in the client's current AP process
-* Identify potential integration needs with various software systems
-* Assess the client's interest in different AP services (e.g., invoice scanning, data entry, approval management, payment execution, vendor onboarding)
-The form will not ask for sensitive or confidential information and will be used solely for the purpose of assessing the client's AP needs.
-</thinking>
-
 # Accounts Payable Services Preliminary Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather preliminary information from clients about their accounts payable (AP) services needs, to help the AP team provide a clear proposal for the services they require.

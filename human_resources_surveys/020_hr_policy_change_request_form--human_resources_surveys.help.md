@@ -1,16 +1,3 @@
-<thinking>
-To ensure the HR Policy Change Request Form is completed accurately and relevantly, please consider the following:
-
-* Only request changes to HR policies that are relevant to your role and responsibilities within the organization.
-* If you're unsure about the policy change, do not submit a request. Instead, seek clarification from your HR department or manager.
-* Duplicate requests may be deleted or merged. Please ensure that you're not duplicating a previously submitted request.
-
-This form is intended to collect information about proposed changes to HR policies. It's essential to provide thorough and accurate information to ensure that your request is processed efficiently.
-
-Please note that this form is not meant to be a substitute for regular communication with your manager or HR department. If you have a question or concern about a specific policy, it's always best to discuss it directly with your manager or HR representative.
-
-</thinking>
-
 # HR Policy Change Request Form - Help Guide
 ## Purpose
 The HR Policy Change Request Form is a tool for employees and managers to submit and track requests for changes to HR policies. This form helps the HR department to gather information about proposed changes, ensuring that they are processed efficiently and effectively.

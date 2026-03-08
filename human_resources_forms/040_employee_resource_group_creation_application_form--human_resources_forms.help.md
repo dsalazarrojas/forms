@@ -1,11 +1,3 @@
-<thinking>
-This form is used to create a new Employee Resource Group (ERG). The ERG is a way to group employees into categories based on their reporting level and other factors. This form helps to streamline the process of identifying and grouping employees into the correct ERGs for benefits, training, and other purposes.
-
-The form should only be completed if the user has a legitimate reason to create a new ERG. If a duplicate ERG with the same title already exists, the form will not allow submission to prevent data duplication.
-
-The purpose of this form is to gather necessary information about the new ERG, which will be used to create a new entry in the ERG database.
-</thinking>
-
 # Employee Resource Group Creation Application Form - Help Guide
 ## Purpose
 This form is used to create a new Employee Resource Group (ERG) for employees.

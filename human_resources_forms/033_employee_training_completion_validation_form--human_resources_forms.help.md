@@ -1,11 +1,3 @@
-<thinking>
-
-The "employee-training-completion-validation-form" is a form used to collect information on an employee's training completion status. It is essential to ensure that employees have indeed completed the required training programs and to validate the certification status of their completion. This form helps in maintaining accurate records and ensures that employees are up-to-date with their training certifications.
-
-Before proceeding, please ensure that you are authorized to access and complete this form. If you have already completed this form, please do not attempt to fill it out again as it may cause duplication of records.
-
-</thinking>
-
 # employee-training-completion-validation-form - Help Guide
 ## Purpose
 The "employee-training-completion-validation-form" is a form used to collect information on an employee's training completion status.

@@ -1,12 +1,3 @@
-<thinking>
-We have a large number of employees who have been authorized to work. However, their work authorizations are not automatically renewable. To ensure that these employees have up-to-date work authorizations, we need a system to renew them periodically. This form is a crucial tool for our HR department to track and manage the status of employee work authorizations. It will help us maintain accurate records and prevent any issues arising from expired or invalid authorizations.
-
-Before filling out this form, please make sure that:
-- You are an authorized representative of the employee or their manager.
-- The employee's work authorization status is currently Inactive.
-
-</thinking>
-
 # Work Authorization Renewal Form - Help Guide
 ## Purpose
 The purpose of this form is to renew and update the work authorization status of employees who have been granted work authorization in the past. This form helps HR track and manage the status of employee work authorizations, ensuring that they are up-to-date and valid.

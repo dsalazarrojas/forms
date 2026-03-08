@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about employee complaints or grievances within the organization. The goal is to ensure that all complaints are documented and handled in a fair and efficient manner. Please note that the form should only be used for new complaints, and not for resubmitting or updating existing ones. Before submitting, please ensure that you have not already filed a complaint about the same issue.
-</thinking>
-
 # hr_complaint_form - Help Guide
 ## Purpose
 The HR Complaint Form is a tool to document and address employee complaints or grievances within the organization. It ensures that all complaints are handled fairly and efficiently.

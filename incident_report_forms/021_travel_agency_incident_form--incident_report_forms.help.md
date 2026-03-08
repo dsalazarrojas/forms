@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about incidents reported by travel agencies. The purpose of this form is to gather details about the incidents, including the date and time they occurred, the type of trip involved, and the location and status of the incident. This information will be used to help resolve the incident and prevent similar incidents in the future.
-
-</thinking>
-
 # travel-agency-incident-form - Help Guide
 
 ## Purpose

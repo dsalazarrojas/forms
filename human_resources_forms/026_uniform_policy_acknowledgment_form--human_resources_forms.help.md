@@ -1,7 +1,3 @@
-<thinking>
-This form is for acknowledging uniform policy compliance by employees. It is likely used to track and record employee acknowledgement of company policies related to uniforms. To ensure accuracy, please review and verify that this form is not a duplicate submission. If you are unsure, contact the relevant authorities for clarification.
-</thinking>
-
 # Uniform Policy Acknowledgment Form - Help Guide
 ## Purpose
 This form is used to acknowledge uniform policy compliance by employees. It helps track and record employee acknowledgement of company policies related to uniforms.

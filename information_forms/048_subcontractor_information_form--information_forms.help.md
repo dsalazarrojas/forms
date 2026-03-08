@@ -1,11 +1,3 @@
-<thinking> 
-This form is intended to gather information about a subcontractor, likely for internal record-keeping or administrative purposes. The form's purpose is to collect relevant details about the subcontractor, ensuring that the data collected is accurate and up-to-date. Before proceeding with this form, it is essential to check that all required fields are filled correctly to avoid potential issues downstream. This form does not contain any fields that are marked as required, so end users may fill the form with whatever information is relevant and applicable to the subcontractor being registered.
-
-If this is a new subcontractor, ensure that all applicable categories are checked to avoid duplication of effort. Similarly, if an existing subcontractor is being updated, verify that there are no discrepancies between the new and old information.
-
-It is also recommended to double-check the assigned tool field, as this may impact the subcontractor's work assignments and access to resources.
-
-</thinking>
 # Subcontractor Information Form - Help Guide
 
 ## Purpose

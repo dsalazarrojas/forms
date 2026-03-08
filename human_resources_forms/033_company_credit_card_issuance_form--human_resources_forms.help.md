@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to request a company credit card for an employee. The form is intended to be completed by employees who require a corporate credit card for business use. The form will be reviewed and approved by the employee's manager and finance department before the card is issued. The form will check for duplication of requests. If a user has already submitted a credit card request, they will be asked to confirm that they still need the card before submitting another request. The form requires fields such as full name, employee ID, email, phone number, department, job title, manager's name and email, hire date, employment status, type of card request, expected monthly spend, requested credit limit, primary use of card, expense categories, previous card history, previous card issues, card delivery method, home address, name on card, agreement with card policy, agreement with personal use, agreement to timely report expenses, agreement to keep card secure, agreement to report loss, agreement to consequences of misuse, manager approval status, finance approval status, card issued date, card last four digits, employee signature, request date.
-</thinking>
-
 # Company Credit Card Issuance Form - Help Guide
 ## Purpose
 This form is used to request a company credit card for business use. 

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to measure employee retention and satisfaction in the workplace. It is meant to be completed by employees to provide insights into their experience and perceptions of their company, department, and job. The form should not be used for any other purpose other than this specific goal.
-This form is not meant to be used for any other purpose and should not be used for any other form or data collection purpose. If you need to collect data for other purposes, please use another form.
-The form is divided into several sections that cover different aspects of employee experience and satisfaction. The form asks for information about the employee's location, department, job title, job satisfaction, workplace environment, manager relationship, job security, and benefits provided.
-This form is intended to be completed by employees who are currently or have been employed by the company in the past.
-</thinking>
-
 # Employee Retention Assessment Form - Help Guide
 ## Purpose
 The employee retention assessment form is a tool for measuring employee satisfaction and perception of their work experience. It is designed to provide insights into the company's performance and employee retention.

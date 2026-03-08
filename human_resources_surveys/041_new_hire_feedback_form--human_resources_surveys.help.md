@@ -1,9 +1,3 @@
-<thinking>
-The New Hire Feedback Form is used to collect feedback on new hires from managers or team leads who have been working with them. This form is intended to help the HR department identify areas of improvement and provide guidance on how to support new hires in their roles. Please note that this form should only be filled out for new hires who have completed their onboarding process and have been working for more than 2 weeks. It is also recommended that this form be filled out only once, and not repeatedly for the same new hire.
-
-Before filling out this form, please ensure that you have not filled it out for the same new hire in the past. If you need to provide feedback for a new hire who you have already evaluated, you should use the "Re-evaluation" form instead.
-</thinking>
-
 # New Hire Feedback Form - Help Guide
 ## Purpose
 The New Hire Feedback Form is a tool for managers and team leads to provide feedback on new hires who have completed their onboarding process and have been working for more than 2 weeks. This form helps the HR department identify areas of improvement and provide guidance on how to support new hires in their roles.

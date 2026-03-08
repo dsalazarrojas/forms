@@ -1,11 +1,3 @@
-<thinking>
-
-This form is part of the HR (Human Resources) module and is used to collect project application information from employees. The form is designed to gather details about ongoing and completed projects, including project status, timeline, and team members. This information is essential for maintaining accurate project records and ensuring smooth project management. Please note that this form is intended for internal use only and is not meant for external project applications.
-
-To complete this form, please follow the steps below.
-
-</thinking>
-
 # hr_digital_integration_project_application_form - Help Guide
 ## Purpose
 The HR Digital Integration Project Application Form is used to collect information about ongoing and completed projects from employees.

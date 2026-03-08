@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Wellness Program Waiver Form - Help Guide
 ## Purpose
 This form is used to obtain a waiver from employees participating in the Employee Wellness Program. The waiver is required to be filled out by the employee to acknowledge that they have read, understand, and agree to the program terms and conditions.

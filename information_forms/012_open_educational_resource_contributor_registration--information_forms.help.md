@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # open_educational_resource_contributor_registration - Help Guide
 ## Purpose
 The purpose of this form is for individuals to register their interest in contributing to our Open Educational Resources (OER) project. By filling out this form, you will be able to provide your contact information and expertise to help us connect with potential contributors.

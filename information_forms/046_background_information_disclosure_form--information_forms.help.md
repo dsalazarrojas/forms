@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about an individual's background, including their full name, date of birth, social security number, and other sensitive information as required by state law. The form also collects information about any potential criminal or regulatory history, including convictions, pending charges, and regulatory findings. This information is used to evaluate the individual's trustworthiness and suitability for positions that require it. 
-
-Before proceeding, check that this form is relevant to your specific situation. If you have already completed a similar form in the past 5 years, this form may not be necessary as the information may still be on file. Please contact your local authorities for more information.
-
-</thinking>
-
 # Background Information Disclosure Form - Help Guide
 
 ## Purpose

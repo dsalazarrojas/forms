@@ -1,7 +1,3 @@
-<thinking>
-To create a comprehensive help guide for this form, I need to understand the purpose of the form and the fields it contains. This form appears to be used for collecting information about new employees, specifically their personal and professional details. The fields included are for first name, last name, email, company, job title, employee number, department, job grade, date of birth, date of hire, phone, and notes. Each field has a specific type and label, which will be reflected in the guide below.
-</thinking>
-
 # New Employee Email Creation Form - Help Guide
 ## Purpose
 This form is used to collect information about new employees, including their personal and professional details. It helps in maintaining up-to-date records and facilitates communication with the HR team.

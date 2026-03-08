@@ -1,9 +1,3 @@
-<thinking>
-
-To confirm, this form is called "gas_selection_contact_form" and its purpose is to collect information from users who are seeking gas related services or supplies. The form may be used for various reasons such as scheduling a gas delivery or asking for recommendations on gas suppliers. To prevent duplicate submissions, the form should only be filled out once.
-
-</thinking>
-
 # gas_selection_contact_form - Help Guide
 ## Purpose
 This form is used to collect information from users who are seeking gas related services or supplies. Please fill out the form completely and accurately to ensure that we can assist you best.

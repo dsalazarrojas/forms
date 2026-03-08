@@ -1,12 +1,3 @@
-<thinking>
-We will create a comprehensive user-facing help guide for the "retail_marketing_strategist_interview_form" form. This guide will cover the purpose of the form, step-by-step instructions on how to complete it, and a field-by-field explanation of each field. The guide will be concise, practical, and easy to understand.
-
-The form is designed to gather information from retail marketing strategists to help them assess their skills and experiences in a structured and efficient way. It's a critical part of the hiring and talent management process in retail marketing teams.
-
-Before creating the guide, we will review the form's YAML configuration to ensure we cover all the necessary fields and provide accurate information to the users.
-
-</thinking>
-
 # retail_marketing_strategist_interview_form - Help Guide
 ## Purpose
 The retail_marketing_strategist_interview_form is designed to help assess the skills and experiences of retail marketing strategists. It's a crucial tool for hiring and talent management processes in retail marketing teams.

@@ -1,15 +1,3 @@
-<thinking>
-The purpose of the Dermal Filler Client Intake Form is to gather information from clients about their medical history, dermal filler treatment, and other relevant details. This form likely aims to assess the client's suitability for dermal filler treatments, understand their medical history, and ensure they are aware of the procedures involved. The form might be used in a medical setting, such as a dermatology clinic or a cosmetic surgery practice. 
-
-To confirm, the form's fields are likely used to:
-- Collect client demographics and contact information
-- Inquire about medical history and allergies
-- Record treatment details and preferences
-- Confirm client understanding and agreement to procedures
-- Store client notes and contact information
-
-This guide will walk you through the form's fields, helping you understand what each section is intended to capture.</thinking>
-
 # Dermal Filler Client Intake Form - Help Guide
 ## Purpose
 The Dermal Filler Client Intake Form is designed to gather essential information from clients about their dermal filler treatment. 

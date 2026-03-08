@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, I'll make sure to cover the form's purpose and relevance. The HR Policy Training Time Off Form is used to record and track time off requests made by employees. This form helps HR managers and administrators to manage and approve time off requests in a structured and efficient manner. Its primary purpose is to ensure that employees can provide accurate and timely information about their time off requests, while also ensuring that managers can review and approve or decline these requests in a standardized process.</thinking>
-
 # HR Policy Training Time Off Form - Help Guide
 ## Purpose
 The HR Policy Training Time Off Form is used to record and track time off requests made by employees. This form helps HR managers and administrators to manage and approve time off requests in a structured and efficient manner.

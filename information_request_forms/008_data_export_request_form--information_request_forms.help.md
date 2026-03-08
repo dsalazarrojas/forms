@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users to facilitate data export requests. It is intended for internal use only and not for public submission. Please ensure that you have a valid reason for requesting data export and that the request is not a duplicate. If you're unsure, please contact the relevant department for assistance.
-</thinking>
-
 # Data Export Request Form - Help Guide
 
 ## Purpose

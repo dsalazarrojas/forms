@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The **telehealth_informed_consent_form** is an essential document that ensures patients and healthcare providers have a clear understanding of the telehealth services they are receiving. This form is designed to be completed by the patient and the healthcare provider to document the informed consent for telehealth services. The purpose of this form is to establish a clear and transparent process for delivering care via telehealth.
 
 </thinking>

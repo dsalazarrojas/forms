@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect contact information and any additional message from a user who wants to integrate their digital platform with our system. The purpose of this form is to facilitate a smooth integration process by providing a clear and efficient way for users to share their details and requirements.
-</thinking>
-
 # Digital Platform Integration Contact Form - Help Guide
 ## Purpose
 The Digital Platform Integration Contact Form is a tool for users to submit their contact information and any additional message for a smooth integration process with our system.

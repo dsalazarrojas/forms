@@ -1,8 +1,3 @@
-<thinking>
-This form is used for obtaining professional disclosure statements and informed consent from patients before medical treatments or procedures. It's an essential document that protects both the patient's and the healthcare provider's rights and responsibilities. This form should only be filled out once for each patient and treatment.
-The form should not be used for any other purpose or context.
-</thinking>
-
 # Professional Disclosure Statement And Informed Consent - Help Guide
 ## Purpose
 This form is used to gather information from patients about themselves and their medical history, as well as to obtain their informed consent before undergoing medical treatments or procedures.

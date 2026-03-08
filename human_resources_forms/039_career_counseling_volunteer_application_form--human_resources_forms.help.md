@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from volunteers interested in participating in career counseling activities. The primary purpose of this form is to gather essential data from potential volunteers, including their availability, relevant experience, and preferences. By filling out this form, volunteers will help the organization place them in suitable roles, ensuring they can effectively contribute to the program. Please ensure that you only submit one application per individual.
-
-</thinking>
-
 # Career Counseling Volunteer Application Form - Help Guide
 ## Purpose
 

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about a project from a project leader or team member. It captures project details such as name, leader, start and end dates, status, and client information. The form is meant to be completed by project leaders or team members to provide a centralized platform for project information and approval. This form is likely used in an enterprise setting where project managers need to track and manage multiple projects.
-
-To avoid duplication, it is recommended to fill out this form only when a new project begins or when a project's status changes. Otherwise, if the project information is already up-to-date and accurate, there's no need to complete this form again.
-
-</thinking>
-
 # Project Information Management Approval Form - Help Guide
 ## Purpose
 This form is designed to collect and manage project information in a structured manner. It provides a centralized platform for project leaders and team members to report project details and obtain approvals.

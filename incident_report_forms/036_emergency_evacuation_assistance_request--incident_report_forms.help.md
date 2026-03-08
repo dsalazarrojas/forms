@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # emergency-evacuation-assistance-request - Help Guide
 ## Purpose
 This form is for requesting emergency evacuation assistance in situations such as natural disasters, accidents, or other crises. It is used to provide critical information about incidents to help responders prioritize and allocate resources.

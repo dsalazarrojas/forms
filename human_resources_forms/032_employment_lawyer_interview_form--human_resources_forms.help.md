@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, it's essential to note that this form is designed for an employment lawyer interview. This form aims to collect information about a candidate's qualifications, work history, education, and other relevant details. It's intended to help the employment lawyer assess the candidate's eligibility for a job or role.</thinking>
-
 # employment_lawyer_interview_form - Help Guide
 
 ## Purpose

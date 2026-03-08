@@ -1,11 +1,3 @@
-<thinking>
-
-To create an effective user-facing help guide for the "Capital Eligibility Form", we'll need to understand the form's purpose and its fields. Here's a brief internal reasoning block:
-
-The "Capital Eligibility Form" is designed to collect information about a business's financial and operational status, credit history, and capital needs. This form aims to assess the business's qualifications for capital funding. It gathers data on the company's revenue, profit, credit scores, debt, and collateral, among other factors. By completing this form, the user will be able to determine if they qualify for financing and, if so, what type of capital amount they are eligible for.
-
-</thinking>
-
 # Capital Eligibility Form - Help Guide
 ## Purpose
 The Capital Eligibility Form is a tool used to determine if your business qualifies for capital funding. It will ask you for information about your business operations, financial history, and capital requirements.

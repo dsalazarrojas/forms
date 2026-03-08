@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from potential collaborators in the influencer industry. It is designed to be a simple and straightforward way to gather contact information and details about their work or expertise. This form is intended for internal use within a company or organization, and the collected data will not be shared publicly.
-
-Before filling out this form, please ensure you have the necessary permissions and approvals to share your contact information and collaboration details. We also encourage you to review our collaboration guidelines and terms of service to understand our expectations and limitations.
-
-This form is not intended for commercial use or as a platform for self-promotion. If you have any questions or concerns, please don't hesitate to contact us at form@gic.mx.
-
-</thinking>
 # Influencer Collaboration Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Career Advancement Opportunities Questionnaire - Help Guide
 ## Purpose
 This form is designed to help the employee identify career advancement opportunities within the organization. It aims to gather information about the employee's current role, career interests, training needs, and readiness for promotion. This will help the organization to better understand the employee's career aspirations and provide guidance on potential growth opportunities.

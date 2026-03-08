@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to record a short term absence from work, typically for a single day or a short period of time. It's used to provide a formal record of the absence, including dates, reasons, and manager's approval. This information is important for HR and management to keep track of employee attendance and attendance policies. Please ensure you're using this form only for short term absences and not for more significant periods of leave. Also, please note that this form is intended for internal use, so ensure you're submitting it to the correct department or manager.
-
-Before filling out this form, please review your schedule and ensure that you're not submitting duplicate entries or incomplete information.</thinking>
-
 # Short Term Absence Form - Help Guide
 ## Purpose
 This form is used for recording short term absences from work, typically for a day or a short period of time.

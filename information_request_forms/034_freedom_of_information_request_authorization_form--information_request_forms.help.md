@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect and verify information related to Freedom of Information (FOIA) requests. FOIA requests are formal requests to access information or records that are otherwise unavailable or inaccessible to the public. The form is intended to provide a structured approach to requesting and authorizing access to such information, ensuring that all required information is properly documented and signed off by authorized personnel. To complete this form, you will need to provide personal and contact information, details about the request, and the authorization for access. 
-
-</thinking>
-
 # Freedom Of Information Request Authorization Form - Help Guide
 ## Purpose
 The Freedom Of Information Request Authorization Form is used to request and authorize access to information or records that are otherwise unavailable or inaccessible to the public. This form ensures that all required information is properly documented and signed off by authorized personnel.

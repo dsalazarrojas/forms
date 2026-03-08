@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information about a release, which likely refers to a software or product release. The purpose of this form is to gather essential details about the release, including the names of individuals involved, their affiliation with an organization, and possibly other relevant information. Before proceeding, ensure that you're not already familiar with the release details and that the information you're about to enter is new and not a duplication. This form is intended for original data collection and analysis, and the provided fields should be filled out accurately and honestly to ensure the reliability of the data.
-</thinking>
-
 # Release Information Collection Form - Help Guide
 
 ## Purpose

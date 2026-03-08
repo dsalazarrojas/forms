@@ -1,7 +1,3 @@
-<thinking>
-The form "Information Gathering Questionnaire" is designed to collect information from users to gauge their satisfaction and preferences. This form is part of a larger process to gather insights from customers, partners, or internal stakeholders. Please note that this form is intended for non-technical users, so explanations will be provided in plain language.
-</thinking>
-
 # Information Gathering Questionnaire - Help Guide
 ## Purpose
 The purpose of this questionnaire is to help us understand your experiences and needs. We value your feedback and will use it to improve our services.

@@ -1,21 +1,3 @@
-<thinking>
-This form is used to collect information from residents who want to adjust their housekeeping frequency. This adjustment could be an increase or decrease in the frequency of housekeeping services provided by the residential facility. The form is necessary to ensure that residents can provide their consent and contact information for communication and updates on their housekeeping frequency adjustments. The form should not be completed if the resident has not received prior notification of a potential frequency adjustment and is not seeking to adjust their frequency.
-
-This form will be used to gather the following information from residents:
-- Their personal details, such as name and contact information.
-- Their requested changes to the housekeeping frequency.
-- A statement of their consent to the frequency adjustment.
-- Their preferred contact method (phone, email, SMS, or a combination of these).
-- Additional comments or information they would like to provide.
-
-To determine the relevance of this form, consider the following:
-- Has the resident been notified of a potential frequency adjustment and is seeking to adjust their frequency?
-- Is the resident providing their personal details and consent for the adjustment?
-- Are they providing their preferred contact method and any additional comments?
-
-The purpose of this form is to ensure residents can inform the facility of their housekeeping frequency adjustment requests while also obtaining their consent and contact information.
-</thinking>
-
 # Housekeeping Frequency Adjustment Consent Form - Help Guide
 
 ## Purpose

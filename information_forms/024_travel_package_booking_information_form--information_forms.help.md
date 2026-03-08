@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect information from users for travel package bookings. It is intended to be used by travel agencies or tour operators to gather necessary details from customers for a travel package booking process. This form is not affiliated with any specific form platform and is an original adaptation created using AI.
-
-To ensure the form is being used correctly, please review the fields below:
-
-*   The "Form Information" field is the first page of the form, which will likely contain general information about the form and its purpose.
-*   The "Travel Preferences" field allows the user to select their travel preferences, such as a beach, city, or cultural experience.
-*   The "Customer Details" field is a note field where the user can provide any additional information about their trip.
-*   The "Email" field requires the user to enter their email address, which is essential for communication and booking purposes.
-*   The "Package Name" field is a text field where the user can enter the name of the travel package they are interested in booking.
-
-</thinking>
-
 # Travel Package Booking Information Form - Help Guide
 ## Purpose
 This form is designed to help travel agencies or tour operators collect necessary information from customers for travel package bookings.

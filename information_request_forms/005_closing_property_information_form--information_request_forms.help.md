@@ -1,16 +1,3 @@
-<thinking>
-
-To determine the purpose of the "Closing Property Information Form" and ensure that it's not being duplicated, let's analyze the provided YAML. This form appears to be designed for sellers or property owners to provide information about a specific property, including its address, ownership details, and any known issues or damages. This form might be used in real estate transactions or property management contexts.
-
-To confirm, let's review the form fields:
-- It includes sections for seller information (name, email, phone number), property details (address, city, state, zip, type, year built, square footage, number of bedrooms and bathrooms), and ownership (duration, title status, title company name). 
-- There are sections for known issues or damages (structural, water damage, pest/termite issues).
-- The form also includes utility-related fields (roof age).
-
-Considering the fields, it's reasonable to assume this form is used to gather essential information about a property, its condition, and its ownership. To avoid duplication, it would be best to ensure that this form is not submitted multiple times for the same property.
-
-</thinking>
-
 # Closing Property Information Form - Help Guide
 ## Purpose
 The "Closing Property Information Form" is designed to collect essential details about a property, including its address, ownership, and any known issues or damages. This form helps to provide accurate information for real estate transactions or property management.

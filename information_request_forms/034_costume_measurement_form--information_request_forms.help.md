@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect costume measurement information for individuals. It's a crucial tool for costume designers, costume enthusiasts, and anyone interested in getting a proper fit for their costume needs. This form is not intended for users who are looking for a general health or wellness assessment, as the focus is solely on costume measurements. 
-
-Before filling out this form, please note that some fields may be optional, but providing accurate measurements will ensure a more accurate fit for your costume needs. 
-
-</thinking>
-
 # Costume Measurement Form - Help Guide
 ## Purpose
 The Costume Measurement Form is designed to collect detailed measurements for costume design and creation. Providing accurate measurements will help ensure a custom-fit costume that flatters your body type and complements your style.

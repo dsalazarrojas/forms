@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the theater audience, which is an important aspect of the theater's operations. This form is likely used to collect data for marketing, audience analysis, or other related purposes. The form is relatively simple, with only six fields: First Name, Last Name, Age, Email, Phone Number, and Performance Date. All fields are optional, which means that users are not required to fill out any of them. This form does not appear to have any duplicate fields, and its purpose is likely specific to a particular use case, so it should be straightforward to complete.
-</thinking>
-
 # theater_audience_information_collection - Help Guide
 ## Purpose
 

@@ -1,22 +1,3 @@
-<thinking>
-This form is designed to gather information and agreements from both the photographer and the model for a trade for print agreement, which is a document that outlines the terms and conditions of a photo shoot or print project. The form is intended to ensure that both parties have a clear understanding of their roles, responsibilities, and expectations. This form will help to reduce the risk of disputes or misunderstandings during and after the project.
-
-To complete this form, the photographer and model will be asked to provide their contact information, agreement status, and other relevant details. The form will also ask for confirmation of the terms and printing details to ensure that both parties are aware of the printing process.
-
-Upon reviewing the form's fields, it appears that most fields are required to be completed by both the photographer and the model, indicating a high level of importance and necessity for their completion. The fields seem to be designed to gather information about the project's details, agreements, and confirmations.
-
-The form's structure and fields seem to suggest that it is a comprehensive document that covers various aspects of the trade for print agreement. The fields include contact information, agreements, confirmations, and terms of use, which suggests that the form is designed to be a thorough and complete guide for both parties involved in the project.
-
-Before proceeding, please note that this form is a critical document that requires careful consideration and completion by both the photographer and the model. Incomplete or inaccurate information may lead to misunderstandings or disputes during or after the project.
-
-Upon reviewing the form's fields, it seems that most fields have multiple options, such as "Yes" or "No", which suggests that they are designed to gather agreement or confirmation status rather than factual information.
-
-This form appears to be designed to be completed by both the photographer and the model, with most fields marked as "required" to ensure that both parties provide the necessary information.
-
-After careful consideration, this form seems to be a comprehensive and thorough document designed to gather all necessary information for a trade for print agreement. Please proceed to complete the form with caution and attention to detail.
-
-</thinking>
-
 # Trade For Print Agreement - Help Guide
 
 ## Purpose

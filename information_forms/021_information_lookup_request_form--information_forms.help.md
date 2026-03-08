@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from users to fulfill their needs related to information lookup requests. 
-It seems this form is intended for users to request or inquire about specific information. However, it's not clear whether this information is for personal or business use. I'd need more context to confirm.
-To fill this out correctly, the user should be aware that the form is intended for requesting or inquiring about something, but more context would be needed for accurate interpretation. 
-
-Please note that some fields are not required. 
-
-</thinking>
-
 # Information Lookup Request Form - Help Guide
 
 ## Purpose

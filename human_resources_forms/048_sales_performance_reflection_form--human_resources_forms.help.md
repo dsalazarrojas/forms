@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help employees reflect on their sales performance and provide feedback for improvement. The form is intended to be completed by sales representatives and managers to help them evaluate their sales activities, performance, and strategies for the current period. This form will help the management team understand the sales team's performance, identify areas for improvement, and make data-driven decisions to enhance sales strategies.
-</thinking>
-
 # Sales Performance Reflection Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about your sales performance and strategies during the current period. This will help our management team to understand your strengths and weaknesses and make informed decisions to improve our sales processes.

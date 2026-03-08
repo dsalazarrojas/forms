@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to support users in completing the form accurately and efficiently. To ensure that the form is used correctly, please review the following guide carefully. The form is designed to collect incident reports related to safety and health incidents on cruise lines. It's essential to complete this form thoroughly and accurately to help the cruise line management team respond promptly and effectively to incidents. Please note that each field has a specific purpose, and the instructions below will guide you through the completion process.
-
-</thinking>
-
 # Cruise Line Health Incident Report Form - Help Guide
 ## Purpose
 The Cruise Line Health Incident Report Form is designed to gather information about incidents that have occurred on cruise lines, ensuring that the management team is informed and can take prompt action to maintain the health and safety of passengers and crew.

@@ -1,7 +1,3 @@
-<thinking>
-The Employee Self-Evaluation and Performance Goals Form is used to collect data for employee self-assessments and performance goals for review cycles. To ensure that each employee has a unique form, we'll be collecting data from different fields. We're looking to keep the forms concise and to the point, focusing on essential details for review cycles.
-</thinking>
-
 # employee_self_evaluation_and_performance_goals_form - Help Guide
 ## Purpose
 This form is designed to collect employee self-assessments and performance goals for review cycles. It helps managers and HR teams standardize data collection and support productive performance conversations.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lost Luggage Recovery Request Form - Help Guide
 ## Purpose
 The Lost Luggage Recovery Request Form is used to report lost luggage issues. Fill this form to report your lost luggage and provide relevant information for recovery efforts.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about incidents that have occurred at energy facilities. It's essential to fill out this form accurately and thoroughly to ensure that the incident report is complete and useful for further investigation and decision-making. Before proceeding, make sure you have all the necessary information about the incident, including the incident type, facility details, and any relevant descriptions or actions taken. To avoid duplication of effort, please do not submit multiple reports for the same incident.
-</thinking>
-
 # Energy Facility Incident Form - Help Guide
 ## Purpose
 This form collects information about incidents that have occurred at energy facilities, including the type of incident, facility details, and any relevant descriptions or actions taken.

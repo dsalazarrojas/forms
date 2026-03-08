@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect feedback from employees on HR policies. The form should only be completed if the employee has a genuine intention to provide feedback or suggestions on the HR policies, as duplicate feedback or irrelevant comments will not be entertained.
-
-The form is divided into several sections, each designed to collect specific information from the employee. The feedback and suggestion fields are open-ended, allowing the employee to provide as much detail as they like. The submitted on field is used to track when the form was submitted, while the submitted by field is not actually visible in the final version of the form but is likely used for tracking who submitted the form.
-
-To ensure consistency and quality, please only submit relevant and original feedback. This form is meant to improve our HR policies and services, so please be concrete in your suggestions and comments.</thinking>
-
 # HR Policy Feedback Form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and suggestions from employees on our HR policies, allowing us to make informed decisions and improvements.

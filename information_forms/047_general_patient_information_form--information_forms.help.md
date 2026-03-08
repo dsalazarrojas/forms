@@ -1,5 +1,4 @@
-> <thinking>...</thinking>
-This guide is for the "General Patient Information Form". The form is designed to collect general information about a patient, including medical conditions, allergies, health habits, medical history, medical specialties, emergency contact information, and other relevant details. This form is used to provide a comprehensive understanding of a patient's overall health status.
+> This guide is for the "General Patient Information Form". The form is designed to collect general information about a patient, including medical conditions, allergies, health habits, medical history, medical specialties, emergency contact information, and other relevant details. This form is used to provide a comprehensive understanding of a patient's overall health status.
 </thinking>
 
 # General Patient Information Form - Help Guide

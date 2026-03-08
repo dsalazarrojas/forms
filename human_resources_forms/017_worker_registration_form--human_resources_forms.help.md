@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for registering new workers in the organization's database. The form collects various information about the worker, including their personal details, job status, job title, and contact information. It's crucial to ensure that this form is filled out accurately and thoroughly to avoid errors and discrepancies in the database. Before filling out this form, please review the information and ensure it's consistent and up-to-date.
-
-Please note that this form should only be filled out by workers who are new to the organization or whose information needs to be updated. If you're looking to update an existing worker's information, please contact the relevant department or HR representative for assistance.
-</thinking>
-
 # Worker Registration Form - Help Guide
 ## Purpose
 This form collects information for registering new workers in the organization's database.

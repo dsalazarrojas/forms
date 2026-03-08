@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for patients to provide informed consent for the use of a skin cooling gel patch. The purpose of this form is to gather information about the patient's skin condition, medical conditions, medications, and application method. This form will help healthcare providers understand the patient's medical history and ensure that the skin cooling gel patch is used safely and effectively. Before completing this form, please make sure you have read and understood the provided information and have the necessary permissions to proceed with the treatment.
-</thinking>
-
 # Skin Cooling Gel Patch Consent Form - Help Guide
 ## Purpose
 The Skin Cooling Gel Patch Consent Form is a document that gathers information about your skin condition, medical history, and other relevant details. This form is designed to ensure that you understand the treatment and its potential risks and benefits.

@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect information about accidents that have occurred within the organization, including details about the incident, the person involved, and the investigation process. The purpose of this form is to ensure that incidents are thoroughly documented and reported in a consistent manner, allowing for prompt and effective response and prevention of future accidents. To avoid duplication of effort, ensure that you are not submitting a report for an incident that has already been investigated and reported. If you have any questions or concerns, please reach out to your supervisor or the relevant department... </thinking>
-
 # Accident Investigation Report - Help Guide
 ## Purpose
 The Accident Investigation Report form is used to collect and document information about accidents that have occurred within the organization. This form is a critical tool for understanding the circumstances of the accident, identifying root causes, and implementing corrective actions to prevent future incidents.

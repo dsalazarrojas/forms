@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from users in a flexible and structured manner. It is intended to be filled out by users who need to provide details about different sections of information. Each section is designed to accommodate a specific type of input, such as select-one, select_multiple, date, time, number, decimal value, note, email, or text. 
-The form is likely used in scenarios where detailed information needs to be collected, such as for a survey or questionnaire. 
-</thinking>
-
 # Information Matrix Template Form - Help Guide
 ## Purpose
 The purpose of this form is to help users provide detailed information in a structured format. 

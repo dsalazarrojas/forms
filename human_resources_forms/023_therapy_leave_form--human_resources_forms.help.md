@@ -1,13 +1,3 @@
-<thinking>
-
-This form appears to be a template for a leave of absence request related to therapy sessions. The purpose of the form is likely to provide a structured way for employees to request time off for therapy sessions and for managers to track and approve or deny these requests.
-
-This form should be used by employees to request leave of absence to attend therapy sessions. It's essential that the user understands that this form is a formal document and will be reviewed by a manager. The information provided will be used to determine the status of the leave request.
-
-Before filling out this form, ensure you have all the necessary information and authorization to request leave for the specified dates. The form will ask for personal details, dates, and other relevant information. If you are unsure about any field or requirement, please consult your HR representative or manager.
-
-</thinking>
-
 # Therapy Leave Form - Help Guide
 ## Purpose
 This form is used to request a leave of absence for a therapy session. Complete this form to provide necessary information for your manager's review and approval.

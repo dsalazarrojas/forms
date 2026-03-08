@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect general information from users about a financial sustainability initiative. It is intended for use by organizations or individuals looking to register their initiative with the relevant authorities or partners. 
-
-The form has five fields that need to be filled out in order to complete the registration process.
-
-The purpose of this form is to ensure that all necessary information is provided and that the initiative meets the required standards for financial sustainability. 
-
-Before proceeding, please note that the information provided will be reviewed to ensure it meets the required standards. If there are any issues, you will be contacted for clarification or additional information.
-
-To avoid any delays in the registration process, please make sure to fill out the form accurately and thoroughly.
-
-</thinking>
-
 # Financial Sustainability Initiative Registration - Help Guide
 ## Purpose
 This form is designed to collect general information from users about a financial sustainability initiative. The collected data will be reviewed to ensure it meets the required standards for financial sustainability.

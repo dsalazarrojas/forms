@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from clients regarding their consent for patch test procedures. The form is typically used in medical settings to ensure that clients understand and agree to the procedures they will undergo. The form's purpose is to inform clients about the patch test process, obtain their consent, and gather any relevant contact information.
-</thinking>
-
 # Patch Test Consent Form - Help Guide
 ## Purpose
 This form is intended to be used in medical settings to gather information from clients regarding their consent for patch test procedures. It ensures that clients understand the process and agree to it.

@@ -1,5 +1,3 @@
-<thinking>This is a form used to collect information about mental health screenings. This form is designed to gather data on various aspects of mental health, including depression, anxiety, substance abuse, and suicidal thoughts. The form is divided into several sections, each covering a specific topic. It is essential to complete this form accurately and honestly to provide reliable data for analysis and decision-making.</thinking>
-
 # DASS Form Template - Help Guide
 
 ## Purpose

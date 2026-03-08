@@ -1,13 +1,3 @@
-<thinking>
-
-This help guide will cover the Gun Transfer Form, a form used to collect information about gun transfers. 
-
-The form is meant for collecting data on gun transfers, and it is not intended for other purposes. Please ensure that you are using this form for its intended use before proceeding.
-
-Before proceeding, ensure that you have not already filled out this form for the same gun transfer. Duplicate submissions may cause confusion and errors in the system.
-
-</thinking>
-
 # Gun Transfer Form - Help Guide
 ## Purpose
 The Gun Transfer Form is used to collect information on gun transfers, including the details of the gun, the person transferring the gun, and the method of transfer.

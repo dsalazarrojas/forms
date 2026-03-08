@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly, and not for duplicate incidents. This form will only be used to report incidents of drinking water contamination, which can have serious health and environmental impacts. The purpose of this form is to collect relevant information about the incident, including the source of the contamination, the date and time it occurred, the affected population, and the level of contamination. This will help the authorities to take swift action to rectify the situation and prevent future incidents. Please review this guide carefully before submitting your report.
-</thinking>
-
 # Drinking Water Contamination Incident Form - Help Guide
 ## Purpose
 This form is intended to report incidents of drinking water contamination. It will help the authorities to gather critical information about the incident and take necessary actions to protect public health and the environment.

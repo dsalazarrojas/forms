@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help the user report issues with a retail app. The form will be used to gather information about the error, including the type of device the user is experiencing the issue on, the version of the app being used, and any steps that can be taken to reproduce the issue. The form also allows the user to attach files that may help with debugging. The internal reasoning for this form is to collect data on the app's performance and user experience to identify and resolve issues in a structured and organized manner.
-</thinking>
-
 # Retail App Error Notification Contact Form - Help Guide
 ## Purpose
 This form is designed to help you report errors or issues with our retail app. Please use this form to provide detailed information about the problem you are experiencing and any relevant attachments that can aid in debugging.

@@ -1,6 +1,3 @@
-<thinking>
-...The form is designed to collect information from candidates about their skills, experience, and contact details in the context of talent acquisition. This form should only be used for specialist roles, implying that the form will be used to assess the candidate's suitability for a specific job requiring advanced skills. The purpose of this form is to gather essential details from candidates for HR purposes, ensuring that the information is accurate and consistent. This form should not be used for general talent acquisition or other purposes. To avoid duplication, ensure that the form is filled out for each specific specialist role the candidate is applying for... </thinking>
-
 # talent-acquisition-specialist-interview-form - Help Guide
 ## Purpose
 This form is designed to collect information from candidates about their skills, experience, and contact details specifically for specialist roles. Ensure that you only use this form for specialist talent acquisition purposes.

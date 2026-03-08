@@ -1,7 +1,3 @@
-<thinking>
-This form is used to record and document external factors that may impact the organization. These factors can be political, economic, social, technological, or environmental in nature and are used to assess and manage risk. Before proceeding, please ensure that the factor has not been previously recorded and that this form is not a duplicate of an existing submission.
-</thinking>
-
 # External Factor Record Form - Help Guide
 ## Purpose
 This form is used to record and document external factors that may impact the organization. This includes political, economic, social, technological, and environmental factors that need to be assessed and managed.

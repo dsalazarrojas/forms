@@ -1,7 +1,3 @@
-<thinking>
-The form is a tool used to collect visitor information at the church. This form is likely intended for visitors to provide their contact information, background, and interests, allowing the church staff to tailor their experience and follow up with them. The form is probably used for tracking visitor demographics, preferences, and interests, enabling the church to better understand their congregation's needs and preferences. The fields are likely designed to be completed by visitors on their first visit, with some fields optional or relevant to their specific circumstances.
-</thinking>
-
 # Church Visitor Information Form - Help Guide
 ## Purpose
 The Church Visitor Information Form is a tool for visitors to provide their contact information, background, and interests, enabling the church to tailor their experience and follow up with them.

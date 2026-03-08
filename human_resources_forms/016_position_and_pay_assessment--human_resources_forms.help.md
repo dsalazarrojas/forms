@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to assess the position and pay of employees within an organization. The form collects various information regarding the employee's performance, compensation, and other factors affecting their job. This form helps in creating a comprehensive understanding of the employee's standing and provides a structured way to evaluate their position and pay. It's essential to ensure that this form is used correctly to avoid duplication of effort and redundant data entry. Please ensure that you have reviewed all the provided fields and understand their relevance before proceeding.</thinking>
-
 # position_and_pay_assessment - Help Guide
 ## Purpose
 The position and pay assessment form is designed to collect data on employee performance, compensation, and other relevant factors. This information helps in creating a comprehensive evaluation of the employee's standing and provides a structured approach to assessing their position and pay.

@@ -1,10 +1,3 @@
-<thinking>
-The form "Buyer Information Form" is designed to collect essential information from buyers, including contact details, preferences, and company-related data. It is a crucial step in the buying process, as it ensures that the buyer's requirements and contact preferences are accurately recorded.
-This form is intended for use by buyers who wish to purchase products or services from the company. It is not designed for internal use within the company, nor is it intended for general contact or inquiry purposes. 
-The form consists of 13 fields, each with a specific label and type. Some fields are required, while others are optional. The required fields are marked as such in the form schema.
-
-</thinking>
-
 # Buyer Information Form - Help Guide
 ## Purpose
 The Buyer Information Form is a critical step in the buying process, ensuring that the company has accurate and relevant information about the buyer. This form helps the company to better understand the buyer's needs and preferences, facilitating a smooth and efficient buying experience.

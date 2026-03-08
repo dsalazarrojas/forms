@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # New Employee Details Form - Help Guide
 
 ## Purpose

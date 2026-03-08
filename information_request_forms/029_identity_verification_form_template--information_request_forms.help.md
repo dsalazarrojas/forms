@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used for identity verification, which involves collecting information about a user's identification details, such as their contact details and ID type and number. It's essential to fill this form out accurately to ensure proper identification and verification of the user. Please ensure that you're filling this form in a single instance, to avoid duplication.
 
 </thinking>

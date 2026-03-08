@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for the Veterinarian Application Form, a crucial document that helps us evaluate potential candidates for veterinary positions. To be eligible for this form, applicants should have a genuine interest in veterinary work and not already be employed in a similar role within our organization.
-</thinking>
-
 # Veterinarian Application Form - Help Guide
 
 ## Purpose

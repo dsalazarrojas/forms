@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # gas_leak_incident_report_form - Help Guide
 
 ## Purpose

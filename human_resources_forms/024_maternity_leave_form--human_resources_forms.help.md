@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from employees regarding their maternity leave. It is meant to be completed by the employee, and the supervisor's input is also requested for additional context. The form is not intended for use as a formal HR process, but rather as a general information gathering tool. It is essential to complete this form with accurate and honest information to ensure that the leave request is processed correctly and efficiently.
-
-This form will be used to collect data on employee's personal details, job title, department, reason for leave, and any additional comments. The form will be used to track and record the employee's maternity leave, but it's not a formal HR process.
-
-This form will not be used to store any sensitive or confidential information. All data collected will be handled according to the company's privacy policy.
-
-Before starting, please ensure that you have all necessary information ready and that you fill out the form accurately and completely.
-
-</thinking>
-
 # Maternity Leave Form - Help Guide
 ## Purpose
 

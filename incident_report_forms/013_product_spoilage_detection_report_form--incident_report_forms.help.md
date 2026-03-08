@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Product Prophets Detection Report form - Help Guide
 
 ## Purpose

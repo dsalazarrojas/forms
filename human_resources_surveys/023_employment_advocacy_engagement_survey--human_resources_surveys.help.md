@@ -1,5 +1,3 @@
-<thinking>...This form is designed to gather information from employees about their level of engagement with advocacy initiatives related to employment. The purpose of this form is to assess the current state of employment advocacy within an organization, and to identify areas of improvement. It is intended for use in HR or other relevant departments within an organization. To ensure accurate data collection, please fill out the form carefully and do not submit duplicate responses. If you have previously submitted this form, please do not resubmit without permission from the form administrators...</thinking>
-
 # Employment Advocacy Engagement Survey - Help Guide
 ## Purpose
 This form aims to understand employee engagement with employment advocacy initiatives, helping organizations to assess and improve their current state of employment advocacy.

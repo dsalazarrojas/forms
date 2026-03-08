@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information for tax preparation purposes. It is used to gather general information, client details, tax year, income, expenses, income details, expense details, and signatures from users. This form is required for tax preparation and is not intended for other uses. 
-
-</thinking>
-
 # tax_preparation_information_form - Help Guide
 ## Purpose
 This form collects tax preparation information for clients. It is a critical form used to gather essential details needed for tax preparation.

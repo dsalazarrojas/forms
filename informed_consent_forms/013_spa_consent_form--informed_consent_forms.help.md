@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect informed consent from clients before providing spa services. It's crucial to ensure that clients understand the purpose and scope of the services they will be receiving. The form is designed to gather essential information such as client contact details, medical history, and allergies. To complete the form, clients must provide their name, email address, and phone number. Additionally, they must agree to disclose their medical history and allergies. If a client has allergies, they should select the "allergies list" option, and if they don't have any allergies, they can choose "other." It's essential to note that the "phone" field is optional, and clients can skip it if they don't want to provide their phone number. The form also requires the client to provide a date of service and a description of the procedure. The date of service should be in the correct format (MM/DD/YYYY). The form's purpose is to inform clients about the services they will receive and to obtain their consent before proceeding.
-</thinking>
-
 # spa_consent_form - Help Guide
 ## Purpose
 The spa consent form is designed to collect informed consent from clients before providing spa services. It's essential to have a clear understanding of the services and their scope to ensure a safe and enjoyable experience for the client.

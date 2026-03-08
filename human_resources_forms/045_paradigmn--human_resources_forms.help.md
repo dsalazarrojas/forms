@@ -1,9 +1,3 @@
-<thinking>
-Form purpose: This form is designed to gather information about employees in the organization.
-Internal reasoning check: The form should be used for internal purposes only, not for external or public use.
-Non-duplication check: Ensure that the form is not duplicated in the organization's form library.
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is designed to collect information about employees in the organization. It can be used to update employee records, track progress, or for other internal purposes.

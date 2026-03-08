@@ -1,15 +1,3 @@
-<thinking>
-
-The Payroll Deduction Form is used to capture payroll deduction information from employees. This form is typically filled out by employees when they wish to deduct a specific amount from their paycheque. To confirm that the form is being filled out for the correct reason, please note that the form is intended for one-time or occasional deductions, not ongoing or recurring payroll adjustments.
-
-Before filling out the form, review the payroll schedule and ensure that the requested deduction aligns with your compensation policy. If you are unsure, verify with your HR or payroll representative.
-
-The form has two pages, and each page is focused on different aspects of the payroll deduction request.
-
-Please review the form carefully and ensure that all required fields (identified by a *) are filled out. 
-
-</thinking>
-
 # Payroll Deduction Form - Help Guide
 ## Purpose
 The Payroll Deduction Form is used by employees to request a one-time or occasional payroll deduction. This form captures information necessary for processing the deduction, including the paycheque amount and any associated deductions.

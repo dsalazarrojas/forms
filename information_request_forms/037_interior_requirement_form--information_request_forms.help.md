@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "Interior Requirement Form" is to collect information from users about their interior needs and preferences. This form is likely used for planning and design purposes, such as creating interior designs or plans for a specific project. To ensure that the form is completed correctly, it's essential to review the provided fields carefully and answer each question accurately. This will help to avoid duplication of effort and ensure that the correct information is collected.
-</thinking>
-
 # Interior Requirement Form - Help Guide
 ## Purpose
 The Interior Requirement Form is used to collect information about interior requirements and preferences. It's a crucial tool for planning and design purposes.

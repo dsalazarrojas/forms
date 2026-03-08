@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback from employees on their awareness, satisfaction, and preferences regarding holiday office hours. The form's purpose is to gauge employee understanding and opinions on the current state of holiday office hours, which will be used to adjust or refine the policy. It is essential to ensure that each employee completes the form only once, and their feedback will not be duplicated in any other way.
-</thinking>
-
 # Holiday Office Hours Feedback - Help Guide
 
 ## Purpose

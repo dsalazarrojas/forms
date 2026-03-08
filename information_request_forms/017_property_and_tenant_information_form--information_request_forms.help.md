@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Property And Tenant Information Form - Help Guide
 
 ## Purpose

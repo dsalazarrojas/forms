@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for collecting customer information, which will be used to populate a customer database or CRM system. This form is meant to be completed by customers who are interested in doing business with the company, but it can also be used for other purposes such as market research or customer feedback collection. To avoid duplication, please ensure that the customer's information is not already stored in the system before completing this form.
-
-Please note that some fields are not required, and it's okay to leave them blank if the information is not applicable or available. However, it's best to provide as much detail as possible for a more comprehensive customer profile.</thinking>
-
 # Customer Information Sheet Form - Help Guide
 ## Purpose
 The Customer Information Sheet Form is designed to collect essential details about a customer, including their contact information, job title, department, job function, employment status, and other relevant data.

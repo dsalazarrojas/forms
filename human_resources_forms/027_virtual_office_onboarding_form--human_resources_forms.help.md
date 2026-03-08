@@ -1,7 +1,3 @@
-<thinking>
-This form is used to onboard new virtual offices, collecting necessary information about the company, its services, and its representatives. This form helps to streamline the onboarding process and ensure that all required information is collected in a single place. It is designed to be completed by the company representatives during the onboarding process.
-</thinking>
-
 # Virtual Office Onboarding Form - Help Guide
 ## Purpose
 The Virtual Office Onboarding Form is used to collect information about your company, its services, and representatives. This form helps us understand your company's needs and provide the best possible services.

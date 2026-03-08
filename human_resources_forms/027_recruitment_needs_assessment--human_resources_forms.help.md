@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information on recruitment needs assessment for a company. The purpose of this form is to gather essential details about job openings, including role requirements, budget allocation, timelines, and other relevant job specifications. Before proceeding, ensure that you have reviewed the job requirements and have the necessary information to complete this form accurately. Please note that each field is a crucial part of the recruitment process, and providing incomplete or inaccurate information may delay or hinder the assessment process.
-</thinking>
-
 # Recruitment Needs Assessment - Help Guide
 ## Purpose
 The Recruitment Needs Assessment form is a crucial tool used to document and assess the current and future recruitment needs of an organization. It helps in identifying gaps in talent acquisition, budget allocation, and timelines for various job openings.

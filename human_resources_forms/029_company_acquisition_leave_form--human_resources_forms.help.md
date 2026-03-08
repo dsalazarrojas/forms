@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Company Acquisition Leave Form - Help Guide
 
 ## Purpose

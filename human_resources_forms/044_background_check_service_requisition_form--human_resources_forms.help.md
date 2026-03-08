@@ -1,8 +1,3 @@
-<thinking>
-This form is used by human resources departments to request background check services for new or existing employees. The form is used to provide all necessary information to perform the background check, including the employee's details, the hiring department, and the budget code. It also allows the HR representative to select the type of background check to be performed and to specify any custom search requirements. The form is used to ensure that all background checks are properly authorized and recorded.
-The form must not be used for internal promotions or other non-relevant requests. It should only be used for third-party screening services.
-</thinking>
-
 # Background Check Service Requisition Form - Help Guide
 ## Purpose
 The Background Check Service Requisition Form is a tool for HR departments to request background check services for new or existing employees.

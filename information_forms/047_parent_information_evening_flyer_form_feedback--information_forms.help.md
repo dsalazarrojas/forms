@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather feedback on the Parent Information Evening Flyer from parents or carers. The form is designed to collect their perceptions and suggestions regarding the flyer's design, content, and overall presentation. This feedback is crucial for refining the flyer to better meet the needs of parents and carers, ultimately enhancing their experience at the information evening.
-
-To avoid duplication of work, please note that feedback from other sources (e.g., surveys or in-person comments) may already be available and considered. If so, please ensure this form does not contain redundant information. If the parent or carer is unsure about providing feedback through this form, kindly encourage them to reach out to a designated contact person or team for further guidance.
-
-This form is intended for general feedback purposes, not for reporting specific incidents or concerns that may require immediate attention. If a parent or carer wishes to report a concern, please direct them to the appropriate channels for reporting incidents or complaints.
-
-</thinking>
-
 # Parent Information Evening Flyer Form Feedback - Help Guide
 ## Purpose
 The Parent Information Evening Flyer Form Feedback is a tool designed to collect feedback from parents and carers on the content, design, and overall presentation of the information evening flyer. This feedback is essential for refining the flyer and improving the experience for parents and carers.

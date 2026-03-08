@@ -1,7 +1,3 @@
-<thinking>
-The goal of this form is to gather informed consent from students participating in peer review research. This form ensures that students understand the research purpose, their rights, and the potential risks and benefits associated with the research. The form is designed to be completed by both students and instructors to demonstrate their informed consent and agreement to participate in the research.
-</thinking>
-
 # Student Peer Review Research Consent Form - Help Guide
 ## Purpose
 This form is used to obtain informed consent from students participating in peer review research. It is essential to understand that by completing this form, students acknowledge that they have been informed about the research and its purpose, and they agree to participate.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to provide a clear understanding of the Dance Studio COVID 19 Release Form. The purpose of this form is to gather information from students, faculty, and staff regarding their health status, travel history, and emergency contact information in order to take necessary precautions to prevent the spread of COVID-19. This form is designed to be completed by students, faculty, and staff who wish to attend dance studio activities. The form will help the dance studio staff to assess the individual's risk of exposure to COVID-19 and take necessary precautions to protect their health and the health of others.
-</thinking>
-
 # Dance Studio COVID 19 Release Form - Help Guide
 ## Purpose
 The Dance Studio COVID 19 Release Form is a document that helps the dance studio staff assess the risk of COVID-19 exposure and take necessary precautions to protect the health and safety of students, faculty, and staff.

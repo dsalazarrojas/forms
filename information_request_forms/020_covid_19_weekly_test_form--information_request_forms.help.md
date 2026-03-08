@@ -1,12 +1,3 @@
-<thinking>
-**Form Purpose and Relevance Check**
-
-This form is designed to collect information about a patient's COVID-19 test results. To ensure relevance, please complete this form only for patients who have undergone a COVID-19 test.
-
-**Duplicate Form Submission Warning:** If you have already submitted this form for a patient, please do not resubmit. Duplicate submissions will be considered a data entry error.
-
-</thinking>
-
 # COVID-19 Weekly Test Form - Help Guide
 ## Purpose
 This form is used to collect information about a patient's COVID-19 test results, including test type, date, location, and result.

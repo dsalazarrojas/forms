@@ -1,11 +1,3 @@
-<thinking>
-This form was created to help users provide information related to estate planning. The purpose of this form is to collect information from clients about their estate planning needs. However, this form has a large number of fields that seem to be duplicate or have similar labels. It is essential to review and validate the provided form design before considering it for use, especially if you plan to collect sensitive information from clients.
-
-Upon reviewing the form, there are multiple sections with similar labels, such as `client_details`, `financial_info`, `estate_info`, and `asset_info`, with each section having two instances (`1` and `2`). The form also has a `submit` section repeated multiple times. 
-
-To ensure accuracy, please validate the intended purpose and structure of the form with your team before proceeding.
-</thinking>
-
 # Estate Planning Questionnaire Template - Help Guide
 ## Purpose
 This form is designed to collect information from clients related to their estate planning needs.

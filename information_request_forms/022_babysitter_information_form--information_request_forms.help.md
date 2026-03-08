@@ -1,10 +1,3 @@
-<thinking>
-This help guide will assist users in completing the Babysitter Information Form, ensuring they understand the form's purpose and how to fill it out correctly. The form is designed for babysitters to provide their information and qualifications to potential clients. Before starting, please note that this form is meant for babysitters who are new to the platform, and it's essential to fill it out accurately to ensure the best possible matches with clients.
-
-This guide will walk users through each field, providing clear explanations to help them complete the form efficiently.
-
-</thinking>
-
 # Babysitter Information Form - Help Guide
 ## Purpose
 This form is for new babysitters to provide their information and qualifications to be listed on the platform. It's essential to fill it out accurately to increase the chances of getting hired.

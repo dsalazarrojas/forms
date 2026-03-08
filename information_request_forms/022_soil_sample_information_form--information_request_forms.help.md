@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is for collecting information about soil samples. It is intended for use by soil sample collectors, laboratory personnel, and other stakeholders involved in soil sample management. The purpose of this form is to gather relevant details about a soil sample, including its type, date received and requested, laboratory ID, description, and other associated metadata. This information will be used to facilitate processing and analysis of the sample.
 
 # Soil Sample Information Form - Help Guide

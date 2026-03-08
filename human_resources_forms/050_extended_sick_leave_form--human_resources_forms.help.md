@@ -1,9 +1,3 @@
-<thinking>... internal reasoning and form purpose check ...
-
-This form is used to request extended sick leave. It is a critical process for HR to manage employee leave requests and ensure that employees have a clear understanding of their leave status and any required actions from their manager or the company. The purpose of this form is to gather necessary information from employees to facilitate the approval process.
-
-... </thinking>
-
 # extended_sick_leave_form - Help Guide
 ## Purpose
 The **extended sick leave form** is a request for extended sick leave made by an employee to their manager and the company.

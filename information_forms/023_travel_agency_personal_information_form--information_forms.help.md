@@ -1,7 +1,3 @@
-<thinking>
-  This form is designed to collect personal information from clients of a travel agency. The purpose of this form is to gather details about the client's travel plans and preferences to provide them with relevant information and services during their journey. This form is not intended for internal use within the agency, so it is unlikely that you will be required to fill it out. However, if you are an employee of the travel agency, you may be asked to provide this information to your clients.
-</thinking>
-
 # Travel Agency Personal Information Form - Help Guide
 ## Purpose
 This form is intended to collect personal information from clients of a travel agency to provide them with relevant services and information during their journey.

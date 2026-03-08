@@ -1,6 +1,3 @@
-<thinking> 
-This form is used to collect information from new hires for their orientation process. It's designed to gather details about the new hire's company and job information, including emergency contact details, manager's information, and job title and type. The form will help HR teams ensure that all new hires have the necessary information and resources to get started in their new role. This form is not intended for immediate action items, but rather for informational purposes to help new hires get familiar with the company's policies and procedures. Please ensure that you are filling out this form carefully and accurately, as it will help our HR team to provide you with the necessary support and guidance in your new role.</thinking>
-
 # new_hire_orientation_checklist - Help Guide
 ## Purpose
 The new hire orientation checklist is a form used to collect information from new hires for their orientation process.

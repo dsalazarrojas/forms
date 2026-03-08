@@ -1,7 +1,3 @@
-<thinking>
-This help guide will provide instructions on how to complete the E Visits Informed Consent Form, which is used to obtain informed consent from patients for e-visits. This form is crucial for ensuring that patients are aware of the benefits and risks of e-visits, their schedule, and other essential information. Before proceeding, please review the following guide to ensure you understand the form's purpose and how to fill it out correctly.
-</thinking>
-
 # E Visits Informed Consent Form - Help Guide
 ## Purpose
 The E Visits Informed Consent Form is a critical document that ensures patients understand the benefits, risks, and schedule of e-visits. It helps to establish a clear understanding between the patient and healthcare provider, reducing the risk of misunderstandings and ensuring informed decision-making.

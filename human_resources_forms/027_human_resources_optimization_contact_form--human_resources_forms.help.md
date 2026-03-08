@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from customers or users regarding their human resources optimization needs. The goal is to understand the company's size, contact details, and specific requirements for HR services. This form should not be filled out if the user has already submitted similar information in the past, as this may cause duplication of records. 
-</thinking>
-
 # human_resources_optimization_contact_form - Help Guide
 ## Purpose
 The human_resources_optimization_contact_form is used to collect information from customers or users regarding their human resources optimization needs. This helps us understand their requirements and provide better services.

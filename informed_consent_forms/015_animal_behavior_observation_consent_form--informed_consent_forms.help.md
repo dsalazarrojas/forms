@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and usage of the "Animal Behavior Observation Consent Form". This form is used to obtain consent from participants or animal owners for research purposes. The form is used to ensure that all parties involved are aware of the research goals, methods, and potential risks associated with the observation process. By completing this form, participants or animal owners give permission for researchers to collect data on their animals for a specified duration and purpose. It is essential to carefully read and understand each section before submitting the form.
-</thinking>
-
 # Animal Behavior Observation Consent Form - Help Guide
 ## Purpose
 The Animal Behavior Observation Consent Form is a crucial document that grants permission for researchers to collect data on animals for research purposes. This form ensures that participants or animal owners are informed about the research goals, methods, and potential risks associated with the observation process.

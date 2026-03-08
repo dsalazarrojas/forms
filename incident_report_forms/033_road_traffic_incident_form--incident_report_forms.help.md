@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 This form is intended to collect information about road traffic incidents. Please use it for reporting road traffic incidents, such as accidents, road closures, or other related events that affect road usage. Before filling out this form, make sure that the incident you are reporting is not a repeat or duplicate. This form is designed to gather details about the incident, including its date, location, and other relevant information.
 
 # Road Traffic Incident Form - Help Guide

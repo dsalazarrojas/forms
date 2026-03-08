@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from individuals who wish to volunteer at a summer camp during the COVID-19 pandemic. The form will help ensure that all volunteers understand the risks associated with COVID-19 and are committed to following safety measures and protocols to minimize the risk of transmission. By completing this form, volunteers will be able to confirm their understanding of COVID-19 risks, their willingness to follow safety protocols, and their ability to report symptoms and quarantine if necessary. Please note that completing this form is a requirement for volunteering at the summer camp.
-</thinking>
-
 # COVID 19 Volunteer Consent Form For Summer Camp - Help Guide
 
 ## Purpose

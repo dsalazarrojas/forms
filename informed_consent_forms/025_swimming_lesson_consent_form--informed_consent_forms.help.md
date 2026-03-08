@@ -1,9 +1,3 @@
-<thinking>
-This form is a crucial tool for swimming lesson providers to collect essential information from students and their guardians. The form's primary purpose is to ensure that both the student and their emergency contacts are informed and aware of the risks associated with swimming lessons, particularly when it comes to medical conditions and allergies. 
-
-The following fields are intended to elicit information necessary for providing a safe and enjoyable swim lesson experience.
-</thinking>
-
 # Swimming Lesson Consent Form - Help Guide
 ## Purpose
 This form is used to collect information from students and their guardians to ensure a safe and enjoyable swim lesson experience.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about endangered species, allowing users to submit data about the species, its conservation status, population trend, habitat type, habitat description, conservation actions taken, and contact details. This form is intended for users who want to report or register information about endangered species, but it is not meant for users who are looking for information about conservation efforts or species listings. Please use this form only if you have specific information about an endangered species that you want to submit. Please note that if you're submitting information about a species that is already registered, your submission will not be created as a duplicate.
-</thinking>
-
 # endangered_species_registration_form - Help Guide
 ## Purpose
 This form is designed to collect information about endangered species, allowing users to submit data about the species, its conservation status, population trend, habitat type, habitat description, conservation actions taken, and contact details.

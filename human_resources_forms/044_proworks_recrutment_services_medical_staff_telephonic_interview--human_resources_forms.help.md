@@ -1,14 +1,3 @@
-<thinking>
-The form purpose is to gather information from medical staff for Proworks Recruitment Services. This form likely aims to collect demographic and professional information for potential candidates or existing employees in the medical field.
-
-Before creating this form, consider the following:
-
-* Is this form already in use or being replaced by a more modern alternative (e.g., a similar form with updated fields or features)?
-* Are the fields included in this form necessary for the intended use case? If not, consider removing or reordering them to minimize user friction.
-* Can the form fields be further validated or sanitized to improve data quality and user experience?
-
-</thinking>
-
 # Proworks Recrutment Services Medical Staff Telephonic Interview - Help Guide
 ## Purpose
 This form is designed to gather information from medical staff for Proworks Recruitment Services. It is intended to collect demographic and professional details for potential candidates or existing employees in the medical field.

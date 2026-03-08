@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **virtual doulas consent form - Help Guide**
 
 ## Purpose

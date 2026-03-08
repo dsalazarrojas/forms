@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to support users in completing the Client Stories Form, a crucial tool for sharing valuable experiences and insights from clients. To confirm, this form is used to collect and document stories from clients, aiming to showcase their challenges, solutions, and outcomes in a structured and concise manner. By using this guide, you'll be able to navigate the form's sections and fields effectively, providing a comprehensive account of your story in a way that informs and educates others. Before starting, review each section and field to ensure you're providing all necessary information.
-</thinking>
-
 # Client Stories Form - Help Guide
 ## Purpose
 The Client Stories Form is designed to elicit a detailed account of a client's experience, allowing them to share their challenges, solutions, and outcomes in a compelling manner. This form serves as a valuable resource for learning, growth, and collaboration within the organization.

@@ -1,5 +1,3 @@
-<thinking>HR Performance Coaching Camp Registration Form is a form used to register employees for performance coaching sessions. The form is used to collect information about the employee, their manager, and the coach. The purpose of this form is to ensure that both the employee and the manager are on the same page regarding the coaching process. This form should only be filled out by the employee's manager, and it is a required field for both the manager and coach approval.</thinking>
-
 # HR Performance Coaching Camp Registration Form - Help Guide
 ## Purpose
 The HR Performance Coaching Camp Registration Form is used to register employees for performance coaching sessions. It ensures that both the employee and the manager are on the same page regarding the coaching process.

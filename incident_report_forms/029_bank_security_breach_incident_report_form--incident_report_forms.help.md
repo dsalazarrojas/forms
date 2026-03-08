@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Bank Security Breach Incident Report Form - Help Guide
 
 ## Purpose

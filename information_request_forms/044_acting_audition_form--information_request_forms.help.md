@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Acting Audition Form - Help Guide
 
 ## Purpose

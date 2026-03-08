@@ -1,6 +1,3 @@
-<thinking>**Purpose:**
-This form is designed to collect information and consent from individuals who wish to participate in pregnancy and parenting-related programs or activities. It's intended to gather demographic and contact information from students, and consent for using their data for specific purposes. The form does not store or process sensitive data, and all information collected is used for internal purposes only. Please review the fields carefully and provide accurate information to ensure correct categorization and follow-up communication. Ensure you have necessary approvals or permissions before filling out this form. If you're unsure, please reach out to form@gic.mx for more information.</thinking>
-
 # Pregnancy And Parenting Consent Form - Help Guide
 ## Purpose
 This form is designed to collect information and consent from individuals who wish to participate in pregnancy and parenting-related programs or activities.

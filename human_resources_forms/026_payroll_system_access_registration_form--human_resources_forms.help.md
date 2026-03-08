@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Payroll System Access Registration Form - Help Guide
 ## Purpose
 This form is designed for HR personnel and system administrators to register new employees or update existing ones in the Payroll System. 

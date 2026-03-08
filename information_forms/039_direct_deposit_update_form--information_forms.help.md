@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to update information about a direct deposit account, likely as part of payroll or benefits processing. This form appears to be relevant to the context of managing employee payrolls or employee benefits. However, to verify the form's purpose and ensure it is not being used for other, unrelated processes, it would be wise to double-check the intended use case with the internal stakeholders or form creators.</thinking>
-
 # direct_deposit_update_form - Help Guide
 ## Purpose
 

@@ -1,12 +1,3 @@
-<thinking>Internal reasoning block to check for form purpose and relevance:
-
-The purpose of this form, "Broadband Service Agreement," is to collect necessary information from customers to establish a broadband service contract. This form is likely used by internet service providers to gather information about customers, including their contact details, service plan selection, and agreement terms. The form is likely to be used for both new and existing customers, and may be used to update or modify existing agreements as well.
-
-Upon reviewing the form fields, it appears that the form has multiple sections, including customer information, service details, contract terms, and equipment rental/ additional services. The form also includes fields for customers to acknowledge and agree to certain terms and conditions, such as early termination fees, acceptable use policies, and privacy policies. The form's purpose is to ensure that customers are aware of and agree to the terms of their service contract.
-
-Checking for non-duplication:
-Upon reviewing the form fields, it appears that there may be some overlap between fields, such as the customer's name and address being required in multiple sections. However, this is not a significant issue, as the form is likely intended to be used for different purposes, such as initial setup and contract renewal. The form's purpose and sections are well-defined, and the fields are logically grouped to support this purpose.</thinking>
-
 # Broadband Service Agreement - Help Guide
 ## Purpose
 The Broadband Service Agreement form is used by internet service providers to collect necessary information from customers to establish a broadband service contract. This form is used for both new and existing customers, and may be used to update or modify existing agreements.

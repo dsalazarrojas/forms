@@ -1,12 +1,3 @@
-<thinking>
-  This help guide explains the purpose and process of completing the digital ethics consulting contact form. 
-
-  The purpose of this form is to collect information from users regarding digital ethics consulting requests. The form is intended to be used by individuals or organizations seeking guidance or advice on digital ethics-related matters. It's not for internal use, but rather for external users. 
-
-  Before proceeding, please ensure that you have not completed this form recently or have an existing open issue with our team. This will ensure that your inquiry receives the most up-to-date response.
-
-</thinking>
-
 # digital_ethics_consulting_contact_form - Help Guide
 ## Purpose
 The digital ethics consulting contact form is designed to collect information from users seeking advice or guidance on digital ethics-related matters.

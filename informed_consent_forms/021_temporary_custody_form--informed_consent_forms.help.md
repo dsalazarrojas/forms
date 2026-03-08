@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Temporary Custody Form - Help Guide
 
 ## Purpose

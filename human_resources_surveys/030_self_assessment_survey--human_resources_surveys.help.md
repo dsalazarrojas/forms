@@ -1,7 +1,3 @@
-<thinking>
-...the self-assessment survey is used for employees to evaluate their own performance and development in various areas of their job, such as leadership, communication, and time management. This survey is designed to help employees reflect on their strengths and weaknesses, identify areas for improvement, and set goals for future development. It's essential to complete this survey only once every 5 years to track progress and growth over time. Ensure that you have completed this survey in the past 5 years before filling out this form to avoid duplication of effort...
-</thinking>
-
 # self_assessment_survey - Help Guide
 ## Purpose
 This survey is used for employees to evaluate their own performance and development in various areas of their job, such as leadership, communication, and time management.

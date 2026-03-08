@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by individuals who want to join the Virtual Fan Club, a platform for fans to connect and engage with each other. The form is designed to collect basic contact information, preferences, and other relevant data to provide a personalized experience for the users. Before proceeding, please note that this form is not intended for existing members, and any duplicate submissions will be rejected. This form should only be filled out once, and any subsequent submissions should be ignored.
-</thinking>
-
 # Virtual Fan Club Registration Form - Help Guide
 ## Purpose
 The Virtual Fan Club Registration Form is designed to be used by individuals who want to join the Virtual Fan Club, a platform for fans to connect and engage with each other. This form helps us understand your preferences and provide a personalized experience for you.

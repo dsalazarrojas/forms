@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information from union leaders, including their personal details, role, and other relevant attributes. The form is intended to be completed by the union leader themselves, and the information collected will be used for internal purposes only. 
 
 Before proceeding, please ensure you have the necessary permissions to access this form and that the information being collected is accurate and up-to-date. 

@@ -1,17 +1,3 @@
-<thinking>
-
-The form appears to be related to setting up budget and targeting information for marketing campaigns. The fields seem to cover various aspects of budgeting, targeting, and campaign specifics. To confirm, I will need to review each field to understand its purpose and relevance to the form's overall intent.
-
-Upon reviewing the form, it appears to cover the following areas:
-
-1.  Budgeting information: This includes fields for budget amount, currency, duration, location, and rate card details.
-2.  Targeting information: This includes fields for the target audience, their demographics, location, and interests.
-3.  Campaign specifics: This includes fields for campaign media, budget type, and rate card details.
-
-To avoid duplication, it's essential to ensure that users understand which fields are optional and which are required. This guide will aim to explain each field in a clear and concise manner.
-
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is designed to gather budget and targeting information for marketing campaigns. It is crucial to fill it out accurately to ensure that your campaigns reach the right audience and are budgeted correctly.

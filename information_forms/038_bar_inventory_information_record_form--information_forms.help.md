@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the "Bar Inventory Information Record Form" is used correctly and efficiently by end users. This form is used to record and track inventory information for bars or establishments. It captures key details such as the record date, bar or establishment name, location, and the item's category, name, size, unit of measure, quantity on hand, and other relevant information. To avoid duplication, users should check the existing inventory records before creating a new one. If a duplicate record is detected, the form will not be submitted.
-</thinking>
-
 # Bar Inventory Information Record Form - Help Guide
 ## Purpose
 The "Bar Inventory Information Record Form" is used to record and track inventory information for bars or establishments. This form helps to keep accurate and up-to-date records of the bar's inventory, enabling efficient stock management and decision-making.

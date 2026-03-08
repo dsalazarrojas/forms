@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to collect and store employee personal information, which is used for various administrative purposes such as updating employee records, verifying employee information for HR processes, and other related administrative tasks.
-
-Form designers should consider ensuring the form fields are not being duplicated in other forms and that this form is relevant to the intended use case. The form should not be used to collect sensitive or confidential information that requires additional data protection measures.
-
-The fields should also be carefully reviewed to ensure they are not too sensitive or invasive, as they may contain personal data.
-
-</thinking>
-
 # Employee Personal Information - Help Guide
 ## Purpose
 The purpose of this form is to collect and store employee personal information for administrative and operational purposes.

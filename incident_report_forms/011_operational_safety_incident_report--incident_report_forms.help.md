@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information about operational safety incidents that occur within an organization. The purpose of this form is to gather data about the incidents, including details about the employee involved, the incident date and time, location, and description, as well as the incident cause and root cause. The form also captures information about the actions taken and lessons learned from the incident, with the goal of improving safety protocols and reducing future incidents.
-
-The form is intended to be completed by authorized personnel within the organization, and it is essential to ensure that all required fields are filled out accurately and thoroughly.
-
-Before starting the form, please check if an incident report has already been submitted for this specific incident. If it has, please do not submit another report.
-
-</thinking>
-
 # operational_safety_incident_report - Help Guide
 ## Purpose
 This form is designed to collect information about operational safety incidents that occur within an organization. It helps to gather details about the incident and improve safety protocols.

@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect client information and ensure the safety and security of all clients. It's a critical document that guides the client's belongings and medication management policy in a facility. This form should not be used for other purposes. Ensure that you're using it correctly by only filling it out for the intended purpose.
-
-</thinking>
-
 # Client Belongings And Medication Policy Form - Help Guide
 
 ## Purpose

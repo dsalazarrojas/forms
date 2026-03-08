@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form "subway_safety_incident_form" is used to report incidents that occur in subway environments. To ensure accuracy and completeness, please ensure that you provide detailed and accurate information for each field. This form is not intended to be a duplication of any existing incident report, so please only complete this form if you have not already reported an incident.
 
 </thinking>

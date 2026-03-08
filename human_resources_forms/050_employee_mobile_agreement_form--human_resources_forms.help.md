@@ -1,7 +1,3 @@
-<thinking>
-The Employee Mobile Agreement Form is a document that outlines the terms and conditions of employee mobile usage. It ensures that employees understand their responsibilities and expectations when using company-provided mobile devices. This form should only be completed by employees who require a mobile device for work purposes. To avoid confusion, please review the form carefully before proceeding.
-</thinking>
-
 # Employee Mobile Agreement Form - Help Guide
 ## Purpose
 

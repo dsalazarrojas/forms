@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather general information, product inquiries, and service inquiries from users. This form is likely to be used by CrowdStrike, a cybersecurity company, to collect feedback, suggestions, or requests from their customers or users. The purpose of this form is to provide a convenient way for users to reach out to CrowdStrike with their inquiries. To determine relevance, I will assume that this form is part of a customer support system or a feedback mechanism for CrowdStrike. To avoid duplication, I will ensure that the form fields are clear and unambiguous, making it easy for users to fill out without confusion.
-</thinking>
-
 # CrowdStrike Information Form - Help Guide
 ## Purpose
 The CrowdStrike Information Form is designed to collect general information, product inquiries, and service inquiries from users.

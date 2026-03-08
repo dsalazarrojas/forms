@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about incidents involving falling objects, which can be used to document and track incidents, investigate their causes, and identify potential root causes. The form should only be used for new incidents, and it's not meant to be filled out for incidents that have already been reported or investigated. The form's fields are divided into several sections, including incident date, object falling, object location, and incident reporter's information. The fields in this form are intended to gather essential details about the incident, such as the incident location, the object that fell, the incident reporter's contact information, and the incident status.
-</thinking>
-
 # Falling Object Incident Form - Help Guide
 ## Purpose
 This form is a tool used to document and report incidents involving falling objects.

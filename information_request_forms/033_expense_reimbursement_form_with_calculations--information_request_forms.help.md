@@ -1,5 +1,3 @@
-<thinking>This help guide is intended to assist users in understanding the purpose and functionality of the Expense Reimbursement Form With Calculations. Before proceeding, please note that this guide is based on the provided YAML structure and is specific to the form's design and purpose. The form is designed to collect information and data related to employee expenses, including expense dates, descriptions, amounts, and reimbursement details. The guide will cover the purpose, how to complete the form, and a field-by-field explanation of each field. Please ensure that your form completion is accurate and relevant to the form's intended use.</thinking>
-
 # Expense Reimbursement Form With Calculations - Help Guide
 ## Purpose
 

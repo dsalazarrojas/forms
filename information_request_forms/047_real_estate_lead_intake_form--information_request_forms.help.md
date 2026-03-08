@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect information from potential clients or leads about their real estate inquiries. The form's purpose is to gather contact information, property details, and communication preferences from the lead. This information will be used to follow up with the lead and potentially establish a relationship.
-
-The form is divided into sections for contact information, property details, and communication preferences. It is essential to fill out the form accurately to ensure that the lead's requirements are met.
-
-This form is not intended for internal staff to complete. It is designed for potential clients to submit their information for our real estate agents or other authorized personnel to review and follow up with.
-</thinking>
-
 # Real Estate Lead Intake Form - Help Guide
 ## Purpose
 The Real Estate Lead Intake Form is used to collect information from potential clients about their real estate inquiries.

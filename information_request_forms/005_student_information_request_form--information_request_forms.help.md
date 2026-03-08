@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from students, which will help staff members understand their needs and provide them with the necessary assistance. This form is typically used to gather details such as the student's name, email, phone number, date of birth, grade level, and the reason for their request. It's essential to fill out this form accurately to ensure that the staff can address the student's concerns effectively.
-To avoid duplicates, staff members should check the system before creating a new form to see if a similar request has been made recently.
-</thinking>
-
 # Student Information Request Form - Help Guide
 ## Purpose
 The Student Information Request Form is a tool used to collect vital information from students, allowing staff members to provide targeted support and assistance.

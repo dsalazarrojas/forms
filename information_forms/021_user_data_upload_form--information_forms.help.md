@@ -1,7 +1,3 @@
-<thinking>
-To create the user_data_upload_form, we need to ensure that users understand its purpose and requirements. This form is designed to collect user data, specifically for uploading files and providing additional information. It is intended for various categories, including "Information Forms" and "Other Category", and requires users to select one of these categories for their data upload. The form also asks users to confirm whether they will be uploading files and, if so, to provide the number of files they will be uploading. The user will then be asked for additional upload file details and other relevant information such as phone and email.
-</thinking>
-
 # user_data_upload_form - Help Guide
 ## Purpose
 The user_data_upload_form is designed to collect user data for uploading files and providing additional information. It is intended to be completed by users who need to upload files for various categories.

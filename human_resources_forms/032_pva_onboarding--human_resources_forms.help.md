@@ -1,7 +1,3 @@
-<thinking>...
-This form is designed to be a user-facing help guide for the "PVA Onboarding" form. This guide is intended to be clear, concise, and easy to understand, covering the purpose, completion process, and field-by-field explanations to assist users in filling out the form accurately and efficiently.
-
-</thinking>
 # PVA Onboarding - Help Guide
 
 ## Purpose

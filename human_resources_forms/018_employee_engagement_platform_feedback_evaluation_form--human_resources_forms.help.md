@@ -1,7 +1,3 @@
-<thinking>
-This form is likely a tool for gathering feedback and evaluation of the Employee Engagement Platform, likely used to assess employee satisfaction and engagement levels. This form may be used by HR or management teams to collect data on various aspects of company performance, such as communication, feedback, and overall work environment. It's essential to review the form's purpose and ensure it's not duplicating existing forms or processes. If it's used in addition to other forms, this document will outline how to fill out this specific form correctly.
-</thinking>
-
 # Employee Engagement Platform Feedback Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and evaluation from employees on the Employee Engagement Platform, which helps the company identify areas of improvement and make data-driven decisions to enhance employee satisfaction and engagement.

@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's confirm that this form is for submitting a Logistics Stress Relief Leave of Absence request. This form should only be used by employees who are experiencing stress-related issues that impact their work performance. If you're unsure about the purpose of this form or have already submitted a similar request, please do not proceed. The form will guide you through the process of requesting a stress relief leave of absence, including providing relevant details and approvals from managers. Let's get started! Now, here's the help guide for the Logistics Stress Relief Leave Of Absence Form.</thinking>
-
 # Logistics Stress Relief Leave Of Absence Form - Help Guide
 ## Purpose
 The Logistics Stress Relief Leave Of Absence Form is a confidential process for requesting time off due to stress-related reasons that impact your work performance. Please fill this form to submit your request for approval.

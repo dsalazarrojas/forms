@@ -1,18 +1,3 @@
-<thinking>...
-The purpose of this form is to collect information about police misconduct incidents, which is crucial for investigating and resolving such incidents effectively. This form helps gather details about the incident, including the location, date, description, and any other relevant information. It also collects information about the police officer involved, such as their ID, badge number, and any relevant personal details. Additionally, it captures information from witnesses, including their statements and any identifying details. The form is designed to be flexible and adaptable to various types of incidents, allowing users to select the relevant options from dropdown menus.
-
-To complete this form, follow these steps:
-
-1. Start by selecting the incident details page, where you will enter basic information about the incident.
-2. Enter the location and date of the incident.
-3. Provide a brief description of what happened.
-4. Select the police officer involved and any other relevant information about them.
-5. Select the type of incident and any witness details.
-6. Enter any witness statements or provide a witness statement text.
-7. Finally, review your answers to ensure they are accurate and complete before submitting the form.
-
-</thinking>
-
 # Police Misconduct Incident Form - Help Guide
 ## Purpose
 The Police Misconduct Incident Form is designed to collect information about police misconduct incidents, enabling effective investigation and resolution.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Blood Transfusion Consent Form - Help Guide
 
 ## Purpose

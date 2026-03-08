@@ -1,7 +1,3 @@
-<thinking>
-This form is used for customers to send a night drop envelope to the organization. It is intended for customers who need to provide information or instructions to be delivered to the organization during night hours. This form is not meant for general inquiries or requests that can be handled through other means such as email or phone. Please ensure that all fields are filled out correctly and completely before submitting to avoid any delays in processing the night drop request.
-</thinking>
-
 # Night Drop Envelope - Help Guide
 ## Purpose
 The Night Drop Envelope form is used for customers to send a secure message with their name, email address, and a detailed message to be delivered to our organization during night hours.

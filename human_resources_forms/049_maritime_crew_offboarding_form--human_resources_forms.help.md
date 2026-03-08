@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to facilitate the offboarding process for maritime crew members who are leaving the company. The form will help collect relevant information from the departing crew member, ensuring a smooth transition and reducing potential knowledge loss. It's essential to complete the form accurately to provide the necessary details for a timely and efficient offboarding process.
-
-This form is only for maritime crew members. Please ensure that you're completing the form as a current or former crew member of the maritime industry.
-
-Before starting, review the form carefully to avoid duplication of effort and ensure you're providing the most up-to-date information.
-
-</thinking>
-
 # Maritime Crew Offboarding Form - Help Guide
 ## Purpose
 The Maritime Crew Offboarding Form is designed to gather essential information from departing crew members, ensuring a seamless transition of knowledge and responsibilities.

@@ -1,6 +1,3 @@
-<thinking>
-The form appears to be a request form for energy source substitution, used to document and track requests for replacing one energy source with another. It seems to be part of an infrastructure system, possibly used by facilities or buildings management teams. The fields appear to be focused on collecting information about the energy sources, dates, and status. It's likely used to track changes, substitutions, or upgrades of energy sources. To confirm, can you please provide more context or clarify any specific requirements or assumptions I should consider when writing the help guide?</thinking>
-
 # Energy Source Substitution Request Form - Help Guide
 ## Purpose
 

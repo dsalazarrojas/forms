@@ -1,22 +1,3 @@
-<thinking>Before we dive into the form guide, let's break down the form's purpose and ensure we're not duplicating efforts.
-
-This form is for collecting property information, which likely includes details about a specific property, its owner, address, type, status, and other relevant attributes. The form appears to be designed for internal use, possibly for property management or tracking.
-
-Let's review the form fields:
-
-- Property Details
-- Property Owner
-- Property Address
-- Property Type
-- Property Subtype
-- Property Value
-- Property Status
-- Property Description
-
-We'll ensure that this guide covers all these fields and provides a clear explanation for end-users to fill out the form accurately.
-
-</thinking>
-
 # property_information_form_template - Help Guide
 ## Purpose
 This form is used to collect and store property information for internal purposes, such as property management or tracking.

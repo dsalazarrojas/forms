@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information and analyze the feasibility of a strategic change request. It is intended to ensure that all necessary considerations are taken into account when assessing the impact, benefits, and risks associated with a proposed change. Please note that this form should not be used for duplicate or unnecessary requests. Before submitting a request, ensure that you have reviewed the existing change management process and that your request is aligned with the organization's strategic objectives.
-</thinking>
-
 # Strategic Change Analysis Request Form - Help Guide
 ## Purpose
 The Strategic Change Analysis Request Form is a tool used to collect and evaluate information about proposed changes to the organization. It helps in assessing the feasibility of changes, identifying potential risks and benefits, and ensuring that all relevant stakeholders are informed and involved in the decision-making process.

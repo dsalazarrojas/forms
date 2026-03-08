@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for reporting incidents or incidents related to pet care and grooming services. Before submitting this form, ensure that there is no duplicate or similar incident report pending or already resolved. This form should be used to provide detailed information about the incident, and its purpose is to ensure that pet care and grooming services staff are aware of the incident and can take necessary steps to prevent future occurrences.
-</thinking>
-
 # Pet Care Grooming Incident Report Form - Help Guide
 ## Purpose
 This form is designed to gather information about incidents or incidents related to pet care and grooming services. It is used to ensure that pet care and grooming services staff are aware of the incident and can take necessary steps to prevent future occurrences.

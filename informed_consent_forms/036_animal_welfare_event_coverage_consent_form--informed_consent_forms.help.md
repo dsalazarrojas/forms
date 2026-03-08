@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Animal Welfare Event Coverage Consent Form - Help Guide
 ## Purpose
 This form is designed to collect informed consent from individuals involved in animal welfare events for media coverage. The purpose of this form is to ensure that participants or owners of animals involved in events are aware of the intended use and scope of the media coverage and grant permission for its use.

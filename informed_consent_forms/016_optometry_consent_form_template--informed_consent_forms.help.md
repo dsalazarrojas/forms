@@ -1,36 +1,3 @@
-<thinking> 
-The Optometry Consent Form Template is designed to collect informed consent from patients before undergoing optometry services. This form ensures that patients understand the risks and benefits associated with the services they are seeking, and that they have provided their informed consent for the treatment. It also helps optometrists to gather important information about the patient's medical history, allergies, and current medical conditions, as well as their insurance provider details. 
-
-This form typically requires the following fields to be completed:
-
-*   Patient Name
-*   Date of Birth
-*   Patient Address
-*   Phone Number
-*   Medical History
-*   Consent Status
-*   Optometry Services
-*   Allergies
-*   Medical Conditions
-*   Medications
-*   Medical Procedures
-*   Emergency Contact
-*   Consent Date
-*   Practice Name
-*   Practice Address
-*   Practice Phone
-*   Practice Website
-*   Insurance Provider
-*   Insurance Number
-*   Insurance Provider Phone
-*   Insurance Number Phone
-*   Emergency Contact Phone
-*   Emergency Contact Relationship
-*   Emergency Contact Alternate Phone
-*   Emergency Contact Alternate Name
-
-</thinking>
-
 # Optometry Consent Form Template - Help Guide
 
 ## Purpose

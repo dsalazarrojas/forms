@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect user information, including identification card consent, for administrative purposes. It's essential to ensure that users understand the form's purpose and provide valid consent. Before filling out the form, please make sure that you're not duplicating any previously provided information.
-</thinking>
-
 # Digital Identification Card Consent Form - Help Guide
 ## Purpose
 This form is a digital consent form to collect user information, including details about your identification card, for administrative purposes. You are agreeing to share your information with our team to process and verify your identification card.

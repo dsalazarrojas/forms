@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for acknowledging receipt of corrective training provided to employees in the organization. It ensures that the training has been received and understood by the trainee, and that the training facilitator has completed the required training hours. The form is used for internal tracking and record-keeping purposes, and should be completed by the trainee and the training facilitator after each training session. To avoid duplication, please ensure that the form is only completed once after each training session.
-
-</thinking>
-
 # Corrective Training Acknowledgment Form - Help Guide
 ## Purpose
 This form is used to acknowledge receipt of corrective training provided to employees in the organization. It ensures that the training has been received and understood by the trainee, and that the training facilitator has completed the required training hours.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information from users about their properties to provide tailored support and resources. It's intended for property owners or managers who want to inquire about innovation opportunities related to their properties. The form is used to collect general contact information, property details, and specific inquiries. It's essential to fill out the form accurately to ensure that the Property Innovation Hub can provide relevant support and services.
-
-This form is not intended to be used for marketing or promotional purposes. Please note that some fields are required for the form to be processed correctly. Ensure you complete all required fields to submit a successful inquiry.
-</thinking>
-
 # Property Innovation Hub Contact Form - Help Guide
 
 ## Purpose

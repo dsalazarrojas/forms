@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a carrier's profile, specifically for registration purposes. It should only be completed by carriers with a valid Carrier ID number. Please ensure you are authorized to access this form before proceeding. If you're not sure, contact your supervisor for clarification. 
-</thinking>
-
 # Carrier Profile Form - Help Guide
 ## Purpose
 

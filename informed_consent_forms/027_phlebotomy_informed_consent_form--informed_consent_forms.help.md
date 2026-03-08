@@ -1,7 +1,3 @@
-<thinking>
-This form is used for phlebotomy procedures, which involve the removal of blood samples from a patient for medical testing. The form ensures that patients understand the purpose and risks of the procedure, and that they give their informed consent. This form is used by medical staff to collect necessary information from patients and to document the consent process.
-</thinking>
-
 # Phlebotomy Informed Consent Form - Help Guide
 ## Purpose
 This form is used for phlebotomy procedures, which involve the removal of blood samples from a patient for medical testing. The form ensures that patients understand the purpose and risks of the procedure, and that they give their informed consent.

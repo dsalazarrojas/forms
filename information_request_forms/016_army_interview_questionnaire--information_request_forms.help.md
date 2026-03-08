@@ -1,17 +1,3 @@
-<thinking>
-To ensure the Army Interview Questionnaire form is being used correctly, let's clarify its purpose and the process to complete it. The form is designed to gather essential information about a candidate's background, skills, and motivation for joining the Army. By filling out this form, candidates can showcase their qualifications and interests, which will be used to assess their suitability for a career in the Army.
-
-To begin, the form is divided into several sections, each focusing on a specific aspect of the candidate's profile. The first section collects basic information such as full name, date of birth, email address, and phone number. The next section inquires about the candidate's educational background, work experience, and previous military experience. Candidates should select their highest level of education, years of professional work experience, and whether they have any previous military experience.
-
-The third section is about the candidate's career interest and motivation for joining the Army. This includes choosing a desired Army career field and explaining why they want to join the Army. Candidates should also provide a brief description of their long-term career goals.
-
-The fourth section focuses on the candidate's personal qualities and skills, such as their key strengths, leadership experience, and problem-solving approach. This is followed by a section on physical fitness and health, where candidates should select their current fitness level and mention any medical conditions or concerns they may have.
-
-Finally, the last section contains additional questions about the candidate's availability to start and willingness to relocate or deploy. Candidates should select when they are available to start and whether they are willing to relocate or deploy.
-
-By carefully filling out this form, candidates can demonstrate their qualifications, skills, and motivation for joining the Army, which will help in the selection process.
-</thinking>
-
 # Army Interview Questionnaire - Help Guide
 ## Purpose
 The Army Interview Questionnaire form is designed to gather essential information about a candidate's background, skills, and motivation for joining the Army. By filling out this form, candidates can showcase their qualifications and interests to assess their suitability for a career in the Army.

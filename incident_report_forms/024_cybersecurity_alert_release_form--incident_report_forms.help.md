@@ -1,7 +1,3 @@
-<thinking>
-This form is used to report and release cybersecurity incidents. It is essential to ensure that the incident is properly documented and released to the relevant teams and stakeholders. Before filling out this form, please ensure that you have not already reported and released this incident in the past to avoid duplication. Please complete the form carefully and accurately to ensure that all relevant information is captured.
-</thinking>
-
 # Cybersecurity Alert Release Form - Help Guide
 ## Purpose
 This form is used to report and release cybersecurity incidents to the relevant teams and stakeholders. It is essential to provide accurate and detailed information about the incident to ensure proper incident management and response.

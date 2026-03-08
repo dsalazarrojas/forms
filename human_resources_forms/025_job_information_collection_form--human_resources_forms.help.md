@@ -1,8 +1,3 @@
-<thinking>
-This form collects information about a job opportunity for an HR department to review and manage. 
-Before filling out the form, please ensure you have all the necessary information required and that the job opportunity has not been already posted. 
-</thinking>
-
 # Job Information Collection Form - Help Guide
 ## Purpose
 The Job Information Collection Form is used to gather essential details about a job opportunity to share with potential candidates and for internal HR purposes.

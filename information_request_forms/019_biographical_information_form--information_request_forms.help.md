@@ -1,7 +1,3 @@
-<thinking> 
-This form is intended to collect biographical information from individuals for various purposes such as background checks, data collection, or other administrative purposes. It is meant to capture personal details about the individual, including demographic information, contact details, and professional background. This form should not be filled out by proxy, and each person filling out the form should provide accurate and honest information. Please review each field carefully to ensure you are providing the correct information.
-</thinking>
-
 # Biographical Information Form - Help Guide
 ## Purpose
 The Biographical Information Form is a comprehensive collection of personal details that will be used to gather background information about you. This form is intended to collect your personal, professional, and contact information to ensure a thorough understanding of your identity.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect patient information for updates and revisions. It's essential to complete this form accurately to ensure that the patient's records are up-to-date and reflect their current status. Please note that this form is not intended for new patient registrations. Ensure that you have the necessary permissions and authorization to complete this form on behalf of the patient. To avoid duplication, please check with the patient's healthcare provider or the patient's medical records before filling out this form.
-</thinking>
-
 # Patient Information Update Form - Help Guide
 ## Purpose
 The Patient Information Update Form is used to collect and update patient information for existing patients. This form helps ensure that patient records are accurate and complete.

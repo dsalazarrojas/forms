@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for a Customer Incident Reporting Form, we need to consider a few things. First, we need to explain the form's purpose and how it will be used. This form is likely to be used by customers to report incidents or issues they have experienced with the company's products or services. It's used to capture information about the incident, including details about what happened, when it happened, and how it was resolved. We should also check if there's any overlap or duplication in the fields and ensure that all the required fields are correctly marked as required.
-</thinking>
-
 # Customer Incident Reporting Form - Help Guide
 
 ## Purpose

@@ -1,15 +1,3 @@
-<thinking>
-This guide assumes that the form is used to establish a mentoring relationship between two individuals, where one person is offering guidance and support to another person in a specific area of study or career. The form is designed to document the terms of this relationship, including the expected outcomes and the terms of the agreement. 
-
-The form may be completed by a mentor and a mentee (the person being mentored), and it serves as a formal record of their understanding of the mentoring relationship. 
-
-Before filling out this form, it is recommended that both parties review and understand the terms outlined in the form, and that they have a discussion about any questions or concerns they may have. 
-
-This form is not intended to be a legally binding contract, but rather a document that outlines the understanding and expectations of both parties.
-
-Please note that each field in this form has been designed to collect specific information to help establish a clear understanding of the mentoring relationship and its terms.
-</thinking>
-
 # Mentorship Agreement Form - Help Guide
 ## Purpose
 The Mentorship Agreement Form is used to establish a clear understanding between a mentor and a mentee about the terms of their mentoring relationship. This form helps ensure that both parties are on the same page and understand their roles and responsibilities.

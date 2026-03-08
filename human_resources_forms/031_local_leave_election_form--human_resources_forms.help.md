@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Local Leave Election Form - Help Guide
 ## Purpose
 This form is used to elect a leave option for an employee. It is used to record the employee's choice of leave type (e.g., vacation, sick, personal) and other relevant details such as category and assigned tool.

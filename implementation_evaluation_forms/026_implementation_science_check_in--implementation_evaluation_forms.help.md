@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from project team members about the implementation status of a project. It is meant to be used for implementation science check-ins, which are meetings or reviews where team members can provide updates on their project progress, challenges, and needs. This form will help to identify potential barriers, strategies, and support needs, as well as track project outcomes and quality improvement. It's a good idea to complete this form regularly to ensure that team members are on the same page and can adjust their approach as needed. Please make sure to check if you've completed this form recently, as the answers are likely to be similar or outdated. If you are unsure, you can start with a blank slate.</thinking>
-
 # Implementation Science Check In - Help Guide
 ## Purpose
 The Implementation Science Check In form is designed to gather information from project team members about the implementation status of a project. This form helps to identify potential barriers, strategies, and support needs, and track project outcomes and quality improvement.

@@ -1,9 +1,3 @@
-<thinking>
-The form is designed to collect information from domestic violence survivors to assess their situation and provide them with necessary support and services. Before filling out this form, make sure that you're in a safe and private environment where you can focus on your well-being. If you've already filled out this form, please note that you can skip it to avoid duplication of effort. 
-
-This guide will walk you through each section of the form and help you understand what each field is for. Please read carefully and take your time to fill out the form accurately.
-</thinking>
-
 # Domestic Violence Survivor Story Consent Form - Help Guide
 ## Purpose
 

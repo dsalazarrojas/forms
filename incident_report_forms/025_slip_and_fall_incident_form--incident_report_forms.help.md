@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Slip And Fall Incident Form - Help Guide
 ## Purpose
 This form is designed to collect information about slips and falls that occur within the workplace. It helps to document the incident, gather relevant details, and facilitate a thorough investigation.

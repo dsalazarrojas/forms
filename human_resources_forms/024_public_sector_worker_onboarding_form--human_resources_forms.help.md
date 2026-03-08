@@ -1,7 +1,3 @@
-<thinking>... This form is used to onboard a public sector worker, typically for government agencies or similar organizations. The form's primary purpose is to collect essential information about the worker, including their name, contact details, job title, department, and other relevant data. This form helps to streamline the onboarding process, ensuring that all necessary information is gathered in a standardized manner. It's essential that this form is completed carefully and accurately, as it will be used to create a record for the worker within the agency's HR system.
-
-</thinking>
-
 # Public Sector Worker Onboarding Form - Help Guide
 ## Purpose
 The Public Sector Worker Onboarding Form is designed to gather essential information about a new worker in a public sector agency or similar organization.

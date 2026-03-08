@@ -1,13 +1,3 @@
-<thinking>
-This form was created using public metadata from a public survey topic about "basketball" and "roster" and has been adapted into a new form with the title "Basketball Roster Form". It appears to be a form designed to collect information about a basketball team. The form has multiple fields for team identification, player details, and managerial information.
-
-To determine if this form is relevant and not duplicative, let's analyze its purpose:
-
-- The form seems to be used for collecting information about a basketball team, specifically the team's name, player details, and manager's contact information.
-- There might be similar forms used in the sports industry for collecting team information, but the specific combination of team identification, player details, and managerial information in this form is unique.
-- Given the form's purpose, it is likely to be used by sports teams, schools, or organizations to collect and manage team information.
-</thinking>
-
 # Basketball Roster Form - Help Guide
 ## Purpose
 The Basketball Roster Form is designed to collect information about a basketball team. It gathers details about the team's name, players, and manager's contact information, helping teams to create and manage their rosters effectively.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about incidents that occur within healthcare facilities. The form is used to report and document incidents that may have a significant impact on patient safety or facility operations. The purpose of this form is to ensure that incidents are properly reported and reviewed to maintain high standards of care and compliance with relevant regulations. This form should not be used for reporting minor incidents or routine events that do not require formal review. It is recommended that the form be filled out as soon as possible after an incident occurs to ensure accurate and timely reporting.
-</thinking>
-
 # healthcare_facility_incident_form - Help Guide
 ## Purpose
 This form is designed to collect information about incidents that occur within healthcare facilities.

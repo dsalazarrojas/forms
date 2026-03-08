@@ -1,7 +1,3 @@
-<thinking>
-This form is a crucial tool for managing online classes, and it's essential to understand its purpose and how to complete it accurately. To avoid any confusion or duplication, make sure you're familiar with the form's intended use case before proceeding.
-</thinking>
-
 # online_class_information_form - Help Guide
 ## Purpose
 The online_class_information_form is designed to collect relevant information about online classes, including student IDs, course details, and contact information. This data enables efficient management and organization of online classes.

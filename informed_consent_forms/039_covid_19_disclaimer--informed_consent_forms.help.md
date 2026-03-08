@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll first clarify the purpose and relevance of this form. This form, "COVID-19 Disclaimer," is crucial for businesses and establishments that offer services where clients might be at risk of exposure to COVID-19, such as salons, barber shops, spas, and other service-based industries. The form's primary goal is to ensure clients understand the risks associated with COVID-19 and take steps to mitigate these risks by acknowledging and agreeing to safety precautions and protocols. It's essential to complete this form honestly and carefully, as it helps protect both clients and service providers. To avoid duplication of effort, please ensure you only complete this form once for each visit or service received.</thinking>
-
 # COVID 19 Disclaimer - Help Guide
 ## Purpose
 The "COVID-19 Disclaimer" form is a critical part of our business's safety protocols, designed to inform and protect our clients and staff from the risks associated with COVID-19. By completing this form, you will declare your understanding of and agreement to take necessary precautions against COVID-19.

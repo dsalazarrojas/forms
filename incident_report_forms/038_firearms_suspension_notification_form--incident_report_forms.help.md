@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information regarding the suspension of firearms. The purpose of the form is to provide a structured way for firearm owners to notify relevant authorities about the suspension of their firearms. This form is likely used by law enforcement or government agencies to track and manage firearm suspensions. To ensure accuracy, please review the form carefully before submitting it.
-
-Before completing this form, please ensure that you are authorized to submit this form and that the information you provide is accurate and complete. If you are unsure about any of the fields or have concerns about submitting this form, please contact the relevant authorities for guidance.
-</thinking>
-
 # Firearms Suspension Notification Form - Help Guide
 ## Purpose
 The Firearms Suspension Notification Form is used to report the suspension of firearms to relevant authorities. This form provides a standardized way for firearm owners to notify authorities about the suspension of their firearms, ensuring that the information is accurate and easily tracked.

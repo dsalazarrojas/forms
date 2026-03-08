@@ -1,10 +1,3 @@
-<thinking>
-This form is used to capture requests for HR-related services from employees. The purpose of this form is to gather information about the services needed, the location where the services will be used, and other relevant details such as contact information and email. It is essential to ensure that the services requested are not already available within the company or being worked on, to avoid duplication of efforts.
-
-The form should not be completed multiple times for the same service or with the same request, as it may lead to delays or miscommunication.
-
-</thinking>
-
 # hr_service_request_form - Help Guide
 ## Purpose
 This form is used to submit a request for HR services to the HR department. Please fill out the form below to submit your request.

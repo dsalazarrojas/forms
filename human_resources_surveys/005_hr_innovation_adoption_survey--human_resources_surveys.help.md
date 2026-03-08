@@ -1,17 +1,3 @@
-<thinking>HR Innovation Adoption Survey - Purpose and Validation
-
-This form is designed to gather information about the adoption of various HR innovations by employees. The survey aims to understand the adoption rates, usage frequency, and benefits experienced by employees in relation to these innovations. It also seeks to identify any challenges encountered during the adoption and implementation phase.
-
-To ensure that each employee has a clear understanding of the form's purpose and relevance, we have implemented several internal validation checks:
-
-*   The form will only be made accessible to employees within the organization.
-*   Employees are allowed to skip questions that are not relevant to their job roles or departments.
-*   The form's purpose and relevance will be clearly communicated through this help guide and regular email reminders.
-
-Please refer to the below sections for detailed instructions on how to complete this form.
-
-</thinking>
-
 # HR Innovation Adoption Survey - Help Guide
 
 ## Purpose

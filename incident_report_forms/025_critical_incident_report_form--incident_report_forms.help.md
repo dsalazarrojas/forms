@@ -1,14 +1,3 @@
-<thinking>
-This form is likely designed for reporting and documenting critical incidents in a business or organizational setting. The purpose of this form is to gather information about a critical incident, including its category, date, time, location, description, cause, effect, and other relevant details. The form may be used by management or HR departments to track and analyze critical incidents, such as accidents, security breaches, or other significant events that affect the organization or its employees. This form is likely used for internal purposes only and is not intended for public consumption.
-
-To ensure accurate and efficient completion of this form, it is recommended to:
-- Verify that the incident is not a duplicate by checking the incident date and description.
-- Fill out the form as thoroughly as possible, especially the required fields.
-
-Please note that this form does not have any mandatory fields, so it's up to the reporter to decide what information to provide.
-
-</thinking>
-
 # Critical Incident Report Form - Help Guide
 ## Purpose
 The Critical Incident Report Form is designed to gather information about critical incidents that occur within the organization. It is used to track and analyze incidents such as accidents, security breaches, or other significant events.

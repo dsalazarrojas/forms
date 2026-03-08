@@ -1,7 +1,3 @@
-<thinking>
-The form "Report Storm Drain Issues In Your Community" is designed to help residents report problems or concerns related to storm drains in their community. This information is intended to help city or government officials identify and address potential issues before they become major problems. Before starting, please ensure you have not submitted a similar report recently, as this form is intended to be used for new, distinct issues.
-</thinking>
-
 # Report Storm Drain Issues In Your Community - Help Guide
 ## Purpose
 The purpose of this form is to gather information about storm drain issues in your community. This will help city or government officials identify and address problems before they become major concerns.

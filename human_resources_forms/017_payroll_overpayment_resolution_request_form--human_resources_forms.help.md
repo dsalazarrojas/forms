@@ -1,8 +1,3 @@
-<thinking>
-This form is used to request resolution for overpaid amounts on an employee's paycheck. Overpayments occur when an employee's paycheck is larger than their earned amount. To be eligible for resolution, the overpayment must be within a certain period of time from the original paycheck date. The overpayment resolution process helps ensure that employees receive accurate pay and prevents future discrepancies. 
-The overpayment resolution request form must be submitted within the specified time frame to ensure it is processed and resolved correctly. 
-</thinking>
-
 # Payroll Overpayment Resolution Request Form - Help Guide
 ## Purpose
 The Payroll Overpayment Resolution Request Form is used to request resolution of overpaid amounts on an employee's paycheck. It helps ensure accurate pay and prevents future discrepancies by providing a process for employees to request and address overpaid amounts within a specified time frame.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Address Information Request Form - Help Guide
 ## Purpose
 The Address Information Request Form is used to collect updated address details from customers. This form is essential for our internal records and is required for our follow-up process.
